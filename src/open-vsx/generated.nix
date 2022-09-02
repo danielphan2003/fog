@@ -13503,10 +13503,10 @@
   };
   lukashass-volar = {
     pname = "lukashass-volar";
-    version = "0.34.13";
+    version = "0.40.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lukashass/volar/0.34.13/file/lukashass.volar-0.34.13.vsix";
-      sha256 = "sha256-Xfi2V73pjXYJGDFgVMyUYWQAggolyal27r/eyrurq5c=";
+      url = "https://open-vsx.org/api/lukashass/volar/0.40.5/file/lukashass.volar-0.40.5.vsix";
+      sha256 = "sha256-Mi57gXxhCuLZpRLeP5If9L+yhOJ5xvZ/HE9XBNhMn1A=";
     };
     license = "MIT";
     name = "volar";
@@ -19203,10 +19203,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19491,10 +19491,10 @@
   };
   sorbet-sorbet-vscode-extension = {
     pname = "sorbet-sorbet-vscode-extension";
-    version = "0.3.14";
+    version = "0.3.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.14/file/sorbet.sorbet-vscode-extension-0.3.14.vsix";
-      sha256 = "sha256-L8fFdHaHBk4FZKi+O6u6XwfM/ozVStajLXWL5SMLcvI=";
+      url = "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.15/file/sorbet.sorbet-vscode-extension-0.3.15.vsix";
+      sha256 = "sha256-Tte4hP7Sf5EJvCSv5Sqgb+NGXGR7CHvHAnBHP+B5FqM=";
     };
     license = "Apache-2.0";
     name = "sorbet-vscode-extension";
@@ -21819,10 +21819,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.43.0";
+    version = "0.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.43.0/file/vscjava.vscode-java-debug-0.43.0.vsix";
-      sha256 = "sha256-XfOJ0kiwuYj++lWNnw9DqTo8BTuZkqPhMFeyvEZbp/Y=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.44.0/file/vscjava.vscode-java-debug-0.44.0.vsix";
+      sha256 = "sha256-8/H7rihSKAvXp8QxK949txgMKwt6aYVN4EQdwhphIiQ=";
     };
     license = "";
     name = "vscode-java-debug";
@@ -21855,10 +21855,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.37.0";
+    version = "0.37.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.37.0/file/vscjava.vscode-java-test-0.37.0.vsix";
-      sha256 = "sha256-KtUIWb2AuMDgScb0J9QzJ24muzKOCB6auYAQ8whKpwM=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.37.1/file/vscjava.vscode-java-test-0.37.1.vsix";
+      sha256 = "sha256-QpDMG+0RbiRY9YQYXQhA6ESBoIjBeUxq+bEZ1Y71oSM=";
     };
     license = "";
     name = "vscode-java-test";
