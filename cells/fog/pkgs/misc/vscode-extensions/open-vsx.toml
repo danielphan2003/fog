@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -9295,8 +9295,8 @@ fetch.url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.ag
 passthru = { publisher = "banacorn", name = "agda-mode", description = "agda-mode on vscode", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
-src.manual = "8.0.2842141" # eliostruyf.vscode-front-matter-beta
-fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2842141/file/eliostruyf.vscode-front-matter-beta-8.0.2842141.vsix" # eliostruyf.vscode-front-matter-beta
+src.manual = "8.0.2977459" # eliostruyf.vscode-front-matter-beta
+fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2977459/file/eliostruyf.vscode-front-matter-beta-8.0.2977459.vsix" # eliostruyf.vscode-front-matter-beta
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
@@ -10215,4 +10215,10 @@ passthru = { publisher = "onflow", name = "cadence", description = "This extensi
 
 
 
+
+
+[wicked-labs-old-serendipity]
+src.manual = "0.3.0" # wicked-labs.old-serendipity
+fetch.url = "https://open-vsx.org/api/wicked-labs/old-serendipity/0.3.0/file/wicked-labs.old-serendipity-0.3.0.vsix" # wicked-labs.old-serendipity
+passthru = { publisher = "wicked-labs", name = "old-serendipity", description = "Old and unconsistent version of Serendipity. No maintained but is here because some users wanted it.", license = "MIT" }
 

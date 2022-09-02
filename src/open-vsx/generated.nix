@@ -8871,10 +8871,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2842141";
+    version = "8.0.2977459";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2842141/file/eliostruyf.vscode-front-matter-beta-8.0.2842141.vsix";
-      sha256 = "sha256-SIMl6EpdxEv3FGwrkIuhTWzaJJi5CW0hPhX801nEcJE=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2977459/file/eliostruyf.vscode-front-matter-beta-8.0.2977459.vsix";
+      sha256 = "sha256-LdP4nBxR89aZwJdnje/954b9kHkuIyEybOk2PdV67CM=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -19637,8 +19637,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23195,6 +23195,18 @@
     license = "MIT";
     name = "malibu";
     description = "A retro theme inspired by the surfing days in Malibu beach";
+    publisher = "wicked-labs";
+  };
+  wicked-labs-old-serendipity = {
+    pname = "wicked-labs-old-serendipity";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wicked-labs/old-serendipity/0.3.0/file/wicked-labs.old-serendipity-0.3.0.vsix";
+      sha256 = "sha256-l7nKZTnlq0SdQVU0WUKo4RVQ/ZziKLO3tt/8ibjmFGk=";
+    };
+    license = "MIT";
+    name = "old-serendipity";
+    description = "Old and unconsistent version of Serendipity. No maintained but is here because some users wanted it.";
     publisher = "wicked-labs";
   };
   wicked-labs-sequoia = {
