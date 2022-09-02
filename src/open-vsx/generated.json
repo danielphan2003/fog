@@ -8815,6 +8815,25 @@
         },
         "version": "1.0.7"
     },
+    "arm-remote-build": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-remote-build",
+        "passthru": {
+            "description": "Undertake remote builds of projects for Arm Cortex-M based microcontrollers",
+            "license": "",
+            "name": "remote-build",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-BiVYf6gh99fMZ1sqFM4P+/RzaWDuEPZHYgcwVvSTc9o=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "armandphilippot-coldark": {
         "cargoLocks": null,
         "extract": null,
@@ -11108,11 +11127,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-E4OuB5CbbKnhi1M/HpJJNPwVqHJzgvc462nYN5NkNIE=",
+            "sha256": "sha256-lbSNUbhwPsc+/qkyOEJ7xz0vYmXVbHDQtfcl3+VRvNE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.0/file/chrisbibby.hide-node-modules-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.1/file/chrisbibby.hide-node-modules-1.1.1.vsix"
         },
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "chriscamicas-openedge-abl": {
         "cargoLocks": null,
@@ -16466,9 +16485,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },

@@ -5569,6 +5569,18 @@
     description = "Extension pack for Keil Studio development";
     publisher = "arm";
   };
+  arm-remote-build = {
+    pname = "arm-remote-build";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix";
+      sha256 = "sha256-BiVYf6gh99fMZ1sqFM4P+/RzaWDuEPZHYgcwVvSTc9o=";
+    };
+    license = "";
+    name = "remote-build";
+    description = "Undertake remote builds of projects for Arm Cortex-M based microcontrollers";
+    publisher = "arm";
+  };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
     version = "1.2.11";
@@ -7011,10 +7023,10 @@
   };
   chrisbibby-hide-node-modules = {
     pname = "chrisbibby-hide-node-modules";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.0/file/chrisbibby.hide-node-modules-1.1.0.vsix";
-      sha256 = "sha256-E4OuB5CbbKnhi1M/HpJJNPwVqHJzgvc462nYN5NkNIE=";
+      url = "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.1/file/chrisbibby.hide-node-modules-1.1.1.vsix";
+      sha256 = "sha256-lbSNUbhwPsc+/qkyOEJ7xz0vYmXVbHDQtfcl3+VRvNE=";
     };
     license = "MIT";
     name = "hide-node-modules";
@@ -10397,8 +10409,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";

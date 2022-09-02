@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9305,8 +9305,8 @@ fetch.url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.14/file/Sarru
 passthru = { publisher = "Sarrus", name = "sourcepawn-vscode", description = "SourcePawn highlighting, autocompletion and much more", license = "MIT" }
 
 [chrisbibby-hide-node-modules]
-src.manual = "1.1.0" # chrisbibby.hide-node-modules
-fetch.url = "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.0/file/chrisbibby.hide-node-modules-1.1.0.vsix" # chrisbibby.hide-node-modules
+src.manual = "1.1.1" # chrisbibby.hide-node-modules
+fetch.url = "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.1/file/chrisbibby.hide-node-modules-1.1.1.vsix" # chrisbibby.hide-node-modules
 passthru = { publisher = "chrisbibby", name = "hide-node-modules", description = "Show/Hide Node Modules within the Explorer view", license = "MIT" }
 
 [Zowe-zowe-explorer-ftp-extension]
@@ -10224,4 +10224,10 @@ passthru = { publisher = "wicked-labs", name = "old-serendipity", description = 
 
 
 
+
+
+[arm-remote-build]
+src.manual = "0.1.0" # arm.remote-build
+fetch.url = "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix" # arm.remote-build
+passthru = { publisher = "arm", name = "remote-build", description = "Undertake remote builds of projects for Arm Cortex-M based microcontrollers", license = "" }
 
