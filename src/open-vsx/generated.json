@@ -8733,11 +8733,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8UjZNyu87Bbvpy8tU2cizogiS8sM7/zgxhi/ZfuHmxg=",
+            "sha256": "sha256-IaGcxqQcSSdwXtxjY0UtENEblJt3tmXefYqj9mAN4OI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.4.0/file/arm.cmsis-csolution-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.4.1/file/arm.cmsis-csolution-0.4.1.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.4.1"
     },
     "arm-device-manager": {
         "cargoLocks": null,
@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
+            "sha256": "sha256-hfpEyTpYhm7XtPsRPYR3ejtJMIeUH0AUBP2sxb6bkdk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix"
         },
         "version": "1.0.7"
     },
@@ -20817,11 +20817,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -31096,9 +31096,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
