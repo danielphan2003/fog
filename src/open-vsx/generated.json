@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hfpEyTpYhm7XtPsRPYR3ejtJMIeUH0AUBP2sxb6bkdk=",
+            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
         },
         "version": "1.0.7"
     },
@@ -20342,11 +20342,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20855,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V+QccNb9UjQpRLhgxPLrJQe9mMveVd+I3qyx5DZxHp4=",
+            "sha256": "sha256-Hhnl/kEokn3rs8fOD7YrzEYNxFk/EEyDo4ntJEuJ8Bs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662063621/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662063621.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662083247/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662083247.vsix"
         },
-        "version": "2022.9.1662063621"
+        "version": "2022.9.1662083247"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -31096,9 +31096,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -32027,11 +32027,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZqytszvWsnKVvUK+lOCIU7jVandXqtEU2/VD4nM/GhI=",
+            "sha256": "sha256-pLER9ulQnQVEB+4G6T8nBkRY/bwNaU1qqNKJSrAxIT4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.3/file/t-codespaces.ide-data-sync-node-0.0.3.vsix"
         },
-        "version": "0.1.8"
+        "version": "0.0.3"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,

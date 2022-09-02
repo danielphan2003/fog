@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix";
-      sha256 = "sha256-hfpEyTpYhm7XtPsRPYR3ejtJMIeUH0AUBP2sxb6bkdk=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
+      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13167,10 +13167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662063621";
+    version = "2022.9.1662083247";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662063621/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662063621.vsix";
-      sha256 = "sha256-V+QccNb9UjQpRLhgxPLrJQe9mMveVd+I3qyx5DZxHp4=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662083247/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662083247.vsix";
+      sha256 = "sha256-Hhnl/kEokn3rs8fOD7YrzEYNxFk/EEyDo4ntJEuJ8Bs=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -19637,8 +19637,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -20223,10 +20223,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.1.8";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix";
-      sha256 = "sha256-ZqytszvWsnKVvUK+lOCIU7jVandXqtEU2/VD4nM/GhI=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.3/file/t-codespaces.ide-data-sync-node-0.0.3.vsix";
+      sha256 = "sha256-pLER9ulQnQVEB+4G6T8nBkRY/bwNaU1qqNKJSrAxIT4=";
     };
     license = "";
     name = "ide-data-sync-node";
