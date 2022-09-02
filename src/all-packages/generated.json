@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "8c3acb7adb8ee5bd23cb0e7bd6cf642018df4ed7",
-            "sha256": "sha256-7H9lf+Q995oVo7REssAEjhpn9tcfGIK917YBqf2smHY=",
+            "rev": "6226d0442f324d1c6adc9e2e87684d45a5edc900",
+            "sha256": "sha256-UDlJbDNEj9cTJKwnbeGFYjI2SR6S0i7UIgcOlGoD/Jk=",
             "type": "github"
         },
-        "version": "8c3acb7adb8ee5bd23cb0e7bd6cf642018df4ed7"
+        "version": "6226d0442f324d1c6adc9e2e87684d45a5edc900"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2199,11 +2199,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "43ab2b48853796f20715b1c883c3b4a7e6e95de2",
-            "sha256": "sha256-ogae3rBz6LQi2GgCConqfKxv8b0N+DCC4pxH1nb18Cs=",
+            "rev": "70cfd0ab2b36a3de4773f36c3cc3d0b4dc0705ad",
+            "sha256": "sha256-ZuRWQs53046DLRTMBYNIBmcN4J2PBJg2tFR/u8YPEoE=",
             "type": "github"
         },
-        "version": "43ab2b48853796f20715b1c883c3b4a7e6e95de2"
+        "version": "70cfd0ab2b36a3de4773f36c3cc3d0b4dc0705ad"
     },
     "wgcf": {
         "cargoLocks": null,
