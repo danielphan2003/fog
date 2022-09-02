@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "005c5a63823b19382aa918f1e1f3288e66446225";
+    version = "66476d8c8f6010f19fb65bac7758c6fd2824e231";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "005c5a63823b19382aa918f1e1f3288e66446225";
+      rev = "66476d8c8f6010f19fb65bac7758c6fd2824e231";
       fetchSubmodules = false;
-      sha256 = "sha256-kbIjk/Om6v+c47vk5+IdQsovI5bze/eGL9B5M9iA2v0=";
+      sha256 = "sha256-lb57EXol+Y8AbHr1HhJLXXiQXnD7Ovo/iHe2dEeJFrg=";
     });
   };
   cinny = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5d09bb647bb698d3a6cb25aeb01abb1f0522f5c6";
+    version = "0ea96e87c00f15eefbe11916842a4d0bf86c3154";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "5d09bb647bb698d3a6cb25aeb01abb1f0522f5c6";
+      rev = "0ea96e87c00f15eefbe11916842a4d0bf86c3154";
       fetchSubmodules = false;
-      sha256 = "sha256-NF+GuBNQqjDGJ7G4+gqXK74oeav20MQ96/MZlHRNYb0=";
+      sha256 = "sha256-u/ODhSxGNYSFqFw3yLhjb3bxmifQXm57GfuWvoy4cg0=";
     });
   };
   ibus = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8f14143859b7e09f2aee5f63d73f0ce6713d7f30";
+    version = "654203be0a3d8e3c321f2bdf4a525f075067bf39";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8f14143859b7e09f2aee5f63d73f0ce6713d7f30";
+      rev = "654203be0a3d8e3c321f2bdf4a525f075067bf39";
       fetchSubmodules = false;
-      sha256 = "sha256-xAqJAfgrbyEno8180nWgestainHpvul4k20dIoLqFXI=";
+      sha256 = "sha256-8Zp9UpJXZwMmJHZ60u5/VM6y+0Coa036FEl8FyBBJHc=";
     });
   };
   revanced-cli = {
