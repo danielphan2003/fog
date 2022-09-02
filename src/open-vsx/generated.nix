@@ -3303,10 +3303,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.35.0";
+    version = "2.35.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.0/file/RokuCommunity.brightscript-2.35.0.vsix";
-      sha256 = "sha256-1o+XQf/BprOMtxcbG77dhT1S89rSuimMZru3g8WLfJg=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.1/file/RokuCommunity.brightscript-2.35.1.vsix";
+      sha256 = "sha256-YEy8hKLzrQ66/oNwDs9m15/2KxEORLE/vVJ75ko6Pp4=";
     };
     license = "MIT";
     name = "brightscript";
@@ -5307,10 +5307,10 @@
   };
   anweber-httpbook-grid = {
     pname = "anweber-httpbook-grid";
-    version = "3.1.3";
+    version = "3.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.1.3/file/anweber.httpbook-3.1.3.vsix";
-      sha256 = "sha256-8Mi/WohPmKTDY0plHh0Xc9tHTbJbfJrXsY8QiAE7HXw=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.1.4/file/anweber.httpbook-3.1.4.vsix";
+      sha256 = "sha256-6KxzfiRFjZ2jkbZAu8cYdTr+5GrvMgPH9UOaEVmmDBE=";
     };
     license = "MIT";
     name = "httpbook-grid";
@@ -5319,10 +5319,10 @@
   };
   anweber-httpbook-monacorenderer = {
     pname = "anweber-httpbook-monacorenderer";
-    version = "3.1.3";
+    version = "3.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.1.3/file/anweber.httpbook-3.1.3.vsix";
-      sha256 = "sha256-8Mi/WohPmKTDY0plHh0Xc9tHTbJbfJrXsY8QiAE7HXw=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.1.4/file/anweber.httpbook-3.1.4.vsix";
+      sha256 = "sha256-6KxzfiRFjZ2jkbZAu8cYdTr+5GrvMgPH9UOaEVmmDBE=";
     };
     license = "MIT";
     name = "httpbook-monacorenderer";
@@ -5343,10 +5343,10 @@
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
-    version = "2.4.0";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.4.0/file/anweber.statusbar-commands-2.4.0.vsix";
-      sha256 = "sha256-zDoWY7D1+QmU07K4Ql5hZL93BjKD1huY5XjztO7rzkU=";
+      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.5.0/file/anweber.statusbar-commands-2.5.0.vsix";
+      sha256 = "sha256-fG0XOIkO80Xy5rtSJz4fuE+nflPSoSZL+V8voHG4IrQ=";
     };
     license = "ISC";
     name = "statusbar-commands";
@@ -12855,10 +12855,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13179,10 +13179,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662137702";
+    version = "2022.9.1662150115";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662137702/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662137702.vsix";
-      sha256 = "sha256-icP5rcuTGJUZ433sdelMFsNW+8Ucry6njvdiNRlrd8U=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662150115/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662150115.vsix";
+      sha256 = "sha256-ttAMvIP/HXVvvPSGUy2lt89JBgnBry20tNyo5UWf8S8=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -15603,10 +15603,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.27";
+    version = "1.1.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.27/file/mutable-ai.mutable-ai-1.1.27.vsix";
-      sha256 = "sha256-3MMb0Whh7ZigkTeiDKj9AQJdYkNJC2KXpYwXmxKJyaE=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.28/file/mutable-ai.mutable-ai-1.1.28.vsix";
+      sha256 = "sha256-2G8v6SlmSJCxr/9Dm2fU3mjrIBSjwnbHlLfzVJderIY=";
     };
     license = "";
     name = "mutable-ai";
