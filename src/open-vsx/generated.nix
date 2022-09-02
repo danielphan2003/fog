@@ -8871,10 +8871,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2977459";
+    version = "8.0.2978800";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2977459/file/eliostruyf.vscode-front-matter-beta-8.0.2977459.vsix";
-      sha256 = "sha256-LdP4nBxR89aZwJdnje/954b9kHkuIyEybOk2PdV67CM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2978800/file/eliostruyf.vscode-front-matter-beta-8.0.2978800.vsix";
+      sha256 = "sha256-WpAVn1XyDkdzJrKzkH7ECyikL3NVX5P9LJLFH68/umI=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10397,8 +10397,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11787,10 +11787,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022083013";
+    version = "0.1.2022090211";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022083013/file/jbangdev.jbang-vscode-0.1.2022083013.vsix";
-      sha256 = "sha256-h0H2uLxWqg352fXrT5Kv7oOr480EuMOO6pIHCQp/Ccs=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090211/file/jbangdev.jbang-vscode-0.1.2022090211.vsix";
+      sha256 = "sha256-lzqtBazPiTLs6YtaA0rxv3LV0pfKdfl8duXL2J0ciCw=";
     };
     license = "MIT";
     name = "jbang-vscode";
