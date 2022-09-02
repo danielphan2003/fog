@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "d5eb78f881d3931db7b83d6410f89e321f2c022c";
+    version = "8ecd3320f73644f13b86d0c8409b0ae30b2a853c";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "d5eb78f881d3931db7b83d6410f89e321f2c022c";
+      rev = "8ecd3320f73644f13b86d0c8409b0ae30b2a853c";
       fetchSubmodules = false;
-      sha256 = "sha256-QlTUFVHv0MxYMobAITpwnfi3hnkQs2MyUJgIMd7Oimo=";
+      sha256 = "sha256-tro3bL2nF/UmmMB9dA50K30EcsO8g4nHewTZWG8s1g0=";
     });
   };
   godu = {
