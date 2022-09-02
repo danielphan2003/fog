@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix";
-      sha256 = "sha256-hfpEyTpYhm7XtPsRPYR3ejtJMIeUH0AUBP2sxb6bkdk=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
+      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -13143,10 +13143,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -24099,10 +24099,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

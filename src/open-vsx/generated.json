@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hfpEyTpYhm7XtPsRPYR3ejtJMIeUH0AUBP2sxb6bkdk=",
+            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
         },
         "version": "1.0.7"
     },
@@ -20817,11 +20817,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -38164,11 +38164,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
