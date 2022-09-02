@@ -10397,8 +10397,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -13179,10 +13179,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662083247";
+    version = "2022.9.1662137702";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662083247/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662083247.vsix";
-      sha256 = "sha256-Hhnl/kEokn3rs8fOD7YrzEYNxFk/EEyDo4ntJEuJ8Bs=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662137702/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662137702.vsix";
+      sha256 = "sha256-icP5rcuTGJUZ433sdelMFsNW+8Ucry6njvdiNRlrd8U=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -19357,6 +19357,18 @@
     description = "A convenient way of creating, duplicating, moving, renaming and deleting files and directories.";
     publisher = "sleistner";
   };
+  slevesque-shader = {
+    pname = "slevesque-shader";
+    version = "1.1.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/slevesque/shader/1.1.5/file/slevesque.shader-1.1.5.vsix";
+      sha256 = "sha256-QzqQ/5H08nJPLGwXZKWdCUUqblAe0umYSQbUtEOZNyg=";
+    };
+    license = "LICENSE.md";
+    name = "shader";
+    description = "Syntax highlighter for shader language (hlsl, glsl, cg) ";
+    publisher = "slevesque";
+  };
   slevesque-vscode-3dviewer = {
     pname = "slevesque-vscode-3dviewer";
     version = "0.2.2";
@@ -19649,8 +19661,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
