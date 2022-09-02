@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
-      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
+      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -1275,10 +1275,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.48.1";
+    version = "0.50.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.48.1/file/GitHub.vscode-pull-request-github-0.48.1.vsix";
-      sha256 = "sha256-ZjoipXl68fKyGbW98jYS0Ro70etuSh7GjiOyWyVATzE=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.50.0/file/GitHub.vscode-pull-request-github-0.50.0.vsix";
+      sha256 = "sha256-jTQ2DZVfEJ22xPfABU/yJMrDnaqTxDEScEY7y1UVN+E=";
     };
     license = "MIT";
     name = "vscode-pull-request-github";
@@ -3531,10 +3531,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.3121";
+    version = "2022.9.115";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.3121/file/Slint.slint-nightly-2022.8.3121.vsix";
-      sha256 = "sha256-gFFqwCg7zf8RtRoKTkbau4Oa4V6Ow8VT4o8w68D1UxQ=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.115/file/Slint.slint-nightly-2022.9.115.vsix";
+      sha256 = "sha256-OiixkPpJRPElMtJ3nSFM+ZOuragybvAGupdn36ol3E0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -8691,10 +8691,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.2.0";
+    version = "12.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.2.0/file/eamodio.gitlens-12.2.0.vsix";
-      sha256 = "sha256-ZEqk3BMEjigIQkay6bP+DK1y4McpG2uvUeI0duIRGxw=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.2.1/file/eamodio.gitlens-12.2.1.vsix";
+      sha256 = "sha256-JtIZSvmdsLESIvWZ6OqJtUuMn604NzkAoBmRwYjayyo=";
     };
     license = "MIT";
     name = "gitlens";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13143,10 +13143,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -14871,10 +14871,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.12.1";
+    version = "2022.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.12.1/file/ms-python.python-2022.12.1.vsix";
-      sha256 = "sha256-TQZTMhxE29owHcVuL3PyS5hIbVdru+NQqD9GM0fgzcw=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.14.0/file/ms-python.python-2022.14.0.vsix";
+      sha256 = "sha256-XAyrs6imJP3/vJUYw9anzHG0l+H3o4xjpLYpTww6W64=";
     };
     license = "MIT";
     name = "python";
@@ -20331,10 +20331,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.18.0/file/tamasfe.even-better-toml-0.18.0.vsix";
-      sha256 = "sha256-n4f1ryRhoDgnA37ur6x6IqyBKaxFaWB2Rx89wUFm0/w=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.18.1/file/tamasfe.even-better-toml-0.18.1.vsix";
+      sha256 = "sha256-t2026QHDFwyikz+JGh84UI1Ir/S9rrohMB0lAC18eqY=";
     };
     license = "MIT";
     name = "even-better-toml";

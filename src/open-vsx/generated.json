@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
+            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -2026,11 +2026,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZjoipXl68fKyGbW98jYS0Ro70etuSh7GjiOyWyVATzE=",
+            "sha256": "sha256-jTQ2DZVfEJ22xPfABU/yJMrDnaqTxDEScEY7y1UVN+E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.48.1/file/GitHub.vscode-pull-request-github-0.48.1.vsix"
+            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.50.0/file/GitHub.vscode-pull-request-github-0.50.0.vsix"
         },
-        "version": "0.48.1"
+        "version": "0.50.0"
     },
     "GitLab-gitlab-workflow": {
         "cargoLocks": null,
@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gFFqwCg7zf8RtRoKTkbau4Oa4V6Ow8VT4o8w68D1UxQ=",
+            "sha256": "sha256-OiixkPpJRPElMtJ3nSFM+ZOuragybvAGupdn36ol3E0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.3121/file/Slint.slint-nightly-2022.8.3121.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.115/file/Slint.slint-nightly-2022.9.115.vsix"
         },
-        "version": "2022.8.3121"
+        "version": "2022.9.115"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -13768,11 +13768,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZEqk3BMEjigIQkay6bP+DK1y4McpG2uvUeI0duIRGxw=",
+            "sha256": "sha256-JtIZSvmdsLESIvWZ6OqJtUuMn604NzkAoBmRwYjayyo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eamodio/gitlens/12.2.0/file/eamodio.gitlens-12.2.0.vsix"
+            "url": "https://open-vsx.org/api/eamodio/gitlens/12.2.1/file/eamodio.gitlens-12.2.1.vsix"
         },
-        "version": "12.2.0"
+        "version": "12.2.1"
     },
     "eamodio-tsl-problem-matcher": {
         "cargoLocks": null,
@@ -20342,11 +20342,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20817,11 +20817,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -23553,11 +23553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TQZTMhxE29owHcVuL3PyS5hIbVdru+NQqD9GM0fgzcw=",
+            "sha256": "sha256-XAyrs6imJP3/vJUYw9anzHG0l+H3o4xjpLYpTww6W64=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-python/python/2022.12.1/file/ms-python.python-2022.12.1.vsix"
+            "url": "https://open-vsx.org/api/ms-python/python/2022.14.0/file/ms-python.python-2022.14.0.vsix"
         },
-        "version": "2022.12.1"
+        "version": "2022.14.0"
     },
     "ms-toolsai-jupyter-keymap": {
         "cargoLocks": null,
@@ -32198,11 +32198,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n4f1ryRhoDgnA37ur6x6IqyBKaxFaWB2Rx89wUFm0/w=",
+            "sha256": "sha256-t2026QHDFwyikz+JGh84UI1Ir/S9rrohMB0lAC18eqY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.18.0/file/tamasfe.even-better-toml-0.18.0.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.18.1/file/tamasfe.even-better-toml-0.18.1.vsix"
         },
-        "version": "0.18.0"
+        "version": "0.18.1"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,
