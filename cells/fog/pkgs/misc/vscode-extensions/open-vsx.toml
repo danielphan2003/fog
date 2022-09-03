@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9875,8 +9875,8 @@ fetch.url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.1/fil
 passthru = { publisher = "NomicFoundation", name = "hardhat-solidity", description = "Solidity and Hardhat support for Visual Studio Code", license = "MIT" }
 
 [shufo-vscode-blade-formatter]
-src.manual = "0.17.3" # shufo.vscode-blade-formatter
-fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.3/file/shufo.vscode-blade-formatter-0.17.3.vsix" # shufo.vscode-blade-formatter
+src.manual = "0.17.4" # shufo.vscode-blade-formatter
+fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.4/file/shufo.vscode-blade-formatter-0.17.4.vsix" # shufo.vscode-blade-formatter
 passthru = { publisher = "shufo", name = "vscode-blade-formatter", description = "Laravel Blade formatter for VSCode", license = "MIT" }
 
 [Catppuccin-catppuccin-vsc]
@@ -10258,6 +10258,7 @@ passthru = { publisher = "hadesarchitect", name = "helloworld-web-sample", descr
 src.manual = "0.6.0-8" # hadesarchitect.katapod
 fetch.url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix" # hadesarchitect.katapod
 passthru = { publisher = "hadesarchitect", name = "katapod", description = "", license = "Apache-2.0" }
+
 
 
 
