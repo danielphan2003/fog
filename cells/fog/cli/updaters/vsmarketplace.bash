@@ -1,9 +1,11 @@
 pname="vsmarketplace"
 desc="VS Code extensions - Visual Studio Marketplace"
-package_meta_file="${1:-"$PKGS_PATH/misc/vscode-extensions/$pname"}.toml"
+package_meta_file="$PKGS_PATH/misc/vscode-extensions/$pname.toml"
 package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
 count=0
+batch_count=0
+max_count="${1:-1000}"
 
 function parseMeta() {
   meta_file="$FOG_CACHE/$pname.json"
@@ -50,7 +52,15 @@ function parseMeta() {
       .results[0].extensions[] | .publisher.publisherName, .extensionName, .versions[0].version, .versions[0].files[0].source, (.shortDescription // "" | tojson)
     ' "$meta_file" | \
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
+      if [ "$(( 1000 * batch_count + count ))" -ge "$max_count" ]]; then
+        continue
+      fi
+
       count="$(( count + 1 ))"
+      
+      if [ "$count" -eq 1000 ]; then
+        batch_count="$(( batch_count + 1 ))"
+      fi
 
       namespace_cleaned="$namespace"
       if [[ $namespace =~ ^[[:digit:]] ]]; then
