@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.15.1";
+    version = "9.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.15.1/file/YXL.cloudmusic-9.15.1.vsix";
-      sha256 = "sha256-e4Pj7YHIJ84HJenmQyrMYwBU3jZvN4SAHhpUdou785g=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.0/file/YXL.cloudmusic-9.16.0.vsix";
+      sha256 = "sha256-5Yc2OPpziiXvLTVWJ9gebKZxP/R7q1vz/TnJ1zW2ch0=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -5547,10 +5547,10 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
-      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
+      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
     };
     license = "MIT";
     name = "keil-studio-pack";
@@ -5559,10 +5559,10 @@
   };
   arm-keil-studio-pack-web = {
     pname = "arm-keil-studio-pack-web";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
-      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
+      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10409,8 +10409,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10421,8 +10421,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
+      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -10524,6 +10524,30 @@
     name = "katscript";
     description = "Syntax highlighting for KatScript";
     publisher = "gwoptics";
+  };
+  hadesarchitect-helloworld-web-sample = {
+    pname = "hadesarchitect-helloworld-web-sample";
+    version = "0.0.1-test";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hadesarchitect/helloworld-web-sample/0.0.1-test/file/hadesarchitect.helloworld-web-sample-0.0.1-test.vsix";
+      sha256 = "sha256-G8hmdF/gnTPu9IrCecK0bFdT4zyCylQfPNncIRoOIUY=";
+    };
+    license = "MIT";
+    name = "helloworld-web-sample";
+    description = "HelloWorld example for VS Code in the browser";
+    publisher = "hadesarchitect";
+  };
+  hadesarchitect-katapod = {
+    pname = "hadesarchitect-katapod";
+    version = "0.6.0-6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-6/file/hadesarchitect.katapod-0.6.0-6.vsix";
+      sha256 = "sha256-vHVEgp7jJale0MxDlvwLabo862hdBcGr0TTtfLQK4lc=";
+    };
+    license = "Apache-2.0";
+    name = "katapod";
+    description = "";
+    publisher = "hadesarchitect";
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
@@ -24135,10 +24159,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";

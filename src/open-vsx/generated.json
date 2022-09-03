@@ -6681,11 +6681,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e4Pj7YHIJ84HJenmQyrMYwBU3jZvN4SAHhpUdou785g=",
+            "sha256": "sha256-5Yc2OPpziiXvLTVWJ9gebKZxP/R7q1vz/TnJ1zW2ch0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.15.1/file/YXL.cloudmusic-9.15.1.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.0/file/YXL.cloudmusic-9.16.0.vsix"
         },
-        "version": "9.15.1"
+        "version": "9.16.0"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -8790,11 +8790,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
+            "sha256": "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "arm-keil-studio-pack-web": {
         "cargoLocks": null,
@@ -8809,11 +8809,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
+            "sha256": "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "arm-remote-build": {
         "cargoLocks": null,
@@ -16485,9 +16485,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16504,9 +16504,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16523,9 +16523,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16661,6 +16661,44 @@
             "url": "https://open-vsx.org/api/gwoptics/katscript/0.2.0/file/gwoptics.katscript-0.2.0.vsix"
         },
         "version": "0.2.0"
+    },
+    "hadesarchitect-helloworld-web-sample": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "hadesarchitect-helloworld-web-sample",
+        "passthru": {
+            "description": "HelloWorld example for VS Code in the browser",
+            "license": "MIT",
+            "name": "helloworld-web-sample",
+            "publisher": "hadesarchitect"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-G8hmdF/gnTPu9IrCecK0bFdT4zyCylQfPNncIRoOIUY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/hadesarchitect/helloworld-web-sample/0.0.1-test/file/hadesarchitect.helloworld-web-sample-0.0.1-test.vsix"
+        },
+        "version": "0.0.1-test"
+    },
+    "hadesarchitect-katapod": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "hadesarchitect-katapod",
+        "passthru": {
+            "description": "",
+            "license": "Apache-2.0",
+            "name": "katapod",
+            "publisher": "hadesarchitect"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-vHVEgp7jJale0MxDlvwLabo862hdBcGr0TTtfLQK4lc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-6/file/hadesarchitect.katapod-0.6.0-6.vsix"
+        },
+        "version": "0.6.0-6"
     },
     "halcyontechltd-code-for-ibmi": {
         "cargoLocks": null,
@@ -38221,11 +38259,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
