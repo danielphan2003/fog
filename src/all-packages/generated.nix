@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "66476d8c8f6010f19fb65bac7758c6fd2824e231";
+    version = "d6b3c7d2623d9a809abda367fb93dc48b0ba7d7c";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "66476d8c8f6010f19fb65bac7758c6fd2824e231";
+      rev = "d6b3c7d2623d9a809abda367fb93dc48b0ba7d7c";
       fetchSubmodules = false;
-      sha256 = "sha256-lb57EXol+Y8AbHr1HhJLXXiQXnD7Ovo/iHe2dEeJFrg=";
+      sha256 = "sha256-LmUrw9sAq7+gToGfkBXXCQPAagUmvvUbVUDouJWbFRw=";
     });
   };
   cinny = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0ea96e87c00f15eefbe11916842a4d0bf86c3154";
+    version = "eee0cad4d0e58f145432bdcd6dde0b070cd73f14";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "0ea96e87c00f15eefbe11916842a4d0bf86c3154";
+      rev = "eee0cad4d0e58f145432bdcd6dde0b070cd73f14";
       fetchSubmodules = false;
-      sha256 = "sha256-u/ODhSxGNYSFqFw3yLhjb3bxmifQXm57GfuWvoy4cg0=";
+      sha256 = "sha256-ShMRiaV3m7j1H+Q8i9r5LE/sMQljtI5yHR/WUCztySI=";
     });
   };
   ibus = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "105.0.1343.23";
+    version = "105.0.1343.27";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.23-1_amd64.deb";
-      sha256 = "sha256-68ZcWAunoBO7vG530fb8B+N0QpcoRRv13ocu/odnZZU=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.27-1_amd64.deb";
+      sha256 = "sha256-2gM3dnC/Rm/lJSTwBWPPEKQ/D3W6WOsGDDgNWWjACzg=";
     };
   };
   microsoft-edge-dev = {
@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "105.0.1343.25";
+    version = "105.0.1343.27";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.25-1_amd64.deb";
-      sha256 = "sha256-pEr34TXpWuZpoY6A5IISJFlGFzZOe20bSXYam2/9WF0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.27-1_amd64.deb";
+      sha256 = "sha256-VZx6QF0oRVT7EKZk4lOm8zf3TAotJg3QNKB9RDpR1Js=";
     };
   };
   minecraft-wayland = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "654203be0a3d8e3c321f2bdf4a525f075067bf39";
+    version = "bea2eb719b5858ed580f37ee7817efde991fb5c1";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "654203be0a3d8e3c321f2bdf4a525f075067bf39";
+      rev = "bea2eb719b5858ed580f37ee7817efde991fb5c1";
       fetchSubmodules = false;
-      sha256 = "sha256-8Zp9UpJXZwMmJHZ60u5/VM6y+0Coa036FEl8FyBBJHc=";
+      sha256 = "sha256-t+hEdEZh4Ds0JuXPE1Pln8OD4pLMN7o6l0lRMrf3vJg=";
     });
   };
   revanced-cli = {
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a0bae4dac8c195a7c81fe59fde04d6ff4b8ef9f0";
+    version = "3344c3b89bd105231db7d2409a5b1564ed4130e9";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a0bae4dac8c195a7c81fe59fde04d6ff4b8ef9f0";
+      rev = "3344c3b89bd105231db7d2409a5b1564ed4130e9";
       fetchSubmodules = false;
-      sha256 = "sha256-nJDovMoZMW1Y5Mv+M4tjwXqR6A6kk6AzfpTEC6XUSBM=";
+      sha256 = "sha256-tanMShc44lUPenfVZUPKyIYphfQSTEUzYMlQWmQohRc=";
     });
   };
   tailscale-systray = {
