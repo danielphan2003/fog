@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "ca2aa03afca730cfa2d47961a4c21d774dedd2ec",
-            "sha256": "sha256-VvkrxtBiaEq3Yb0S3hLYOHbwQ/DR0cqGEFnt+vZkH74=",
+            "rev": "3c106a42339ac4e8f2a02eafde5eda24429ffa9d",
+            "sha256": "sha256-YI/IXNxWFrqZDDutuACTyEafTjMxVX9z99Gb7t5927M=",
             "type": "github"
         },
-        "version": "ca2aa03afca730cfa2d47961a4c21d774dedd2ec"
+        "version": "3c106a42339ac4e8f2a02eafde5eda24429ffa9d"
     },
     "caddy": {
         "cargoLocks": null,
@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-956f96fd76cff7af5bf7207f2e6deb24e5f8bf17/Cargo.lock",
+                "./eww-9e3df8be3be7d54b5a93ec780c1d8444b0ac1cde/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "956f96fd76cff7af5bf7207f2e6deb24e5f8bf17",
-            "sha256": "sha256-AjAgsEAP35VxUsSUTM+N94GTOpsnzS4twvoQP2f0D+w=",
+            "rev": "9e3df8be3be7d54b5a93ec780c1d8444b0ac1cde",
+            "sha256": "sha256-y49ixl7nJhdu9qGiyCujrPUdMKg1ewLxWYTdOAZuB8Y=",
             "type": "github"
         },
-        "version": "956f96fd76cff7af5bf7207f2e6deb24e5f8bf17"
+        "version": "9e3df8be3be7d54b5a93ec780c1d8444b0ac1cde"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
