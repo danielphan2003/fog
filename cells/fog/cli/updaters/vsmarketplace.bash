@@ -52,7 +52,7 @@ function parseMeta() {
       .results[0].extensions[] | .publisher.publisherName, .extensionName, .versions[0].version, .versions[0].files[0].source, (.shortDescription // "" | tojson)
     ' "$meta_file" | \
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
-      if [ "$(( 1000 * batch_count + count ))" -ge "$max_count" ]]; then
+      if [ "$(( 1000 * batch_count + count ))" -ge "$max_count" ]; then
         continue
       fi
 
