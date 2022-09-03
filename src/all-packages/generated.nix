@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "bea2eb719b5858ed580f37ee7817efde991fb5c1";
+    version = "5d36d803183f887016f7fd8380bb150c3c30d0b9";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "bea2eb719b5858ed580f37ee7817efde991fb5c1";
+      rev = "5d36d803183f887016f7fd8380bb150c3c30d0b9";
       fetchSubmodules = false;
-      sha256 = "sha256-t+hEdEZh4Ds0JuXPE1Pln8OD4pLMN7o6l0lRMrf3vJg=";
+      sha256 = "sha256-XYYsTUvfNwG4I1otFrUHTUgy6zxQB00gWHSy0/qyIYI=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.50.3";
+    version = "2.50.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.3/revanced-patches-2.50.3.jar";
-      sha256 = "sha256-KS5TslqmTGhqBSKpZKhsla2NvWW4ABuqbmF19RgZ0s0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.4/revanced-patches-2.50.4.jar";
+      sha256 = "sha256-TUDjhR2GPPl4pzMM3lXqUJEeNLYMVoBV2DfDaDArh5g=";
     };
   };
   rofi-wayland = {
@@ -998,16 +998,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "4bdc205fca189e2d3e8207d2a68c0dd9c166429d";
+    version = "6aa0019f8dcfe8034aba5d155628c83fd5d57f42";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "4bdc205fca189e2d3e8207d2a68c0dd9c166429d";
+      rev = "6aa0019f8dcfe8034aba5d155628c83fd5d57f42";
       fetchSubmodules = false;
-      sha256 = "sha256-21PHplA0PGdXXakyt+50KFJHLpMvSBUqHnIxdYNnaB4=";
+      sha256 = "sha256-8avqXMz/OKv9kwL4v21KguKo8ublSoLvqhBd6iT2a3Q=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-4bdc205fca189e2d3e8207d2a68c0dd9c166429d/Cargo.lock;
+      lockFile = ./rustdesk-server-6aa0019f8dcfe8034aba5d155628c83fd5d57f42/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";

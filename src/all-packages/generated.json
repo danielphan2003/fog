@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "bea2eb719b5858ed580f37ee7817efde991fb5c1",
-            "sha256": "sha256-t+hEdEZh4Ds0JuXPE1Pln8OD4pLMN7o6l0lRMrf3vJg=",
+            "rev": "5d36d803183f887016f7fd8380bb150c3c30d0b9",
+            "sha256": "sha256-XYYsTUvfNwG4I1otFrUHTUgy6zxQB00gWHSy0/qyIYI=",
             "type": "github"
         },
-        "version": "bea2eb719b5858ed580f37ee7817efde991fb5c1"
+        "version": "5d36d803183f887016f7fd8380bb150c3c30d0b9"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KS5TslqmTGhqBSKpZKhsla2NvWW4ABuqbmF19RgZ0s0=",
+            "sha256": "sha256-TUDjhR2GPPl4pzMM3lXqUJEeNLYMVoBV2DfDaDArh5g=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.50.3/revanced-patches-2.50.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.50.4/revanced-patches-2.50.4.jar"
         },
-        "version": "2.50.3"
+        "version": "2.50.4"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1656,7 +1656,7 @@
     "rustdesk-server": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-server-4bdc205fca189e2d3e8207d2a68c0dd9c166429d/Cargo.lock",
+                "./rustdesk-server-6aa0019f8dcfe8034aba5d155628c83fd5d57f42/Cargo.lock",
                 {
                     "async-speed-limit-0.3.1": "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=",
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
@@ -1675,11 +1675,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk-server",
-            "rev": "4bdc205fca189e2d3e8207d2a68c0dd9c166429d",
-            "sha256": "sha256-21PHplA0PGdXXakyt+50KFJHLpMvSBUqHnIxdYNnaB4=",
+            "rev": "6aa0019f8dcfe8034aba5d155628c83fd5d57f42",
+            "sha256": "sha256-8avqXMz/OKv9kwL4v21KguKo8ublSoLvqhBd6iT2a3Q=",
             "type": "github"
         },
-        "version": "4bdc205fca189e2d3e8207d2a68c0dd9c166429d"
+        "version": "6aa0019f8dcfe8034aba5d155628c83fd5d57f42"
     },
     "sddm": {
         "cargoLocks": null,
