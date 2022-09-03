@@ -6723,10 +6723,10 @@
   };
   byCedric-vscode-expo = {
     pname = "byCedric-vscode-expo";
-    version = "0.8.1";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.8.1/file/byCedric.vscode-expo-0.8.1.vsix";
-      sha256 = "sha256-GQIH6iNnZvfBqiZKFxFHX8n3EeGCSkRKeJYBNxg8mv0=";
+      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.9.0/file/byCedric.vscode-expo-0.9.0.vsix";
+      sha256 = "sha256-B2hxAilWy6Y/FHDGl0df7fFOk6K8sIxsLo2+JqXju80=";
     };
     license = "MIT";
     name = "vscode-expo";
@@ -19251,10 +19251,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
