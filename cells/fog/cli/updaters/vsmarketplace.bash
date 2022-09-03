@@ -55,15 +55,15 @@ function parseMeta() {
       echo "[count]: $count"
       echo "[batch_count]: $batch_count"
       echo "[max_count]: $max_count"
-      echo "[curr_count]: $(( 1000 * batch_count + count ))"
+      echo "[curr_count]: $(( 999 * batch_count + count ))"
 
-      if [ "$(( 1000 * batch_count + count ))" -ge "$max_count" ]; then
+      if [ "$(( 999 * batch_count + count ))" -ge "$max_count" ]; then
         continue
       fi
 
       count="$(( count + 1 ))"
       
-      if [ "$count" -eq 1000 ]; then
+      if [ "$count" -eq 999 ]; then
         batch_count="$(( batch_count + 1 ))"
       fi
 
