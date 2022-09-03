@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "3c106a42339ac4e8f2a02eafde5eda24429ffa9d",
-            "sha256": "sha256-YI/IXNxWFrqZDDutuACTyEafTjMxVX9z99Gb7t5927M=",
+            "rev": "271cd2e7aa64be5e2a23b8d52c91ab81cab2de9a",
+            "sha256": "sha256-DieYzWVQ/Ciu+WfiLvV/eK0QsaUoj/0vsv/Tc3IB6m8=",
             "type": "github"
         },
-        "version": "3c106a42339ac4e8f2a02eafde5eda24429ffa9d"
+        "version": "271cd2e7aa64be5e2a23b8d52c91ab81cab2de9a"
     },
     "caddy": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "3c3f80c2fe093303b84cd52be22b523ea06a3c6e",
-            "sha256": "sha256-SN3E58+PDtRRadkHq0DeH0UW35Gr255Zfkm9Dp3faAM=",
+            "rev": "f4add0ac6d633379ade7470a5e6b4afd45f4a073",
+            "sha256": "sha256-XKf6sxoTCxMjEMM+4GdDnk+K05i4Hy04jFNItZf0kEM=",
             "type": "github"
         },
-        "version": "3c3f80c2fe093303b84cd52be22b523ea06a3c6e"
+        "version": "f4add0ac6d633379ade7470a5e6b4afd45f4a073"
     },
     "ibus": {
         "cargoLocks": null,
