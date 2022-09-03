@@ -10539,10 +10539,10 @@
   };
   hadesarchitect-katapod = {
     pname = "hadesarchitect-katapod";
-    version = "0.6.0-6";
+    version = "0.6.0-8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-6/file/hadesarchitect.katapod-0.6.0-6.vsix";
-      sha256 = "sha256-vHVEgp7jJale0MxDlvwLabo862hdBcGr0TTtfLQK4lc=";
+      url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix";
+      sha256 = "sha256-ZN8/amm/GSDKMmxAqev2+1k+ZZhtkkne3EjBkGu+NdE=";
     };
     license = "Apache-2.0";
     name = "katapod";
@@ -11559,10 +11559,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.20.2";
+    version = "1.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.2/file/ionutvmi.path-autocomplete-1.20.2.vsix";
-      sha256 = "sha256-3e5R2jLi6Bze/zsidjsCIGQf1OuTSaoLYu/dLyZfN1U=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.21.0/file/ionutvmi.path-autocomplete-1.21.0.vsix";
+      sha256 = "sha256-pyHnW/B9XVilbI/xSn5eXZlwDR/suqYhsue7V8Bkne8=";
     };
     license = "MIT";
     name = "path-autocomplete";
@@ -16815,10 +16815,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/2.1.0/file/phoenisx.cssvar-2.1.0.vsix";
-      sha256 = "sha256-AnbyD7siKAbrS3QZVxzIF/kkcM70IB0zveioPuE2sWc=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.0/file/phoenisx.cssvar-2.2.0.vsix";
+      sha256 = "sha256-k9m/31Aji62+S5Aef75Tznc5ckQuna8N03IVDTSgNZE=";
     };
     license = "MIT";
     name = "cssvar";

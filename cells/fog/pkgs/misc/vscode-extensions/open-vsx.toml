@@ -8980,8 +8980,8 @@ fetch.url = "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.1/file/
 passthru = { publisher = "virgilsisoe", name = "python-auto-import", description = "Suggest Auto-import for third-party modules based on modules already imported.", license = "MIT" }
 
 [ionutvmi-path-autocomplete]
-src.manual = "1.20.2" # ionutvmi.path-autocomplete
-fetch.url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.2/file/ionutvmi.path-autocomplete-1.20.2.vsix" # ionutvmi.path-autocomplete
+src.manual = "1.21.0" # ionutvmi.path-autocomplete
+fetch.url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.21.0/file/ionutvmi.path-autocomplete-1.21.0.vsix" # ionutvmi.path-autocomplete
 passthru = { publisher = "ionutvmi", name = "path-autocomplete", description = "Provides path completion for visual studio code and VS Code for Web.", license = "MIT" }
 
 [hc-wallace-corporation]
@@ -9785,8 +9785,8 @@ fetch.url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.7.0/file/cns
 passthru = { publisher = "cnshenj", name = "vscode-task-manager", description = "Manages tasks in Visual Studio Code.", license = "MIT" }
 
 [phoenisx-cssvar]
-src.manual = "2.1.0" # phoenisx.cssvar
-fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.1.0/file/phoenisx.cssvar-2.1.0.vsix" # phoenisx.cssvar
+src.manual = "2.2.0" # phoenisx.cssvar
+fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.0/file/phoenisx.cssvar-2.2.0.vsix" # phoenisx.cssvar
 passthru = { publisher = "phoenisx", name = "cssvar", description = "Intellisense support for CSS Variables", license = "MIT" }
 
 [foam-foam-vscode]
@@ -10255,7 +10255,8 @@ fetch.url = "https://open-vsx.org/api/hadesarchitect/helloworld-web-sample/0.0.1
 passthru = { publisher = "hadesarchitect", name = "helloworld-web-sample", description = "HelloWorld example for VS Code in the browser", license = "MIT" }
 
 [hadesarchitect-katapod]
-src.manual = "0.6.0-6" # hadesarchitect.katapod
-fetch.url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-6/file/hadesarchitect.katapod-0.6.0-6.vsix" # hadesarchitect.katapod
+src.manual = "0.6.0-8" # hadesarchitect.katapod
+fetch.url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix" # hadesarchitect.katapod
 passthru = { publisher = "hadesarchitect", name = "katapod", description = "", license = "Apache-2.0" }
+
 

@@ -16694,11 +16694,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vHVEgp7jJale0MxDlvwLabo862hdBcGr0TTtfLQK4lc=",
+            "sha256": "sha256-ZN8/amm/GSDKMmxAqev2+1k+ZZhtkkne3EjBkGu+NdE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-6/file/hadesarchitect.katapod-0.6.0-6.vsix"
+            "url": "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix"
         },
-        "version": "0.6.0-6"
+        "version": "0.6.0-8"
     },
     "halcyontechltd-code-for-ibmi": {
         "cargoLocks": null,
@@ -18309,11 +18309,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3e5R2jLi6Bze/zsidjsCIGQf1OuTSaoLYu/dLyZfN1U=",
+            "sha256": "sha256-pyHnW/B9XVilbI/xSn5eXZlwDR/suqYhsue7V8Bkne8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.2/file/ionutvmi.path-autocomplete-1.20.2.vsix"
+            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.21.0/file/ionutvmi.path-autocomplete-1.21.0.vsix"
         },
-        "version": "1.20.2"
+        "version": "1.21.0"
     },
     "ionutvmi-reg": {
         "cargoLocks": null,
@@ -26631,11 +26631,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AnbyD7siKAbrS3QZVxzIF/kkcM70IB0zveioPuE2sWc=",
+            "sha256": "sha256-k9m/31Aji62+S5Aef75Tznc5ckQuna8N03IVDTSgNZE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.1.0/file/phoenisx.cssvar-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.2.0/file/phoenisx.cssvar-2.2.0.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.2.0"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
