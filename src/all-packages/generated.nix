@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.137";
+    version = "0.0.138";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.137/discord-canary-0.0.137.tar.gz";
-      sha256 = "sha256-dreKO2yBDP547VYuJziBhC2sLdpbM2fcK5bxeds0zUQ=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.138/discord-canary-0.0.138.tar.gz";
+      sha256 = "sha256-NojoHrrgdvLiMgWYPClXzWjWXuvHz7urhyHzMnZwvBY=";
     };
   };
   dnscrypt-proxy2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5d36d803183f887016f7fd8380bb150c3c30d0b9";
+    version = "3abd4146561d5ba390ab41ec310475e73b7a17cd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5d36d803183f887016f7fd8380bb150c3c30d0b9";
+      rev = "3abd4146561d5ba390ab41ec310475e73b7a17cd";
       fetchSubmodules = false;
-      sha256 = "sha256-XYYsTUvfNwG4I1otFrUHTUgy6zxQB00gWHSy0/qyIYI=";
+      sha256 = "sha256-FfNpKAwWzY2RJTyeigzeN0EgE9R1uhHeI0cjscXHa7o=";
     });
   };
   revanced-cli = {
