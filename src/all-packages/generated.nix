@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "2c3b3ff260fa5c95e51a979be25fa3b7c1de1ba5";
+    version = "89ea0a1fbcbf3d786696d75daed824d3e822a7c4";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "2c3b3ff260fa5c95e51a979be25fa3b7c1de1ba5";
+      rev = "89ea0a1fbcbf3d786696d75daed824d3e822a7c4";
       fetchSubmodules = false;
-      sha256 = "sha256-y+ulKIyMHM7x8o+AuHnXjJxBDo5r9ke3bAwhceSSzyQ=";
+      sha256 = "sha256-Pg0DpUG72/aFaFPOMlXqydkn00VzpdimyhaiVQS0bIA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-2c3b3ff260fa5c95e51a979be25fa3b7c1de1ba5/Cargo.lock;
+      lockFile = ./eww-89ea0a1fbcbf3d786696d75daed824d3e822a7c4/Cargo.lock;
       outputHashes = {
         
       };
