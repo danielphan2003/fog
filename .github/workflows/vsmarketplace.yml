@@ -5,6 +5,12 @@ on:
     paths:
       - cells/fog/pkgs/misc/vscode-extensions/vsmarketplace.toml
   workflow_dispatch:
+    inputs:
+      batch_size:
+        type: string
+        description: Number of packages to update.
+        required: true
+        default: '1000'
   schedule:
     # Update every 24 hours
     - cron: "0 0 */1 * *"
@@ -46,7 +52,7 @@ jobs:
       run: nix develop --show-trace --print-build-logs --command fog nvfetcher-cleanup vsmarketplace
 
     - name: Update vsmarketplace extension sources
-      run: nix develop --show-trace --print-build-logs --command fog vsmarketplace-updater
+      run: nix develop --show-trace --print-build-logs --command fog vsmarketplace-updater ${{ inputs.batch_size }}
 
     - name: Update all vsmarketplace extensions
       run: nix develop --show-trace --print-build-logs --command fog updateSources misc/vscode-extensions/vsmarketplace
