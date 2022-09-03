@@ -3805,8 +3805,8 @@ fetch.url = "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.13/file/vlangua
 passthru = { publisher = "vlanguage", name = "vscode-vlang", description = "V language support (syntax highlighting, formatter, snippets) for Visual Studio Code.", license = "MIT" }
 
 [ms-vscode-js-debug-companion]
-src.manual = "1.71.0" # ms-vscode.js-debug-companion
-fetch.url = "https://open-vsx.org/api/ms-vscode/js-debug/1.71.0/file/ms-vscode.js-debug-1.71.0.vsix" # ms-vscode.js-debug-companion
+src.manual = "1.71.1" # ms-vscode.js-debug-companion
+fetch.url = "https://open-vsx.org/api/ms-vscode/js-debug/1.71.1/file/ms-vscode.js-debug-1.71.1.vsix" # ms-vscode.js-debug-companion
 passthru = { publisher = "ms-vscode", name = "js-debug-companion", description = "Companion extension to js-debug that provides capability for remote debugging", license = "MIT" }
 
 [GNVageesh-codel]
@@ -4535,8 +4535,8 @@ fetch.url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.1/fi
 passthru = { publisher = "vscjava", name = "vscode-spring-initializr", description = "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.", license = "MIT" }
 
 [fernandoescolar-vscode-solution-explorer]
-src.manual = "0.6.3" # fernandoescolar.vscode-solution-explorer
-fetch.url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.3/file/fernandoescolar.vscode-solution-explorer-0.6.3.vsix" # fernandoescolar.vscode-solution-explorer
+src.manual = "0.7.0" # fernandoescolar.vscode-solution-explorer
+fetch.url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.7.0/file/fernandoescolar.vscode-solution-explorer-0.7.0.vsix" # fernandoescolar.vscode-solution-explorer
 passthru = { publisher = "fernandoescolar", name = "vscode-solution-explorer", description = "Visual Studio .sln file explorer for Visual Studio Code", license = "MIT" }
 
 [EventHorizon-ax-theme]
@@ -4680,8 +4680,8 @@ fetch.url = "https://open-vsx.org/api/timdmackey/mechanic-liquid/0.0.18/file/tim
 passthru = { publisher = "timdmackey", name = "mechanic-liquid", description = "Provides syntax highlighting and code snippets for Mechanic-flavored Liquid", license = "LICENSE.md" }
 
 [ms-pyright-pyright]
-src.manual = "1.1.265" # ms-pyright.pyright
-fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.265/file/ms-pyright.pyright-1.1.265.vsix" # ms-pyright.pyright
+src.manual = "1.1.269" # ms-pyright.pyright
+fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.269/file/ms-pyright.pyright-1.1.269.vsix" # ms-pyright.pyright
 passthru = { publisher = "ms-pyright", name = "pyright", description = "VS Code static type checking for Python", license = "MIT" }
 
 [harmony-harmony-assist]
@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662152828" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662152828/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662152828.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1662162659" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662162659/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662162659.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -9705,8 +9705,8 @@ fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.13.0/file/zenclabs.pr
 passthru = { publisher = "zenclabs", name = "previewjs", description = "Get instant previews of your UI components, directly in your IDE", license = "https://previewjs.com/eula" }
 
 [halcyontechltd-code-for-ibmi]
-src.manual = "1.5.10" # halcyontechltd.code-for-ibmi
-fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.10/file/halcyontechltd.code-for-ibmi-1.5.10.vsix" # halcyontechltd.code-for-ibmi
+src.manual = "1.5.11" # halcyontechltd.code-for-ibmi
+fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix" # halcyontechltd.code-for-ibmi
 passthru = { publisher = "halcyontechltd", name = "code-for-ibmi", description = "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code.", license = "MIT" }
 
 [njzy-stats-bar]
@@ -9760,8 +9760,8 @@ fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Piv
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
 
 [YXL-cloudmusic]
-src.manual = "9.14.4" # YXL.cloudmusic
-fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.4/file/YXL.cloudmusic-9.14.4.vsix" # YXL.cloudmusic
+src.manual = "9.15.0" # YXL.cloudmusic
+fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.15.0/file/YXL.cloudmusic-9.15.0.vsix" # YXL.cloudmusic
 passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
 
 [_42Crunch-vscode-openapi]
@@ -10243,4 +10243,5 @@ passthru = { publisher = "slevesque", name = "shader", description = "Syntax hig
 src.manual = "2022.9.2" # devMikeUA.mikrotik-routeros-script
 fetch.url = "https://open-vsx.org/api/devMikeUA/mikrotik-routeros-script/2022.9.2/file/devMikeUA.mikrotik-routeros-script-2022.9.2.vsix" # devMikeUA.mikrotik-routeros-script
 passthru = { publisher = "devMikeUA", name = "mikrotik-routeros-script", description = "Provides snippets, syntax highlighting, bracket matching for Mikrotik RouterOS script.", license = "MIT" }
+
 

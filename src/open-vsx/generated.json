@@ -6681,11 +6681,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EQHgThd8pacSvfezR2d+KBCOFq4CvOvVH9Zsvb+EBwM=",
+            "sha256": "sha256-aGKmJjqRuNp4hjYZZgiqaSgqiOBYWaKQSoMYmEo4b2Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.14.4/file/YXL.cloudmusic-9.14.4.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.15.0/file/YXL.cloudmusic-9.15.0.vsix"
         },
-        "version": "9.14.4"
+        "version": "9.15.0"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -15060,11 +15060,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qtWwIaSWyNiJ+J+5g81C+ELcIcsgswoTRQMbdms0PZM=",
+            "sha256": "sha256-VSFQgUE5Einrg9K/ZMWmDtGY1KsMWt8BSA0sxr5S5aw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.3/file/fernandoescolar.vscode-solution-explorer-0.6.3.vsix"
+            "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.7.0/file/fernandoescolar.vscode-solution-explorer-0.7.0.vsix"
         },
-        "version": "0.6.3"
+        "version": "0.7.0"
     },
     "ferrielmelarpis-vscode-css-modules-syntax-highlighter": {
         "cargoLocks": null,
@@ -16675,11 +16675,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dAFhstRqR/37VGL0Ltu6d/69J6SvgiZ1+TSWDnNiPJQ=",
+            "sha256": "sha256-k1QXPWXBSy72jm5o4FAhXghyAKPOA3qR08o5Q5iLotY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.10/file/halcyontechltd.code-for-ibmi-1.5.10.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix"
         },
-        "version": "1.5.10"
+        "version": "1.5.11"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -20893,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nBM5hYfZrIxOv4MXCTdNl9EMWDVMTWCHXx3gMcJmPjw=",
+            "sha256": "sha256-2A2YFcP7qV9/8ZgQQzDX2I4IckbxrpMGknhCS68RlVw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662152828/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662152828.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662162659/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662162659.vsix"
         },
-        "version": "2022.9.1662152828"
+        "version": "2022.9.1662162659"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -23534,11 +23534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ChFKHZix1WfOJE8q+G4qC+2xNozctef8I+y7u7JpqOs=",
+            "sha256": "sha256-+6BADDH2KCTc1kfFE+UpKU9FO6X/ZELIPSG1Es9iDRo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.265/file/ms-pyright.pyright-1.1.265.vsix"
+            "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.269/file/ms-pyright.pyright-1.1.269.vsix"
         },
-        "version": "1.1.265"
+        "version": "1.1.269"
     },
     "ms-python-anaconda-extension-pack": {
         "cargoLocks": null,
@@ -23952,11 +23952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rEjCSBkCkQp26zc1aV7qcbZyCqiTs0QIx1+o4iHph4g=",
+            "sha256": "sha256-3DqSIeXC3tQrq8Q3lwT+krUKiIddfJOr14ByBbg9Pgc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.71.0/file/ms-vscode.js-debug-1.71.0.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.71.1/file/ms-vscode.js-debug-1.71.1.vsix"
         },
-        "version": "1.71.0"
+        "version": "1.71.1"
     },
     "ms-vscode-live-server": {
         "cargoLocks": null,

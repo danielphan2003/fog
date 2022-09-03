@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.14.4";
+    version = "9.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.4/file/YXL.cloudmusic-9.14.4.vsix";
-      sha256 = "sha256-EQHgThd8pacSvfezR2d+KBCOFq4CvOvVH9Zsvb+EBwM=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.15.0/file/YXL.cloudmusic-9.15.0.vsix";
+      sha256 = "sha256-aGKmJjqRuNp4hjYZZgiqaSgqiOBYWaKQSoMYmEo4b2Q=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -9507,10 +9507,10 @@
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
-    version = "0.6.3";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.3/file/fernandoescolar.vscode-solution-explorer-0.6.3.vsix";
-      sha256 = "sha256-qtWwIaSWyNiJ+J+5g81C+ELcIcsgswoTRQMbdms0PZM=";
+      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.7.0/file/fernandoescolar.vscode-solution-explorer-0.7.0.vsix";
+      sha256 = "sha256-VSFQgUE5Einrg9K/ZMWmDtGY1KsMWt8BSA0sxr5S5aw=";
     };
     license = "MIT";
     name = "vscode-solution-explorer";
@@ -10527,10 +10527,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.10";
+    version = "1.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.10/file/halcyontechltd.code-for-ibmi-1.5.10.vsix";
-      sha256 = "sha256-dAFhstRqR/37VGL0Ltu6d/69J6SvgiZ1+TSWDnNiPJQ=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix";
+      sha256 = "sha256-k1QXPWXBSy72jm5o4FAhXghyAKPOA3qR08o5Q5iLotY=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -13191,10 +13191,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662152828";
+    version = "2022.9.1662162659";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662152828/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662152828.vsix";
-      sha256 = "sha256-nBM5hYfZrIxOv4MXCTdNl9EMWDVMTWCHXx3gMcJmPjw=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662162659/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662162659.vsix";
+      sha256 = "sha256-2A2YFcP7qV9/8ZgQQzDX2I4IckbxrpMGknhCS68RlVw=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -14859,10 +14859,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.265";
+    version = "1.1.269";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.265/file/ms-pyright.pyright-1.1.265.vsix";
-      sha256 = "sha256-ChFKHZix1WfOJE8q+G4qC+2xNozctef8I+y7u7JpqOs=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.269/file/ms-pyright.pyright-1.1.269.vsix";
+      sha256 = "sha256-+6BADDH2KCTc1kfFE+UpKU9FO6X/ZELIPSG1Es9iDRo=";
     };
     license = "MIT";
     name = "pyright";
@@ -15123,10 +15123,10 @@
   };
   ms-vscode-js-debug-companion = {
     pname = "ms-vscode-js-debug-companion";
-    version = "1.71.0";
+    version = "1.71.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.71.0/file/ms-vscode.js-debug-1.71.0.vsix";
-      sha256 = "sha256-rEjCSBkCkQp26zc1aV7qcbZyCqiTs0QIx1+o4iHph4g=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.71.1/file/ms-vscode.js-debug-1.71.1.vsix";
+      sha256 = "sha256-3DqSIeXC3tQrq8Q3lwT+krUKiIddfJOr14ByBbg9Pgc=";
     };
     license = "MIT";
     name = "js-debug-companion";
