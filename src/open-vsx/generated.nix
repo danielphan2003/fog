@@ -3531,10 +3531,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.220";
+    version = "2022.9.311";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.220/file/Slint.slint-nightly-2022.9.220.vsix";
-      sha256 = "sha256-B/7sTMtHIQFg8d9el6+zu+xmjXhGFwf0CJHseryuP/I=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.311/file/Slint.slint-nightly-2022.9.311.vsix";
+      sha256 = "sha256-6KPb8TExK57DSPM89vJEgrn0Yha/pmyJFC34z/QD5kc=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.0";
+    version = "9.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.0/file/YXL.cloudmusic-9.16.0.vsix";
-      sha256 = "sha256-5Yc2OPpziiXvLTVWJ9gebKZxP/R7q1vz/TnJ1zW2ch0=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.1/file/YXL.cloudmusic-9.16.1.vsix";
+      sha256 = "sha256-c2910SJtyLI30QzSnQepOsg4KR+mpfchbBAuVThBhlo=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -10409,8 +10409,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -19697,8 +19697,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24159,10 +24159,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
