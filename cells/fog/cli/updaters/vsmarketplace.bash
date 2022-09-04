@@ -4,7 +4,7 @@ package_meta_file="$PKGS_PATH/misc/vscode-extensions/$pname.toml"
 package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
 count=0
-batch_count=0
+batch_count=-1
 max_count="${1:-1000}"
 
 function parseMeta() {
@@ -52,19 +52,19 @@ function parseMeta() {
       .results[0].extensions[] | .publisher.publisherName, .extensionName, .versions[0].version, .versions[0].files[0].source, (.shortDescription // "" | tojson)
     ' "$meta_file" | \
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
+      count="$(( count + 1 ))"
+      
+      if [ "$count" -eq 0 ]; then
+        batch_count="$(( batch_count + 1 ))"
+      fi
+      
       echo "[count]: $count"
       echo "[batch_count]: $batch_count"
       echo "[max_count]: $max_count"
       echo "[curr_count]: $(( 999 * batch_count + count ))"
-
+      
       if [ "$(( 999 * batch_count + count ))" -ge "$max_count" ]; then
         continue
-      fi
-
-      count="$(( count + 1 ))"
-      
-      if [ "$count" -eq 999 ]; then
-        batch_count="$(( batch_count + 1 ))"
       fi
 
       namespace_cleaned="$namespace"
