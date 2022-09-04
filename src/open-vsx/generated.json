@@ -16504,9 +16504,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18879,11 +18879,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XyrHED6L64gabLxuvsT/hCN+gPqxTy5JlWbjSA9Qvwc=",
+            "sha256": "sha256-0ZVc8eb8y5oGOiLg/uK4A9xDsB/jLdrnfyRw0Y1kpcE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.7/file/jeanp413.open-remote-ssh-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.8/file/jeanp413.open-remote-ssh-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
@@ -31191,9 +31191,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
