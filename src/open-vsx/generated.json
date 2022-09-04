@@ -20538,6 +20538,25 @@
         },
         "version": "0.0.24"
     },
+    "koszti-snowflake-driver-for-sqltools": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "koszti-snowflake-driver-for-sqltools",
+        "passthru": {
+            "description": "SQLTools Snowflake driver",
+            "license": "MIT",
+            "name": "snowflake-driver-for-sqltools",
+            "publisher": "koszti"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Aoip3ByFSqyG3u4YVLORY8N4UQm7v6+rCblcWT45GLQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/koszti/snowflake-driver-for-sqltools/0.4.2/file/koszti.snowflake-driver-for-sqltools-0.4.2.vsix"
+        },
+        "version": "0.4.2"
+    },
     "krishnaVamsi-ccbp-project-testing": {
         "cargoLocks": null,
         "extract": null,
@@ -23135,11 +23154,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DwmWXMkjrh6tkExCbxMyET862W8d4eU73N2osh0ykxQ=",
+            "sha256": "sha256-ZEp5KGb5CA5ZAC8jwysVUnpqt5xKB34T7VJE4TP25y0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/moshfeu/compare-folders/0.22.0/file/moshfeu.compare-folders-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/moshfeu/compare-folders/0.22.3/file/moshfeu.compare-folders-0.22.3.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.22.3"
     },
     "moshfeu-diff-merge": {
         "cargoLocks": null,
@@ -30488,11 +30507,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -37746,11 +37765,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mN9daIiSw1K7pg6H438vx6xr0sFR8eWlksH8yachYeI=",
+            "sha256": "sha256-gxiz7ZQjKgWSGdNnXVyRzmu+8cIBBPSXCU6Kt2xm1ic=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.26/file/zardoy.better-snippets-0.1.26.vsix"
+            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.27/file/zardoy.better-snippets-0.1.27.vsix"
         },
-        "version": "0.1.26"
+        "version": "0.1.27"
     },
     "zardoy-extra-commands": {
         "cargoLocks": null,

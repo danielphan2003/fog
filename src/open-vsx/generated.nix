@@ -12973,6 +12973,18 @@
     description = "Navigate notes with [[wiki-links]], backlinks, #tags and @bibtex-citations (like Bear, Roam, etc). Automatically create notes from new inline [[wiki-links]]. Use Peek Definition to preview linked notes.";
     publisher = "kortina";
   };
+  koszti-snowflake-driver-for-sqltools = {
+    pname = "koszti-snowflake-driver-for-sqltools";
+    version = "0.4.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/koszti/snowflake-driver-for-sqltools/0.4.2/file/koszti.snowflake-driver-for-sqltools-0.4.2.vsix";
+      sha256 = "sha256-Aoip3ByFSqyG3u4YVLORY8N4UQm7v6+rCblcWT45GLQ=";
+    };
+    license = "MIT";
+    name = "snowflake-driver-for-sqltools";
+    description = "SQLTools Snowflake driver";
+    publisher = "koszti";
+  };
   krishnaVamsi-ccbp-project-testing = {
     pname = "krishnaVamsi-ccbp-project-testing";
     version = "1.0.0";
@@ -14607,10 +14619,10 @@
   };
   moshfeu-compare-folders = {
     pname = "moshfeu-compare-folders";
-    version = "0.22.0";
+    version = "0.22.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/compare-folders/0.22.0/file/moshfeu.compare-folders-0.22.0.vsix";
-      sha256 = "sha256-DwmWXMkjrh6tkExCbxMyET862W8d4eU73N2osh0ykxQ=";
+      url = "https://open-vsx.org/api/moshfeu/compare-folders/0.22.3/file/moshfeu.compare-folders-0.22.3.vsix";
+      sha256 = "sha256-ZEp5KGb5CA5ZAC8jwysVUnpqt5xKB34T7VJE4TP25y0=";
     };
     license = "MIT";
     name = "compare-folders";
@@ -19251,10 +19263,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -23835,10 +23847,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.26";
+    version = "0.1.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.26/file/zardoy.better-snippets-0.1.26.vsix";
-      sha256 = "sha256-mN9daIiSw1K7pg6H438vx6xr0sFR8eWlksH8yachYeI=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.27/file/zardoy.better-snippets-0.1.27.vsix";
+      sha256 = "sha256-gxiz7ZQjKgWSGdNnXVyRzmu+8cIBBPSXCU6Kt2xm1ic=";
     };
     license = "MIT";
     name = "better-snippets";
