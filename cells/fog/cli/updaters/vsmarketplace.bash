@@ -54,7 +54,7 @@ function parseMeta() {
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
       count="$(( count + 1 ))"
       
-      if [ "$(( pageNumber ))" -ge "$max_page" ]; then
+      if [ "$(( pageNumber ))" -gt "$max_page" ]; then
         continue
       fi
 
