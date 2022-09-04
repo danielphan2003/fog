@@ -3,9 +3,7 @@ desc="VS Code extensions - Visual Studio Marketplace"
 package_meta_file="$PKGS_PATH/misc/vscode-extensions/$pname.toml"
 package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
-count=-1
-batch_count=-1
-max_count="${1:-999}"
+max_page="${1:-999}"
 
 function parseMeta() {
   meta_file="$FOG_CACHE/$pname.json"
@@ -47,6 +45,8 @@ function parseMeta() {
   mkdir -p "$package_meta_dirname"
   touch "$package_meta_file"
 
+  count=0
+
   for pageNumber in $(seq 1 $pageNumbers); do
     jq -M -r '
       .results[0].extensions[] | .publisher.publisherName, .extensionName, .versions[0].version, .versions[0].files[0].source, (.shortDescription // "" | tojson)
@@ -54,16 +54,7 @@ function parseMeta() {
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
       count="$(( count + 1 ))"
       
-      if [ "$count" -eq 0 ]; then
-        batch_count="$(( batch_count + 1 ))"
-      fi
-      
-      echo "[count]: $count"
-      echo "[batch_count]: $batch_count"
-      echo "[max_count]: $max_count"
-      echo "[curr_count]: $(( 999 * batch_count + count ))"
-      
-      if [ "$(( 999 * batch_count + count ))" -ge "$max_count" ]; then
+      if [ "$(( pageNumber ))" -ge "$max_page" ]; then
         continue
       fi
 
