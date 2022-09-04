@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "3dd514a4529c3c22d227235af55c4d4d771dcfe0",
-            "sha256": "sha256-T4W5fnN8E7kbCu/jshwCxiIoEioZRApkX+mshsieSoo=",
+            "rev": "cb839c9dcc0196312e5c6b7014114d9b489e0632",
+            "sha256": "sha256-gIrDaSuWODutIIeHnAKsUB4SKgZAi2LSz8h/p0X92Tk=",
             "type": "github"
         },
-        "version": "3dd514a4529c3c22d227235af55c4d4d771dcfe0"
+        "version": "cb839c9dcc0196312e5c6b7014114d9b489e0632"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1830,11 +1830,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "01ac5006764db75af178accbe193e5fd4d6f9e43",
-            "sha256": "sha256-YC+D0vXY3PIvvDZRWadFmTo7Cdn21taYooPHiFBZnUM=",
+            "rev": "627e1a7c532458ac06529995ec345b2a9f03ee9b",
+            "sha256": "sha256-UBxU93uXuZJ4iv9cMwlgvjFXsAYeM0UkQqoWX78uaUU=",
             "type": "github"
         },
-        "version": "01ac5006764db75af178accbe193e5fd4d6f9e43"
+        "version": "627e1a7c532458ac06529995ec345b2a9f03ee9b"
     },
     "spicetify-themes": {
         "cargoLocks": null,
@@ -2024,11 +2024,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "02de34fb10d9a65ff89a4a99e50fd184cd5177ac",
-            "sha256": "sha256-kepWV48I2zFTXjvnbvphTq5WkwH4MkC3O4U4Wgf+Z40=",
+            "rev": "060ecb010f19a341ee7e55da8810dc0e6122a1f4",
+            "sha256": "sha256-YepkvN4nolS+aaAjHCWmGpCR5He08NHSIKKU01audIs=",
             "type": "github"
         },
-        "version": "02de34fb10d9a65ff89a4a99e50fd184cd5177ac"
+        "version": "060ecb010f19a341ee7e55da8810dc0e6122a1f4"
     },
     "tailscale-systray": {
         "cargoLocks": null,
