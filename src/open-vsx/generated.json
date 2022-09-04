@@ -16504,9 +16504,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20893,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -26498,11 +26498,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uERl+EXVW1qmhA9Ahj+4Dq8NkIGvBLcDnxgozCMRtUg=",
+            "sha256": "sha256-FY6kQWHDRK1UYm6fj35S6eCGaTjXMf6LnUJecUJhu/M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix"
+            "url": "https://open-vsx.org/api/phil294/coffeesense/1.13.0/file/phil294.coffeesense-1.13.0.vsix"
         },
-        "version": "1.12.0"
+        "version": "1.13.0"
     },
     "phil294-git-log--graph": {
         "cargoLocks": null,
@@ -36359,11 +36359,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HyAv9BXBZGMNya6tG/KrBfikqpPmIUv7EpaCs11AzuQ=",
+            "sha256": "sha256-ONJ1fijcjasaGPKOOd4o/aZhKfwhqBZ8JjH94mqYAQU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vunguyentuan/vscode-postcss/0.2.0/file/vunguyentuan.vscode-postcss-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/vunguyentuan/vscode-postcss/2.0.1/file/vunguyentuan.vscode-postcss-2.0.1.vsix"
         },
-        "version": "0.2.0"
+        "version": "2.0.1"
     },
     "vymarkov-add-gitlab-npm-token": {
         "cargoLocks": null,
@@ -38259,11 +38259,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

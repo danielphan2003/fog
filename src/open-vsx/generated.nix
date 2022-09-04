@@ -10421,8 +10421,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13191,10 +13191,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -16731,10 +16731,10 @@
   };
   phil294-coffeesense = {
     pname = "phil294-coffeesense";
-    version = "1.12.0";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix";
-      sha256 = "sha256-uERl+EXVW1qmhA9Ahj+4Dq8NkIGvBLcDnxgozCMRtUg=";
+      url = "https://open-vsx.org/api/phil294/coffeesense/1.13.0/file/phil294.coffeesense-1.13.0.vsix";
+      sha256 = "sha256-FY6kQWHDRK1UYm6fj35S6eCGaTjXMf6LnUJecUJhu/M=";
     };
     license = "MIT";
     name = "coffeesense";
@@ -22959,10 +22959,10 @@
   };
   vunguyentuan-vscode-postcss = {
     pname = "vunguyentuan-vscode-postcss";
-    version = "0.2.0";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/0.2.0/file/vunguyentuan.vscode-postcss-0.2.0.vsix";
-      sha256 = "sha256-HyAv9BXBZGMNya6tG/KrBfikqpPmIUv7EpaCs11AzuQ=";
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/2.0.1/file/vunguyentuan.vscode-postcss-2.0.1.vsix";
+      sha256 = "sha256-ONJ1fijcjasaGPKOOd4o/aZhKfwhqBZ8JjH94mqYAQU=";
     };
     license = "MIT";
     name = "vscode-postcss";
@@ -24159,10 +24159,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";

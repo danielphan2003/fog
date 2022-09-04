@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -7655,8 +7655,8 @@ fetch.url = "https://open-vsx.org/api/a7ul/vscode-bigtable/1.2.1/file/a7ul.vscod
 passthru = { publisher = "a7ul", name = "vscode-bigtable", description = "A VSCode extension for Google Bigtable", license = "MIT" }
 
 [phil294-coffeesense]
-src.manual = "1.12.0" # phil294.coffeesense
-fetch.url = "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix" # phil294.coffeesense
+src.manual = "1.13.0" # phil294.coffeesense
+fetch.url = "https://open-vsx.org/api/phil294/coffeesense/1.13.0/file/phil294.coffeesense-1.13.0.vsix" # phil294.coffeesense
 passthru = { publisher = "phil294", name = "coffeesense", description = "IntelliSense for CoffeeScript based on its compiled JavaScript output", license = "MIT" }
 
 [XOJ-Team-xoj-playground]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
-src.manual = "0.2.0" # vunguyentuan.vscode-postcss
-fetch.url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/0.2.0/file/vunguyentuan.vscode-postcss-0.2.0.vsix" # vunguyentuan.vscode-postcss
+src.manual = "2.0.1" # vunguyentuan.vscode-postcss
+fetch.url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/2.0.1/file/vunguyentuan.vscode-postcss-2.0.1.vsix" # vunguyentuan.vscode-postcss
 passthru = { publisher = "vunguyentuan", name = "vscode-postcss", description = "Syntax highlighting and intellisense for PostCSS", license = "MIT" }
 
 [svsool-markdown-memo]
@@ -10258,6 +10258,7 @@ passthru = { publisher = "hadesarchitect", name = "helloworld-web-sample", descr
 src.manual = "0.6.0-8" # hadesarchitect.katapod
 fetch.url = "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix" # hadesarchitect.katapod
 passthru = { publisher = "hadesarchitect", name = "katapod", description = "", license = "Apache-2.0" }
+
 
 
 
