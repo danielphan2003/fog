@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "fbd2b4799d9c205cb0283432ef9ae3778ff68aa7",
-            "sha256": "sha256-3kOXDjzwP9aO412+R1EJW+E2wM+yCPjUDDDtnFoKgUw=",
+            "rev": "ff26531e11b55854c5937dac2f2ba121c78e11b9",
+            "sha256": "sha256-/1EL+1t7XwtMkb0FarEqQh+KGaJdvfVZxQlzMXVIJeE=",
             "type": "github"
         },
-        "version": "fbd2b4799d9c205cb0283432ef9ae3778ff68aa7"
+        "version": "ff26531e11b55854c5937dac2f2ba121c78e11b9"
     },
     "ibus": {
         "cargoLocks": null,

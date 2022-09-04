@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fbd2b4799d9c205cb0283432ef9ae3778ff68aa7";
+    version = "ff26531e11b55854c5937dac2f2ba121c78e11b9";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fbd2b4799d9c205cb0283432ef9ae3778ff68aa7";
+      rev = "ff26531e11b55854c5937dac2f2ba121c78e11b9";
       fetchSubmodules = false;
-      sha256 = "sha256-3kOXDjzwP9aO412+R1EJW+E2wM+yCPjUDDDtnFoKgUw=";
+      sha256 = "sha256-/1EL+1t7XwtMkb0FarEqQh+KGaJdvfVZxQlzMXVIJeE=";
     });
   };
   ibus = {
