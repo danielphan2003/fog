@@ -11559,10 +11559,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.21.0";
+    version = "1.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.21.0/file/ionutvmi.path-autocomplete-1.21.0.vsix";
-      sha256 = "sha256-pyHnW/B9XVilbI/xSn5eXZlwDR/suqYhsue7V8Bkne8=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.22.1/file/ionutvmi.path-autocomplete-1.22.1.vsix";
+      sha256 = "sha256-JzrVDv3V+Av81LVmiqug9YJ6u7KeUtc8GWY7iFqweH8=";
     };
     license = "MIT";
     name = "path-autocomplete";
@@ -13551,10 +13551,10 @@
   };
   lukashass-volar = {
     pname = "lukashass-volar";
-    version = "0.40.5";
+    version = "0.40.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lukashass/volar/0.40.5/file/lukashass.volar-0.40.5.vsix";
-      sha256 = "sha256-Mi57gXxhCuLZpRLeP5If9L+yhOJ5xvZ/HE9XBNhMn1A=";
+      url = "https://open-vsx.org/api/lukashass/volar/0.40.6/file/lukashass.volar-0.40.6.vsix";
+      sha256 = "sha256-wtDZLJOMbczNZp5AdNBvX2yUSYq1Cnk/3FpDFWijwzc=";
     };
     license = "MIT";
     name = "volar";
@@ -24027,10 +24027,10 @@
   };
   zerodind-familiar-java-themes = {
     pname = "zerodind-familiar-java-themes";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.6/file/zerodind.familiar-java-themes-0.1.6.vsix";
-      sha256 = "sha256-NLm7c9xQafch/Gg2XXlQj7nug/uVQojq+7foZXxfBM0=";
+      url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.7/file/zerodind.familiar-java-themes-0.1.7.vsix";
+      sha256 = "sha256-U2/gTsi1D83kmCQTxOQOqVxsYnRXF+/Fz6JTgQ4WmHM=";
     };
     license = "MIT";
     name = "familiar-java-themes";
