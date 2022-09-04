@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6afab12b91baddb6d4a9c348e3fb2bf8c4e6e6ea";
+    version = "3dd514a4529c3c22d227235af55c4d4d771dcfe0";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "6afab12b91baddb6d4a9c348e3fb2bf8c4e6e6ea";
+      rev = "3dd514a4529c3c22d227235af55c4d4d771dcfe0";
       fetchSubmodules = false;
-      sha256 = "sha256-FAWHn2aMytRc7AciZABnemaIdTL8ed0Vw66V7nRII3Q=";
+      sha256 = "sha256-T4W5fnN8E7kbCu/jshwCxiIoEioZRApkX+mshsieSoo=";
     });
   };
   ibus = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3bd36941a6785e524f16eb1672179bd3087370f0";
+    version = "788d602ec74157b5cb1d3cd991af2125437037a6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3bd36941a6785e524f16eb1672179bd3087370f0";
+      rev = "788d602ec74157b5cb1d3cd991af2125437037a6";
       fetchSubmodules = false;
-      sha256 = "sha256-TeCxmt8aAdcNQi9NHK2ZxnkzZpZHQB0vFmRLenp7Blk=";
+      sha256 = "sha256-8zJlhfjLw2p/luzljIiuzxDPd/KCe3x8kcQMArrsoOg=";
     });
   };
   revanced-cli = {
@@ -1297,10 +1297,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.6.2";
+    version = "2022.8.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.6.2/bw_web_v2022.6.2.tar.gz";
-      sha256 = "sha256-IG/eCBTUa7eKeaelqxCWO+rrXJUuBanhsYwklftxdOE=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.8.1/bw_web_v2022.8.1.tar.gz";
+      sha256 = "sha256-tgJ2JZ4rfkeaE7GWDHucKphiq+SVyZAjV/1gH1hQR3s=";
     };
   };
   ventoy = {
