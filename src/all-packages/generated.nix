@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "bdc10fb7296bd44f33bb59e61f0c2b7adfd03520";
+    version = "e6661d3b0d355ae1ff35879b1fc22fc3b6dffae9";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "bdc10fb7296bd44f33bb59e61f0c2b7adfd03520";
+      rev = "e6661d3b0d355ae1ff35879b1fc22fc3b6dffae9";
       fetchSubmodules = false;
-      sha256 = "sha256-CMw0vrhLUkhpXw4Spe0BkPbHnTG8XfH9x5z1YjUfc3U=";
+      sha256 = "sha256-T7L41XU1YDiqnvQxO+GIx2ZofCgr02my2h8B9M/SnQo=";
     });
   };
   cinny-bin = {
@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "58907eac4bf5b897e8f77878acc29e0ccf7f6ce3";
+    version = "7623e7e692042f4da8525bb1e4ef140831fcdb6a";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "58907eac4bf5b897e8f77878acc29e0ccf7f6ce3";
+      rev = "7623e7e692042f4da8525bb1e4ef140831fcdb6a";
       fetchSubmodules = false;
-      sha256 = "sha256-Bx4gmLBRFtS2Z9ynUqn6sr+Gvq3zw4mtTTTRIFWBtPc=";
+      sha256 = "sha256-OaKhvcKS+mqGIQmpd0oZeLtdnIjLOJsL4tb1Utcj4uo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-58907eac4bf5b897e8f77878acc29e0ccf7f6ce3/Cargo.lock;
+      lockFile = ./eww-7623e7e692042f4da8525bb1e4ef140831fcdb6a/Cargo.lock;
       outputHashes = {
         
       };
