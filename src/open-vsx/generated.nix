@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.1";
+    version = "9.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.1/file/YXL.cloudmusic-9.16.1.vsix";
-      sha256 = "sha256-c2910SJtyLI30QzSnQepOsg4KR+mpfchbBAuVThBhlo=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.2/file/YXL.cloudmusic-9.16.2.vsix";
+      sha256 = "sha256-UGZagEsCJnJEe98Br47ZbqeP1cWLOyvVFIDhfxsvIMw=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -12579,10 +12579,10 @@
   };
   karatelabs-karate = {
     pname = "karatelabs-karate";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/karatelabs/karate/0.1.1/file/karatelabs.karate-0.1.1.vsix";
-      sha256 = "sha256-bc+gtplauEP26hvTzQpFDurCzBIJ26eHVqd9bXqlI64=";
+      url = "https://open-vsx.org/api/karatelabs/karate/0.1.2/file/karatelabs.karate-0.1.2.vsix";
+      sha256 = "sha256-LiIzPaNri+VZ90+X6CGAjsuwV9bYvDbKM5cdreBlgCw=";
     };
     license = "";
     name = "karate";
@@ -13683,10 +13683,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "1.0.4";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.4/file/malipetek.liquivelte-1.0.4.vsix";
-      sha256 = "sha256-c5ZlOuSO7yk0LthRnnxrkuYw1l5yFFrk/XWOCJmmuwQ=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/1.2.0/file/malipetek.liquivelte-1.2.0.vsix";
+      sha256 = "sha256-SvKxbetIoFn39RcNLSPUOCnIcKaCxiu9RLK18pDQ6ts=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -24159,10 +24159,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
