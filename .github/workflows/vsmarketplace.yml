@@ -10,7 +10,7 @@ on:
         type: string
         description: Number of packages to update.
         required: true
-        default: '1000'
+        default: '999'
   schedule:
     # Update every 24 hours
     - cron: "0 0 */1 * *"
