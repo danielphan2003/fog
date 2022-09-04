@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.8/file/arm.keil-studio-pack-web-1.0.8.vsix";
-      sha256 = "sha256-RzM1YPq9JuG9Q0+6OE5BeagryPLob9TJKPoAugeSQl8=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
+      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -16815,10 +16815,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.0/file/phoenisx.cssvar-2.2.0.vsix";
-      sha256 = "sha256-k9m/31Aji62+S5Aef75Tznc5ckQuna8N03IVDTSgNZE=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.1/file/phoenisx.cssvar-2.2.1.vsix";
+      sha256 = "sha256-Im/LIdroT+ke+jnBmxXzaZus+HLKnyzrmOYeXZYgffE=";
     };
     license = "MIT";
     name = "cssvar";
