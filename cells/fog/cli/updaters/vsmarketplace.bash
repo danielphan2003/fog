@@ -5,7 +5,7 @@ package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
 count=-1
 batch_count=-1
-max_count="${1:-1000}"
+max_count="${1:-999}"
 
 function parseMeta() {
   meta_file="$FOG_CACHE/$pname.json"
