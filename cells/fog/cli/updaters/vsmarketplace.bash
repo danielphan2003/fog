@@ -3,7 +3,7 @@ desc="VS Code extensions - Visual Studio Marketplace"
 package_meta_file="$PKGS_PATH/misc/vscode-extensions/$pname.toml"
 package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
-count=0
+count=-1
 batch_count=-1
 max_count="${1:-1000}"
 
