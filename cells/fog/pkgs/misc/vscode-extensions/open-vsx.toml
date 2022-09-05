@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7750,8 +7750,8 @@ fetch.url = "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/fil
 passthru = { publisher = "solidjs-community", name = "solid-snippets", description = "VSCode extension with helpful code snippets for SolidJS.", license = "MIT" }
 
 [arnoudkooicom-sn-scriptsync]
-src.manual = "2.3.3" # arnoudkooicom.sn-scriptsync
-fetch.url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix" # arnoudkooicom.sn-scriptsync
+src.manual = "2.4.0" # arnoudkooicom.sn-scriptsync
+fetch.url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.4.0/file/arnoudkooicom.sn-scriptsync-2.4.0.vsix" # arnoudkooicom.sn-scriptsync
 passthru = { publisher = "arnoudkooicom", name = "sn-scriptsync", description = "ServiceNow ScriptSync for VS Code. (Personal work of Arnoud Kooi)", license = "MIT" }
 
 [redhat-vscode-camelk]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9855,8 +9855,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
 [sasjs-sasjs-for-vscode]
-src.manual = "1.20.0" # sasjs.sasjs-for-vscode
-fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix" # sasjs.sasjs-for-vscode
+src.manual = "1.20.1" # sasjs.sasjs-for-vscode
+fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.1/file/sasjs.sasjs-for-vscode-1.20.1.vsix" # sasjs.sasjs-for-vscode
 passthru = { publisher = "sasjs", name = "sasjs-for-vscode", description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting", license = "MIT" }
 
 [betterthantomorrow-joyride]
@@ -10295,5 +10295,6 @@ passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Au
 src.manual = "1.0.4" # cortex-debug.svd-viewer
 fetch.url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.4/file/cortex-debug.svd-viewer-1.0.4.vsix" # cortex-debug.svd-viewer
 passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Standalone SVD Viewer extension extracted from cortex-debug", license = "MIT" }
+
 
 

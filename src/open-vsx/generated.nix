@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
-      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
+      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -5595,10 +5595,10 @@
   };
   arnoudkooicom-sn-scriptsync = {
     pname = "arnoudkooicom-sn-scriptsync";
-    version = "2.3.3";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix";
-      sha256 = "sha256-C9qlot8fOo2bLKn1mmlqkdhdtjTI0UpNv1PENELdEOI=";
+      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.4.0/file/arnoudkooicom.sn-scriptsync-2.4.0.vsix";
+      sha256 = "sha256-/BqivWVXqwqurLXPtU1SCDXEssNN2HvkMY6yFZCSAVk=";
     };
     license = "MIT";
     name = "sn-scriptsync";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13215,10 +13215,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18843,10 +18843,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.20.0";
+    version = "1.20.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix";
-      sha256 = "sha256-tyYz0sRPISM+4lDHNxj3aRYTz+ACC5ZBZO48uaIKjYE=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.1/file/sasjs.sasjs-for-vscode-1.20.1.vsix";
+      sha256 = "sha256-Pwg3dXScxazIIJ8rNaUhl5K5JBvV3iJDwkSTcmP1LB8=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";
@@ -19733,8 +19733,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

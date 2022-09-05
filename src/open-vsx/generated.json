@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
+            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -8866,11 +8866,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C9qlot8fOo2bLKn1mmlqkdhdtjTI0UpNv1PENELdEOI=",
+            "sha256": "sha256-/BqivWVXqwqurLXPtU1SCDXEssNN2HvkMY6yFZCSAVk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix"
+            "url": "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.4.0/file/arnoudkooicom.sn-scriptsync-2.4.0.vsix"
         },
-        "version": "2.3.3"
+        "version": "2.4.0"
     },
     "arrterian-nix-env-selector": {
         "cargoLocks": null,
@@ -16523,9 +16523,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20931,11 +20931,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -29842,11 +29842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tyYz0sRPISM+4lDHNxj3aRYTz+ACC5ZBZO48uaIKjYE=",
+            "sha256": "sha256-Pwg3dXScxazIIJ8rNaUhl5K5JBvV3iJDwkSTcmP1LB8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix"
+            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.1/file/sasjs.sasjs-for-vscode-1.20.1.vsix"
         },
-        "version": "1.20.0"
+        "version": "1.20.1"
     },
     "satoqz-yet-another-discord-presence": {
         "cargoLocks": null,
@@ -31248,9 +31248,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
