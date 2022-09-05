@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7ae555a51dc7944d574fe88061d1ec3d9ac03f39";
+    version = "1c31efaa91c1ed2d994f008eb35d0ab40ed3914b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7ae555a51dc7944d574fe88061d1ec3d9ac03f39";
+      rev = "1c31efaa91c1ed2d994f008eb35d0ab40ed3914b";
       fetchSubmodules = false;
-      sha256 = "sha256-gStNr61GdqhYugJmTfarWhbveQO6K9vysv5+MgtNsmI=";
+      sha256 = "sha256-1zCfOK/4nJQjSryvM+61edQ4FmKgs9O30dvukMmNkNg=";
     });
   };
   revanced-cli = {
@@ -1074,14 +1074,14 @@
   };
   snui = {
     pname = "snui";
-    version = "632f38a3078b2cdfd7bd760c03b581cfad2d7c49";
+    version = "f386afb2441716a974af6ada1943b9f48af2315f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "632f38a3078b2cdfd7bd760c03b581cfad2d7c49";
+      rev = "f386afb2441716a974af6ada1943b9f48af2315f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2MOWnHP1a6L84MeOsbZnrzIu/VJD3QfG9406JA7YUGc=";
+      sha256 = "sha256-gHDkA2ziAdgZoKsH+yqJMG4gs1zzRpjo39LmbAFs4ao=";
     };
   };
   spicetify-cli = {
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "060ecb010f19a341ee7e55da8810dc0e6122a1f4";
+    version = "b8596f2a2f2d74b4e7df086ddc450d4cd9c29075";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "060ecb010f19a341ee7e55da8810dc0e6122a1f4";
+      rev = "b8596f2a2f2d74b4e7df086ddc450d4cd9c29075";
       fetchSubmodules = false;
-      sha256 = "sha256-YepkvN4nolS+aaAjHCWmGpCR5He08NHSIKKU01audIs=";
+      sha256 = "sha256-7gqK4cYWdpFUX9wYkj7y300CFqyZ5b4FNbsCFxTLCI4=";
     });
   };
   tailscale-systray = {
@@ -1258,13 +1258,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "a30968ce9e49c545587ace250f8bb35fabe70bb1";
+    version = "5fe6f7668639dcef310d9287a15a069040dcab3c";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "a30968ce9e49c545587ace250f8bb35fabe70bb1";
+      rev = "5fe6f7668639dcef310d9287a15a069040dcab3c";
       fetchSubmodules = false;
-      sha256 = "sha256-AK2HKCoI2yRamQPvieCCsYFPc1oD2tzzgfC1YkoUFKI=";
+      sha256 = "sha256-Mo0cDUyYeu5P2bh0ciF/XOdBcOsQM061A+jjcvtvqmc=";
     });
   };
   uniemoji = {
