@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=",
+            "sha256": "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix"
         },
         "version": "1.0.9"
     },
@@ -16713,11 +16713,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZN8/amm/GSDKMmxAqev2+1k+ZZhtkkne3EjBkGu+NdE=",
+            "sha256": "sha256-2TzMvc5kB9SocXNwNIeK3fvw4YoWZspnR3FYGAXds0Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hadesarchitect/katapod/0.6.0-8/file/hadesarchitect.katapod-0.6.0-8.vsix"
+            "url": "https://open-vsx.org/api/hadesarchitect/katapod/0.6.1/file/hadesarchitect.katapod-0.6.1.vsix"
         },
-        "version": "0.6.0-8"
+        "version": "0.6.1"
     },
     "halcyontechltd-code-for-ibmi": {
         "cargoLocks": null,
@@ -20437,11 +20437,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20931,11 +20931,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -31248,9 +31248,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
