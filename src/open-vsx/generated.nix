@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.8/file/arm.keil-studio-pack-web-1.0.8.vsix";
-      sha256 = "sha256-RzM1YPq9JuG9Q0+6OE5BeagryPLob9TJKPoAugeSQl8=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
+      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8895,10 +8895,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2991943";
+    version = "8.0.2993426";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2991943/file/eliostruyf.vscode-front-matter-beta-8.0.2991943.vsix";
-      sha256 = "sha256-xjJQjT9p3gqQlfS656hOXjkDy8y/MJUpyzFvdw7w9CE=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2993426/file/eliostruyf.vscode-front-matter-beta-8.0.2993426.vsix";
+      sha256 = "sha256-T0M0WvRGgh3Xh3xbu3NdF+ERrfFBHnDu8raF7/kRNTs=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10107,10 +10107,10 @@
   };
   gera2ld-ipfs-editor-vscode = {
     pname = "gera2ld-ipfs-editor-vscode";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.2/file/gera2ld.ipfs-editor-vscode-0.1.2.vsix";
-      sha256 = "sha256-bnPKmSpWyysKo1+eMQVrRZ2zWjN8FWMciICWgd9KO7Q=";
+      url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.3/file/gera2ld.ipfs-editor-vscode-0.1.3.vsix";
+      sha256 = "sha256-BY1vqt8lUDTvgwzXLWG8intjJJ8279yoXyn0jNBavFo=";
     };
     license = "MIT";
     name = "ipfs-editor-vscode";
@@ -11835,10 +11835,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022090211";
+    version = "0.1.2022090513";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090211/file/jbangdev.jbang-vscode-0.1.2022090211.vsix";
-      sha256 = "sha256-lzqtBazPiTLs6YtaA0rxv3LV0pfKdfl8duXL2J0ciCw=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090513/file/jbangdev.jbang-vscode-0.1.2022090513.vsix";
+      sha256 = "sha256-ehLlzzkGC3+Qk7bJj4N4dcPHAbO0j4WHRAevkjEz3Kg=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -24183,10 +24183,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
