@@ -7287,10 +7287,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.5.3";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix";
-      sha256 = "sha256-k6vFZyPR3xxMw1ic+O7SRBbe70B+6rA07z/ICqYBvpk=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.6.0/file/cmoog.sqlnotebook-0.6.0.vsix";
+      sha256 = "sha256-0lYoGtyrBmrwlw6slSbiZb0audQC/5l2di4K3Bwih4c=";
     };
     license = "MIT";
     name = "sqlnotebook";
@@ -8163,10 +8163,10 @@
   };
   deepakgupta191199-save-commands = {
     pname = "deepakgupta191199-save-commands";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.2.0/file/deepakgupta191199.save-commands-0.2.0.vsix";
-      sha256 = "sha256-H+dyuuUxG6GM11NQ08ONzxRX5GXfX/G97ypxTUUQEcM=";
+      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.3.0/file/deepakgupta191199.save-commands-0.3.0.vsix";
+      sha256 = "sha256-HWQWKZieDgQM9oDU4rW3Ky0y9dIuWNK2jEaCUS9UXHQ=";
     };
     license = "MIT";
     name = "save-commands";
@@ -11643,10 +11643,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.26";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.26/file/iterative.dvc-0.3.26.vsix";
-      sha256 = "sha256-fxyfJkdaUnhb4BhqJn6v9M9Q69QZboUqolDVknT/Mys=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4.0.vsix";
+      sha256 = "sha256-smhEbjgyqj+aeMu5Cn9KZM7KS2ilVZL2xDmkMLd9IJw=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13203,10 +13203,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18084,6 +18084,18 @@
     name = "vscode-yaml";
     description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support";
     publisher = "redhat";
+  };
+  redjue-git-commit-plugin = {
+    pname = "redjue-git-commit-plugin";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/redjue/git-commit-plugin/1.1.0/file/redjue.git-commit-plugin-1.1.0.vsix";
+      sha256 = "sha256-9YCaCmlNUG+e9gojoqhSskc4e+7KD26J++AjTwTcFmo=";
+    };
+    license = "MIT";
+    name = "git-commit-plugin";
+    description = "Automatically generate git commit";
+    publisher = "redjue";
   };
   redlin-remove-tabs-on-save = {
     pname = "redlin-remove-tabs-on-save";

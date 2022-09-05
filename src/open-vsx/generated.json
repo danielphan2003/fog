@@ -11545,11 +11545,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k6vFZyPR3xxMw1ic+O7SRBbe70B+6rA07z/ICqYBvpk=",
+            "sha256": "sha256-0lYoGtyrBmrwlw6slSbiZb0audQC/5l2di4K3Bwih4c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix"
+            "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.6.0/file/cmoog.sqlnotebook-0.6.0.vsix"
         },
-        "version": "0.5.3"
+        "version": "0.6.0"
     },
     "cnshenj-vscode-task-manager": {
         "cargoLocks": null,
@@ -12932,11 +12932,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-H+dyuuUxG6GM11NQ08ONzxRX5GXfX/G97ypxTUUQEcM=",
+            "sha256": "sha256-HWQWKZieDgQM9oDU4rW3Ky0y9dIuWNK2jEaCUS9UXHQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/deepakgupta191199/save-commands/0.2.0/file/deepakgupta191199.save-commands-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/deepakgupta191199/save-commands/0.3.0/file/deepakgupta191199.save-commands-0.3.0.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     "deerawan-vscode-faker": {
         "cargoLocks": null,
@@ -18442,11 +18442,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fxyfJkdaUnhb4BhqJn6v9M9Q69QZboUqolDVknT/Mys=",
+            "sha256": "sha256-smhEbjgyqj+aeMu5Cn9KZM7KS2ilVZL2xDmkMLd9IJw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.26/file/iterative.dvc-0.3.26.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4.0.vsix"
         },
-        "version": "0.3.26"
+        "version": "0.4.0"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -20912,11 +20912,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -28631,6 +28631,25 @@
             "url": "https://open-vsx.org/api/redhat/vscode-yaml/1.10.1/file/redhat.vscode-yaml-1.10.1.vsix"
         },
         "version": "1.10.1"
+    },
+    "redjue-git-commit-plugin": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "redjue-git-commit-plugin",
+        "passthru": {
+            "description": "Automatically generate git commit",
+            "license": "MIT",
+            "name": "git-commit-plugin",
+            "publisher": "redjue"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9YCaCmlNUG+e9gojoqhSskc4e+7KD26J++AjTwTcFmo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/redjue/git-commit-plugin/1.1.0/file/redjue.git-commit-plugin-1.1.0.vsix"
+        },
+        "version": "1.1.0"
     },
     "redlin-remove-tabs-on-save": {
         "cargoLocks": null,

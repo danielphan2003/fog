@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7260,8 +7260,8 @@ fetch.url = "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.r
 passthru = { publisher = "anweber", name = "reveal-button", description = "Reveal Button in Sidebar", license = "MIT" }
 
 [cmoog-sqlnotebook]
-src.manual = "0.5.3" # cmoog.sqlnotebook
-fetch.url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix" # cmoog.sqlnotebook
+src.manual = "0.6.0" # cmoog.sqlnotebook
+fetch.url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.6.0/file/cmoog.sqlnotebook-0.6.0.vsix" # cmoog.sqlnotebook
 passthru = { publisher = "cmoog", name = "sqlnotebook", description = "View SQL files as notebooks. Execute cells and view query output.", license = "MIT" }
 
 [muuvmuuv-vscode-sundial]
@@ -9730,8 +9730,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-co
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.3.26" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.26/file/iterative.dvc-0.3.26.vsix" # iterative.dvc
+src.manual = "0.4.0" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4.0.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -9750,8 +9750,8 @@ fetch.url = "https://open-vsx.org/api/edukera/archetype/0.62.0/file/edukera.arch
 passthru = { publisher = "edukera", name = "archetype", description = "DSL to develop smart contracts on the Tezos blockchain.", license = "MIT" }
 
 [deepakgupta191199-save-commands]
-src.manual = "0.2.0" # deepakgupta191199.save-commands
-fetch.url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.2.0/file/deepakgupta191199.save-commands-0.2.0.vsix" # deepakgupta191199.save-commands
+src.manual = "0.3.0" # deepakgupta191199.save-commands
+fetch.url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.3.0/file/deepakgupta191199.save-commands-0.3.0.vsix" # deepakgupta191199.save-commands
 passthru = { publisher = "deepakgupta191199", name = "save-commands", description = "Simple VSCode Extension to save and execute terminal commands.", license = "MIT" }
 
 [Pivotal-vscode-spring-boot]
@@ -10277,4 +10277,10 @@ passthru = { publisher = "hadesarchitect", name = "katapod", description = "", l
 src.manual = "0.4.2" # koszti.snowflake-driver-for-sqltools
 fetch.url = "https://open-vsx.org/api/koszti/snowflake-driver-for-sqltools/0.4.2/file/koszti.snowflake-driver-for-sqltools-0.4.2.vsix" # koszti.snowflake-driver-for-sqltools
 passthru = { publisher = "koszti", name = "snowflake-driver-for-sqltools", description = "SQLTools Snowflake driver", license = "MIT" }
+
+
+[redjue-git-commit-plugin]
+src.manual = "1.1.0" # redjue.git-commit-plugin
+fetch.url = "https://open-vsx.org/api/redjue/git-commit-plugin/1.1.0/file/redjue.git-commit-plugin-1.1.0.vsix" # redjue.git-commit-plugin
+passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Automatically generate git commit", license = "MIT" }
 
