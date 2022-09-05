@@ -321,11 +321,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "v2.6.0-beta.2",
-            "sha256": "sha256-VTrE2EmR7FciwuglcuK1UFzCEsZhiD718I8wllnG510=",
+            "rev": "v2.6.0-beta.3",
+            "sha256": "sha256-PAm/XsxDwsnI7ICAz4867DzSNKurgL1/o4TcLyjaqzE=",
             "type": "github"
         },
-        "version": "v2.6.0-beta.2"
+        "version": "v2.6.0-beta.3"
     },
     "caddy-dist": {
         "cargoLocks": null,
@@ -340,11 +340,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "dist",
-            "rev": "v2.5.2",
-            "sha256": "sha256-wzW0eb+O7JqQJkWtpMwV4G56uqLd1U2NduNAMPGvD3o=",
+            "rev": "v2.6.0-beta.3",
+            "sha256": "sha256-yw84ooXEqamWKANXmd5pU5Ig7ANDplBUwynF/qPLq1g=",
             "type": "github"
         },
-        "version": "v2.5.2"
+        "version": "v2.6.0-beta.3"
     },
     "caddy-git": {
         "cargoLocks": null,
@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "0499d9c1c4177503c4a3d8d6bffd5d44e5edd430",
-            "sha256": "sha256-VTrE2EmR7FciwuglcuK1UFzCEsZhiD718I8wllnG510=",
+            "rev": "487217519cd8dad207d04d5db966aacff3949b1d",
+            "sha256": "sha256-PAm/XsxDwsnI7ICAz4867DzSNKurgL1/o4TcLyjaqzE=",
             "type": "github"
         },
-        "version": "0499d9c1c4177503c4a3d8d6bffd5d44e5edd430"
+        "version": "487217519cd8dad207d04d5db966aacff3949b1d"
     },
     "cinny": {
         "cargoLocks": null,
@@ -606,11 +606,11 @@
             "name": null,
             "owner": "muesli",
             "repo": "duf",
-            "rev": "ef60745b0ef94ea8abbbe54985a6550547c4e764",
-            "sha256": "sha256-6IcvPbsk+dG/vlroD7L5me4YFwXtGeM+ZWNywBjBco4=",
+            "rev": "943f84cf435b9dfdb894edb3729e115181525302",
+            "sha256": "sha256-rvVMFhnPfTGdjz1a0Io+GnutEw1aEy/NXFNRECNvpQQ=",
             "type": "github"
         },
-        "version": "ef60745b0ef94ea8abbbe54985a6550547c4e764"
+        "version": "943f84cf435b9dfdb894edb3729e115181525302"
     },
     "eww": {
         "cargoLocks": {
