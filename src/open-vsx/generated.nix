@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
-      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.8/file/arm.keil-studio-pack-web-1.0.8.vsix";
+      sha256 = "sha256-RzM1YPq9JuG9Q0+6OE5BeagryPLob9TJKPoAugeSQl8=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10421,8 +10421,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -24099,10 +24099,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.15.2";
+    version = "3.15.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.2/file/zhuangtongfa.material-theme-3.15.2.vsix";
-      sha256 = "sha256-gq0Qtj6oyHYTkHAHtU8qtbFMnxJk8hfXxhOzApYDcxs=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.4/file/zhuangtongfa.material-theme-3.15.4.vsix";
+      sha256 = "sha256-3UwmQCkX1z87qyDSP5+flRWO3KYQE1ik3CztLVKgIH4=";
     };
     license = "MIT";
     name = "material-theme";

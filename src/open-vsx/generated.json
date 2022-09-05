@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=",
+            "sha256": "sha256-RzM1YPq9JuG9Q0+6OE5BeagryPLob9TJKPoAugeSQl8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.8/file/arm.keil-studio-pack-web-1.0.8.vsix"
         },
         "version": "1.0.8"
     },
@@ -16504,9 +16504,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -38164,11 +38164,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gq0Qtj6oyHYTkHAHtU8qtbFMnxJk8hfXxhOzApYDcxs=",
+            "sha256": "sha256-3UwmQCkX1z87qyDSP5+flRWO3KYQE1ik3CztLVKgIH4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.2/file/zhuangtongfa.material-theme-3.15.2.vsix"
+            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.4/file/zhuangtongfa.material-theme-3.15.4.vsix"
         },
-        "version": "3.15.2"
+        "version": "3.15.4"
     },
     "ziyasal-vscode-open-in-github": {
         "cargoLocks": null,

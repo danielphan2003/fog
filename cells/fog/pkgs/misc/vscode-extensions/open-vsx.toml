@@ -4445,8 +4445,8 @@ fetch.url = "https://open-vsx.org/api/lextudio/restructuredtext/190.1.4/file/lex
 passthru = { publisher = "lextudio", name = "restructuredtext", description = "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)", license = "MIT" }
 
 [zhuangtongfa-material-theme]
-src.manual = "3.15.2" # zhuangtongfa.material-theme
-fetch.url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.2/file/zhuangtongfa.material-theme-3.15.2.vsix" # zhuangtongfa.material-theme
+src.manual = "3.15.4" # zhuangtongfa.material-theme
+fetch.url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.4/file/zhuangtongfa.material-theme-3.15.4.vsix" # zhuangtongfa.material-theme
 passthru = { publisher = "zhuangtongfa", name = "material-theme", description = "Atom‘s iconic One Dark theme for Visual Studio Code", license = "MIT" }
 
 [humao-rest-client]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.8" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.8/file/arm.keil-studio-pack-web-1.0.8.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10283,5 +10283,6 @@ passthru = { publisher = "koszti", name = "snowflake-driver-for-sqltools", descr
 src.manual = "1.1.0" # redjue.git-commit-plugin
 fetch.url = "https://open-vsx.org/api/redjue/git-commit-plugin/1.1.0/file/redjue.git-commit-plugin-1.1.0.vsix" # redjue.git-commit-plugin
 passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Automatically generate git commit", license = "MIT" }
+
 
 
