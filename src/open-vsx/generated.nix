@@ -5547,10 +5547,10 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
-      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack";
@@ -5559,10 +5559,10 @@
   };
   arm-keil-studio-pack-web = {
     pname = "arm-keil-studio-pack-web";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.8/file/arm.keil-studio-pack-1.0.8.vsix";
-      sha256 = "sha256-wP86cjWj4tUPw6ThMVKHiEJjCFbqbuJRl6d+mbhxqGI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -7512,6 +7512,18 @@
     name = "gitpod-trivia";
     description = "This extension shows a message at Gitpod workspace start with more information about your unique workspace name. More features will probably be added in the future. Note: This extension works in Gitpod only.";
     publisher = "corneliusludmann";
+  };
+  cortex-debug-svd-viewer = {
+    pname = "cortex-debug-svd-viewer";
+    version = "1.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.4/file/cortex-debug.svd-viewer-1.0.4.vsix";
+      sha256 = "sha256-rvto+P3/89SWegP9/0+waAI43EyybLDwR9l6sLEBnMc=";
+    };
+    license = "MIT";
+    name = "svd-viewer";
+    description = "Standalone SVD Viewer extension extracted from cortex-debug";
+    publisher = "cortex-debug";
   };
   cqframework-cql = {
     pname = "cqframework-cql";
@@ -13203,10 +13215,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18831,10 +18843,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.18.0";
+    version = "1.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.18.0/file/sasjs.sasjs-for-vscode-1.18.0.vsix";
-      sha256 = "sha256-ABMewGG5/FRn4wFxh4ijOJkpERGvK7e7uDqMEFpSaIY=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.19.1/file/sasjs.sasjs-for-vscode-1.19.1.vsix";
+      sha256 = "sha256-5oExp9zD17Za9VIvRzF3ENqx5ZaZNYn12n5pWN6dtwU=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";
@@ -19721,8 +19733,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23859,10 +23871,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.27";
+    version = "0.1.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.27/file/zardoy.better-snippets-0.1.27.vsix";
-      sha256 = "sha256-gxiz7ZQjKgWSGdNnXVyRzmu+8cIBBPSXCU6Kt2xm1ic=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.28/file/zardoy.better-snippets-0.1.28.vsix";
+      sha256 = "sha256-SN7MhBkcFBbr0+oM77u3f6lr5vVu4F+nRF6LTsaIu0A=";
     };
     license = "MIT";
     name = "better-snippets";
@@ -24183,10 +24195,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
