@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1386";
+    version = "31.0.1387";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1386/file/Prisma.prisma-insider-31.0.1386.vsix";
-      sha256 = "sha256-yIgYtuqXIAx1id/CcZfM0i/Kpl/+M9Jm2qQX3lyyRXQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1387/file/Prisma.prisma-insider-31.0.1387.vsix";
+      sha256 = "sha256-Ds0OHr/K2AiATcLPiDWTgJKKvH20mNfENtPsEzjkeLg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12891,10 +12891,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -20631,10 +20631,10 @@
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/thiht/vscode-venom/1.1.0/file/thiht.vscode-venom-1.1.0.vsix";
-      sha256 = "sha256-HkLEHFGR04CyAEp43OKarvpiGWh82X+HvwlyoHudwO0=";
+      url = "https://open-vsx.org/api/thiht/vscode-venom/1.2.0/file/thiht.vscode-venom-1.2.0.vsix";
+      sha256 = "sha256-w91pZtkgcPO7vorx3gj2jX6gYmwLpWUKXsvPM8kCPXM=";
     };
     license = "MIT";
     name = "vscode-venom";
