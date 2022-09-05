@@ -8895,10 +8895,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2978800";
+    version = "8.0.2991943";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2978800/file/eliostruyf.vscode-front-matter-beta-8.0.2978800.vsix";
-      sha256 = "sha256-WpAVn1XyDkdzJrKzkH7ECyikL3NVX5P9LJLFH68/umI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2991943/file/eliostruyf.vscode-front-matter-beta-8.0.2991943.vsix";
+      sha256 = "sha256-xjJQjT9p3gqQlfS656hOXjkDy8y/MJUpyzFvdw7w9CE=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -12507,10 +12507,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.31";
+    version = "0.6.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.31/file/kahole.magit-0.6.31.vsix";
-      sha256 = "sha256-IIRYEYnA9ipwpDeW7aq+uhURm/FDlaqbqffVppeEE9k=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.32/file/kahole.magit-0.6.32.vsix";
+      sha256 = "sha256-f9HWBVjm5mPADQqk+a7Dz8BqmIMzvAygrlHvctY1Oo8=";
     };
     license = "MIT";
     name = "magit";
@@ -13743,10 +13743,10 @@
   };
   marcinbar-vscode-squirrel-linter = {
     pname = "marcinbar-vscode-squirrel-linter";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.19/file/marcinbar.vscode-squirrel-0.0.19.vsix";
-      sha256 = "sha256-4X0g4s14FEzRbUYdwJvFKaLOjYFv+EQTrlzvMiijy1k=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.20/file/marcinbar.vscode-squirrel-0.0.20.vsix";
+      sha256 = "sha256-IEm5Cdkoy8catEaVbCFN2IyYtwurskS1oIRvVjN10rk=";
     };
     license = "MIT";
     name = "vscode-squirrel-linter";
@@ -17499,10 +17499,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.36.0";
+    version = "1.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.36.0/file/quarto.quarto-1.36.0.vsix";
-      sha256 = "sha256-bCIbdoQ60iLwDeHTXeRxaBE4PXxLGEU2hpaaU6XNric=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.37.0/file/quarto.quarto-1.37.0.vsix";
+      sha256 = "sha256-vbIXYRCEX8f0bEmG67f2/SoiWPoaE3/VmC1j4a5MFo4=";
     };
     license = "MIT";
     name = "quarto";
