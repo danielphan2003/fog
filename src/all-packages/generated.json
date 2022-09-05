@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "66a1651e57657697c445b30a2f19352010381029",
-            "sha256": "sha256-GfQGj3z/ZjZsQK/680DK61UWQGG6swsgH2VakZYoZ/o=",
+            "rev": "db0d49269bc9b45b6f2956aff98d6c894cd90fe6",
+            "sha256": "sha256-mz+c0Ox7+nK9H5WdnnRXFTqBRCMcPWAQ9d9goTMUfus=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "66a1651e57657697c445b30a2f19352010381029"
+        "version": "db0d49269bc9b45b6f2956aff98d6c894cd90fe6"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "84868ab21f6f0528ea80b4bf4461940c123287ea",
-            "sha256": "sha256-osMM0EBUcI6Af1ezhq3QEmcKB2lkEH9Z2KTGTJFZ+Hk=",
+            "rev": "5e985f05531832237e66d5d7f9d2ac081bb04c9a",
+            "sha256": "sha256-RSWx06FFOECX0RzpOdS4OHG+hc7D9gtLhn1OUU0xB2I=",
             "type": "github"
         },
-        "version": "84868ab21f6f0528ea80b4bf4461940c123287ea"
+        "version": "5e985f05531832237e66d5d7f9d2ac081bb04c9a"
     },
     "revanced-cli": {
         "cargoLocks": null,
