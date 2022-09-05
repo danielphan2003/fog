@@ -2740,8 +2740,8 @@ fetch.url = "https://open-vsx.org/api/vscode/yaml/1.62.3/file/vscode.yaml-1.62.3
 passthru = { publisher = "vscode", name = "yaml", description = "Provides syntax highlighting and bracket matching in YAML files.", license = "MIT" }
 
 [mark-hansen-hledger-vscode]
-src.manual = "0.0.7" # mark-hansen.hledger-vscode
-fetch.url = "https://open-vsx.org/api/mark-hansen/hledger-vscode/0.0.7/file/mark-hansen.hledger-vscode-0.0.7.vsix" # mark-hansen.hledger-vscode
+src.manual = "0.0.9" # mark-hansen.hledger-vscode
+fetch.url = "https://open-vsx.org/api/mark-hansen/hledger-vscode/0.0.9/file/mark-hansen.hledger-vscode-0.0.9.vsix" # mark-hansen.hledger-vscode
 passthru = { publisher = "mark-hansen", name = "hledger-vscode", description = "Language support for HLedger accounting journals.", license = "MIT" }
 
 [vscode-html-language-features]
@@ -7885,8 +7885,8 @@ fetch.url = "https://open-vsx.org/api/stephlin/vscode-tmux-keybinding/0.0.7/file
 passthru = { publisher = "stephlin", name = "vscode-tmux-keybinding", description = "A simple extension for tmux behavior in vscode terminal.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-french-reforme]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-french-reforme
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-french-reforme
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-french-reforme
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-french-reforme
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-french-reforme", description = "French Réforme 90 dictionary extension for VS Code.", license = "MIT" }
 
 [langium-langium-vscode]
@@ -7895,13 +7895,13 @@ fetch.url = "https://open-vsx.org/api/langium/langium-vscode/0.4.0/file/langium.
 passthru = { publisher = "langium", name = "langium-vscode", description = "Support for the Langium Grammar Language", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-russian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-russian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-russian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-russian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-russian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-russian", description = "Russian dictionary extension for VS Code.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-german]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-german
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-german
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-german
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-german
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-german", description = "German dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [a5hk-paper]
@@ -8655,13 +8655,13 @@ fetch.url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.8.0/file/quick-
 passthru = { publisher = "quick-lint", name = "quick-lint-js", description = "Find JavaScript bugs with quick-lint-js", license = "GPL-3.0" }
 
 [streetsidesoftware-code-spell-checker-norwegian-bokmal]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-norwegian-bokmal
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-norwegian-bokmal
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-norwegian-bokmal
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-norwegian-bokmal
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-norwegian-bokmal", description = "Norwegian Bokmål dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-portuguese-brazilian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-portuguese-brazilian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-portuguese-brazilian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-portuguese-brazilian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-portuguese-brazilian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-portuguese-brazilian", description = "Brazilian Portuguese dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [redhat-vscode-microprofile]
@@ -8685,8 +8685,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.22.0
 passthru = { publisher = "redhat", name = "vscode-extension-bpmn-editor", description = "Edit BPMN files", license = "Apache-2.0" }
 
 [streetsidesoftware-code-spell-checker-slovenian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-slovenian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-slovenian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-slovenian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-slovenian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-slovenian", description = "Slovenian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [lukepearson-cidr-ip-range]
@@ -8695,33 +8695,33 @@ fetch.url = "https://open-vsx.org/api/lukepearson/cidr-ip-range/0.0.8/file/lukep
 passthru = { publisher = "lukepearson", name = "cidr-ip-range", description = "Shows the ip range covered by a cidr block", license = "GPL-3.0" }
 
 [streetsidesoftware-code-spell-checker-estonian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-estonian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-estonian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-estonian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-estonian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-estonian", description = "Estonian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-bulgarian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-bulgarian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-bulgarian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-bulgarian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-bulgarian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-bulgarian", description = "Bulgarian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-croatian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-croatian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-croatian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-croatian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-croatian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-croatian", description = "Croatian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-turkish]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-turkish
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-turkish
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-turkish
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-turkish
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-turkish", description = "Turkish dictionary extension for VS Code.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-scientific-terms]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-scientific-terms
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-scientific-terms
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-scientific-terms
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-scientific-terms
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-scientific-terms", description = "Scientific Terms dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-swedish]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-swedish
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-swedish
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-swedish
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-swedish
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-swedish", description = "Swedish dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [akosyakov-gitpod-monitor]
@@ -8730,8 +8730,8 @@ fetch.url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.4/file/akosya
 passthru = { publisher = "akosyakov", name = "gitpod-monitor", description = "Resource monitor for Gitpod workspaces", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-dutch]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-dutch
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-dutch
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-dutch
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-dutch
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-dutch", description = "Dutch / Nederlands dictionary extension for VS Code.", license = "MIT" }
 
 [MariusvanWijk-JoppeKoers-codam-norminette-3]
@@ -8755,8 +8755,8 @@ fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0
 passthru = { publisher = "kie-group", name = "vscode-extension-kogito-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [streetsidesoftware-code-spell-checker-spanish]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-spanish
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-spanish
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-spanish
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-spanish
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-spanish", description = "Spanish Add-On for Code Spell Checker", license = "MIT" }
 
 [redhat-vscode-extension-dmn-editor]
@@ -8885,8 +8885,8 @@ fetch.url = "https://open-vsx.org/api/steffo/steffula-code/0.9.0/file/steffo.ste
 passthru = { publisher = "steffo", name = "steffula-code", description = "Steffula theme for Visual Studio Code.", license = "AGPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-arabic]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-arabic
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-arabic
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-arabic
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-arabic
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
@@ -9350,13 +9350,13 @@ fetch.url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vs
 passthru = { publisher = "Pivotal", name = "vscode-bosh", description = "Provides validation and content assist for various Bosh configuration files", license = "EPL-1.0" }
 
 [streetsidesoftware-code-spell-checker-danish]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-danish
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-danish
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-danish
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-danish
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-danish", description = "Danish dictionary extension for VS Code.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-catalan]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-catalan
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-catalan
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-catalan
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-catalan
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-catalan", description = "Catalan dictionary extension for VS Code.", license = "MIT" }
 
 [marp-team-marp-vscode]
@@ -9365,23 +9365,23 @@ fetch.url = "https://open-vsx.org/api/marp-team/marp-vscode/2.2.1/file/marp-team
 passthru = { publisher = "marp-team", name = "marp-vscode", description = "Create slide deck written in Marp Markdown on VS Code", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-hebrew]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-hebrew
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-hebrew
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-hebrew
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-hebrew
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-hebrew", description = "Hebrew dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-persian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-persian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-persian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-persian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-persian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-persian", description = "Persian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-esperanto]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-esperanto
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-esperanto
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-esperanto
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-esperanto
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-esperanto", description = "Esperanto dictionary extension for VS Code.", license = "GPL-2.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-vietnamese]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-vietnamese
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-vietnamese
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-vietnamese
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-vietnamese
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-vietnamese", description = "Vietnamese dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [html-validate-vscode-html-validate]
@@ -9390,8 +9390,8 @@ fetch.url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.4.0/f
 passthru = { publisher = "html-validate", name = "vscode-html-validate", description = "vscode extension for html-validate", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-ukrainian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-ukrainian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-ukrainian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-ukrainian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-ukrainian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-ukrainian", description = "Ukrainian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [BroadcomMFD-explorer-for-endevor]
@@ -9400,23 +9400,23 @@ fetch.url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.2.0/fil
 passthru = { publisher = "BroadcomMFD", name = "explorer-for-endevor", description = "Explorer for Endevor", license = "EPL-2.0" }
 
 [streetsidesoftware-code-spell-checker-greek]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-greek
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-greek
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-greek
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-greek
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-greek", description = "Greek dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-medical-terms]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-medical-terms
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-medical-terms
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-medical-terms
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-medical-terms
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-medical-terms", description = "Medical Terms Add-On for Code Spell Checker", license = "GPL-3.0-or-later" }
 
 [streetsidesoftware-code-spell-checker-czech]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-czech
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-czech
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-czech
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-czech
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-czech", description = "Czech dictionary extension for VS Code.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-italian]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-italian
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-italian
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-italian
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-italian
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-italian", description = "Italian dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [dalirnet-rtl-markdown]
@@ -9425,8 +9425,8 @@ fetch.url = "https://open-vsx.org/api/dalirnet/rtl-markdown/0.0.10/file/dalirnet
 passthru = { publisher = "dalirnet", name = "rtl-markdown", description = "Markdown Right-to-Left support", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-polish]
-src.manual = "2.7.1" # streetsidesoftware.code-spell-checker-polish
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.1/file/streetsidesoftware.code-spell-checker-2.7.1.vsix" # streetsidesoftware.code-spell-checker-polish
+src.manual = "2.7.2" # streetsidesoftware.code-spell-checker-polish
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix" # streetsidesoftware.code-spell-checker-polish
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-polish", description = "Polish dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [dalirnet-vue-sort]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "4.3.1" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1386" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1386/file/Prisma.prisma-insider-31.0.1386.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10283,6 +10283,7 @@ passthru = { publisher = "koszti", name = "snowflake-driver-for-sqltools", descr
 src.manual = "1.1.0" # redjue.git-commit-plugin
 fetch.url = "https://open-vsx.org/api/redjue/git-commit-plugin/1.1.0/file/redjue.git-commit-plugin-1.1.0.vsix" # redjue.git-commit-plugin
 passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Automatically generate git commit", license = "MIT" }
+
 
 
 
