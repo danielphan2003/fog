@@ -188,13 +188,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "v2.6.0-beta.1";
+    version = "v2.6.0-beta.2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "v2.6.0-beta.1";
+      rev = "v2.6.0-beta.2";
       fetchSubmodules = false;
-      sha256 = "sha256-xYMEpCWobaO7GjgMWijp5+8bBqqiV00eWS8Nq5Ghz90=";
+      sha256 = "sha256-VTrE2EmR7FciwuglcuK1UFzCEsZhiD718I8wllnG510=";
     });
   };
   caddy-dist = {
@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "5dfa08174ae3af34f10f0c1b5ca69b12a0ec7395";
+    version = "0499d9c1c4177503c4a3d8d6bffd5d44e5edd430";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "5dfa08174ae3af34f10f0c1b5ca69b12a0ec7395";
+      rev = "0499d9c1c4177503c4a3d8d6bffd5d44e5edd430";
       fetchSubmodules = false;
-      sha256 = "sha256-xYMEpCWobaO7GjgMWijp5+8bBqqiV00eWS8Nq5Ghz90=";
+      sha256 = "sha256-VTrE2EmR7FciwuglcuK1UFzCEsZhiD718I8wllnG510=";
     });
   };
   cinny = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c1bc8d46e971b218b43bcbc31f0a854a5df5c0c9";
+    version = "f002bd1603dda0455f31478987252af582393ef2";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c1bc8d46e971b218b43bcbc31f0a854a5df5c0c9";
+      rev = "f002bd1603dda0455f31478987252af582393ef2";
       fetchSubmodules = false;
-      sha256 = "sha256-s4fltjGvwDEQkjlMnSnDpMfAJ71Ve3TXQECxur4j0lg=";
+      sha256 = "sha256-2moRgFDH3/zr09wIw5J4Z+8v+jOSVn+N5DSuPF3KhTo=";
     });
   };
   ibus = {
