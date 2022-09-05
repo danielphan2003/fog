@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9135,8 +9135,8 @@ fetch.url = "https://open-vsx.org/api/FinancialForce/lana/1.5.0/file/FinancialFo
 passthru = { publisher = "FinancialForce", name = "lana", description = "Analyzer for Salesforce debug logs - Visualize code execution via a Flame graph and identify performance and SOQL/DML problems via Method and Database analysis", license = "" }
 
 [devfactory-cloudfix-linter]
-src.manual = "0.0.4" # devfactory.cloudfix-linter
-fetch.url = "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix" # devfactory.cloudfix-linter
+src.manual = "0.0.6" # devfactory.cloudfix-linter
+fetch.url = "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.6/file/devfactory.cloudfix-linter-0.0.6.vsix" # devfactory.cloudfix-linter
 passthru = { publisher = "devfactory", name = "cloudfix-linter", description = "Brings Cloudfix recommendations into your IDE for terraform", license = "MIT" }
 
 [FelixAngelov-mason]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9855,8 +9855,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
 [sasjs-sasjs-for-vscode]
-src.manual = "1.19.1" # sasjs.sasjs-for-vscode
-fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.19.1/file/sasjs.sasjs-for-vscode-1.19.1.vsix" # sasjs.sasjs-for-vscode
+src.manual = "1.20.0" # sasjs.sasjs-for-vscode
+fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix" # sasjs.sasjs-for-vscode
 passthru = { publisher = "sasjs", name = "sasjs-for-vscode", description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting", license = "MIT" }
 
 [betterthantomorrow-joyride]
@@ -10295,4 +10295,5 @@ passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Au
 src.manual = "1.0.4" # cortex-debug.svd-viewer
 fetch.url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.4/file/cortex-debug.svd-viewer-1.0.4.vsix" # cortex-debug.svd-viewer
 passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Standalone SVD Viewer extension extracted from cortex-debug", license = "MIT" }
+
 

@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -8355,10 +8355,10 @@
   };
   devfactory-cloudfix-linter = {
     pname = "devfactory-cloudfix-linter";
-    version = "0.0.4";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix";
-      sha256 = "sha256-ZCtwhQbu3Sh+hrFYnUSp5R/tQuMrnRNshGMD1x8gZRg=";
+      url = "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.6/file/devfactory.cloudfix-linter-0.0.6.vsix";
+      sha256 = "sha256-SaMgyZWMmPY27UChGGf6MucwdfYUKGqnu6Kam3cey6w=";
     };
     license = "MIT";
     name = "cloudfix-linter";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -18843,10 +18843,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.19.1";
+    version = "1.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.19.1/file/sasjs.sasjs-for-vscode-1.19.1.vsix";
-      sha256 = "sha256-5oExp9zD17Za9VIvRzF3ENqx5ZaZNYn12n5pWN6dtwU=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix";
+      sha256 = "sha256-tyYz0sRPISM+4lDHNxj3aRYTz+ACC5ZBZO48uaIKjYE=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";

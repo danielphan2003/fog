@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -13236,11 +13236,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZCtwhQbu3Sh+hrFYnUSp5R/tQuMrnRNshGMD1x8gZRg=",
+            "sha256": "sha256-SaMgyZWMmPY27UChGGf6MucwdfYUKGqnu6Kam3cey6w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.6/file/devfactory.cloudfix-linter-0.0.6.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.6"
     },
     "devfactory-multispace": {
         "cargoLocks": null,
@@ -16523,9 +16523,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -29842,11 +29842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5oExp9zD17Za9VIvRzF3ENqx5ZaZNYn12n5pWN6dtwU=",
+            "sha256": "sha256-tyYz0sRPISM+4lDHNxj3aRYTz+ACC5ZBZO48uaIKjYE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.19.1/file/sasjs.sasjs-for-vscode-1.19.1.vsix"
+            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.0/file/sasjs.sasjs-for-vscode-1.20.0.vsix"
         },
-        "version": "1.19.1"
+        "version": "1.20.0"
     },
     "satoqz-yet-another-discord-presence": {
         "cargoLocks": null,
