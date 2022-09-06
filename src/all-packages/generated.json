@@ -2024,11 +2024,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9240f5c1e20bac3ecf945a58a447f53157f68e14",
-            "sha256": "sha256-ipvMZfdwT0eOZIu+PUwowCejoUS5j0CR3hOiojrxNUA=",
+            "rev": "9c8bbc7888d8886e1b47d1bf1fec151eecfd2b4d",
+            "sha256": "sha256-HcKj25KrW0spe4UAB3+OdhhDmiumG9qOVDzMxwdqB3U=",
             "type": "github"
         },
-        "version": "9240f5c1e20bac3ecf945a58a447f53157f68e14"
+        "version": "9c8bbc7888d8886e1b47d1bf1fec151eecfd2b4d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2199,11 +2199,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "13a6df87812e04b95214119eee5deb7b711994c2",
-            "sha256": "sha256-EexI8VIUqA1MO52j4ameyAPF9apaH4R2e4U0RqH2SJc=",
+            "rev": "2c63dbf6c2d5f97523299a4ac7657de54a9a2c72",
+            "sha256": "sha256-wb9Ya2AEgBMNgQiwpEU60Y8Kkr3DZeCloe4qTKrgK6A=",
             "type": "github"
         },
-        "version": "13a6df87812e04b95214119eee5deb7b711994c2"
+        "version": "2c63dbf6c2d5f97523299a4ac7657de54a9a2c72"
     },
     "wgcf": {
         "cargoLocks": null,
