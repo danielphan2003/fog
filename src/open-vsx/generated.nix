@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1389";
+    version = "31.0.1390";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1389/file/Prisma.prisma-insider-31.0.1389.vsix";
-      sha256 = "sha256-AP9x80jKJIuiSZdOrcpqI6Edsl18KZGFF3a77Fit+SE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1390/file/Prisma.prisma-insider-31.0.1390.vsix";
+      sha256 = "sha256-0BVzUVS211G0mHPTn3YyThaf7HTy/ZUaw3EI27ciFrs=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -10445,8 +10445,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
+      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -10599,10 +10599,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.10.2";
+    version = "0.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.2/file/halcyontechltd.vscode-rpgle-0.10.2.vsix";
-      sha256 = "sha256-gEBH5fQCUN6wpOLzAPfEdQv8a0SLuTSvEYmxgCA+pv0=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.3/file/halcyontechltd.vscode-rpgle-0.10.3.vsix";
+      sha256 = "sha256-WFW+NAhc4ErjPO/agQHvKCrtbYDbSutjCaf7f9qSCuY=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -13239,10 +13239,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662162659";
+    version = "2022.9.1662487573";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662162659/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662162659.vsix";
-      sha256 = "sha256-2A2YFcP7qV9/8ZgQQzDX2I4IckbxrpMGknhCS68RlVw=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662487573/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662487573.vsix";
+      sha256 = "sha256-xOOMepbeInAHY5fbyy+hXItuPjjNxoGQsNIJe9DMMvo=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -14307,10 +14307,10 @@
   };
   meteor-toolbox-meteor-toolbox = {
     pname = "meteor-toolbox-meteor-toolbox";
-    version = "1.1.5";
+    version = "1.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.5/file/meteor-toolbox.meteor-toolbox-1.1.5.vsix";
-      sha256 = "sha256-60IHC5hLFCs14VfqzcdBKFFzIn0lZFmD/E5SzMN+NB8=";
+      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.6/file/meteor-toolbox.meteor-toolbox-1.1.6.vsix";
+      sha256 = "sha256-p4j6/cdlMhDW4zLMDAghPMspCeVNL+IqFOjHtDuCOxM=";
     };
     license = "MIT";
     name = "meteor-toolbox";
@@ -23199,10 +23199,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "2.1.1";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.1/file/webhint.vscode-webhint-2.1.1.vsix";
-      sha256 = "sha256-4j+6rX23MJ/EH0rjH1THDK5GwVkdkqKjqKDnjg84w14=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.3/file/webhint.vscode-webhint-2.1.3.vsix";
+      sha256 = "sha256-ooQIvUzk7ueN1IfhhW9I4FjJZmR3KqHLTWR/i027sT0=";
     };
     license = "Apache-2.0";
     name = "vscode-webhint";

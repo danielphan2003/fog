@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662162659" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662162659/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662162659.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1662487573" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662487573/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662487573.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -8260,8 +8260,8 @@ fetch.url = "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.2/file/cli
 passthru = { publisher = "clinyong", name = "vscode-css-modules", description = "Visual Studio Code extension for CSS Modules", license = "MIT" }
 
 [meteor-toolbox-meteor-toolbox]
-src.manual = "1.1.5" # meteor-toolbox.meteor-toolbox
-fetch.url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.5/file/meteor-toolbox.meteor-toolbox-1.1.5.vsix" # meteor-toolbox.meteor-toolbox
+src.manual = "1.1.6" # meteor-toolbox.meteor-toolbox
+fetch.url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.6/file/meteor-toolbox.meteor-toolbox-1.1.6.vsix" # meteor-toolbox.meteor-toolbox
 passthru = { publisher = "meteor-toolbox", name = "meteor-toolbox", description = "Easily set up your Meteor environment (intelisense, run options and many other things).", license = "MIT" }
 
 [ocamllabs-ocaml-platform]
@@ -8590,8 +8590,8 @@ fetch.url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/fil
 passthru = { publisher = "WatermelonTools", name = "watermelon-tools", description = "Watermelon, find all the historical context of your code", license = "See license.md (Apache)" }
 
 [webhint-vscode-webhint]
-src.manual = "2.1.1" # webhint.vscode-webhint
-fetch.url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.1/file/webhint.vscode-webhint-2.1.1.vsix" # webhint.vscode-webhint
+src.manual = "2.1.3" # webhint.vscode-webhint
+fetch.url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.3/file/webhint.vscode-webhint-2.1.3.vsix" # webhint.vscode-webhint
 passthru = { publisher = "webhint", name = "vscode-webhint", description = "Run webhint in Visual Studio Code.", license = "Apache-2.0" }
 
 [lf-lang-vscode-lingua-franca]
@@ -9650,8 +9650,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.3/file/
 passthru = { publisher = "t-codespaces", name = "workspace-manager", description = "工作空间管理相关的插件功能集合，比如重启、服务发现等能力可以在此插件中提供。", license = "" }
 
 [halcyontechltd-vscode-rpgle]
-src.manual = "0.10.2" # halcyontechltd.vscode-rpgle
-fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.2/file/halcyontechltd.vscode-rpgle-0.10.2.vsix" # halcyontechltd.vscode-rpgle
+src.manual = "0.10.3" # halcyontechltd.vscode-rpgle
+fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.3/file/halcyontechltd.vscode-rpgle-0.10.3.vsix" # halcyontechltd.vscode-rpgle
 passthru = { publisher = "halcyontechltd", name = "vscode-rpgle", description = "RPGLE content assist and linter for VS Code", license = "MIT" }
 
 [devfactory-multispace]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1389" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1389/file/Prisma.prisma-insider-31.0.1389.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1390" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1390/file/Prisma.prisma-insider-31.0.1390.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10295,6 +10295,7 @@ passthru = { publisher = "redjue", name = "git-commit-plugin", description = "Au
 src.manual = "1.0.5" # cortex-debug.svd-viewer
 fetch.url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.5/file/cortex-debug.svd-viewer-1.0.5.vsix" # cortex-debug.svd-viewer
 passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Standalone SVD Viewer extension extracted from cortex-debug", license = "MIT" }
+
 
 
 
