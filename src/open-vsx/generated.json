@@ -16523,9 +16523,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -32179,11 +32179,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pLER9ulQnQVEB+4G6T8nBkRY/bwNaU1qqNKJSrAxIT4=",
+            "sha256": "sha256-kuGZvjulG0+s/OHsRGo0FFAv9G2Sz/GHH3IP+WIYmqs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.3/file/t-codespaces.ide-data-sync-node-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.4/file/t-codespaces.ide-data-sync-node-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,
