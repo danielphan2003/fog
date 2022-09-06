@@ -5355,10 +5355,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.6.4";
+    version = "5.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.4/file/anweber.vscode-httpyac-5.6.4.vsix";
-      sha256 = "sha256-8FL56Bbq8ICkDPB2lxBGN4fDVefEYExyCwqfiisxTec=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.0/file/anweber.vscode-httpyac-5.7.0.vsix";
+      sha256 = "sha256-FVDT/epkLI9aqbJL8csIp0q11MaNyvMUy+F6PRgoXa0=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -19733,8 +19733,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -20643,10 +20643,10 @@
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/thiht/vscode-venom/1.2.0/file/thiht.vscode-venom-1.2.0.vsix";
-      sha256 = "sha256-w91pZtkgcPO7vorx3gj2jX6gYmwLpWUKXsvPM8kCPXM=";
+      url = "https://open-vsx.org/api/thiht/vscode-venom/1.3.0/file/thiht.vscode-venom-1.3.0.vsix";
+      sha256 = "sha256-9Do7wnEMhnKr2d1FnpdlRASWBPsprJ1+ZY9wTDqngqQ=";
     };
     license = "MIT";
     name = "vscode-venom";
@@ -23871,10 +23871,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.28";
+    version = "0.1.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.28/file/zardoy.better-snippets-0.1.28.vsix";
-      sha256 = "sha256-SN7MhBkcFBbr0+oM77u3f6lr5vVu4F+nRF6LTsaIu0A=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.29/file/zardoy.better-snippets-0.1.29.vsix";
+      sha256 = "sha256-m4NarW9AM3KXKoMwQdzYFUnl9NMsXKLnCK2gsyCbJM4=";
     };
     license = "MIT";
     name = "better-snippets";
@@ -24003,10 +24003,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.78";
+    version = "0.0.79";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.78/file/zardoy.zardoy-experiments-0.0.78.vsix";
-      sha256 = "sha256-8KRIRnWnD7FObIF9wx1FG7OBXs67x4qIxWJOeZPI2wg=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.79/file/zardoy.zardoy-experiments-0.0.79.vsix";
+      sha256 = "sha256-sgxdtNIYi0eat3zhMFJ9QUZ3YnFSW9pZTjF5A8WqxAc=";
     };
     license = "MIT";
     name = "zardoy-experiments";
