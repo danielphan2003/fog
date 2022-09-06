@@ -1135,16 +1135,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "993336f74ec89cb6cad23dd009251e70548761b6";
+    version = "c57ab5283fc80b2f99b51105560aec733d9207c6";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "993336f74ec89cb6cad23dd009251e70548761b6";
+      rev = "c57ab5283fc80b2f99b51105560aec733d9207c6";
       fetchSubmodules = false;
-      sha256 = "sha256-IILJCvH+dyKRRUERW9zicsoRoCBiKw03MTnitZb2hp0=";
+      sha256 = "sha256-ODbketMtE+QHpCc2Gb1xoQbKCyzWsPxg7Vw5M3Sp5hQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-993336f74ec89cb6cad23dd009251e70548761b6/Cargo.lock;
+      lockFile = ./spotifyd-c57ab5283fc80b2f99b51105560aec733d9207c6/Cargo.lock;
       outputHashes = {
         
       };
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b8596f2a2f2d74b4e7df086ddc450d4cd9c29075";
+    version = "f52a659076cc7870563427367b31aaafd0b30a6f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b8596f2a2f2d74b4e7df086ddc450d4cd9c29075";
+      rev = "f52a659076cc7870563427367b31aaafd0b30a6f";
       fetchSubmodules = false;
-      sha256 = "sha256-7gqK4cYWdpFUX9wYkj7y300CFqyZ5b4FNbsCFxTLCI4=";
+      sha256 = "sha256-xzUTVR9Tcl80OdWT5MgSA4u1lQDYnilwvRPTrxISV50=";
     });
   };
   tailscale-systray = {
