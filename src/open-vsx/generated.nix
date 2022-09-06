@@ -7515,10 +7515,10 @@
   };
   cortex-debug-svd-viewer = {
     pname = "cortex-debug-svd-viewer";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.4/file/cortex-debug.svd-viewer-1.0.4.vsix";
-      sha256 = "sha256-rvto+P3/89SWegP9/0+waAI43EyybLDwR9l6sLEBnMc=";
+      url = "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.5/file/cortex-debug.svd-viewer-1.0.5.vsix";
+      sha256 = "sha256-YHXd/sbFiy0MloyuMM+0Igsh23cKOsdS1tEw5hrM6Yc=";
     };
     license = "MIT";
     name = "svd-viewer";
@@ -8223,10 +8223,10 @@
   };
   dendron-dendron-markdown-links = {
     pname = "dendron-dendron-markdown-links";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "MIT";
     name = "dendron-markdown-links";
@@ -8235,10 +8235,10 @@
   };
   dendron-dendron-markdown-notes = {
     pname = "dendron-dendron-markdown-notes";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "GPL-3.0";
     name = "dendron-markdown-notes";
@@ -8247,10 +8247,10 @@
   };
   dendron-dendron-markdown-preview-enhanced = {
     pname = "dendron-dendron-markdown-preview-enhanced";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "NCSA";
     name = "dendron-markdown-preview-enhanced";
@@ -8259,10 +8259,10 @@
   };
   dendron-dendron-markdown-shortcuts = {
     pname = "dendron-dendron-markdown-shortcuts";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "MIT";
     name = "dendron-markdown-shortcuts";
@@ -8271,10 +8271,10 @@
   };
   dendron-dendron-paste-image = {
     pname = "dendron-dendron-paste-image";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "MIT";
     name = "dendron-paste-image";
@@ -8283,10 +8283,10 @@
   };
   dendron-dendron-snippet-maker = {
     pname = "dendron-dendron-snippet-maker";
-    version = "0.110.0";
+    version = "0.111.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
-      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
+      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
     };
     license = "MIT";
     name = "dendron-snippet-maker";

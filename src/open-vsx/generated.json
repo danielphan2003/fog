@@ -11906,11 +11906,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rvto+P3/89SWegP9/0+waAI43EyybLDwR9l6sLEBnMc=",
+            "sha256": "sha256-YHXd/sbFiy0MloyuMM+0Igsh23cKOsdS1tEw5hrM6Yc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.4/file/cortex-debug.svd-viewer-1.0.4.vsix"
+            "url": "https://open-vsx.org/api/cortex-debug/svd-viewer/1.0.5/file/cortex-debug.svd-viewer-1.0.5.vsix"
         },
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     "cqframework-cql": {
         "cargoLocks": null,
@@ -13027,11 +13027,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-dendron-markdown-notes": {
         "cargoLocks": null,
@@ -13046,11 +13046,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-dendron-markdown-preview-enhanced": {
         "cargoLocks": null,
@@ -13065,11 +13065,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-dendron-markdown-shortcuts": {
         "cargoLocks": null,
@@ -13084,11 +13084,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-dendron-paste-image": {
         "cargoLocks": null,
@@ -13103,11 +13103,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-dendron-snippet-maker": {
         "cargoLocks": null,
@@ -13122,11 +13122,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=",
+            "sha256": "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix"
         },
-        "version": "0.110.0"
+        "version": "0.111.0"
     },
     "dendron-nightly": {
         "cargoLocks": null,
