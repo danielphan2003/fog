@@ -125,13 +125,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "c8d4f878a012bc6d6d0e8e520d17a1dd9237336d";
+    version = "0f99647c381c323509114db69f50905d8a930778";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "c8d4f878a012bc6d6d0e8e520d17a1dd9237336d";
+      rev = "0f99647c381c323509114db69f50905d8a930778";
       fetchSubmodules = false;
-      sha256 = "sha256-1jJtEIzSMwJUt8Cnu7ASPTYdyJ8865+J7UQR2JDlZX8=";
+      sha256 = "sha256-e9oqJn6lH5NlF10Mj6nl8/FiBXHuxR97zHn9sw/lVaM=";
     });
   };
   awestore = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "789eedd115917bc0ae7e5ee7317af67295439fd8";
+    version = "1d631c8a233257738a08b3e5aebc8df22d3253fe";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "789eedd115917bc0ae7e5ee7317af67295439fd8";
+      rev = "1d631c8a233257738a08b3e5aebc8df22d3253fe";
       fetchSubmodules = false;
-      sha256 = "sha256-U4M9TdcGU/YMMP4pCcTldxiecPb40X4hHvuyH6+oSiU=";
+      sha256 = "sha256-k7RaZdGKe22eBZMNDP/9LcRrp98Ncb7Vnedt6lSxp8w=";
     });
   };
   ibus = {
@@ -1324,13 +1324,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "2c63dbf6c2d5f97523299a4ac7657de54a9a2c72";
+    version = "7046fb2fd32b73fde5642187c914c2f637e666b1";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "2c63dbf6c2d5f97523299a4ac7657de54a9a2c72";
+      rev = "7046fb2fd32b73fde5642187c914c2f637e666b1";
       fetchSubmodules = false;
-      sha256 = "sha256-wb9Ya2AEgBMNgQiwpEU60Y8Kkr3DZeCloe4qTKrgK6A=";
+      sha256 = "sha256-BAYRrKV4IyoBcnFTr+3/Sm4uJhMl4qH+EDWu7fD/Xnc=";
     });
   };
   wgcf = {
