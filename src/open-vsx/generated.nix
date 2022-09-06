@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1387";
+    version = "31.0.1389";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1387/file/Prisma.prisma-insider-31.0.1387.vsix";
-      sha256 = "sha256-Ds0OHr/K2AiATcLPiDWTgJKKvH20mNfENtPsEzjkeLg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1389/file/Prisma.prisma-insider-31.0.1389.vsix";
+      sha256 = "sha256-AP9x80jKJIuiSZdOrcpqI6Edsl18KZGFF3a77Fit+SE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10445,8 +10445,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13215,10 +13215,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -17799,10 +17799,10 @@
   };
   redhat-atlasmap-viewer = {
     pname = "redhat-atlasmap-viewer";
-    version = "0.1.2";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.1.2/file/redhat.atlasmap-viewer-0.1.2.vsix";
-      sha256 = "sha256-2JoBHNNcYtzfxjHmtJunECAEqJvNHMhAxAIyRU71omY=";
+      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.0/file/redhat.atlasmap-viewer-0.2.0.vsix";
+      sha256 = "sha256-svatbjfQVH/g/UKSACeKQq3fq5MGJwjuRJHdYC1O0EE=";
     };
     license = "Apache-2.0";
     name = "atlasmap-viewer";
@@ -19287,10 +19287,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24195,10 +24195,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
