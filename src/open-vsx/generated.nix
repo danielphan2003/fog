@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8163,10 +8163,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.9";
+    version = "0.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.9/file/deadlock.deadlock-gitpod-0.1.9.vsix";
-      sha256 = "sha256-Au56j5YlO65aWVaUrA+3yi4zrTPhN/nChnh5gdhvltE=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.10/file/deadlock.deadlock-gitpod-0.1.10.vsix";
+      sha256 = "sha256-GGMwpkYFNDtNTmNOd1sjhEZl1SSu3SrLm+JoDJzfYC8=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12903,10 +12903,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -17547,10 +17547,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.8.0";
+    version = "2.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.8.0/file/quick-lint.quick-lint-js-2.8.0.vsix";
-      sha256 = "sha256-qrO1JuRQJszaOgzvfsQrrVMEwROLZ5xsTtcdQiy3wz0=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.9.0/file/quick-lint.quick-lint-js-2.9.0.vsix";
+      sha256 = "sha256-ASpahGlkBjLmenGZVQej5rZuaisaywdFoZQTVkRda2g=";
     };
     license = "GPL-3.0";
     name = "quick-lint-js";
