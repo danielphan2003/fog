@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -13299,6 +13299,25 @@
         },
         "version": "2.1.8"
     },
+    "dfinity-foundation-vscode-motoko": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dfinity-foundation-vscode-motoko",
+        "passthru": {
+            "description": "Motoko language support",
+            "license": "Apache-2.0",
+            "name": "vscode-motoko",
+            "publisher": "dfinity-foundation"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-IOqcb5bHXkP1yT2xqJWpArvgH0NKEwIdbIsFhq3hUDc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/file/dfinity-foundation.vscode-motoko-0.4.0.vsix"
+        },
+        "version": "0.4.0"
+    },
     "dhall-dhall-lang": {
         "cargoLocks": null,
         "extract": null,
@@ -24807,11 +24826,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2G8v6SlmSJCxr/9Dm2fU3mjrIBSjwnbHlLfzVJderIY=",
+            "sha256": "sha256-wgM22LzWTrsxIbZp49bARr2TRMsYOZa4Nw53MWh5Wys=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.28/file/mutable-ai.mutable-ai-1.1.28.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.29/file/mutable-ai.mutable-ai-1.1.29.vsix"
         },
-        "version": "1.1.28"
+        "version": "1.1.29"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -31210,11 +31229,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OCsUVS1u3TDocGW8ajY0SjrLcFAF9tZKt1ZP9urC66Y=",
+            "sha256": "sha256-QCwOAxJ1ceknL7X3ygcDbj5jPG4y2vSMfQeyaJ3oOtA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/stateful/issue-explorer/1.0.4/file/stateful.issue-explorer-1.0.4.vsix"
+            "url": "https://open-vsx.org/api/stateful/issue-explorer/1.0.5/file/stateful.issue-explorer-1.0.5.vsix"
         },
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     "statelyai-stately-vscode": {
         "cargoLocks": null,
@@ -38012,11 +38031,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sgxdtNIYi0eat3zhMFJ9QUZ3YnFSW9pZTjF5A8WqxAc=",
+            "sha256": "sha256-L4zUt4R5XXG8LJwmWc9H6HrwztJlwzf6AiQ72AgHOxc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.79/file/zardoy.zardoy-experiments-0.0.79.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.80/file/zardoy.zardoy-experiments-0.0.80.vsix"
         },
-        "version": "0.0.79"
+        "version": "0.0.80"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

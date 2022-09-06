@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -8401,6 +8401,18 @@
     description = "Fork of https://github.com/davidbwaters/macos-modern-vscode-theme for open-vsx";
     publisher = "dez64ru";
   };
+  dfinity-foundation-vscode-motoko = {
+    pname = "dfinity-foundation-vscode-motoko";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/file/dfinity-foundation.vscode-motoko-0.4.0.vsix";
+      sha256 = "sha256-IOqcb5bHXkP1yT2xqJWpArvgH0NKEwIdbIsFhq3hUDc=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-motoko";
+    description = "Motoko language support";
+    publisher = "dfinity-foundation";
+  };
   dhall-dhall-lang = {
     pname = "dhall-dhall-lang";
     version = "0.0.5";
@@ -15663,10 +15675,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.28";
+    version = "1.1.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.28/file/mutable-ai.mutable-ai-1.1.28.vsix";
-      sha256 = "sha256-2G8v6SlmSJCxr/9Dm2fU3mjrIBSjwnbHlLfzVJderIY=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.29/file/mutable-ai.mutable-ai-1.1.29.vsix";
+      sha256 = "sha256-wgM22LzWTrsxIbZp49bARr2TRMsYOZa4Nw53MWh5Wys=";
     };
     license = "";
     name = "mutable-ai";
@@ -19707,10 +19719,10 @@
   };
   stateful-issue-explorer = {
     pname = "stateful-issue-explorer";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stateful/issue-explorer/1.0.4/file/stateful.issue-explorer-1.0.4.vsix";
-      sha256 = "sha256-OCsUVS1u3TDocGW8ajY0SjrLcFAF9tZKt1ZP9urC66Y=";
+      url = "https://open-vsx.org/api/stateful/issue-explorer/1.0.5/file/stateful.issue-explorer-1.0.5.vsix";
+      sha256 = "sha256-QCwOAxJ1ceknL7X3ygcDbj5jPG4y2vSMfQeyaJ3oOtA=";
     };
     license = "MIT";
     name = "issue-explorer";
@@ -24003,10 +24015,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.79";
+    version = "0.0.80";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.79/file/zardoy.zardoy-experiments-0.0.79.vsix";
-      sha256 = "sha256-sgxdtNIYi0eat3zhMFJ9QUZ3YnFSW9pZTjF5A8WqxAc=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.80/file/zardoy.zardoy-experiments-0.0.80.vsix";
+      sha256 = "sha256-L4zUt4R5XXG8LJwmWc9H6HrwztJlwzf6AiQ72AgHOxc=";
     };
     license = "MIT";
     name = "zardoy-experiments";
