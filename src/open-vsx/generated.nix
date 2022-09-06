@@ -6207,10 +6207,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.298";
+    version = "2.0.299";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.298/file/betterthantomorrow.calva-2.0.298.vsix";
-      sha256 = "sha256-krBpCPcVW4l0uyAgJ4UOv3J/1wBZzau+VftZH1JfjWE=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.299/file/betterthantomorrow.calva-2.0.299.vsix";
+      sha256 = "sha256-hxnPu3Ujq4HWG7gpmRSLq7hbamVaNWIGo8yX/FABW5A=";
     };
     license = "MIT";
     name = "calva";
@@ -7263,10 +7263,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.8";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.8/file/cloudstudio.metawork-0.0.8.vsix";
-      sha256 = "sha256-2yEaCPorKG0A/2s52p673eL8XfLh7chA5h+e0p6Ypv0=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.10/file/cloudstudio.metawork-0.0.10.vsix";
+      sha256 = "sha256-s4OG9HCidqr1xvo0USYEIty57/Erm0UPcv/QUrGvPuc=";
     };
     license = "MIT";
     name = "metawork";
@@ -8043,10 +8043,10 @@
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.2/file/davelopez.galaxy-tools-0.7.2.vsix";
-      sha256 = "sha256-dcSVCDmucyrJGjookKQy9NYLJZQxlgqtxJpM6K/bsC0=";
+      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.3/file/davelopez.galaxy-tools-0.7.3.vsix";
+      sha256 = "sha256-4qwZiVP3p07kSvVzshNmUYbARDRTBkX7MPfCbX+onb4=";
     };
     license = "Apache-2.0";
     name = "galaxy-tools";
@@ -10433,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13707,10 +13707,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "1.2.0";
+    version = "1.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/1.2.0/file/malipetek.liquivelte-1.2.0.vsix";
-      sha256 = "sha256-SvKxbetIoFn39RcNLSPUOCnIcKaCxiu9RLK18pDQ6ts=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/1.2.6/file/malipetek.liquivelte-1.2.6.vsix";
+      sha256 = "sha256-pASibc9j8Csl5YFLw9QaFqblBK6viTpFA/1v3mwAqlc=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -19287,10 +19287,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20823,10 +20823,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.78.0";
+    version = "0.78.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.78.0/file/tokiwa-software.fuzion-lang-0.78.0.vsix";
-      sha256 = "sha256-DnFRJA1GSGzV0Ox5tquXXtIw/KDYX8K9+uqzW1uNoX0=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.78.1/file/tokiwa-software.fuzion-lang-0.78.1.vsix";
+      sha256 = "sha256-LGAGPeKgBSSDLLT4AzCMigA7UpnObRSfGAxCsbXZVG0=";
     };
     license = "MIT";
     name = "fuzion-lang";
@@ -24195,10 +24195,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
