@@ -3531,10 +3531,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.418";
+    version = "2022.9.605";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.418/file/Slint.slint-nightly-2022.9.418.vsix";
-      sha256 = "sha256-EJaIb/U+ptdGApCrbNIRcD3QnOR9PsBwvA+hCJ1oDyk=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.605/file/Slint.slint-nightly-2022.9.605.vsix";
+      sha256 = "sha256-P4w+oKovQN9HcKMN1nbCWOMI4/plWyaiXIvz4tMzk9M=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -6975,10 +6975,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.4.2";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.2/file/chenglou92.rescript-vscode-1.4.2.vsix";
-      sha256 = "sha256-bPTo1HYJWut16J2p7EyY3O0C5HXOxZAqlqeOHb+xLi0=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.6.0/file/chenglou92.rescript-vscode-1.6.0.vsix";
+      sha256 = "sha256-wrNkOA81znJtnTEHUGcsff0C9JaVjZ41hrFPzq2c/i0=";
     };
     license = "MIT";
     name = "rescript-vscode";
@@ -11979,10 +11979,10 @@
   };
   jebbs-plantuml = {
     pname = "jebbs-plantuml";
-    version = "2.17.3";
+    version = "2.17.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.3/file/jebbs.plantuml-2.17.3.vsix";
-      sha256 = "sha256-2nkAerRdo482+N53dNLkG3q2UZzrrGGaMFyRkYo/1og=";
+      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.4/file/jebbs.plantuml-2.17.4.vsix";
+      sha256 = "sha256-vaytH4M7+T3s22gERjMIaDm+z8C5M0kRsnJHxMg6gxU=";
     };
     license = "MIT";
     name = "plantuml";
@@ -12903,10 +12903,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13215,10 +13215,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19733,8 +19733,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -21987,10 +21987,10 @@
   };
   vscjava-vscode-spring-initializr = {
     pname = "vscjava-vscode-spring-initializr";
-    version = "0.10.1";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.1/file/vscjava.vscode-spring-initializr-0.10.1.vsix";
-      sha256 = "sha256-Mq7WtVzZgZf7k6tHtWS7TJNuKTsZH3xZ7oRGtQzluyM=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.11.0/file/vscjava.vscode-spring-initializr-0.11.0.vsix";
+      sha256 = "sha256-TPKgw5n16Ws3zAceS5fbwzhWA7ZWlDn7kpUS3efl4CA=";
     };
     license = "MIT";
     name = "vscode-spring-initializr";
@@ -22923,10 +22923,10 @@
   };
   vshaxe-haxe-test-adapter = {
     pname = "vshaxe-haxe-test-adapter";
-    version = "2.0.2";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.2/file/vshaxe.haxe-test-adapter-2.0.2.vsix";
-      sha256 = "sha256-TxTs4nd3yuioIAcHPre9r0wRBI7NSWc5Dj6ASH7sFRU=";
+      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.4/file/vshaxe.haxe-test-adapter-2.0.4.vsix";
+      sha256 = "sha256-lbQQQ2GOrVbO//mSpYm+B8ZWI8dwG/OqOkuOUmNY5oQ=";
     };
     license = "MIT";
     name = "haxe-test-adapter";
@@ -24111,10 +24111,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.15.4";
+    version = "3.15.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.4/file/zhuangtongfa.material-theme-3.15.4.vsix";
-      sha256 = "sha256-3UwmQCkX1z87qyDSP5+flRWO3KYQE1ik3CztLVKgIH4=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.5/file/zhuangtongfa.material-theme-3.15.5.vsix";
+      sha256 = "sha256-eMmkBXoJ2Z1CM0JmmU9A9Yc/x9YnOeeyCFig+UKOVCM=";
     };
     license = "MIT";
     name = "material-theme";
