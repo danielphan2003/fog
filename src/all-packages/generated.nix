@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "50a593607f2de17a5dd17b3d2d456f7abae4c09a";
+    version = "eac20dfe4a9633004ffd0571f1e2089929b9615e";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "50a593607f2de17a5dd17b3d2d456f7abae4c09a";
+      rev = "eac20dfe4a9633004ffd0571f1e2089929b9615e";
       fetchSubmodules = false;
-      sha256 = "sha256-8cIeUFdGMRVJ3J4s0FzFd/QYK0vL9ZHxGLUg8dPr44M=";
+      sha256 = "sha256-RC9HoRGU+8WejKzkr6rz3J2P+7Z5dgEbe8a44MAfrl4=";
     });
   };
   godu = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-37-g24b168e5";
+    version = "2.2-38-g59e72f80";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-37-g24b168e5-1_all.deb";
-      sha256 = "sha256-zr3sxUyWS5PW1ZY311YGM/V9dQDGhn0yY5qwFwbnilQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-38-g59e72f80-1_all.deb";
+      sha256 = "sha256-jEVJ49FsCdlX9xUFrEJlAKfreRHpMcZCKytdxVCtcVE=";
     };
   };
   layout-machi = {
