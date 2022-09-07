@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.108.0-b.13";
+    version = "0.108.0-b.14";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.13/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-hGFxRdls8G8A6T7FzodE1SUXOZa6HNgVgs3llluNYgM=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-Gm5fRK0JkAsw0lywBOKVCCFDF1bb4sxD1way0uu+f64=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.108.0-b.13";
+    version = "0.108.0-b.14";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.13/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-sCk+q9/u0NVPtk4s/yEkDnBgBYgt79BoHyXNdMds/9c=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-NRUoBWn7eRAazvFUB+x+XfZjrk83kxFk4yDEBOYmyoM=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.108.0-b.13";
+    version = "0.108.0-b.14";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.13/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-BQ1mfss/sNlpq/Z/ks7NQl+O46wUnokPGZfCGzBaRZE=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-rgJqXGvUthMPfVooDHTTck+tNRdVoAcROH4h9RY37d4=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.108.0-b.13";
+    version = "0.108.0-b.14";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.13/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-7zpTdmwCj8o3G2ouJjatSsK7hFv72w3HMTqzIw/5d94=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-7vTDxtMopT33vSVVNYIAlUYkSC90c3NnATVDvSPwuGQ=";
     };
   };
   adl = {
@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "eac20dfe4a9633004ffd0571f1e2089929b9615e";
+    version = "bd5c1c8da8c215ddf04bd15c4a9a53ffae67a844";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "eac20dfe4a9633004ffd0571f1e2089929b9615e";
+      rev = "bd5c1c8da8c215ddf04bd15c4a9a53ffae67a844";
       fetchSubmodules = false;
-      sha256 = "sha256-RC9HoRGU+8WejKzkr6rz3J2P+7Z5dgEbe8a44MAfrl4=";
+      sha256 = "sha256-jiUOMrJHIaUQYbuYdkS1LAXnIAjh3ME/anKce+k/s28=";
     });
   };
   godu = {
