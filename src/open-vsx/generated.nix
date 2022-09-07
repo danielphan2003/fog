@@ -1239,10 +1239,10 @@
   };
   GenieBuilder-geniebuilder-insider = {
     pname = "GenieBuilder-geniebuilder-insider";
-    version = "0.1.22";
+    version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.22/file/GenieBuilder.geniebuilder-insider-0.1.22.vsix";
-      sha256 = "sha256-RPBBWUCROauOqVCemQWZHPJ4pxHCYD+cQtnzKsBCpXA=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
+      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -7743,10 +7743,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.7.9";
+    version = "5.7.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.9/file/cweijan.vscode-mysql-client2-5.7.9.vsix";
-      sha256 = "sha256-ISgQSbxzjwC8Qp1merfi7N6Ce1rFzgdDvAs/b2IdB6o=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.10/file/cweijan.vscode-mysql-client2-5.7.10.vsix";
+      sha256 = "sha256-IAKhxB0ykFTjDNsh+2jxb66S5JsddPo/CIK8aCbVXiQ=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -8919,10 +8919,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.3005973";
+    version = "8.1.3007760";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.3005973/file/eliostruyf.vscode-front-matter-beta-8.0.3005973.vsix";
-      sha256 = "sha256-JFMlmy5iM+kAgC/KfC5XK1YhcVsT9OkMoogfId47uAs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3007760/file/eliostruyf.vscode-front-matter-beta-8.1.3007760.vsix";
+      sha256 = "sha256-5cf/NHpF4hl3U9H9zOta+YRMidbjrLOM0zCYqPNka58=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -12915,10 +12915,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -14283,10 +14283,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.2/file/meshvoid.theme-meshvoid-1.0.2.vsix";
-      sha256 = "sha256-DYnC7lphvh0HdWyOSLi0MoCpGnuPhASZnqFX4St3gWE=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.3/file/meshvoid.theme-meshvoid-1.0.3.vsix";
+      sha256 = "sha256-MVDnDmBeQwbwPoPOvWWXxWHrypD3AUnkVQAwFMro8XU=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -18999,10 +18999,10 @@
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
-    version = "2.1.10";
+    version = "2.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.10/file/senx.warpscript-language-2.1.10.vsix";
-      sha256 = "sha256-oyo+Wu4iQh8c6lF3ArJpDD5lGr/DDi+537mQOiMdYGE=";
+      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.11/file/senx.warpscript-language-2.1.11.vsix";
+      sha256 = "sha256-2HRpxp1bd9sxv2NskVsGKrPwXFY1sPFFUaLTs8yQxGc=";
     };
     license = "Apache-2.0";
     name = "warpscript-language";

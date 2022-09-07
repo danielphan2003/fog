@@ -1969,11 +1969,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RPBBWUCROauOqVCemQWZHPJ4pxHCYD+cQtnzKsBCpXA=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.22/file/GenieBuilder.geniebuilder-insider-0.1.22.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
-        "version": "0.1.22"
+        "version": "0.1.23"
     },
     "GitHub-github-vscode-theme": {
         "cargoLocks": null,
@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=",
+            "sha256": "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix"
         },
         "version": "1.0.9"
     },
@@ -12267,11 +12267,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ISgQSbxzjwC8Qp1merfi7N6Ce1rFzgdDvAs/b2IdB6o=",
+            "sha256": "sha256-IAKhxB0ykFTjDNsh+2jxb66S5JsddPo/CIK8aCbVXiQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.9/file/cweijan.vscode-mysql-client2-5.7.9.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.10/file/cweijan.vscode-mysql-client2-5.7.10.vsix"
         },
-        "version": "5.7.9"
+        "version": "5.7.10"
     },
     "cweijan-vscode-office": {
         "cargoLocks": null,
@@ -14129,11 +14129,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JFMlmy5iM+kAgC/KfC5XK1YhcVsT9OkMoogfId47uAs=",
+            "sha256": "sha256-5cf/NHpF4hl3U9H9zOta+YRMidbjrLOM0zCYqPNka58=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.3005973/file/eliostruyf.vscode-front-matter-beta-8.0.3005973.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3007760/file/eliostruyf.vscode-front-matter-beta-8.1.3007760.vsix"
         },
-        "version": "8.0.3005973"
+        "version": "8.1.3007760"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -20456,11 +20456,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -22622,11 +22622,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DYnC7lphvh0HdWyOSLi0MoCpGnuPhASZnqFX4St3gWE=",
+            "sha256": "sha256-MVDnDmBeQwbwPoPOvWWXxWHrypD3AUnkVQAwFMro8XU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.2/file/meshvoid.theme-meshvoid-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.3/file/meshvoid.theme-meshvoid-1.0.3.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.3"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -30089,11 +30089,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oyo+Wu4iQh8c6lF3ArJpDD5lGr/DDi+537mQOiMdYGE=",
+            "sha256": "sha256-2HRpxp1bd9sxv2NskVsGKrPwXFY1sPFFUaLTs8yQxGc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/senx/warpscript-language/2.1.10/file/senx.warpscript-language-2.1.10.vsix"
+            "url": "https://open-vsx.org/api/senx/warpscript-language/2.1.11/file/senx.warpscript-language-2.1.11.vsix"
         },
-        "version": "2.1.10"
+        "version": "2.1.11"
     },
     "serayuzgur-crates": {
         "cargoLocks": null,
