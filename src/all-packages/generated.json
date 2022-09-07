@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "dac48d4385a8a7c25f5d1b1083e4b07470c4898c",
-            "sha256": "sha256-Zh9p+cvuqlcOsKlZD+6mqgbc7BweQmUQdLLICJQZ9Es=",
+            "rev": "09b54c088b5869ecb703f7aa0546565f616b1a8a",
+            "sha256": "sha256-UKc7GILymKMuzYs189/8MzdgLUWH+5n2qAXx/XB0Nsk=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "dac48d4385a8a7c25f5d1b1083e4b07470c4898c"
+        "version": "09b54c088b5869ecb703f7aa0546565f616b1a8a"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ju7xhTtc5XoTkXIdL8BOG+aR5uAkxA2j/w2mMTQ2xco=",
+            "sha256": "sha256-j2YdGwfywbeJi/ukDvFjVt8dN0lgR1R43EC0ZGk+1XA=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6534.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6536.tar.bz2"
         },
-        "version": "1.0.6534"
+        "version": "1.0.6536"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsCZociVqnoaCN1thvfUFg8lOM3V2N08+aEQX/6fh8k=",
+            "sha256": "sha256-3sTgi6GxBRX+aYig4E/o+LniMYwpKx3cHQNkwA5HjBA=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6534-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6536-1_all.deb"
         },
-        "version": "1.0.6534"
+        "version": "1.0.6536"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2237,11 +2237,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "0f4e0c89ecb7a76bf83f099d18e91b9e8e83d064",
-            "sha256": "sha256-bFgeoSAZMfm5+vbdWuo1ZXfjDRPUp+cGo+YBguFr5zg=",
+            "rev": "07d3561a64a81ade9ff41210043aba6909025f2e",
+            "sha256": "sha256-fgR3coeap9d9Uh5CGmpYO1J8NBR46i25dJk6fdMKXXc=",
             "type": "github"
         },
-        "version": "0f4e0c89ecb7a76bf83f099d18e91b9e8e83d064"
+        "version": "07d3561a64a81ade9ff41210043aba6909025f2e"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,

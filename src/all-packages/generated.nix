@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "dac48d4385a8a7c25f5d1b1083e4b07470c4898c";
+    version = "09b54c088b5869ecb703f7aa0546565f616b1a8a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "dac48d4385a8a7c25f5d1b1083e4b07470c4898c";
+      rev = "09b54c088b5869ecb703f7aa0546565f616b1a8a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Zh9p+cvuqlcOsKlZD+6mqgbc7BweQmUQdLLICJQZ9Es=";
+      sha256 = "sha256-UKc7GILymKMuzYs189/8MzdgLUWH+5n2qAXx/XB0Nsk=";
     };
   };
   flyingfox = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6534";
+    version = "1.0.6536";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6534.tar.bz2";
-      sha256 = "sha256-Ju7xhTtc5XoTkXIdL8BOG+aR5uAkxA2j/w2mMTQ2xco=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6536.tar.bz2";
+      sha256 = "sha256-j2YdGwfywbeJi/ukDvFjVt8dN0lgR1R43EC0ZGk+1XA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6534";
+    version = "1.0.6536";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6534-1_all.deb";
-      sha256 = "sha256-fsCZociVqnoaCN1thvfUFg8lOM3V2N08+aEQX/6fh8k=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6536-1_all.deb";
+      sha256 = "sha256-3sTgi6GxBRX+aYig4E/o+LniMYwpKx3cHQNkwA5HjBA=";
     };
   };
   jitsi-videobridge2 = {
@@ -1346,13 +1346,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "0f4e0c89ecb7a76bf83f099d18e91b9e8e83d064";
+    version = "07d3561a64a81ade9ff41210043aba6909025f2e";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "0f4e0c89ecb7a76bf83f099d18e91b9e8e83d064";
+      rev = "07d3561a64a81ade9ff41210043aba6909025f2e";
       fetchSubmodules = false;
-      sha256 = "sha256-bFgeoSAZMfm5+vbdWuo1ZXfjDRPUp+cGo+YBguFr5zg=";
+      sha256 = "sha256-fgR3coeap9d9Uh5CGmpYO1J8NBR46i25dJk6fdMKXXc=";
     });
   };
   whitesur-icon-theme = {
