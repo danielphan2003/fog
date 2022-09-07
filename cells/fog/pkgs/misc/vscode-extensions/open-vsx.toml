@@ -3130,8 +3130,8 @@ fetch.url = "https://open-vsx.org/api/tomoki1207/pdf/1.1.0/file/tomoki1207.pdf-1
 passthru = { publisher = "tomoki1207", name = "pdf", description = "Display pdf file in VSCode.", license = "" }
 
 [GustavoASC-google-drive-vscode]
-src.manual = "1.3.3" # GustavoASC.google-drive-vscode
-fetch.url = "https://open-vsx.org/api/GustavoASC/google-drive-vscode/1.3.3/file/GustavoASC.google-drive-vscode-1.3.3.vsix" # GustavoASC.google-drive-vscode
+src.manual = "1.3.4" # GustavoASC.google-drive-vscode
+fetch.url = "https://open-vsx.org/api/GustavoASC/google-drive-vscode/1.3.4/file/GustavoASC.google-drive-vscode-1.3.4.vsix" # GustavoASC.google-drive-vscode
 passthru = { publisher = "GustavoASC", name = "google-drive-vscode", description = "Unofficial extension to manage Google Drive™ files and folders directly from VSCode", license = "MIT" }
 
 [alexkrechik-cucumberautocomplete]
@@ -3525,8 +3525,8 @@ fetch.url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neik
 passthru = { publisher = "neikeq", name = "godot-csharp-vscode", description = "Debugger and utilities for working with Godot C# projects", license = "MIT" }
 
 [marus25-cortex-debug]
-src.manual = "1.6.2" # marus25.cortex-debug
-fetch.url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.2/file/marus25.cortex-debug-1.6.2.vsix" # marus25.cortex-debug
+src.manual = "1.6.3" # marus25.cortex-debug
+fetch.url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.3/file/marus25.cortex-debug-1.6.3.vsix" # marus25.cortex-debug
 passthru = { publisher = "marus25", name = "cortex-debug", description = "ARM Cortex-M GDB Debugger support for VSCode", license = "MIT" }
 
 [RandomFractalsInc-snippets-viewer]
@@ -4400,8 +4400,8 @@ fetch.url = "https://open-vsx.org/api/pranaygp/vscode-css-peek/4.2.0/file/pranay
 passthru = { publisher = "pranaygp", name = "vscode-css-peek", description = "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.", license = "MIT" }
 
 [base9-theme-base9-vscode]
-src.manual = "0.0.8" # base9-theme.base9-vscode
-fetch.url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.8/file/base9-theme.base9-vscode-0.0.8.vsix" # base9-theme.base9-vscode
+src.manual = "0.0.9" # base9-theme.base9-vscode
+fetch.url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.9/file/base9-theme.base9-vscode-0.0.9.vsix" # base9-theme.base9-vscode
 passthru = { publisher = "base9-theme", name = "base9-vscode", description = "", license = "MIT" }
 
 [Fushra-meml]
@@ -4680,8 +4680,8 @@ fetch.url = "https://open-vsx.org/api/timdmackey/mechanic-liquid/0.0.18/file/tim
 passthru = { publisher = "timdmackey", name = "mechanic-liquid", description = "Provides syntax highlighting and code snippets for Mechanic-flavored Liquid", license = "LICENSE.md" }
 
 [ms-pyright-pyright]
-src.manual = "1.1.269" # ms-pyright.pyright
-fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.269/file/ms-pyright.pyright-1.1.269.vsix" # ms-pyright.pyright
+src.manual = "1.1.270" # ms-pyright.pyright
+fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.270/file/ms-pyright.pyright-1.1.270.vsix" # ms-pyright.pyright
 passthru = { publisher = "ms-pyright", name = "pyright", description = "VS Code static type checking for Python", license = "MIT" }
 
 [harmony-harmony-assist]
@@ -4850,8 +4850,8 @@ fetch.url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.14/file/Robb
 passthru = { publisher = "RobbOwen", name = "synthwave-vscode", description = "A Synthwave-inspired colour theme to satisfy your neon dreams", license = "MIT" }
 
 [johnpapa-vscode-peacock]
-src.manual = "4.2.0" # johnpapa.vscode-peacock
-fetch.url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.2.0/file/johnpapa.vscode-peacock-4.2.0.vsix" # johnpapa.vscode-peacock
+src.manual = "4.2.1" # johnpapa.vscode-peacock
+fetch.url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.2.1/file/johnpapa.vscode-peacock-4.2.1.vsix" # johnpapa.vscode-peacock
 passthru = { publisher = "johnpapa", name = "vscode-peacock", description = "Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.", license = "MIT" }
 
 [cloudstudio-metawork]
@@ -5175,8 +5175,8 @@ fetch.url = "https://open-vsx.org/api/MakeItBetter/vscode-swift-test-adapter/1.1
 passthru = { publisher = "MakeItBetter", name = "vscode-swift-test-adapter", description = "Run your Swift tests in the Sidebar of Visual Studio Code", license = "MIT" }
 
 [eamodio-gitlens]
-src.manual = "12.2.1" # eamodio.gitlens
-fetch.url = "https://open-vsx.org/api/eamodio/gitlens/12.2.1/file/eamodio.gitlens-12.2.1.vsix" # eamodio.gitlens
+src.manual = "12.2.2" # eamodio.gitlens
+fetch.url = "https://open-vsx.org/api/eamodio/gitlens/12.2.2/file/eamodio.gitlens-12.2.2.vsix" # eamodio.gitlens
 passthru = { publisher = "eamodio", name = "gitlens", description = "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more", license = "MIT" }
 
 [idleberg-subway]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9230,8 +9230,8 @@ fetch.url = "https://open-vsx.org/api/kdarkhan/mips/0.1.0/file/kdarkhan.mips-0.1
 passthru = { publisher = "kdarkhan", name = "mips", description = "Provides syntax highlighting and snippets for MIPS assembly language", license = "MIT" }
 
 [halcyontechltd-vscode-ibmi-walkthroughs]
-src.manual = "0.2.2" # halcyontechltd.vscode-ibmi-walkthroughs
-fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.2/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.2.vsix" # halcyontechltd.vscode-ibmi-walkthroughs
+src.manual = "0.2.3" # halcyontechltd.vscode-ibmi-walkthroughs
+fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.3/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.3.vsix" # halcyontechltd.vscode-ibmi-walkthroughs
 passthru = { publisher = "halcyontechltd", name = "vscode-ibmi-walkthroughs", description = "Adds walkthroughs for IBM i development in VS Code", license = "Apache-2.0" }
 
 [iljapostnovs-ui5plugin]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.605" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.605/file/Slint.slint-nightly-2022.9.605.vsix" # Slint.slint-nightly
+src.manual = "2022.9.618" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.618/file/Slint.slint-nightly-2022.9.618.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10110,8 +10110,8 @@ fetch.url = "https://open-vsx.org/api/ShishirSingh/easy-react-snippet/0.1.2/file
 passthru = { publisher = "ShishirSingh", name = "easy-react-snippet", description = "Intuitive React Snippet that are easy to recall and use", license = "BSD-3-Clause" }
 
 [karatelabs-karate]
-src.manual = "0.1.2" # karatelabs.karate
-fetch.url = "https://open-vsx.org/api/karatelabs/karate/0.1.2/file/karatelabs.karate-0.1.2.vsix" # karatelabs.karate
+src.manual = "0.2.0" # karatelabs.karate
+fetch.url = "https://open-vsx.org/api/karatelabs/karate/0.2.0/file/karatelabs.karate-0.2.0.vsix" # karatelabs.karate
 passthru = { publisher = "karatelabs", name = "karate", description = "Test Automation Made Simple", license = "" }
 
 
@@ -10313,5 +10313,6 @@ passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Sta
 src.manual = "0.4.0" # dfinity-foundation.vscode-motoko
 fetch.url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/file/dfinity-foundation.vscode-motoko-0.4.0.vsix" # dfinity-foundation.vscode-motoko
 passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", description = "Motoko language support", license = "Apache-2.0" }
+
 
 
