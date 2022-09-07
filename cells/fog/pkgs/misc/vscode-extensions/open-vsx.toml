@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.80" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.80/file/zardoy.zardoy-experiments-0.0.80.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.81" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.81/file/zardoy.zardoy-experiments-0.0.81.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -5020,8 +5020,8 @@ fetch.url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-hi
 passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-highlighting", description = "Markdown syntax support for the Mermaid charting language", license = "MIT" }
 
 [GenieBuilder-geniebuilder-insider]
-src.manual = "0.1.21" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.21/file/GenieBuilder.geniebuilder-insider-0.1.21.vsix" # GenieBuilder.geniebuilder-insider
+src.manual = "0.1.22" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.22/file/GenieBuilder.geniebuilder-insider-0.1.22.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1390" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1390/file/Prisma.prisma-insider-31.0.1390.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1392" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1392/file/Prisma.prisma-insider-31.0.1392.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9945,8 +9945,8 @@ fetch.url = "https://open-vsx.org/api/Dart-Code/dart-code/3.48.0/file/Dart-Code.
 passthru = { publisher = "Dart-Code", name = "dart-code", description = "Dart language support and debugger for Visual Studio Code.", license = "MIT" }
 
 [cweijan-vscode-mysql-client2]
-src.manual = "5.7.4" # cweijan.vscode-mysql-client2
-fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.4/file/cweijan.vscode-mysql-client2-5.7.4.vsix" # cweijan.vscode-mysql-client2
+src.manual = "5.7.9" # cweijan.vscode-mysql-client2
+fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.9/file/cweijan.vscode-mysql-client2-5.7.9.vsix" # cweijan.vscode-mysql-client2
 passthru = { publisher = "cweijan", name = "vscode-mysql-client2", description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.", license = "MIT" }
 
 [redhat-vscode-xml]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.9" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10321,5 +10321,6 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 src.manual = "1.0.2" # meshvoid.theme-meshvoid
 fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.2/file/meshvoid.theme-meshvoid-1.0.2.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
+
 
 
