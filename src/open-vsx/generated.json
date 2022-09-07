@@ -1969,9 +1969,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aR9nCjYihrs+p6Wt5m/+GXoIRpvIiIAk8bGiiX5BDIY=",
+            "sha256": "sha256-sPLkyu+sxJhS8TJ1Bo9RTk6hIiYfpLY4fEvMR96UuHE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.618/file/Slint.slint-nightly-2022.9.618.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.717/file/Slint.slint-nightly-2022.9.717.vsix"
         },
-        "version": "2022.9.618"
+        "version": "2022.9.717"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -16542,9 +16542,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20234,6 +20234,25 @@
         },
         "version": "0.22.0"
     },
+    "kieler-keith-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "kieler-keith-vscode",
+        "passthru": {
+            "description": "KIELER Visual Studio Code",
+            "license": "EPL-2.0",
+            "name": "keith-vscode",
+            "publisher": "kieler"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-XBy7USJ65WuaixvNkgj5I4/4XCzajk1e4dVnbe6yCRQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/kieler/keith-vscode/0.1.0/file/kieler.keith-vscode-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "kieler-klighd-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -20950,11 +20969,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -22622,11 +22641,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+TqXiLUBMNVw6QkVzXKJRXunV+GSSEXlfcfW/An/hLg=",
+            "sha256": "sha256-u2FDeaXRfmhEZQANFToXSwQtglfA1R0040yOck3CCh0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.6/file/meshvoid.theme-meshvoid-1.0.6.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.8/file/meshvoid.theme-meshvoid-1.0.8.vsix"
         },
-        "version": "1.0.6"
+        "version": "1.0.8"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -30583,11 +30602,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -38050,11 +38069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6TCHL9RMpmuiZfJMBLqE6S0/DV+orKYJC9LNOgzvc6c=",
+            "sha256": "sha256-ZM1Bht8ySRyvFKypxmwA3/79Cxaykjejbf4jgIujR50=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.81/file/zardoy.zardoy-experiments-0.0.81.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.82/file/zardoy.zardoy-experiments-0.0.82.vsix"
         },
-        "version": "0.0.81"
+        "version": "0.0.82"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
@@ -38354,11 +38373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
