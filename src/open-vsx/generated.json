@@ -16542,9 +16542,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -22622,11 +22622,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MVDnDmBeQwbwPoPOvWWXxWHrypD3AUnkVQAwFMro8XU=",
+            "sha256": "sha256-+TqXiLUBMNVw6QkVzXKJRXunV+GSSEXlfcfW/An/hLg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.3/file/meshvoid.theme-meshvoid-1.0.3.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.6/file/meshvoid.theme-meshvoid-1.0.6.vsix"
         },
-        "version": "1.0.3"
+        "version": "1.0.6"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -27163,11 +27163,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yNLgTPcqfQplPQsaw2NmIdANvu6JbY1YkZj5XAJkulw=",
+            "sha256": "sha256-biTmwImsaNQjQGbDwb6U7oGGstVGcVtGh3SCbEeHlcQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.421/file/pokey.cursorless-0.26.421.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.422/file/pokey.cursorless-0.26.422.vsix"
         },
-        "version": "0.26.421"
+        "version": "0.26.422"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

@@ -10445,8 +10445,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -14283,10 +14283,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.0.3";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.3/file/meshvoid.theme-meshvoid-1.0.3.vsix";
-      sha256 = "sha256-MVDnDmBeQwbwPoPOvWWXxWHrypD3AUnkVQAwFMro8XU=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.6/file/meshvoid.theme-meshvoid-1.0.6.vsix";
+      sha256 = "sha256-+TqXiLUBMNVw6QkVzXKJRXunV+GSSEXlfcfW/An/hLg=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -17151,10 +17151,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.421";
+    version = "0.26.422";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.421/file/pokey.cursorless-0.26.421.vsix";
-      sha256 = "sha256-yNLgTPcqfQplPQsaw2NmIdANvu6JbY1YkZj5XAJkulw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.422/file/pokey.cursorless-0.26.422.vsix";
+      sha256 = "sha256-biTmwImsaNQjQGbDwb6U7oGGstVGcVtGh3SCbEeHlcQ=";
     };
     license = "MIT";
     name = "cursorless";
