@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1393";
+    version = "31.0.1394";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1393/file/Prisma.prisma-insider-31.0.1393.vsix";
-      sha256 = "sha256-JE1DXMunZJrza7FENYY3ewYxk8vtgz8ktUwiV3Rr6O8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1394/file/Prisma.prisma-insider-31.0.1394.vsix";
+      sha256 = "sha256-10yTDmM+8ImxSrLLFmr34EVtbYyILxPocRsTIuk2kJ8=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5535,10 +5535,10 @@
   };
   arm-embedded-debug = {
     pname = "arm-embedded-debug";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix";
-      sha256 = "sha256-TvGJu6/9/Jx4lNcKSKMZdJATIHSTp39O8kZWy1q6kpI=";
+      url = "https://open-vsx.org/api/arm/embedded-debug/0.2.0/file/arm.embedded-debug-0.2.0.vsix";
+      sha256 = "sha256-aFzVLj0SQJhY1/IOXkgRkFBd4r8BkT+9t/0SGJQ3OzM=";
     };
     license = "";
     name = "embedded-debug";
@@ -10445,8 +10445,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
