@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "df2a47e72cbbd352c87ecc714622b53768222ed8";
+    version = "ad9d921104b60542e1609955af41b5acd4f62c2f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "df2a47e72cbbd352c87ecc714622b53768222ed8";
+      rev = "ad9d921104b60542e1609955af41b5acd4f62c2f";
       fetchSubmodules = false;
-      sha256 = "sha256-d76SmHLqRhuBdmI4DSiBB26FkTJnCK9HoIF66WP97h4=";
+      sha256 = "sha256-Y0qkJSWOqIB9wkghGee0XPJGlpCKvQVSUhbNu9Usv6k=";
     });
   };
   caddy = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.5";
+    version = "2.9.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.5/revanced-cli-2.9.5-all.jar";
-      sha256 = "sha256-5HbPIENlUSG7GeoJDtZ+Y9mqd6KN2ZSjQWbJ9iFC5tg=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.6/revanced-cli-2.9.6-all.jar";
+      sha256 = "sha256-FLLJ3DAoYj7jFVFDqJrKF46ptrU6uX8H1Wr7j4+Kt1s=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.50.5";
+    version = "2.50.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.5/revanced-patches-2.50.5.jar";
-      sha256 = "sha256-pz3IeCkMa0mQD0GqpO2muqUTEZR1fV4pQruQGoPiV0Q=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.6/revanced-patches-2.50.6.jar";
+      sha256 = "sha256-NneLFkxTWfKkBW0JEva3KUfkRu0P3VIiVYT3pdgxpHA=";
     };
   };
   rofi-wayland = {
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8fdf13757176b140f0864aebcb673cb4562c8335";
+    version = "c9961b8b95008d5d05d2c8c008c28f32e92b6551";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8fdf13757176b140f0864aebcb673cb4562c8335";
+      rev = "c9961b8b95008d5d05d2c8c008c28f32e92b6551";
       fetchSubmodules = false;
-      sha256 = "sha256-rIovmH4Az24m5agc+D4TfeDkVrW7OKr6eXXr0MhXzfM=";
+      sha256 = "sha256-gTKn/rcpUA5gCw1LRzNBkTcYtFAq+rs7Utod6wNEyhM=";
     });
   };
   tailscale-systray = {
