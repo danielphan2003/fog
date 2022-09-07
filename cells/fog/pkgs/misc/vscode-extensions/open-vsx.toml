@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.82" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.82/file/zardoy.zardoy-experiments-0.0.82.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.83" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.83/file/zardoy.zardoy-experiments-0.0.83.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -10227,8 +10227,8 @@ passthru = { publisher = "wicked-labs", name = "old-serendipity", description = 
 
 
 [arm-remote-build]
-src.manual = "0.1.0" # arm.remote-build
-fetch.url = "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix" # arm.remote-build
+src.manual = "0.2.1" # arm.remote-build
+fetch.url = "https://open-vsx.org/api/arm/remote-build/0.2.1/file/arm.remote-build-0.2.1.vsix" # arm.remote-build
 passthru = { publisher = "arm", name = "remote-build", description = "Undertake remote builds of projects for Arm Cortex-M based microcontrollers", license = "" }
 
 
@@ -10331,5 +10331,6 @@ passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "Mes
 src.manual = "0.1.0" # kieler.keith-vscode
 fetch.url = "https://open-vsx.org/api/kieler/keith-vscode/0.1.0/file/kieler.keith-vscode-0.1.0.vsix" # kieler.keith-vscode
 passthru = { publisher = "kieler", name = "keith-vscode", description = "KIELER Visual Studio Code", license = "EPL-2.0" }
+
 
 

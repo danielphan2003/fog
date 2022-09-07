@@ -1969,9 +1969,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -8828,11 +8828,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BiVYf6gh99fMZ1sqFM4P+/RzaWDuEPZHYgcwVvSTc9o=",
+            "sha256": "sha256-Dppoq2WcSmXTmSDxW3QiH8Yo0v5R4zsC7ZdNgGQ3ems=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/remote-build/0.2.1/file/arm.remote-build-0.2.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.2.1"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -38069,11 +38069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZM1Bht8ySRyvFKypxmwA3/79Cxaykjejbf4jgIujR50=",
+            "sha256": "sha256-e3rFXZw3Jh5ZGus5nLfH/p0HVwAtHB4V35GCKmEYDZE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.82/file/zardoy.zardoy-experiments-0.0.82.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.83/file/zardoy.zardoy-experiments-0.0.83.vsix"
         },
-        "version": "0.0.82"
+        "version": "0.0.83"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

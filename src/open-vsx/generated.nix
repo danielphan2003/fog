@@ -1241,8 +1241,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -5571,10 +5571,10 @@
   };
   arm-remote-build = {
     pname = "arm-remote-build";
-    version = "0.1.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/remote-build/0.1.0/file/arm.remote-build-0.1.0.vsix";
-      sha256 = "sha256-BiVYf6gh99fMZ1sqFM4P+/RzaWDuEPZHYgcwVvSTc9o=";
+      url = "https://open-vsx.org/api/arm/remote-build/0.2.1/file/arm.remote-build-0.2.1.vsix";
+      sha256 = "sha256-Dppoq2WcSmXTmSDxW3QiH8Yo0v5R4zsC7ZdNgGQ3ems=";
     };
     license = "";
     name = "remote-build";
@@ -24039,10 +24039,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.82";
+    version = "0.0.83";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.82/file/zardoy.zardoy-experiments-0.0.82.vsix";
-      sha256 = "sha256-ZM1Bht8ySRyvFKypxmwA3/79Cxaykjejbf4jgIujR50=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.83/file/zardoy.zardoy-experiments-0.0.83.vsix";
+      sha256 = "sha256-e3rFXZw3Jh5ZGus5nLfH/p0HVwAtHB4V35GCKmEYDZE=";
     };
     license = "MIT";
     name = "zardoy-experiments";
