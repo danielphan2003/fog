@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "2ded7d9b1f4f44b9e5749f554e14fd42a4b9ebb9",
-            "sha256": "sha256-8PCmXr/ZSIB27XhVqtQXSfBiiO3DNrekHm5v+zKTIUg=",
+            "rev": "831bb83f4edc385538606d9e0af6463c7eec4c75",
+            "sha256": "sha256-1izIE56W9aLs8C5pqs+Z4KptiEY6KSTc683THT9bJxA=",
             "type": "github"
         },
-        "version": "2ded7d9b1f4f44b9e5749f554e14fd42a4b9ebb9"
+        "version": "831bb83f4edc385538606d9e0af6463c7eec4c75"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "09b54c088b5869ecb703f7aa0546565f616b1a8a",
-            "sha256": "sha256-UKc7GILymKMuzYs189/8MzdgLUWH+5n2qAXx/XB0Nsk=",
+            "rev": "a881e91107e9faa0e327ea94cb056dc8844b6587",
+            "sha256": "sha256-7nXnzBwK2r29lC8JBMycCeep28qS1KESCFqecFXnYPc=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "09b54c088b5869ecb703f7aa0546565f616b1a8a"
+        "version": "a881e91107e9faa0e327ea94cb056dc8844b6587"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j2YdGwfywbeJi/ukDvFjVt8dN0lgR1R43EC0ZGk+1XA=",
+            "sha256": "sha256-rLFl5ZhK5zj3WSmkEURreKBtnuKtM8uowq4uuypXPI0=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6536.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6537.tar.bz2"
         },
-        "version": "1.0.6536"
+        "version": "1.0.6537"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3sTgi6GxBRX+aYig4E/o+LniMYwpKx3cHQNkwA5HjBA=",
+            "sha256": "sha256-AC/Dian6K4A/kOizXtVLj0H8Yfav+N+aCSKEaDTBcJE=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6536-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6537-1_all.deb"
         },
-        "version": "1.0.6536"
+        "version": "1.0.6537"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
