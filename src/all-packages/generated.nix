@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6e195a6b8cb98e96d15c51003da4b17154c55ff3";
+    version = "64be57b78003a361c7a100dd38b5a4c6b962536c";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "6e195a6b8cb98e96d15c51003da4b17154c55ff3";
+      rev = "64be57b78003a361c7a100dd38b5a4c6b962536c";
       fetchSubmodules = false;
-      sha256 = "sha256-HKkDvjqLn0652ovUk/8u7uFOF3CEq3F3D/EnewrlROY=";
+      sha256 = "sha256-cBuvvth+raP8j/FDP6Me73YYr82KKn16tNtzlnTKvps=";
     });
   };
   ibus = {
@@ -662,10 +662,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "106.0.1363.0";
+    version = "106.0.1370.4";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1363.0-1_amd64.deb";
-      sha256 = "sha256-yFLhsZ9T0sXNauPvJbWBYt38efshhttUUGRj3Uagq18=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1370.4-1_amd64.deb";
+      sha256 = "sha256-MC9inJTBpv4mauqVTgAAEaMucDVFCwOBxX4fddf/qeE=";
     };
   };
   microsoft-edge-stable = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.50.4";
+    version = "2.50.5";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.4/revanced-patches-2.50.4.jar";
-      sha256 = "sha256-TUDjhR2GPPl4pzMM3lXqUJEeNLYMVoBV2DfDaDArh5g=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.5/revanced-patches-2.50.5.jar";
+      sha256 = "sha256-pz3IeCkMa0mQD0GqpO2muqUTEZR1fV4pQruQGoPiV0Q=";
     };
   };
   rofi-wayland = {
