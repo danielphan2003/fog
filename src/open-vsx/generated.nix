@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.2";
+    version = "9.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.2/file/YXL.cloudmusic-9.16.2.vsix";
-      sha256 = "sha256-UGZagEsCJnJEe98Br47ZbqeP1cWLOyvVFIDhfxsvIMw=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.3/file/YXL.cloudmusic-9.16.3.vsix";
+      sha256 = "sha256-miovssZX2ExgQepNQ2OYG2Cj5x8CWRZxzgFURFohL0o=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -12915,10 +12915,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13227,10 +13227,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18171,10 +18171,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.16";
+    version = "1.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.16/file/remcohaszing.schemastore-1.0.16.vsix";
-      sha256 = "sha256-2JTVyC3SJgDjyKv/Qado43P38NznkXCHGqgwKavJ8NU=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.17/file/remcohaszing.schemastore-1.0.17.vsix";
+      sha256 = "sha256-ovoGZYY8EdyJS+ueRmWhAXDKEtd6eAoYUNMYCQOcg60=";
     };
     license = "MIT";
     name = "schemastore";
@@ -19179,10 +19179,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.60";
+    version = "0.0.61";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.60/file/shivaprasanth.dothttp-code-0.0.60.vsix";
-      sha256 = "sha256-QK0Xj19EPkevR/O9fB+C8+LPhU/NpJkVH8eeQA2+u3Q=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.61/file/shivaprasanth.dothttp-code-0.0.61.vsix";
+      sha256 = "sha256-tJOE5aUnpndkQI+PIl+MhXeFuZlMMeEFuVyOenJgha0=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
@@ -19745,8 +19745,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

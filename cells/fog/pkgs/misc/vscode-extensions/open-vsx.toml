@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9760,8 +9760,8 @@ fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Piv
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
 
 [YXL-cloudmusic]
-src.manual = "9.16.2" # YXL.cloudmusic
-fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.2/file/YXL.cloudmusic-9.16.2.vsix" # YXL.cloudmusic
+src.manual = "9.16.3" # YXL.cloudmusic
+fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.3/file/YXL.cloudmusic-9.16.3.vsix" # YXL.cloudmusic
 passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
 
 [_42Crunch-vscode-openapi]
@@ -9815,8 +9815,8 @@ fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3
 passthru = { publisher = "Prisma", name = "prisma", description = "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.", license = "Apache-2.0" }
 
 [shivaprasanth-dothttp-code]
-src.manual = "0.0.60" # shivaprasanth.dothttp-code
-fetch.url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.60/file/shivaprasanth.dothttp-code-0.0.60.vsix" # shivaprasanth.dothttp-code
+src.manual = "0.0.61" # shivaprasanth.dothttp-code
+fetch.url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.61/file/shivaprasanth.dothttp-code-0.0.61.vsix" # shivaprasanth.dothttp-code
 passthru = { publisher = "shivaprasanth", name = "dothttp-code", description = "A Http Client for sending to and receiving from http endpoints (dothttp)", license = "Apache-2.0" }
 
 [scalameta-metals]
@@ -9830,8 +9830,8 @@ fetch.url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-
 passthru = { publisher = "qcz", name = "text-power-tools", description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.", license = "MIT" }
 
 [remcohaszing-schemastore]
-src.manual = "1.0.16" # remcohaszing.schemastore
-fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.16/file/remcohaszing.schemastore-1.0.16.vsix" # remcohaszing.schemastore
+src.manual = "1.0.17" # remcohaszing.schemastore
+fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.17/file/remcohaszing.schemastore-1.0.17.vsix" # remcohaszing.schemastore
 passthru = { publisher = "remcohaszing", name = "schemastore", description = "Use the JSON Schema Store catalog for JSON schema validation.", license = "MIT" }
 
 [elixir-lsp-elixir-ls]
@@ -10313,4 +10313,5 @@ passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Sta
 src.manual = "0.4.0" # dfinity-foundation.vscode-motoko
 fetch.url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/file/dfinity-foundation.vscode-motoko-0.4.0.vsix" # dfinity-foundation.vscode-motoko
 passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", description = "Motoko language support", license = "Apache-2.0" }
+
 
