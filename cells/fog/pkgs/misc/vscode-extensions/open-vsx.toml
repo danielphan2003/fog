@@ -5200,8 +5200,8 @@ fetch.url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.6/file/dbaeumer
 passthru = { publisher = "dbaeumer", name = "vscode-eslint", description = "Integrates ESLint JavaScript into VS Code.", license = "MIT" }
 
 [julialang-language-julia-insider]
-src.manual = "1.7.6" # julialang.language-julia-insider
-fetch.url = "https://open-vsx.org/api/julialang/language-julia/1.7.6/file/julialang.language-julia-1.7.6.vsix" # julialang.language-julia-insider
+src.manual = "1.7.10" # julialang.language-julia-insider
+fetch.url = "https://open-vsx.org/api/julialang/language-julia/1.7.10/file/julialang.language-julia-1.7.10.vsix" # julialang.language-julia-insider
 passthru = { publisher = "julialang", name = "language-julia-insider", description = "Julia Language Support (Insider)", license = "MIT" }
 
 [Gruntfuggly-triggertaskonsave]
@@ -9760,8 +9760,8 @@ fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Piv
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
 
 [YXL-cloudmusic]
-src.manual = "9.16.4" # YXL.cloudmusic
-fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.4/file/YXL.cloudmusic-9.16.4.vsix" # YXL.cloudmusic
+src.manual = "9.16.5" # YXL.cloudmusic
+fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.5/file/YXL.cloudmusic-9.16.5.vsix" # YXL.cloudmusic
 passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
 
 [_42Crunch-vscode-openapi]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1392" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1392/file/Prisma.prisma-insider-31.0.1392.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1393" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1393/file/Prisma.prisma-insider-31.0.1393.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10318,8 +10318,8 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 
 
 [meshvoid-theme-meshvoid]
-src.manual = "1.0.8" # meshvoid.theme-meshvoid
-fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.8/file/meshvoid.theme-meshvoid-1.0.8.vsix" # meshvoid.theme-meshvoid
+src.manual = "1.1.2" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 
 
@@ -10331,4 +10331,5 @@ passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "Mes
 src.manual = "0.1.0" # kieler.keith-vscode
 fetch.url = "https://open-vsx.org/api/kieler/keith-vscode/0.1.0/file/kieler.keith-vscode-0.1.0.vsix" # kieler.keith-vscode
 passthru = { publisher = "kieler", name = "keith-vscode", description = "KIELER Visual Studio Code", license = "EPL-2.0" }
+
 

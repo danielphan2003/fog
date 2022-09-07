@@ -4933,11 +4933,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nf+96YSryLAc8q6/Hn5J0KP+EmP4Z+gA5BC52rJdH+A=",
+            "sha256": "sha256-JE1DXMunZJrza7FENYY3ewYxk8vtgz8ktUwiV3Rr6O8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1392/file/Prisma.prisma-insider-31.0.1392.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1393/file/Prisma.prisma-insider-31.0.1393.vsix"
         },
-        "version": "31.0.1392"
+        "version": "31.0.1393"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -6681,11 +6681,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vjfroasDSQyX81iE/WnfPIVxJZ/be0xeTboNnRjRI3A=",
+            "sha256": "sha256-SItqiFLQV72W3BlelnQpeugi1TtJZP2rpwJdBPcfI0k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.4/file/YXL.cloudmusic-9.16.4.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.5/file/YXL.cloudmusic-9.16.5.vsix"
         },
-        "version": "9.16.4"
+        "version": "9.16.5"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -19715,11 +19715,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AQtKRsBbSbAO1jphs3ytFI4MnbafWSX2RxJtI89Z6dU=",
+            "sha256": "sha256-/NGMXAa602LzcaqRKuGzWDdBIAeOod7KsELrH+iYE0o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/julialang/language-julia/1.7.6/file/julialang.language-julia-1.7.6.vsix"
+            "url": "https://open-vsx.org/api/julialang/language-julia/1.7.10/file/julialang.language-julia-1.7.10.vsix"
         },
-        "version": "1.7.6"
+        "version": "1.7.10"
     },
     "junstyle-php-cs-fixer": {
         "cargoLocks": null,
@@ -22641,11 +22641,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u2FDeaXRfmhEZQANFToXSwQtglfA1R0040yOck3CCh0=",
+            "sha256": "sha256-bwBzYls8pI1MYM7y/LMsSCLExyMOPfyv8MvbG5XEtm4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.8/file/meshvoid.theme-meshvoid-1.0.8.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix"
         },
-        "version": "1.0.8"
+        "version": "1.1.2"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,

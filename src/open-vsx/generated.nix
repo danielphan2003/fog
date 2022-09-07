@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1392";
+    version = "31.0.1393";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1392/file/Prisma.prisma-insider-31.0.1392.vsix";
-      sha256 = "sha256-nf+96YSryLAc8q6/Hn5J0KP+EmP4Z+gA5BC52rJdH+A=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1393/file/Prisma.prisma-insider-31.0.1393.vsix";
+      sha256 = "sha256-JE1DXMunZJrza7FENYY3ewYxk8vtgz8ktUwiV3Rr6O8=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.4";
+    version = "9.16.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.4/file/YXL.cloudmusic-9.16.4.vsix";
-      sha256 = "sha256-vjfroasDSQyX81iE/WnfPIVxJZ/be0xeTboNnRjRI3A=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.5/file/YXL.cloudmusic-9.16.5.vsix";
+      sha256 = "sha256-SItqiFLQV72W3BlelnQpeugi1TtJZP2rpwJdBPcfI0k=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -12447,10 +12447,10 @@
   };
   julialang-language-julia-insider = {
     pname = "julialang-language-julia-insider";
-    version = "1.7.6";
+    version = "1.7.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.7.6/file/julialang.language-julia-1.7.6.vsix";
-      sha256 = "sha256-AQtKRsBbSbAO1jphs3ytFI4MnbafWSX2RxJtI89Z6dU=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.7.10/file/julialang.language-julia-1.7.10.vsix";
+      sha256 = "sha256-/NGMXAa602LzcaqRKuGzWDdBIAeOod7KsELrH+iYE0o=";
     };
     license = "MIT";
     name = "language-julia-insider";
@@ -14295,10 +14295,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.0.8";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.8/file/meshvoid.theme-meshvoid-1.0.8.vsix";
-      sha256 = "sha256-u2FDeaXRfmhEZQANFToXSwQtglfA1R0040yOck3CCh0=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix";
+      sha256 = "sha256-bwBzYls8pI1MYM7y/LMsSCLExyMOPfyv8MvbG5XEtm4=";
     };
     license = "GPL";
     name = "theme-meshvoid";
