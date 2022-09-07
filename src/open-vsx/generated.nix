@@ -3315,10 +3315,10 @@
   };
   RomainMenke-csstools-design-tokens = {
     pname = "RomainMenke-csstools-design-tokens";
-    version = "1.0.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/file/RomainMenke.csstools-design-tokens-1.0.2.vsix";
-      sha256 = "sha256-sYdJ89+/v/jgvFxPne1sHAot4LMpErMGtygUdyxEct8=";
+      url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.2.0/file/RomainMenke.csstools-design-tokens-1.2.0.vsix";
+      sha256 = "sha256-isfZlkSxUcvqqz7qqilvEo2bKMqgxKhgBjopxgpcn40=";
     };
     license = "MIT";
     name = "csstools-design-tokens";
@@ -4215,10 +4215,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.3";
+    version = "9.16.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.3/file/YXL.cloudmusic-9.16.3.vsix";
-      sha256 = "sha256-miovssZX2ExgQepNQ2OYG2Cj5x8CWRZxzgFURFohL0o=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.4/file/YXL.cloudmusic-9.16.4.vsix";
+      sha256 = "sha256-vjfroasDSQyX81iE/WnfPIVxJZ/be0xeTboNnRjRI3A=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
+      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8295,10 +8295,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.108.6";
+    version = "0.111.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.108.6/file/dendron.nightly-0.108.6.vsix";
-      sha256 = "sha256-XywRVhEWMTv2Xc8JeAnK1dsMi3ypR43gQV5rYnQoDpE=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.111.1/file/dendron.nightly-0.111.1.vsix";
+      sha256 = "sha256-OJjZitMWGI7MMBFAvHWvpedQ7rXlKFBJ3mhcjOBx4gw=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8919,10 +8919,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2993426";
+    version = "8.0.3005973";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2993426/file/eliostruyf.vscode-front-matter-beta-8.0.2993426.vsix";
-      sha256 = "sha256-T0M0WvRGgh3Xh3xbu3NdF+ERrfFBHnDu8raF7/kRNTs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.3005973/file/eliostruyf.vscode-front-matter-beta-8.0.3005973.vsix";
+      sha256 = "sha256-JFMlmy5iM+kAgC/KfC5XK1YhcVsT9OkMoogfId47uAs=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -11859,10 +11859,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022090513";
+    version = "0.1.2022090708";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090513/file/jbangdev.jbang-vscode-0.1.2022090513.vsix";
-      sha256 = "sha256-ehLlzzkGC3+Qk7bJj4N4dcPHAbO0j4WHRAevkjEz3Kg=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090708/file/jbangdev.jbang-vscode-0.1.2022090708.vsix";
+      sha256 = "sha256-o5GgDAd1Gyols3YYG3RNL2rk/8OMPX4ss9MfBj5x+bc=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -14283,10 +14283,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.0.0";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.0/file/meshvoid.theme-meshvoid-1.0.0.vsix";
-      sha256 = "sha256-aXweWOaaUZUCUiOmOWmv0e3isW9om4SOblB3giRX4nw=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.2/file/meshvoid.theme-meshvoid-1.0.2.vsix";
+      sha256 = "sha256-DYnC7lphvh0HdWyOSLi0MoCpGnuPhASZnqFX4St3gWE=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19743,10 +19743,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.9.3";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.3/file/statelyai.stately-vscode-1.9.3.vsix";
-      sha256 = "sha256-BvuliNjmfrdYoJQu4wSFSOoXo0AtLWC0Io8tWIUnmdA=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.10.0/file/statelyai.stately-vscode-1.10.0.vsix";
+      sha256 = "sha256-RLAmXZdlPm80dQAXI1WzUnqMX4HPPuBQAa4heQlxhV0=";
     };
     license = "MIT";
     name = "stately-vscode";
