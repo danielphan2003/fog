@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -10315,4 +10315,10 @@ fetch.url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/fil
 passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", description = "Motoko language support", license = "Apache-2.0" }
 
 
+
+
+[meshvoid-theme-meshvoid]
+src.manual = "1.0.0" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.0/file/meshvoid.theme-meshvoid-1.0.0.vsix" # meshvoid.theme-meshvoid
+passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 

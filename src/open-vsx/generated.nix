@@ -10445,8 +10445,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -14280,6 +14280,18 @@
     name = "manpages";
     description = "Quickly open man pages and navigate through them.";
     publisher = "meronz";
+  };
+  meshvoid-theme-meshvoid = {
+    pname = "meshvoid-theme-meshvoid";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.0/file/meshvoid.theme-meshvoid-1.0.0.vsix";
+      sha256 = "sha256-aXweWOaaUZUCUiOmOWmv0e3isW9om4SOblB3giRX4nw=";
+    };
+    license = "GPL";
+    name = "theme-meshvoid";
+    description = "MeshVoid theme for Visual Studio Code";
+    publisher = "meshvoid";
   };
   mesonbuild-mesonbuild = {
     pname = "mesonbuild-mesonbuild";

@@ -16542,9 +16542,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -22608,6 +22608,25 @@
             "url": "https://open-vsx.org/api/meronz/manpages/0.1.1/file/meronz.manpages-0.1.1.vsix"
         },
         "version": "0.1.1"
+    },
+    "meshvoid-theme-meshvoid": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "meshvoid-theme-meshvoid",
+        "passthru": {
+            "description": "MeshVoid theme for Visual Studio Code",
+            "license": "GPL",
+            "name": "theme-meshvoid",
+            "publisher": "meshvoid"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-aXweWOaaUZUCUiOmOWmv0e3isW9om4SOblB3giRX4nw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.0.0/file/meshvoid.theme-meshvoid-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
