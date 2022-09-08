@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "a881e91107e9faa0e327ea94cb056dc8844b6587";
+    version = "345ff51e6f228a83eefc3cf4b986f8f38d4d2761";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "a881e91107e9faa0e327ea94cb056dc8844b6587";
+      rev = "345ff51e6f228a83eefc3cf4b986f8f38d4d2761";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7nXnzBwK2r29lC8JBMycCeep28qS1KESCFqecFXnYPc=";
+      sha256 = "sha256-QGMXE8XXoAGnJmRguLRhd2ESXF7CM2KIr6k4qOOLXJ4=";
     };
   };
   flyingfox = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e393c6aafe2e70edf7b3e666d56c30c7d6134aa7";
+    version = "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e393c6aafe2e70edf7b3e666d56c30c7d6134aa7";
+      rev = "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d";
       fetchSubmodules = false;
-      sha256 = "sha256-Zidws79GnM8XBrXx5vRTonpKY3KiUDpyyb0ZA6h6mIU=";
+      sha256 = "sha256-zo55GlFwkcvVOqPonQcldbO9gx+4atZYhADmnQE8Q5c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e393c6aafe2e70edf7b3e666d56c30c7d6134aa7/Cargo.lock;
+      lockFile = ./rustdesk-1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c5adc5243c7cf30fcf7ddc0b41b8bb831f95c939";
+    version = "2266b594468ee5e8365ff8ad8412c139c433397e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c5adc5243c7cf30fcf7ddc0b41b8bb831f95c939";
+      rev = "2266b594468ee5e8365ff8ad8412c139c433397e";
       fetchSubmodules = false;
-      sha256 = "sha256-/3pgGjs+XyZ/o8gF9ehVDgzMSf3M3875lOfDGTBIyb4=";
+      sha256 = "sha256-T0CB6tluWHgzOzrY8TDzxIQrWZuZHJGbUhXtsRAgoK8=";
     });
   };
   tailscale-systray = {

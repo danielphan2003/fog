@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a881e91107e9faa0e327ea94cb056dc8844b6587",
-            "sha256": "sha256-7nXnzBwK2r29lC8JBMycCeep28qS1KESCFqecFXnYPc=",
+            "rev": "345ff51e6f228a83eefc3cf4b986f8f38d4d2761",
+            "sha256": "sha256-QGMXE8XXoAGnJmRguLRhd2ESXF7CM2KIr6k4qOOLXJ4=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "a881e91107e9faa0e327ea94cb056dc8844b6587"
+        "version": "345ff51e6f228a83eefc3cf4b986f8f38d4d2761"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-e393c6aafe2e70edf7b3e666d56c30c7d6134aa7/Cargo.lock",
+                "./rustdesk-1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "e393c6aafe2e70edf7b3e666d56c30c7d6134aa7",
-            "sha256": "sha256-Zidws79GnM8XBrXx5vRTonpKY3KiUDpyyb0ZA6h6mIU=",
+            "rev": "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d",
+            "sha256": "sha256-zo55GlFwkcvVOqPonQcldbO9gx+4atZYhADmnQE8Q5c=",
             "type": "github"
         },
-        "version": "e393c6aafe2e70edf7b3e666d56c30c7d6134aa7"
+        "version": "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c5adc5243c7cf30fcf7ddc0b41b8bb831f95c939",
-            "sha256": "sha256-/3pgGjs+XyZ/o8gF9ehVDgzMSf3M3875lOfDGTBIyb4=",
+            "rev": "2266b594468ee5e8365ff8ad8412c139c433397e",
+            "sha256": "sha256-T0CB6tluWHgzOzrY8TDzxIQrWZuZHJGbUhXtsRAgoK8=",
             "type": "github"
         },
-        "version": "c5adc5243c7cf30fcf7ddc0b41b8bb831f95c939"
+        "version": "2266b594468ee5e8365ff8ad8412c139c433397e"
     },
     "tailscale-systray": {
         "cargoLocks": null,
