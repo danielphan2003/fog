@@ -145,6 +145,18 @@
     description = "A distinctly different take on Model-Based System Engineering (MBSE) that allows a system modeler to define a system in simple yaml";
     publisher = "Arch-as-Code";
   };
+  ArmantGoldswain-seesharp-theme = {
+    pname = "ArmantGoldswain-seesharp-theme";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.1.0/file/ArmantGoldswain.seesharp-theme-0.1.0.vsix";
+      sha256 = "sha256-d1jIN1WybfFwmOUUYuMMp3/gXgbbBzA1NV47XzV3Qdc=";
+    };
+    license = "Apache-2.0";
+    name = "seesharp-theme";
+    description = "A colorful vibrant theme for C#";
+    publisher = "ArmantGoldswain";
+  };
   ArtisanByteCrafter-poptheme = {
     pname = "ArtisanByteCrafter-poptheme";
     version = "1.0.3";
@@ -1241,8 +1253,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -5561,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
+      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8307,10 +8319,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.111.1";
+    version = "0.111.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.111.1/file/dendron.nightly-0.111.1.vsix";
-      sha256 = "sha256-OJjZitMWGI7MMBFAvHWvpedQ7rXlKFBJ3mhcjOBx4gw=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.111.2/file/dendron.nightly-0.111.2.vsix";
+      sha256 = "sha256-IQaOrkjYP4EoGYmx+/WwDnHHBdHRJ2lRqCreqZOs6DM=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8931,10 +8943,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3007760";
+    version = "8.1.3013419";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3007760/file/eliostruyf.vscode-front-matter-beta-8.1.3007760.vsix";
-      sha256 = "sha256-5cf/NHpF4hl3U9H9zOta+YRMidbjrLOM0zCYqPNka58=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3013419/file/eliostruyf.vscode-front-matter-beta-8.1.3013419.vsix";
+      sha256 = "sha256-mCiv7mEX0Y9YlXYQlYwHmmF8OUe0aNI72j2+UDfweE8=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -8967,10 +8979,10 @@
   };
   eliostruyf-vscode-unnamed-theme = {
     pname = "eliostruyf-vscode-unnamed-theme";
-    version = "1.12.0";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-unnamed-theme/1.12.0/file/eliostruyf.vscode-unnamed-theme-1.12.0.vsix";
-      sha256 = "sha256-JiLxE/Agj5GxeM6MH4f1x56caIHnbtgZKNpsNZo4A6k=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-unnamed-theme/1.13.0/file/eliostruyf.vscode-unnamed-theme-1.13.0.vsix";
+      sha256 = "sha256-YzQEv4ZRUDxBRfwEbrZYpP+8I5YmMSFBBkCWs/S4Ya8=";
     };
     license = "MIT";
     name = "vscode-unnamed-theme";
@@ -10457,8 +10469,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -17175,10 +17187,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.424";
+    version = "0.26.425";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.424/file/pokey.cursorless-0.26.424.vsix";
-      sha256 = "sha256-S3anKoGqBd3Z8EXvyeSxf9LgGj99rd+0CSRarpVjiZI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.425/file/pokey.cursorless-0.26.425.vsix";
+      sha256 = "sha256-Ui4x5O8hTBXInHJp8uuRTseuV9B4yNe+CsmQPoasTBc=";
     };
     license = "MIT";
     name = "cursorless";
