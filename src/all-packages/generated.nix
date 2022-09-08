@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "bacfae3084cc66b2b0574d21c43ed5811e34ef86";
+    version = "928158bbfb906bd871738d60610d85634d1f8c7e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "bacfae3084cc66b2b0574d21c43ed5811e34ef86";
+      rev = "928158bbfb906bd871738d60610d85634d1f8c7e";
       fetchSubmodules = false;
-      sha256 = "sha256-AexWK3ALyvvxcqEa8qcfOp9yhwaKd13bG/WSQhwgac0=";
+      sha256 = "sha256-VB/34YMiW9mL6sdEAnYOqi1sjOiJcu8ZmQx3R8PI2iI=";
     });
   };
   ibus = {
@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "105.0.1343.27";
+    version = "105.0.1343.33";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.27-1_amd64.deb";
-      sha256 = "sha256-VZx6QF0oRVT7EKZk4lOm8zf3TAotJg3QNKB9RDpR1Js=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.33-1_amd64.deb";
+      sha256 = "sha256-fFsIIZPJ8AHhpvBzjEMFe8X0C5fQIasPjjionIcsrWk=";
     };
   };
   minecraft-wayland = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.10";
+    version = "2.10.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.10/revanced-cli-2.9.10-all.jar";
-      sha256 = "sha256-I5MDDZKerlFwyxB93NUt9bwBTOy7Nvpc53xI54yUrwI=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.10.0/revanced-cli-2.10.0-all.jar";
+      sha256 = "sha256-E90Nd+FMZ+arlR+LuiW6FnJlJhkgy1B1jKG36kNZRHs=";
     };
   };
   revanced-integrations = {
