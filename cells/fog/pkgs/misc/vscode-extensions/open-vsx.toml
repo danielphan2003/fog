@@ -7080,8 +7080,8 @@ fetch.url = "https://open-vsx.org/api/tonka3000/qtvsctools/0.11.0/file/tonka3000
 passthru = { publisher = "tonka3000", name = "qtvsctools", description = "Qt tools support for VSCode", license = "MIT" }
 
 [rid9-datetime]
-src.manual = "2.1.4" # rid9.datetime
-fetch.url = "https://open-vsx.org/api/rid9/datetime/2.1.4/file/rid9.datetime-2.1.4.vsix" # rid9.datetime
+src.manual = "2.2.1" # rid9.datetime
+fetch.url = "https://open-vsx.org/api/rid9/datetime/2.2.1/file/rid9.datetime-2.2.1.vsix" # rid9.datetime
 passthru = { publisher = "rid9", name = "datetime", description = "Displays a clock and date information in the status bar.", license = "MIT" }
 
 [meronz-manpages]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9080,8 +9080,8 @@ fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor
 passthru = { publisher = "IBM", name = "zopeneditor", description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.", license = "" }
 
 [CodeStream-codestream]
-src.manual = "13.7.1" # CodeStream.codestream
-fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.7.1/file/CodeStream.codestream-13.7.1.vsix" # CodeStream.codestream
+src.manual = "14.0.0" # CodeStream.codestream
+fetch.url = "https://open-vsx.org/api/CodeStream/codestream/14.0.0/file/CodeStream.codestream-14.0.0.vsix" # CodeStream.codestream
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
@@ -10353,6 +10353,7 @@ passthru = { publisher = "claui", name = "packaging", description = "Support for
 src.manual = "0.4.4" # ArmantGoldswain.seesharp-theme
 fetch.url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.4/file/ArmantGoldswain.seesharp-theme-0.4.4.vsix" # ArmantGoldswain.seesharp-theme
 passthru = { publisher = "ArmantGoldswain", name = "seesharp-theme", description = "A colorful vibrant theme for C#", license = "Apache-2.0" }
+
 
 
 

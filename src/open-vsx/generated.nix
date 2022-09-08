@@ -603,10 +603,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.7.1";
+    version = "14.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.7.1/file/CodeStream.codestream-13.7.1.vsix";
-      sha256 = "sha256-0SLNPjPIjTlfjMfHh3eSni36IUSt6Ny0bLfb7xljCvU=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/14.0.0/file/CodeStream.codestream-14.0.0.vsix";
+      sha256 = "sha256-0YpKsd2QOwigE/sd2bIQBdA/z/zKFMRK8X2HQZyPHog=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -10469,8 +10469,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -18291,10 +18291,10 @@
   };
   rid9-datetime = {
     pname = "rid9-datetime";
-    version = "2.1.4";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rid9/datetime/2.1.4/file/rid9.datetime-2.1.4.vsix";
-      sha256 = "sha256-dpWfCrMPGVybtkq8LX1fLArVoS2UlVB6FB+3vFE6Wls=";
+      url = "https://open-vsx.org/api/rid9/datetime/2.2.1/file/rid9.datetime-2.2.1.vsix";
+      sha256 = "sha256-Coc2kt9TygTKi2wKFg6jNjaVdxV031lmCT9Fz9aCjlY=";
     };
     license = "MIT";
     name = "datetime";

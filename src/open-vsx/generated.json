@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0SLNPjPIjTlfjMfHh3eSni36IUSt6Ny0bLfb7xljCvU=",
+            "sha256": "sha256-0YpKsd2QOwigE/sd2bIQBdA/z/zKFMRK8X2HQZyPHog=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CodeStream/codestream/13.7.1/file/CodeStream.codestream-13.7.1.vsix"
+            "url": "https://open-vsx.org/api/CodeStream/codestream/14.0.0/file/CodeStream.codestream-14.0.0.vsix"
         },
-        "version": "13.7.1"
+        "version": "14.0.0"
     },
     "CoenraadS-bracket-pair-colorizer-2": {
         "cargoLocks": null,
@@ -16580,9 +16580,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -28968,11 +28968,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dpWfCrMPGVybtkq8LX1fLArVoS2UlVB6FB+3vFE6Wls=",
+            "sha256": "sha256-Coc2kt9TygTKi2wKFg6jNjaVdxV031lmCT9Fz9aCjlY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rid9/datetime/2.1.4/file/rid9.datetime-2.1.4.vsix"
+            "url": "https://open-vsx.org/api/rid9/datetime/2.2.1/file/rid9.datetime-2.2.1.vsix"
         },
-        "version": "2.1.4"
+        "version": "2.2.1"
     },
     "rights-nas-vscode": {
         "cargoLocks": null,
