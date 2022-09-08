@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iZzfpIjsGS3gLSKZ+34T6TOSFIXBm/Yn6+eJVh+fang=",
+            "sha256": "sha256-zpvUm3wZ/g6QNAeZuK92cKcxDXDaC8B/r77hNUyd4kI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.6/file/ArmantGoldswain.seesharp-theme-0.4.6.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.7/file/ArmantGoldswain.seesharp-theme-0.4.7.vsix"
         },
-        "version": "0.4.6"
+        "version": "0.4.7"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -4952,11 +4952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lyDfuBarar/V7FpuVTkbMT/cHGnxOhs/0+9w4jTIuco=",
+            "sha256": "sha256-laxqbTOtPAR2GJ5OBAKdFscSAn5fRiWZmMc8jXHFCDc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1396/file/Prisma.prisma-insider-31.0.1396.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1397/file/Prisma.prisma-insider-31.0.1397.vsix"
         },
-        "version": "31.0.1396"
+        "version": "31.0.1397"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5256,11 +5256,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YEy8hKLzrQ66/oNwDs9m15/2KxEORLE/vVJ75ko6Pp4=",
+            "sha256": "sha256-R3fbnT2/sVRufKg0oLmqiEqPfxEPNl3FTIPILz6epMo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.1/file/RokuCommunity.brightscript-2.35.1.vsix"
+            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.2/file/RokuCommunity.brightscript-2.35.2.vsix"
         },
-        "version": "2.35.1"
+        "version": "2.35.2"
     },
     "RomainMenke-csstools-design-tokens": {
         "cargoLocks": null,
@@ -14167,11 +14167,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XVOaqZvf913BKJMqlqPc88tD5pxSt8QAYb0v30ml62k=",
+            "sha256": "sha256-Kjwzzozv3kgvfC+5eBdfVIkX9z/A8mKCe2XSUjB9PvE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3014031/file/eliostruyf.vscode-front-matter-beta-8.1.3014031.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3017634/file/eliostruyf.vscode-front-matter-beta-8.1.3017634.vsix"
         },
-        "version": "8.1.3014031"
+        "version": "8.1.3017634"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -15440,11 +15440,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b4D3tTjF/8Vz3zoyCL7l/IxpU12CTwCB96zhSYbcNHk=",
+            "sha256": "sha256-SYSNjEqaI2GFYp7ZDQds1nX8gJxr9Sa1pxhhtvsv4DE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foretag/development-toolkit/0.1.4/file/foretag.development-toolkit-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/foretag/development-toolkit/0.1.5/file/foretag.development-toolkit-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
+    },
+    "foretag-frontend-toolkit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "foretag-frontend-toolkit",
+        "passthru": {
+            "description": "A collection of tools and extensions to enhance your frontend development experience.",
+            "license": "",
+            "name": "frontend-toolkit",
+            "publisher": "foretag"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-mdTrds/TP1QLsP7lXEvMBablx26yMiJZlwGM6R/c+IY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix"
+        },
+        "version": "0.1.5"
     },
     "foretag-rust-toolkit": {
         "cargoLocks": null,
@@ -15459,11 +15478,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sRcu4vyHt13lQsuOhuGHPxl2zSvywKl59TL/voc7T2Q=",
+            "sha256": "sha256-6/idM0Wfzjb1Rtg1nLyUYTtg1cLO0aWCws5DdYNk7Gc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foretag/rust-toolkit/0.1.4/file/foretag.rust-toolkit-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/foretag/rust-toolkit/0.1.5/file/foretag.rust-toolkit-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "formulahendry-auto-close-tag": {
         "cargoLocks": null,
@@ -16599,9 +16618,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -28987,11 +29006,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Coc2kt9TygTKi2wKFg6jNjaVdxV031lmCT9Fz9aCjlY=",
+            "sha256": "sha256-7IlYb+cd2UrOw87teJ7Z7+gaGd6WWk1Cz5UzMU8IYjA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rid9/datetime/2.2.1/file/rid9.datetime-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/rid9/datetime/2.2.2/file/rid9.datetime-2.2.2.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.2.2"
     },
     "rights-nas-vscode": {
         "cargoLocks": null,
@@ -30659,11 +30678,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -38449,11 +38468,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

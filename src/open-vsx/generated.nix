@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.4.6";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.6/file/ArmantGoldswain.seesharp-theme-0.4.6.vsix";
-      sha256 = "sha256-iZzfpIjsGS3gLSKZ+34T6TOSFIXBm/Yn6+eJVh+fang=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.7/file/ArmantGoldswain.seesharp-theme-0.4.7.vsix";
+      sha256 = "sha256-zpvUm3wZ/g6QNAeZuK92cKcxDXDaC8B/r77hNUyd4kI=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -3123,10 +3123,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1396";
+    version = "31.0.1397";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1396/file/Prisma.prisma-insider-31.0.1396.vsix";
-      sha256 = "sha256-lyDfuBarar/V7FpuVTkbMT/cHGnxOhs/0+9w4jTIuco=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1397/file/Prisma.prisma-insider-31.0.1397.vsix";
+      sha256 = "sha256-laxqbTOtPAR2GJ5OBAKdFscSAn5fRiWZmMc8jXHFCDc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3315,10 +3315,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.35.1";
+    version = "2.35.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.1/file/RokuCommunity.brightscript-2.35.1.vsix";
-      sha256 = "sha256-YEy8hKLzrQ66/oNwDs9m15/2KxEORLE/vVJ75ko6Pp4=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.2/file/RokuCommunity.brightscript-2.35.2.vsix";
+      sha256 = "sha256-R3fbnT2/sVRufKg0oLmqiEqPfxEPNl3FTIPILz6epMo=";
     };
     license = "MIT";
     name = "brightscript";
@@ -8943,10 +8943,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3014031";
+    version = "8.1.3017634";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3014031/file/eliostruyf.vscode-front-matter-beta-8.1.3014031.vsix";
-      sha256 = "sha256-XVOaqZvf913BKJMqlqPc88tD5pxSt8QAYb0v30ml62k=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3017634/file/eliostruyf.vscode-front-matter-beta-8.1.3017634.vsix";
+      sha256 = "sha256-Kjwzzozv3kgvfC+5eBdfVIkX9z/A8mKCe2XSUjB9PvE=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9747,22 +9747,34 @@
   };
   foretag-development-toolkit = {
     pname = "foretag-development-toolkit";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.4/file/foretag.development-toolkit-0.1.4.vsix";
-      sha256 = "sha256-b4D3tTjF/8Vz3zoyCL7l/IxpU12CTwCB96zhSYbcNHk=";
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.5/file/foretag.development-toolkit-0.1.5.vsix";
+      sha256 = "sha256-SYSNjEqaI2GFYp7ZDQds1nX8gJxr9Sa1pxhhtvsv4DE=";
     };
     license = "";
     name = "development-toolkit";
     description = "Foretag themes, tools & extensions for VS Code";
     publisher = "foretag";
   };
+  foretag-frontend-toolkit = {
+    pname = "foretag-frontend-toolkit";
+    version = "0.1.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix";
+      sha256 = "sha256-mdTrds/TP1QLsP7lXEvMBablx26yMiJZlwGM6R/c+IY=";
+    };
+    license = "";
+    name = "frontend-toolkit";
+    description = "A collection of tools and extensions to enhance your frontend development experience.";
+    publisher = "foretag";
+  };
   foretag-rust-toolkit = {
     pname = "foretag-rust-toolkit";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.4/file/foretag.rust-toolkit-0.1.4.vsix";
-      sha256 = "sha256-sRcu4vyHt13lQsuOhuGHPxl2zSvywKl59TL/voc7T2Q=";
+      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.5/file/foretag.rust-toolkit-0.1.5.vsix";
+      sha256 = "sha256-6/idM0Wfzjb1Rtg1nLyUYTtg1cLO0aWCws5DdYNk7Gc=";
     };
     license = "";
     name = "rust-toolkit";
@@ -10481,8 +10493,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -18303,10 +18315,10 @@
   };
   rid9-datetime = {
     pname = "rid9-datetime";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rid9/datetime/2.2.1/file/rid9.datetime-2.2.1.vsix";
-      sha256 = "sha256-Coc2kt9TygTKi2wKFg6jNjaVdxV031lmCT9Fz9aCjlY=";
+      url = "https://open-vsx.org/api/rid9/datetime/2.2.2/file/rid9.datetime-2.2.2.vsix";
+      sha256 = "sha256-7IlYb+cd2UrOw87teJ7Z7+gaGd6WWk1Cz5UzMU8IYjA=";
     };
     license = "MIT";
     name = "datetime";
@@ -19359,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24279,10 +24291,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
