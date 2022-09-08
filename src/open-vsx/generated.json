@@ -677,11 +677,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5JSoWejgv0H2ADyQeNOHwrlhDbJIJWTx6ruRBjjusf4=",
+            "sha256": "sha256-eymhQRAevsOut+MfsNaBaUZM+Ibg/jZcdjluwtDFDjw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BroadcomMFD/lsp-for-rexx/0.0.17/file/BroadcomMFD.lsp-for-rexx-0.0.17.vsix"
+            "url": "https://open-vsx.org/api/BroadcomMFD/lsp-for-rexx/0.0.18/file/BroadcomMFD.lsp-for-rexx-0.0.18.vsix"
         },
-        "version": "0.0.17"
+        "version": "0.0.18"
     },
     "BroadcomMFD-workflows4z": {
         "cargoLocks": null,
@@ -4458,11 +4458,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ke7bUyLGSEJLZVG24zf0X9WZsebgo/XKze7lPBrPopg=",
+            "sha256": "sha256-d49ZLk5XM7oM2ytQdrzbNCRHJt3yULACwqBxEx884og=",
             "type": "url",
-            "url": "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.1/file/NomicFoundation.hardhat-solidity-0.5.1.vsix"
+            "url": "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.2/file/NomicFoundation.hardhat-solidity-0.5.2.vsix"
         },
-        "version": "0.5.1"
+        "version": "0.5.2"
     },
     "OBKoro1-autoCommit": {
         "cargoLocks": null,
@@ -6700,11 +6700,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SItqiFLQV72W3BlelnQpeugi1TtJZP2rpwJdBPcfI0k=",
+            "sha256": "sha256-z4QZ2qlZ6w+QZuYaesiISgTKP9cwPScIecQXecb3Hxo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.5/file/YXL.cloudmusic-9.16.5.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.6/file/YXL.cloudmusic-9.16.6.vsix"
         },
-        "version": "9.16.5"
+        "version": "9.16.6"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -9303,11 +9303,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BYy8PWrkegUg6WC1F8a1vUjKQOwsB+GujswZWYZi66Y=",
+            "sha256": "sha256-klraUpe6XDPkybz3JGmHluQb8rH1X6pHoCRNZW5zq64=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro-build.astro-vscode-0.23.1.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.24.3/file/astro-build.astro-vscode-0.24.3.vsix"
         },
-        "version": "0.23.1"
+        "version": "0.24.3"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -16105,11 +16105,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-o1ISQp4vbeanhzphAhUOKvpHMDh/16DNcUeemB+6914=",
+            "sha256": "sha256-CfmkNr/l25A+TmVBEowE5MhDY6kLOsNS+JDqVbq/nKg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.15/file/gera2ld.markmap-vscode-0.0.15.vsix"
+            "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.16/file/gera2ld.markmap-vscode-0.0.16.vsix"
         },
-        "version": "0.0.15"
+        "version": "0.0.16"
     },
     "getpsalm-psalm-vscode-plugin": {
         "cargoLocks": null,
@@ -22679,11 +22679,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TXaM33xEa11Gt5r3buTY1DcAcGcrsB4la5vgfzqy2wM=",
+            "sha256": "sha256-M8iyvueIBRvsdqwmDPBvW/jAFupVCEng4VJmo0UFhzM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.5/file/meshvoid.theme-meshvoid-1.1.5.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.7/file/meshvoid.theme-meshvoid-1.1.7.vsix"
         },
-        "version": "1.1.5"
+        "version": "1.1.7"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -31362,9 +31362,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -38430,11 +38430,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

@@ -423,10 +423,10 @@
   };
   BroadcomMFD-lsp-for-rexx = {
     pname = "BroadcomMFD-lsp-for-rexx";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/lsp-for-rexx/0.0.17/file/BroadcomMFD.lsp-for-rexx-0.0.17.vsix";
-      sha256 = "sha256-5JSoWejgv0H2ADyQeNOHwrlhDbJIJWTx6ruRBjjusf4=";
+      url = "https://open-vsx.org/api/BroadcomMFD/lsp-for-rexx/0.0.18/file/BroadcomMFD.lsp-for-rexx-0.0.18.vsix";
+      sha256 = "sha256-eymhQRAevsOut+MfsNaBaUZM+Ibg/jZcdjluwtDFDjw=";
     };
     license = "";
     name = "lsp-for-rexx";
@@ -2811,10 +2811,10 @@
   };
   NomicFoundation-hardhat-solidity = {
     pname = "NomicFoundation-hardhat-solidity";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.1/file/NomicFoundation.hardhat-solidity-0.5.1.vsix";
-      sha256 = "sha256-Ke7bUyLGSEJLZVG24zf0X9WZsebgo/XKze7lPBrPopg=";
+      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.2/file/NomicFoundation.hardhat-solidity-0.5.2.vsix";
+      sha256 = "sha256-d49ZLk5XM7oM2ytQdrzbNCRHJt3yULACwqBxEx884og=";
     };
     license = "MIT";
     name = "hardhat-solidity";
@@ -4227,10 +4227,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.5";
+    version = "9.16.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.5/file/YXL.cloudmusic-9.16.5.vsix";
-      sha256 = "sha256-SItqiFLQV72W3BlelnQpeugi1TtJZP2rpwJdBPcfI0k=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.6/file/YXL.cloudmusic-9.16.6.vsix";
+      sha256 = "sha256-z4QZ2qlZ6w+QZuYaesiISgTKP9cwPScIecQXecb3Hxo=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -5871,10 +5871,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.23.1";
+    version = "0.24.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro-build.astro-vscode-0.23.1.vsix";
-      sha256 = "sha256-BYy8PWrkegUg6WC1F8a1vUjKQOwsB+GujswZWYZi66Y=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.24.3/file/astro-build.astro-vscode-0.24.3.vsix";
+      sha256 = "sha256-klraUpe6XDPkybz3JGmHluQb8rH1X6pHoCRNZW5zq64=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -10167,10 +10167,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.15/file/gera2ld.markmap-vscode-0.0.15.vsix";
-      sha256 = "sha256-o1ISQp4vbeanhzphAhUOKvpHMDh/16DNcUeemB+6914=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.16/file/gera2ld.markmap-vscode-0.0.16.vsix";
+      sha256 = "sha256-CfmkNr/l25A+TmVBEowE5MhDY6kLOsNS+JDqVbq/nKg=";
     };
     license = "MIT";
     name = "markmap-vscode";
@@ -14319,10 +14319,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.5";
+    version = "1.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.5/file/meshvoid.theme-meshvoid-1.1.5.vsix";
-      sha256 = "sha256-TXaM33xEa11Gt5r3buTY1DcAcGcrsB4la5vgfzqy2wM=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.7/file/meshvoid.theme-meshvoid-1.1.7.vsix";
+      sha256 = "sha256-M8iyvueIBRvsdqwmDPBvW/jAFupVCEng4VJmo0UFhzM=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19805,8 +19805,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24267,10 +24267,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
