@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.138";
+    version = "0.0.139";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.138/discord-canary-0.0.138.tar.gz";
-      sha256 = "sha256-NojoHrrgdvLiMgWYPClXzWjWXuvHz7urhyHzMnZwvBY=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.139/discord-canary-0.0.139.tar.gz";
+      sha256 = "sha256-/PfO0TWRxMrK+V1XkYmdaXQ6SfyJNBFETaR9oV90itI=";
     };
   };
   dnscrypt-proxy2 = {
@@ -1088,13 +1088,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "42bd6152f398a98a19c5465181082979664135a0";
+    version = "aa819fb057cacfc2ef759e195e1e06fc2664c8b0";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "42bd6152f398a98a19c5465181082979664135a0";
+      rev = "aa819fb057cacfc2ef759e195e1e06fc2664c8b0";
       fetchSubmodules = false;
-      sha256 = "sha256-X7lX/lNS0BxsCHsJN7m4sUYnG3qOWx8ad4DmYZEmKds=";
+      sha256 = "sha256-Z80fyQ03v7+tqINUeilKferjWn2R+PS9ff4kwtMq4vw=";
     });
   };
   spicetify-marketplace = {
