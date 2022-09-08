@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7",
-            "sha256": "sha256-4EI6DRbRuBQRBwS96Xd8Js6aUc07cNej1F+3pEy9RAA=",
+            "rev": "bacfae3084cc66b2b0574d21c43ed5811e34ef86",
+            "sha256": "sha256-AexWK3ALyvvxcqEa8qcfOp9yhwaKd13bG/WSQhwgac0=",
             "type": "github"
         },
-        "version": "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7"
+        "version": "bacfae3084cc66b2b0574d21c43ed5811e34ef86"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BM/H44AWnsj/b/p03+/wjrXLdAehATV3/vjDx24CVlw=",
+            "sha256": "sha256-I5MDDZKerlFwyxB93NUt9bwBTOy7Nvpc53xI54yUrwI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.9/revanced-cli-2.9.9-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.10/revanced-cli-2.9.10-all.jar"
         },
-        "version": "2.9.9"
+        "version": "2.9.10"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Hpmjc4/8soeARB/B6zfNq2ofKvVQnFFjhVmpkpqYFSc=",
+            "sha256": "sha256-ij0sqDSBqCo6sDVLDraaINvKgZcq/xy/GVt8WYmYfiU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.51.3/revanced-patches-2.51.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.52.1/revanced-patches-2.52.1.jar"
         },
-        "version": "2.51.3"
+        "version": "2.52.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "01e6565e8a0193ec940a8eca9129dadb2c05e29d",
-            "sha256": "sha256-V06ogImc5ootRoKXRP6GM1T94RJYR5e7D0xPFTMbJ30=",
+            "rev": "58abae1f833e010343cae82e9b5b52936a190bc6",
+            "sha256": "sha256-nSi+KdRi3c+p56jkgBH16Nh7iBxQOsXrqCjHBUR/Xx4=",
             "type": "github"
         },
-        "version": "01e6565e8a0193ec940a8eca9129dadb2c05e29d"
+        "version": "58abae1f833e010343cae82e9b5b52936a190bc6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2092,11 +2092,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76",
-            "sha256": "sha256-orQxZ/kMA6pLoAvrPZRNDjuZ5gr+FYiJno0J6gP4HPg=",
+            "rev": "e48ef4805ec85171d2a22dea8990fa31591f8cd2",
+            "sha256": "sha256-mhw1SEjLkzp/te+OjUTnUTrKKpf3l8btorKqAeu0Xb4=",
             "type": "github"
         },
-        "version": "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76"
+        "version": "e48ef4805ec85171d2a22dea8990fa31591f8cd2"
     },
     "uniemoji": {
         "cargoLocks": null,

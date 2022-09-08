@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7";
+    version = "bacfae3084cc66b2b0574d21c43ed5811e34ef86";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7";
+      rev = "bacfae3084cc66b2b0574d21c43ed5811e34ef86";
       fetchSubmodules = false;
-      sha256 = "sha256-4EI6DRbRuBQRBwS96Xd8Js6aUc07cNej1F+3pEy9RAA=";
+      sha256 = "sha256-AexWK3ALyvvxcqEa8qcfOp9yhwaKd13bG/WSQhwgac0=";
     });
   };
   ibus = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.9";
+    version = "2.9.10";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.9/revanced-cli-2.9.9-all.jar";
-      sha256 = "sha256-BM/H44AWnsj/b/p03+/wjrXLdAehATV3/vjDx24CVlw=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.10/revanced-cli-2.9.10-all.jar";
+      sha256 = "sha256-I5MDDZKerlFwyxB93NUt9bwBTOy7Nvpc53xI54yUrwI=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.51.3";
+    version = "2.52.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.51.3/revanced-patches-2.51.3.jar";
-      sha256 = "sha256-Hpmjc4/8soeARB/B6zfNq2ofKvVQnFFjhVmpkpqYFSc=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.52.1/revanced-patches-2.52.1.jar";
+      sha256 = "sha256-ij0sqDSBqCo6sDVLDraaINvKgZcq/xy/GVt8WYmYfiU=";
     };
   };
   rofi-wayland = {
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "01e6565e8a0193ec940a8eca9129dadb2c05e29d";
+    version = "58abae1f833e010343cae82e9b5b52936a190bc6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "01e6565e8a0193ec940a8eca9129dadb2c05e29d";
+      rev = "58abae1f833e010343cae82e9b5b52936a190bc6";
       fetchSubmodules = false;
-      sha256 = "sha256-V06ogImc5ootRoKXRP6GM1T94RJYR5e7D0xPFTMbJ30=";
+      sha256 = "sha256-nSi+KdRi3c+p56jkgBH16Nh7iBxQOsXrqCjHBUR/Xx4=";
     });
   };
   tailscale-systray = {
@@ -1260,13 +1260,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76";
+    version = "e48ef4805ec85171d2a22dea8990fa31591f8cd2";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76";
+      rev = "e48ef4805ec85171d2a22dea8990fa31591f8cd2";
       fetchSubmodules = false;
-      sha256 = "sha256-orQxZ/kMA6pLoAvrPZRNDjuZ5gr+FYiJno0J6gP4HPg=";
+      sha256 = "sha256-mhw1SEjLkzp/te+OjUTnUTrKKpf3l8btorKqAeu0Xb4=";
     });
   };
   uniemoji = {
