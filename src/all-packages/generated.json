@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "345ff51e6f228a83eefc3cf4b986f8f38d4d2761",
-            "sha256": "sha256-QGMXE8XXoAGnJmRguLRhd2ESXF7CM2KIr6k4qOOLXJ4=",
+            "rev": "62b01e91370d2f5dc64f1932416b155473481ed7",
+            "sha256": "sha256-vbbO39hnYnB79HrW07pKwf2sMNg9LD0PardO98UhIAA=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "345ff51e6f228a83eefc3cf4b986f8f38d4d2761"
+        "version": "62b01e91370d2f5dc64f1932416b155473481ed7"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1610,11 +1610,11 @@
             "name": null,
             "owner": "lbonn",
             "repo": "rofi",
-            "rev": "9ec86220d55a72e89a60f357a71d3572f130f885",
-            "sha256": "sha256-ddKLV7NvqgTQl5YlAEyBK0oalcJsLASK4z3qArQPUDQ=",
+            "rev": "8995b575df086a4033332a25ced3afc7925c3607",
+            "sha256": "sha256-3+9gaql2F6U6iGWxGAmx30qjWlVdMs0IdIbkC6Fs7no=",
             "type": "github"
         },
-        "version": "9ec86220d55a72e89a60f357a71d3572f130f885"
+        "version": "8995b575df086a4033332a25ced3afc7925c3607"
     },
     "rustdesk": {
         "cargoLocks": {
@@ -1832,11 +1832,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "0362690032fb0beb3b94bafb06767a91a4ce0f5a",
-            "sha256": "sha256-VTd+oYYo3T8KicxL1li3mFLSN4/YKEH2Bj3SFlEqffo=",
+            "rev": "f0556c3aba7c12a8ab6a0548433c5e6ada37ac90",
+            "sha256": "sha256-k/E92l6F0T93wS7AGyoxuXBvEC4NMYz94U4hLtkCZq8=",
             "type": "github"
         },
-        "version": "0362690032fb0beb3b94bafb06767a91a4ce0f5a"
+        "version": "f0556c3aba7c12a8ab6a0548433c5e6ada37ac90"
     },
     "spicetify-themes": {
         "cargoLocks": null,

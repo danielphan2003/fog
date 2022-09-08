@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "345ff51e6f228a83eefc3cf4b986f8f38d4d2761";
+    version = "62b01e91370d2f5dc64f1932416b155473481ed7";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "345ff51e6f228a83eefc3cf4b986f8f38d4d2761";
+      rev = "62b01e91370d2f5dc64f1932416b155473481ed7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QGMXE8XXoAGnJmRguLRhd2ESXF7CM2KIr6k4qOOLXJ4=";
+      sha256 = "sha256-vbbO39hnYnB79HrW07pKwf2sMNg9LD0PardO98UhIAA=";
     };
   };
   flyingfox = {
@@ -959,13 +959,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "9ec86220d55a72e89a60f357a71d3572f130f885";
+    version = "8995b575df086a4033332a25ced3afc7925c3607";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "9ec86220d55a72e89a60f357a71d3572f130f885";
+      rev = "8995b575df086a4033332a25ced3afc7925c3607";
       fetchSubmodules = true;
-      sha256 = "sha256-ddKLV7NvqgTQl5YlAEyBK0oalcJsLASK4z3qArQPUDQ=";
+      sha256 = "sha256-3+9gaql2F6U6iGWxGAmx30qjWlVdMs0IdIbkC6Fs7no=";
     });
   };
   rustdesk = {
@@ -1099,13 +1099,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "0362690032fb0beb3b94bafb06767a91a4ce0f5a";
+    version = "f0556c3aba7c12a8ab6a0548433c5e6ada37ac90";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "0362690032fb0beb3b94bafb06767a91a4ce0f5a";
+      rev = "f0556c3aba7c12a8ab6a0548433c5e6ada37ac90";
       fetchSubmodules = false;
-      sha256 = "sha256-VTd+oYYo3T8KicxL1li3mFLSN4/YKEH2Bj3SFlEqffo=";
+      sha256 = "sha256-k/E92l6F0T93wS7AGyoxuXBvEC4NMYz94U4hLtkCZq8=";
     });
   };
   spicetify-themes = {
