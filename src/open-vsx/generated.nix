@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.4.3";
+    version = "0.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.3/file/ArmantGoldswain.seesharp-theme-0.4.3.vsix";
-      sha256 = "sha256-84gfsF0eafdyVlk1/1cxQktsesj9CCRHNaHfGik476o=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.4/file/ArmantGoldswain.seesharp-theme-0.4.4.vsix";
+      sha256 = "sha256-KbmMGRt/kmBDx8pPx9BOXUohILvb4pgFwbyG4QP/91k=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -6459,10 +6459,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.8.3";
+    version = "2022.9.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.8.3/file/borkdude.clj-kondo-2022.8.3.vsix";
-      sha256 = "sha256-phUSUoV9yIZZjlbbJulJ9owzK+ypk3KlEkMyJFBh4fw=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.9.8/file/borkdude.clj-kondo-2022.9.8.vsix";
+      sha256 = "sha256-xJHgH5heakoz4vfjR6ctd2muVu3cv8gha7ncQ/tO/QU=";
     };
     license = "EPL-1";
     name = "clj-kondo";
@@ -12951,10 +12951,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";

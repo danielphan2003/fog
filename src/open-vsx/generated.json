@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-84gfsF0eafdyVlk1/1cxQktsesj9CCRHNaHfGik476o=",
+            "sha256": "sha256-KbmMGRt/kmBDx8pPx9BOXUohILvb4pgFwbyG4QP/91k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.3/file/ArmantGoldswain.seesharp-theme-0.4.3.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.4/file/ArmantGoldswain.seesharp-theme-0.4.4.vsix"
         },
-        "version": "0.4.3"
+        "version": "0.4.4"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -10234,11 +10234,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-phUSUoV9yIZZjlbbJulJ9owzK+ypk3KlEkMyJFBh4fw=",
+            "sha256": "sha256-xJHgH5heakoz4vfjR6ctd2muVu3cv8gha7ncQ/tO/QU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.8.3/file/borkdude.clj-kondo-2022.8.3.vsix"
+            "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.9.8/file/borkdude.clj-kondo-2022.9.8.vsix"
         },
-        "version": "2022.8.3"
+        "version": "2022.9.8"
     },
     "bpruitt-goddard-mermaid-markdown-syntax-highlighting": {
         "cargoLocks": null,
@@ -20513,11 +20513,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
