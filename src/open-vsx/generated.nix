@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.1.0";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.1.0/file/ArmantGoldswain.seesharp-theme-0.1.0.vsix";
-      sha256 = "sha256-d1jIN1WybfFwmOUUYuMMp3/gXgbbBzA1NV47XzV3Qdc=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.3/file/ArmantGoldswain.seesharp-theme-0.4.3.vsix";
+      sha256 = "sha256-84gfsF0eafdyVlk1/1cxQktsesj9CCRHNaHfGik476o=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -3123,10 +3123,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1395";
+    version = "31.0.1396";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1395/file/Prisma.prisma-insider-31.0.1395.vsix";
-      sha256 = "sha256-7ZczjU2TDDMhn2wRMOFBSGXwPRZvUKN9z/VIFi3lxzg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1396/file/Prisma.prisma-insider-31.0.1396.vsix";
+      sha256 = "sha256-lyDfuBarar/V7FpuVTkbMT/cHGnxOhs/0+9w4jTIuco=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3411,10 +3411,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.14";
+    version = "4.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.14/file/Sarrus.sourcepawn-vscode-4.0.14.vsix";
-      sha256 = "sha256-kDsiwoK/Aw53jU43WX0oBL8laN/MmhQ+YM/54jIQDF4=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.0/file/Sarrus.sourcepawn-vscode-4.2.0.vsix";
+      sha256 = "sha256-210ofjHe4VHcK7r+ToFNJGNNRYtvpkYST6182zjVKbQ=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -5535,10 +5535,10 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.5";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.5/file/arm.device-manager-1.0.5.vsix";
-      sha256 = "sha256-fd4Zi4bFcbN6RZaSVnVFb+VWtCOUZLl3a8hcM3dQxUY=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.7/file/arm.device-manager-1.0.7.vsix";
+      sha256 = "sha256-t8x8VB/g5akrXi1XvwXVFT9s2CxtJQStSfmQyaO1Z6o=";
     };
     license = "";
     name = "device-manager";
@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8943,10 +8943,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3013419";
+    version = "8.1.3014031";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3013419/file/eliostruyf.vscode-front-matter-beta-8.1.3013419.vsix";
-      sha256 = "sha256-mCiv7mEX0Y9YlXYQlYwHmmF8OUe0aNI72j2+UDfweE8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3014031/file/eliostruyf.vscode-front-matter-beta-8.1.3014031.vsix";
+      sha256 = "sha256-XVOaqZvf913BKJMqlqPc88tD5pxSt8QAYb0v30ml62k=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10469,8 +10469,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11295,10 +11295,10 @@
   };
   idleberg-nsis-plugins = {
     pname = "idleberg-nsis-plugins";
-    version = "3.51.3";
+    version = "3.51.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.51.3/file/idleberg.nsis-3.51.3.vsix";
-      sha256 = "sha256-2QP8YxRE5+wHIHiFrGvJfQ1IKkvp6k+rZG1fcNAmHLU=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.51.4/file/idleberg.nsis-3.51.4.vsix";
+      sha256 = "sha256-VYt8QJCYAK4XrnXOKEtvUsZ6dwWMIyO+8Kmu+eVzaYE=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis-plugins";
@@ -12951,10 +12951,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -14319,10 +14319,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.4";
+    version = "1.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.4/file/meshvoid.theme-meshvoid-1.1.4.vsix";
-      sha256 = "sha256-91J2wmsX+6qDj56OnecU7i5FSOhkewZ/WRgfPfsyBYI=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.5/file/meshvoid.theme-meshvoid-1.1.5.vsix";
+      sha256 = "sha256-TXaM33xEa11Gt5r3buTY1DcAcGcrsB4la5vgfzqy2wM=";
     };
     license = "GPL";
     name = "theme-meshvoid";
