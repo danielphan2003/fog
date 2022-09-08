@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "dcd009d5d0eac7b4c949b52d83b641e1d671deef",
-            "sha256": "sha256-mE++ZK6ERW8zW6183deGS3wgWHNGPe+KO3l8D0HPnng=",
+            "rev": "560ee3d39ff8197429949ff8be900de818147230",
+            "sha256": "sha256-XE4J0QTuGFnUh7emjm10wkHWF3qEHsiIaEd1z0Q6KNQ=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "dcd009d5d0eac7b4c949b52d83b641e1d671deef"
+        "version": "560ee3d39ff8197429949ff8be900de818147230"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FLLJ3DAoYj7jFVFDqJrKF46ptrU6uX8H1Wr7j4+Kt1s=",
+            "sha256": "sha256-9MLjEnqkqvpC4qRd4pfEGdUkc7l4a/Z71dWN6kgb8HA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.6/revanced-cli-2.9.6-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.7/revanced-cli-2.9.7-all.jar"
         },
-        "version": "2.9.6"
+        "version": "2.9.7"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TSYH/KA7gCWvBXPQ9WUdudPlQRzQpkbHYOQhM0HBgxU=",
+            "sha256": "sha256-1dLlw1ehb/rA5sqcxUX8qnXFIgyDMGHh3XniC+lvPts=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.36.5/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.36.6/app-release-unsigned.apk"
         },
-        "version": "0.36.5"
+        "version": "0.36.6"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d/Cargo.lock",
+                "./rustdesk-29ad4c10e6578a4157e0ccccedc9a333d344da31/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d",
-            "sha256": "sha256-zo55GlFwkcvVOqPonQcldbO9gx+4atZYhADmnQE8Q5c=",
+            "rev": "29ad4c10e6578a4157e0ccccedc9a333d344da31",
+            "sha256": "sha256-cs+Z24RkAfFmpY3tTg1j272NjD7twa7aQg4OXfcOk1k=",
             "type": "github"
         },
-        "version": "1c170366e7dbbaa1e70ed8ac2f09e41ea1bdb51d"
+        "version": "29ad4c10e6578a4157e0ccccedc9a333d344da31"
     },
     "rustdesk-server": {
         "cargoLocks": {
