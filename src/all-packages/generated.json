@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "49a55f136e01c7fed071687becacea639226127a",
-            "sha256": "sha256-fPva3WjJJ/IQbOVfCZqvtLBLnAowZG122hVQZ+Jq3sc=",
+            "rev": "0eb5ecafb9cb8dcd4242abd03fe69f51b7930505",
+            "sha256": "sha256-YtD+oO5TogaP05AZX/srWeDZLKzkgsh0xgZFCUI1RDQ=",
             "type": "github"
         },
-        "version": "49a55f136e01c7fed071687becacea639226127a"
+        "version": "0eb5ecafb9cb8dcd4242abd03fe69f51b7930505"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-km5AMmpHSuh+wbCbaztSDmefEjwySEV9fe931DT5Ho4=",
+            "sha256": "sha256-Hpmjc4/8soeARB/B6zfNq2ofKvVQnFFjhVmpkpqYFSc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.51.2/revanced-patches-2.51.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.51.3/revanced-patches-2.51.3.jar"
         },
-        "version": "2.51.2"
+        "version": "2.51.3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1832,11 +1832,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "3247b00288bf8da328f677fd897a1ee481c06612",
-            "sha256": "sha256-khWqKY9VyjztMqj2isqFcO6O1YrIduvaFTgaakvatoU=",
+            "rev": "074117fc9f68fe87252145e50808609f291f8578",
+            "sha256": "sha256-fps9MroYgKPYMlNnKUnhGzYeugrFbNutxRduQckJD4A=",
             "type": "github"
         },
-        "version": "3247b00288bf8da328f677fd897a1ee481c06612"
+        "version": "074117fc9f68fe87252145e50808609f291f8578"
     },
     "spicetify-themes": {
         "cargoLocks": null,
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "2266b594468ee5e8365ff8ad8412c139c433397e",
-            "sha256": "sha256-T0CB6tluWHgzOzrY8TDzxIQrWZuZHJGbUhXtsRAgoK8=",
+            "rev": "01e6565e8a0193ec940a8eca9129dadb2c05e29d",
+            "sha256": "sha256-V06ogImc5ootRoKXRP6GM1T94RJYR5e7D0xPFTMbJ30=",
             "type": "github"
         },
-        "version": "2266b594468ee5e8365ff8ad8412c139c433397e"
+        "version": "01e6565e8a0193ec940a8eca9129dadb2c05e29d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
