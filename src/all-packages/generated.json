@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CMkthLr9/k0ew4kjjHE+UAVvw2Fc/GsLUnXPjmX5c3c=",
+            "sha256": "sha256-BM/H44AWnsj/b/p03+/wjrXLdAehATV3/vjDx24CVlw=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.8/revanced-cli-2.9.8-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.9/revanced-cli-2.9.9-all.jar"
         },
-        "version": "2.9.8"
+        "version": "2.9.9"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kuACxNM79j/K9+sB061sj53uxa6tFTAXWo+3m/nYcIs=",
+            "sha256": "sha256-km5AMmpHSuh+wbCbaztSDmefEjwySEV9fe931DT5Ho4=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.51.1/revanced-patches-2.51.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.51.2/revanced-patches-2.51.2.jar"
         },
-        "version": "2.51.1"
+        "version": "2.51.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-29ad4c10e6578a4157e0ccccedc9a333d344da31/Cargo.lock",
+                "./rustdesk-f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "29ad4c10e6578a4157e0ccccedc9a333d344da31",
-            "sha256": "sha256-cs+Z24RkAfFmpY3tTg1j272NjD7twa7aQg4OXfcOk1k=",
+            "rev": "f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6",
+            "sha256": "sha256-Cf/mOc4dzPOwsObtSInbtCTdcTN3n+QREQFgUy1jmJQ=",
             "type": "github"
         },
-        "version": "29ad4c10e6578a4157e0ccccedc9a333d344da31"
+        "version": "f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2149,11 +2149,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tgJ2JZ4rfkeaE7GWDHucKphiq+SVyZAjV/1gH1hQR3s=",
+            "sha256": "sha256-RFwM8kYu58dg/6s3EJ1xsyaoVOlqTEe1epS5XQw4Qok=",
             "type": "url",
-            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.8.1/bw_web_v2022.8.1.tar.gz"
+            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.9.0/bw_web_v2022.9.0.tar.gz"
         },
-        "version": "2022.8.1"
+        "version": "2022.9.0"
     },
     "ventoy": {
         "cargoLocks": null,

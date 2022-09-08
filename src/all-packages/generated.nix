@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.8";
+    version = "2.9.9";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.8/revanced-cli-2.9.8-all.jar";
-      sha256 = "sha256-CMkthLr9/k0ew4kjjHE+UAVvw2Fc/GsLUnXPjmX5c3c=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.9/revanced-cli-2.9.9-all.jar";
+      sha256 = "sha256-BM/H44AWnsj/b/p03+/wjrXLdAehATV3/vjDx24CVlw=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.51.1";
+    version = "2.51.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.51.1/revanced-patches-2.51.1.jar";
-      sha256 = "sha256-kuACxNM79j/K9+sB061sj53uxa6tFTAXWo+3m/nYcIs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.51.2/revanced-patches-2.51.2.jar";
+      sha256 = "sha256-km5AMmpHSuh+wbCbaztSDmefEjwySEV9fe931DT5Ho4=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "29ad4c10e6578a4157e0ccccedc9a333d344da31";
+    version = "f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "29ad4c10e6578a4157e0ccccedc9a333d344da31";
+      rev = "f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6";
       fetchSubmodules = false;
-      sha256 = "sha256-cs+Z24RkAfFmpY3tTg1j272NjD7twa7aQg4OXfcOk1k=";
+      sha256 = "sha256-Cf/mOc4dzPOwsObtSInbtCTdcTN3n+QREQFgUy1jmJQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-29ad4c10e6578a4157e0ccccedc9a333d344da31/Cargo.lock;
+      lockFile = ./rustdesk-f1bbe9ca5e994505e35476eb5b9dd44b4fbf1cf6/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1299,10 +1299,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.8.1";
+    version = "2022.9.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.8.1/bw_web_v2022.8.1.tar.gz";
-      sha256 = "sha256-tgJ2JZ4rfkeaE7GWDHucKphiq+SVyZAjV/1gH1hQR3s=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.9.0/bw_web_v2022.9.0.tar.gz";
+      sha256 = "sha256-RFwM8kYu58dg/6s3EJ1xsyaoVOlqTEe1epS5XQw4Qok=";
     };
   };
   ventoy = {
