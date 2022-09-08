@@ -1969,9 +1969,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -4933,11 +4933,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-10yTDmM+8ImxSrLLFmr34EVtbYyILxPocRsTIuk2kJ8=",
+            "sha256": "sha256-7ZczjU2TDDMhn2wRMOFBSGXwPRZvUKN9z/VIFi3lxzg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1394/file/Prisma.prisma-insider-31.0.1394.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1395/file/Prisma.prisma-insider-31.0.1395.vsix"
         },
-        "version": "31.0.1394"
+        "version": "31.0.1395"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -11247,6 +11247,25 @@
         },
         "version": "0.0.6"
     },
+    "claui-packaging": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "claui-packaging",
+        "passthru": {
+            "description": "Support for user-contributed PKGBUILDs in the Arch User Repository (AUR)",
+            "license": "",
+            "name": "packaging",
+            "publisher": "claui"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EGorsxGwz8aW8z8O1U1WoKKLCIp5mzOh2QCPuGiXct0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/claui/packaging/0.2.1/file/claui.packaging-0.2.1.vsix"
+        },
+        "version": "0.2.1"
+    },
     "clinyong-vscode-css-modules": {
         "cargoLocks": null,
         "extract": null,
@@ -16542,9 +16561,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18917,11 +18936,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9Zlz/fa8UcdI+5Ww1YfURcIV/dctX4mTpNqfYEpKO44=",
+            "sha256": "sha256-qGTSOvKY/Em28TmBivWdmeRutVOX5xNRlXc/hHcG4yw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.9/file/jeanp413.open-remote-ssh-0.0.9.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.10/file/jeanp413.open-remote-ssh-0.0.10.vsix"
         },
-        "version": "0.0.9"
+        "version": "0.0.10"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
@@ -20475,11 +20494,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -31064,6 +31083,25 @@
         },
         "version": "0.1.2"
     },
+    "somebody1234-hoverlens": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "somebody1234-hoverlens",
+        "passthru": {
+            "description": "Show hover information as end of line decoration. (open-vsx release of NonSpicyBurrito.hoverlens)",
+            "license": "MIT",
+            "name": "hoverlens",
+            "publisher": "somebody1234"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EocgDyhuaOzvKtmuipFeNtT4ciXT2jhBruc5gS3vbZc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/somebody1234/hoverlens/1.0.0/file/somebody1234.hoverlens-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "sorbet-sorbet-vscode-extension": {
         "cargoLocks": null,
         "extract": null,
@@ -32217,11 +32255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZqytszvWsnKVvUK+lOCIU7jVandXqtEU2/VD4nM/GhI=",
+            "sha256": "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix"
         },
-        "version": "0.1.8"
+        "version": "0.2.6"
     },
     "t-codespaces-ide-data-sync-node": {
         "cargoLocks": null,
@@ -32236,11 +32274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kuGZvjulG0+s/OHsRGo0FFAv9G2Sz/GHH3IP+WIYmqs=",
+            "sha256": "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.4/file/t-codespaces.ide-data-sync-node-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.2.6"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,

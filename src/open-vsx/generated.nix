@@ -1241,8 +1241,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1394";
+    version = "31.0.1395";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1394/file/Prisma.prisma-insider-31.0.1394.vsix";
-      sha256 = "sha256-10yTDmM+8ImxSrLLFmr34EVtbYyILxPocRsTIuk2kJ8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1395/file/Prisma.prisma-insider-31.0.1395.vsix";
+      sha256 = "sha256-7ZczjU2TDDMhn2wRMOFBSGXwPRZvUKN9z/VIFi3lxzg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7105,6 +7105,18 @@
     description = "Dark terminal theme.";
     publisher = "claudius";
   };
+  claui-packaging = {
+    pname = "claui-packaging";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/claui/packaging/0.2.1/file/claui.packaging-0.2.1.vsix";
+      sha256 = "sha256-EGorsxGwz8aW8z8O1U1WoKKLCIp5mzOh2QCPuGiXct0=";
+    };
+    license = "";
+    name = "packaging";
+    description = "Support for user-contributed PKGBUILDs in the Arch User Repository (AUR)";
+    publisher = "claui";
+  };
   clinyong-vscode-css-modules = {
     pname = "clinyong-vscode-css-modules";
     version = "0.4.2";
@@ -10445,8 +10457,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11943,10 +11955,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.9/file/jeanp413.open-remote-ssh-0.0.9.vsix";
-      sha256 = "sha256-9Zlz/fa8UcdI+5Ww1YfURcIV/dctX4mTpNqfYEpKO44=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.10/file/jeanp413.open-remote-ssh-0.0.10.vsix";
+      sha256 = "sha256-qGTSOvKY/Em28TmBivWdmeRutVOX5xNRlXc/hHcG4yw=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -12927,10 +12939,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -19621,6 +19633,18 @@
     description = "VSCode extension with helpful code snippets for SolidJS.";
     publisher = "solidjs-community";
   };
+  somebody1234-hoverlens = {
+    pname = "somebody1234-hoverlens";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/somebody1234/hoverlens/1.0.0/file/somebody1234.hoverlens-1.0.0.vsix";
+      sha256 = "sha256-EocgDyhuaOzvKtmuipFeNtT4ciXT2jhBruc5gS3vbZc=";
+    };
+    license = "MIT";
+    name = "hoverlens";
+    description = "Show hover information as end of line decoration. (open-vsx release of NonSpicyBurrito.hoverlens)";
+    publisher = "somebody1234";
+  };
   sorbet-sorbet-vscode-extension = {
     pname = "sorbet-sorbet-vscode-extension";
     version = "0.3.15";
@@ -20343,10 +20367,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.1.8";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix";
-      sha256 = "sha256-ZqytszvWsnKVvUK+lOCIU7jVandXqtEU2/VD4nM/GhI=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix";
+      sha256 = "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=";
     };
     license = "";
     name = "ide-data-sync";
@@ -20355,10 +20379,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.0.4";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.4/file/t-codespaces.ide-data-sync-node-0.0.4.vsix";
-      sha256 = "sha256-kuGZvjulG0+s/OHsRGo0FFAv9G2Sz/GHH3IP+WIYmqs=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix";
+      sha256 = "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=";
     };
     license = "";
     name = "ide-data-sync-node";
