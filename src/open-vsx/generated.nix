@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -19371,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24099,10 +24099,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.83";
+    version = "0.0.84";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.83/file/zardoy.zardoy-experiments-0.0.83.vsix";
-      sha256 = "sha256-e3rFXZw3Jh5ZGus5nLfH/p0HVwAtHB4V35GCKmEYDZE=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.84/file/zardoy.zardoy-experiments-0.0.84.vsix";
+      sha256 = "sha256-j1R1JoWi7WVXaUl61Ssxcm5wUo/S/V7Vim8eKFTkMcQ=";
     };
     license = "MIT";
     name = "zardoy-experiments";

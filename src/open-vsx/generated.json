@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -30678,11 +30678,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -38164,11 +38164,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3rFXZw3Jh5ZGus5nLfH/p0HVwAtHB4V35GCKmEYDZE=",
+            "sha256": "sha256-j1R1JoWi7WVXaUl61Ssxcm5wUo/S/V7Vim8eKFTkMcQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.83/file/zardoy.zardoy-experiments-0.0.83.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.84/file/zardoy.zardoy-experiments-0.0.84.vsix"
         },
-        "version": "0.0.83"
+        "version": "0.0.84"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
