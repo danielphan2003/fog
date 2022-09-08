@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KbmMGRt/kmBDx8pPx9BOXUohILvb4pgFwbyG4QP/91k=",
+            "sha256": "sha256-iZzfpIjsGS3gLSKZ+34T6TOSFIXBm/Yn6+eJVh+fang=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.4/file/ArmantGoldswain.seesharp-theme-0.4.4.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.6/file/ArmantGoldswain.seesharp-theme-0.4.6.vsix"
         },
-        "version": "0.4.4"
+        "version": "0.4.6"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -1988,9 +1988,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -6833,11 +6833,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7B+7TUoqeHE8xFso7ivOxBmfjR0NnF1Qut4+LQnvBII=",
+            "sha256": "sha256-07eu6l8Ajn6j1EtDIDbD7s0ORG1yNNemeLAcOj4RZQc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.2.1/file/Zowe.vscode-extension-for-zowe-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.3.0/file/Zowe.vscode-extension-for-zowe-2.3.0.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.3.0"
     },
     "Zowe-zowe-explorer-ftp-extension": {
         "cargoLocks": null,
@@ -6852,11 +6852,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9VNHVd8q5JxwKnDqSQUdj3DWU2BJNpNsS4biuLlbI/0=",
+            "sha256": "sha256-sZbMIhor3RkE9ZxSvEM9GLjZ9K1INbSAr2F+tYBqjwY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.2.1/file/Zowe.zowe-explorer-ftp-extension-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.3.0/file/Zowe.zowe-explorer-ftp-extension-2.3.0.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.3.0"
     },
     "ZupInnovation-horusec": {
         "cargoLocks": null,
@@ -8828,9 +8828,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=",
+            "sha256": "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix"
         },
         "version": "1.0.9"
     },
@@ -9303,11 +9303,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-klraUpe6XDPkybz3JGmHluQb8rH1X6pHoCRNZW5zq64=",
+            "sha256": "sha256-8srmGaEUoiiFVYiMyYqkJs2jQTClDDJZNgNm0puJZAY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.24.3/file/astro-build.astro-vscode-0.24.3.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.24.4/file/astro-build.astro-vscode-0.24.4.vsix"
         },
-        "version": "0.24.3"
+        "version": "0.24.4"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -15440,11 +15440,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9sqpwBi0ZkXC/6W2s9VBw8vnmXLFIZypah7OyK3gWnE=",
+            "sha256": "sha256-b4D3tTjF/8Vz3zoyCL7l/IxpU12CTwCB96zhSYbcNHk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foretag/development-toolkit/0.1.3/file/foretag.development-toolkit-0.1.3.vsix"
+            "url": "https://open-vsx.org/api/foretag/development-toolkit/0.1.4/file/foretag.development-toolkit-0.1.4.vsix"
         },
-        "version": "0.1.3"
+        "version": "0.1.4"
+    },
+    "foretag-rust-toolkit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "foretag-rust-toolkit",
+        "passthru": {
+            "description": "",
+            "license": "",
+            "name": "rust-toolkit",
+            "publisher": "foretag"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-sRcu4vyHt13lQsuOhuGHPxl2zSvywKl59TL/voc7T2Q=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/foretag/rust-toolkit/0.1.4/file/foretag.rust-toolkit-0.1.4.vsix"
+        },
+        "version": "0.1.4"
     },
     "formulahendry-auto-close-tag": {
         "cargoLocks": null,
@@ -21007,11 +21026,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,

@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.4.4";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.4/file/ArmantGoldswain.seesharp-theme-0.4.4.vsix";
-      sha256 = "sha256-KbmMGRt/kmBDx8pPx9BOXUohILvb4pgFwbyG4QP/91k=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.6/file/ArmantGoldswain.seesharp-theme-0.4.6.vsix";
+      sha256 = "sha256-iZzfpIjsGS3gLSKZ+34T6TOSFIXBm/Yn6+eJVh+fang=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -1253,8 +1253,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -4311,10 +4311,10 @@
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.2.1/file/Zowe.vscode-extension-for-zowe-2.2.1.vsix";
-      sha256 = "sha256-7B+7TUoqeHE8xFso7ivOxBmfjR0NnF1Qut4+LQnvBII=";
+      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.3.0/file/Zowe.vscode-extension-for-zowe-2.3.0.vsix";
+      sha256 = "sha256-07eu6l8Ajn6j1EtDIDbD7s0ORG1yNNemeLAcOj4RZQc=";
     };
     license = "EPL-2.0";
     name = "vscode-extension-for-zowe";
@@ -4323,10 +4323,10 @@
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.2.1/file/Zowe.zowe-explorer-ftp-extension-2.2.1.vsix";
-      sha256 = "sha256-9VNHVd8q5JxwKnDqSQUdj3DWU2BJNpNsS4biuLlbI/0=";
+      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.3.0/file/Zowe.zowe-explorer-ftp-extension-2.3.0.vsix";
+      sha256 = "sha256-sZbMIhor3RkE9ZxSvEM9GLjZ9K1INbSAr2F+tYBqjwY=";
     };
     license = "EPL-2.0";
     name = "zowe-explorer-ftp-extension";
@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
+      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -5871,10 +5871,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.24.3";
+    version = "0.24.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.24.3/file/astro-build.astro-vscode-0.24.3.vsix";
-      sha256 = "sha256-klraUpe6XDPkybz3JGmHluQb8rH1X6pHoCRNZW5zq64=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.24.4/file/astro-build.astro-vscode-0.24.4.vsix";
+      sha256 = "sha256-8srmGaEUoiiFVYiMyYqkJs2jQTClDDJZNgNm0puJZAY=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -9747,14 +9747,26 @@
   };
   foretag-development-toolkit = {
     pname = "foretag-development-toolkit";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.3/file/foretag.development-toolkit-0.1.3.vsix";
-      sha256 = "sha256-9sqpwBi0ZkXC/6W2s9VBw8vnmXLFIZypah7OyK3gWnE=";
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.4/file/foretag.development-toolkit-0.1.4.vsix";
+      sha256 = "sha256-b4D3tTjF/8Vz3zoyCL7l/IxpU12CTwCB96zhSYbcNHk=";
     };
     license = "";
     name = "development-toolkit";
     description = "Foretag themes, tools & extensions for VS Code";
+    publisher = "foretag";
+  };
+  foretag-rust-toolkit = {
+    pname = "foretag-rust-toolkit";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.4/file/foretag.rust-toolkit-0.1.4.vsix";
+      sha256 = "sha256-sRcu4vyHt13lQsuOhuGHPxl2zSvywKl59TL/voc7T2Q=";
+    };
+    license = "";
+    name = "rust-toolkit";
+    description = "";
     publisher = "foretag";
   };
   formulahendry-auto-close-tag = {
@@ -13263,10 +13275,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
