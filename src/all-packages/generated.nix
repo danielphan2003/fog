@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "859b0c51cdafde09ee1e56a188f43e5c65f5374d";
+    version = "368227205fa3b1362030d4f031f8b978b8f0120f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "859b0c51cdafde09ee1e56a188f43e5c65f5374d";
+      rev = "368227205fa3b1362030d4f031f8b978b8f0120f";
       fetchSubmodules = false;
-      sha256 = "sha256-mD2tgahzl8fgpLPw6xF1hxzJQxMdcIJex+uMP0U40Q8=";
+      sha256 = "sha256-WXXHwhhIR72i73wG8WNKXGIJCFxoov4za1XTbAg09Xk=";
     });
   };
   caddy = {
@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c19f2072379e18fbf3b2409ecd49ca023d62b882";
+    version = "076a8b8095ad4e1a8f2ad770ce375612dcaf0288";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c19f2072379e18fbf3b2409ecd49ca023d62b882";
+      rev = "076a8b8095ad4e1a8f2ad770ce375612dcaf0288";
       fetchSubmodules = false;
-      sha256 = "sha256-YsPSeI+zaO8ESAg9hBlezyyVP0NqPYZCOeWjd9fYldw=";
+      sha256 = "sha256-irsyD1znY9Q/VewPEym1O8wk1Q9t/sUgI8nCJCnJUPU=";
     });
   };
   cinny = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0eb5ecafb9cb8dcd4242abd03fe69f51b7930505";
+    version = "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "0eb5ecafb9cb8dcd4242abd03fe69f51b7930505";
+      rev = "0d95a0174c012b4c4fb5ed74f75d3b82e4bef5a7";
       fetchSubmodules = false;
-      sha256 = "sha256-YtD+oO5TogaP05AZX/srWeDZLKzkgsh0xgZFCUI1RDQ=";
+      sha256 = "sha256-4EI6DRbRuBQRBwS96Xd8Js6aUc07cNej1F+3pEy9RAA=";
     });
   };
   ibus = {
@@ -662,10 +662,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "106.0.1370.4";
+    version = "107.0.1375.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1370.4-1_amd64.deb";
-      sha256 = "sha256-MC9inJTBpv4mauqVTgAAEaMucDVFCwOBxX4fddf/qeE=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1375.0-1_amd64.deb";
+      sha256 = "sha256-JDbX8kBU80VZnQvAXNjKaWA3UQ2uCi1yC8GVmb0kAag=";
     };
   };
   microsoft-edge-stable = {
@@ -1260,13 +1260,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "5fe6f7668639dcef310d9287a15a069040dcab3c";
+    version = "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "5fe6f7668639dcef310d9287a15a069040dcab3c";
+      rev = "cdba2425c5cdfc1761377ff2a8e925ca2ad95f76";
       fetchSubmodules = false;
-      sha256 = "sha256-Mo0cDUyYeu5P2bh0ciF/XOdBcOsQM061A+jjcvtvqmc=";
+      sha256 = "sha256-orQxZ/kMA6pLoAvrPZRNDjuZ5gr+FYiJno0J6gP4HPg=";
     });
   };
   uniemoji = {
