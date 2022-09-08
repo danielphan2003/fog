@@ -126,11 +126,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5mwxaoxYzYU0Zzv4u18OAX9OkOnIu3ChrTy21NBUg5I=",
+            "sha256": "sha256-L8LLkxfYME+zpePpbM96HJjNX0+AF5bLyjNMIdki8H8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng-template-14.1.0.vsix"
+            "url": "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng-template-14.2.0.vsix"
         },
-        "version": "14.1.0"
+        "version": "14.2.0"
     },
     "AnishDe12020-orbi": {
         "cargoLocks": null,
@@ -1969,9 +1969,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sPLkyu+sxJhS8TJ1Bo9RTk6hIiYfpLY4fEvMR96UuHE=",
+            "sha256": "sha256-5/2IeVuQDe7VLVGBSW0I8fl4DZHZhblgt5PXPW8fne0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.717/file/Slint.slint-nightly-2022.9.717.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.718/file/Slint.slint-nightly-2022.9.718.vsix"
         },
-        "version": "2022.9.717"
+        "version": "2022.9.718"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -8524,11 +8524,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L8k0Ib9Wr9+fBbVcBeg1EWp9LINhbJINZAfoENjEBnk=",
+            "sha256": "sha256-/CgkY0Y6m/Rl1LPjmEWqOSkGZOoz+K+p45Sc9ac0mDs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix"
+            "url": "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix"
         },
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     "aperricone-regexper-unofficial": {
         "cargoLocks": null,
@@ -8809,9 +8809,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=",
+            "sha256": "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix"
         },
         "version": "1.0.9"
     },
@@ -20494,11 +20494,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -22660,11 +22660,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bwBzYls8pI1MYM7y/LMsSCLExyMOPfyv8MvbG5XEtm4=",
+            "sha256": "sha256-91J2wmsX+6qDj56OnecU7i5FSOhkewZ/WRgfPfsyBYI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.4/file/meshvoid.theme-meshvoid-1.1.4.vsix"
         },
-        "version": "1.1.2"
+        "version": "1.1.4"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -24541,11 +24541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=",
+            "sha256": "sha256-M5ej2RJ6RrIUqdzwgvP4A//+D5QCkj7jhNVk3ifunzE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix"
+            "url": "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.3/file/msjsdiag.vscode-react-native-1.9.3.vsix"
         },
-        "version": "1.9.2"
+        "version": "1.9.3"
     },
     "msnilshartmann-blue-light": {
         "cargoLocks": null,
@@ -32255,11 +32255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=",
+            "sha256": "sha256-nX2c1YvD5VjyWOVyP/45Y1ZHuI+ZdOIiDbGQVqr1300=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix"
         },
-        "version": "0.2.6"
+        "version": "0.2.9"
     },
     "t-codespaces-ide-data-sync-node": {
         "cargoLocks": null,
@@ -32274,11 +32274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=",
+            "sha256": "sha256-nX2c1YvD5VjyWOVyP/45Y1ZHuI+ZdOIiDbGQVqr1300=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix"
         },
-        "version": "0.2.6"
+        "version": "0.2.9"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,
@@ -36340,11 +36340,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T34KlMGMjEWFeg0l64X2C/j6eJaT57uB8VJJ8SXQTKk=",
+            "sha256": "sha256-ErDS+JXXSuRoglqIb4zJkungHlaV+hNS01mP+5mCypM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.0/file/vshaxe.haxe-checkstyle-1.8.0.vsix"
+            "url": "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.1/file/vshaxe.haxe-checkstyle-1.8.1.vsix"
         },
-        "version": "1.8.0"
+        "version": "1.8.1"
     },
     "vshaxe-haxe-debug": {
         "cargoLocks": null,
@@ -38411,11 +38411,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

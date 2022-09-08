@@ -750,8 +750,8 @@ fetch.url = "https://open-vsx.org/api/ria/elastic/0.13.2/file/ria.elastic-0.13.2
 passthru = { publisher = "ria", name = "elastic", description = "Elasticsearch client like Kibana console for vscode", license = "" }
 
 [vshaxe-haxe-checkstyle]
-src.manual = "1.8.0" # vshaxe.haxe-checkstyle
-fetch.url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.0/file/vshaxe.haxe-checkstyle-1.8.0.vsix" # vshaxe.haxe-checkstyle
+src.manual = "1.8.1" # vshaxe.haxe-checkstyle
+fetch.url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.1/file/vshaxe.haxe-checkstyle-1.8.1.vsix" # vshaxe.haxe-checkstyle
 passthru = { publisher = "vshaxe", name = "haxe-checkstyle", description = "Linter for Haxe files", license = "MIT" }
 
 [vymarkov-add-gitlab-npm-token]
@@ -3085,8 +3085,8 @@ fetch.url = "https://open-vsx.org/api/folke/vscode-monorepo-workspace/1.3.1/file
 passthru = { publisher = "folke", name = "vscode-monorepo-workspace", description = "Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories", license = "Apache-2.0" }
 
 [msjsdiag-vscode-react-native]
-src.manual = "1.9.2" # msjsdiag.vscode-react-native
-fetch.url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix" # msjsdiag.vscode-react-native
+src.manual = "1.9.3" # msjsdiag.vscode-react-native
+fetch.url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.3/file/msjsdiag.vscode-react-native-1.9.3.vsix" # msjsdiag.vscode-react-native
 passthru = { publisher = "msjsdiag", name = "vscode-react-native", description = "Debugging and integrated commands for React Native", license = "%reactNative.license%" }
 
 [gharveymn-nightswitch-lite]
@@ -4790,8 +4790,8 @@ fetch.url = "https://open-vsx.org/api/pbkit/vscode-pbkit/0.0.5/file/pbkit.vscode
 passthru = { publisher = "pbkit", name = "vscode-pbkit", description = "Syntax highlight, Go to definition and Auto completion.", license = "(MIT OR Apache-2.0)" }
 
 [Angular-ng-template]
-src.manual = "14.1.0" # Angular.ng-template
-fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng-template-14.1.0.vsix" # Angular.ng-template
+src.manual = "14.2.0" # Angular.ng-template
+fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng-template-14.2.0.vsix" # Angular.ng-template
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -6980,8 +6980,8 @@ fetch.url = "https://open-vsx.org/api/arzg/sema/1.12.1/file/arzg.sema-1.12.1.vsi
 passthru = { publisher = "arzg", name = "sema", description = "A theme that focuses on what’s important", license = "MIT" }
 
 [aperricone-harbour]
-src.manual = "1.0.3" # aperricone.harbour
-fetch.url = "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix" # aperricone.harbour
+src.manual = "1.0.4" # aperricone.harbour
+fetch.url = "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix" # aperricone.harbour
 passthru = { publisher = "aperricone", name = "harbour", description = "Harbour and xHarbour languages support for visual studio code", license = "MIT" }
 
 [aperricone-vscode-dbf]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9725,8 +9725,8 @@ fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.7/file/r
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
-src.manual = "0.2.6" # t-codespaces.ide-data-sync
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix" # t-codespaces.ide-data-sync
+src.manual = "0.2.9" # t-codespaces.ide-data-sync
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix" # t-codespaces.ide-data-sync
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.717" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.717/file/Slint.slint-nightly-2022.9.717.vsix" # Slint.slint-nightly
+src.manual = "2022.9.718" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.718/file/Slint.slint-nightly-2022.9.718.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10058,8 +10058,8 @@ passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "
 
 
 [t-codespaces-ide-data-sync-node]
-src.manual = "0.2.6" # t-codespaces.ide-data-sync-node
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix" # t-codespaces.ide-data-sync-node
+src.manual = "0.2.9" # t-codespaces.ide-data-sync-node
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix" # t-codespaces.ide-data-sync-node
 passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", description = "端云一体 vscode-remote node 端消费插件", license = "" }
 
 
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.9" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10318,8 +10318,8 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 
 
 [meshvoid-theme-meshvoid]
-src.manual = "1.1.2" # meshvoid.theme-meshvoid
-fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix" # meshvoid.theme-meshvoid
+src.manual = "1.1.4" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.4/file/meshvoid.theme-meshvoid-1.1.4.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 
 
@@ -10345,4 +10345,5 @@ passthru = { publisher = "somebody1234", name = "hoverlens", description = "Show
 src.manual = "0.2.1" # claui.packaging
 fetch.url = "https://open-vsx.org/api/claui/packaging/0.2.1/file/claui.packaging-0.2.1.vsix" # claui.packaging
 passthru = { publisher = "claui", name = "packaging", description = "Support for user-contributed PKGBUILDs in the Arch User Repository (AUR)", license = "" }
+
 

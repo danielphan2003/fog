@@ -75,10 +75,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "14.1.0";
+    version = "14.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng-template-14.1.0.vsix";
-      sha256 = "sha256-5mwxaoxYzYU0Zzv4u18OAX9OkOnIu3ChrTy21NBUg5I=";
+      url = "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng-template-14.2.0.vsix";
+      sha256 = "sha256-L8LLkxfYME+zpePpbM96HJjNX0+AF5bLyjNMIdki8H8=";
     };
     license = "MIT";
     name = "ng-template";
@@ -1241,8 +1241,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3531,10 +3531,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.717";
+    version = "2022.9.718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.717/file/Slint.slint-nightly-2022.9.717.vsix";
-      sha256 = "sha256-sPLkyu+sxJhS8TJ1Bo9RTk6hIiYfpLY4fEvMR96UuHE=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.718/file/Slint.slint-nightly-2022.9.718.vsix";
+      sha256 = "sha256-5/2IeVuQDe7VLVGBSW0I8fl4DZHZhblgt5PXPW8fne0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5379,10 +5379,10 @@
   };
   aperricone-harbour = {
     pname = "aperricone-harbour";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix";
-      sha256 = "sha256-L8k0Ib9Wr9+fBbVcBeg1EWp9LINhbJINZAfoENjEBnk=";
+      url = "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix";
+      sha256 = "sha256-/CgkY0Y6m/Rl1LPjmEWqOSkGZOoz+K+p45Sc9ac0mDs=";
     };
     license = "MIT";
     name = "harbour";
@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -12939,10 +12939,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -14307,10 +14307,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.2";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.2/file/meshvoid.theme-meshvoid-1.1.2.vsix";
-      sha256 = "sha256-bwBzYls8pI1MYM7y/LMsSCLExyMOPfyv8MvbG5XEtm4=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.4/file/meshvoid.theme-meshvoid-1.1.4.vsix";
+      sha256 = "sha256-91J2wmsX+6qDj56OnecU7i5FSOhkewZ/WRgfPfsyBYI=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -15495,10 +15495,10 @@
   };
   msjsdiag-vscode-react-native = {
     pname = "msjsdiag-vscode-react-native";
-    version = "1.9.2";
+    version = "1.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix";
-      sha256 = "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=";
+      url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.3/file/msjsdiag.vscode-react-native-1.9.3.vsix";
+      sha256 = "sha256-M5ej2RJ6RrIUqdzwgvP4A//+D5QCkj7jhNVk3ifunzE=";
     };
     license = "%reactNative.license%";
     name = "vscode-react-native";
@@ -20367,10 +20367,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.2.6";
+    version = "0.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix";
-      sha256 = "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix";
+      sha256 = "sha256-nX2c1YvD5VjyWOVyP/45Y1ZHuI+ZdOIiDbGQVqr1300=";
     };
     license = "";
     name = "ide-data-sync";
@@ -20379,10 +20379,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.2.6";
+    version = "0.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.6/file/t-codespaces.ide-data-sync-0.2.6.vsix";
-      sha256 = "sha256-nKhnXX2ElW/t8P5U3BpvHx0fuBSm+QP8LrXdHWr2j1s=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-codespaces.ide-data-sync-0.2.9.vsix";
+      sha256 = "sha256-nX2c1YvD5VjyWOVyP/45Y1ZHuI+ZdOIiDbGQVqr1300=";
     };
     license = "";
     name = "ide-data-sync-node";
@@ -22947,10 +22947,10 @@
   };
   vshaxe-haxe-checkstyle = {
     pname = "vshaxe-haxe-checkstyle";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.0/file/vshaxe.haxe-checkstyle-1.8.0.vsix";
-      sha256 = "sha256-T34KlMGMjEWFeg0l64X2C/j6eJaT57uB8VJJ8SXQTKk=";
+      url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.1/file/vshaxe.haxe-checkstyle-1.8.1.vsix";
+      sha256 = "sha256-ErDS+JXXSuRoglqIb4zJkungHlaV+hNS01mP+5mCypM=";
     };
     license = "MIT";
     name = "haxe-checkstyle";
@@ -24255,10 +24255,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
