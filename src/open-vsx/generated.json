@@ -2064,11 +2064,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7Ibjiob8qC5N/I9nHot2pVfbQrk8V3Pwt9EZP18EJJQ=",
+            "sha256": "sha256-2GDUjE/RvfK0faS0YihaBwPG1ePrzsnItttJuKCTfKo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.49.0/file/GitLab.gitlab-workflow-3.49.0.vsix"
+            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.50.0/file/GitLab.gitlab-workflow-3.50.0.vsix"
         },
-        "version": "3.49.0"
+        "version": "3.50.0"
     },
     "Grafana-vscode-jsonnet": {
         "cargoLocks": null,
@@ -4952,11 +4952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-izTt8cdUV7G4/LBGWNRXk4X/LD7ye9JFw+ej1ZoUvaA=",
+            "sha256": "sha256-tkkVXopEUhH0mCt6AQG+5ike186ywc3/Cjnd2g7OAR8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1398/file/Prisma.prisma-insider-31.0.1398.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1399/file/Prisma.prisma-insider-31.0.1399.vsix"
         },
-        "version": "31.0.1398"
+        "version": "31.0.1399"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -31552,11 +31552,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-bulgarian": {
         "cargoLocks": null,
@@ -31571,11 +31571,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-catalan": {
         "cargoLocks": null,
@@ -31590,11 +31590,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-croatian": {
         "cargoLocks": null,
@@ -31609,11 +31609,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-czech": {
         "cargoLocks": null,
@@ -31628,11 +31628,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-danish": {
         "cargoLocks": null,
@@ -31647,11 +31647,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-dutch": {
         "cargoLocks": null,
@@ -31666,11 +31666,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-esperanto": {
         "cargoLocks": null,
@@ -31685,11 +31685,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-estonian": {
         "cargoLocks": null,
@@ -31704,11 +31704,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-french-reforme": {
         "cargoLocks": null,
@@ -31723,11 +31723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-german": {
         "cargoLocks": null,
@@ -31742,11 +31742,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-greek": {
         "cargoLocks": null,
@@ -31761,11 +31761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-hebrew": {
         "cargoLocks": null,
@@ -31780,11 +31780,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-italian": {
         "cargoLocks": null,
@@ -31799,11 +31799,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-medical-terms": {
         "cargoLocks": null,
@@ -31818,11 +31818,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-norwegian-bokmal": {
         "cargoLocks": null,
@@ -31837,11 +31837,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-persian": {
         "cargoLocks": null,
@@ -31856,11 +31856,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-polish": {
         "cargoLocks": null,
@@ -31875,11 +31875,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-portuguese-brazilian": {
         "cargoLocks": null,
@@ -31894,11 +31894,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-russian": {
         "cargoLocks": null,
@@ -31913,11 +31913,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-scientific-terms": {
         "cargoLocks": null,
@@ -31932,11 +31932,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-slovenian": {
         "cargoLocks": null,
@@ -31951,11 +31951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-spanish": {
         "cargoLocks": null,
@@ -31970,11 +31970,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-swedish": {
         "cargoLocks": null,
@@ -31989,11 +31989,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-turkish": {
         "cargoLocks": null,
@@ -32008,11 +32008,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-ukrainian": {
         "cargoLocks": null,
@@ -32027,11 +32027,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "streetsidesoftware-code-spell-checker-vietnamese": {
         "cargoLocks": null,
@@ -32046,11 +32046,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qM6zhpnrtFll4NCLlsKbvK/LQkoWrR4ox0tDUoYUO78=",
+            "sha256": "sha256-WauNykW1o2Njbj3aaK0rtf0EhVQBVyJYrSw+/rTLtbw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.2/file/streetsidesoftware.code-spell-checker-2.7.2.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.3/file/streetsidesoftware.code-spell-checker-2.7.3.vsix"
         },
-        "version": "2.7.2"
+        "version": "2.7.3"
     },
     "stripe-vscode-stripe": {
         "cargoLocks": null,
