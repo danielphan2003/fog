@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.5.0/file/ArmantGoldswain.seesharp-theme-0.5.0.vsix";
-      sha256 = "sha256-blCtq0hq4Io1jYIYCmyChOqsLFiqDz91j+kNeh2Vdcs=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.5.1/file/ArmantGoldswain.seesharp-theme-0.5.1.vsix";
+      sha256 = "sha256-oBlhCfnbR7dEBA2I2PMgY7n8D97ON1rvAZ61cbO484g=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10505,8 +10505,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13287,10 +13287,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
