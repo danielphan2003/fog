@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eJwZSwLMxnBXcaBlsZ7IBepkfuzqk1XWr22tX+3PPEw=",
+            "sha256": "sha256-5mKReegtz6TuVUh4FK1awrv4uJKltg/aG6nzawsDwxw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-915-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-916-1_all.deb"
         },
-        "version": "1.0-915"
+        "version": "1.0-916"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jEVJ49FsCdlX9xUFrEJlAKfreRHpMcZCKytdxVCtcVE=",
+            "sha256": "sha256-rkn3xOOMemX2/AJzDR0pSRulmQREesU7UsFK6kI9w5U=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-38-g59e72f80-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-39-g4703e2c6-1_all.deb"
         },
-        "version": "2.2-38-g59e72f80"
+        "version": "2.2-39-g4703e2c6"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1093,11 +1093,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2gM3dnC/Rm/lJSTwBWPPEKQ/D3W6WOsGDDgNWWjACzg=",
+            "sha256": "sha256-8ToR6S7OalBKRDqJ8NEebf1kVNRoYdXfoboxLnqVsYQ=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.27-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.34-1_amd64.deb"
         },
-        "version": "105.0.1343.27"
+        "version": "105.0.1343.34"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "f5fc1fb24ef7cd00a49810d9f070d9d0b327f9a7",
-            "sha256": "sha256-KBwmRKPBMaTAYrieM9kanTNc82OPcecyYtpcK/6qpY8=",
+            "rev": "2bdb5d488b412889ee6bb8259b04fa7a5ba3cfb3",
+            "sha256": "sha256-GBbWtNMwLMAcpjKmvUXFpmkcNWGRwApTuOVUrdD/80I=",
             "type": "github"
         },
-        "version": "f5fc1fb24ef7cd00a49810d9f070d9d0b327f9a7"
+        "version": "2bdb5d488b412889ee6bb8259b04fa7a5ba3cfb3"
     },
     "revanced-cli": {
         "cargoLocks": null,

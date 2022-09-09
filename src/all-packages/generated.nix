@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-915";
+    version = "1.0-916";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-915-1_all.deb";
-      sha256 = "sha256-eJwZSwLMxnBXcaBlsZ7IBepkfuzqk1XWr22tX+3PPEw=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-916-1_all.deb";
+      sha256 = "sha256-5mKReegtz6TuVUh4FK1awrv4uJKltg/aG6nzawsDwxw=";
     };
   };
   jitsi-meet = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-38-g59e72f80";
+    version = "2.2-39-g4703e2c6";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-38-g59e72f80-1_all.deb";
-      sha256 = "sha256-jEVJ49FsCdlX9xUFrEJlAKfreRHpMcZCKytdxVCtcVE=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-39-g4703e2c6-1_all.deb";
+      sha256 = "sha256-rkn3xOOMemX2/AJzDR0pSRulmQREesU7UsFK6kI9w5U=";
     };
   };
   layout-machi = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "105.0.1343.27";
+    version = "105.0.1343.34";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.27-1_amd64.deb";
-      sha256 = "sha256-2gM3dnC/Rm/lJSTwBWPPEKQ/D3W6WOsGDDgNWWjACzg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.34-1_amd64.deb";
+      sha256 = "sha256-8ToR6S7OalBKRDqJ8NEebf1kVNRoYdXfoboxLnqVsYQ=";
     };
   };
   microsoft-edge-dev = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f5fc1fb24ef7cd00a49810d9f070d9d0b327f9a7";
+    version = "2bdb5d488b412889ee6bb8259b04fa7a5ba3cfb3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f5fc1fb24ef7cd00a49810d9f070d9d0b327f9a7";
+      rev = "2bdb5d488b412889ee6bb8259b04fa7a5ba3cfb3";
       fetchSubmodules = false;
-      sha256 = "sha256-KBwmRKPBMaTAYrieM9kanTNc82OPcecyYtpcK/6qpY8=";
+      sha256 = "sha256-GBbWtNMwLMAcpjKmvUXFpmkcNWGRwApTuOVUrdD/80I=";
     });
   };
   revanced-cli = {
