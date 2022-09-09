@@ -8943,10 +8943,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3022053";
+    version = "8.1.3023750";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3022053/file/eliostruyf.vscode-front-matter-beta-8.1.3022053.vsix";
-      sha256 = "sha256-e4Lm1jnk1OTfAq5WYKM4LoIp+KtV64+WOpw3ZciaET8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3023750/file/eliostruyf.vscode-front-matter-beta-8.1.3023750.vsix";
+      sha256 = "sha256-XbogIv0T7bN1qQHaz4p+sa1nwb3thIKSmJ+weQ7U2bY=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -11487,10 +11487,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.31";
+    version = "0.14.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.31/file/iljapostnovs.ui5plugin-0.14.31.vsix";
-      sha256 = "sha256-dxbSrPN1jZCzhtmcc7W3Sb6WsAiFvCTWBVot5OIOZRY=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.32/file/iljapostnovs.ui5plugin-0.14.32.vsix";
+      sha256 = "sha256-WC3MBeMAK6dAP5273Tv849AnVskH3P9wo+KvJxO/lCg=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -12471,10 +12471,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.1/file/jsw.csharpextensions-1.7.1.vsix";
-      sha256 = "sha256-uuHq2qsZwjCmgDOWLsU69OQoOD6xIlN7/q1YPUrhF+A=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.2/file/jsw.csharpextensions-1.7.2.vsix";
+      sha256 = "sha256-UkTIiQ08QJ61IFRZJE4xdQQASddvlpoPl7fGLwxaS6o=";
     };
     license = "MIT";
     name = "csharpextensions";
@@ -17211,10 +17211,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.425";
+    version = "0.26.427";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.425/file/pokey.cursorless-0.26.425.vsix";
-      sha256 = "sha256-Ui4x5O8hTBXInHJp8uuRTseuV9B4yNe+CsmQPoasTBc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.427/file/pokey.cursorless-0.26.427.vsix";
+      sha256 = "sha256-BTUfG3ZmyejbkO9IkbjJgUW23OJjNcsLAXJt4rXGLTA=";
     };
     license = "MIT";
     name = "cursorless";
