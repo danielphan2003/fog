@@ -1205,16 +1205,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "2832de8cc2ef9d28aa7ee57954a1a05029e7aca8";
+    version = "6ea06e0c0067cd0adf087d96bb207e1d88d833b7";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "2832de8cc2ef9d28aa7ee57954a1a05029e7aca8";
+      rev = "6ea06e0c0067cd0adf087d96bb207e1d88d833b7";
       fetchSubmodules = false;
-      sha256 = "sha256-XOqS7No4BwdK1Xd4N4bp2Z71uPJtHZHEkwTBbEjxbSM=";
+      sha256 = "sha256-ARcQEJtSk79fYfp3fZmcrYeyxPTmCZDogBiOIuZXxPU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-2832de8cc2ef9d28aa7ee57954a1a05029e7aca8/Cargo.lock;
+      lockFile = ./swhkd-6ea06e0c0067cd0adf087d96bb207e1d88d833b7/Cargo.lock;
       outputHashes = {
         
       };
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2aade349fc3f1a9d58ce98e11be9e18034926915";
+    version = "3ed366ee1ee72c110310d44a7a3dd8e179c473dc";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2aade349fc3f1a9d58ce98e11be9e18034926915";
+      rev = "3ed366ee1ee72c110310d44a7a3dd8e179c473dc";
       fetchSubmodules = false;
-      sha256 = "sha256-b/0UgHzl9BCMfr4T8VZaZzOxWHU8qHMycIzS5vHkgV4=";
+      sha256 = "sha256-d3Flll2vCWmEH6rsjP+8NkzDnoMfWQqgg/Q53YA0jmg=";
     });
   };
   tailscale-systray = {
@@ -1326,13 +1326,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "1361b3a7cbf35746884f4454b976528139911576";
+    version = "5159f6583109f402e3b51c528c81219bb6821110";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "1361b3a7cbf35746884f4454b976528139911576";
+      rev = "5159f6583109f402e3b51c528c81219bb6821110";
       fetchSubmodules = false;
-      sha256 = "sha256-LvzTSj6Y2bNNsv9xFtlGC2EzZqSEeiaX8DNcEB64eMw=";
+      sha256 = "sha256-BEk63I+cQUnywDYLCG2CL0vN8mXc+nEJYalwm3GWnxU=";
     });
   };
   wgcf = {
