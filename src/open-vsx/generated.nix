@@ -3123,10 +3123,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1399";
+    version = "31.0.1400";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1399/file/Prisma.prisma-insider-31.0.1399.vsix";
-      sha256 = "sha256-tkkVXopEUhH0mCt6AQG+5ike186ywc3/Cjnd2g7OAR8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1400/file/Prisma.prisma-insider-31.0.1400.vsix";
+      sha256 = "sha256-xhbSXUiMkAyHGUW1eGZOzxiIyPZVPX6FemjHXxr5TP8=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14343,10 +14343,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.8";
+    version = "1.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.8/file/meshvoid.theme-meshvoid-1.1.8.vsix";
-      sha256 = "sha256-ZJbx4GhxlGplCo27zlhkHX8JtposYyYCVGQ2zAYS2dQ=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.9/file/meshvoid.theme-meshvoid-1.1.9.vsix";
+      sha256 = "sha256-IvcCPf1BdF06mLBzepFUVPmcOW6uVpmlq32HX5sCS+E=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19829,8 +19829,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24291,10 +24291,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
