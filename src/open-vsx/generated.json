@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
+            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -5617,11 +5617,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5/2IeVuQDe7VLVGBSW0I8fl4DZHZhblgt5PXPW8fne0=",
+            "sha256": "sha256-ouFLuEy5hL5WjCuZhlpIt3WWJy8RTImJdrujacKAsAk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.718/file/Slint.slint-nightly-2022.9.718.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.816/file/Slint.slint-nightly-2022.9.816.vsix"
         },
-        "version": "2022.9.718"
+        "version": "2022.9.816"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -8828,9 +8828,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=",
+            "sha256": "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix"
         },
         "version": "1.0.9"
     },
@@ -18556,11 +18556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-smhEbjgyqj+aeMu5Cn9KZM7KS2ilVZL2xDmkMLd9IJw=",
+            "sha256": "sha256-+5Hq7kGyranqc5UKRXkQlQzVJqsJwH3lSYSfcMek/rg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.4.1/file/iterative.dvc-0.4.1.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.4.1"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -21045,11 +21045,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -23667,11 +23667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Xc37AlSrE2ral+paLkcX7zXpm/+kTbNObIaTqp7rdRM=",
+            "sha256": "sha256-HuDfa+CCr1WmC2XTdOEosp6lzBqSJbQJ9VokAV8dT4Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.0/file/ms-edgedevtools.vscode-edge-devtools-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.1/file/ms-edgedevtools.vscode-edge-devtools-2.1.1.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.1.1"
     },
     "ms-kubernetes-tools-vscode-kubernetes-tools": {
         "cargoLocks": null,
@@ -30678,11 +30678,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,

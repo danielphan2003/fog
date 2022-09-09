@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
-      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
+      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -3543,10 +3543,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.718";
+    version = "2022.9.816";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.718/file/Slint.slint-nightly-2022.9.718.vsix";
-      sha256 = "sha256-5/2IeVuQDe7VLVGBSW0I8fl4DZHZhblgt5PXPW8fne0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.816/file/Slint.slint-nightly-2022.9.816.vsix";
+      sha256 = "sha256-ouFLuEy5hL5WjCuZhlpIt3WWJy8RTImJdrujacKAsAk=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -11715,10 +11715,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.0/file/iterative.dvc-0.4.0.vsix";
-      sha256 = "sha256-smhEbjgyqj+aeMu5Cn9KZM7KS2ilVZL2xDmkMLd9IJw=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.1/file/iterative.dvc-0.4.1.vsix";
+      sha256 = "sha256-+5Hq7kGyranqc5UKRXkQlQzVJqsJwH3lSYSfcMek/rg=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13287,10 +13287,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -14943,10 +14943,10 @@
   };
   ms-edgedevtools-vscode-edge-devtools = {
     pname = "ms-edgedevtools-vscode-edge-devtools";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.0/file/ms-edgedevtools.vscode-edge-devtools-2.1.0.vsix";
-      sha256 = "sha256-Xc37AlSrE2ral+paLkcX7zXpm/+kTbNObIaTqp7rdRM=";
+      url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.1/file/ms-edgedevtools.vscode-edge-devtools-2.1.1.vsix";
+      sha256 = "sha256-HuDfa+CCr1WmC2XTdOEosp6lzBqSJbQJ9VokAV8dT4Q=";
     };
     license = "MIT";
     name = "vscode-edge-devtools";
@@ -19371,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
