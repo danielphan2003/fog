@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.4.7";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.4.7/file/ArmantGoldswain.seesharp-theme-0.4.7.vsix";
-      sha256 = "sha256-zpvUm3wZ/g6QNAeZuK92cKcxDXDaC8B/r77hNUyd4kI=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.5.0/file/ArmantGoldswain.seesharp-theme-0.5.0.vsix";
+      sha256 = "sha256-blCtq0hq4Io1jYIYCmyChOqsLFiqDz91j+kNeh2Vdcs=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -1253,8 +1253,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -7155,10 +7155,10 @@
   };
   cloudstudio-cloud-debug = {
     pname = "cloudstudio-cloud-debug";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.3/file/cloudstudio.cloud-debug-0.0.3.vsix";
-      sha256 = "sha256-0QU541WOY3tQ0WpPvEntCOWcaJCOofRVU7BHtzrKvZY=";
+      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.4/file/cloudstudio.cloud-debug-0.0.4.vsix";
+      sha256 = "sha256-J9W9QMDNWbSRrV/USPyNn3RrbLuKVWSbObCKSKdyYbE=";
     };
     license = "Apache-2.0";
     name = "cloud-debug";
@@ -8319,10 +8319,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.111.2";
+    version = "0.111.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.111.2/file/dendron.nightly-0.111.2.vsix";
-      sha256 = "sha256-IQaOrkjYP4EoGYmx+/WwDnHHBdHRJ2lRqCreqZOs6DM=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.111.3/file/dendron.nightly-0.111.3.vsix";
+      sha256 = "sha256-/sAHAANo6mNNlVK/VGKf1uG78nc9ovsDqFVBDEO2UQ4=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10493,8 +10493,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13287,10 +13287,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19371,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
