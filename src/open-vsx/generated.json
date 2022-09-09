@@ -38164,11 +38164,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j1R1JoWi7WVXaUl61Ssxcm5wUo/S/V7Vim8eKFTkMcQ=",
+            "sha256": "sha256-qbyAIgn43lrjEK/HYY5hPtXYFb3OwK1tII4NIbGSIuQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.84/file/zardoy.zardoy-experiments-0.0.84.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.85/file/zardoy.zardoy-experiments-0.0.85.vsix"
         },
-        "version": "0.0.84"
+        "version": "0.0.85"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
