@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
+      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8883,10 +8883,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.62.0";
+    version = "0.63.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.62.0/file/edukera.archetype-0.62.0.vsix";
-      sha256 = "sha256-APk4vDB2k1aF3jzuzdqpy9WtEY/zoIhQw1YquzAYko8=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.63.0/file/edukera.archetype-0.63.0.vsix";
+      sha256 = "sha256-LT+1LXf8FJ9u3OVFzzJdShPqCOgWCUts5SQOZVvzu64=";
     };
     license = "MIT";
     name = "archetype";
@@ -8943,10 +8943,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3017634";
+    version = "8.1.3022053";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3017634/file/eliostruyf.vscode-front-matter-beta-8.1.3017634.vsix";
-      sha256 = "sha256-Kjwzzozv3kgvfC+5eBdfVIkX9z/A8mKCe2XSUjB9PvE=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3022053/file/eliostruyf.vscode-front-matter-beta-8.1.3022053.vsix";
+      sha256 = "sha256-e4Lm1jnk1OTfAq5WYKM4LoIp+KtV64+WOpw3ZciaET8=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -11907,10 +11907,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022090708";
+    version = "0.1.2022090911";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090708/file/jbangdev.jbang-vscode-0.1.2022090708.vsix";
-      sha256 = "sha256-o5GgDAd1Gyols3YYG3RNL2rk/8OMPX4ss9MfBj5x+bc=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090911/file/jbangdev.jbang-vscode-0.1.2022090911.vsix";
+      sha256 = "sha256-/VVCJJ4itMmoF7AmaMLQoWOiZKaDKrtLXVhDRnTb+Fk=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13287,10 +13287,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13311,10 +13311,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662680509";
+    version = "2022.9.1662727816";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662680509/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662680509.vsix";
-      sha256 = "sha256-s0wPky8u7OKyLsuxv4v3E9dHbNRI0BKJjlA4CCYH71E=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662727816/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662727816.vsix";
+      sha256 = "sha256-2Q768V+FK22ra6EG6c0JbQ3Uz/4g0ST46U0y/EygsXg=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -14343,10 +14343,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.7";
+    version = "1.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.7/file/meshvoid.theme-meshvoid-1.1.7.vsix";
-      sha256 = "sha256-M8iyvueIBRvsdqwmDPBvW/jAFupVCEng4VJmo0UFhzM=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.8/file/meshvoid.theme-meshvoid-1.1.8.vsix";
+      sha256 = "sha256-ZJbx4GhxlGplCo27zlhkHX8JtposYyYCVGQ2zAYS2dQ=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19035,10 +19035,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.1.0";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.0/file/sebastianbille.iam-legend-1.1.0.vsix";
-      sha256 = "sha256-AmtnULOzGk48pzH6FQyUNsXir8jXJ7Ct1U7X31YxtcY=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.2/file/sebastianbille.iam-legend-1.1.2.vsix";
+      sha256 = "sha256-0wzwTXZMC/8x9MErz4LgoA0Kqig+PVSYgunGL59/Xqk=";
     };
     license = "MIT";
     name = "iam-legend";
@@ -19371,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24291,10 +24291,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
