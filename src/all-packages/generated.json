@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xrhfqR24J3WCYYuHPLiwYCrc8OLS7vqiDtAJVOluf3k=",
+            "sha256": "sha256-RX8VjGKbF00Ts3S+8/v4hQvU8sMyE5lLjnLiBjnZr2A=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6543.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6544.tar.bz2"
         },
-        "version": "1.0.6543"
+        "version": "1.0.6544"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lomRAScpgoqvRHWP6Dhx7wk70ZaxVmfxKDkFTR8Sdhk=",
+            "sha256": "sha256-GwaMGqOVshrVwY0uhAnvU+lf9hxtSjJprpKdKcQFHfk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6543-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6544-1_all.deb"
         },
-        "version": "1.0.6543"
+        "version": "1.0.6544"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e96a100688f1fa8393c77285e2c93c8fd00f63af",
-            "sha256": "sha256-bsssp08XrYZKWXNkLtQ5194JIfec5c1BY1v+2aGfgB0=",
+            "rev": "9032141bad19d23474600762c77d78dd787014a3",
+            "sha256": "sha256-H4K2MutD/qM3zeAfH58IEkAWJELMW+vMwjB9g2tzWIs=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "e96a100688f1fa8393c77285e2c93c8fd00f63af"
+        "version": "9032141bad19d23474600762c77d78dd787014a3"
     },
     "spicetify-cli": {
         "cargoLocks": null,
