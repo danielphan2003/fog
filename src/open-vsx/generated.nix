@@ -3123,10 +3123,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1397";
+    version = "31.0.1398";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1397/file/Prisma.prisma-insider-31.0.1397.vsix";
-      sha256 = "sha256-laxqbTOtPAR2GJ5OBAKdFscSAn5fRiWZmMc8jXHFCDc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1398/file/Prisma.prisma-insider-31.0.1398.vsix";
+      sha256 = "sha256-izTt8cdUV7G4/LBGWNRXk4X/LD7ye9JFw+ej1ZoUvaA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13311,10 +13311,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662487573";
+    version = "2022.9.1662680509";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662487573/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662487573.vsix";
-      sha256 = "sha256-xOOMepbeInAHY5fbyy+hXItuPjjNxoGQsNIJe9DMMvo=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662680509/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662680509.vsix";
+      sha256 = "sha256-s0wPky8u7OKyLsuxv4v3E9dHbNRI0BKJjlA4CCYH71E=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -19829,8 +19829,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

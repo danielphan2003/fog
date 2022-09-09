@@ -4952,11 +4952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-laxqbTOtPAR2GJ5OBAKdFscSAn5fRiWZmMc8jXHFCDc=",
+            "sha256": "sha256-izTt8cdUV7G4/LBGWNRXk4X/LD7ye9JFw+ej1ZoUvaA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1397/file/Prisma.prisma-insider-31.0.1397.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1398/file/Prisma.prisma-insider-31.0.1398.vsix"
         },
-        "version": "31.0.1397"
+        "version": "31.0.1398"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -21083,11 +21083,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xOOMepbeInAHY5fbyy+hXItuPjjNxoGQsNIJe9DMMvo=",
+            "sha256": "sha256-s0wPky8u7OKyLsuxv4v3E9dHbNRI0BKJjlA4CCYH71E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662487573/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662487573.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662680509/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662680509.vsix"
         },
-        "version": "2022.9.1662487573"
+        "version": "2022.9.1662680509"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -31400,9 +31400,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
