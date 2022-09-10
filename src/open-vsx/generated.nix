@@ -711,10 +711,10 @@
   };
   CucumberOpen-cucumber-official = {
     pname = "CucumberOpen-cucumber-official";
-    version = "1.2.11";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.11/file/CucumberOpen.cucumber-official-1.2.11.vsix";
-      sha256 = "sha256-1IcJog+o94FRzpR3JCkyX6d97Cb6JfXW87dGyeiQROg=";
+      url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.3.0/file/CucumberOpen.cucumber-official-1.3.0.vsix";
+      sha256 = "sha256-V6zFjVFS6KSbkzhvLwjkUjrgsPSUvxApG2er3PlWzvQ=";
     };
     license = "MIT";
     name = "cucumber-official";
@@ -5573,8 +5573,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.9/file/arm.keil-studio-pack-web-1.0.9.vsix";
-      sha256 = "sha256-627mXI+GaSn8GQY3z45aBhnXzWViSU1zqT4gdYGFYIA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
+      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -19371,10 +19371,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24015,10 +24015,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.3/file/zardoy.npm-rapid-ready-0.2.3.vsix";
-      sha256 = "sha256-XF5td+bCHkO6VoEbjzpeyhLE4AB++ZZNwWKQm6pF5Rw=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.4/file/zardoy.npm-rapid-ready-0.2.4.vsix";
+      sha256 = "sha256-a4ZA9RkgWpelg5fbzy+16R2k2DWSJvcdZBcyDRwMdJo=";
     };
     license = "MIT";
     name = "npm-rapid-ready";
@@ -24099,10 +24099,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.86";
+    version = "0.0.87";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.86/file/zardoy.zardoy-experiments-0.0.86.vsix";
-      sha256 = "sha256-PIg7mpmyf426Cs+kzx0xM1OjZ/AVdQZUGkebmEti1wQ=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.87/file/zardoy.zardoy-experiments-0.0.87.vsix";
+      sha256 = "sha256-SQUdi++vQBEqYSnWmHFMg7PgSdB+yXN2ERGHjspdm7Y=";
     };
     license = "MIT";
     name = "zardoy-experiments";
@@ -24291,10 +24291,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
