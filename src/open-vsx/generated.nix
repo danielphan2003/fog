@@ -24099,10 +24099,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.85";
+    version = "0.0.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.85/file/zardoy.zardoy-experiments-0.0.85.vsix";
-      sha256 = "sha256-qbyAIgn43lrjEK/HYY5hPtXYFb3OwK1tII4NIbGSIuQ=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.86/file/zardoy.zardoy-experiments-0.0.86.vsix";
+      sha256 = "sha256-PIg7mpmyf426Cs+kzx0xM1OjZ/AVdQZUGkebmEti1wQ=";
     };
     license = "MIT";
     name = "zardoy-experiments";

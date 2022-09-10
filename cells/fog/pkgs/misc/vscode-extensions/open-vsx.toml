@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.85" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.85/file/zardoy.zardoy-experiments-0.0.85.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.86" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.86/file/zardoy.zardoy-experiments-0.0.86.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -10369,6 +10369,7 @@ passthru = { publisher = "foretag", name = "rust-toolkit", description = "", lic
 src.manual = "0.1.5" # foretag.frontend-toolkit
 fetch.url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix" # foretag.frontend-toolkit
 passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A collection of tools and extensions to enhance your frontend development experience.", license = "" }
+
 
 
 
