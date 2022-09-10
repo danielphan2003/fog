@@ -1988,9 +1988,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -10652,11 +10652,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KOiCkZ4xoaoD5CYoQKniu01WPPzkJ3DEVp/2uEB4X2M=",
+            "sha256": "sha256-C9FSdkZymm9GWgUiZS9imDQsbNZV0K3R5vAZFkE2OkM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.23/file/butchland.vscode-dbt-bigquery-power-user-0.5.23.vsix"
+            "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.24/file/butchland.vscode-dbt-bigquery-power-user-0.5.24.vsix"
         },
-        "version": "0.5.23"
+        "version": "0.5.24"
     },
     "byCedric-vscode-expo": {
         "cargoLocks": null,
@@ -20551,11 +20551,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -22717,11 +22717,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ADgIla3j4kFjLB80V0xdaiEyE6ORMhfArpROYeaUYCk=",
+            "sha256": "sha256-mejK+PTHv+x28Xi+cGeLBDoMURtmpg4B+LHuLNlrS4Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.0/file/meshvoid.theme-meshvoid-1.2.0.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.1/file/meshvoid.theme-meshvoid-1.2.1.vsix"
         },
-        "version": "1.2.0"
+        "version": "1.2.1"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -31400,9 +31400,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },

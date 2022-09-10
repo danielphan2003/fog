@@ -1253,8 +1253,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -6723,10 +6723,10 @@
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
-    version = "0.5.23";
+    version = "0.5.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.23/file/butchland.vscode-dbt-bigquery-power-user-0.5.23.vsix";
-      sha256 = "sha256-KOiCkZ4xoaoD5CYoQKniu01WPPzkJ3DEVp/2uEB4X2M=";
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.24/file/butchland.vscode-dbt-bigquery-power-user-0.5.24.vsix";
+      sha256 = "sha256-C9FSdkZymm9GWgUiZS9imDQsbNZV0K3R5vAZFkE2OkM=";
     };
     license = "MIT";
     name = "vscode-dbt-bigquery-power-user";
@@ -12975,10 +12975,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -14343,10 +14343,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.0/file/meshvoid.theme-meshvoid-1.2.0.vsix";
-      sha256 = "sha256-ADgIla3j4kFjLB80V0xdaiEyE6ORMhfArpROYeaUYCk=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.1/file/meshvoid.theme-meshvoid-1.2.1.vsix";
+      sha256 = "sha256-mejK+PTHv+x28Xi+cGeLBDoMURtmpg4B+LHuLNlrS4Y=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19829,8 +19829,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
