@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7f6c914fca5488824884eb0143520c3b506e38fe",
-            "sha256": "sha256-RjZfyoIOUxfcG38LgM/FnxAs7WyFYzL+KCUt7DoFpvU=",
+            "rev": "26f2d488e01637d5bf1a031fb51ca3407be8e225",
+            "sha256": "sha256-SpnH1Mf1jMM9xUZuj1b+zQKQTgbpygcICPPKj4imE04=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "7f6c914fca5488824884eb0143520c3b506e38fe"
+        "version": "26f2d488e01637d5bf1a031fb51ca3407be8e225"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4912474826bf84dc50a9a12f38f6de125528d36b",
-            "sha256": "sha256-d6KZbIGi9eh/Cz2FNkwF5cPsjxsoQJqFllLvX/lci9k=",
+            "rev": "84fe45c5ec1dba091af8a5d0234c965a9263c8dd",
+            "sha256": "sha256-+DZMHwkPEFbDNzdkI8rMBXyG83z9BpZQ6NAkmpNBrTo=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "4912474826bf84dc50a9a12f38f6de125528d36b"
+        "version": "84fe45c5ec1dba091af8a5d0234c965a9263c8dd"
     },
     "spicetify-cli": {
         "cargoLocks": null,
