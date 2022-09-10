@@ -767,11 +767,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "56bd6f841f1f3821c117f4154a607343f1ec944c",
-            "sha256": "sha256-JNWyPNujw4c2HeTjuy1tZcqHZ1gKscCLdzRggw0gQqY=",
+            "rev": "0505b0d0b51e26b6d646dfdeadd17c2cac9ebc84",
+            "sha256": "sha256-aUL4Dc3dIg16vV7xqJI4FWGph6hb/zh2NvhVVYLNSAk=",
             "type": "github"
         },
-        "version": "56bd6f841f1f3821c117f4154a607343f1ec944c"
+        "version": "0505b0d0b51e26b6d646dfdeadd17c2cac9ebc84"
     },
     "godu": {
         "cargoLocks": null,
