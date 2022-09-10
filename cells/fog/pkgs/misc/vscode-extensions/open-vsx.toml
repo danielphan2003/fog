@@ -9830,8 +9830,8 @@ fetch.url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-
 passthru = { publisher = "qcz", name = "text-power-tools", description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.", license = "MIT" }
 
 [remcohaszing-schemastore]
-src.manual = "1.0.17" # remcohaszing.schemastore
-fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.17/file/remcohaszing.schemastore-1.0.17.vsix" # remcohaszing.schemastore
+src.manual = "1.0.18" # remcohaszing.schemastore
+fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.18/file/remcohaszing.schemastore-1.0.18.vsix" # remcohaszing.schemastore
 passthru = { publisher = "remcohaszing", name = "schemastore", description = "Use the JSON Schema Store catalog for JSON schema validation.", license = "MIT" }
 
 [elixir-lsp-elixir-ls]
@@ -10369,6 +10369,7 @@ passthru = { publisher = "foretag", name = "rust-toolkit", description = "", lic
 src.manual = "0.1.5" # foretag.frontend-toolkit
 fetch.url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix" # foretag.frontend-toolkit
 passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A collection of tools and extensions to enhance your frontend development experience.", license = "" }
+
 
 
 

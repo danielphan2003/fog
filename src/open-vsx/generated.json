@@ -28892,11 +28892,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ovoGZYY8EdyJS+ueRmWhAXDKEtd6eAoYUNMYCQOcg60=",
+            "sha256": "sha256-z6x/5bwT4mSTuGLlNGnKYjzV9nS4kbfZkIMN+nt/Nr0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.17/file/remcohaszing.schemastore-1.0.17.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.18/file/remcohaszing.schemastore-1.0.18.vsix"
         },
-        "version": "1.0.17"
+        "version": "1.0.18"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,

@@ -18243,10 +18243,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.17";
+    version = "1.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.17/file/remcohaszing.schemastore-1.0.17.vsix";
-      sha256 = "sha256-ovoGZYY8EdyJS+ueRmWhAXDKEtd6eAoYUNMYCQOcg60=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.18/file/remcohaszing.schemastore-1.0.18.vsix";
+      sha256 = "sha256-z6x/5bwT4mSTuGLlNGnKYjzV9nS4kbfZkIMN+nt/Nr0=";
     };
     license = "MIT";
     name = "schemastore";
