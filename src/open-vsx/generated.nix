@@ -1253,8 +1253,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -8319,10 +8319,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.111.3";
+    version = "0.111.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.111.3/file/dendron.nightly-0.111.3.vsix";
-      sha256 = "sha256-/sAHAANo6mNNlVK/VGKf1uG78nc9ovsDqFVBDEO2UQ4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.111.4/file/dendron.nightly-0.111.4.vsix";
+      sha256 = "sha256-Mn8jlpJbnhn281YWzzRXR1vgbGsmDVhl6vKgBVEikUI=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -14343,10 +14343,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.1.9";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.9/file/meshvoid.theme-meshvoid-1.1.9.vsix";
-      sha256 = "sha256-IvcCPf1BdF06mLBzepFUVPmcOW6uVpmlq32HX5sCS+E=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.0/file/meshvoid.theme-meshvoid-1.2.0.vsix";
+      sha256 = "sha256-ADgIla3j4kFjLB80V0xdaiEyE6ORMhfArpROYeaUYCk=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -24291,10 +24291,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

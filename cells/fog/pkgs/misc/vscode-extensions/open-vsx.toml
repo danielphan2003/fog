@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.111.3" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.111.3/file/dendron.nightly-0.111.3.vsix" # dendron.nightly
+src.manual = "0.111.4" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.111.4/file/dendron.nightly-0.111.4.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -10318,8 +10318,8 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 
 
 [meshvoid-theme-meshvoid]
-src.manual = "1.1.9" # meshvoid.theme-meshvoid
-fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.1.9/file/meshvoid.theme-meshvoid-1.1.9.vsix" # meshvoid.theme-meshvoid
+src.manual = "1.2.0" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.0/file/meshvoid.theme-meshvoid-1.2.0.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 
 
@@ -10369,6 +10369,7 @@ passthru = { publisher = "foretag", name = "rust-toolkit", description = "", lic
 src.manual = "0.1.5" # foretag.frontend-toolkit
 fetch.url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix" # foretag.frontend-toolkit
 passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A collection of tools and extensions to enhance your frontend development experience.", license = "" }
+
 
 
 
