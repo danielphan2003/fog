@@ -4464,6 +4464,25 @@
         },
         "version": "0.5.2"
     },
+    "NonSpicyBurrito-hoverlens": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "NonSpicyBurrito-hoverlens",
+        "passthru": {
+            "description": "Show hover information as end of line decoration.",
+            "license": "MIT",
+            "name": "hoverlens",
+            "publisher": "NonSpicyBurrito"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-FrGryaWjdlzU1grArQvOfP6Psu3YhMOeaLTE4hGaO2A=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/NonSpicyBurrito/hoverlens/1.0.0/file/NonSpicyBurrito.hoverlens-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "OBKoro1-autoCommit": {
         "cargoLocks": null,
         "extract": null,
@@ -16637,9 +16656,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -27866,11 +27885,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vbIXYRCEX8f0bEmG67f2/SoiWPoaE3/VmC1j4a5MFo4=",
+            "sha256": "sha256-BIW7EK+jbLlMi0GSSDtBOQWUW+DUHDD5AUyB4NpQWy8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.37.0/file/quarto.quarto-1.37.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.38.0/file/quarto.quarto-1.38.0.vsix"
         },
-        "version": "1.37.0"
+        "version": "1.38.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,
@@ -30678,11 +30697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -31153,11 +31172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EocgDyhuaOzvKtmuipFeNtT4ciXT2jhBruc5gS3vbZc=",
+            "sha256": "sha256-MwEMzSpmr/NeCxcnjCCFd0WEXCQwz3aHEs3+2bIOv/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/somebody1234/hoverlens/1.0.0/file/somebody1234.hoverlens-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/somebody1234/hoverlens/1.0.1/file/somebody1234.hoverlens-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "sorbet-sorbet-vscode-extension": {
         "cargoLocks": null,
@@ -38468,11 +38487,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

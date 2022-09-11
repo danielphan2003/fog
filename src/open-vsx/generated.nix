@@ -2821,6 +2821,18 @@
     description = "Solidity and Hardhat support for Visual Studio Code";
     publisher = "NomicFoundation";
   };
+  NonSpicyBurrito-hoverlens = {
+    pname = "NonSpicyBurrito-hoverlens";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/NonSpicyBurrito/hoverlens/1.0.0/file/NonSpicyBurrito.hoverlens-1.0.0.vsix";
+      sha256 = "sha256-FrGryaWjdlzU1grArQvOfP6Psu3YhMOeaLTE4hGaO2A=";
+    };
+    license = "MIT";
+    name = "hoverlens";
+    description = "Show hover information as end of line decoration.";
+    publisher = "NonSpicyBurrito";
+  };
   OBKoro1-autoCommit = {
     pname = "OBKoro1-autoCommit";
     version = "1.0.9";
@@ -10505,8 +10517,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -17595,10 +17607,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.37.0/file/quarto.quarto-1.37.0.vsix";
-      sha256 = "sha256-vbIXYRCEX8f0bEmG67f2/SoiWPoaE3/VmC1j4a5MFo4=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.38.0/file/quarto.quarto-1.38.0.vsix";
+      sha256 = "sha256-BIW7EK+jbLlMi0GSSDtBOQWUW+DUHDD5AUyB4NpQWy8=";
     };
     license = "MIT";
     name = "quarto";
@@ -19371,10 +19383,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19671,10 +19683,10 @@
   };
   somebody1234-hoverlens = {
     pname = "somebody1234-hoverlens";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/somebody1234/hoverlens/1.0.0/file/somebody1234.hoverlens-1.0.0.vsix";
-      sha256 = "sha256-EocgDyhuaOzvKtmuipFeNtT4ciXT2jhBruc5gS3vbZc=";
+      url = "https://open-vsx.org/api/somebody1234/hoverlens/1.0.1/file/somebody1234.hoverlens-1.0.1.vsix";
+      sha256 = "sha256-MwEMzSpmr/NeCxcnjCCFd0WEXCQwz3aHEs3+2bIOv/w=";
     };
     license = "MIT";
     name = "hoverlens";
@@ -24291,10 +24303,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
