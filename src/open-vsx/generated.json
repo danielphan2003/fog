@@ -2007,9 +2007,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -9892,11 +9892,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hxnPu3Ujq4HWG7gpmRSLq7hbamVaNWIGo8yX/FABW5A=",
+            "sha256": "sha256-7INJWFHThcRmwsNd/bHw01dbD3wvbXEuSzp3g7jbs54=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.299/file/betterthantomorrow.calva-2.0.299.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.300/file/betterthantomorrow.calva-2.0.300.vsix"
         },
-        "version": "2.0.299"
+        "version": "2.0.300"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -16504,11 +16504,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UoyTZM3ymku/NIkYLaid4PIi0HOyQrNLSOc3MJleNw8=",
+            "sha256": "sha256-73LlpA9WhFmOf/xmsc4VWCwksbOttImKc6IHkbGUBPw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.17.0/file/golf1052.base16-generator-1.17.0.vsix"
+            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.17.1/file/golf1052.base16-generator-1.17.1.vsix"
         },
-        "version": "1.17.0"
+        "version": "1.17.1"
     },
     "golf1052-code-sync": {
         "cargoLocks": null,
@@ -26118,11 +26118,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xOqln5Z/PucIY98X9fcksZ1WYRXpd/0vjHvW3ThRl1c=",
+            "sha256": "sha256-twBuYZgEFtvQ4ljaNm4QgxaPast0a9J+RBCN9ye7Feo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.7/file/openra.vscode-openra-lua-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.8/file/openra.vscode-openra-lua-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "openstax-editor": {
         "cargoLocks": null,
@@ -28987,11 +28987,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aR3BkTCoc/neBZiezfy1HzWXDbOzkKgq4rYzrR51aIg=",
+            "sha256": "sha256-JdxOKP5KvzofHvzqrLwnbxSV/KYmins4X7IC9NHCy8E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.1/file/rgherdt.scheme-lsp-0.3.1.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.2/file/rgherdt.scheme-lsp-0.3.2.vsix"
         },
-        "version": "0.3.1"
+        "version": "0.3.2"
     },
     "ria-elastic": {
         "cargoLocks": null,
@@ -38525,11 +38525,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

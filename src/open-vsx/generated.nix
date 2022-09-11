@@ -1265,8 +1265,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -6243,10 +6243,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.299";
+    version = "2.0.300";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.299/file/betterthantomorrow.calva-2.0.299.vsix";
-      sha256 = "sha256-hxnPu3Ujq4HWG7gpmRSLq7hbamVaNWIGo8yX/FABW5A=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.300/file/betterthantomorrow.calva-2.0.300.vsix";
+      sha256 = "sha256-7INJWFHThcRmwsNd/bHw01dbD3wvbXEuSzp3g7jbs54=";
     };
     license = "MIT";
     name = "calva";
@@ -10419,10 +10419,10 @@
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
-    version = "1.17.0";
+    version = "1.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golf1052/base16-generator/1.17.0/file/golf1052.base16-generator-1.17.0.vsix";
-      sha256 = "sha256-UoyTZM3ymku/NIkYLaid4PIi0HOyQrNLSOc3MJleNw8=";
+      url = "https://open-vsx.org/api/golf1052/base16-generator/1.17.1/file/golf1052.base16-generator-1.17.1.vsix";
+      sha256 = "sha256-73LlpA9WhFmOf/xmsc4VWCwksbOttImKc6IHkbGUBPw=";
     };
     license = "See license in LICENSE";
     name = "base16-generator";
@@ -16491,10 +16491,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.7/file/openra.vscode-openra-lua-0.0.7.vsix";
-      sha256 = "sha256-xOqln5Z/PucIY98X9fcksZ1WYRXpd/0vjHvW3ThRl1c=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.8/file/openra.vscode-openra-lua-0.0.8.vsix";
+      sha256 = "sha256-twBuYZgEFtvQ4ljaNm4QgxaPast0a9J+RBCN9ye7Feo=";
     };
     license = "GPL-3.0";
     name = "vscode-openra-lua";
@@ -18303,10 +18303,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.1/file/rgherdt.scheme-lsp-0.3.1.vsix";
-      sha256 = "sha256-aR3BkTCoc/neBZiezfy1HzWXDbOzkKgq4rYzrR51aIg=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.2/file/rgherdt.scheme-lsp-0.3.2.vsix";
+      sha256 = "sha256-JdxOKP5KvzofHvzqrLwnbxSV/KYmins4X7IC9NHCy8E=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -24327,10 +24327,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
