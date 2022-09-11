@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "06bfef8fd155fdf62e409c30cd1d68572f0c8b41";
+    version = "3f09afdee07c5aea33f6dc4194e1425d6400a0d7";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "06bfef8fd155fdf62e409c30cd1d68572f0c8b41";
+      rev = "3f09afdee07c5aea33f6dc4194e1425d6400a0d7";
       fetchSubmodules = false;
-      sha256 = "sha256-9jZuUOeIfDQF7YwFOxSREZGWaIR9qpyTtr+cEnMk3EI=";
+      sha256 = "sha256-NyP/kJlV1Ai7os3gMqukKMdRSQ78GAjPCJkZDZtDdeo=";
     });
   };
   asusctl = {
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "bca00f46a95ab4f7d62d0484f7018c3abbc40e56";
+    version = "0a2cca6e40f2fe5f2798f2fb81835fbcef576924";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "bca00f46a95ab4f7d62d0484f7018c3abbc40e56";
+      rev = "0a2cca6e40f2fe5f2798f2fb81835fbcef576924";
       fetchSubmodules = false;
-      sha256 = "sha256-Htq5mu0bIO2nyfUoHJgslC6hs5lVQNuPi12U/u5wJIo=";
+      sha256 = "sha256-Jy+qBcxXsd7Cq25hmCfhXopQ7QrljFlW31+lm+3SqVM=";
     });
   };
   cinny-bin = {
@@ -840,13 +840,13 @@
   };
   pure = {
     pname = "pure";
-    version = "a541114db20484968efd59337ed262a43394eb9a";
+    version = "e1ae401c1edac2e4bb9436a8aff50cead34e5659";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "a541114db20484968efd59337ed262a43394eb9a";
+      rev = "e1ae401c1edac2e4bb9436a8aff50cead34e5659";
       fetchSubmodules = false;
-      sha256 = "sha256-v3254A4T9BdViTC1APj/m0LHdf4K/lMOLjQTOU68cmU=";
+      sha256 = "sha256-vFms0MaSiLEzlYdgmUPGXaApTHVSVhwbw11N4GucgLg=";
     });
   };
   pythonPackages-cfscrape = {
