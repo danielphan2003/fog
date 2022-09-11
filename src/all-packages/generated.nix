@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "29ddcfa1f9ca253c50286126ae42d261f1ca29fc";
+    version = "bca00f46a95ab4f7d62d0484f7018c3abbc40e56";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "29ddcfa1f9ca253c50286126ae42d261f1ca29fc";
+      rev = "bca00f46a95ab4f7d62d0484f7018c3abbc40e56";
       fetchSubmodules = false;
-      sha256 = "sha256-w+SH2s031Noa1yS2KUGTKgVU1zg+wjA4NUKzW4EZwqE=";
+      sha256 = "sha256-Htq5mu0bIO2nyfUoHJgslC6hs5lVQNuPi12U/u5wJIo=";
     });
   };
   cinny-bin = {
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "2c58bde97efd11f0746f0ad7bb2e584e979f8657";
+    version = "ed2eddd6017580cbca249dcb12c9e086272288ce";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "2c58bde97efd11f0746f0ad7bb2e584e979f8657";
+      rev = "ed2eddd6017580cbca249dcb12c9e086272288ce";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-GMoPpAM9labG6HSS9XD//o3ialuV3lnSwGwAJYfPXgk=";
+      sha256 = "sha256-9sGm9y1Vzxj1tCXhsH4M4TzKGbB0hmM4AaH1PjY1slo=";
     };
   };
   flyingfox = {

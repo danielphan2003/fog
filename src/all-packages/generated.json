@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "29ddcfa1f9ca253c50286126ae42d261f1ca29fc",
-            "sha256": "sha256-w+SH2s031Noa1yS2KUGTKgVU1zg+wjA4NUKzW4EZwqE=",
+            "rev": "bca00f46a95ab4f7d62d0484f7018c3abbc40e56",
+            "sha256": "sha256-Htq5mu0bIO2nyfUoHJgslC6hs5lVQNuPi12U/u5wJIo=",
             "type": "github"
         },
-        "version": "29ddcfa1f9ca253c50286126ae42d261f1ca29fc"
+        "version": "bca00f46a95ab4f7d62d0484f7018c3abbc40e56"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2c58bde97efd11f0746f0ad7bb2e584e979f8657",
-            "sha256": "sha256-GMoPpAM9labG6HSS9XD//o3ialuV3lnSwGwAJYfPXgk=",
+            "rev": "ed2eddd6017580cbca249dcb12c9e086272288ce",
+            "sha256": "sha256-9sGm9y1Vzxj1tCXhsH4M4TzKGbB0hmM4AaH1PjY1slo=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "2c58bde97efd11f0746f0ad7bb2e584e979f8657"
+        "version": "ed2eddd6017580cbca249dcb12c9e086272288ce"
     },
     "flyingfox": {
         "cargoLocks": null,
