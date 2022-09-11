@@ -7779,10 +7779,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.7.10";
+    version = "5.7.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.10/file/cweijan.vscode-mysql-client2-5.7.10.vsix";
-      sha256 = "sha256-IAKhxB0ykFTjDNsh+2jxb66S5JsddPo/CIK8aCbVXiQ=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.11/file/cweijan.vscode-mysql-client2-5.7.11.vsix";
+      sha256 = "sha256-FLIjdDHyyDN3If9DPXA19kgjtNKySwyQMJwKhI+EEtk=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -11499,10 +11499,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.32";
+    version = "0.14.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.32/file/iljapostnovs.ui5plugin-0.14.32.vsix";
-      sha256 = "sha256-WC3MBeMAK6dAP5273Tv849AnVskH3P9wo+KvJxO/lCg=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.33/file/iljapostnovs.ui5plugin-0.14.33.vsix";
+      sha256 = "sha256-BAG2HaQmGeS4VOsCfEcRln88XFkKP/1kwGmLOfGZPYg=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -24027,10 +24027,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.5/file/zardoy.npm-rapid-ready-0.2.5.vsix";
-      sha256 = "sha256-JDLfUKuG3SjRTWbdFjfZorXMa+8zj8F/K6gJvnroxOI=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.6/file/zardoy.npm-rapid-ready-0.2.6.vsix";
+      sha256 = "sha256-rO46hFJwYhzm9M+i+fm4m3WAch5VuIViwd4c5z3FXJk=";
     };
     license = "MIT";
     name = "npm-rapid-ready";
@@ -24111,10 +24111,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.87";
+    version = "0.0.88";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.87/file/zardoy.zardoy-experiments-0.0.87.vsix";
-      sha256 = "sha256-SQUdi++vQBEqYSnWmHFMg7PgSdB+yXN2ERGHjspdm7Y=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.88/file/zardoy.zardoy-experiments-0.0.88.vsix";
+      sha256 = "sha256-IX2jMQe/exVNxv0nUVuZQmHPeVIiyb4iHjowdHWWll0=";
     };
     license = "MIT";
     name = "zardoy-experiments";

@@ -4770,8 +4770,8 @@ fetch.url = "https://open-vsx.org/api/nrwl/angular-console/17.21.0/file/nrwl.ang
 passthru = { publisher = "nrwl", name = "angular-console", description = "Nx Console for Visual Studio Code", license = "MIT" }
 
 [zardoy-npm-rapid-ready]
-src.manual = "0.2.5" # zardoy.npm-rapid-ready
-fetch.url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.5/file/zardoy.npm-rapid-ready-0.2.5.vsix" # zardoy.npm-rapid-ready
+src.manual = "0.2.6" # zardoy.npm-rapid-ready
+fetch.url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.6/file/zardoy.npm-rapid-ready-0.2.6.vsix" # zardoy.npm-rapid-ready
 passthru = { publisher = "zardoy", name = "npm-rapid-ready", description = "Full-featured extension for npm ecosystem", license = "MIT" }
 
 [cloudstudio-deploykit]
@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.87" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.87/file/zardoy.zardoy-experiments-0.0.87.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.88" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.88/file/zardoy.zardoy-experiments-0.0.88.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -9235,8 +9235,8 @@ fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.
 passthru = { publisher = "halcyontechltd", name = "vscode-ibmi-walkthroughs", description = "Adds walkthroughs for IBM i development in VS Code", license = "Apache-2.0" }
 
 [iljapostnovs-ui5plugin]
-src.manual = "0.14.32" # iljapostnovs.ui5plugin
-fetch.url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.32/file/iljapostnovs.ui5plugin-0.14.32.vsix" # iljapostnovs.ui5plugin
+src.manual = "0.14.33" # iljapostnovs.ui5plugin
+fetch.url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.33/file/iljapostnovs.ui5plugin-0.14.33.vsix" # iljapostnovs.ui5plugin
 passthru = { publisher = "iljapostnovs", name = "ui5plugin", description = "Extension for working with UI5 projects", license = "Apache-2.0" }
 
 [mgesbert-python-path]
@@ -9945,8 +9945,8 @@ fetch.url = "https://open-vsx.org/api/Dart-Code/dart-code/3.48.0/file/Dart-Code.
 passthru = { publisher = "Dart-Code", name = "dart-code", description = "Dart language support and debugger for Visual Studio Code.", license = "MIT" }
 
 [cweijan-vscode-mysql-client2]
-src.manual = "5.7.10" # cweijan.vscode-mysql-client2
-fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.10/file/cweijan.vscode-mysql-client2-5.7.10.vsix" # cweijan.vscode-mysql-client2
+src.manual = "5.7.11" # cweijan.vscode-mysql-client2
+fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.11/file/cweijan.vscode-mysql-client2-5.7.11.vsix" # cweijan.vscode-mysql-client2
 passthru = { publisher = "cweijan", name = "vscode-mysql-client2", description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.", license = "MIT" }
 
 [redhat-vscode-xml]
@@ -10395,6 +10395,7 @@ passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A 
 src.manual = "1.0.0" # NonSpicyBurrito.hoverlens
 fetch.url = "https://open-vsx.org/api/NonSpicyBurrito/hoverlens/1.0.0/file/NonSpicyBurrito.hoverlens-1.0.0.vsix" # NonSpicyBurrito.hoverlens
 passthru = { publisher = "NonSpicyBurrito", name = "hoverlens", description = "Show hover information as end of line decoration.", license = "MIT" }
+
 
 
 
