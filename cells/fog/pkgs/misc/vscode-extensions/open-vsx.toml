@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9875,8 +9875,8 @@ fetch.url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.2/fil
 passthru = { publisher = "NomicFoundation", name = "hardhat-solidity", description = "Solidity and Hardhat support for Visual Studio Code", license = "MIT" }
 
 [shufo-vscode-blade-formatter]
-src.manual = "0.17.4" # shufo.vscode-blade-formatter
-fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.4/file/shufo.vscode-blade-formatter-0.17.4.vsix" # shufo.vscode-blade-formatter
+src.manual = "0.17.5" # shufo.vscode-blade-formatter
+fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.5/file/shufo.vscode-blade-formatter-0.17.5.vsix" # shufo.vscode-blade-formatter
 passthru = { publisher = "shufo", name = "vscode-blade-formatter", description = "Laravel Blade formatter for VSCode", license = "MIT" }
 
 [Catppuccin-catppuccin-vsc]
@@ -10413,5 +10413,6 @@ passthru = { publisher = "Discloud", name = "discloud", description = "Somos uma
 src.manual = "1.8.0" # dtoplak.vscode-glsllint
 fetch.url = "https://open-vsx.org/api/dtoplak/vscode-glsllint/1.8.0/file/dtoplak.vscode-glsllint-1.8.0.vsix" # dtoplak.vscode-glsllint
 passthru = { publisher = "dtoplak", name = "vscode-glsllint", description = "Linting of GLSL shader code", license = "MIT" }
+
 
 
