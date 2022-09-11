@@ -21495,10 +21495,10 @@
   };
   usernamehw-find-jump = {
     pname = "usernamehw-find-jump";
-    version = "0.6.2";
+    version = "0.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/find-jump/0.6.2/file/usernamehw.find-jump-0.6.2.vsix";
-      sha256 = "sha256-D8Oy8oz61523Pu3qyOwx2vEI5N7lwUOstLuFLD1/O1E=";
+      url = "https://open-vsx.org/api/usernamehw/find-jump/0.6.3/file/usernamehw.find-jump-0.6.3.vsix";
+      sha256 = "sha256-5GqFlAMkxFT0lua7s/V7hfApAhU7oHkpF9F0EY0UHcY=";
     };
     license = "MIT";
     name = "find-jump";

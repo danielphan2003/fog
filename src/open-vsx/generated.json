@@ -34041,11 +34041,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-D8Oy8oz61523Pu3qyOwx2vEI5N7lwUOstLuFLD1/O1E=",
+            "sha256": "sha256-5GqFlAMkxFT0lua7s/V7hfApAhU7oHkpF9F0EY0UHcY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/find-jump/0.6.2/file/usernamehw.find-jump-0.6.2.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/find-jump/0.6.3/file/usernamehw.find-jump-0.6.3.vsix"
         },
-        "version": "0.6.2"
+        "version": "0.6.3"
     },
     "usernamehw-indent-one-space": {
         "cargoLocks": null,

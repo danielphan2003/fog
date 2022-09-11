@@ -5800,8 +5800,8 @@ fetch.url = "https://open-vsx.org/api/teros-technology/teroshdl/2.0.2/file/teros
 passthru = { publisher = "teros-technology", name = "teroshdl", description = "Powerful IDE for ASIC/FPGA: state machine viewer, linter, documentation, snippets... and more! ", license = "GPL-3.0" }
 
 [usernamehw-find-jump]
-src.manual = "0.6.2" # usernamehw.find-jump
-fetch.url = "https://open-vsx.org/api/usernamehw/find-jump/0.6.2/file/usernamehw.find-jump-0.6.2.vsix" # usernamehw.find-jump
+src.manual = "0.6.3" # usernamehw.find-jump
+fetch.url = "https://open-vsx.org/api/usernamehw/find-jump/0.6.3/file/usernamehw.find-jump-0.6.3.vsix" # usernamehw.find-jump
 passthru = { publisher = "usernamehw", name = "find-jump", description = "Like Ace Jump, but better. Quickly move cursor to visible location", license = "MIT" }
 
 [puppet-puppet-vscode]
@@ -10395,5 +10395,6 @@ passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A 
 src.manual = "1.0.0" # NonSpicyBurrito.hoverlens
 fetch.url = "https://open-vsx.org/api/NonSpicyBurrito/hoverlens/1.0.0/file/NonSpicyBurrito.hoverlens-1.0.0.vsix" # NonSpicyBurrito.hoverlens
 passthru = { publisher = "NonSpicyBurrito", name = "hoverlens", description = "Show hover information as end of line decoration.", license = "MIT" }
+
 
 
