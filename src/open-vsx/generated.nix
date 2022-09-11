@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -867,10 +867,10 @@
   };
   Discloud-discloud = {
     pname = "Discloud-discloud";
-    version = "0.0.1";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Discloud/discloud/0.0.1/file/Discloud.discloud-0.0.1.vsix";
-      sha256 = "sha256-5dDP2XHZHg934j8WvI4bhBgj+P3R9fyKrlu6GsfhYdI=";
+      url = "https://open-vsx.org/api/Discloud/discloud/1.0.0/file/Discloud.discloud-1.0.0.vsix";
+      sha256 = "sha256-HUyv8z535iN/TEycb+2P52ZgOYMu7zo7YbbW6v5lSi8=";
     };
     license = "Apache-2.0";
     name = "discloud";
@@ -8688,6 +8688,18 @@
     name = "es7-react-js-snippets";
     description = "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.";
     publisher = "dsznajder";
+  };
+  dtoplak-vscode-glsllint = {
+    pname = "dtoplak-vscode-glsllint";
+    version = "1.8.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dtoplak/vscode-glsllint/1.8.0/file/dtoplak.vscode-glsllint-1.8.0.vsix";
+      sha256 = "sha256-imB+S7N6TIuyhMw/tfLdtGnLTgLv6BL9IAxKrOzICj8=";
+    };
+    license = "MIT";
+    name = "vscode-glsllint";
+    description = "Linting of GLSL shader code";
+    publisher = "dtoplak";
   };
   dtsf-octal-back-provider = {
     pname = "dtsf-octal-back-provider";
@@ -18951,10 +18963,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.20.1";
+    version = "1.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.1/file/sasjs.sasjs-for-vscode-1.20.1.vsix";
-      sha256 = "sha256-Pwg3dXScxazIIJ8rNaUhl5K5JBvV3iJDwkSTcmP1LB8=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.21.0/file/sasjs.sasjs-for-vscode-1.21.0.vsix";
+      sha256 = "sha256-64Be2kYWyDImMU0mCeCz7BroYEHHoTfmwA3Ft2+yqhs=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";
@@ -21399,10 +21411,10 @@
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.8.0/file/ultram4rine.vscode-choosealicense-0.8.0.vsix";
-      sha256 = "sha256-iZFpBRHM6jpJtgbOQN06Hqiudf+eruDInx3KwKN9jI8=";
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.9.0/file/ultram4rine.vscode-choosealicense-0.9.0.vsix";
+      sha256 = "sha256-m60comJWcMEtWzf4y5o33/4I0nGiko4pXHC7YufoKY0=";
     };
     license = "MIT";
     name = "vscode-choosealicense";

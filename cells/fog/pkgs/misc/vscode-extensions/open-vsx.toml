@@ -8565,8 +8565,8 @@ fetch.url = "https://open-vsx.org/api/robocorp/robocorp-code/0.36.0/file/robocor
 passthru = { publisher = "robocorp", name = "robocorp-code", description = "Extension for Robot development in VSCode using Robocorp", license = "" }
 
 [ultram4rine-vscode-choosealicense]
-src.manual = "0.8.0" # ultram4rine.vscode-choosealicense
-fetch.url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.8.0/file/ultram4rine.vscode-choosealicense-0.8.0.vsix" # ultram4rine.vscode-choosealicense
+src.manual = "0.9.0" # ultram4rine.vscode-choosealicense
+fetch.url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.9.0/file/ultram4rine.vscode-choosealicense-0.9.0.vsix" # ultram4rine.vscode-choosealicense
 passthru = { publisher = "ultram4rine", name = "vscode-choosealicense", description = "Choose a license for your project in VS Code", license = "MIT" }
 
 [BillDietrich-linkcheckerhtml]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9855,8 +9855,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
 [sasjs-sasjs-for-vscode]
-src.manual = "1.20.1" # sasjs.sasjs-for-vscode
-fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.20.1/file/sasjs.sasjs-for-vscode-1.20.1.vsix" # sasjs.sasjs-for-vscode
+src.manual = "1.21.0" # sasjs.sasjs-for-vscode
+fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.21.0/file/sasjs.sasjs-for-vscode-1.21.0.vsix" # sasjs.sasjs-for-vscode
 passthru = { publisher = "sasjs", name = "sasjs-for-vscode", description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting", license = "MIT" }
 
 [betterthantomorrow-joyride]
@@ -10404,7 +10404,13 @@ passthru = { publisher = "NonSpicyBurrito", name = "hoverlens", description = "S
 
 
 [Discloud-discloud]
-src.manual = "0.0.1" # Discloud.discloud
-fetch.url = "https://open-vsx.org/api/Discloud/discloud/0.0.1/file/Discloud.discloud-0.0.1.vsix" # Discloud.discloud
+src.manual = "1.0.0" # Discloud.discloud
+fetch.url = "https://open-vsx.org/api/Discloud/discloud/1.0.0/file/Discloud.discloud-1.0.0.vsix" # Discloud.discloud
 passthru = { publisher = "Discloud", name = "discloud", description = "Somos uma plataforma de nuvem baseada em contêiner que nasceu com a vontade de oferecer hospedagem fácil, rápida, gratuita e de qualidade.", license = "Apache-2.0" }
+
+
+[dtoplak-vscode-glsllint]
+src.manual = "1.8.0" # dtoplak.vscode-glsllint
+fetch.url = "https://open-vsx.org/api/dtoplak/vscode-glsllint/1.8.0/file/dtoplak.vscode-glsllint-1.8.0.vsix" # dtoplak.vscode-glsllint
+passthru = { publisher = "dtoplak", name = "vscode-glsllint", description = "Linting of GLSL shader code", license = "MIT" }
 
