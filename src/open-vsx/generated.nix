@@ -865,6 +865,18 @@
     description = "2019 - EJS language support for Visual Studio Code.";
     publisher = "DigitalBrainstem";
   };
+  Discloud-discloud = {
+    pname = "Discloud-discloud";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Discloud/discloud/0.0.1/file/Discloud.discloud-0.0.1.vsix";
+      sha256 = "sha256-5dDP2XHZHg934j8WvI4bhBgj+P3R9fyKrlu6GsfhYdI=";
+    };
+    license = "Apache-2.0";
+    name = "discloud";
+    description = "Somos uma plataforma de nuvem baseada em cont\234iner que nasceu com a vontade de oferecer hospedagem f\225cil, r\225pida, gratuita e de qualidade.";
+    publisher = "Discloud";
+  };
   Divlo-vscode-styled-jsx-languageserver = {
     pname = "Divlo-vscode-styled-jsx-languageserver";
     version = "1.3.1";
@@ -13299,10 +13311,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";

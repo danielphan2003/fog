@@ -1367,6 +1367,25 @@
         },
         "version": "1.3.1"
     },
+    "Discloud-discloud": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Discloud-discloud",
+        "passthru": {
+            "description": "Somos uma plataforma de nuvem baseada em contÃªiner que nasceu com a vontade de oferecer hospedagem fÃ¡cil, rÃ¡pida, gratuita e de qualidade.",
+            "license": "Apache-2.0",
+            "name": "discloud",
+            "publisher": "Discloud"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-5dDP2XHZHg934j8WvI4bhBgj+P3R9fyKrlu6GsfhYdI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Discloud/discloud/0.0.1/file/Discloud.discloud-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "Divlo-vscode-styled-jsx-languageserver": {
         "cargoLocks": null,
         "extract": null,
@@ -21064,11 +21083,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
