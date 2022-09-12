@@ -4765,8 +4765,8 @@ fetch.url = "https://open-vsx.org/api/emeraldwalk/RunOnSave/0.1.0/file/emeraldwa
 passthru = { publisher = "emeraldwalk", name = "RunOnSave", description = "Run commands when a file is saved in vscode.", license = "Apache-2.0" }
 
 [nrwl-angular-console]
-src.manual = "17.21.0" # nrwl.angular-console
-fetch.url = "https://open-vsx.org/api/nrwl/angular-console/17.21.0/file/nrwl.angular-console-17.21.0.vsix" # nrwl.angular-console
+src.manual = "17.22.0" # nrwl.angular-console
+fetch.url = "https://open-vsx.org/api/nrwl/angular-console/17.22.0/file/nrwl.angular-console-17.22.0.vsix" # nrwl.angular-console
 passthru = { publisher = "nrwl", name = "angular-console", description = "Nx Console for Visual Studio Code", license = "MIT" }
 
 [zardoy-npm-rapid-ready]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -10429,4 +10429,5 @@ passthru = { publisher = "dtoplak", name = "vscode-glsllint", description = "Lin
 src.manual = "1.0.1" # pajoma.vscode-journal
 fetch.url = "https://open-vsx.org/api/pajoma/vscode-journal/1.0.1/file/pajoma.vscode-journal-1.0.1.vsix" # pajoma.vscode-journal
 passthru = { publisher = "pajoma", name = "vscode-journal", description = "Lightweight journal and simple notes support for Visual Studio Code", license = "GPL-3.0-or-later" }
+
 

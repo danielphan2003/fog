@@ -1265,8 +1265,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -16227,10 +16227,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.21.0";
+    version = "17.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.21.0/file/nrwl.angular-console-17.21.0.vsix";
-      sha256 = "sha256-vwAvykktm4VTuA8MMB08QDRFbCZqK/mnlkf38/F/YJY=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.22.0/file/nrwl.angular-console-17.22.0.vsix";
+      sha256 = "sha256-BvQMZB4983FyqtNVoMYENBR1ifiY/ZLyQ9UJaN8gThE=";
     };
     license = "MIT";
     name = "angular-console";
@@ -24339,10 +24339,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
