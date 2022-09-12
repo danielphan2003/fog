@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c5df7bb6bd99b44ef0c0d70ca4988524f52730f3";
+    version = "9fe4f93bc7afd92f9e98749006aab7f0dd45562c";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c5df7bb6bd99b44ef0c0d70ca4988524f52730f3";
+      rev = "9fe4f93bc7afd92f9e98749006aab7f0dd45562c";
       fetchSubmodules = false;
-      sha256 = "sha256-UTh1iVtN8V06jDrpTV7F3pQKLQdQdpWNawSlK0XXThE=";
+      sha256 = "sha256-v5MXlEfS3n02ewoPFFhKhzSr32qlKKtSzfFnSnoStJo=";
     });
   };
   cinny = {
@@ -632,13 +632,13 @@
   };
   mapcidr = {
     pname = "mapcidr";
-    version = "v1.0.1";
+    version = "v1.0.2";
     src = fetchFromGitHub ({
       owner = "projectdiscovery";
       repo = "mapcidr";
-      rev = "v1.0.1";
+      rev = "v1.0.2";
       fetchSubmodules = false;
-      sha256 = "sha256-lSAA1lWHGQr1tguBdBePdkN+CNKkxmLweI6oqzzOG6A=";
+      sha256 = "sha256-qfEm+DFnTmGwHV7Sb488qFmjT+7QSCmbT4n5JhtDo5g=";
     });
   };
   matrix-appservice-discord = {
@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f4ac96ebdcaa9f50fbc1f2672e716698c005c888";
+    version = "baa7e6c1a61a89660300187f9a570053083c60b9";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f4ac96ebdcaa9f50fbc1f2672e716698c005c888";
+      rev = "baa7e6c1a61a89660300187f9a570053083c60b9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lOBQwuvozczEnmr20gDc/CfmYZcRSYyVGVOCN0OGYrE=";
+      sha256 = "sha256-acM7aEWiMUbaRqjbA2CZcNxJXMJ/tzzlODVxbeXswvY=";
     };
   };
   spicetify-cli = {

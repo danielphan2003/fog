@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "c5df7bb6bd99b44ef0c0d70ca4988524f52730f3",
-            "sha256": "sha256-UTh1iVtN8V06jDrpTV7F3pQKLQdQdpWNawSlK0XXThE=",
+            "rev": "9fe4f93bc7afd92f9e98749006aab7f0dd45562c",
+            "sha256": "sha256-v5MXlEfS3n02ewoPFFhKhzSr32qlKKtSzfFnSnoStJo=",
             "type": "github"
         },
-        "version": "c5df7bb6bd99b44ef0c0d70ca4988524f52730f3"
+        "version": "9fe4f93bc7afd92f9e98749006aab7f0dd45562c"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1060,11 +1060,11 @@
             "name": null,
             "owner": "projectdiscovery",
             "repo": "mapcidr",
-            "rev": "v1.0.1",
-            "sha256": "sha256-lSAA1lWHGQr1tguBdBePdkN+CNKkxmLweI6oqzzOG6A=",
+            "rev": "v1.0.2",
+            "sha256": "sha256-qfEm+DFnTmGwHV7Sb488qFmjT+7QSCmbT4n5JhtDo5g=",
             "type": "github"
         },
-        "version": "v1.0.1"
+        "version": "v1.0.2"
     },
     "matrix-appservice-discord": {
         "cargoLocks": null,
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f4ac96ebdcaa9f50fbc1f2672e716698c005c888",
-            "sha256": "sha256-lOBQwuvozczEnmr20gDc/CfmYZcRSYyVGVOCN0OGYrE=",
+            "rev": "baa7e6c1a61a89660300187f9a570053083c60b9",
+            "sha256": "sha256-acM7aEWiMUbaRqjbA2CZcNxJXMJ/tzzlODVxbeXswvY=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f4ac96ebdcaa9f50fbc1f2672e716698c005c888"
+        "version": "baa7e6c1a61a89660300187f9a570053083c60b9"
     },
     "spicetify-cli": {
         "cargoLocks": null,
