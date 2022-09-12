@@ -10517,8 +10517,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -24087,10 +24087,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.12/file/zardoy.ts-essential-plugins-0.0.12.vsix";
-      sha256 = "sha256-fkB7XXXHnvnIdsee9ji5Qu/KXDx0lIEYiiH6LNYyUhQ=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.13/file/zardoy.ts-essential-plugins-0.0.13.vsix";
+      sha256 = "sha256-AO1KdFZqhoz1sL9TErxhrScVDi9TZI1rXNhTb4oOAJM=";
     };
     license = "MIT";
     name = "ts-essential-plugins";
