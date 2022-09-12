@@ -10529,8 +10529,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -17247,10 +17247,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.429";
+    version = "0.26.430";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.429/file/pokey.cursorless-0.26.429.vsix";
-      sha256 = "sha256-8qZVekrSLhkvzzUMBBM3vUQn5PbDCy1QF3fcrSuhWSI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.430/file/pokey.cursorless-0.26.430.vsix";
+      sha256 = "sha256-2B5pVbqCpVLlsoNNHKo/ycnj6vm3Zg67ad3QxJznTaQ=";
     };
     license = "MIT";
     name = "cursorless";
