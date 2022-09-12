@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -3147,10 +3147,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1400";
+    version = "31.0.1401";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1400/file/Prisma.prisma-insider-31.0.1400.vsix";
-      sha256 = "sha256-xhbSXUiMkAyHGUW1eGZOzxiIyPZVPX6FemjHXxr5TP8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1401/file/Prisma.prisma-insider-31.0.1401.vsix";
+      sha256 = "sha256-Q6BU+CJtFDb5uY1+RR72yyFI/8xoubzQZlvSFzrwvtY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13011,10 +13011,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13323,10 +13323,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -16657,6 +16657,18 @@
     description = "Extension to manage your Databricks workspace and ease local development";
     publisher = "paiqo";
   };
+  pajoma-vscode-journal = {
+    pname = "pajoma-vscode-journal";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pajoma/vscode-journal/1.0.1/file/pajoma.vscode-journal-1.0.1.vsix";
+      sha256 = "sha256-hik180IV/7853dAoCL6dS2nATHDqDXkcpeqQcvIIJis=";
+    };
+    license = "GPL-3.0-or-later";
+    name = "vscode-journal";
+    description = "Lightweight journal and simple notes support for Visual Studio Code";
+    publisher = "pajoma";
+  };
   panaeon-vscode-dhall-lsp-server = {
     pname = "panaeon-vscode-dhall-lsp-server";
     version = "0.0.4";
@@ -17247,10 +17259,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.432";
+    version = "0.26.433";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.432/file/pokey.cursorless-0.26.432.vsix";
-      sha256 = "sha256-TUQ6jiZYCMAjm+IbmofIZvs9vESNicSzKkAo7pasd0E=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.433/file/pokey.cursorless-0.26.433.vsix";
+      sha256 = "sha256-axs2ubJPj5yMayQMz0kF1NSqqMjHWTfpcEAtF+LukeM=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19865,8 +19877,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
