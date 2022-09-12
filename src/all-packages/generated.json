@@ -111,11 +111,11 @@
             "name": null,
             "owner": "anime-dl",
             "repo": "anime-downloader",
-            "rev": "941eef9d5435b38775911d5c773a7dfda8adfea8",
-            "sha256": "sha256-k9zwrmXRG93BVExtJkZe7w8H1oOiI2aAHEkllqsv2jw=",
+            "rev": "24de83d4ef392e17f39710cc9054ff90e3602533",
+            "sha256": "sha256-yS3lkmoqVNORG+H6x95mt68N8wh8X5/gji1fAl1RPqg=",
             "type": "github"
         },
-        "version": "941eef9d5435b38775911d5c773a7dfda8adfea8"
+        "version": "24de83d4ef392e17f39710cc9054ff90e3602533"
     },
     "any-nix-shell": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-de1c7b96b197b8c6c434a59935a58692f91b4a22/Cargo.lock",
+                "./rustdesk-d939a5ebc66cbbfa81f536e64fe869cf7c50e891/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "de1c7b96b197b8c6c434a59935a58692f91b4a22",
-            "sha256": "sha256-QQSN/ms3EpWbAawmIwfqqLxN/VqkUrsuBARInJpQIas=",
+            "rev": "d939a5ebc66cbbfa81f536e64fe869cf7c50e891",
+            "sha256": "sha256-2NkLfqR+iIvLOyURTRcFoq2M+/at154TbSEEyR2vKow=",
             "type": "github"
         },
-        "version": "de1c7b96b197b8c6c434a59935a58692f91b4a22"
+        "version": "d939a5ebc66cbbfa81f536e64fe869cf7c50e891"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f631e74c564cbef1d2b7503b2184f579521fe144",
-            "sha256": "sha256-kQPT83h1Bn/D5OzxTE3skhrad4wl8Sb58WyS62NPcHc=",
+            "rev": "749bf7c46d08aee5fac79cda142c5a03c541e316",
+            "sha256": "sha256-D5b7gWLR9J1kTLVSOdqZKVZYGIVsyJtCqYOdt1DxfvU=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f631e74c564cbef1d2b7503b2184f579521fe144"
+        "version": "749bf7c46d08aee5fac79cda142c5a03c541e316"
     },
     "spicetify-cli": {
         "cargoLocks": null,

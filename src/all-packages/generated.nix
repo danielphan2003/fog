@@ -63,13 +63,13 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "941eef9d5435b38775911d5c773a7dfda8adfea8";
+    version = "24de83d4ef392e17f39710cc9054ff90e3602533";
     src = fetchFromGitHub ({
       owner = "anime-dl";
       repo = "anime-downloader";
-      rev = "941eef9d5435b38775911d5c773a7dfda8adfea8";
+      rev = "24de83d4ef392e17f39710cc9054ff90e3602533";
       fetchSubmodules = false;
-      sha256 = "sha256-k9zwrmXRG93BVExtJkZe7w8H1oOiI2aAHEkllqsv2jw=";
+      sha256 = "sha256-yS3lkmoqVNORG+H6x95mt68N8wh8X5/gji1fAl1RPqg=";
     });
   };
   any-nix-shell = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "de1c7b96b197b8c6c434a59935a58692f91b4a22";
+    version = "d939a5ebc66cbbfa81f536e64fe869cf7c50e891";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "de1c7b96b197b8c6c434a59935a58692f91b4a22";
+      rev = "d939a5ebc66cbbfa81f536e64fe869cf7c50e891";
       fetchSubmodules = false;
-      sha256 = "sha256-QQSN/ms3EpWbAawmIwfqqLxN/VqkUrsuBARInJpQIas=";
+      sha256 = "sha256-2NkLfqR+iIvLOyURTRcFoq2M+/at154TbSEEyR2vKow=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-de1c7b96b197b8c6c434a59935a58692f91b4a22/Cargo.lock;
+      lockFile = ./rustdesk-d939a5ebc66cbbfa81f536e64fe869cf7c50e891/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f631e74c564cbef1d2b7503b2184f579521fe144";
+    version = "749bf7c46d08aee5fac79cda142c5a03c541e316";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f631e74c564cbef1d2b7503b2184f579521fe144";
+      rev = "749bf7c46d08aee5fac79cda142c5a03c541e316";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-kQPT83h1Bn/D5OzxTE3skhrad4wl8Sb58WyS62NPcHc=";
+      sha256 = "sha256-D5b7gWLR9J1kTLVSOdqZKVZYGIVsyJtCqYOdt1DxfvU=";
     };
   };
   spicetify-cli = {
