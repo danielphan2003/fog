@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "d0e38d69d35a6bc42b55bc6cb817737ec02b5db9";
+    version = "90b87816e1ce632d7fc18f1291cd74730ba3d73f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "d0e38d69d35a6bc42b55bc6cb817737ec02b5db9";
+      rev = "90b87816e1ce632d7fc18f1291cd74730ba3d73f";
       fetchSubmodules = false;
-      sha256 = "sha256-6k7qIOX0vI4eUZccVxFWIVaec4E6yskWqDzFlZPtbao=";
+      sha256 = "sha256-Fyzwpr91cRXKRwsx/Hi48wpDcd/12+TlGoAvZRG9JGo=";
     });
   };
   caddy = {
@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "1baa41a9816b7ebe39f751ff4cb4945a52e16ef6";
+    version = "f76468bfd93ffe2166153cbfd5780831873bb442";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "1baa41a9816b7ebe39f751ff4cb4945a52e16ef6";
+      rev = "f76468bfd93ffe2166153cbfd5780831873bb442";
       fetchSubmodules = false;
-      sha256 = "sha256-VYJtyUxLL1kkH6L5/VJzmJWQ7Pf+Dc1TsFgTzcXSANE=";
+      sha256 = "sha256-Nl2eAD9XPTJSp28QE7ifcB9MJKfl1zerl2T9vfHP8tQ=";
     });
   };
   godu = {
@@ -840,13 +840,13 @@
   };
   pure = {
     pname = "pure";
-    version = "e1ae401c1edac2e4bb9436a8aff50cead34e5659";
+    version = "a2a03a81fff889f2865b673344e90d84eb125c39";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "e1ae401c1edac2e4bb9436a8aff50cead34e5659";
+      rev = "a2a03a81fff889f2865b673344e90d84eb125c39";
       fetchSubmodules = false;
-      sha256 = "sha256-vFms0MaSiLEzlYdgmUPGXaApTHVSVhwbw11N4GucgLg=";
+      sha256 = "sha256-LhaW01O+NAWQ+VbLupOR06WMG8Zk3EjnkEXZtMsWjnU=";
     });
   };
   pythonPackages-cfscrape = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "75757d7d027dc4694a383239ce841af3c2f2bab7";
+    version = "911308327dc1f06531575f9f606b21a0a25ac38a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "75757d7d027dc4694a383239ce841af3c2f2bab7";
+      rev = "911308327dc1f06531575f9f606b21a0a25ac38a";
       fetchSubmodules = false;
-      sha256 = "sha256-kbtgL3wHRbS0KpAnPZFulSW9RDGjnlV6KvgIlIE/1eY=";
+      sha256 = "sha256-CJHdwqfF+vAApea+BxpdtE9z7xr/0podA5iSYMt5m1M=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.52.2";
+    version = "2.52.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.52.2/revanced-patches-2.52.2.jar";
-      sha256 = "sha256-Ix0OX6XLqxywMfbuUGKbkhOmFYC2fJtrqEfReuivT10=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.52.3/revanced-patches-2.52.3.jar";
+      sha256 = "sha256-AhOGH+WrMLQu7++Y6NpBNOgAQE9ftqAHM4l2XUHInU0=";
     };
   };
   rofi-wayland = {
