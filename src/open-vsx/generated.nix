@@ -11751,10 +11751,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.1";
+    version = "0.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.1/file/iterative.dvc-0.4.1.vsix";
-      sha256 = "sha256-+5Hq7kGyranqc5UKRXkQlQzVJqsJwH3lSYSfcMek/rg=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.2/file/iterative.dvc-0.4.2.vsix";
+      sha256 = "sha256-tnrIMXpscbToheS1qZN+0cQAvaE7mliiHsoJLM+wAdE=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -17247,10 +17247,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.427";
+    version = "0.26.428";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.427/file/pokey.cursorless-0.26.427.vsix";
-      sha256 = "sha256-BTUfG3ZmyejbkO9IkbjJgUW23OJjNcsLAXJt4rXGLTA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.428/file/pokey.cursorless-0.26.428.vsix";
+      sha256 = "sha256-pFwBQ+fXilW/0XZjDFfHF/9Hq/UeFtghXK3652ZuvA8=";
     };
     license = "MIT";
     name = "cursorless";

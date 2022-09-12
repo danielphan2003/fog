@@ -9730,8 +9730,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-co
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.4.1" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.1/file/iterative.dvc-0.4.1.vsix" # iterative.dvc
+src.manual = "0.4.2" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.2/file/iterative.dvc-0.4.2.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -9740,8 +9740,8 @@ fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.916/file/Slint.
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
-src.manual = "0.26.427" # pokey.cursorless
-fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.427/file/pokey.cursorless-0.26.427.vsix" # pokey.cursorless
+src.manual = "0.26.428" # pokey.cursorless
+fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.428/file/pokey.cursorless-0.26.428.vsix" # pokey.cursorless
 passthru = { publisher = "pokey", name = "cursorless", description = "Structural voice coding at the speed of thought", license = "MIT" }
 
 [edukera-archetype]

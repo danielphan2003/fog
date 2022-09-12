@@ -18613,11 +18613,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+5Hq7kGyranqc5UKRXkQlQzVJqsJwH3lSYSfcMek/rg=",
+            "sha256": "sha256-tnrIMXpscbToheS1qZN+0cQAvaE7mliiHsoJLM+wAdE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.4.1/file/iterative.dvc-0.4.1.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.4.2/file/iterative.dvc-0.4.2.vsix"
         },
-        "version": "0.4.1"
+        "version": "0.4.2"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -27315,11 +27315,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BTUfG3ZmyejbkO9IkbjJgUW23OJjNcsLAXJt4rXGLTA=",
+            "sha256": "sha256-pFwBQ+fXilW/0XZjDFfHF/9Hq/UeFtghXK3652ZuvA8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.427/file/pokey.cursorless-0.26.427.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.428/file/pokey.cursorless-0.26.428.vsix"
         },
-        "version": "0.26.427"
+        "version": "0.26.428"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
