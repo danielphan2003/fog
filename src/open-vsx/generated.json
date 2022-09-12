@@ -16675,9 +16675,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -19848,11 +19848,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/NGMXAa602LzcaqRKuGzWDdBIAeOod7KsELrH+iYE0o=",
+            "sha256": "sha256-g6os6ktSWzUSCnLzMkGRoOhCEvU3gXcGGj2cq1NKkaE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/julialang/language-julia/1.7.10/file/julialang.language-julia-1.7.10.vsix"
+            "url": "https://open-vsx.org/api/julialang/language-julia/1.7.12/file/julialang.language-julia-1.7.12.vsix"
         },
-        "version": "1.7.10"
+        "version": "1.7.12"
     },
     "junstyle-php-cs-fixer": {
         "cargoLocks": null,
@@ -31457,9 +31457,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
