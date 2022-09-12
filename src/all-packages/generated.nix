@@ -643,13 +643,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "942f912132c803765f0bd91557e3d8a010b1984b";
+    version = "ac5180ed11e67ea9c1e6467941148b90dd122fb5";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "942f912132c803765f0bd91557e3d8a010b1984b";
+      rev = "ac5180ed11e67ea9c1e6467941148b90dd122fb5";
       fetchSubmodules = false;
-      sha256 = "sha256-fia/kfY2P/CUGGLq4UI+amdRz/7fcyjJzklxxi2him8=";
+      sha256 = "sha256-U+/eFyrXQSHkY70+WvGsqCTFHIArhbolT+W93uBE3EA=";
     });
   };
   microsoft-edge-beta = {
