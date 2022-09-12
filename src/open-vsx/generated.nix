@@ -447,10 +447,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.8";
+    version = "3.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.8/file/CL.eide-3.8.8.vsix";
-      sha256 = "sha256-4l3fcVJhVJGDjLwzFVCvgk3K36P3HhS7IddMT6aaGOA=";
+      url = "https://open-vsx.org/api/CL/eide/3.9.0/file/CL.eide-3.9.0.vsix";
+      sha256 = "sha256-bCDh/U02PytU7qFBLZunWQqprqURvw7OOHZWkoVcxhA=";
     };
     license = "MIT";
     name = "eide";
@@ -1265,8 +1265,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -16395,10 +16395,10 @@
   };
   omBratteng-nftables = {
     pname = "omBratteng-nftables";
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/omBratteng/nftables/0.5.1/file/omBratteng.nftables-0.5.1.vsix";
-      sha256 = "sha256-jIAMrto22M/5gb22LHUZAGxaOtwPP80zm4hSDajB8u8=";
+      url = "https://open-vsx.org/api/omBratteng/nftables/0.6.0/file/omBratteng.nftables-0.6.0.vsix";
+      sha256 = "sha256-YZ6CnSTwzOHAYEIxI0CgoC8qdN3AHvICls1tGyaZaDM=";
     };
     license = "";
     name = "nftables";
@@ -17247,10 +17247,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.430";
+    version = "0.26.432";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.430/file/pokey.cursorless-0.26.430.vsix";
-      sha256 = "sha256-2B5pVbqCpVLlsoNNHKo/ycnj6vm3Zg67ad3QxJznTaQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.432/file/pokey.cursorless-0.26.432.vsix";
+      sha256 = "sha256-TUQ6jiZYCMAjm+IbmofIZvs9vESNicSzKkAo7pasd0E=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19865,8 +19865,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

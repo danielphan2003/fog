@@ -715,11 +715,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4l3fcVJhVJGDjLwzFVCvgk3K36P3HhS7IddMT6aaGOA=",
+            "sha256": "sha256-bCDh/U02PytU7qFBLZunWQqprqURvw7OOHZWkoVcxhA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.8/file/CL.eide-3.8.8.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.9.0/file/CL.eide-3.9.0.vsix"
         },
-        "version": "3.8.8"
+        "version": "3.9.0"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -2007,9 +2007,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -25966,11 +25966,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jIAMrto22M/5gb22LHUZAGxaOtwPP80zm4hSDajB8u8=",
+            "sha256": "sha256-YZ6CnSTwzOHAYEIxI0CgoC8qdN3AHvICls1tGyaZaDM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/omBratteng/nftables/0.5.1/file/omBratteng.nftables-0.5.1.vsix"
+            "url": "https://open-vsx.org/api/omBratteng/nftables/0.6.0/file/omBratteng.nftables-0.6.0.vsix"
         },
-        "version": "0.5.1"
+        "version": "0.6.0"
     },
     "onecentlin-laravel-blade": {
         "cargoLocks": null,
@@ -27315,11 +27315,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2B5pVbqCpVLlsoNNHKo/ycnj6vm3Zg67ad3QxJznTaQ=",
+            "sha256": "sha256-TUQ6jiZYCMAjm+IbmofIZvs9vESNicSzKkAo7pasd0E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.430/file/pokey.cursorless-0.26.430.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.432/file/pokey.cursorless-0.26.432.vsix"
         },
-        "version": "0.26.430"
+        "version": "0.26.432"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -31457,9 +31457,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
