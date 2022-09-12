@@ -6738,11 +6738,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-z4QZ2qlZ6w+QZuYaesiISgTKP9cwPScIecQXecb3Hxo=",
+            "sha256": "sha256-fZtfR24BSROljQdUSrAJ38sDHpRHMt8CEawkL8IwfGo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.6/file/YXL.cloudmusic-9.16.6.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.7/file/YXL.cloudmusic-9.16.7.vsix"
         },
-        "version": "9.16.6"
+        "version": "9.16.7"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -14224,11 +14224,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XbogIv0T7bN1qQHaz4p+sa1nwb3thIKSmJ+weQ7U2bY=",
+            "sha256": "sha256-l6huRFv55difuXycAIpRF6u3Y+m4wk8tC+xTRkHhcDk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3023750/file/eliostruyf.vscode-front-matter-beta-8.1.3023750.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3035820/file/eliostruyf.vscode-front-matter-beta-8.1.3035820.vsix"
         },
-        "version": "8.1.3023750"
+        "version": "8.1.3035820"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -27315,11 +27315,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pFwBQ+fXilW/0XZjDFfHF/9Hq/UeFtghXK3652ZuvA8=",
+            "sha256": "sha256-8qZVekrSLhkvzzUMBBM3vUQn5PbDCy1QF3fcrSuhWSI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.428/file/pokey.cursorless-0.26.428.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.429/file/pokey.cursorless-0.26.429.vsix"
         },
-        "version": "0.26.428"
+        "version": "0.26.429"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -31457,9 +31457,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -38012,11 +38012,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m4NarW9AM3KXKoMwQdzYFUnl9NMsXKLnCK2gsyCbJM4=",
+            "sha256": "sha256-CWkoRow7m1sby8qAjoYkDW6g8YO9L6x7jwMlZBmgF58=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.29/file/zardoy.better-snippets-0.1.29.vsix"
+            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.30/file/zardoy.better-snippets-0.1.30.vsix"
         },
-        "version": "0.1.29"
+        "version": "0.1.30"
     },
     "zardoy-extra-commands": {
         "cargoLocks": null,

@@ -4251,10 +4251,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.6";
+    version = "9.16.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.6/file/YXL.cloudmusic-9.16.6.vsix";
-      sha256 = "sha256-z4QZ2qlZ6w+QZuYaesiISgTKP9cwPScIecQXecb3Hxo=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.7/file/YXL.cloudmusic-9.16.7.vsix";
+      sha256 = "sha256-fZtfR24BSROljQdUSrAJ38sDHpRHMt8CEawkL8IwfGo=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -8979,10 +8979,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3023750";
+    version = "8.1.3035820";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3023750/file/eliostruyf.vscode-front-matter-beta-8.1.3023750.vsix";
-      sha256 = "sha256-XbogIv0T7bN1qQHaz4p+sa1nwb3thIKSmJ+weQ7U2bY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3035820/file/eliostruyf.vscode-front-matter-beta-8.1.3035820.vsix";
+      sha256 = "sha256-l6huRFv55difuXycAIpRF6u3Y+m4wk8tC+xTRkHhcDk=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -17247,10 +17247,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.428";
+    version = "0.26.429";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.428/file/pokey.cursorless-0.26.428.vsix";
-      sha256 = "sha256-pFwBQ+fXilW/0XZjDFfHF/9Hq/UeFtghXK3652ZuvA8=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.429/file/pokey.cursorless-0.26.429.vsix";
+      sha256 = "sha256-8qZVekrSLhkvzzUMBBM3vUQn5PbDCy1QF3fcrSuhWSI=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19865,8 +19865,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24003,10 +24003,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.29";
+    version = "0.1.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.29/file/zardoy.better-snippets-0.1.29.vsix";
-      sha256 = "sha256-m4NarW9AM3KXKoMwQdzYFUnl9NMsXKLnCK2gsyCbJM4=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.30/file/zardoy.better-snippets-0.1.30.vsix";
+      sha256 = "sha256-CWkoRow7m1sby8qAjoYkDW6g8YO9L6x7jwMlZBmgF58=";
     };
     license = "MIT";
     name = "better-snippets";
