@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b1d06c065c135f58e34c92303398214f64945ab4",
-            "sha256": "sha256-mBa3TFCAdcYoxGr0Tl5QL5BUQHD++gRLRXWio67SOAc=",
+            "rev": "6613f6b10c7735630db3ff5e0437c5d749de9c6e",
+            "sha256": "sha256-sWMnn9E1D8U3tPd8YtldyBEFNe4XvRkaRHsut3XSP2M=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "b1d06c065c135f58e34c92303398214f64945ab4"
+        "version": "6613f6b10c7735630db3ff5e0437c5d749de9c6e"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "a09c614c2d2e4317cf6b9bd797784ab2ac94bcf0",
-            "sha256": "sha256-9gh/4IFVQ7tvi7qoSLcpK5qYOtVnOqfrlVfFiZG1eLs=",
+            "rev": "81f267dff95f16a6442688dbeaf25fb01b818a04",
+            "sha256": "sha256-m38GvrnghUm9ihd6MnSJmn80+gdoGsIdqARLtJRFEkQ=",
             "type": "github"
         },
-        "version": "a09c614c2d2e4317cf6b9bd797784ab2ac94bcf0"
+        "version": "81f267dff95f16a6442688dbeaf25fb01b818a04"
     },
     "ibus": {
         "cargoLocks": null,
