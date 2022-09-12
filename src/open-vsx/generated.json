@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
+            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -2007,9 +2007,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -16656,9 +16656,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -19867,11 +19867,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cyf1CTRwCfaaAVIExs+ZMPD6jw0hMLBi4N93M+OL19Y=",
+            "sha256": "sha256-2zkvyoRyE1ClW3KMfAagvvH6SPqvuvTDj2Cd1hEbcpo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.6/file/junstyle.php-cs-fixer-0.3.6.vsix"
+            "url": "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.7/file/junstyle.php-cs-fixer-0.3.7.vsix"
         },
-        "version": "0.3.6"
+        "version": "0.3.7"
     },
     "justusadam-language-haskell": {
         "cargoLocks": null,
@@ -20608,11 +20608,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -21102,11 +21102,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -30735,11 +30735,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -31457,9 +31457,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -35561,11 +35561,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IRj2kI8SfPrzXLTvWLoXKt0AlG8e8TpWH31AyHmvONk=",
+            "sha256": "sha256-243SkMafPxW1ywxh+zRQBZ5ojNOflhboQLcIwLMpwCU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.16.0/file/vscode-icons-team.vscode-icons-11.16.0.vsix"
+            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.17.0/file/vscode-icons-team.vscode-icons-11.17.0.vsix"
         },
-        "version": "11.16.0"
+        "version": "11.17.0"
     },
     "vscode-image-preview": {
         "cargoLocks": null,
@@ -38145,11 +38145,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AO1KdFZqhoz1sL9TErxhrScVDi9TZI1rXNhTb4oOAJM=",
+            "sha256": "sha256-xXKDDUQvugHaO0JckXZ82lwZrHoXQttgNOgJTEyU410=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.13/file/zardoy.ts-essential-plugins-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.14/file/zardoy.ts-essential-plugins-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "zardoy-typescript-server-logger": {
         "cargoLocks": null,
