@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "e518adf1ac3db14e85fd3b8ceab71c22eab9d1c7",
-            "sha256": "sha256-FFfeRv9AQlJnrCua/EUFNWHlxJ+gbqqMP8bNbPueKX8=",
+            "rev": "da10022d846334fe4265ec03b44a75c41921f603",
+            "sha256": "sha256-rVQWRAa9yXBcjwlnDlitTcsFaTlB+/KGTM5MQYuunRQ=",
             "type": "github"
         },
-        "version": "e518adf1ac3db14e85fd3b8ceab71c22eab9d1c7"
+        "version": "da10022d846334fe4265ec03b44a75c41921f603"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1107,11 +1107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JDbX8kBU80VZnQvAXNjKaWA3UQ2uCi1yC8GVmb0kAag=",
+            "sha256": "sha256-Kl4H+r1+czgpvR6uSATkAjvEY5cyAAxwn894QhrpUbY=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1375.0-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1379.1-1_amd64.deb"
         },
-        "version": "107.0.1375.0"
+        "version": "107.0.1379.1"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "f6da2220d30943181def1b48c97e95cbd1ddc01e",
-            "sha256": "sha256-fkQ++EO0y11dcQS14plOHPecYdcM8rVDJcmAQJDUr7Y=",
+            "rev": "45a3de14a603a2909dad1edfca79e5ccb030c8e2",
+            "sha256": "sha256-lZGNhm3ECxwE2m9B29dy7OsTBcsYZ0MWEcZOdkQsXVE=",
             "type": "github"
         },
-        "version": "f6da2220d30943181def1b48c97e95cbd1ddc01e"
+        "version": "45a3de14a603a2909dad1edfca79e5ccb030c8e2"
     },
     "tailscale-systray": {
         "cargoLocks": null,
