@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ce8389d4a6825dd99545d47d252936771bde0f53";
+    version = "be044c09dda27e88c5e1e93f8dbadafc898a311e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ce8389d4a6825dd99545d47d252936771bde0f53";
+      rev = "be044c09dda27e88c5e1e93f8dbadafc898a311e";
       fetchSubmodules = false;
-      sha256 = "sha256-w/Ht1nEHEt9TipLbGlzYVd80L26ZoonOvplMRtA1X2A=";
+      sha256 = "sha256-eKcItoiamiYbi9TiPYYkSliWO+gWWyK0TiPhnLALq8w=";
     });
   };
   revanced-cli = {
@@ -1019,11 +1019,11 @@
   };
   sddm = {
     pname = "sddm";
-    version = "53c247cc2438122b5ad1578905cb3c39482fa582";
+    version = "6c313bba812940ef8605af822a1dec63369de824";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "53c247cc2438122b5ad1578905cb3c39482fa582";
+      rev = "6c313bba812940ef8605af822a1dec63369de824";
       fetchSubmodules = false;
       sha256 = "sha256-Jt0laVJNphFphJPkSKEafwH5/QZ8hECcJ4MXcU+Ki4U=";
     });
