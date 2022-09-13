@@ -183,10 +183,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.4.2";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.2/file/AvengaGermanyGmbH.couper-1.4.2.vsix";
-      sha256 = "sha256-p4k25TcyoMFwrCYcgHDUInNc8e0PCc9HQTCzlG50w+M=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.5.0/file/AvengaGermanyGmbH.couper-1.5.0.vsix";
+      sha256 = "sha256-xrizRe4vNmEW4/3kE9klYsweFmNMU4RwDhBMMlt3vJw=";
     };
     license = "MIT";
     name = "couper";
@@ -10529,8 +10529,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11523,10 +11523,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.33";
+    version = "0.14.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.33/file/iljapostnovs.ui5plugin-0.14.33.vsix";
-      sha256 = "sha256-BAG2HaQmGeS4VOsCfEcRln88XFkKP/1kwGmLOfGZPYg=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.34/file/iljapostnovs.ui5plugin-0.14.34.vsix";
+      sha256 = "sha256-pTRZudrwprfHmeOdf+XtrjS1ckb3FVaPwDy2/Pv36Vk=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -20367,10 +20367,10 @@
   };
   svelte-svelte-vscode-nightly = {
     pname = "svelte-svelte-vscode-nightly";
-    version = "105.22.1";
+    version = "106.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.22.1/file/svelte.svelte-vscode-105.22.1.vsix";
-      sha256 = "sha256-ENyrFgSY3kKfjHU5PCjzVZLrf3zFRmUBslhz5tXiwgQ=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/106.0.0/file/svelte.svelte-vscode-106.0.0.vsix";
+      sha256 = "sha256-mcqEFCbDpo5Aa19yPa59x+w/jRZVwYMwRitHXhVUEmA=";
     };
     license = "MIT";
     name = "svelte-vscode-nightly";
@@ -24255,10 +24255,10 @@
   };
   zhouhangao-ihub-preview-cloud = {
     pname = "zhouhangao-ihub-preview-cloud";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.2/file/zhouhangao.ihub-preview-cloud-0.0.2.vsix";
-      sha256 = "sha256-Vp0tfdDidSUpazVQyEdGYBC3bC/iQBAnr6c4uZM7Ksg=";
+      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix";
+      sha256 = "sha256-8S6QsarMBT0y65v21x6XCvbzJf7Q9BpMtPMvyAEnoRw=";
     };
     license = "MIT";
     name = "ihub-preview-cloud";

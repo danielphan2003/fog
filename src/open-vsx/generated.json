@@ -297,11 +297,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p4k25TcyoMFwrCYcgHDUInNc8e0PCc9HQTCzlG50w+M=",
+            "sha256": "sha256-xrizRe4vNmEW4/3kE9klYsweFmNMU4RwDhBMMlt3vJw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.2/file/AvengaGermanyGmbH.couper-1.4.2.vsix"
+            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.5.0/file/AvengaGermanyGmbH.couper-1.5.0.vsix"
         },
-        "version": "1.4.2"
+        "version": "1.5.0"
     },
     "Avoonix-furry-language": {
         "cargoLocks": null,
@@ -16675,9 +16675,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18252,11 +18252,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BAG2HaQmGeS4VOsCfEcRln88XFkKP/1kwGmLOfGZPYg=",
+            "sha256": "sha256-pTRZudrwprfHmeOdf+XtrjS1ckb3FVaPwDy2/Pv36Vk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.33/file/iljapostnovs.ui5plugin-0.14.33.vsix"
+            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.34/file/iljapostnovs.ui5plugin-0.14.34.vsix"
         },
-        "version": "0.14.33"
+        "version": "0.14.34"
     },
     "ilkka-google-java-format": {
         "cargoLocks": null,
@@ -32255,11 +32255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ENyrFgSY3kKfjHU5PCjzVZLrf3zFRmUBslhz5tXiwgQ=",
+            "sha256": "sha256-mcqEFCbDpo5Aa19yPa59x+w/jRZVwYMwRitHXhVUEmA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.22.1/file/svelte.svelte-vscode-105.22.1.vsix"
+            "url": "https://open-vsx.org/api/svelte/svelte-vscode/106.0.0/file/svelte.svelte-vscode-106.0.0.vsix"
         },
-        "version": "105.22.1"
+        "version": "106.0.0"
     },
     "svipas-control-snippets": {
         "cargoLocks": null,
@@ -38411,11 +38411,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Vp0tfdDidSUpazVQyEdGYBC3bC/iQBAnr6c4uZM7Ksg=",
+            "sha256": "sha256-8S6QsarMBT0y65v21x6XCvbzJf7Q9BpMtPMvyAEnoRw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.2/file/zhouhangao.ihub-preview-cloud-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "zhuangtongfa-material-theme": {
         "cargoLocks": null,
