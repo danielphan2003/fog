@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "d58d91de78d2b9984a1bbb8314be197bc0e283dc";
+    version = "52e9603dd8c79cbc267a4733389c1f7e7625b352";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "d58d91de78d2b9984a1bbb8314be197bc0e283dc";
+      rev = "52e9603dd8c79cbc267a4733389c1f7e7625b352";
       fetchSubmodules = false;
-      sha256 = "sha256-wzgWx3QxZvCAzRKLFmo/ru8hsIQsEDNeb4cPdlEyLxE=";
+      sha256 = "sha256-zMJslerxTcSQ+A8fI4gFcJioRGs+T55343zOtsnEJ3k=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-d58d91de78d2b9984a1bbb8314be197bc0e283dc/Cargo.lock;
+      lockFile = ./eww-52e9603dd8c79cbc267a4733389c1f7e7625b352/Cargo.lock;
       outputHashes = {
         
       };
@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "ec1eac2ea2a384e8d2d07994d153a88aa920b959";
+    version = "2958b1d3ec03c9b49cd793f02432a38acd1f140e";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "ec1eac2ea2a384e8d2d07994d153a88aa920b959";
+      rev = "2958b1d3ec03c9b49cd793f02432a38acd1f140e";
       fetchSubmodules = false;
-      sha256 = "sha256-APXuwgyMNSzqsf+SEg9iFTpXODx2pC3IA53TRq9IDtU=";
+      sha256 = "sha256-hB4NVJW2exHoKsMp0CKzHerYgj8aR77rV+ZsCoWA1Dg=";
     });
   };
   godu = {
