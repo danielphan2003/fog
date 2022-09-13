@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9730,8 +9730,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-co
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.4.2" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.2/file/iterative.dvc-0.4.2.vsix" # iterative.dvc
+src.manual = "0.4.3" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.3/file/iterative.dvc-0.4.3.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -10437,6 +10437,7 @@ passthru = { publisher = "pajoma", name = "vscode-journal", description = "Light
 src.manual = "0.0.3" # zhouhangao.ihub-preview-cloud
 fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix" # zhouhangao.ihub-preview-cloud
 passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description = "ihub-preview-cloud", license = "MIT" }
+
 
 
 
