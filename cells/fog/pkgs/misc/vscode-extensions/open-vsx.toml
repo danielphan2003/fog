@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9830,8 +9830,8 @@ fetch.url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-
 passthru = { publisher = "qcz", name = "text-power-tools", description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.", license = "MIT" }
 
 [remcohaszing-schemastore]
-src.manual = "1.0.18" # remcohaszing.schemastore
-fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.18/file/remcohaszing.schemastore-1.0.18.vsix" # remcohaszing.schemastore
+src.manual = "1.0.19" # remcohaszing.schemastore
+fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.19/file/remcohaszing.schemastore-1.0.19.vsix" # remcohaszing.schemastore
 passthru = { publisher = "remcohaszing", name = "schemastore", description = "Use the JSON Schema Store catalog for JSON schema validation.", license = "MIT" }
 
 [elixir-lsp-elixir-ls]
@@ -10429,5 +10429,6 @@ passthru = { publisher = "dtoplak", name = "vscode-glsllint", description = "Lin
 src.manual = "1.0.1" # pajoma.vscode-journal
 fetch.url = "https://open-vsx.org/api/pajoma/vscode-journal/1.0.1/file/pajoma.vscode-journal-1.0.1.vsix" # pajoma.vscode-journal
 passthru = { publisher = "pajoma", name = "vscode-journal", description = "Lightweight journal and simple notes support for Visual Studio Code", license = "GPL-3.0-or-later" }
+
 
 
