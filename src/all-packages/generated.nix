@@ -564,10 +564,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6553";
+    version = "1.0.6554";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6553-1_all.deb";
-      sha256 = "sha256-h9NlpCJi/shs1FPB7qFD3g8SSwUuffe2INNum8Ngvlo=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6554-1_all.deb";
+      sha256 = "sha256-PNuQNNxw6ZtFa4xMjwm0sZ0dYW8OOwlUlz462PXTTms=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9456afd87058c07a3675a85dbad2677e4055a24f";
+    version = "1bacd2335d8514a21ea6e75946005f86a89e51c4";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9456afd87058c07a3675a85dbad2677e4055a24f";
+      rev = "1bacd2335d8514a21ea6e75946005f86a89e51c4";
       fetchSubmodules = false;
-      sha256 = "sha256-YDAjAbpC2hsB0HQ0xVC3J3c65DkaeAcfGqtxPQsobqA=";
+      sha256 = "sha256-1pVEZ14tAqnqRPymhFViOAZulFjTBVuoEnIwQe987C0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9456afd87058c07a3675a85dbad2677e4055a24f/Cargo.lock;
+      lockFile = ./rustdesk-1bacd2335d8514a21ea6e75946005f86a89e51c4/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -990,7 +990,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-VddI5p/Hfa8VhjjhjA4KDDkThFmi8JcH6oeaGG6/dtA=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
-        "rdev-0.5.0-2" = "sha256-F4aWi2vtIrRjv166qj8R35OQTTVlEtOTVK8hifc5fwI=";
+        "rdev-0.5.0-2" = "sha256-7CEZ2wIM4QAPfY1tGKqXfHplTaxHnccVqFRPjY21Svo=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
