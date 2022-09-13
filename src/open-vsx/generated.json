@@ -8410,11 +8410,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lg0hLWrE93QVMHnu/QrB/W7EZ7/G0Eatyi8LT7nS9vc=",
+            "sha256": "sha256-DsgDcJGmhDjnWps2dipu5Sje3gehalWHHvlDtWJI+Fk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/bluepaint/0.4.0/file/anweber.bluepaint-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/anweber/bluepaint/0.5.0/file/anweber.bluepaint-0.5.0.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.5.0"
     },
     "anweber-dot-icons": {
         "cargoLocks": null,
@@ -29006,11 +29006,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JdxOKP5KvzofHvzqrLwnbxSV/KYmins4X7IC9NHCy8E=",
+            "sha256": "sha256-aIJqrzlFIn9Z5nUBsupVP3OXOa0RmvhjhntYGxad9F4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.2/file/rgherdt.scheme-lsp-0.3.2.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.3/file/rgherdt.scheme-lsp-0.3.3.vsix"
         },
-        "version": "0.3.2"
+        "version": "0.3.3"
     },
     "ria-elastic": {
         "cargoLocks": null,

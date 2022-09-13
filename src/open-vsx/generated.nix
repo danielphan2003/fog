@@ -5307,10 +5307,10 @@
   };
   anweber-bluepaint = {
     pname = "anweber-bluepaint";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/bluepaint/0.4.0/file/anweber.bluepaint-0.4.0.vsix";
-      sha256 = "sha256-lg0hLWrE93QVMHnu/QrB/W7EZ7/G0Eatyi8LT7nS9vc=";
+      url = "https://open-vsx.org/api/anweber/bluepaint/0.5.0/file/anweber.bluepaint-0.5.0.vsix";
+      sha256 = "sha256-DsgDcJGmhDjnWps2dipu5Sje3gehalWHHvlDtWJI+Fk=";
     };
     license = "MIT";
     name = "bluepaint";
@@ -18315,10 +18315,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.3.2";
+    version = "0.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.2/file/rgherdt.scheme-lsp-0.3.2.vsix";
-      sha256 = "sha256-JdxOKP5KvzofHvzqrLwnbxSV/KYmins4X7IC9NHCy8E=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.3/file/rgherdt.scheme-lsp-0.3.3.vsix";
+      sha256 = "sha256-aIJqrzlFIn9Z5nUBsupVP3OXOa0RmvhjhntYGxad9F4=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";

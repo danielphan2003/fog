@@ -6690,8 +6690,8 @@ fetch.url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2
 passthru = { publisher = "mpotthoff", name = "vscode-android-webview-debug", description = "Debug your JavaScript code running in WebViews on any Android device from VS Code.", license = "LGPL-3.0" }
 
 [anweber-bluepaint]
-src.manual = "0.4.0" # anweber.bluepaint
-fetch.url = "https://open-vsx.org/api/anweber/bluepaint/0.4.0/file/anweber.bluepaint-0.4.0.vsix" # anweber.bluepaint
+src.manual = "0.5.0" # anweber.bluepaint
+fetch.url = "https://open-vsx.org/api/anweber/bluepaint/0.5.0/file/anweber.bluepaint-0.5.0.vsix" # anweber.bluepaint
 passthru = { publisher = "anweber", name = "bluepaint", description = "A blue VS Code theme", license = "MIT" }
 
 [LeonardSSH-vscord]
@@ -9180,8 +9180,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.3.2" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.2/file/rgherdt.scheme-lsp-0.3.2.vsix" # rgherdt.scheme-lsp
+src.manual = "0.3.3" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.3/file/rgherdt.scheme-lsp-0.3.3.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -10437,6 +10437,7 @@ passthru = { publisher = "pajoma", name = "vscode-journal", description = "Light
 src.manual = "0.0.3" # zhouhangao.ihub-preview-cloud
 fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix" # zhouhangao.ihub-preview-cloud
 passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description = "ihub-preview-cloud", license = "MIT" }
+
 
 
 
