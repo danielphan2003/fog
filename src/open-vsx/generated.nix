@@ -5547,10 +5547,10 @@
   };
   arm-cmsis-csolution = {
     pname = "arm-cmsis-csolution";
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.4.1/file/arm.cmsis-csolution-0.4.1.vsix";
-      sha256 = "sha256-IaGcxqQcSSdwXtxjY0UtENEblJt3tmXefYqj9mAN4OI=";
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.5.0/file/arm.cmsis-csolution-0.5.0.vsix";
+      sha256 = "sha256-XmP80dr/fwORqbZIBPsufHM1kJaBRJYYx0IYozbOgm0=";
     };
     license = "";
     name = "cmsis-csolution";
@@ -5583,10 +5583,10 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.9";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack";
@@ -5595,10 +5595,10 @@
   };
   arm-keil-studio-pack-web = {
     pname = "arm-keil-studio-pack-web";
-    version = "1.0.9";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix";
-      sha256 = "sha256-vFmAfzI+ttnY13Z3iIEJa2NDieALfAHewScyhwalsdI=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8271,10 +8271,10 @@
   };
   dendron-dendron-markdown-links = {
     pname = "dendron-dendron-markdown-links";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "MIT";
     name = "dendron-markdown-links";
@@ -8283,10 +8283,10 @@
   };
   dendron-dendron-markdown-notes = {
     pname = "dendron-dendron-markdown-notes";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "GPL-3.0";
     name = "dendron-markdown-notes";
@@ -8295,10 +8295,10 @@
   };
   dendron-dendron-markdown-preview-enhanced = {
     pname = "dendron-dendron-markdown-preview-enhanced";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "NCSA";
     name = "dendron-markdown-preview-enhanced";
@@ -8307,10 +8307,10 @@
   };
   dendron-dendron-markdown-shortcuts = {
     pname = "dendron-dendron-markdown-shortcuts";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "MIT";
     name = "dendron-markdown-shortcuts";
@@ -8319,10 +8319,10 @@
   };
   dendron-dendron-paste-image = {
     pname = "dendron-dendron-paste-image";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "MIT";
     name = "dendron-paste-image";
@@ -8331,10 +8331,10 @@
   };
   dendron-dendron-snippet-maker = {
     pname = "dendron-dendron-snippet-maker";
-    version = "0.111.0";
+    version = "0.112.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix";
-      sha256 = "sha256-qXViKki11yZsR/KVpaUInaNateZbMb6RIRkJf+8DejU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix";
+      sha256 = "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=";
     };
     license = "MIT";
     name = "dendron-snippet-maker";
@@ -13347,10 +13347,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662727816";
+    version = "2022.9.1663073954";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662727816/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662727816.vsix";
-      sha256 = "sha256-2Q768V+FK22ra6EG6c0JbQ3Uz/4g0ST46U0y/EygsXg=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663073954/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663073954.vsix";
+      sha256 = "sha256-xUKXLp3RbmHLk34AGmPZC1hsqSPoXnZrNOPkrMZwvfA=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -17259,10 +17259,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.433";
+    version = "0.26.435";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.433/file/pokey.cursorless-0.26.433.vsix";
-      sha256 = "sha256-axs2ubJPj5yMayQMz0kF1NSqqMjHWTfpcEAtF+LukeM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.435/file/pokey.cursorless-0.26.435.vsix";
+      sha256 = "sha256-LvFdtWaA32urHZ24o5ep92xpb0ae+fQIMDre5qP7mbo=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19877,8 +19877,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24015,10 +24015,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.30";
+    version = "0.1.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.30/file/zardoy.better-snippets-0.1.30.vsix";
-      sha256 = "sha256-CWkoRow7m1sby8qAjoYkDW6g8YO9L6x7jwMlZBmgF58=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.31/file/zardoy.better-snippets-0.1.31.vsix";
+      sha256 = "sha256-nYy1fxaqf+beGbIOIXGnPgBdH5nmAZL6JHLs4zrBKgE=";
     };
     license = "MIT";
     name = "better-snippets";

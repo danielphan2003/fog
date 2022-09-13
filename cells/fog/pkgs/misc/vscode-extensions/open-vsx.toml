@@ -720,8 +720,8 @@ fetch.url = "https://open-vsx.org/api/oouo-diogo-perdigao/docthis/0.8.2/file/oou
 passthru = { publisher = "oouo-diogo-perdigao", name = "docthis", description = "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.", license = "MIT" }
 
 [dendron-dendron-markdown-shortcuts]
-src.manual = "0.111.0" # dendron.dendron-markdown-shortcuts
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-markdown-shortcuts
+src.manual = "0.112.0" # dendron.dendron-markdown-shortcuts
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-markdown-shortcuts
 passthru = { publisher = "dendron", name = "dendron-markdown-shortcuts", description = "Shortcuts for Markdown editing", license = "MIT" }
 
 [aurorabiz-blade-ui-kit]
@@ -980,8 +980,8 @@ fetch.url = "https://open-vsx.org/api/corneliusludmann/gitpod-trivia/0.0.5/file/
 passthru = { publisher = "corneliusludmann", name = "gitpod-trivia", description = "This extension shows a message at Gitpod workspace start with more information about your unique workspace name. More features will probably be added in the future. Note: This extension works in Gitpod only.", license = "MIT" }
 
 [dendron-dendron-snippet-maker]
-src.manual = "0.111.0" # dendron.dendron-snippet-maker
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-snippet-maker
+src.manual = "0.112.0" # dendron.dendron-snippet-maker
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-snippet-maker
 passthru = { publisher = "dendron", name = "dendron-snippet-maker", description = "Easily create and manage snippets", license = "MIT" }
 
 [giantcola-advanced-new-file]
@@ -1465,8 +1465,8 @@ fetch.url = "https://open-vsx.org/api/fabiospampinato/vscode-todo-plus/4.18.4/fi
 passthru = { publisher = "fabiospampinato", name = "vscode-todo-plus", description = "Manage todo lists with ease. Powerful, easy to use and customizable.", license = "MIT" }
 
 [dendron-dendron-markdown-notes]
-src.manual = "0.111.0" # dendron.dendron-markdown-notes
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-markdown-notes
+src.manual = "0.112.0" # dendron.dendron-markdown-notes
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-markdown-notes
 passthru = { publisher = "dendron", name = "dendron-markdown-notes", description = "Navigate notes with [[wiki-links]], backlinks, and #tags (like Bear, Roam, etc). Automatically create notes from new inline [[wiki-links]]. Use Peek Definition to preview linked notes.", license = "GPL-3.0" }
 
 [vallyscode-crayons]
@@ -3580,8 +3580,8 @@ fetch.url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.4/file
 passthru = { publisher = "zardoy", name = "typescript-server-logger", description = "Opens TS log in side-panel & scrolls for you", license = "MIT" }
 
 [zardoy-better-snippets]
-src.manual = "0.1.30" # zardoy.better-snippets
-fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.30/file/zardoy.better-snippets-0.1.30.vsix" # zardoy.better-snippets
+src.manual = "0.1.31" # zardoy.better-snippets
+fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.31/file/zardoy.better-snippets-0.1.31.vsix" # zardoy.better-snippets
 passthru = { publisher = "zardoy", name = "better-snippets", description = "", license = "MIT" }
 
 [bierner-emojisense]
@@ -3930,8 +3930,8 @@ fetch.url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/jus
 passthru = { publisher = "justusadam", name = "language-haskell", description = "Syntax support for the Haskell programming language.", license = "BSD-3-Clause" }
 
 [dendron-dendron-markdown-links]
-src.manual = "0.111.0" # dendron.dendron-markdown-links
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-markdown-links
+src.manual = "0.112.0" # dendron.dendron-markdown-links
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-markdown-links
 passthru = { publisher = "dendron", name = "dendron-markdown-links", description = "Graph viz for Dendron Notes and Schemas", license = "MIT" }
 
 [akshayganeshen-alt-mode]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -5290,8 +5290,8 @@ fetch.url = "https://open-vsx.org/api/taintbench/TB-Viewer/0.0.3/file/taintbench
 passthru = { publisher = "taintbench", name = "TB-Viewer", description = "A language server for displaying the baseline ground truth in TaintBench.", license = "MIT" }
 
 [dendron-dendron-markdown-preview-enhanced]
-src.manual = "0.111.0" # dendron.dendron-markdown-preview-enhanced
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-markdown-preview-enhanced
+src.manual = "0.112.0" # dendron.dendron-markdown-preview-enhanced
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-markdown-preview-enhanced
 passthru = { publisher = "dendron", name = "dendron-markdown-preview-enhanced", description = "Markdown Preview Enhanced ported to vscode", license = "NCSA" }
 
 [arzg-slate]
@@ -5460,8 +5460,8 @@ fetch.url = "https://open-vsx.org/api/usernamehw/indent-one-space/0.2.7/file/use
 passthru = { publisher = "usernamehw", name = "indent-one-space", description = "Move code to left or right with a distance of one whitespace", license = "MIT" }
 
 [dendron-dendron-paste-image]
-src.manual = "0.111.0" # dendron.dendron-paste-image
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.111.0/file/dendron.dendron-0.111.0.vsix" # dendron.dendron-paste-image
+src.manual = "0.112.0" # dendron.dendron-paste-image
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix" # dendron.dendron-paste-image
 passthru = { publisher = "dendron", name = "dendron-paste-image", description = "paste image from clipboard directly", license = "MIT" }
 
 [Moosecasa-vscode-acutest-test-adapter]
@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662727816" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662727816/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662727816.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1663073954" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663073954/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663073954.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -9740,8 +9740,8 @@ fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1216/file/Slint
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
-src.manual = "0.26.433" # pokey.cursorless
-fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.433/file/pokey.cursorless-0.26.433.vsix" # pokey.cursorless
+src.manual = "0.26.435" # pokey.cursorless
+fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.435/file/pokey.cursorless-0.26.435.vsix" # pokey.cursorless
 passthru = { publisher = "pokey", name = "cursorless", description = "Structural voice coding at the speed of thought", license = "MIT" }
 
 [edukera-archetype]
@@ -9983,8 +9983,8 @@ passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Lan
 
 
 [arm-cmsis-csolution]
-src.manual = "0.4.1" # arm.cmsis-csolution
-fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.4.1/file/arm.cmsis-csolution-0.4.1.vsix" # arm.cmsis-csolution
+src.manual = "0.5.0" # arm.cmsis-csolution
+fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.5.0/file/arm.cmsis-csolution-0.5.0.vsix" # arm.cmsis-csolution
 passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS csolution support", license = "" }
 
 
@@ -10099,8 +10099,8 @@ passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", desc
 
 
 [arm-keil-studio-pack]
-src.manual = "1.0.9" # arm.keil-studio-pack
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix" # arm.keil-studio-pack
+src.manual = "1.1.0" # arm.keil-studio-pack
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack
 passthru = { publisher = "arm", name = "keil-studio-pack", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10173,8 +10173,8 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 
 [arm-keil-studio-pack-web]
-src.manual = "1.0.9" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.9/file/arm.keil-studio-pack-1.0.9.vsix" # arm.keil-studio-pack-web
+src.manual = "1.1.0" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10437,6 +10437,7 @@ passthru = { publisher = "pajoma", name = "vscode-journal", description = "Light
 src.manual = "0.0.3" # zhouhangao.ihub-preview-cloud
 fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix" # zhouhangao.ihub-preview-cloud
 passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description = "ihub-preview-cloud", license = "MIT" }
+
 
 
 
