@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.5.1/file/ArmantGoldswain.seesharp-theme-0.5.1.vsix";
-      sha256 = "sha256-oBlhCfnbR7dEBA2I2PMgY7n8D97ON1rvAZ61cbO484g=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.6.0/file/ArmantGoldswain.seesharp-theme-0.6.0.vsix";
+      sha256 = "sha256-2w/O8oaSkajrDEA9SvGybnQXsQ4fYVvl6VdOnW3Gjo0=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -24255,10 +24255,10 @@
   };
   zhouhangao-ihub-preview-cloud = {
     pname = "zhouhangao-ihub-preview-cloud";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.1/file/zhouhangao.ihub-preview-cloud-0.0.1.vsix";
-      sha256 = "sha256-TtLFGeZvHRrVSdOBtVAKcc6FvOqTo9WyTNvknCm2+NQ=";
+      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.2/file/zhouhangao.ihub-preview-cloud-0.0.2.vsix";
+      sha256 = "sha256-Vp0tfdDidSUpazVQyEdGYBC3bC/iQBAnr6c4uZM7Ksg=";
     };
     license = "MIT";
     name = "ihub-preview-cloud";

@@ -10350,8 +10350,8 @@ passthru = { publisher = "claui", name = "packaging", description = "Support for
 
 
 [ArmantGoldswain-seesharp-theme]
-src.manual = "0.5.1" # ArmantGoldswain.seesharp-theme
-fetch.url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.5.1/file/ArmantGoldswain.seesharp-theme-0.5.1.vsix" # ArmantGoldswain.seesharp-theme
+src.manual = "0.6.0" # ArmantGoldswain.seesharp-theme
+fetch.url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.6.0/file/ArmantGoldswain.seesharp-theme-0.6.0.vsix" # ArmantGoldswain.seesharp-theme
 passthru = { publisher = "ArmantGoldswain", name = "seesharp-theme", description = "A colorful vibrant theme for C#", license = "Apache-2.0" }
 
 
@@ -10434,9 +10434,10 @@ passthru = { publisher = "pajoma", name = "vscode-journal", description = "Light
 
 
 [zhouhangao-ihub-preview-cloud]
-src.manual = "0.0.1" # zhouhangao.ihub-preview-cloud
-fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.1/file/zhouhangao.ihub-preview-cloud-0.0.1.vsix" # zhouhangao.ihub-preview-cloud
+src.manual = "0.0.2" # zhouhangao.ihub-preview-cloud
+fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.2/file/zhouhangao.ihub-preview-cloud-0.0.2.vsix" # zhouhangao.ihub-preview-cloud
 passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description = "ihub-preview-cloud", license = "MIT" }
+
 
 
 
