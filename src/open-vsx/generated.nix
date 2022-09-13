@@ -3147,10 +3147,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1401";
+    version = "31.0.1402";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1401/file/Prisma.prisma-insider-31.0.1401.vsix";
-      sha256 = "sha256-Q6BU+CJtFDb5uY1+RR72yyFI/8xoubzQZlvSFzrwvtY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1402/file/Prisma.prisma-insider-31.0.1402.vsix";
+      sha256 = "sha256-FcVBxM1UQV+thWaYbXxQ4Um5UJfjHjVurjRgyhYckFo=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -24351,10 +24351,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

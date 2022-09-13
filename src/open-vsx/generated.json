@@ -4990,11 +4990,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q6BU+CJtFDb5uY1+RR72yyFI/8xoubzQZlvSFzrwvtY=",
+            "sha256": "sha256-FcVBxM1UQV+thWaYbXxQ4Um5UJfjHjVurjRgyhYckFo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1401/file/Prisma.prisma-insider-31.0.1401.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1402/file/Prisma.prisma-insider-31.0.1402.vsix"
         },
-        "version": "31.0.1401"
+        "version": "31.0.1402"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -38563,11 +38563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
