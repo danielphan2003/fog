@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "d650ed4a14d82215b3848abbf194c9a96d9926b0";
+    version = "0c18c664aa76dd0eccd330613202aa3d0c49acb1";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "d650ed4a14d82215b3848abbf194c9a96d9926b0";
+      rev = "0c18c664aa76dd0eccd330613202aa3d0c49acb1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gf3o1ngX8YN+57jii/5G7l2X/SfGBcTvY3O1LBcKxRI=";
+      sha256 = "sha256-E7na3Rd174sUBsc3b8CqFDc/Q7Vbbya4kXp/jg7n4Xw=";
     };
   };
   pure = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c5d70d49e5b743f333f6e2fa8e1acb66cbf8be48";
+    version = "c1709f2218a0c2a27c40807aada4d72e76d8fdc7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c5d70d49e5b743f333f6e2fa8e1acb66cbf8be48";
+      rev = "c1709f2218a0c2a27c40807aada4d72e76d8fdc7";
       fetchSubmodules = false;
-      sha256 = "sha256-1iygzG1NkVpm3Cm6QztweLvjpenIhZpCRWsFCuRSCpo=";
+      sha256 = "sha256-KWo/StJcj5FosDuRPDf64q/Kf1z6k1AKTA5XRl//L+Q=";
     });
   };
   revanced-cli = {
@@ -1019,13 +1019,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "f31a3cd5138c1b148c45618e13d8abb1a06c68cf";
+    version = "53c247cc2438122b5ad1578905cb3c39482fa582";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "f31a3cd5138c1b148c45618e13d8abb1a06c68cf";
+      rev = "53c247cc2438122b5ad1578905cb3c39482fa582";
       fetchSubmodules = false;
-      sha256 = "sha256-xC8x2s1d5392i7jsnlEjJjwsHpPc5FH3a0JdKsqO3Ec=";
+      sha256 = "sha256-Jt0laVJNphFphJPkSKEafwH5/QZ8hECcJ4MXcU+Ki4U=";
     });
   };
   sddm-chili = {
