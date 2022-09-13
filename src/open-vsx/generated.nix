@@ -4251,10 +4251,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.7";
+    version = "9.16.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.7/file/YXL.cloudmusic-9.16.7.vsix";
-      sha256 = "sha256-fZtfR24BSROljQdUSrAJ38sDHpRHMt8CEawkL8IwfGo=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.8/file/YXL.cloudmusic-9.16.8.vsix";
+      sha256 = "sha256-CBSGYfMvxyHZprbGHRxhPAb1vzl00DWH9B9HPiGtTb8=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -12843,10 +12843,10 @@
   };
   kie-group-vscode-extension-kie-ba-bundle = {
     pname = "kie-group-vscode-extension-kie-ba-bundle";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.22.0/file/kie-group.vscode-extension-kie-ba-bundle-0.22.0.vsix";
-      sha256 = "sha256-pU5J17ZzvdIhzKOOAitGZVSATJnvd46suLcAFD3FdNg=";
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.23.0/file/kie-group.vscode-extension-kie-ba-bundle-0.23.0.vsix";
+      sha256 = "sha256-V/TU8sc9IkdH6xhL7vXj/D1EXScWkdok2xM4fX12+nQ=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-kie-ba-bundle";
@@ -12855,10 +12855,10 @@
   };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.22.0/file/kie-group.vscode-extension-kogito-bundle-0.22.0.vsix";
-      sha256 = "sha256-pf5nla8aDxKNU3cONmdE9bWq1poPJhbXS4mxF00D1I8=";
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.23.0/file/kie-group.vscode-extension-kogito-bundle-0.23.0.vsix";
+      sha256 = "sha256-fZIk0m5FzACNhVCpbviY9nvOOXwm2sZvmfdJQVW+Kic=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-kogito-bundle";
@@ -17907,10 +17907,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.60";
+    version = "0.13.63";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.60/file/redhat.ansible-0.13.60.vsix";
-      sha256 = "sha256-R+gbBGDZARkf8vQAwlCvjw+jZHAexYxH/P96pL2FMCA=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.63/file/redhat.ansible-0.13.63.vsix";
+      sha256 = "sha256-oOKBcFpYF1fGqHZXCf9qdSFhgEhTMjoQ15nBSfqDyJM=";
     };
     license = "MIT";
     name = "ansible";
@@ -18063,10 +18063,10 @@
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.22.0/file/redhat.vscode-extension-bpmn-editor-0.22.0.vsix";
-      sha256 = "sha256-XZeTpeTPA9M3Wrjc3+wsjC9zZTXBd1oW/xYU5jruJbM=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.23.0/file/redhat.vscode-extension-bpmn-editor-0.23.0.vsix";
+      sha256 = "sha256-dNZLTi9x5IDYTpEOc5w07xzrVNGVN0tARDrTOMrs1fw=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-bpmn-editor";
@@ -18075,10 +18075,10 @@
   };
   redhat-vscode-extension-dmn-editor = {
     pname = "redhat-vscode-extension-dmn-editor";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.22.0/file/redhat.vscode-extension-dmn-editor-0.22.0.vsix";
-      sha256 = "sha256-ePcMZdqmsjNLeIyhUpp2SbO7YAV909/AELOWGcPYvss=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.23.0/file/redhat.vscode-extension-dmn-editor-0.23.0.vsix";
+      sha256 = "sha256-VMlU+K7voU2bvcjVhle8XMN5orxLSVkGwlH/UYI9RB0=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-dmn-editor";
@@ -18087,10 +18087,10 @@
   };
   redhat-vscode-extension-pmml-editor = {
     pname = "redhat-vscode-extension-pmml-editor";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.22.0/file/redhat.vscode-extension-pmml-editor-0.22.0.vsix";
-      sha256 = "sha256-FRGbkg2grJB8GbdRunyB61qDS5js7W8fhovphyQN1pk=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.23.0/file/redhat.vscode-extension-pmml-editor-0.23.0.vsix";
+      sha256 = "sha256-FcfwQ8xQn5UXW/XW87ft1ibGbb752jzP6m6OWJPfx7Q=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-pmml-editor";
@@ -18099,10 +18099,10 @@
   };
   redhat-vscode-extension-red-hat-business-automation-bundle = {
     pname = "redhat-vscode-extension-red-hat-business-automation-bundle";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.22.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.22.0.vsix";
-      sha256 = "sha256-cP6H0tvXtZAz1cLLVMqMrxmyI6P1/wpSHmsXJ20GVrU=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.23.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.23.0.vsix";
+      sha256 = "sha256-iBba/dVJR42J5OjoHyW33PI5HkB8SDkd5sViiXMzTE4=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-red-hat-business-automation-bundle";
@@ -18111,10 +18111,10 @@
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.22.0/file/redhat.vscode-extension-serverless-workflow-editor-0.22.0.vsix";
-      sha256 = "sha256-dzPlnlziOFR6WLrSpRt0Y9Mvbjk7U5CN+0Q/9VdaHec=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.23.0/file/redhat.vscode-extension-serverless-workflow-editor-0.23.0.vsix";
+      sha256 = "sha256-hD2V1AiK+luEwC/7VqmFjEg+7w1xJVRIzaGJXpkPQjs=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-serverless-workflow-editor";
@@ -19299,10 +19299,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.61";
+    version = "0.0.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.61/file/shivaprasanth.dothttp-code-0.0.61.vsix";
-      sha256 = "sha256-tJOE5aUnpndkQI+PIl+MhXeFuZlMMeEFuVyOenJgha0=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.62/file/shivaprasanth.dothttp-code-0.0.62.vsix";
+      sha256 = "sha256-CpAklqLBd3kfLR+V1T9SMoxf92PHQj57dhofN/ZLaa0=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
@@ -23127,10 +23127,10 @@
   };
   vunguyentuan-vscode-css-variables = {
     pname = "vunguyentuan-vscode-css-variables";
-    version = "2.6.0";
+    version = "2.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.0/file/vunguyentuan.vscode-css-variables-2.6.0.vsix";
-      sha256 = "sha256-1iga8DSQiWBKJ0Zt3CX3Dg/0QCIGXzOB52SRGh2wi18=";
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.1/file/vunguyentuan.vscode-css-variables-2.6.1.vsix";
+      sha256 = "sha256-V1dtywpdV6CXZKnwOTa2PHMW6+sDDNxazc9r3U7iKas=";
     };
     license = "MIT";
     name = "vscode-css-variables";
@@ -24015,10 +24015,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.31";
+    version = "0.1.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.31/file/zardoy.better-snippets-0.1.31.vsix";
-      sha256 = "sha256-nYy1fxaqf+beGbIOIXGnPgBdH5nmAZL6JHLs4zrBKgE=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.32/file/zardoy.better-snippets-0.1.32.vsix";
+      sha256 = "sha256-bq3w2RmlA27X3sMaBklimAQKWjjyUSYtIbWrI3rJMro=";
     };
     license = "MIT";
     name = "better-snippets";
@@ -24099,10 +24099,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.14";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.14/file/zardoy.ts-essential-plugins-0.0.14.vsix";
-      sha256 = "sha256-xXKDDUQvugHaO0JckXZ82lwZrHoXQttgNOgJTEyU410=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.16/file/zardoy.ts-essential-plugins-0.0.16.vsix";
+      sha256 = "sha256-uWYOhas/YIjALe+hYsb2++MoEkZgz/3IX1DKiTq5cZg=";
     };
     license = "MIT";
     name = "ts-essential-plugins";
@@ -24123,10 +24123,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.19/file/zardoy.vetur-extended-0.0.19.vsix";
-      sha256 = "sha256-4P7k+TtlEMUbBJs2Lg4r1bghNrL0WS9e0ODAMMjs6wU=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.20/file/zardoy.vetur-extended-0.0.20.vsix";
+      sha256 = "sha256-egQnyFYpu3S3jQhMjHO1A2GoAdFvmJzBAZxrItzexaw=";
     };
     license = "MIT";
     name = "vetur-extended";

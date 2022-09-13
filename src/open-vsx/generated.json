@@ -6738,11 +6738,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fZtfR24BSROljQdUSrAJ38sDHpRHMt8CEawkL8IwfGo=",
+            "sha256": "sha256-CBSGYfMvxyHZprbGHRxhPAb1vzl00DWH9B9HPiGtTb8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.7/file/YXL.cloudmusic-9.16.7.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.16.8/file/YXL.cloudmusic-9.16.8.vsix"
         },
-        "version": "9.16.7"
+        "version": "9.16.8"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -20342,11 +20342,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pU5J17ZzvdIhzKOOAitGZVSATJnvd46suLcAFD3FdNg=",
+            "sha256": "sha256-V/TU8sc9IkdH6xhL7vXj/D1EXScWkdok2xM4fX12+nQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.22.0/file/kie-group.vscode-extension-kie-ba-bundle-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.23.0/file/kie-group.vscode-extension-kie-ba-bundle-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "kie-group-vscode-extension-kogito-bundle": {
         "cargoLocks": null,
@@ -20361,11 +20361,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pf5nla8aDxKNU3cONmdE9bWq1poPJhbXS4mxF00D1I8=",
+            "sha256": "sha256-fZIk0m5FzACNhVCpbviY9nvOOXwm2sZvmfdJQVW+Kic=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.22.0/file/kie-group.vscode-extension-kogito-bundle-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.23.0/file/kie-group.vscode-extension-kogito-bundle-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "kieler-keith-vscode": {
         "cargoLocks": null,
@@ -28360,11 +28360,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-R+gbBGDZARkf8vQAwlCvjw+jZHAexYxH/P96pL2FMCA=",
+            "sha256": "sha256-oOKBcFpYF1fGqHZXCf9qdSFhgEhTMjoQ15nBSfqDyJM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.13.60/file/redhat.ansible-0.13.60.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.13.63/file/redhat.ansible-0.13.63.vsix"
         },
-        "version": "0.13.60"
+        "version": "0.13.63"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
@@ -28607,11 +28607,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XZeTpeTPA9M3Wrjc3+wsjC9zZTXBd1oW/xYU5jruJbM=",
+            "sha256": "sha256-dNZLTi9x5IDYTpEOc5w07xzrVNGVN0tARDrTOMrs1fw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.22.0/file/redhat.vscode-extension-bpmn-editor-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.23.0/file/redhat.vscode-extension-bpmn-editor-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "redhat-vscode-extension-dmn-editor": {
         "cargoLocks": null,
@@ -28626,11 +28626,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ePcMZdqmsjNLeIyhUpp2SbO7YAV909/AELOWGcPYvss=",
+            "sha256": "sha256-VMlU+K7voU2bvcjVhle8XMN5orxLSVkGwlH/UYI9RB0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.22.0/file/redhat.vscode-extension-dmn-editor-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.23.0/file/redhat.vscode-extension-dmn-editor-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "redhat-vscode-extension-pmml-editor": {
         "cargoLocks": null,
@@ -28645,11 +28645,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FRGbkg2grJB8GbdRunyB61qDS5js7W8fhovphyQN1pk=",
+            "sha256": "sha256-FcfwQ8xQn5UXW/XW87ft1ibGbb752jzP6m6OWJPfx7Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.22.0/file/redhat.vscode-extension-pmml-editor-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.23.0/file/redhat.vscode-extension-pmml-editor-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "redhat-vscode-extension-red-hat-business-automation-bundle": {
         "cargoLocks": null,
@@ -28664,11 +28664,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cP6H0tvXtZAz1cLLVMqMrxmyI6P1/wpSHmsXJ20GVrU=",
+            "sha256": "sha256-iBba/dVJR42J5OjoHyW33PI5HkB8SDkd5sViiXMzTE4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.22.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.23.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "redhat-vscode-extension-serverless-workflow-editor": {
         "cargoLocks": null,
@@ -28683,11 +28683,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dzPlnlziOFR6WLrSpRt0Y9Mvbjk7U5CN+0Q/9VdaHec=",
+            "sha256": "sha256-hD2V1AiK+luEwC/7VqmFjEg+7w1xJVRIzaGJXpkPQjs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.22.0/file/redhat.vscode-extension-serverless-workflow-editor-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.23.0/file/redhat.vscode-extension-serverless-workflow-editor-0.23.0.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.23.0"
     },
     "redhat-vscode-microprofile": {
         "cargoLocks": null,
@@ -30564,11 +30564,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tJOE5aUnpndkQI+PIl+MhXeFuZlMMeEFuVyOenJgha0=",
+            "sha256": "sha256-CpAklqLBd3kfLR+V1T9SMoxf92PHQj57dhofN/ZLaa0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.61/file/shivaprasanth.dothttp-code-0.0.61.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.62/file/shivaprasanth.dothttp-code-0.0.62.vsix"
         },
-        "version": "0.0.61"
+        "version": "0.0.62"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
@@ -36625,11 +36625,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1iga8DSQiWBKJ0Zt3CX3Dg/0QCIGXzOB52SRGh2wi18=",
+            "sha256": "sha256-V1dtywpdV6CXZKnwOTa2PHMW6+sDDNxazc9r3U7iKas=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.0/file/vunguyentuan.vscode-css-variables-2.6.0.vsix"
+            "url": "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.1/file/vunguyentuan.vscode-css-variables-2.6.1.vsix"
         },
-        "version": "2.6.0"
+        "version": "2.6.1"
     },
     "vunguyentuan-vscode-postcss": {
         "cargoLocks": null,
@@ -38031,11 +38031,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nYy1fxaqf+beGbIOIXGnPgBdH5nmAZL6JHLs4zrBKgE=",
+            "sha256": "sha256-bq3w2RmlA27X3sMaBklimAQKWjjyUSYtIbWrI3rJMro=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.31/file/zardoy.better-snippets-0.1.31.vsix"
+            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.32/file/zardoy.better-snippets-0.1.32.vsix"
         },
-        "version": "0.1.31"
+        "version": "0.1.32"
     },
     "zardoy-extra-commands": {
         "cargoLocks": null,
@@ -38164,11 +38164,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xXKDDUQvugHaO0JckXZ82lwZrHoXQttgNOgJTEyU410=",
+            "sha256": "sha256-uWYOhas/YIjALe+hYsb2++MoEkZgz/3IX1DKiTq5cZg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.14/file/zardoy.ts-essential-plugins-0.0.14.vsix"
+            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.16/file/zardoy.ts-essential-plugins-0.0.16.vsix"
         },
-        "version": "0.0.14"
+        "version": "0.0.16"
     },
     "zardoy-typescript-server-logger": {
         "cargoLocks": null,
@@ -38202,11 +38202,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4P7k+TtlEMUbBJs2Lg4r1bghNrL0WS9e0ODAMMjs6wU=",
+            "sha256": "sha256-egQnyFYpu3S3jQhMjHO1A2GoAdFvmJzBAZxrItzexaw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.19/file/zardoy.vetur-extended-0.0.19.vsix"
+            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.20/file/zardoy.vetur-extended-0.0.20.vsix"
         },
-        "version": "0.0.19"
+        "version": "0.0.20"
     },
     "zardoy-vscode-terminal-code-runner": {
         "cargoLocks": null,
