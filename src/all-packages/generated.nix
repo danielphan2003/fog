@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "96e3e1161c7f0580e6f5dd20daaa4ef31fbded47";
+    version = "3cf8df78c1e64d03b068b4e48b4f6018b783fa86";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "96e3e1161c7f0580e6f5dd20daaa4ef31fbded47";
+      rev = "3cf8df78c1e64d03b068b4e48b4f6018b783fa86";
       fetchSubmodules = false;
-      sha256 = "sha256-6UtrUBouHfFUXME6MWLk42W/D7UAYDkQwPlKHpqqT6A=";
+      sha256 = "sha256-svj+HkOyH9aZGKEPft91QsWdAEXmY/jJhXZoKtLN2KI=";
     });
   };
   caddy = {
@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "2958b1d3ec03c9b49cd793f02432a38acd1f140e";
+    version = "9b021930e0ab39c894590f7a33c0d5bab4aeb7e2";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "2958b1d3ec03c9b49cd793f02432a38acd1f140e";
+      rev = "9b021930e0ab39c894590f7a33c0d5bab4aeb7e2";
       fetchSubmodules = false;
-      sha256 = "sha256-hB4NVJW2exHoKsMp0CKzHerYgj8aR77rV+ZsCoWA1Dg=";
+      sha256 = "sha256-hL/ytGzk2x5wi4Nod5gHpv4EQxouBPYKsyB6z7vv9hU=";
     });
   };
   godu = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "006228109281ed4d07ace635cf419c605d62e4a6";
+    version = "7d4f0a319943f56b1a277ceae198fc3f77615afe";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "006228109281ed4d07ace635cf419c605d62e4a6";
+      rev = "7d4f0a319943f56b1a277ceae198fc3f77615afe";
       fetchSubmodules = false;
-      sha256 = "sha256-rlSXuvpszZoH78kHVeNRlNB8AK1cFP+E6qhV3BaONiA=";
+      sha256 = "sha256-gw5AnClp+pm7Qd35QpjYHulz4b0P1j+AW6o6974PIbs=";
     });
   };
   ibus = {
@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "baa7e6c1a61a89660300187f9a570053083c60b9";
+    version = "34b54b492415e0ae39d5ecb46c6c5090d2614e1c";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "baa7e6c1a61a89660300187f9a570053083c60b9";
+      rev = "34b54b492415e0ae39d5ecb46c6c5090d2614e1c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-acM7aEWiMUbaRqjbA2CZcNxJXMJ/tzzlODVxbeXswvY=";
+      sha256 = "sha256-V37hIJy4ucqNZLmH1J7I+jRt3n9l3T/Gs5CDYHFZVJc=";
     };
   };
   spicetify-cli = {
