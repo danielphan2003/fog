@@ -3579,10 +3579,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "0.3.0";
+    version = "2022.9.1414";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix";
-      sha256 = "sha256-dVjI9uDaRLT5I+Iyy728GNzu6cHUNwueUTpAN+9dSQU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1414/file/Slint.slint-nightly-2022.9.1414.vsix";
+      sha256 = "sha256-O+iZF4acQKHNffYsQfhR3BD0ZB6A0l3GuTIJrtvWxL4=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5609,8 +5609,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -5895,10 +5895,10 @@
   };
   assisrMatheus-sidebar-markdown-notes = {
     pname = "assisrMatheus-sidebar-markdown-notes";
-    version = "1.0.4";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/assisrMatheus/sidebar-markdown-notes/1.0.4/file/assisrMatheus.sidebar-markdown-notes-1.0.4.vsix";
-      sha256 = "sha256-shqLyJWmRNfi441yErSuDM4wei/XD/MCnz/08wqEHH8=";
+      url = "https://open-vsx.org/api/assisrMatheus/sidebar-markdown-notes/1.1.0/file/assisrMatheus.sidebar-markdown-notes-1.1.0.vsix";
+      sha256 = "sha256-3ggGyit9ZSomBSl2Dp44yk/yNqEdluM8knB+Zy0fxgw=";
     };
     license = "GPL-3.0-or-later";
     name = "sidebar-markdown-notes";
@@ -10553,8 +10553,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -18339,10 +18339,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.5/file/rgherdt.scheme-lsp-0.3.5.vsix";
-      sha256 = "sha256-QzztSrP2YlEoV09QoXxgWcpC0aTxS9/6L9fiFLzKIMk=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.6/file/rgherdt.scheme-lsp-0.3.6.vsix";
+      sha256 = "sha256-N39mok6/VINF+72M5yVfueoecvs3MQBQRjKXU9B2rmc=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -19901,8 +19901,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
