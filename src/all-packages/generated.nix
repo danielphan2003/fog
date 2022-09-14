@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6554";
+    version = "1.0.6555";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6554.tar.bz2";
-      sha256 = "sha256-nBPgzyx1NcoI2XprwyddPL31JCu4IVLbGVmeTib0jOo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6555.tar.bz2";
+      sha256 = "sha256-c3chOYZh8h22YRWu8rOqKmVK2G09rQKy2Cne22Ke9eI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6554";
+    version = "1.0.6555";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6554-1_all.deb";
-      sha256 = "sha256-PNuQNNxw6ZtFa4xMjwm0sZ0dYW8OOwlUlz462PXTTms=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6555-1_all.deb";
+      sha256 = "sha256-ZUBrcgjymcL3rk1yo316MxE99ZnAKKc6fqABQdEmsH0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1271,13 +1271,13 @@
   };
   uniemoji = {
     pname = "uniemoji";
-    version = "0483e15e6c3f1ef357602af79c8f8a8de94142f6";
+    version = "c9d758fd40b74ba043b1ef89a11b858fc08f65b1";
     src = fetchFromGitHub ({
       owner = "salty-horse";
       repo = "ibus-uniemoji";
-      rev = "0483e15e6c3f1ef357602af79c8f8a8de94142f6";
+      rev = "c9d758fd40b74ba043b1ef89a11b858fc08f65b1";
       fetchSubmodules = false;
-      sha256 = "sha256-km+1t+NDUQeCLPJWE+LVi0abwr7jd811Dj4JSaJwaY0=";
+      sha256 = "sha256-Yr4hr2GDJOKnYuorOfT99fYqtFvtO2MHnEJpFhZoRbU=";
     });
   };
   vaultwarden = {

@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nBPgzyx1NcoI2XprwyddPL31JCu4IVLbGVmeTib0jOo=",
+            "sha256": "sha256-c3chOYZh8h22YRWu8rOqKmVK2G09rQKy2Cne22Ke9eI=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6554.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6555.tar.bz2"
         },
-        "version": "1.0.6554"
+        "version": "1.0.6555"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PNuQNNxw6ZtFa4xMjwm0sZ0dYW8OOwlUlz462PXTTms=",
+            "sha256": "sha256-ZUBrcgjymcL3rk1yo316MxE99ZnAKKc6fqABQdEmsH0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6554-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6555-1_all.deb"
         },
-        "version": "1.0.6554"
+        "version": "1.0.6555"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2111,11 +2111,11 @@
             "name": null,
             "owner": "salty-horse",
             "repo": "ibus-uniemoji",
-            "rev": "0483e15e6c3f1ef357602af79c8f8a8de94142f6",
-            "sha256": "sha256-km+1t+NDUQeCLPJWE+LVi0abwr7jd811Dj4JSaJwaY0=",
+            "rev": "c9d758fd40b74ba043b1ef89a11b858fc08f65b1",
+            "sha256": "sha256-Yr4hr2GDJOKnYuorOfT99fYqtFvtO2MHnEJpFhZoRbU=",
             "type": "github"
         },
-        "version": "0483e15e6c3f1ef357602af79c8f8a8de94142f6"
+        "version": "c9d758fd40b74ba043b1ef89a11b858fc08f65b1"
     },
     "vaultwarden": {
         "cargoLocks": {
