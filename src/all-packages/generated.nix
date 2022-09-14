@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "15c1f6dadf2ade072ffd6fb8ad51781953de88d8";
+    version = "060ed859d4b12122b59ab40d511cb65171c9ad4b";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "15c1f6dadf2ade072ffd6fb8ad51781953de88d8";
+      rev = "060ed859d4b12122b59ab40d511cb65171c9ad4b";
       fetchSubmodules = false;
-      sha256 = "sha256-HsYUL1AV3dkidvRcqQJdflJPRolu2wDLxV3ckJg7MQo=";
+      sha256 = "sha256-jvtuQ3xjKm1eHNo3Mrrciz/N4+A50Ff1b4zbiyh0hpI=";
     });
   };
   cinny-bin = {
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.38.0";
+    version = "0.39.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.38.0.tar.gz";
-      sha256 = "sha256-yhU7g7cuqTLpPhb85+2/NIgH/Xf2BeN1z7T3Sf5TNWs=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.39.0.tar.gz";
+      sha256 = "sha256-aJ65bk0UUcnbxS5I9BsgQ8CwHk8x188MTWomvr2P4HE=";
     };
   };
   nix-zsh-completions = {
