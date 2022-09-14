@@ -1265,8 +1265,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3159,10 +3159,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1403";
+    version = "31.0.1404";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1403/file/Prisma.prisma-insider-31.0.1403.vsix";
-      sha256 = "sha256-CmhrZgwoKrCqs0E7kXLYpdsjW2ZLm8oj6ul2M/0gJaQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1404/file/Prisma.prisma-insider-31.0.1404.vsix";
+      sha256 = "sha256-wvGQUJaU0wtV9TBNc5aNaVXReKGvs9PiEg7NC79sX64=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3579,10 +3579,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.1318";
+    version = "2022.9.1414";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1318/file/Slint.slint-nightly-2022.9.1318.vsix";
-      sha256 = "sha256-Bwndl+gwiin2VWsEfrq6UuVoeQMbdxgMZAZNGEB/43E=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1414/file/Slint.slint-nightly-2022.9.1414.vsix";
+      sha256 = "sha256-O+iZF4acQKHNffYsQfhR3BD0ZB6A0l3GuTIJrtvWxL4=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -8451,10 +8451,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.12.10053";
+    version = "1.15.10534";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.12.10053/file/devsense.phptools-vscode-1.12.10053.vsix";
-      sha256 = "sha256-it7jBkNadhFDUJCe0C/iuf4EkgMbf61UlJHjnOPnGno=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10534/file/devsense.phptools-vscode-1.15.10534.vsix";
+      sha256 = "sha256-vxlnhHGoZhTxzDGcBNnQkv0qJGBBYFMCXocBXuITwZY=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -9807,10 +9807,10 @@
   };
   foretag-development-toolkit = {
     pname = "foretag-development-toolkit";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.5/file/foretag.development-toolkit-0.1.5.vsix";
-      sha256 = "sha256-SYSNjEqaI2GFYp7ZDQds1nX8gJxr9Sa1pxhhtvsv4DE=";
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.6/file/foretag.development-toolkit-0.1.6.vsix";
+      sha256 = "sha256-7icMQXqjyd9jIT1PQD1+KoBkAvVI3ZVYrR3fgO1saWU=";
     };
     license = "";
     name = "development-toolkit";
@@ -9819,10 +9819,10 @@
   };
   foretag-frontend-toolkit = {
     pname = "foretag-frontend-toolkit";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.5/file/foretag.frontend-toolkit-0.1.5.vsix";
-      sha256 = "sha256-mdTrds/TP1QLsP7lXEvMBablx26yMiJZlwGM6R/c+IY=";
+      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.6/file/foretag.frontend-toolkit-0.1.6.vsix";
+      sha256 = "sha256-Beapqdv+N+5FTV13e7D4xVjrOItDpEBDMAhuZsHC0qs=";
     };
     license = "";
     name = "frontend-toolkit";
@@ -9831,10 +9831,10 @@
   };
   foretag-rust-toolkit = {
     pname = "foretag-rust-toolkit";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.5/file/foretag.rust-toolkit-0.1.5.vsix";
-      sha256 = "sha256-6/idM0Wfzjb1Rtg1nLyUYTtg1cLO0aWCws5DdYNk7Gc=";
+      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.6/file/foretag.rust-toolkit-0.1.6.vsix";
+      sha256 = "sha256-eYCw8JiX3O4fsWqVqzSifDnEyGfo76NP5V1OragFDJM=";
     };
     license = "";
     name = "rust-toolkit";
@@ -13347,10 +13347,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18459,10 +18459,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.36.0";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.36.0/file/robocorp.robocorp-code-0.36.0.vsix";
-      sha256 = "sha256-ErMtv2SEuIW/ZhzxO+gYyf+AjUW6Zji4zfQ48rccSj0=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.37.0/file/robocorp.robocorp-code-0.37.0.vsix";
+      sha256 = "sha256-5TcjGHScjqgzcGYQyc0opdkKUH2oGuCEQfliEMYo/Tg=";
     };
     license = "";
     name = "robocorp-code";
@@ -18471,10 +18471,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "1.1.0";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.1.0/file/robocorp.robotframework-lsp-1.1.0.vsix";
-      sha256 = "sha256-DNHfZfO4N2Z658W2X4AY8RQ4WUYhlphvSwxLi7vWqhE=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.1.3/file/robocorp.robotframework-lsp-1.1.3.vsix";
+      sha256 = "sha256-Gih6g5v1pC2cqytjm2fVb/Nand6TTtwfA4nu7ifZNGA=";
     };
     license = "Apache 2.0";
     name = "robotframework-lsp";
@@ -19443,10 +19443,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19901,8 +19901,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24375,10 +24375,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
