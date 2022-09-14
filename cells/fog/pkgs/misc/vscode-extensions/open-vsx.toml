@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -3400,8 +3400,8 @@ fetch.url = "https://open-vsx.org/api/vsls-contrib/codetour/0.0.59/file/vsls-con
 passthru = { publisher = "vsls-contrib", name = "codetour", description = "VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor", license = "MIT" }
 
 [jebbs-markdown-extended]
-src.manual = "1.1.1" # jebbs.markdown-extended
-fetch.url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.1/file/jebbs.markdown-extended-1.1.1.vsix" # jebbs.markdown-extended
+src.manual = "1.1.2" # jebbs.markdown-extended
+fetch.url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.2/file/jebbs.markdown-extended-1.1.2.vsix" # jebbs.markdown-extended
 passthru = { publisher = "jebbs", name = "markdown-extended", description = "Extended syntaxes to built-in markdown & What you see is what you get exporter.", license = "MIT" }
 
 [bmalehorn-vscode-fish]
@@ -4585,8 +4585,8 @@ fetch.url = "https://open-vsx.org/api/ms-azuretools/vscode-azureresourcegroups/0
 passthru = { publisher = "ms-azuretools", name = "vscode-azureresourcegroups", description = "An extension for viewing and managing Azure resources.", license = "MIT" }
 
 [ms-vscode-live-server]
-src.manual = "0.4.0" # ms-vscode.live-server
-fetch.url = "https://open-vsx.org/api/ms-vscode/live-server/0.4.0/file/ms-vscode.live-server-0.4.0.vsix" # ms-vscode.live-server
+src.manual = "0.4.1" # ms-vscode.live-server
+fetch.url = "https://open-vsx.org/api/ms-vscode/live-server/0.4.1/file/ms-vscode.live-server-0.4.1.vsix" # ms-vscode.live-server
 passthru = { publisher = "ms-vscode", name = "live-server", description = "Hosts a local server in your workspace for you to preview your webpages on.", license = "MIT" }
 
 [ms-azuretools-vscode-azureappservice]
@@ -4670,8 +4670,8 @@ fetch.url = "https://open-vsx.org/api/donjayamanne/python-environment-manager/1.
 passthru = { publisher = "donjayamanne", name = "python-environment-manager", description = "View and manage Python environments & packages.", license = "MIT" }
 
 [giscafer-leek-fund]
-src.manual = "2.8.2" # giscafer.leek-fund
-fetch.url = "https://open-vsx.org/api/giscafer/leek-fund/2.8.2/file/giscafer.leek-fund-2.8.2.vsix" # giscafer.leek-fund
+src.manual = "2.9.0" # giscafer.leek-fund
+fetch.url = "https://open-vsx.org/api/giscafer/leek-fund/2.9.0/file/giscafer.leek-fund-2.9.0.vsix" # giscafer.leek-fund
 passthru = { publisher = "giscafer", name = "leek-fund", description = "韭菜盒子，VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件", license = "BSD-3-Clause" }
 
 [timdmackey-mechanic-liquid]
@@ -4680,8 +4680,8 @@ fetch.url = "https://open-vsx.org/api/timdmackey/mechanic-liquid/0.0.18/file/tim
 passthru = { publisher = "timdmackey", name = "mechanic-liquid", description = "Provides syntax highlighting and code snippets for Mechanic-flavored Liquid", license = "LICENSE.md" }
 
 [ms-pyright-pyright]
-src.manual = "1.1.270" # ms-pyright.pyright
-fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.270/file/ms-pyright.pyright-1.1.270.vsix" # ms-pyright.pyright
+src.manual = "1.1.271" # ms-pyright.pyright
+fetch.url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.271/file/ms-pyright.pyright-1.1.271.vsix" # ms-pyright.pyright
 passthru = { publisher = "ms-pyright", name = "pyright", description = "VS Code static type checking for Python", license = "MIT" }
 
 [harmony-harmony-assist]
@@ -4925,8 +4925,8 @@ fetch.url = "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.3/file/styl
 passthru = { publisher = "stylelint", name = "vscode-stylelint", description = "Official Stylelint extension for Visual Studio Code", license = "MIT" }
 
 [amazonwebservices-aws-toolkit-vscode]
-src.manual = "1.49.0" # amazonwebservices.aws-toolkit-vscode
-fetch.url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.49.0/file/amazonwebservices.aws-toolkit-vscode-1.49.0.vsix" # amazonwebservices.aws-toolkit-vscode
+src.manual = "1.50.0" # amazonwebservices.aws-toolkit-vscode
+fetch.url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.50.0/file/amazonwebservices.aws-toolkit-vscode-1.50.0.vsix" # amazonwebservices.aws-toolkit-vscode
 passthru = { publisher = "amazonwebservices", name = "aws-toolkit-vscode", description = "Amazon Web Services toolkit for browsing and updating cloud resources", license = "Apache-2.0" }
 
 [MS-CEINTL-vscode-language-pack-pt-BR]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -8815,8 +8815,8 @@ fetch.url = "https://open-vsx.org/api/hideoo/trailing/0.1.0/file/hideoo.trailing
 passthru = { publisher = "hideoo", name = "trailing", description = "Toggle trailing symbols: commas, semicolons and colons.", license = "MIT" }
 
 [nickmillerdev-pytest-fixtures]
-src.manual = "0.2.4" # nickmillerdev.pytest-fixtures
-fetch.url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.4/file/nickmillerdev.pytest-fixtures-0.2.4.vsix" # nickmillerdev.pytest-fixtures
+src.manual = "0.2.5" # nickmillerdev.pytest-fixtures
+fetch.url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.5/file/nickmillerdev.pytest-fixtures-0.2.5.vsix" # nickmillerdev.pytest-fixtures
 passthru = { publisher = "nickmillerdev", name = "pytest-fixtures", description = "Pytest fixtures support for vscode", license = "MIT" }
 
 [Brenek-kotlin-for-frc]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.3/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.1216" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1216/file/Slint.slint-nightly-2022.9.1216.vsix" # Slint.slint-nightly
+src.manual = "2022.9.1318" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1318/file/Slint.slint-nightly-2022.9.1318.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1402" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1402/file/Prisma.prisma-insider-31.0.1402.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1403" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1403/file/Prisma.prisma-insider-31.0.1403.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10447,4 +10447,10 @@ passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description 
 
 
 
+
+
+[Google-cros-ide]
+src.manual = "0.0.14" # Google.cros-ide
+fetch.url = "https://open-vsx.org/api/Google/cros-ide/0.0.14/file/Google.cros-ide-0.0.14.vsix" # Google.cros-ide
+passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS Development", license = "BSD-3-Clause" }
 

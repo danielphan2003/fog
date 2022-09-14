@@ -1321,6 +1321,18 @@
     description = "Official GitLab-maintained extension for Visual Studio Code.";
     publisher = "GitLab";
   };
+  Google-cros-ide = {
+    pname = "Google-cros-ide";
+    version = "0.0.14";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Google/cros-ide/0.0.14/file/Google.cros-ide-0.0.14.vsix";
+      sha256 = "sha256-cxGV4kptrV/5itkUEJnLAM0CZ3O0WbP1sLR6rMa5CDI=";
+    };
+    license = "BSD-3-Clause";
+    name = "cros-ide";
+    description = "ChromiumOS Development";
+    publisher = "Google";
+  };
   Grafana-vscode-jsonnet = {
     pname = "Grafana-vscode-jsonnet";
     version = "0.3.1";
@@ -3147,10 +3159,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1402";
+    version = "31.0.1403";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1402/file/Prisma.prisma-insider-31.0.1402.vsix";
-      sha256 = "sha256-FcVBxM1UQV+thWaYbXxQ4Um5UJfjHjVurjRgyhYckFo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1403/file/Prisma.prisma-insider-31.0.1403.vsix";
+      sha256 = "sha256-CmhrZgwoKrCqs0E7kXLYpdsjW2ZLm8oj6ul2M/0gJaQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3567,10 +3579,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.1216";
+    version = "2022.9.1318";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1216/file/Slint.slint-nightly-2022.9.1216.vsix";
-      sha256 = "sha256-0Nggtt+Rs5dqvdP5aeW1hesRzyhfCLwp83x0rrKeTNI=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1318/file/Slint.slint-nightly-2022.9.1318.vsix";
+      sha256 = "sha256-Bwndl+gwiin2VWsEfrq6UuVoeQMbdxgMZAZNGEB/43E=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5031,10 +5043,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.49.0";
+    version = "1.50.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.49.0/file/amazonwebservices.aws-toolkit-vscode-1.49.0.vsix";
-      sha256 = "sha256-mRatM+YGHzndudhr6aJG0aC4YmjbT79JU/7ngRj34AY=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.50.0/file/amazonwebservices.aws-toolkit-vscode-1.50.0.vsix";
+      sha256 = "sha256-XcLt1IvIWVoURDhfQ4DgSaI5glwybnieqLcy73NrCkI=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -10311,10 +10323,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.8.2";
+    version = "2.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.8.2/file/giscafer.leek-fund-2.8.2.vsix";
-      sha256 = "sha256-JhqerCUHVbqHsvCFbEjdsiX95+OGGEZgM7b7hW2kWRo=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.9.0/file/giscafer.leek-fund-2.9.0.vsix";
+      sha256 = "sha256-cK2nFpbyDDscV3KEaqMSQwCf6uII7WJU3mu6CBLgSP0=";
     };
     license = "BSD-3-Clause";
     name = "leek-fund";
@@ -10529,8 +10541,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12063,10 +12075,10 @@
   };
   jebbs-markdown-extended = {
     pname = "jebbs-markdown-extended";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.1/file/jebbs.markdown-extended-1.1.1.vsix";
-      sha256 = "sha256-Io+eGyWDHLOnk/uLzPPxeO+js9AZ3srdiFwFZEUsbOo=";
+      url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.2/file/jebbs.markdown-extended-1.1.2.vsix";
+      sha256 = "sha256-wk+o9NOYTzQY4zt2UZlBG4wSnvoFdW9duPv7eGUQNz4=";
     };
     license = "MIT";
     name = "markdown-extended";
@@ -13323,10 +13335,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -15027,10 +15039,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.270";
+    version = "1.1.271";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.270/file/ms-pyright.pyright-1.1.270.vsix";
-      sha256 = "sha256-WjilAmu8grTNf5rXsTtKBIsDVkLVcEthMs0eol8j754=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.271/file/ms-pyright.pyright-1.1.271.vsix";
+      sha256 = "sha256-uw1rUDlLjxzaySmAdZ8oZNVw08TlT7Z/acaJi21ms/M=";
     };
     license = "MIT";
     name = "pyright";
@@ -15303,10 +15315,10 @@
   };
   ms-vscode-live-server = {
     pname = "ms-vscode-live-server";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/live-server/0.4.0/file/ms-vscode.live-server-0.4.0.vsix";
-      sha256 = "sha256-TKPf/sGgusXpxYN+jXitY7TeBdEqsk7kj7Qm9AOgIy8=";
+      url = "https://open-vsx.org/api/ms-vscode/live-server/0.4.1/file/ms-vscode.live-server-0.4.1.vsix";
+      sha256 = "sha256-0Gnz9k8/w+4RQnHFPJXriCz34Rg04dgwTp7A+x9GU0w=";
     };
     license = "MIT";
     name = "live-server";
@@ -16071,10 +16083,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.4/file/nickmillerdev.pytest-fixtures-0.2.4.vsix";
-      sha256 = "sha256-Nf93H1/NsHdCWmdPc0S+imud+mdmE3PLinOln6FyGZM=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.5/file/nickmillerdev.pytest-fixtures-0.2.5.vsix";
+      sha256 = "sha256-qyxukecTxbh26KWVOubjiQNs2oDohzRRgevB67Ik3b8=";
     };
     license = "MIT";
     name = "pytest-fixtures";
@@ -19419,10 +19431,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
