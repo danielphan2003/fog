@@ -4070,8 +4070,8 @@ fetch.url = "https://open-vsx.org/api/gwoptics/katscript/0.2.0/file/gwoptics.kat
 passthru = { publisher = "gwoptics", name = "katscript", description = "Syntax highlighting for KatScript", license = "MIT" }
 
 [zardoy-ts-essential-plugins]
-src.manual = "0.0.17" # zardoy.ts-essential-plugins
-fetch.url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.17/file/zardoy.ts-essential-plugins-0.0.17.vsix" # zardoy.ts-essential-plugins
+src.manual = "0.0.18" # zardoy.ts-essential-plugins
+fetch.url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.18/file/zardoy.ts-essential-plugins-0.0.18.vsix" # zardoy.ts-essential-plugins
 passthru = { publisher = "zardoy", name = "ts-essential-plugins", description = "", license = "MIT" }
 
 [tensorchord-vscode-envd]
@@ -8640,8 +8640,8 @@ fetch.url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.10/file/arzg.xcode-th
 passthru = { publisher = "arzg", name = "xcode-theme", description = "Xcode’s themes, ported to VS Code", license = "MIT" }
 
 [pokey-parse-tree]
-src.manual = "0.21.1" # pokey.parse-tree
-fetch.url = "https://open-vsx.org/api/pokey/parse-tree/0.21.1/file/pokey.parse-tree-0.21.1.vsix" # pokey.parse-tree
+src.manual = "0.21.2" # pokey.parse-tree
+fetch.url = "https://open-vsx.org/api/pokey/parse-tree/0.21.2/file/pokey.parse-tree-0.21.2.vsix" # pokey.parse-tree
 passthru = { publisher = "pokey", name = "parse-tree", description = "Access document syntax using tree-sitter", license = "MIT" }
 
 [digma-digma]
@@ -10453,6 +10453,7 @@ passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description 
 src.manual = "0.0.14" # Google.cros-ide
 fetch.url = "https://open-vsx.org/api/Google/cros-ide/0.0.14/file/Google.cros-ide-0.0.14.vsix" # Google.cros-ide
 passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS Development", license = "BSD-3-Clause" }
+
 
 
 

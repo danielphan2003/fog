@@ -17283,10 +17283,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.21.1";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.21.1/file/pokey.parse-tree-0.21.1.vsix";
-      sha256 = "sha256-KU0jKnO4UCyrq4m1ZMq0gjUUFfFo1jyxSpnk/1fyz+o=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.21.2/file/pokey.parse-tree-0.21.2.vsix";
+      sha256 = "sha256-qv8bcYDiOXS3rsccAxQsMS3A7MV9BC0lM+Yj83MF/5k=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -24111,10 +24111,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.17/file/zardoy.ts-essential-plugins-0.0.17.vsix";
-      sha256 = "sha256-CdoF1lyoe3RX8KlHpVLG1EBKKC045bg4ZAxLlS7LpzI=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.18/file/zardoy.ts-essential-plugins-0.0.18.vsix";
+      sha256 = "sha256-WCVxE45y2W7QGs6a4hrx4eRxFIl8e2FLvDf7wEV9SZM=";
     };
     license = "MIT";
     name = "ts-essential-plugins";
