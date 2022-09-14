@@ -1117,6 +1117,18 @@
     description = "(ACC) AS3 Configuration Converter integration";
     publisher = "F5DevCentral";
   };
+  FIUBA-photran-lsp-client-vscode = {
+    pname = "FIUBA-photran-lsp-client-vscode";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/FIUBA/photran-lsp-client-vscode/0.1.0/file/FIUBA.photran-lsp-client-vscode-0.1.0.vsix";
+      sha256 = "sha256-d+LR8EWEYfVxpvKcfIRkLxc7boP3Aels1QUXm3n/aAg=";
+    };
+    license = "MIT";
+    name = "photran-lsp-client-vscode";
+    description = "A language client for Fortran, powered by Photran";
+    publisher = "FIUBA";
+  };
   FelixAngelov-bloc = {
     pname = "FelixAngelov-bloc";
     version = "6.6.1";
@@ -1265,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -13035,10 +13047,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13347,10 +13359,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -15807,10 +15819,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.29";
+    version = "1.1.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.29/file/mutable-ai.mutable-ai-1.1.29.vsix";
-      sha256 = "sha256-wgM22LzWTrsxIbZp49bARr2TRMsYOZa4Nw53MWh5Wys=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.30/file/mutable-ai.mutable-ai-1.1.30.vsix";
+      sha256 = "sha256-HH6zbo5Ua+GnWUIq0Ie8aMPzyWGEBMcE/8/5WiO372w=";
     };
     license = "";
     name = "mutable-ai";
@@ -18636,6 +18648,18 @@
     name = "vscode-theme-darcula";
     description = "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs";
     publisher = "rokoroku";
+  };
+  root16-bamboo-pa-vscode = {
+    pname = "root16-bamboo-pa-vscode";
+    version = "0.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/root16/bamboo-pa-vscode/0.2.2/file/root16.bamboo-pa-vscode-0.2.2.vsix";
+      sha256 = "sha256-BKEbUyps2usp1DQdOvdjDlIuZ0r+c5PkgRv/zY7SdRY=";
+    };
+    license = "MIT";
+    name = "bamboo-pa-vscode";
+    description = "Allows users to create, update, and publish webresources on the Microsoft Power Platform straight from vscode";
+    publisher = "root16";
   };
   rozbo-papercolor-vscode = {
     pname = "rozbo-papercolor-vscode";

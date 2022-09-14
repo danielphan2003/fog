@@ -1766,6 +1766,25 @@
         },
         "version": "3.8.6"
     },
+    "FIUBA-photran-lsp-client-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "FIUBA-photran-lsp-client-vscode",
+        "passthru": {
+            "description": "A language client for Fortran, powered by Photran",
+            "license": "MIT",
+            "name": "photran-lsp-client-vscode",
+            "publisher": "FIUBA"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-d+LR8EWEYfVxpvKcfIRkLxc7boP3Aels1QUXm3n/aAg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/FIUBA/photran-lsp-client-vscode/0.1.0/file/FIUBA.photran-lsp-client-vscode-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "FelixAngelov-bloc": {
         "cargoLocks": null,
         "extract": null,
@@ -2007,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -20646,11 +20665,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -21140,11 +21159,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -25035,11 +25054,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wgM22LzWTrsxIbZp49bARr2TRMsYOZa4Nw53MWh5Wys=",
+            "sha256": "sha256-HH6zbo5Ua+GnWUIq0Ie8aMPzyWGEBMcE/8/5WiO372w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.29/file/mutable-ai.mutable-ai-1.1.29.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.30/file/mutable-ai.mutable-ai-1.1.30.vsix"
         },
-        "version": "1.1.29"
+        "version": "1.1.30"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -29505,6 +29524,25 @@
             "url": "https://open-vsx.org/api/rokoroku/vscode-theme-darcula/1.2.3/file/rokoroku.vscode-theme-darcula-1.2.3.vsix"
         },
         "version": "1.2.3"
+    },
+    "root16-bamboo-pa-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "root16-bamboo-pa-vscode",
+        "passthru": {
+            "description": "Allows users to create, update, and publish webresources on the Microsoft Power Platform straight from vscode",
+            "license": "MIT",
+            "name": "bamboo-pa-vscode",
+            "publisher": "root16"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-BKEbUyps2usp1DQdOvdjDlIuZ0r+c5PkgRv/zY7SdRY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/root16/bamboo-pa-vscode/0.2.2/file/root16.bamboo-pa-vscode-0.2.2.vsix"
+        },
+        "version": "0.2.2"
     },
     "rozbo-papercolor-vscode": {
         "cargoLocks": null,
