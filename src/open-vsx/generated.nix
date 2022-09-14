@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "0.6.3";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.6.3/file/ArmantGoldswain.seesharp-theme-0.6.3.vsix";
-      sha256 = "sha256-5rsW8zq9aDqnGx8udIaJ2/EoTC0ZncVJ+V4fzWSOsyo=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.7.0/file/ArmantGoldswain.seesharp-theme-0.7.0.vsix";
+      sha256 = "sha256-vcQSFsvG/Ohf3Cm6UVl1irgHAsXTLY0zPewrmL51VUc=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -10565,8 +10565,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13371,10 +13371,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1663073954";
+    version = "2022.9.1663186829";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663073954/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663073954.vsix";
-      sha256 = "sha256-xUKXLp3RbmHLk34AGmPZC1hsqSPoXnZrNOPkrMZwvfA=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663186829/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663186829.vsix";
+      sha256 = "sha256-ag8NuarMTZp8umtrwZzm/RE3/CxrTlYfoLH51zATA0A=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -19443,10 +19443,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

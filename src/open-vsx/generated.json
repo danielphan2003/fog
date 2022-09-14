@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5rsW8zq9aDqnGx8udIaJ2/EoTC0ZncVJ+V4fzWSOsyo=",
+            "sha256": "sha256-vcQSFsvG/Ohf3Cm6UVl1irgHAsXTLY0zPewrmL51VUc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.6.3/file/ArmantGoldswain.seesharp-theme-0.6.3.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/0.7.0/file/ArmantGoldswain.seesharp-theme-0.7.0.vsix"
         },
-        "version": "0.6.3"
+        "version": "0.7.0"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -16732,9 +16732,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -21178,11 +21178,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xUKXLp3RbmHLk34AGmPZC1hsqSPoXnZrNOPkrMZwvfA=",
+            "sha256": "sha256-ag8NuarMTZp8umtrwZzm/RE3/CxrTlYfoLH51zATA0A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663073954/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663073954.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663186829/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663186829.vsix"
         },
-        "version": "2022.9.1663073954"
+        "version": "2022.9.1663186829"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -30792,11 +30792,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
