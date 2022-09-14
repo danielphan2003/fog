@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-918";
+    version = "1.0-919";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-918-1_all.deb";
-      sha256 = "sha256-FmDYF/j2F1dyiU0OLN09cuOkW/xe39keac2DtV5J3k0=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-919-1_all.deb";
+      sha256 = "sha256-NlEr2Y12EwOC2VF7bUVNU3L8e1xtYvr6flPfI+uGHPk=";
     };
   };
   jitsi-meet = {
@@ -1260,13 +1260,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "7a6e14742267971f87e18b663511d1776b7b9f4b";
+    version = "841f5c616527c7ff923d5151e7fa053fc1e25bac";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "7a6e14742267971f87e18b663511d1776b7b9f4b";
+      rev = "841f5c616527c7ff923d5151e7fa053fc1e25bac";
       fetchSubmodules = false;
-      sha256 = "sha256-kLnlJR0mLrhHMfxntsYNucN6DUFzAmY9pmVoenpiaYQ=";
+      sha256 = "sha256-xLfbe5lKFjBNGXiwuxKcdiHqHiIIM3Lam4Z9nlfPhcY=";
     });
   };
   uniemoji = {
