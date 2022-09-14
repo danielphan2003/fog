@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "060ed859d4b12122b59ab40d511cb65171c9ad4b";
+    version = "d43e41e1ba3bc770b26736b422a6c73515aae6e1";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "060ed859d4b12122b59ab40d511cb65171c9ad4b";
+      rev = "d43e41e1ba3bc770b26736b422a6c73515aae6e1";
       fetchSubmodules = false;
-      sha256 = "sha256-jvtuQ3xjKm1eHNo3Mrrciz/N4+A50Ff1b4zbiyh0hpI=";
+      sha256 = "sha256-r055p4RLSTlAOReMJxgxUrZlBpSNH9YCY96i0W/Of2w=";
     });
   };
   cinny-bin = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6555";
+    version = "1.0.6559";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6555.tar.bz2";
-      sha256 = "sha256-c3chOYZh8h22YRWu8rOqKmVK2G09rQKy2Cne22Ke9eI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6559.tar.bz2";
+      sha256 = "sha256-ETl7uKbbGdhq0inRxjusbDLvgki/vGF5pBiZS3Q5gpo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6555";
+    version = "1.0.6559";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6555-1_all.deb";
-      sha256 = "sha256-ZUBrcgjymcL3rk1yo316MxE99ZnAKKc6fqABQdEmsH0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6559-1_all.deb";
+      sha256 = "sha256-mJJXGueSkjAIJyja0Kurv+b991wAfj1htaK2XqM7b+k=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.53.0";
+    version = "2.54.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.53.0/revanced-patches-2.53.0.jar";
-      sha256 = "sha256-DRX0nAHdf08VHWHndAa42lqRrSnsyoHsB79gzyV6ueE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.54.0/revanced-patches-2.54.0.jar";
+      sha256 = "sha256-vNdyjGlWxq8EjCBUbirC1OGTFy6jzc+92ku8C2e1zdc=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5b4357b8c44c511f4e8caf562bafd60349a55461";
+    version = "232c3a11125fc0ef6acc39b5122d02ef2b24c53f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5b4357b8c44c511f4e8caf562bafd60349a55461";
+      rev = "232c3a11125fc0ef6acc39b5122d02ef2b24c53f";
       fetchSubmodules = false;
-      sha256 = "sha256-m2DBl/9wzImuhocRCnmK8AcWdgGLEneKh9/LA1dbgRY=";
+      sha256 = "sha256-9YYSonGc6B53L2MTzUlrekujVvk0x+o2zT6lUKrl5Vg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-5b4357b8c44c511f4e8caf562bafd60349a55461/Cargo.lock;
+      lockFile = ./rustdesk-232c3a11125fc0ef6acc39b5122d02ef2b24c53f/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -990,7 +990,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-VddI5p/Hfa8VhjjhjA4KDDkThFmi8JcH6oeaGG6/dtA=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
-        "rdev-0.5.0-2" = "sha256-7CEZ2wIM4QAPfY1tGKqXfHplTaxHnccVqFRPjY21Svo=";
+        "rdev-0.5.0-2" = "sha256-gkZN4k2id/DxFu8JOKoHlIgbk8EsV937t8GJy37qKUs=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
@@ -1019,11 +1019,11 @@
   };
   sddm = {
     pname = "sddm";
-    version = "6c313bba812940ef8605af822a1dec63369de824";
+    version = "edf55fbb947461ed97a917f3b35518bbfec1d22d";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "6c313bba812940ef8605af822a1dec63369de824";
+      rev = "edf55fbb947461ed97a917f3b35518bbfec1d22d";
       fetchSubmodules = false;
       sha256 = "sha256-Jt0laVJNphFphJPkSKEafwH5/QZ8hECcJ4MXcU+Ki4U=";
     });
