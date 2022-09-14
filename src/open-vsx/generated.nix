@@ -8437,6 +8437,18 @@
     description = "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment";
     publisher = "devfactory";
   };
+  devsense-composer-php-vscode = {
+    pname = "devsense-composer-php-vscode";
+    version = "1.15.10534";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10534/file/devsense.composer-php-vscode-1.15.10534.vsix";
+      sha256 = "sha256-qP5AX+yMjJ3InQoz/LLkVtAg1qVEY2ikRLqYjm/DqAs=";
+    };
+    license = "LicenseRef-LICENSE";
+    name = "composer-php-vscode";
+    description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.";
+    publisher = "devsense";
+  };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
     version = "1.12.10053";
@@ -12495,10 +12507,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.54";
+    version = "0.16.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.54/file/jroesch.lean-0.16.54.vsix";
-      sha256 = "sha256-aNAo0Cqgoggz+7EhtExxufZuPkqZU1ktbrv4Yk9oKh0=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.55/file/jroesch.lean-0.16.55.vsix";
+      sha256 = "sha256-vJ1BhbRw9HQobOTy/QGmRrNqGOc/jiRA+hdQGvVe5P8=";
     };
     license = "Apache-2.0";
     name = "lean";
@@ -13023,10 +13035,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13875,10 +13887,10 @@
   };
   marcinbar-vscode-squirrel-linter = {
     pname = "marcinbar-vscode-squirrel-linter";
-    version = "0.0.20";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.20/file/marcinbar.vscode-squirrel-0.0.20.vsix";
-      sha256 = "sha256-IEm5Cdkoy8catEaVbCFN2IyYtwurskS1oIRvVjN10rk=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.21/file/marcinbar.vscode-squirrel-0.0.21.vsix";
+      sha256 = "sha256-r18gnNI6oigyI3JWFWd9RdI6/Pu1CrxsMxVru1tERPI=";
     };
     license = "MIT";
     name = "vscode-squirrel-linter";
@@ -18327,10 +18339,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.3.3";
+    version = "0.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.3/file/rgherdt.scheme-lsp-0.3.3.vsix";
-      sha256 = "sha256-aIJqrzlFIn9Z5nUBsupVP3OXOa0RmvhjhntYGxad9F4=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.5/file/rgherdt.scheme-lsp-0.3.5.vsix";
+      sha256 = "sha256-QzztSrP2YlEoV09QoXxgWcpC0aTxS9/6L9fiFLzKIMk=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -24267,10 +24279,10 @@
   };
   zhouhangao-ihub-preview-cloud = {
     pname = "zhouhangao-ihub-preview-cloud";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix";
-      sha256 = "sha256-8S6QsarMBT0y65v21x6XCvbzJf7Q9BpMtPMvyAEnoRw=";
+      url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.4/file/zhouhangao.ihub-preview-cloud-0.0.4.vsix";
+      sha256 = "sha256-u7GoTbyLU5e8lIJm1duIWBX9Z4RXzfGethBKS0tSPCk=";
     };
     license = "MIT";
     name = "ihub-preview-cloud";
@@ -24363,10 +24375,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

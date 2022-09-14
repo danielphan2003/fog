@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8145,8 +8145,8 @@ fetch.url = "https://open-vsx.org/api/pinage404/rust-extension-pack/0.2.0/file/p
 passthru = { publisher = "pinage404", name = "rust-extension-pack", description = "Collection of extensions for Rust ecosystem (Rust, Cargo ...)", license = "MIT" }
 
 [jroesch-lean]
-src.manual = "0.16.54" # jroesch.lean
-fetch.url = "https://open-vsx.org/api/jroesch/lean/0.16.54/file/jroesch.lean-0.16.54.vsix" # jroesch.lean
+src.manual = "0.16.55" # jroesch.lean
+fetch.url = "https://open-vsx.org/api/jroesch/lean/0.16.55/file/jroesch.lean-0.16.55.vsix" # jroesch.lean
 passthru = { publisher = "jroesch", name = "lean", description = "Lean 3 language support for VS Code", license = "Apache-2.0" }
 
 [jdinhlife-gruvbox]
@@ -8555,8 +8555,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0
 passthru = { publisher = "redhat", name = "vscode-debug-adapter-apache-camel", description = "Client for the Debug Adapter implementation for Apache Camel", license = "Apache-2.0" }
 
 [marcinbar-vscode-squirrel-linter]
-src.manual = "0.0.20" # marcinbar.vscode-squirrel-linter
-fetch.url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.20/file/marcinbar.vscode-squirrel-0.0.20.vsix" # marcinbar.vscode-squirrel-linter
+src.manual = "0.0.21" # marcinbar.vscode-squirrel-linter
+fetch.url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.21/file/marcinbar.vscode-squirrel-0.0.21.vsix" # marcinbar.vscode-squirrel-linter
 passthru = { publisher = "marcinbar", name = "vscode-squirrel-linter", description = "Squirrel Language Linter", license = "MIT" }
 
 [robocorp-robocorp-code]
@@ -9180,8 +9180,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.3.3" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.3/file/rgherdt.scheme-lsp-0.3.3.vsix" # rgherdt.scheme-lsp
+src.manual = "0.3.5" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.5/file/rgherdt.scheme-lsp-0.3.5.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -10434,8 +10434,8 @@ passthru = { publisher = "pajoma", name = "vscode-journal", description = "Light
 
 
 [zhouhangao-ihub-preview-cloud]
-src.manual = "0.0.3" # zhouhangao.ihub-preview-cloud
-fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.3/file/zhouhangao.ihub-preview-cloud-0.0.3.vsix" # zhouhangao.ihub-preview-cloud
+src.manual = "0.0.4" # zhouhangao.ihub-preview-cloud
+fetch.url = "https://open-vsx.org/api/zhouhangao/ihub-preview-cloud/0.0.4/file/zhouhangao.ihub-preview-cloud-0.0.4.vsix" # zhouhangao.ihub-preview-cloud
 passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description = "ihub-preview-cloud", license = "MIT" }
 
 
@@ -10456,4 +10456,10 @@ passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS 
 
 
 
+
+
+[devsense-composer-php-vscode]
+src.manual = "1.15.10534" # devsense.composer-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10534/file/devsense.composer-php-vscode-1.15.10534.vsix" # devsense.composer-php-vscode
+passthru = { publisher = "devsense", name = "composer-php-vscode", description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.", license = "LicenseRef-LICENSE" }
 
