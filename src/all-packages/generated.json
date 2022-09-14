@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kcuBOd2qxpeBT5H0kC9DRKyclOfl6ZwfgaBFsNeny78=",
+            "sha256": "sha256-FmDYF/j2F1dyiU0OLN09cuOkW/xe39keac2DtV5J3k0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-917-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-918-1_all.deb"
         },
-        "version": "1.0-917"
+        "version": "1.0-918"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1107,11 +1107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Kl4H+r1+czgpvR6uSATkAjvEY5cyAAxwn894QhrpUbY=",
+            "sha256": "sha256-JDbX8kBU80VZnQvAXNjKaWA3UQ2uCi1yC8GVmb0kAag=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1379.1-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1375.0-1_amd64.deb"
         },
-        "version": "107.0.1379.1"
+        "version": "107.0.1375.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,

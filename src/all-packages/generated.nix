@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-917";
+    version = "1.0-918";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-917-1_all.deb";
-      sha256 = "sha256-kcuBOd2qxpeBT5H0kC9DRKyclOfl6ZwfgaBFsNeny78=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-918-1_all.deb";
+      sha256 = "sha256-FmDYF/j2F1dyiU0OLN09cuOkW/xe39keac2DtV5J3k0=";
     };
   };
   jitsi-meet = {
@@ -662,10 +662,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "107.0.1379.1";
+    version = "107.0.1375.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1379.1-1_amd64.deb";
-      sha256 = "sha256-Kl4H+r1+czgpvR6uSATkAjvEY5cyAAxwn894QhrpUbY=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1375.0-1_amd64.deb";
+      sha256 = "sha256-JDbX8kBU80VZnQvAXNjKaWA3UQ2uCi1yC8GVmb0kAag=";
     };
   };
   microsoft-edge-stable = {
