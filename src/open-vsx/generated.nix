@@ -3159,10 +3159,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1404";
+    version = "31.0.1405";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1404/file/Prisma.prisma-insider-31.0.1404.vsix";
-      sha256 = "sha256-wvGQUJaU0wtV9TBNc5aNaVXReKGvs9PiEg7NC79sX64=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1405/file/Prisma.prisma-insider-31.0.1405.vsix";
+      sha256 = "sha256-taZT3VEEWOpNvv3eGcq4x7hgQKwpP+RWV9aNkClDpv0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3567,10 +3567,10 @@
   };
   Slint-slint = {
     pname = "Slint-slint";
-    version = "0.2.5";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.2.5/file/Slint.slint-0.2.5.vsix";
-      sha256 = "sha256-C7aseBdVbgTnzaY32GRPm0oS0rNs9rdCATTPjtBnBOY=";
+      url = "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix";
+      sha256 = "sha256-dVjI9uDaRLT5I+Iyy728GNzu6cHUNwueUTpAN+9dSQU=";
     };
     license = "GPL-3.0";
     name = "slint";
@@ -3579,10 +3579,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.1414";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1414/file/Slint.slint-nightly-2022.9.1414.vsix";
-      sha256 = "sha256-O+iZF4acQKHNffYsQfhR3BD0ZB6A0l3GuTIJrtvWxL4=";
+      url = "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix";
+      sha256 = "sha256-dVjI9uDaRLT5I+Iyy728GNzu6cHUNwueUTpAN+9dSQU=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5907,10 +5907,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.24.4";
+    version = "0.26.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.24.4/file/astro-build.astro-vscode-0.24.4.vsix";
-      sha256 = "sha256-8srmGaEUoiiFVYiMyYqkJs2jQTClDDJZNgNm0puJZAY=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.26.2/file/astro-build.astro-vscode-0.26.2.vsix";
+      sha256 = "sha256-NL4BSPszdVCx5/ECLnR3GCdr+Fomn1Exi4jfexlxpZQ=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -8439,10 +8439,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.15.10534";
+    version = "1.15.10535";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10534/file/devsense.composer-php-vscode-1.15.10534.vsix";
-      sha256 = "sha256-qP5AX+yMjJ3InQoz/LLkVtAg1qVEY2ikRLqYjm/DqAs=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10535/file/devsense.composer-php-vscode-1.15.10535.vsix";
+      sha256 = "sha256-3zzUhcE6nkR0PdAgg67QSyQxoJ5ogLwEZVCa7u2JksU=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8451,10 +8451,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.15.10534";
+    version = "1.15.10535";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10534/file/devsense.phptools-vscode-1.15.10534.vsix";
-      sha256 = "sha256-vxlnhHGoZhTxzDGcBNnQkv0qJGBBYFMCXocBXuITwZY=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10535/file/devsense.phptools-vscode-1.15.10535.vsix";
+      sha256 = "sha256-I22QVHhrJztsA3KqGDKUhYrZPvmjy9eatD1rWcs3HPk=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -11967,10 +11967,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022090911";
+    version = "0.1.2022091414";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022090911/file/jbangdev.jbang-vscode-0.1.2022090911.vsix";
-      sha256 = "sha256-/VVCJJ4itMmoF7AmaMLQoWOiZKaDKrtLXVhDRnTb+Fk=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091414/file/jbangdev.jbang-vscode-0.1.2022091414.vsix";
+      sha256 = "sha256-50hF6eG0u7FIwtc2VskVO/aapYHigLAqRb+1SkxFQ0g=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -17283,10 +17283,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.435";
+    version = "0.26.436";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.435/file/pokey.cursorless-0.26.435.vsix";
-      sha256 = "sha256-LvFdtWaA32urHZ24o5ep92xpb0ae+fQIMDre5qP7mbo=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.436/file/pokey.cursorless-0.26.436.vsix";
+      sha256 = "sha256-6XCwy9NvdJj5P08n8pWtZAfhIhAr3uecxliklSEXAPc=";
     };
     license = "MIT";
     name = "cursorless";
