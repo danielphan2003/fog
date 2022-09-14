@@ -2092,11 +2092,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "841f5c616527c7ff923d5151e7fa053fc1e25bac",
-            "sha256": "sha256-xLfbe5lKFjBNGXiwuxKcdiHqHiIIM3Lam4Z9nlfPhcY=",
+            "rev": "b9a204ea3edf453fac679fe5beb8133fa81d3abb",
+            "sha256": "sha256-vItNqnT/6bn7qiyPF1KOHcfzssDWF0MqykCHpZpkAD4=",
             "type": "github"
         },
-        "version": "841f5c616527c7ff923d5151e7fa053fc1e25bac"
+        "version": "b9a204ea3edf453fac679fe5beb8133fa81d3abb"
     },
     "uniemoji": {
         "cargoLocks": null,
