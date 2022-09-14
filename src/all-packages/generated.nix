@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "6613f6b10c7735630db3ff5e0437c5d749de9c6e";
+    version = "606d46718e77b42be51f687fa5bad72c434bfdd2";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "6613f6b10c7735630db3ff5e0437c5d749de9c6e";
+      rev = "606d46718e77b42be51f687fa5bad72c434bfdd2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sWMnn9E1D8U3tPd8YtldyBEFNe4XvRkaRHsut3XSP2M=";
+      sha256 = "sha256-yqs88uifjaUTFZ0nssERr9betnKyvJj8NbBl05AI71I=";
     };
   };
   flyingfox = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "d20fc49170d71838f087caaa148d768bf6fe10ff";
+    version = "22e0f64095fbe42a0f087858dc4a6cf02387b0d8";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "d20fc49170d71838f087caaa148d768bf6fe10ff";
+      rev = "22e0f64095fbe42a0f087858dc4a6cf02387b0d8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-aBuME227Po9nwkgdcp3dziF2v71PrWh6UBt9ArLAit0=";
+      sha256 = "sha256-mcOCk68FXU1I+/cmsyacay+Q/iTw3z+ytxzsffDads4=";
     };
   };
   pure = {
@@ -1271,13 +1271,13 @@
   };
   uniemoji = {
     pname = "uniemoji";
-    version = "40e69ae550f74bd91fa0b87db4f2e303344fd7aa";
+    version = "0483e15e6c3f1ef357602af79c8f8a8de94142f6";
     src = fetchFromGitHub ({
       owner = "salty-horse";
       repo = "ibus-uniemoji";
-      rev = "40e69ae550f74bd91fa0b87db4f2e303344fd7aa";
+      rev = "0483e15e6c3f1ef357602af79c8f8a8de94142f6";
       fetchSubmodules = false;
-      sha256 = "sha256-aIoAQu4KpaUnSGV8UwPUXzM91Hu9k9eaLj7oP1GRRAw=";
+      sha256 = "sha256-km+1t+NDUQeCLPJWE+LVi0abwr7jd811Dj4JSaJwaY0=";
     });
   };
   vaultwarden = {
