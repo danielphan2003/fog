@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.108.0-b.14";
+    version = "0.108.0-b.15";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-Gm5fRK0JkAsw0lywBOKVCCFDF1bb4sxD1way0uu+f64=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-qAGUX6iaZqg3flD+rQUNF/rFzIoRY2+DGg5abLhd6Ao=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.108.0-b.14";
+    version = "0.108.0-b.15";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-NRUoBWn7eRAazvFUB+x+XfZjrk83kxFk4yDEBOYmyoM=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-oyOu1RH8LD9BQ0VKj8RcbNNaMuSAS1ZKW0OWb2+5it4=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.108.0-b.14";
+    version = "0.108.0-b.15";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-rgJqXGvUthMPfVooDHTTck+tNRdVoAcROH4h9RY37d4=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-/Y/hHkkIGo6YC9Siv1UfDsZh+Gp28dofqox94KZptDU=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.108.0-b.14";
+    version = "0.108.0-b.15";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-7vTDxtMopT33vSVVNYIAlUYkSC90c3NnATVDvSPwuGQ=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-pbVeKbKzWNGRH+fYbVs7rCgvp0khfHR7fIs7avBPOAM=";
     };
   };
   adl = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ae2173f703e8d61de953d48cc40565ba0bc9d5f7";
+    version = "037d4ed422bb3bb34617f444a360a8abab6863cb";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ae2173f703e8d61de953d48cc40565ba0bc9d5f7";
+      rev = "037d4ed422bb3bb34617f444a360a8abab6863cb";
       fetchSubmodules = false;
-      sha256 = "sha256-tWz8UAPrxxR5fiRWIU8vHPHAGpY13dRiD2UgNWrFK1I=";
+      sha256 = "sha256-BGN7XiiLx1D03L5j6OL7WPknxlt5cSejqfR+xQXpv5E=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6559";
+    version = "1.0.6561";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6559.tar.bz2";
-      sha256 = "sha256-ETl7uKbbGdhq0inRxjusbDLvgki/vGF5pBiZS3Q5gpo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6561.tar.bz2";
+      sha256 = "sha256-KvauhPRyYRpIVQ2WuuvAdTQN7wpScKFdAbb4Q2QhujU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6559";
+    version = "1.0.6561";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6559-1_all.deb";
-      sha256 = "sha256-mJJXGueSkjAIJyja0Kurv+b991wAfj1htaK2XqM7b+k=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6561-1_all.deb";
+      sha256 = "sha256-tZLGZsjLcU7bRu56NTuyqRJAr79l2PGO8T27wf0TYcw=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.54.0";
+    version = "2.54.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.54.0/revanced-patches-2.54.0.jar";
-      sha256 = "sha256-vNdyjGlWxq8EjCBUbirC1OGTFy6jzc+92ku8C2e1zdc=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.54.1/revanced-patches-2.54.1.jar";
+      sha256 = "sha256-fMF43uWMYULMzqpTaXkgA5VxBbdrTOehblWlpr6kcIo=";
     };
   };
   rofi-wayland = {

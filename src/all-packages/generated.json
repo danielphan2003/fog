@@ -7,11 +7,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Gm5fRK0JkAsw0lywBOKVCCFDF1bb4sxD1way0uu+f64=",
+            "sha256": "sha256-qAGUX6iaZqg3flD+rQUNF/rFzIoRY2+DGg5abLhd6Ao=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_darwin_amd64.zip"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_darwin_amd64.zip"
         },
-        "version": "0.108.0-b.14"
+        "version": "0.108.0-b.15"
     },
     "adguardhome-linux-386": {
         "cargoLocks": null,
@@ -21,11 +21,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NRUoBWn7eRAazvFUB+x+XfZjrk83kxFk4yDEBOYmyoM=",
+            "sha256": "sha256-oyOu1RH8LD9BQ0VKj8RcbNNaMuSAS1ZKW0OWb2+5it4=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_386.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_386.tar.gz"
         },
-        "version": "0.108.0-b.14"
+        "version": "0.108.0-b.15"
     },
     "adguardhome-linux-amd64": {
         "cargoLocks": null,
@@ -35,11 +35,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rgJqXGvUthMPfVooDHTTck+tNRdVoAcROH4h9RY37d4=",
+            "sha256": "sha256-/Y/hHkkIGo6YC9Siv1UfDsZh+Gp28dofqox94KZptDU=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_amd64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_amd64.tar.gz"
         },
-        "version": "0.108.0-b.14"
+        "version": "0.108.0-b.15"
     },
     "adguardhome-linux-arm64": {
         "cargoLocks": null,
@@ -49,11 +49,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7vTDxtMopT33vSVVNYIAlUYkSC90c3NnATVDvSPwuGQ=",
+            "sha256": "sha256-pbVeKbKzWNGRH+fYbVs7rCgvp0khfHR7fIs7avBPOAM=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.14/AdGuardHome_linux_arm64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.15/AdGuardHome_linux_arm64.tar.gz"
         },
-        "version": "0.108.0-b.14"
+        "version": "0.108.0-b.15"
     },
     "adl": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ae2173f703e8d61de953d48cc40565ba0bc9d5f7",
-            "sha256": "sha256-tWz8UAPrxxR5fiRWIU8vHPHAGpY13dRiD2UgNWrFK1I=",
+            "rev": "037d4ed422bb3bb34617f444a360a8abab6863cb",
+            "sha256": "sha256-BGN7XiiLx1D03L5j6OL7WPknxlt5cSejqfR+xQXpv5E=",
             "type": "github"
         },
-        "version": "ae2173f703e8d61de953d48cc40565ba0bc9d5f7"
+        "version": "037d4ed422bb3bb34617f444a360a8abab6863cb"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ETl7uKbbGdhq0inRxjusbDLvgki/vGF5pBiZS3Q5gpo=",
+            "sha256": "sha256-KvauhPRyYRpIVQ2WuuvAdTQN7wpScKFdAbb4Q2QhujU=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6559.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6561.tar.bz2"
         },
-        "version": "1.0.6559"
+        "version": "1.0.6561"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mJJXGueSkjAIJyja0Kurv+b991wAfj1htaK2XqM7b+k=",
+            "sha256": "sha256-tZLGZsjLcU7bRu56NTuyqRJAr79l2PGO8T27wf0TYcw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6559-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6561-1_all.deb"
         },
-        "version": "1.0.6559"
+        "version": "1.0.6561"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vNdyjGlWxq8EjCBUbirC1OGTFy6jzc+92ku8C2e1zdc=",
+            "sha256": "sha256-fMF43uWMYULMzqpTaXkgA5VxBbdrTOehblWlpr6kcIo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.54.0/revanced-patches-2.54.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.54.1/revanced-patches-2.54.1.jar"
         },
-        "version": "2.54.0"
+        "version": "2.54.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
