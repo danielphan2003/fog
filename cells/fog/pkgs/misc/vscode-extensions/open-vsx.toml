@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8095,8 +8095,8 @@ fetch.url = "https://open-vsx.org/api/bscan/perlnavigator/0.3.0/file/bscan.perln
 passthru = { publisher = "bscan", name = "perlnavigator", description = "Code navigation, autocompletion, syntax checking, and linting for Perl", license = "MIT" }
 
 [usernamehw-vscode-join-lines]
-src.manual = "0.2.0" # usernamehw.vscode-join-lines
-fetch.url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.2.0/file/usernamehw.vscode-join-lines-0.2.0.vsix" # usernamehw.vscode-join-lines
+src.manual = "0.3.0" # usernamehw.vscode-join-lines
+fetch.url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.3.0/file/usernamehw.vscode-join-lines-0.3.0.vsix" # usernamehw.vscode-join-lines
 passthru = { publisher = "usernamehw", name = "vscode-join-lines", description = "Join Lines in editor (with custom separator)", license = "MIT" }
 
 [alfish-godot-files]
@@ -8500,8 +8500,8 @@ fetch.url = "https://open-vsx.org/api/mrcrowl/easy-less/1.7.4/file/mrcrowl.easy-
 passthru = { publisher = "mrcrowl", name = "easy-less", description = "Auto-compile LESS to CSS on save", license = "MIT" }
 
 [genuitecllc-codetogether]
-src.manual = "2022.2.1" # genuitecllc.codetogether
-fetch.url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.1/file/genuitecllc.codetogether-2022.2.1.vsix" # genuitecllc.codetogether
+src.manual = "2022.2.2" # genuitecllc.codetogether
+fetch.url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.2/file/genuitecllc.codetogether-2022.2.2.vsix" # genuitecllc.codetogether
 passthru = { publisher = "genuitecllc", name = "codetogether", description = "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!", license = "" }
 
 [Snickerdoodle-snickerdoodle-light]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.111.6" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.111.6/file/dendron.nightly-0.111.6.vsix" # dendron.nightly
+src.manual = "0.112.1" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.1/file/dendron.nightly-0.112.1.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10453,5 +10453,6 @@ passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description 
 src.manual = "0.0.14" # Google.cros-ide
 fetch.url = "https://open-vsx.org/api/Google/cros-ide/0.0.14/file/Google.cros-ide-0.0.14.vsix" # Google.cros-ide
 passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS Development", license = "BSD-3-Clause" }
+
 
 

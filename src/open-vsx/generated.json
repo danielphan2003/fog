@@ -8885,9 +8885,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -13236,11 +13236,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RreN5mX6FN8ZrJBhpt34gDbNXZ+5J4pKyJw/9Cl2+bQ=",
+            "sha256": "sha256-EdTmbWikS9nb37AlG4L+RwmSn+5xWKyXe6/YLypUrVk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.111.6/file/dendron.nightly-0.111.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.1/file/dendron.nightly-0.112.1.vsix"
         },
-        "version": "0.111.6"
+        "version": "0.112.1"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -16181,11 +16181,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bDJmsXklJGe5ieXAd2Mp63iCBZ2Z0sBXSlb5jPD547w=",
+            "sha256": "sha256-feGbyQfNNDysa3agVQX2A+qTTpMq5/LV3lk90hP8jAw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.1/file/genuitecllc.codetogether-2022.2.1.vsix"
+            "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.2/file/genuitecllc.codetogether-2022.2.2.vsix"
         },
-        "version": "2022.2.1"
+        "version": "2022.2.2"
     },
     "gera2ld-ipfs-editor-vscode": {
         "cargoLocks": null,
@@ -20627,11 +20627,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -34269,11 +34269,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RXZtJ9qXWeNJSL1EbxDB+fAKItzOZd7qj8Fu/dkmJ8w=",
+            "sha256": "sha256-Qxdcab1xaczW+NXS6yjVLeW6D2ran/hLZMA0E38GgoM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.2.0/file/usernamehw.vscode-join-lines-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.3.0/file/usernamehw.vscode-join-lines-0.3.0.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     "vadimcn-vscode-lldb": {
         "cargoLocks": null,

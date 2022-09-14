@@ -5609,8 +5609,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8355,10 +8355,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.111.6";
+    version = "0.112.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.111.6/file/dendron.nightly-0.111.6.vsix";
-      sha256 = "sha256-RreN5mX6FN8ZrJBhpt34gDbNXZ+5J4pKyJw/9Cl2+bQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.112.1/file/dendron.nightly-0.112.1.vsix";
+      sha256 = "sha256-EdTmbWikS9nb37AlG4L+RwmSn+5xWKyXe6/YLypUrVk=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10215,10 +10215,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.2.1";
+    version = "2022.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.1/file/genuitecllc.codetogether-2022.2.1.vsix";
-      sha256 = "sha256-bDJmsXklJGe5ieXAd2Mp63iCBZ2Z0sBXSlb5jPD547w=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.2/file/genuitecllc.codetogether-2022.2.2.vsix";
+      sha256 = "sha256-feGbyQfNNDysa3agVQX2A+qTTpMq5/LV3lk90hP8jAw=";
     };
     license = "";
     name = "codetogether";
@@ -13023,10 +13023,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -21639,10 +21639,10 @@
   };
   usernamehw-vscode-join-lines = {
     pname = "usernamehw-vscode-join-lines";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.2.0/file/usernamehw.vscode-join-lines-0.2.0.vsix";
-      sha256 = "sha256-RXZtJ9qXWeNJSL1EbxDB+fAKItzOZd7qj8Fu/dkmJ8w=";
+      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.3.0/file/usernamehw.vscode-join-lines-0.3.0.vsix";
+      sha256 = "sha256-Qxdcab1xaczW+NXS6yjVLeW6D2ran/hLZMA0E38GgoM=";
     };
     license = "MIT";
     name = "vscode-join-lines";
