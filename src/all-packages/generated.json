@@ -1316,7 +1316,7 @@
     "playit-agent": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./playit-agent-94712eea624b609e7b97829262b53a0e589e527a/Cargo.lock",
+                "./playit-agent-e986524ba9ac51e821a0bb3e363dcd1acd90b314/Cargo.lock",
                 {
                     "webbrowser-0.5.5": "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M="
                 }
@@ -1333,11 +1333,11 @@
             "name": null,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "rev": "94712eea624b609e7b97829262b53a0e589e527a",
-            "sha256": "sha256-oWdVT2ae8n28GSk8K3zcHdTwh+nF6ZUyCFCMNUDOgbU=",
+            "rev": "e986524ba9ac51e821a0bb3e363dcd1acd90b314",
+            "sha256": "sha256-Y7CFcPJ/lKYZ6VwKO6p/oWYw4YasjMecfRraiygcRSI=",
             "type": "github"
         },
-        "version": "94712eea624b609e7b97829262b53a0e589e527a"
+        "version": "e986524ba9ac51e821a0bb3e363dcd1acd90b314"
     },
     "plymouth-themes": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-232c3a11125fc0ef6acc39b5122d02ef2b24c53f/Cargo.lock",
+                "./rustdesk-ab60db3e6694473851e99223635e5e6e0cd04459/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "232c3a11125fc0ef6acc39b5122d02ef2b24c53f",
-            "sha256": "sha256-9YYSonGc6B53L2MTzUlrekujVvk0x+o2zT6lUKrl5Vg=",
+            "rev": "ab60db3e6694473851e99223635e5e6e0cd04459",
+            "sha256": "sha256-3tSmO33kDwRqhJVNLwK2OacRF423BPzO7row1bfqHfA=",
             "type": "github"
         },
-        "version": "232c3a11125fc0ef6acc39b5122d02ef2b24c53f"
+        "version": "ab60db3e6694473851e99223635e5e6e0cd04459"
     },
     "rustdesk-server": {
         "cargoLocks": {
