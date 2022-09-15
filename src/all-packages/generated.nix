@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "f1f7a2267460c5ed456153a4a04d864fb7865c56";
+    version = "48d723c07c52d76755ee323581a20777699f1557";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "f1f7a2267460c5ed456153a4a04d864fb7865c56";
+      rev = "48d723c07c52d76755ee323581a20777699f1557";
       fetchSubmodules = false;
-      sha256 = "sha256-kP9oYIigt+whLWKCAOhY6KX9GjWanf+Aq80zGVvMCz4=";
+      sha256 = "sha256-IWiiO5d0K4VXYAs0eIpuXfsRN3XvQlODsuXChp8dV8o=";
     });
   };
   cinny = {
@@ -556,26 +556,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6566";
+    version = "1.0.6567";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6566.tar.bz2";
-      sha256 = "sha256-Q2D+zXorSHJoYFQbehVuyYGS98Jr38PVQdJRbZzw0fE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6567.tar.bz2";
+      sha256 = "sha256-8Q0ZdYkkS37jDWtOsKStfzW9SXxIJau9usRqPo3Yb/M=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6566";
+    version = "1.0.6567";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6566-1_all.deb";
-      sha256 = "sha256-hdOzpPlVCN9dz1gX8UgcvJ3vzxunWSMMZBznGxVO0os=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6567-1_all.deb";
+      sha256 = "sha256-WFStwnDG6KAqx6PClKiqDmj/yrEdAKg4QXrqEq2rWBc=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-42-g739c3947";
+    version = "2.2-43-gce94dbb2";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-42-g739c3947-1_all.deb";
-      sha256 = "sha256-mz4s59ZD7AiSs9aezr5V7vEWh29K5raaUstINBapAts=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-43-gce94dbb2-1_all.deb";
+      sha256 = "sha256-RT0HKMhCp/kMs0cJq7594lskGcCVSQe/H6u+RiLinEA=";
     };
   };
   layout-machi = {
@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "105.0.1343.33";
+    version = "105.0.1343.42";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.33-1_amd64.deb";
-      sha256 = "sha256-fFsIIZPJ8AHhpvBzjEMFe8X0C5fQIasPjjionIcsrWk=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.42-1_amd64.deb";
+      sha256 = "sha256-zVTtn8TVzwNFd9P2LmeeAEhQI+XDCokS7QmlYnDAVqI=";
     };
   };
   minecraft-wayland = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.37.1";
+    version = "0.37.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.37.1/app-release-unsigned.apk";
-      sha256 = "sha256-UEncOcx7ECHtYcnzm6fCWODIyyUIBpVKarmwpEE4XvE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.37.2/app-release-unsigned.apk";
+      sha256 = "sha256-0NUg4Tjzo9fkd+GF/vaQWjI5+vEOKRedN4uQSe0dWgs=";
     };
   };
   revanced-patches-jar = {
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "33ee2c058eaa02382cc720ee895f078ea0f1f4b5";
+    version = "74674b110daeb2cdda6f76ad3d69ef4cfba6e5b9";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "33ee2c058eaa02382cc720ee895f078ea0f1f4b5";
+      rev = "74674b110daeb2cdda6f76ad3d69ef4cfba6e5b9";
       fetchSubmodules = false;
-      sha256 = "sha256-wzjg+vjipjz7fILFkZoIKnChRJww3qiNP7f1tq6SpKU=";
+      sha256 = "sha256-mis5YcyjHlEMhOSgMsSqikHWyFjJjH7svVqQSWbRjL4=";
     });
   };
   tailscale-systray = {
@@ -1260,13 +1260,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "b9a204ea3edf453fac679fe5beb8133fa81d3abb";
+    version = "c9145fa20ca021685fef55d891cbed6ae70da47a";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "b9a204ea3edf453fac679fe5beb8133fa81d3abb";
+      rev = "c9145fa20ca021685fef55d891cbed6ae70da47a";
       fetchSubmodules = false;
-      sha256 = "sha256-vItNqnT/6bn7qiyPF1KOHcfzssDWF0MqykCHpZpkAD4=";
+      sha256 = "sha256-YCYFq+Dmj14tb6kov1O8LBRMdIv8LUdsDV3tMs8+IiY=";
     });
   };
   uniemoji = {
