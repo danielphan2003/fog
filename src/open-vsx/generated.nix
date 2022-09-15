@@ -10577,8 +10577,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -17955,10 +17955,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.64";
+    version = "0.13.65";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.64/file/redhat.ansible-0.13.64.vsix";
-      sha256 = "sha256-1VyveIrubj56Mj3kXp0nPnt7OXsytElEuU+29tAHWfE=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.65/file/redhat.ansible-0.13.65.vsix";
+      sha256 = "sha256-lDNqSAERCFhuuiluvRCiNUgTGg/FljISFDa3SmmavE4=";
     };
     license = "MIT";
     name = "ansible";

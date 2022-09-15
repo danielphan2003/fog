@@ -16751,9 +16751,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -28436,11 +28436,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1VyveIrubj56Mj3kXp0nPnt7OXsytElEuU+29tAHWfE=",
+            "sha256": "sha256-lDNqSAERCFhuuiluvRCiNUgTGg/FljISFDa3SmmavE4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.13.64/file/redhat.ansible-0.13.64.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.13.65/file/redhat.ansible-0.13.65.vsix"
         },
-        "version": "0.13.64"
+        "version": "0.13.65"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
