@@ -9345,8 +9345,8 @@ fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-typescript-exportallmodu
 passthru = { publisher = "eliostruyf", name = "vscode-typescript-exportallmodules", description = "VSCode extension which generates a barrel `index.ts` file with all the module exports from the current directory.", license = "MIT" }
 
 [Pivotal-vscode-bosh]
-src.manual = "1.38.0" # Pivotal.vscode-bosh
-fetch.url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vscode-bosh-1.38.0.vsix" # Pivotal.vscode-bosh
+src.manual = "1.39.0" # Pivotal.vscode-bosh
+fetch.url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.39.0/file/Pivotal.vscode-bosh-1.39.0.vsix" # Pivotal.vscode-bosh
 passthru = { publisher = "Pivotal", name = "vscode-bosh", description = "Provides validation and content assist for various Bosh configuration files", license = "EPL-1.0" }
 
 [streetsidesoftware-code-spell-checker-danish]
@@ -9485,8 +9485,8 @@ fetch.url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.3/file/davelope
 passthru = { publisher = "davelopez", name = "galaxy-tools", description = "Galaxy Tools for Visual Studio Code - provides XML completion, lints, snippets and other smart features to develop Galaxy (https://galaxyproject.org/) tool wrappers.", license = "Apache-2.0" }
 
 [Pivotal-vscode-manifest-yaml]
-src.manual = "1.38.0" # Pivotal.vscode-manifest-yaml
-fetch.url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.38.0/file/Pivotal.vscode-manifest-yaml-1.38.0.vsix" # Pivotal.vscode-manifest-yaml
+src.manual = "1.39.0" # Pivotal.vscode-manifest-yaml
+fetch.url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.39.0/file/Pivotal.vscode-manifest-yaml-1.39.0.vsix" # Pivotal.vscode-manifest-yaml
 passthru = { publisher = "Pivotal", name = "vscode-manifest-yaml", description = "Adds linting, content assist and hoverinfo's for Cloudfoundry Deployment Manifests (a.k.a. `manifest.yml`) files.", license = "EPL-1.0" }
 
 [hbenl-vscode-jasmine-test-adapter]
@@ -9525,8 +9525,8 @@ fetch.url = "https://open-vsx.org/api/tfsec/tfsec/1.11.0/file/tfsec.tfsec-1.11.0
 passthru = { publisher = "tfsec", name = "tfsec", description = "tfsec integration for Visual Studio Code", license = "MIT" }
 
 [Pivotal-vscode-concourse]
-src.manual = "1.38.0" # Pivotal.vscode-concourse
-fetch.url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.38.0/file/Pivotal.vscode-concourse-1.38.0.vsix" # Pivotal.vscode-concourse
+src.manual = "1.39.0" # Pivotal.vscode-concourse
+fetch.url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.39.0/file/Pivotal.vscode-concourse-1.39.0.vsix" # Pivotal.vscode-concourse
 passthru = { publisher = "Pivotal", name = "vscode-concourse", description = "Provides validation and content assist for Concourse CI pipeline and task configuration yml files", license = "EPL-1.0" }
 
 [ModyQyW-vscode-uni-cloud-snippets]
@@ -9740,8 +9740,8 @@ fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1416/file/Slint
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
-src.manual = "0.26.437" # pokey.cursorless
-fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.437/file/pokey.cursorless-0.26.437.vsix" # pokey.cursorless
+src.manual = "0.26.438" # pokey.cursorless
+fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.438/file/pokey.cursorless-0.26.438.vsix" # pokey.cursorless
 passthru = { publisher = "pokey", name = "cursorless", description = "Structural voice coding at the speed of thought", license = "MIT" }
 
 [edukera-archetype]
@@ -9755,8 +9755,8 @@ fetch.url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.3.0/file
 passthru = { publisher = "deepakgupta191199", name = "save-commands", description = "Simple VSCode Extension to save and execute terminal commands.", license = "MIT" }
 
 [Pivotal-vscode-spring-boot]
-src.manual = "1.38.0" # Pivotal.vscode-spring-boot
-fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Pivotal.vscode-spring-boot-1.38.0.vsix" # Pivotal.vscode-spring-boot
+src.manual = "1.39.0" # Pivotal.vscode-spring-boot
+fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.39.0/file/Pivotal.vscode-spring-boot-1.39.0.vsix" # Pivotal.vscode-spring-boot
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
 
 [YXL-cloudmusic]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1406" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1407" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9930,8 +9930,8 @@ fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKie
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
-src.manual = "0.13.65" # redhat.ansible
-fetch.url = "https://open-vsx.org/api/redhat/ansible/0.13.65/file/redhat.ansible-0.13.65.vsix" # redhat.ansible
+src.manual = "0.13.68" # redhat.ansible
+fetch.url = "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible-0.13.68.vsix" # redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
@@ -10491,4 +10491,10 @@ passthru = { publisher = "dongfg", name = "vscode-beancount-formatter", descript
 
 
 
+
+
+[benvp-vscode-hex-pm-intellisense]
+src.manual = "0.5.0" # benvp.vscode-hex-pm-intellisense
+fetch.url = "https://open-vsx.org/api/benvp/vscode-hex-pm-intellisense/0.5.0/file/benvp.vscode-hex-pm-intellisense-0.5.0.vsix" # benvp.vscode-hex-pm-intellisense
+passthru = { publisher = "benvp", name = "vscode-hex-pm-intellisense", description = "Adds IntelliSense for hex.pm dependencies in your Elixir project Mixfile.", license = "MIT" }
 

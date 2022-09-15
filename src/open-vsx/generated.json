@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3GjfNvLYjBdTa7BTPG0EkB1AWGNjWWL9Q91KoaZwSRQ=",
+            "sha256": "sha256-jAAQzk4ECmRHb7/IBKtoW0eSss87r6hSKptEpVKG8Fk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vscode-bosh-1.38.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.39.0/file/Pivotal.vscode-bosh-1.39.0.vsix"
         },
-        "version": "1.38.0"
+        "version": "1.39.0"
     },
     "Pivotal-vscode-concourse": {
         "cargoLocks": null,
@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GzrM9xLvO32e9ODx+/hzMu1iBSLyoEBLnc+J6G4jGpc=",
+            "sha256": "sha256-B2X7J9eKsVMKr8odCZSOjBvA8TlQBq7qYouj2nfltto=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.38.0/file/Pivotal.vscode-concourse-1.38.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.39.0/file/Pivotal.vscode-concourse-1.39.0.vsix"
         },
-        "version": "1.38.0"
+        "version": "1.39.0"
     },
     "Pivotal-vscode-manifest-yaml": {
         "cargoLocks": null,
@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pkkyvQgmuOatlBOLDWtFaT6clSlmGEg+nATP5KN9Elg=",
+            "sha256": "sha256-sgnwD76X0WK/9b1GrLRr82OHfLBUY+ew87tNf/V/pjQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.38.0/file/Pivotal.vscode-manifest-yaml-1.38.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.39.0/file/Pivotal.vscode-manifest-yaml-1.39.0.vsix"
         },
-        "version": "1.38.0"
+        "version": "1.39.0"
     },
     "Pivotal-vscode-spring-boot": {
         "cargoLocks": null,
@@ -4933,11 +4933,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZiKmt2VaVHNHgPkjWBCWCFS/VVfaqukS6NfX21u4f44=",
+            "sha256": "sha256-XHKuSnNQ5D52FmorxDCcFPpgz63CnMV4oh8NODND6yU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Pivotal.vscode-spring-boot-1.38.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.39.0/file/Pivotal.vscode-spring-boot-1.39.0.vsix"
         },
-        "version": "1.38.0"
+        "version": "1.39.0"
     },
     "PolyMeilex-wgsl": {
         "cargoLocks": null,
@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fT0kSwk1Q+Ml69ZFhfZckgLecSdwUNY4zroFew22ujI=",
+            "sha256": "sha256-29mfg0RlRjq+0UQ6TG6V/Ihxt9cpSIW0gO3p4QCeTes=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix"
         },
-        "version": "31.0.1406"
+        "version": "31.0.1407"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9916,6 +9916,25 @@
             "url": "https://open-vsx.org/api/benspaulding/python-manifest-template/1.0.1/file/benspaulding.python-manifest-template-1.0.1.vsix"
         },
         "version": "1.0.1"
+    },
+    "benvp-vscode-hex-pm-intellisense": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "benvp-vscode-hex-pm-intellisense",
+        "passthru": {
+            "description": "Adds IntelliSense for hex.pm dependencies in your Elixir project Mixfile.",
+            "license": "MIT",
+            "name": "vscode-hex-pm-intellisense",
+            "publisher": "benvp"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-KzDy9YaS0iXlYJdK1HFQNQTXT/EOjqwhE+21cA9Hr0k=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/benvp/vscode-hex-pm-intellisense/0.5.0/file/benvp.vscode-hex-pm-intellisense-0.5.0.vsix"
+        },
+        "version": "0.5.0"
     },
     "betterthantomorrow-calva": {
         "cargoLocks": null,
@@ -27410,11 +27429,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-egR1mXZP1ldQjYns1AcPRWbfClsTg33HCwuoTvARnH4=",
+            "sha256": "sha256-6Zsh+wh26xt8hB7xbMoZJKsEnO6WQSw8ShaZiSoZA3g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.437/file/pokey.cursorless-0.26.437.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.438/file/pokey.cursorless-0.26.438.vsix"
         },
-        "version": "0.26.437"
+        "version": "0.26.438"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28436,11 +28455,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lDNqSAERCFhuuiluvRCiNUgTGg/FljISFDa3SmmavE4=",
+            "sha256": "sha256-dFcXT9sDSdBf2wagSJwuWl2m/VBIAryJOdxI2tJYv0M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.13.65/file/redhat.ansible-0.13.65.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible-0.13.68.vsix"
         },
-        "version": "0.13.65"
+        "version": "0.13.68"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,

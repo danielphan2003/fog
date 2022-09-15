@@ -3075,10 +3075,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.38.0";
+    version = "1.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vscode-bosh-1.38.0.vsix";
-      sha256 = "sha256-3GjfNvLYjBdTa7BTPG0EkB1AWGNjWWL9Q91KoaZwSRQ=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.39.0/file/Pivotal.vscode-bosh-1.39.0.vsix";
+      sha256 = "sha256-jAAQzk4ECmRHb7/IBKtoW0eSss87r6hSKptEpVKG8Fk=";
     };
     license = "EPL-1.0";
     name = "vscode-bosh";
@@ -3087,10 +3087,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.38.0";
+    version = "1.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.38.0/file/Pivotal.vscode-concourse-1.38.0.vsix";
-      sha256 = "sha256-GzrM9xLvO32e9ODx+/hzMu1iBSLyoEBLnc+J6G4jGpc=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.39.0/file/Pivotal.vscode-concourse-1.39.0.vsix";
+      sha256 = "sha256-B2X7J9eKsVMKr8odCZSOjBvA8TlQBq7qYouj2nfltto=";
     };
     license = "EPL-1.0";
     name = "vscode-concourse";
@@ -3099,10 +3099,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.38.0";
+    version = "1.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.38.0/file/Pivotal.vscode-manifest-yaml-1.38.0.vsix";
-      sha256 = "sha256-pkkyvQgmuOatlBOLDWtFaT6clSlmGEg+nATP5KN9Elg=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.39.0/file/Pivotal.vscode-manifest-yaml-1.39.0.vsix";
+      sha256 = "sha256-sgnwD76X0WK/9b1GrLRr82OHfLBUY+ew87tNf/V/pjQ=";
     };
     license = "EPL-1.0";
     name = "vscode-manifest-yaml";
@@ -3111,10 +3111,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.38.0";
+    version = "1.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Pivotal.vscode-spring-boot-1.38.0.vsix";
-      sha256 = "sha256-ZiKmt2VaVHNHgPkjWBCWCFS/VVfaqukS6NfX21u4f44=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.39.0/file/Pivotal.vscode-spring-boot-1.39.0.vsix";
+      sha256 = "sha256-XHKuSnNQ5D52FmorxDCcFPpgz63CnMV4oh8NODND6yU=";
     };
     license = "EPL-1.0";
     name = "vscode-spring-boot";
@@ -3171,10 +3171,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1406";
+    version = "31.0.1407";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix";
-      sha256 = "sha256-fT0kSwk1Q+Ml69ZFhfZckgLecSdwUNY4zroFew22ujI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix";
+      sha256 = "sha256-29mfg0RlRjq+0UQ6TG6V/Ihxt9cpSIW0gO3p4QCeTes=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6264,6 +6264,18 @@
     name = "python-manifest-template";
     description = "Grammar, snippets for Python MANIFEST.in template files";
     publisher = "benspaulding";
+  };
+  benvp-vscode-hex-pm-intellisense = {
+    pname = "benvp-vscode-hex-pm-intellisense";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/benvp/vscode-hex-pm-intellisense/0.5.0/file/benvp.vscode-hex-pm-intellisense-0.5.0.vsix";
+      sha256 = "sha256-KzDy9YaS0iXlYJdK1HFQNQTXT/EOjqwhE+21cA9Hr0k=";
+    };
+    license = "MIT";
+    name = "vscode-hex-pm-intellisense";
+    description = "Adds IntelliSense for hex.pm dependencies in your Elixir project Mixfile.";
+    publisher = "benvp";
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
@@ -17307,10 +17319,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.437";
+    version = "0.26.438";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.437/file/pokey.cursorless-0.26.437.vsix";
-      sha256 = "sha256-egR1mXZP1ldQjYns1AcPRWbfClsTg33HCwuoTvARnH4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.438/file/pokey.cursorless-0.26.438.vsix";
+      sha256 = "sha256-6Zsh+wh26xt8hB7xbMoZJKsEnO6WQSw8ShaZiSoZA3g=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17955,10 +17967,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.65";
+    version = "0.13.68";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.65/file/redhat.ansible-0.13.65.vsix";
-      sha256 = "sha256-lDNqSAERCFhuuiluvRCiNUgTGg/FljISFDa3SmmavE4=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible-0.13.68.vsix";
+      sha256 = "sha256-dFcXT9sDSdBf2wagSJwuWl2m/VBIAryJOdxI2tJYv0M=";
     };
     license = "MIT";
     name = "ansible";
