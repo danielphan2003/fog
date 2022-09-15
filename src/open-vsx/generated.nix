@@ -3171,10 +3171,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1405";
+    version = "31.0.1406";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1405/file/Prisma.prisma-insider-31.0.1405.vsix";
-      sha256 = "sha256-taZT3VEEWOpNvv3eGcq4x7hgQKwpP+RWV9aNkClDpv0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix";
+      sha256 = "sha256-fT0kSwk1Q+Ml69ZFhfZckgLecSdwUNY4zroFew22ujI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7203,10 +7203,10 @@
   };
   cloudstudio-cloud-debug = {
     pname = "cloudstudio-cloud-debug";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.4/file/cloudstudio.cloud-debug-0.0.4.vsix";
-      sha256 = "sha256-J9W9QMDNWbSRrV/USPyNn3RrbLuKVWSbObCKSKdyYbE=";
+      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.5/file/cloudstudio.cloud-debug-0.0.5.vsix";
+      sha256 = "sha256-mQ3E7OblERUInHOs1fNqxMR8D92gd8ErZr2+YQ+hTNo=";
     };
     license = "Apache-2.0";
     name = "cloud-debug";
@@ -8593,6 +8593,18 @@
     description = "A theme generated with pywal color palette";
     publisher = "dlasagno";
   };
+  dongfg-vscode-beancount-formatter = {
+    pname = "dongfg-vscode-beancount-formatter";
+    version = "1.4.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dongfg/vscode-beancount-formatter/1.4.2/file/dongfg.vscode-beancount-formatter-1.4.2.vsix";
+      sha256 = "sha256-FgAp6tYlnmlry6LdW8v5c8hMohoV4qWsnLHfCQQalgY=";
+    };
+    license = "mit";
+    name = "vscode-beancount-formatter";
+    description = "Beancount file formatter";
+    publisher = "dongfg";
+  };
   donjayamanne-git-extension-pack = {
     pname = "donjayamanne-git-extension-pack";
     version = "0.1.3";
@@ -9723,10 +9735,10 @@
   };
   firsttris-vscode-jest-runner = {
     pname = "firsttris-vscode-jest-runner";
-    version = "0.4.55";
+    version = "0.4.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix";
-      sha256 = "sha256-GLeibGPI/9xbfiUMijFcHOKTaUWHvCM6GInlZ+OrWDU=";
+      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.56/file/firsttris.vscode-jest-runner-0.4.56.vsix";
+      sha256 = "sha256-/mATNn1K71AFtIPqoJOWt38QmK/CYWYL2Fw5797KAxI=";
     };
     license = "MIT";
     name = "vscode-jest-runner";
@@ -19467,10 +19479,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

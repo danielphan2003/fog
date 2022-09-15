@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-taZT3VEEWOpNvv3eGcq4x7hgQKwpP+RWV9aNkClDpv0=",
+            "sha256": "sha256-fT0kSwk1Q+Ml69ZFhfZckgLecSdwUNY4zroFew22ujI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1405/file/Prisma.prisma-insider-31.0.1405.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix"
         },
-        "version": "31.0.1405"
+        "version": "31.0.1406"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -11412,11 +11412,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J9W9QMDNWbSRrV/USPyNn3RrbLuKVWSbObCKSKdyYbE=",
+            "sha256": "sha256-mQ3E7OblERUInHOs1fNqxMR8D92gd8ErZr2+YQ+hTNo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.4/file/cloudstudio.cloud-debug-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.5/file/cloudstudio.cloud-debug-0.0.5.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.5"
     },
     "cloudstudio-coding-authentication": {
         "cargoLocks": null,
@@ -13603,6 +13603,25 @@
         },
         "version": "1.1.2"
     },
+    "dongfg-vscode-beancount-formatter": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dongfg-vscode-beancount-formatter",
+        "passthru": {
+            "description": "Beancount file formatter",
+            "license": "mit",
+            "name": "vscode-beancount-formatter",
+            "publisher": "dongfg"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-FgAp6tYlnmlry6LdW8v5c8hMohoV4qWsnLHfCQQalgY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dongfg/vscode-beancount-formatter/1.4.2/file/dongfg.vscode-beancount-formatter-1.4.2.vsix"
+        },
+        "version": "1.4.2"
+    },
     "donjayamanne-git-extension-pack": {
         "cargoLocks": null,
         "extract": null,
@@ -15402,11 +15421,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GLeibGPI/9xbfiUMijFcHOKTaUWHvCM6GInlZ+OrWDU=",
+            "sha256": "sha256-/mATNn1K71AFtIPqoJOWt38QmK/CYWYL2Fw5797KAxI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix"
+            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.56/file/firsttris.vscode-jest-runner-0.4.56.vsix"
         },
-        "version": "0.4.55"
+        "version": "0.4.56"
     },
     "fivethree-vscode-hugo-snippets": {
         "cargoLocks": null,
@@ -30830,11 +30849,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,

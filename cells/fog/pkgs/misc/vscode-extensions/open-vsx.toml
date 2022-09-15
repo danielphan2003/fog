@@ -4515,8 +4515,8 @@ fetch.url = "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.9/file/Fr43nk.se
 passthru = { publisher = "Fr43nk", name = "seito-openfile", description = "Extract a filepath from the current cursor position and open the file", license = "MIT" }
 
 [cloudstudio-cloud-debug]
-src.manual = "0.0.4" # cloudstudio.cloud-debug
-fetch.url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.4/file/cloudstudio.cloud-debug-0.0.4.vsix" # cloudstudio.cloud-debug
+src.manual = "0.0.5" # cloudstudio.cloud-debug
+fetch.url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.5/file/cloudstudio.cloud-debug-0.0.5.vsix" # cloudstudio.cloud-debug
 passthru = { publisher = "cloudstudio", name = "cloud-debug", description = "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development", license = "Apache-2.0" }
 
 [olifink-fedora-gnome-light-dark]
@@ -4860,8 +4860,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.10/file/cloudstud
 passthru = { publisher = "cloudstudio", name = "metawork", description = "Cloud Studio 多人协作套件，让开发更高效！Cloud Studio MetaWork makes development more effective.", license = "MIT" }
 
 [firsttris-vscode-jest-runner]
-src.manual = "0.4.55" # firsttris.vscode-jest-runner
-fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix" # firsttris.vscode-jest-runner
+src.manual = "0.4.56" # firsttris.vscode-jest-runner
+fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.56/file/firsttris.vscode-jest-runner-0.4.56.vsix" # firsttris.vscode-jest-runner
 passthru = { publisher = "firsttris", name = "vscode-jest-runner", description = "Simple way to run or debug a single (or multiple) tests from context-menu", license = "MIT" }
 
 [ms-toolsai-vscode-jupyter-powertoys]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1405" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1405/file/Prisma.prisma-insider-31.0.1405.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1406" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1406/file/Prisma.prisma-insider-31.0.1406.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10479,4 +10479,10 @@ fetch.url = "https://open-vsx.org/api/FIUBA/photran-lsp-client-vscode/0.1.0/file
 passthru = { publisher = "FIUBA", name = "photran-lsp-client-vscode", description = "A language client for Fortran, powered by Photran", license = "MIT" }
 
 
+
+
+[dongfg-vscode-beancount-formatter]
+src.manual = "1.4.2" # dongfg.vscode-beancount-formatter
+fetch.url = "https://open-vsx.org/api/dongfg/vscode-beancount-formatter/1.4.2/file/dongfg.vscode-beancount-formatter-1.4.2.vsix" # dongfg.vscode-beancount-formatter
+passthru = { publisher = "dongfg", name = "vscode-beancount-formatter", description = "Beancount file formatter", license = "mit" }
 
