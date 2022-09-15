@@ -5621,8 +5621,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -9027,10 +9027,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3035820";
+    version = "8.1.3059216";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3035820/file/eliostruyf.vscode-front-matter-beta-8.1.3035820.vsix";
-      sha256 = "sha256-l6huRFv55difuXycAIpRF6u3Y+m4wk8tC+xTRkHhcDk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3059216/file/eliostruyf.vscode-front-matter-beta-8.1.3059216.vsix";
+      sha256 = "sha256-74xg6tR913F8jEs2nIBA041BaDnA1R2zoQ12bz4/EMY=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10577,8 +10577,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13059,10 +13059,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -17955,10 +17955,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.63";
+    version = "0.13.64";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.63/file/redhat.ansible-0.13.63.vsix";
-      sha256 = "sha256-oOKBcFpYF1fGqHZXCf9qdSFhgEhTMjoQ15nBSfqDyJM=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.64/file/redhat.ansible-0.13.64.vsix";
+      sha256 = "sha256-1VyveIrubj56Mj3kXp0nPnt7OXsytElEuU+29tAHWfE=";
     };
     license = "MIT";
     name = "ansible";
@@ -19479,10 +19479,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24411,10 +24411,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
