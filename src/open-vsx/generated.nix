@@ -603,10 +603,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "14.0.0";
+    version = "14.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/14.0.0/file/CodeStream.codestream-14.0.0.vsix";
-      sha256 = "sha256-0YpKsd2QOwigE/sd2bIQBdA/z/zKFMRK8X2HQZyPHog=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/14.1.0/file/CodeStream.codestream-14.1.0.vsix";
+      sha256 = "sha256-eO4NXWonrRHILiI2bcJ2EJZNrXUhuVW2goDw9H2Om9U=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -13071,10 +13071,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13383,10 +13383,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -18375,10 +18375,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.3.6";
+    version = "0.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.6/file/rgherdt.scheme-lsp-0.3.6.vsix";
-      sha256 = "sha256-N39mok6/VINF+72M5yVfueoecvs3MQBQRjKXU9B2rmc=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.7/file/rgherdt.scheme-lsp-0.3.7.vsix";
+      sha256 = "sha256-mq/G8r5+v1WSaUfkXlqEo1ACitwL78YD0VfUGfaKjVY=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -19155,10 +19155,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.2/file/sebastianbille.iam-legend-1.1.2.vsix";
-      sha256 = "sha256-0wzwTXZMC/8x9MErz4LgoA0Kqig+PVSYgunGL59/Xqk=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.3/file/sebastianbille.iam-legend-1.1.3.vsix";
+      sha256 = "sha256-+1Grkgzrjr+HPg8t6zAbDZGits4LIQVVaV68ZOH0O5Y=";
     };
     license = "MIT";
     name = "iam-legend";
