@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4whVutXDi0XNnVFkv0Sr1WSu2fRMHXIzyEtKkljUlFo=",
+            "sha256": "sha256-Wd4d4+Oc6zZnKKL3ssMLNqxw8Xk5UwIBpWetmfnf9CQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.3/file/ArmantGoldswain.seesharp-theme-1.0.3.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.7/file/ArmantGoldswain.seesharp-theme-1.0.7.vsix"
         },
-        "version": "1.0.3"
+        "version": "1.0.7"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -15269,11 +15269,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VSFQgUE5Einrg9K/ZMWmDtGY1KsMWt8BSA0sxr5S5aw=",
+            "sha256": "sha256-W9kt7s2GiHisRnw4Y8ZJjlKO9uOPqCtg/h+ECW/i9j8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.7.0/file/fernandoescolar.vscode-solution-explorer-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.7.2/file/fernandoescolar.vscode-solution-explorer-0.7.2.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.7.2"
     },
     "ferrielmelarpis-vscode-css-modules-syntax-highlighter": {
         "cargoLocks": null,
@@ -18328,11 +18328,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pTRZudrwprfHmeOdf+XtrjS1ckb3FVaPwDy2/Pv36Vk=",
+            "sha256": "sha256-ygqZOwT25Z29SiwB6dPLhOiRqw8A1TEGVZCi/MjUtmk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.34/file/iljapostnovs.ui5plugin-0.14.34.vsix"
+            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.35/file/iljapostnovs.ui5plugin-0.14.35.vsix"
         },
-        "version": "0.14.34"
+        "version": "0.14.35"
     },
     "ilkka-google-java-format": {
         "cargoLocks": null,
@@ -21178,11 +21178,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -27410,11 +27410,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6XCwy9NvdJj5P08n8pWtZAfhIhAr3uecxliklSEXAPc=",
+            "sha256": "sha256-egR1mXZP1ldQjYns1AcPRWbfClsTg33HCwuoTvARnH4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.436/file/pokey.cursorless-0.26.436.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.437/file/pokey.cursorless-0.26.437.vsix"
         },
-        "version": "0.26.436"
+        "version": "0.26.437"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -30849,11 +30849,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
