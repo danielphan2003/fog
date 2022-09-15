@@ -5693,11 +5693,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dVjI9uDaRLT5I+Iyy728GNzu6cHUNwueUTpAN+9dSQU=",
+            "sha256": "sha256-kXQiNik0XJ8ZBiuP30aSoxX/3iVY6NWspW2GjTbsfMo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1416/file/Slint.slint-nightly-2022.9.1416.vsix"
         },
-        "version": "0.3.0"
+        "version": "2022.9.1416"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -16732,9 +16732,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18499,11 +18499,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HNmRWwO5n4cK5VA1zvX+5Sapsxq0ITxC+GSi8EMB9vM=",
+            "sha256": "sha256-SjwFXLtEjbdVyUg6ikreIrKCb4D9I1+sknaBg0G1DPY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.62/file/iocave.customize-ui-0.1.62.vsix"
+            "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.64/file/iocave.customize-ui-0.1.64.vsix"
         },
-        "version": "0.1.62"
+        "version": "0.1.64"
     },
     "iocave-monkey-patch": {
         "cargoLocks": null,
@@ -38639,11 +38639,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

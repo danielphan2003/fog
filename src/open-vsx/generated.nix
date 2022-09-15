@@ -3591,10 +3591,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "0.3.0";
+    version = "2022.9.1416";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix";
-      sha256 = "sha256-dVjI9uDaRLT5I+Iyy728GNzu6cHUNwueUTpAN+9dSQU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1416/file/Slint.slint-nightly-2022.9.1416.vsix";
+      sha256 = "sha256-kXQiNik0XJ8ZBiuP30aSoxX/3iVY6NWspW2GjTbsfMo=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10565,8 +10565,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11679,10 +11679,10 @@
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
-    version = "0.1.62";
+    version = "0.1.64";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.62/file/iocave.customize-ui-0.1.62.vsix";
-      sha256 = "sha256-HNmRWwO5n4cK5VA1zvX+5Sapsxq0ITxC+GSi8EMB9vM=";
+      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.64/file/iocave.customize-ui-0.1.64.vsix";
+      sha256 = "sha256-SjwFXLtEjbdVyUg6ikreIrKCb4D9I1+sknaBg0G1DPY=";
     };
     license = "MIT";
     name = "customize-ui";
@@ -24399,10 +24399,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";

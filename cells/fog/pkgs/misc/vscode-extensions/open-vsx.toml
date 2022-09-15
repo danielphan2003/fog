@@ -4705,8 +4705,8 @@ fetch.url = "https://open-vsx.org/api/exiasr/hadolint/1.1.2/file/exiasr.hadolint
 passthru = { publisher = "exiasr", name = "hadolint", description = "Integrates hadolint, a Dockerfile linter, into VS Code.", license = "MIT" }
 
 [iocave-customize-ui]
-src.manual = "0.1.62" # iocave.customize-ui
-fetch.url = "https://open-vsx.org/api/iocave/customize-ui/0.1.62/file/iocave.customize-ui-0.1.62.vsix" # iocave.customize-ui
+src.manual = "0.1.64" # iocave.customize-ui
+fetch.url = "https://open-vsx.org/api/iocave/customize-ui/0.1.64/file/iocave.customize-ui-0.1.64.vsix" # iocave.customize-ui
 passthru = { publisher = "iocave", name = "customize-ui", description = "Advanced VSCode user interface customizations. Very experimental.", license = "MIT" }
 
 [vscjava-vscode-java-pack]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.3/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "0.3.0" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint/0.3.0/file/Slint.slint-0.3.0.vsix" # Slint.slint-nightly
+src.manual = "2022.9.1416" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1416/file/Slint.slint-nightly-2022.9.1416.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10477,5 +10477,6 @@ passthru = { publisher = "root16", name = "bamboo-pa-vscode", description = "All
 src.manual = "0.1.0" # FIUBA.photran-lsp-client-vscode
 fetch.url = "https://open-vsx.org/api/FIUBA/photran-lsp-client-vscode/0.1.0/file/FIUBA.photran-lsp-client-vscode-0.1.0.vsix" # FIUBA.photran-lsp-client-vscode
 passthru = { publisher = "FIUBA", name = "photran-lsp-client-vscode", description = "A language client for Fortran, powered by Photran", license = "MIT" }
+
 
 
