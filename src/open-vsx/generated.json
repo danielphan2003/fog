@@ -5997,11 +5997,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aYrnMaycz0tU34uxq1ORXCIes/dxxa01NC5lmssqy8A=",
+            "sha256": "sha256-zyZcAMYiv7nsymEklkIf2dlkumqXm7X1Vv6RtBSYeDk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.14/file/TabNine.tabnine-vscode-3.6.14.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.15/file/TabNine.tabnine-vscode-3.6.15.vsix"
         },
-        "version": "3.6.14"
+        "version": "3.6.15"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -13255,11 +13255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EdTmbWikS9nb37AlG4L+RwmSn+5xWKyXe6/YLypUrVk=",
+            "sha256": "sha256-WmjP9lqXGQ1myWk0kgC/P4DV6Z3h+tidq+vqUZhsLpY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.1/file/dendron.nightly-0.112.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.2/file/dendron.nightly-0.112.2.vsix"
         },
-        "version": "0.112.1"
+        "version": "0.112.2"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -20684,11 +20684,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -30849,11 +30849,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
