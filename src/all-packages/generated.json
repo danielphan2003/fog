@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NlEr2Y12EwOC2VF7bUVNU3L8e1xtYvr6flPfI+uGHPk=",
+            "sha256": "sha256-4VfY9sYy0UIbhFwwNELwEUbyLfpmZW7SPmbT2/daHfQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-919-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-920-1_all.deb"
         },
-        "version": "1.0-919"
+        "version": "1.0-920"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-25b24acc075cf9bf1e051e54171b8fd246c070b7/Cargo.lock",
+                "./rustdesk-f17cc0c5376a935f1c71d088f89de5086d0d4be6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "25b24acc075cf9bf1e051e54171b8fd246c070b7",
-            "sha256": "sha256-ElRDlDCFMgPSQXHr+NY5Vj/JfHgXyd/g8hjzHjlIH1M=",
+            "rev": "f17cc0c5376a935f1c71d088f89de5086d0d4be6",
+            "sha256": "sha256-WLoLn7HphCOe5ZyuNl9mbIQ+AEqXDkwOXHrhjQOVuXc=",
             "type": "github"
         },
-        "version": "25b24acc075cf9bf1e051e54171b8fd246c070b7"
+        "version": "f17cc0c5376a935f1c71d088f89de5086d0d4be6"
     },
     "rustdesk-server": {
         "cargoLocks": {

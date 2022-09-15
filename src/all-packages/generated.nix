@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-919";
+    version = "1.0-920";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-919-1_all.deb";
-      sha256 = "sha256-NlEr2Y12EwOC2VF7bUVNU3L8e1xtYvr6flPfI+uGHPk=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-920-1_all.deb";
+      sha256 = "sha256-4VfY9sYy0UIbhFwwNELwEUbyLfpmZW7SPmbT2/daHfQ=";
     };
   };
   jitsi-meet = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "25b24acc075cf9bf1e051e54171b8fd246c070b7";
+    version = "f17cc0c5376a935f1c71d088f89de5086d0d4be6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "25b24acc075cf9bf1e051e54171b8fd246c070b7";
+      rev = "f17cc0c5376a935f1c71d088f89de5086d0d4be6";
       fetchSubmodules = false;
-      sha256 = "sha256-ElRDlDCFMgPSQXHr+NY5Vj/JfHgXyd/g8hjzHjlIH1M=";
+      sha256 = "sha256-WLoLn7HphCOe5ZyuNl9mbIQ+AEqXDkwOXHrhjQOVuXc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-25b24acc075cf9bf1e051e54171b8fd246c070b7/Cargo.lock;
+      lockFile = ./rustdesk-f17cc0c5376a935f1c71d088f89de5086d0d4be6/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
