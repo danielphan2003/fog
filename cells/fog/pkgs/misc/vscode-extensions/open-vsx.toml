@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.2/file/dendron.night
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
-src.manual = "1.18.7" # rangav.vscode-thunder-client
-fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.7/file/rangav.vscode-thunder-client-1.18.7.vsix" # rangav.vscode-thunder-client
+src.manual = "1.19.0" # rangav.vscode-thunder-client
+fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.0/file/rangav.vscode-thunder-client-1.19.0.vsix" # rangav.vscode-thunder-client
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
@@ -10485,6 +10485,7 @@ passthru = { publisher = "FIUBA", name = "photran-lsp-client-vscode", descriptio
 src.manual = "1.4.2" # dongfg.vscode-beancount-formatter
 fetch.url = "https://open-vsx.org/api/dongfg/vscode-beancount-formatter/1.4.2/file/dongfg.vscode-beancount-formatter-1.4.2.vsix" # dongfg.vscode-beancount-formatter
 passthru = { publisher = "dongfg", name = "vscode-beancount-formatter", description = "Beancount file formatter", license = "mit" }
+
 
 
 
