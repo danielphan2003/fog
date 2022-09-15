@@ -2026,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -2102,11 +2102,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2GDUjE/RvfK0faS0YihaBwPG1ePrzsnItttJuKCTfKo=",
+            "sha256": "sha256-UffyEaNfbBL3yRNCNxzCvpuRME+pcccaBQCBHv+p7kA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.50.0/file/GitLab.gitlab-workflow-3.50.0.vsix"
+            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.51.0/file/GitLab.gitlab-workflow-3.51.0.vsix"
         },
-        "version": "3.50.0"
+        "version": "3.51.0"
     },
     "Google-cros-ide": {
         "cargoLocks": null,
@@ -26954,11 +26954,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Im/LIdroT+ke+jnBmxXzaZus+HLKnyzrmOYeXZYgffE=",
+            "sha256": "sha256-ySfcGgp/70XGM/Lm8oZye2hbIxH52d/4vAyJPr7bx6I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.2.1/file/phoenisx.cssvar-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.2.2"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
@@ -38259,11 +38259,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WCVxE45y2W7QGs6a4hrx4eRxFIl8e2FLvDf7wEV9SZM=",
+            "sha256": "sha256-xqGRaMxb897YnZ2MOsRBJxPzgrAn8hkTXysgjLb0LW8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.18/file/zardoy.ts-essential-plugins-0.0.18.vsix"
+            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.19/file/zardoy.ts-essential-plugins-0.0.19.vsix"
         },
-        "version": "0.0.18"
+        "version": "0.0.19"
     },
     "zardoy-typescript-server-logger": {
         "cargoLocks": null,

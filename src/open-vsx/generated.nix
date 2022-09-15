@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -1323,10 +1323,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.50.0";
+    version = "3.51.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.50.0/file/GitLab.gitlab-workflow-3.50.0.vsix";
-      sha256 = "sha256-2GDUjE/RvfK0faS0YihaBwPG1ePrzsnItttJuKCTfKo=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.51.0/file/GitLab.gitlab-workflow-3.51.0.vsix";
+      sha256 = "sha256-UffyEaNfbBL3yRNCNxzCvpuRME+pcccaBQCBHv+p7kA=";
     };
     license = "MIT";
     name = "gitlab-workflow";
@@ -17019,10 +17019,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.1/file/phoenisx.cssvar-2.2.1.vsix";
-      sha256 = "sha256-Im/LIdroT+ke+jnBmxXzaZus+HLKnyzrmOYeXZYgffE=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix";
+      sha256 = "sha256-ySfcGgp/70XGM/Lm8oZye2hbIxH52d/4vAyJPr7bx6I=";
     };
     license = "MIT";
     name = "cssvar";
@@ -24159,10 +24159,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.18/file/zardoy.ts-essential-plugins-0.0.18.vsix";
-      sha256 = "sha256-WCVxE45y2W7QGs6a4hrx4eRxFIl8e2FLvDf7wEV9SZM=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.19/file/zardoy.ts-essential-plugins-0.0.19.vsix";
+      sha256 = "sha256-xqGRaMxb897YnZ2MOsRBJxPzgrAn8hkTXysgjLb0LW8=";
     };
     license = "MIT";
     name = "ts-essential-plugins";

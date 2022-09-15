@@ -4070,8 +4070,8 @@ fetch.url = "https://open-vsx.org/api/gwoptics/katscript/0.2.0/file/gwoptics.kat
 passthru = { publisher = "gwoptics", name = "katscript", description = "Syntax highlighting for KatScript", license = "MIT" }
 
 [zardoy-ts-essential-plugins]
-src.manual = "0.0.18" # zardoy.ts-essential-plugins
-fetch.url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.18/file/zardoy.ts-essential-plugins-0.0.18.vsix" # zardoy.ts-essential-plugins
+src.manual = "0.0.19" # zardoy.ts-essential-plugins
+fetch.url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.19/file/zardoy.ts-essential-plugins-0.0.19.vsix" # zardoy.ts-essential-plugins
 passthru = { publisher = "zardoy", name = "ts-essential-plugins", description = "", license = "MIT" }
 
 [tensorchord-vscode-envd]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -9785,8 +9785,8 @@ fetch.url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.7.0/file/cns
 passthru = { publisher = "cnshenj", name = "vscode-task-manager", description = "Manages tasks in Visual Studio Code.", license = "MIT" }
 
 [phoenisx-cssvar]
-src.manual = "2.2.1" # phoenisx.cssvar
-fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.1/file/phoenisx.cssvar-2.2.1.vsix" # phoenisx.cssvar
+src.manual = "2.2.2" # phoenisx.cssvar
+fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix" # phoenisx.cssvar
 passthru = { publisher = "phoenisx", name = "cssvar", description = "Intellisense support for CSS Variables", license = "MIT" }
 
 [foam-foam-vscode]
@@ -9955,8 +9955,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-xml/0.21.0/file/redhat.vscod
 passthru = { publisher = "redhat", name = "vscode-xml", description = "XML Language Support by Red Hat", license = "EPL-2.0" }
 
 [GitLab-gitlab-workflow]
-src.manual = "3.50.0" # GitLab.gitlab-workflow
-fetch.url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.50.0/file/GitLab.gitlab-workflow-3.50.0.vsix" # GitLab.gitlab-workflow
+src.manual = "3.51.0" # GitLab.gitlab-workflow
+fetch.url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.51.0/file/GitLab.gitlab-workflow-3.51.0.vsix" # GitLab.gitlab-workflow
 passthru = { publisher = "GitLab", name = "gitlab-workflow", description = "Official GitLab-maintained extension for Visual Studio Code.", license = "MIT" }
 
 [TabNine-tabnine-vscode]
@@ -10485,6 +10485,7 @@ passthru = { publisher = "FIUBA", name = "photran-lsp-client-vscode", descriptio
 src.manual = "1.4.2" # dongfg.vscode-beancount-formatter
 fetch.url = "https://open-vsx.org/api/dongfg/vscode-beancount-formatter/1.4.2/file/dongfg.vscode-beancount-formatter-1.4.2.vsix" # dongfg.vscode-beancount-formatter
 passthru = { publisher = "dongfg", name = "vscode-beancount-formatter", description = "Beancount file formatter", license = "mit" }
+
 
 
 
