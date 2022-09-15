@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e338648fed3263200dfd6abc9f8100c6f1c0eb67";
+    version = "f1f7a2267460c5ed456153a4a04d864fb7865c56";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e338648fed3263200dfd6abc9f8100c6f1c0eb67";
+      rev = "f1f7a2267460c5ed456153a4a04d864fb7865c56";
       fetchSubmodules = false;
-      sha256 = "sha256-OhkvJlteSLKqy0SYDe/RpI/uQrcbYWdp0pUlf+EjTFw=";
+      sha256 = "sha256-kP9oYIigt+whLWKCAOhY6KX9GjWanf+Aq80zGVvMCz4=";
     });
   };
   cinny = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-41-ga81dd2c2";
+    version = "2.2-42-g739c3947";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-41-ga81dd2c2-1_all.deb";
-      sha256 = "sha256-UiKtl28R6utKolaMTmfBlpKhb+5jTRJmONLXN640ZDs=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-42-g739c3947-1_all.deb";
+      sha256 = "sha256-mz4s59ZD7AiSs9aezr5V7vEWh29K5raaUstINBapAts=";
     };
   };
   layout-machi = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "105.0.1343.34";
+    version = "106.0.1370.15";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.34-1_amd64.deb";
-      sha256 = "sha256-8ToR6S7OalBKRDqJ8NEebf1kVNRoYdXfoboxLnqVsYQ=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_106.0.1370.15-1_amd64.deb";
+      sha256 = "sha256-naXM5EGo7IFH0SH23LGBoWYIwvR3YD3886izFyOeHsM=";
     };
   };
   microsoft-edge-dev = {
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d34dd43562ca18abc85bd0a3ae5485a8aef773d7";
+    version = "33ee2c058eaa02382cc720ee895f078ea0f1f4b5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d34dd43562ca18abc85bd0a3ae5485a8aef773d7";
+      rev = "33ee2c058eaa02382cc720ee895f078ea0f1f4b5";
       fetchSubmodules = false;
-      sha256 = "sha256-lnFiqpTnTnqzV5a/P38LA8ZQv2r4WH8r2W4zqVqlcSk=";
+      sha256 = "sha256-wzjg+vjipjz7fILFkZoIKnChRJww3qiNP7f1tq6SpKU=";
     });
   };
   tailscale-systray = {
