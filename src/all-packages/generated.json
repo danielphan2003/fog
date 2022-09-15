@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "ec333e261fe69fb37a4cfdf41dd38623d52c3688",
-            "sha256": "sha256-wSv1UNyjiZjaW+QX+tnsqo/2ULtdYd9j5ZxcudyfmnM=",
+            "rev": "262d9720fea61028cf0a7aed82cb95a3acb90437",
+            "sha256": "sha256-LK+g3TQyU2/JxUqgGzkN7dSgRikBhsu3I8Q/bMbqvEw=",
             "type": "github"
         },
-        "version": "ec333e261fe69fb37a4cfdf41dd38623d52c3688"
+        "version": "262d9720fea61028cf0a7aed82cb95a3acb90437"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1dLlw1ehb/rA5sqcxUX8qnXFIgyDMGHh3XniC+lvPts=",
+            "sha256": "sha256-cIeU7Zw+2WftFPm73n0dcu99pKIS4FqD++hXXF9bLAg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.36.6/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.37.0/app-release-unsigned.apk"
         },
-        "version": "0.36.6"
+        "version": "0.37.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fMF43uWMYULMzqpTaXkgA5VxBbdrTOehblWlpr6kcIo=",
+            "sha256": "sha256-mAW7Ryk/Pghoy5ALz6MQC2LJ+TK9qOQ3+7wPKSolT8I=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.54.1/revanced-patches-2.54.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.55.0/revanced-patches-2.55.0.jar"
         },
-        "version": "2.54.1"
+        "version": "2.55.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
