@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Wd4d4+Oc6zZnKKL3ssMLNqxw8Xk5UwIBpWetmfnf9CQ=",
+            "sha256": "sha256-/2NVdZ1fs35su1dCMzGJ13EUK+WM/8PIDpxWrZmgVVk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.7/file/ArmantGoldswain.seesharp-theme-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.8/file/ArmantGoldswain.seesharp-theme-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -13274,11 +13274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WmjP9lqXGQ1myWk0kgC/P4DV6Z3h+tidq+vqUZhsLpY=",
+            "sha256": "sha256-Js8bChoQIBeZNJtwuE27V3zlPG16Uofb5bv58kIauUo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.2/file/dendron.nightly-0.112.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.3/file/dendron.nightly-0.112.3.vsix"
         },
-        "version": "0.112.2"
+        "version": "0.112.3"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -30868,11 +30868,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -31590,9 +31590,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -38207,6 +38207,25 @@
             "url": "https://open-vsx.org/api/zardoy/github-manager/0.0.6/file/zardoy.github-manager-0.0.6.vsix"
         },
         "version": "0.0.6"
+    },
+    "zardoy-ide-scripting": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "zardoy-ide-scripting",
+        "passthru": {
+            "description": "True scripting using full VSCode API !",
+            "license": "MIT",
+            "name": "ide-scripting",
+            "publisher": "zardoy"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-p+MaPw3F28rH1pNoZbgWo36jLaC/jGSQgs4oE/D94EI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/zardoy/ide-scripting/0.0.1/file/zardoy.ide-scripting-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "zardoy-npm-rapid-ready": {
         "cargoLocks": null,

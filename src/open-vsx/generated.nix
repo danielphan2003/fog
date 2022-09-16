@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.7/file/ArmantGoldswain.seesharp-theme-1.0.7.vsix";
-      sha256 = "sha256-Wd4d4+Oc6zZnKKL3ssMLNqxw8Xk5UwIBpWetmfnf9CQ=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.8/file/ArmantGoldswain.seesharp-theme-1.0.8.vsix";
+      sha256 = "sha256-/2NVdZ1fs35su1dCMzGJ13EUK+WM/8PIDpxWrZmgVVk=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -8379,10 +8379,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.112.2";
+    version = "0.112.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.112.2/file/dendron.nightly-0.112.2.vsix";
-      sha256 = "sha256-WmjP9lqXGQ1myWk0kgC/P4DV6Z3h+tidq+vqUZhsLpY=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.112.3/file/dendron.nightly-0.112.3.vsix";
+      sha256 = "sha256-Js8bChoQIBeZNJtwuE27V3zlPG16Uofb5bv58kIauUo=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -19491,10 +19491,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19949,8 +19949,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24131,6 +24131,18 @@
     license = "MIT";
     name = "github-manager";
     description = "THE FASTEST way to switch between cloned GitHub repos";
+    publisher = "zardoy";
+  };
+  zardoy-ide-scripting = {
+    pname = "zardoy-ide-scripting";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/ide-scripting/0.0.1/file/zardoy.ide-scripting-0.0.1.vsix";
+      sha256 = "sha256-p+MaPw3F28rH1pNoZbgWo36jLaC/jGSQgs4oE/D94EI=";
+    };
+    license = "MIT";
+    name = "ide-scripting";
+    description = "True scripting using full VSCode API !";
     publisher = "zardoy";
   };
   zardoy-npm-rapid-ready = {
