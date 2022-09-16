@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "e0758eb5e572d5d7cf28f28e5e409f20e0bd2ded";
+    version = "f2970bc697bdf20d398d1be05ff72d50df911e64";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "e0758eb5e572d5d7cf28f28e5e409f20e0bd2ded";
+      rev = "f2970bc697bdf20d398d1be05ff72d50df911e64";
       fetchSubmodules = false;
-      sha256 = "sha256-L0cFkKPFw92dx3P9jlkwgw7/otjUVkVZbOE0UT6gF+I=";
+      sha256 = "sha256-aeAXMKwjQv/kRd7lTeIrcJmqT1vAUkRUOM8VrEJpd8M=";
     });
   };
   playit-agent = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a";
+    version = "6ed1c8beb11af662e948124d2742e2b5a36ba9b8";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a";
+      rev = "6ed1c8beb11af662e948124d2742e2b5a36ba9b8";
       fetchSubmodules = false;
-      sha256 = "sha256-56L4JIpJwWafur3C3Fc2iYLUkpsxgOHrz2AVra6H/GQ=";
+      sha256 = "sha256-TDzpitN9CASSF/3PtTPKMpa5pgOZzKbyfALjLCzNvT8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a/Cargo.lock;
+      lockFile = ./rustdesk-6ed1c8beb11af662e948124d2742e2b5a36ba9b8/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
