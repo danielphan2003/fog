@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "4cfe8fb339c9f0df7e915895f2630f74a4d4600f";
+    version = "1d87374628e4a59c9f56a985419df39f89c78f97";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "4cfe8fb339c9f0df7e915895f2630f74a4d4600f";
+      rev = "1d87374628e4a59c9f56a985419df39f89c78f97";
       fetchSubmodules = true;
-      sha256 = "sha256-E1BA6NkbyF6hv2/7SM06/iyxv+gw+SQYD7e5Z/ThafM=";
+      sha256 = "sha256-Cvdj5R8J8HS10nAIn57GribLCUIANTs/z3hrZ1X69Iw=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-4cfe8fb339c9f0df7e915895f2630f74a4d4600f/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-1d87374628e4a59c9f56a985419df39f89c78f97/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6ed1c8beb11af662e948124d2742e2b5a36ba9b8";
+    version = "9bb52db1cd92f797c2764e187784e5ecdec5e8c7";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6ed1c8beb11af662e948124d2742e2b5a36ba9b8";
+      rev = "9bb52db1cd92f797c2764e187784e5ecdec5e8c7";
       fetchSubmodules = false;
-      sha256 = "sha256-TDzpitN9CASSF/3PtTPKMpa5pgOZzKbyfALjLCzNvT8=";
+      sha256 = "sha256-ZDnbg+D2GiNIiYJwtiKiALriejzyo9cF8k7eVdbiG64=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6ed1c8beb11af662e948124d2742e2b5a36ba9b8/Cargo.lock;
+      lockFile = ./rustdesk-9bb52db1cd92f797c2764e187784e5ecdec5e8c7/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
