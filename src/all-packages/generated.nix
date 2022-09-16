@@ -125,13 +125,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "6ca2fbb31c5cdf50b946b50f3f814f39a8f1cfbe";
+    version = "bde785ee64f91887cfe669f9db0dd8d9e90d32fc";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "6ca2fbb31c5cdf50b946b50f3f814f39a8f1cfbe";
+      rev = "bde785ee64f91887cfe669f9db0dd8d9e90d32fc";
       fetchSubmodules = false;
-      sha256 = "sha256-7CD0RszmPdIHD1GGpVtJ4uAFIsQCFFY2z3NPZmA1Kuk=";
+      sha256 = "sha256-aKXdZ/F7drzk5mePI+ViHcBvDzAmC8Xp/9Kro9reFbI=";
     });
   };
   awestore = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "dddc03eb46a166edd47c2cf9ef41858bcc4c1529";
+    version = "723f731a20bb92e60be6358aa224248790b2c0f2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "dddc03eb46a166edd47c2cf9ef41858bcc4c1529";
+      rev = "723f731a20bb92e60be6358aa224248790b2c0f2";
       fetchSubmodules = false;
-      sha256 = "sha256-G2fNvKoMK6qCnF/aQ66CtvUqoeAYJ6iSFY4nQar27qs=";
+      sha256 = "sha256-qrCBzTRy1V52t27H9cfzsobv7QxvBuCGtGL5hofBQ7U=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-dddc03eb46a166edd47c2cf9ef41858bcc4c1529/Cargo.lock;
+      lockFile = ./rustdesk-723f731a20bb92e60be6358aa224248790b2c0f2/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1348,13 +1348,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "14cc12eb78d7d1d59254317c2c81bce4006ea597";
+    version = "950aed042e8bd4d11bdbc4cb53b4a721e5185e0f";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "14cc12eb78d7d1d59254317c2c81bce4006ea597";
+      rev = "950aed042e8bd4d11bdbc4cb53b4a721e5185e0f";
       fetchSubmodules = false;
-      sha256 = "sha256-HSvmY9N6d5D0kuH1qMihL7VDsL58y+H9OCovh59rENY=";
+      sha256 = "sha256-Iu2d8hAgWvrxGT5dsqBVCl4KPOep4AVnF4kRMczhD1A=";
     });
   };
   whitesur-icon-theme = {
