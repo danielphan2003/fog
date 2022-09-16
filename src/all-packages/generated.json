@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ku3ccUyP4+zCrdP4w1+bxsI4cowagLmNx90/mNUxy3o=",
+            "sha256": "sha256-USXIAnpcAerEnvPPFGhBDSwWC+Apgv0Jjio0ejVMcC8=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-921-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-922-1_all.deb"
         },
-        "version": "1.0-921"
+        "version": "1.0-922"
     },
     "jitsi-meet": {
         "cargoLocks": null,
