@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -5621,8 +5621,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8463,10 +8463,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.15.10535";
+    version = "1.15.10555";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10535/file/devsense.composer-php-vscode-1.15.10535.vsix";
-      sha256 = "sha256-3zzUhcE6nkR0PdAgg67QSyQxoJ5ogLwEZVCa7u2JksU=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10555/file/devsense.composer-php-vscode-1.15.10555.vsix";
+      sha256 = "sha256-Xl0vFaEHuo2XBlxEIKy2frO40PrlvlpCSziBMybwUN4=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8475,10 +8475,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.15.10535";
+    version = "1.15.10555";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10535/file/devsense.phptools-vscode-1.15.10535.vsix";
-      sha256 = "sha256-I22QVHhrJztsA3KqGDKUhYrZPvmjy9eatD1rWcs3HPk=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10555/file/devsense.phptools-vscode-1.15.10555.vsix";
+      sha256 = "sha256-FQaGBNVlBxKTtr5JYI/VOsviU53ERmpG+sRpYsI68xA=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -12003,10 +12003,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022091614";
+    version = "0.1.2022091617";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091614/file/jbangdev.jbang-vscode-0.1.2022091614.vsix";
-      sha256 = "sha256-hpzRYQxF7t/hMbBKdndgy7mRzXcf32KO+8CKAROZB5c=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091617/file/jbangdev.jbang-vscode-0.1.2022091617.vsix";
+      sha256 = "sha256-szIK0WWfpOXXl70gFuhv51jA4rj0qQfTbWiHaKoIznA=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13383,10 +13383,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19491,10 +19491,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19949,8 +19949,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24135,10 +24135,10 @@
   };
   zardoy-ide-scripting = {
     pname = "zardoy-ide-scripting";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ide-scripting/0.0.1/file/zardoy.ide-scripting-0.0.1.vsix";
-      sha256 = "sha256-p+MaPw3F28rH1pNoZbgWo36jLaC/jGSQgs4oE/D94EI=";
+      url = "https://open-vsx.org/api/zardoy/ide-scripting/0.0.3/file/zardoy.ide-scripting-0.0.3.vsix";
+      sha256 = "sha256-VL6M8cxwADIMi6gquSjnGsY5SMVPQ3B9g0ZZh5vQTbw=";
     };
     license = "MIT";
     name = "ide-scripting";
@@ -24435,10 +24435,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
