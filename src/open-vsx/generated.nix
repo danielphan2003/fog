@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.8/file/ArmantGoldswain.seesharp-theme-1.0.8.vsix";
-      sha256 = "sha256-/2NVdZ1fs35su1dCMzGJ13EUK+WM/8PIDpxWrZmgVVk=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.9/file/ArmantGoldswain.seesharp-theme-1.0.9.vsix";
+      sha256 = "sha256-zQwrgyHMGc/NYigR0henJWAI8Qq0dltdpG07Inh6gR8=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -6279,10 +6279,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.300";
+    version = "2.0.301";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.300/file/betterthantomorrow.calva-2.0.300.vsix";
-      sha256 = "sha256-7INJWFHThcRmwsNd/bHw01dbD3wvbXEuSzp3g7jbs54=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.301/file/betterthantomorrow.calva-2.0.301.vsix";
+      sha256 = "sha256-yQT3FJZlaUerepAq4TuzNUdP5Kxidnu5xTXpVxL+nuQ=";
     };
     license = "MIT";
     name = "calva";
@@ -19491,10 +19491,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24231,10 +24231,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.92";
+    version = "0.0.93";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.92/file/zardoy.zardoy-experiments-0.0.92.vsix";
-      sha256 = "sha256-Q+Yfj/Wits/D0Lxy2eK8lo2WzwigPxVRE7OGI3GaFUw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.93/file/zardoy.zardoy-experiments-0.0.93.vsix";
+      sha256 = "sha256-rSOpxdngkiuhysxzu0tHy7zYEy4v0GE187bA4CTeXVs=";
     };
     license = "MIT";
     name = "zardoy-experiments";

@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/2NVdZ1fs35su1dCMzGJ13EUK+WM/8PIDpxWrZmgVVk=",
+            "sha256": "sha256-zQwrgyHMGc/NYigR0henJWAI8Qq0dltdpG07Inh6gR8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.8/file/ArmantGoldswain.seesharp-theme-1.0.8.vsix"
+            "url": "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.9/file/ArmantGoldswain.seesharp-theme-1.0.9.vsix"
         },
-        "version": "1.0.8"
+        "version": "1.0.9"
     },
     "ArtisanByteCrafter-poptheme": {
         "cargoLocks": null,
@@ -2026,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -9949,11 +9949,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7INJWFHThcRmwsNd/bHw01dbD3wvbXEuSzp3g7jbs54=",
+            "sha256": "sha256-yQT3FJZlaUerepAq4TuzNUdP5Kxidnu5xTXpVxL+nuQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.300/file/betterthantomorrow.calva-2.0.300.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.301/file/betterthantomorrow.calva-2.0.301.vsix"
         },
-        "version": "2.0.300"
+        "version": "2.0.301"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -30868,11 +30868,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -38373,11 +38373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q+Yfj/Wits/D0Lxy2eK8lo2WzwigPxVRE7OGI3GaFUw=",
+            "sha256": "sha256-rSOpxdngkiuhysxzu0tHy7zYEy4v0GE187bA4CTeXVs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.92/file/zardoy.zardoy-experiments-0.0.92.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.93/file/zardoy.zardoy-experiments-0.0.93.vsix"
         },
-        "version": "0.0.92"
+        "version": "0.0.93"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
