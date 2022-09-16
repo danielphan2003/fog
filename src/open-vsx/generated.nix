@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "1.0.12";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.12/file/ArmantGoldswain.seesharp-theme-1.0.12.vsix";
-      sha256 = "sha256-6PpG+P/t2GAfVYOHvn8Xt9N7eCa/z3htm9xTxyieIyM=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.1.0/file/ArmantGoldswain.seesharp-theme-1.1.0.vsix";
+      sha256 = "sha256-zp83MKS1PAQ6+d7PmavPC1qBrshq1AmfFX8rus9bgMQ=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -12003,10 +12003,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022091617";
+    version = "0.1.2022091619";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091617/file/jbangdev.jbang-vscode-0.1.2022091617.vsix";
-      sha256 = "sha256-szIK0WWfpOXXl70gFuhv51jA4rj0qQfTbWiHaKoIznA=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091619/file/jbangdev.jbang-vscode-0.1.2022091619.vsix";
+      sha256 = "sha256-JqCDwHOgNA0+g7vtyu9zYzTWRM+egboEa1xeaN/g2x8=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13071,10 +13071,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13383,10 +13383,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -20439,10 +20439,10 @@
   };
   svelte-svelte-vscode-nightly = {
     pname = "svelte-svelte-vscode-nightly";
-    version = "106.0.0";
+    version = "106.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/106.0.0/file/svelte.svelte-vscode-106.0.0.vsix";
-      sha256 = "sha256-mcqEFCbDpo5Aa19yPa59x+w/jRZVwYMwRitHXhVUEmA=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/106.1.0/file/svelte.svelte-vscode-106.1.0.vsix";
+      sha256 = "sha256-Q138F+7nYYruv//CcbpktRoA2YFxkla8AS28Z03Mpwo=";
     };
     license = "MIT";
     name = "svelte-vscode-nightly";
