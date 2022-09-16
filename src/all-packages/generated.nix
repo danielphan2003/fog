@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "ff971e24327a6a83dc2e854a3cbcdc04b8c44f1b";
+    version = "34acc7f40bb96e69a9090f4d36a0a29d5e82d09a";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "ff971e24327a6a83dc2e854a3cbcdc04b8c44f1b";
+      rev = "34acc7f40bb96e69a9090f4d36a0a29d5e82d09a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-VvAklnjGN4yuefvvfm1IrZmzNZUOu0yqhWIzJBib85A=";
+      sha256 = "sha256-VJVnbIFRHolvpuAoXngrvOQfnly0UNB/t1MYddpoZMA=";
     };
   };
   spicetify-cli = {
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f0347e841f8edc8b3b08f1c00f1eef6625beec2d";
+    version = "4a82b317b793d34d7d3323287ea665278a93a413";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f0347e841f8edc8b3b08f1c00f1eef6625beec2d";
+      rev = "4a82b317b793d34d7d3323287ea665278a93a413";
       fetchSubmodules = false;
-      sha256 = "sha256-FZbffoizHs7UGClliPA0pGECqsLc/3M7/1S+N0dhEEM=";
+      sha256 = "sha256-GxNQZrQuSKGmCaUJtI4AeGef5AQh0IXxrrDavmzvp7o=";
     });
   };
   tailscale-systray = {
