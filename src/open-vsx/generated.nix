@@ -10577,8 +10577,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -12087,10 +12087,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.11/file/jeanp413.open-remote-ssh-0.0.11.vsix";
-      sha256 = "sha256-1AWsnZ/I8LKL4ynrAswmunWOf+23qmivbhrBRBNb2Zw=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.12/file/jeanp413.open-remote-ssh-0.0.12.vsix";
+      sha256 = "sha256-rc3L2dDAV7pILRwdwTCXd12bAcFph/RC71aDYLB9XXE=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -13071,10 +13071,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -17859,10 +17859,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.19.0";
+    version = "1.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.0/file/rangav.vscode-thunder-client-1.19.0.vsix";
-      sha256 = "sha256-26Jta7z4uaSrEA+KT5AqGZwXrXCGsujCkaJmJOe5BpE=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.1/file/rangav.vscode-thunder-client-1.19.1.vsix";
+      sha256 = "sha256-JrJLSBabJlsIGfUiFusvbFYq/zW76K+Qn4/+n64jm7Y=";
     };
     license = "";
     name = "vscode-thunder-client";
@@ -24435,10 +24435,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
