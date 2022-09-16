@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "1.0.9";
+    version = "1.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.9/file/ArmantGoldswain.seesharp-theme-1.0.9.vsix";
-      sha256 = "sha256-zQwrgyHMGc/NYigR0henJWAI8Qq0dltdpG07Inh6gR8=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.0.12/file/ArmantGoldswain.seesharp-theme-1.0.12.vsix";
+      sha256 = "sha256-6PpG+P/t2GAfVYOHvn8Xt9N7eCa/z3htm9xTxyieIyM=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -867,10 +867,10 @@
   };
   Discloud-discloud = {
     pname = "Discloud-discloud";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Discloud/discloud/1.0.0/file/Discloud.discloud-1.0.0.vsix";
-      sha256 = "sha256-HUyv8z535iN/TEycb+2P52ZgOYMu7zo7YbbW6v5lSi8=";
+      url = "https://open-vsx.org/api/Discloud/discloud/1.1.0/file/Discloud.discloud-1.1.0.vsix";
+      sha256 = "sha256-3cg+O0UD1EiI5SbyTqtKxpzsEEyOi/mf+JwUR0mC3Xo=";
     };
     license = "Apache-2.0";
     name = "discloud";
@@ -9039,10 +9039,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3059216";
+    version = "8.1.3068700";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3059216/file/eliostruyf.vscode-front-matter-beta-8.1.3059216.vsix";
-      sha256 = "sha256-74xg6tR913F8jEs2nIBA041BaDnA1R2zoQ12bz4/EMY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3068700/file/eliostruyf.vscode-front-matter-beta-8.1.3068700.vsix";
+      sha256 = "sha256-vBQneZHYrX8sXVusMCuGLzMG3OyH8raVXhHkroTrkcE=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10589,8 +10589,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
