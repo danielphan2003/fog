@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zXQi3Mqw+CsekrJj+yD3OssRtjoWzvHVAalyybJ1d0s=",
+            "sha256": "sha256-6Yj2PcfSjPF3lQtz3sD7UadyEQSNwN1JBEN7erlmT7I=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6568.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6569.tar.bz2"
         },
-        "version": "1.0.6568"
+        "version": "1.0.6569"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RdpNvUMCqx41QV/2oNQPFyVCvdZw5tIjh0X0Dh9pQPQ=",
+            "sha256": "sha256-hlz1obqhsKW2r//YqpgVPVIq3W5Mgluj+1YbHswZ0vg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6568-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6569-1_all.deb"
         },
-        "version": "1.0.6568"
+        "version": "1.0.6569"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-921c321a713722346dc2f4ed1c1a100ba63a2eaa/Cargo.lock",
+                "./rustdesk-f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "921c321a713722346dc2f4ed1c1a100ba63a2eaa",
-            "sha256": "sha256-pDeQ59i+zFE3WuHx6KEYNVmJ8FglXuj19BxUKyQAXGA=",
+            "rev": "f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a",
+            "sha256": "sha256-56L4JIpJwWafur3C3Fc2iYLUkpsxgOHrz2AVra6H/GQ=",
             "type": "github"
         },
-        "version": "921c321a713722346dc2f4ed1c1a100ba63a2eaa"
+        "version": "f84cb5a59c268e70d7c86b94e50c466e7d5d7f7a"
     },
     "rustdesk-server": {
         "cargoLocks": {
