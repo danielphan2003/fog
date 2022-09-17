@@ -21583,6 +21583,25 @@
         },
         "version": "0.4.19"
     },
+    "limpbiskuit-ruby-latte": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "limpbiskuit-ruby-latte",
+        "passthru": {
+            "description": "Ruby Latte theme for VS Code",
+            "license": "",
+            "name": "ruby-latte",
+            "publisher": "limpbiskuit"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EJJWarDYGmtcOyV8VpSuzBEQNTjQCPCLLmg5q90mB9s=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/limpbiskuit/ruby-latte/0.1.0/file/limpbiskuit.ruby-latte-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "lintangwisesa-arduino": {
         "cargoLocks": null,
         "extract": null,
@@ -30868,11 +30887,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -38050,11 +38069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T5PgnZroSbkLc/K1So6IG3oQ6fM5SgKg2AyzVrwbZfM=",
+            "sha256": "sha256-l6ytlKMRSvSyMP/zHyYfQa2cxSUY0Co0fGUEu9tQ5xI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.0/file/yuvrajmishra.vscode-pipe-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.1/file/yuvrajmishra.vscode-pipe-1.1.1.vsix"
         },
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "yuyichao-digitaljs": {
         "cargoLocks": null,

@@ -13633,6 +13633,18 @@
     description = "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO.";
     publisher = "ligolang-publish";
   };
+  limpbiskuit-ruby-latte = {
+    pname = "limpbiskuit-ruby-latte";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/limpbiskuit/ruby-latte/0.1.0/file/limpbiskuit.ruby-latte-0.1.0.vsix";
+      sha256 = "sha256-EJJWarDYGmtcOyV8VpSuzBEQNTjQCPCLLmg5q90mB9s=";
+    };
+    license = "";
+    name = "ruby-latte";
+    description = "Ruby Latte theme for VS Code";
+    publisher = "limpbiskuit";
+  };
   lintangwisesa-arduino = {
     pname = "lintangwisesa-arduino";
     version = "0.3.3";
@@ -19491,10 +19503,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24027,10 +24039,10 @@
   };
   yuvrajmishra-vscode-pipe = {
     pname = "yuvrajmishra-vscode-pipe";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.0/file/yuvrajmishra.vscode-pipe-1.1.0.vsix";
-      sha256 = "sha256-T5PgnZroSbkLc/K1So6IG3oQ6fM5SgKg2AyzVrwbZfM=";
+      url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.1/file/yuvrajmishra.vscode-pipe-1.1.1.vsix";
+      sha256 = "sha256-l6ytlKMRSvSyMP/zHyYfQa2cxSUY0Co0fGUEu9tQ5xI=";
     };
     license = "";
     name = "vscode-pipe";

@@ -6430,8 +6430,8 @@ fetch.url = "https://open-vsx.org/api/anweber/httpbook/3.1.4/file/anweber.httpbo
 passthru = { publisher = "anweber", name = "httpbook-monacorenderer", description = "Monaco Editor with Find enabled", license = "MIT" }
 
 [yuvrajmishra-vscode-pipe]
-src.manual = "1.1.0" # yuvrajmishra.vscode-pipe
-fetch.url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.0/file/yuvrajmishra.vscode-pipe-1.1.0.vsix" # yuvrajmishra.vscode-pipe
+src.manual = "1.1.1" # yuvrajmishra.vscode-pipe
+fetch.url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.1/file/yuvrajmishra.vscode-pipe-1.1.1.vsix" # yuvrajmishra.vscode-pipe
 passthru = { publisher = "yuvrajmishra", name = "vscode-pipe", description = "Pipe inside VS Code", license = "" }
 
 [Tchoupinax-tilt]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.8.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -10516,4 +10516,10 @@ passthru = { publisher = "zardoy", name = "ide-scripting", description = "True s
 
 
 
+
+
+[limpbiskuit-ruby-latte]
+src.manual = "0.1.0" # limpbiskuit.ruby-latte
+fetch.url = "https://open-vsx.org/api/limpbiskuit/ruby-latte/0.1.0/file/limpbiskuit.ruby-latte-0.1.0.vsix" # limpbiskuit.ruby-latte
+passthru = { publisher = "limpbiskuit", name = "ruby-latte", description = "Ruby Latte theme for VS Code", license = "" }
 
