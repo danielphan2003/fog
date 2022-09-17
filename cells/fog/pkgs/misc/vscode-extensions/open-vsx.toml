@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7520,8 +7520,8 @@ fetch.url = "https://open-vsx.org/api/pinage404/nix-extension-pack/2.0.0/file/pi
 passthru = { publisher = "pinage404", name = "nix-extension-pack", description = "Collection of extensions for Nix ecosystem (NixOS, Flake, DirEnv ...)", license = "MIT" }
 
 [zjffun-snippetsmanager]
-src.manual = "0.1.5" # zjffun.snippetsmanager
-fetch.url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.snippetsmanager-0.1.5.vsix" # zjffun.snippetsmanager
+src.manual = "0.1.6" # zjffun.snippetsmanager
+fetch.url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.6/file/zjffun.snippetsmanager-0.1.6.vsix" # zjffun.snippetsmanager
 passthru = { publisher = "zjffun", name = "snippetsmanager", description = "Create and edit snippets easily.", license = "MIT" }
 
 [tuttieee-emacs-mcx]
@@ -7750,8 +7750,8 @@ fetch.url = "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/fil
 passthru = { publisher = "solidjs-community", name = "solid-snippets", description = "VSCode extension with helpful code snippets for SolidJS.", license = "MIT" }
 
 [arnoudkooicom-sn-scriptsync]
-src.manual = "2.4.0" # arnoudkooicom.sn-scriptsync
-fetch.url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.4.0/file/arnoudkooicom.sn-scriptsync-2.4.0.vsix" # arnoudkooicom.sn-scriptsync
+src.manual = "2.5.0" # arnoudkooicom.sn-scriptsync
+fetch.url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.5.0/file/arnoudkooicom.sn-scriptsync-2.5.0.vsix" # arnoudkooicom.sn-scriptsync
 passthru = { publisher = "arnoudkooicom", name = "sn-scriptsync", description = "ServiceNow ScriptSync for VS Code. (Personal work of Arnoud Kooi)", license = "MIT" }
 
 [redhat-vscode-camelk]
@@ -8775,8 +8775,8 @@ fetch.url = "https://open-vsx.org/api/ruiferreira/autoi18n/0.0.5/file/ruiferreir
 passthru = { publisher = "ruiferreira", name = "autoi18n", description = "Auto I18N", license = "Apache-2.0" }
 
 [devsense-phptools-vscode]
-src.manual = "1.15.10555" # devsense.phptools-vscode
-fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10555/file/devsense.phptools-vscode-1.15.10555.vsix" # devsense.phptools-vscode
+src.manual = "1.16.10559" # devsense.phptools-vscode
+fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10559/file/devsense.phptools-vscode-1.16.10559.vsix" # devsense.phptools-vscode
 passthru = { publisher = "devsense", name = "phptools-vscode", description = "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.", license = "LicenseRef-LICENSE" }
 
 [codezombiech-gitignore]
@@ -8845,8 +8845,8 @@ fetch.url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.9.0/file/gpoore
 passthru = { publisher = "gpoore", name = "codebraid-preview", description = "Preview Markdown documents with Pandoc.  Optionally execute code blocks and inline code with Codebraid, using Jupyter kernels or its built-in code execution system.", license = "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)" }
 
 [AnishDe12020-orbi]
-src.manual = "1.3.0" # AnishDe12020.orbi
-fetch.url = "https://open-vsx.org/api/AnishDe12020/orbi/1.3.0/file/AnishDe12020.orbi-1.3.0.vsix" # AnishDe12020.orbi
+src.manual = "1.4.0" # AnishDe12020.orbi
+fetch.url = "https://open-vsx.org/api/AnishDe12020/orbi/1.4.0/file/AnishDe12020.orbi-1.4.0.vsix" # AnishDe12020.orbi
 passthru = { publisher = "AnishDe12020", name = "orbi", description = "A black and red VSCode theme", license = "MIT" }
 
 [kieler-klighd-vscode]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.8.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -10459,8 +10459,8 @@ passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS 
 
 
 [devsense-composer-php-vscode]
-src.manual = "1.15.10555" # devsense.composer-php-vscode
-fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10555/file/devsense.composer-php-vscode-1.15.10555.vsix" # devsense.composer-php-vscode
+src.manual = "1.16.10559" # devsense.composer-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10559/file/devsense.composer-php-vscode-1.16.10559.vsix" # devsense.composer-php-vscode
 passthru = { publisher = "devsense", name = "composer-php-vscode", description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.", license = "LicenseRef-LICENSE" }
 
 
@@ -10522,4 +10522,5 @@ passthru = { publisher = "zardoy", name = "ide-scripting", description = "True s
 src.manual = "0.1.0" # limpbiskuit.ruby-latte
 fetch.url = "https://open-vsx.org/api/limpbiskuit/ruby-latte/0.1.0/file/limpbiskuit.ruby-latte-0.1.0.vsix" # limpbiskuit.ruby-latte
 passthru = { publisher = "limpbiskuit", name = "ruby-latte", description = "Ruby Latte theme for VS Code", license = "" }
+
 

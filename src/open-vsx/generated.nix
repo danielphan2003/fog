@@ -87,10 +87,10 @@
   };
   AnishDe12020-orbi = {
     pname = "AnishDe12020-orbi";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.3.0/file/AnishDe12020.orbi-1.3.0.vsix";
-      sha256 = "sha256-xrrSRDFJ4TiXzugLCMZBmQtcdzJs1VYlNp8kfUVfMi4=";
+      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.4.0/file/AnishDe12020.orbi-1.4.0.vsix";
+      sha256 = "sha256-UB6n6GQHA9W5FhhtffLbEKOALUs7UAd4eh3HN1iBAz0=";
     };
     license = "MIT";
     name = "orbi";
@@ -5655,10 +5655,10 @@
   };
   arnoudkooicom-sn-scriptsync = {
     pname = "arnoudkooicom-sn-scriptsync";
-    version = "2.4.0";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.4.0/file/arnoudkooicom.sn-scriptsync-2.4.0.vsix";
-      sha256 = "sha256-/BqivWVXqwqurLXPtU1SCDXEssNN2HvkMY6yFZCSAVk=";
+      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.5.0/file/arnoudkooicom.sn-scriptsync-2.5.0.vsix";
+      sha256 = "sha256-Z0pkp52Een9YO9AFMqE8wIRY/B9iTLk/DNDyACVRBsc=";
     };
     license = "MIT";
     name = "sn-scriptsync";
@@ -8463,10 +8463,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.15.10555";
+    version = "1.16.10559";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.15.10555/file/devsense.composer-php-vscode-1.15.10555.vsix";
-      sha256 = "sha256-Xl0vFaEHuo2XBlxEIKy2frO40PrlvlpCSziBMybwUN4=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10559/file/devsense.composer-php-vscode-1.16.10559.vsix";
+      sha256 = "sha256-8S8fJ5K0dCRz4+GMMYznI2si/hVG9jJPFBm0vweF81M=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8475,10 +8475,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.15.10555";
+    version = "1.16.10559";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.15.10555/file/devsense.phptools-vscode-1.15.10555.vsix";
-      sha256 = "sha256-FQaGBNVlBxKTtr5JYI/VOsviU53ERmpG+sRpYsI68xA=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10559/file/devsense.phptools-vscode-1.16.10559.vsix";
+      sha256 = "sha256-AvsSDgSeNNoqeuH49WddRB3c486opBlHZIEEnhB00/8=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -19503,10 +19503,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19961,8 +19961,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24399,10 +24399,10 @@
   };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.snippetsmanager-0.1.5.vsix";
-      sha256 = "sha256-bxNMz+rPF/91mbK74DL0RUUdmbkciyaTRdOiwo/ILAM=";
+      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.6/file/zjffun.snippetsmanager-0.1.6.vsix";
+      sha256 = "sha256-paRU+7Z7evNrDT4Pvx8kiSqQ8mD8ITJ9elKClzIXaYw=";
     };
     license = "MIT";
     name = "snippetsmanager";
