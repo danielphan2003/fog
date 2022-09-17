@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.112.3" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.3/file/dendron.nightly-0.112.3.vsix" # dendron.nightly
+src.manual = "0.112.4" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.4/file/dendron.nightly-0.112.4.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -10505,6 +10505,7 @@ passthru = { publisher = "benvp", name = "vscode-hex-pm-intellisense", descripti
 src.manual = "0.0.3" # zardoy.ide-scripting
 fetch.url = "https://open-vsx.org/api/zardoy/ide-scripting/0.0.3/file/zardoy.ide-scripting-0.0.3.vsix" # zardoy.ide-scripting
 passthru = { publisher = "zardoy", name = "ide-scripting", description = "True scripting using full VSCode API !", license = "MIT" }
+
 
 
 

@@ -13274,11 +13274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Js8bChoQIBeZNJtwuE27V3zlPG16Uofb5bv58kIauUo=",
+            "sha256": "sha256-1x9pWFtbk8ds+a/g78tS+QdAfVg7p0BmYyme2Wldd7g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.3/file/dendron.nightly-0.112.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.4/file/dendron.nightly-0.112.4.vsix"
         },
-        "version": "0.112.3"
+        "version": "0.112.4"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
