@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -10525,4 +10525,10 @@ passthru = { publisher = "limpbiskuit", name = "ruby-latte", description = "Ruby
 
 
 
+
+
+[ndom91-checkly-vscode]
+src.manual = "0.3.1" # ndom91.checkly-vscode
+fetch.url = "https://open-vsx.org/api/ndom91/checkly-vscode/0.3.1/file/ndom91.checkly-vscode-0.3.1.vsix" # ndom91.checkly-vscode
+passthru = { publisher = "ndom91", name = "checkly-vscode", description = "Checkly Extension - Adhoc Check Runner", license = "MIT" }
 

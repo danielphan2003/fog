@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -25344,6 +25344,25 @@
             "url": "https://open-vsx.org/api/naumovs/color-highlight/2.6.0/file/naumovs.color-highlight-2.6.0.vsix"
         },
         "version": "2.6.0"
+    },
+    "ndom91-checkly-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ndom91-checkly-vscode",
+        "passthru": {
+            "description": "Checkly Extension - Adhoc Check Runner",
+            "license": "MIT",
+            "name": "checkly-vscode",
+            "publisher": "ndom91"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-uAxeRVM8aHSWCk0ulMy8yqz4FoTIwXPDy27+FMXnzWo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ndom91/checkly-vscode/0.3.1/file/ndom91.checkly-vscode-0.3.1.vsix"
+        },
+        "version": "0.3.1"
     },
     "neikeq-godot-csharp-vscode": {
         "cargoLocks": null,

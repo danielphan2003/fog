@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -16008,6 +16008,18 @@
     name = "color-highlight";
     description = "Highlight web colors in your editor";
     publisher = "naumovs";
+  };
+  ndom91-checkly-vscode = {
+    pname = "ndom91-checkly-vscode";
+    version = "0.3.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ndom91/checkly-vscode/0.3.1/file/ndom91.checkly-vscode-0.3.1.vsix";
+      sha256 = "sha256-uAxeRVM8aHSWCk0ulMy8yqz4FoTIwXPDy27+FMXnzWo=";
+    };
+    license = "MIT";
+    name = "checkly-vscode";
+    description = "Checkly Extension - Adhoc Check Runner";
+    publisher = "ndom91";
   };
   neikeq-godot-csharp-vscode = {
     pname = "neikeq-godot-csharp-vscode";
