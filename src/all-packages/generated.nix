@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e43b6d81782ef79f22058179d8793f40cea89556";
+    version = "b4643994d521671a130e8b1e33ad3747af3618f5";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e43b6d81782ef79f22058179d8793f40cea89556";
+      rev = "b4643994d521671a130e8b1e33ad3747af3618f5";
       fetchSubmodules = false;
-      sha256 = "sha256-1nyQKEtEnEayiqYgVOJ7wbtamW7CZFBRMPQDICpa+vo=";
+      sha256 = "sha256-IETNkwKgah2FnOTFvoqEsulycRqREKhvdK3h7ShJTLE=";
     });
   };
   cinny = {
@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "cd6c1d363fd5672c2f057a7e9ff026bc0f6b85d2";
+    version = "56bfa784bdb1adc4ddab4074407db114ff37c088";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "cd6c1d363fd5672c2f057a7e9ff026bc0f6b85d2";
+      rev = "56bfa784bdb1adc4ddab4074407db114ff37c088";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ncUvNNdwiMcJoPrqxvdOy6uVsGkqgplQmFWhPKt1Jzg=";
+      sha256 = "sha256-OEv8vxcAn0Zu0ONutYEmjWhmJLdLNbx9qRmcSR/oGX8=";
     };
   };
   spicetify-cli = {
