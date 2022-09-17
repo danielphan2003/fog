@@ -474,13 +474,13 @@
   };
   godu = {
     pname = "godu";
-    version = "56dff7ee254e3770a2f9bd100f78671dc16862d6";
+    version = "4546a7975085a59b006c4834d2afc0bc1ced62da";
     src = fetchFromGitHub ({
       owner = "viktomas";
       repo = "godu";
-      rev = "56dff7ee254e3770a2f9bd100f78671dc16862d6";
+      rev = "4546a7975085a59b006c4834d2afc0bc1ced62da";
       fetchSubmodules = false;
-      sha256 = "sha256-P6X/LiU3XPm25BlvQ6ENe/MFoNhGzfUvAUcgPA8+fQ4=";
+      sha256 = "sha256-ooD6U8QAldkqhrR6PCks5lOYrqGIyKd6NErnmqt8fHQ=";
     });
   };
   guiscrcpy = {
