@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "1.1.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/1.1.0/file/ArmantGoldswain.seesharp-theme-1.1.0.vsix";
-      sha256 = "sha256-zp83MKS1PAQ6+d7PmavPC1qBrshq1AmfFX8rus9bgMQ=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/2.0.0/file/ArmantGoldswain.seesharp-theme-2.0.0.vsix";
+      sha256 = "sha256-712LZW443Wf4vDqn4x+qaeKRbualQvqe+cjUx2QlNmA=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -3591,10 +3591,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.1416";
+    version = "2022.9.1619";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1416/file/Slint.slint-nightly-2022.9.1416.vsix";
-      sha256 = "sha256-kXQiNik0XJ8ZBiuP30aSoxX/3iVY6NWspW2GjTbsfMo=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1619/file/Slint.slint-nightly-2022.9.1619.vsix";
+      sha256 = "sha256-FA96LFz3Fnyu/onsOAz3KhW7/41doiiT1sq/R77i5MY=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10577,8 +10577,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -13071,10 +13071,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13383,10 +13383,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19491,10 +19491,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19949,8 +19949,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23211,10 +23211,10 @@
   };
   vunguyentuan-vscode-postcss = {
     pname = "vunguyentuan-vscode-postcss";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/2.0.1/file/vunguyentuan.vscode-postcss-2.0.1.vsix";
-      sha256 = "sha256-ONJ1fijcjasaGPKOOd4o/aZhKfwhqBZ8JjH94mqYAQU=";
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/2.0.2/file/vunguyentuan.vscode-postcss-2.0.2.vsix";
+      sha256 = "sha256-cWZNKwd6oRhEJf+aQIRUJ1W5L6nDr77Rtx8w+v3Abmc=";
     };
     license = "MIT";
     name = "vscode-postcss";
