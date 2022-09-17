@@ -321,11 +321,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "v2.6.0-beta.4",
-            "sha256": "sha256-1nyQKEtEnEayiqYgVOJ7wbtamW7CZFBRMPQDICpa+vo=",
+            "rev": "v2.6.0-beta.5",
+            "sha256": "sha256-R0sETcCmooaMMXSGPJT5feojQEEtbrzm8nzcNc2KOYg=",
             "type": "github"
         },
-        "version": "v2.6.0-beta.4"
+        "version": "v2.6.0-beta.5"
     },
     "caddy-dist": {
         "cargoLocks": null,
@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "b4643994d521671a130e8b1e33ad3747af3618f5",
-            "sha256": "sha256-IETNkwKgah2FnOTFvoqEsulycRqREKhvdK3h7ShJTLE=",
+            "rev": "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b",
+            "sha256": "sha256-R0sETcCmooaMMXSGPJT5feojQEEtbrzm8nzcNc2KOYg=",
             "type": "github"
         },
-        "version": "b4643994d521671a130e8b1e33ad3747af3618f5"
+        "version": "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b"
     },
     "cinny": {
         "cargoLocks": null,

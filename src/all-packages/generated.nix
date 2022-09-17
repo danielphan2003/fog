@@ -188,13 +188,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "v2.6.0-beta.4";
+    version = "v2.6.0-beta.5";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "v2.6.0-beta.4";
+      rev = "v2.6.0-beta.5";
       fetchSubmodules = false;
-      sha256 = "sha256-1nyQKEtEnEayiqYgVOJ7wbtamW7CZFBRMPQDICpa+vo=";
+      sha256 = "sha256-R0sETcCmooaMMXSGPJT5feojQEEtbrzm8nzcNc2KOYg=";
     });
   };
   caddy-dist = {
@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "b4643994d521671a130e8b1e33ad3747af3618f5";
+    version = "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "b4643994d521671a130e8b1e33ad3747af3618f5";
+      rev = "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b";
       fetchSubmodules = false;
-      sha256 = "sha256-IETNkwKgah2FnOTFvoqEsulycRqREKhvdK3h7ShJTLE=";
+      sha256 = "sha256-R0sETcCmooaMMXSGPJT5feojQEEtbrzm8nzcNc2KOYg=";
     });
   };
   cinny = {
