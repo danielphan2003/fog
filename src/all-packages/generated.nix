@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "c1be57b205666bb0082fa36b9e263885e53d5b59";
+    version = "cbd1bf35c66a034e59389a1addbc0fce900af959";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "c1be57b205666bb0082fa36b9e263885e53d5b59";
+      rev = "cbd1bf35c66a034e59389a1addbc0fce900af959";
       fetchSubmodules = false;
-      sha256 = "sha256-vtxou2pmdBL0LQ+ltxjGegiR36b/DY2pw16PKI2vLdA=";
+      sha256 = "sha256-UwNdYennsCJuKtpHycMR8RmL3YADSrY8B0kcnu49nUk=";
     });
   };
   cinny-bin = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9bb52db1cd92f797c2764e187784e5ecdec5e8c7";
+    version = "dc5915840613c48115c705c0316d0d07245abe15";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9bb52db1cd92f797c2764e187784e5ecdec5e8c7";
+      rev = "dc5915840613c48115c705c0316d0d07245abe15";
       fetchSubmodules = false;
-      sha256 = "sha256-ZDnbg+D2GiNIiYJwtiKiALriejzyo9cF8k7eVdbiG64=";
+      sha256 = "sha256-QCk+oO6iCdEjvhNKVxQeHU5lzbi5ZPE4YY2ki+Hc7CE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9bb52db1cd92f797c2764e187784e5ecdec5e8c7/Cargo.lock;
+      lockFile = ./rustdesk-dc5915840613c48115c705c0316d0d07245abe15/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "34acc7f40bb96e69a9090f4d36a0a29d5e82d09a";
+    version = "cd6c1d363fd5672c2f057a7e9ff026bc0f6b85d2";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "34acc7f40bb96e69a9090f4d36a0a29d5e82d09a";
+      rev = "cd6c1d363fd5672c2f057a7e9ff026bc0f6b85d2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-VJVnbIFRHolvpuAoXngrvOQfnly0UNB/t1MYddpoZMA=";
+      sha256 = "sha256-ncUvNNdwiMcJoPrqxvdOy6uVsGkqgplQmFWhPKt1Jzg=";
     };
   };
   spicetify-cli = {
