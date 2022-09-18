@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8785,8 +8785,8 @@ fetch.url = "https://open-vsx.org/api/codezombiech/gitignore/0.9.0/file/codezomb
 passthru = { publisher = "codezombiech", name = "gitignore", description = "Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files.", license = "MIT" }
 
 [DCsunset-vscode-modal-editor]
-src.manual = "1.5.2" # DCsunset.vscode-modal-editor
-fetch.url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.2/file/DCsunset.vscode-modal-editor-1.5.2.vsix" # DCsunset.vscode-modal-editor
+src.manual = "1.6.0" # DCsunset.vscode-modal-editor
+fetch.url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.6.0/file/DCsunset.vscode-modal-editor-1.6.0.vsix" # DCsunset.vscode-modal-editor
 passthru = { publisher = "DCsunset", name = "vscode-modal-editor", description = "Customizable extension to turn VS Code into a modal editor", license = "AGPL-3.0" }
 
 [toit-toit]
@@ -9145,8 +9145,8 @@ fetch.url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov
 passthru = { publisher = "FelixAngelov", name = "mason", description = "Mason support for Visual Studio Code.", license = "MIT" }
 
 [jbangdev-jbang-vscode]
-src.manual = "0.1.2022091619" # jbangdev.jbang-vscode
-fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091619/file/jbangdev.jbang-vscode-0.1.2022091619.vsix" # jbangdev.jbang-vscode
+src.manual = "0.1.2022091723" # jbangdev.jbang-vscode
+fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091723/file/jbangdev.jbang-vscode-0.1.2022091723.vsix" # jbangdev.jbang-vscode
 passthru = { publisher = "jbangdev", name = "jbang-vscode", description = "JBang support for VS Code Java", license = "MIT" }
 
 [prantlf-vscode-requirejs]
@@ -9830,8 +9830,8 @@ fetch.url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-
 passthru = { publisher = "qcz", name = "text-power-tools", description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.", license = "MIT" }
 
 [remcohaszing-schemastore]
-src.manual = "1.0.19" # remcohaszing.schemastore
-fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.19/file/remcohaszing.schemastore-1.0.19.vsix" # remcohaszing.schemastore
+src.manual = "1.0.20" # remcohaszing.schemastore
+fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.20/file/remcohaszing.schemastore-1.0.20.vsix" # remcohaszing.schemastore
 passthru = { publisher = "remcohaszing", name = "schemastore", description = "Use the JSON Schema Store catalog for JSON schema validation.", license = "MIT" }
 
 [elixir-lsp-elixir-ls]
@@ -10531,4 +10531,10 @@ passthru = { publisher = "limpbiskuit", name = "ruby-latte", description = "Ruby
 src.manual = "0.3.1" # ndom91.checkly-vscode
 fetch.url = "https://open-vsx.org/api/ndom91/checkly-vscode/0.3.1/file/ndom91.checkly-vscode-0.3.1.vsix" # ndom91.checkly-vscode
 passthru = { publisher = "ndom91", name = "checkly-vscode", description = "Checkly Extension - Adhoc Check Runner", license = "MIT" }
+
+
+[lkrms-inifmt]
+src.manual = "0.1.5" # lkrms.inifmt
+fetch.url = "https://open-vsx.org/api/lkrms/inifmt/0.1.5/file/lkrms.inifmt-0.1.5.vsix" # lkrms.inifmt
+passthru = { publisher = "lkrms", name = "inifmt", description = "Trim and squeeze spaces and empty lines", license = "MIT" }
 

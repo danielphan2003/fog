@@ -735,10 +735,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.5.2";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.2/file/DCsunset.vscode-modal-editor-1.5.2.vsix";
-      sha256 = "sha256-kORhSXbGFq2HJbK6aZ6PBiUzgpNH/dBvoqs7Eoka9ag=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.6.0/file/DCsunset.vscode-modal-editor-1.6.0.vsix";
+      sha256 = "sha256-Rkjz4LXobx6KBxVS9rKQWOAuz6x6PQhkD0ThyRtAZd0=";
     };
     license = "AGPL-3.0";
     name = "vscode-modal-editor";
@@ -10601,8 +10601,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -12003,10 +12003,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022091619";
+    version = "0.1.2022091723";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091619/file/jbangdev.jbang-vscode-0.1.2022091619.vsix";
-      sha256 = "sha256-JqCDwHOgNA0+g7vtyu9zYzTWRM+egboEa1xeaN/g2x8=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091723/file/jbangdev.jbang-vscode-0.1.2022091723.vsix";
+      sha256 = "sha256-JY0RY5nuGi+cuUYgen5J2KVCi17/0negFLU80iJ62Rg=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13071,10 +13071,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13680,6 +13680,18 @@
     name = "vscode-python-test-adapter";
     description = "Run your Python tests in the Sidebar of Visual Studio Code";
     publisher = "littlefoxteam";
+  };
+  lkrms-inifmt = {
+    pname = "lkrms-inifmt";
+    version = "0.1.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lkrms/inifmt/0.1.5/file/lkrms.inifmt-0.1.5.vsix";
+      sha256 = "sha256-lowSMvi0JeX+ZBKW1x+n1v296UgvDnqK0GcK4eDmS8w=";
+    };
+    license = "MIT";
+    name = "inifmt";
+    description = "Trim and squeeze spaces and empty lines";
+    publisher = "lkrms";
   };
   llc-vscode-dlt = {
     pname = "llc-vscode-dlt";
@@ -18375,10 +18387,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.19";
+    version = "1.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.19/file/remcohaszing.schemastore-1.0.19.vsix";
-      sha256 = "sha256-HutcPDvW6F7RGGt9nTBScwWoeVIbZwRs06a7t8UvPpQ=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.20/file/remcohaszing.schemastore-1.0.20.vsix";
+      sha256 = "sha256-1TGKrzcDLHtnvbAK6MYPCYAAH2IsupTRaJGKmc+0Gxc=";
     };
     license = "MIT";
     name = "schemastore";
