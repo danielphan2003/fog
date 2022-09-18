@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8005,8 +8005,8 @@ fetch.url = "https://open-vsx.org/api/sigbots/pros/0.4.0/file/sigbots.pros-0.4.0
 passthru = { publisher = "sigbots", name = "pros", description = "PROS Extension that allows for C/C++ Development for VEX V5 and VEX Cortex", license = "" }
 
 [hugogranstrom-nimiboost]
-src.manual = "0.4.2" # hugogranstrom.nimiboost
-fetch.url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.2/file/hugogranstrom.nimiboost-0.4.2.vsix" # hugogranstrom.nimiboost
+src.manual = "0.4.3" # hugogranstrom.nimiboost
+fetch.url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.3/file/hugogranstrom.nimiboost-0.4.3.vsix" # hugogranstrom.nimiboost
 passthru = { publisher = "hugogranstrom", name = "nimiboost", description = "Provides syntax highlighting for embedded markdown in Nimib", license = "MIT" }
 
 [RustedTurnip-nightfi]
@@ -8640,8 +8640,8 @@ fetch.url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.10/file/arzg.xcode-th
 passthru = { publisher = "arzg", name = "xcode-theme", description = "Xcode’s themes, ported to VS Code", license = "MIT" }
 
 [pokey-parse-tree]
-src.manual = "0.21.2" # pokey.parse-tree
-fetch.url = "https://open-vsx.org/api/pokey/parse-tree/0.21.2/file/pokey.parse-tree-0.21.2.vsix" # pokey.parse-tree
+src.manual = "0.22.0" # pokey.parse-tree
+fetch.url = "https://open-vsx.org/api/pokey/parse-tree/0.22.0/file/pokey.parse-tree-0.22.0.vsix" # pokey.parse-tree
 passthru = { publisher = "pokey", name = "parse-tree", description = "Access document syntax using tree-sitter", license = "MIT" }
 
 [digma-digma]
@@ -9730,8 +9730,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.9/file/t-co
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.4.3" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.3/file/iterative.dvc-0.4.3.vsix" # iterative.dvc
+src.manual = "0.4.4" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.4/file/iterative.dvc-0.4.4.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -9905,8 +9905,8 @@ fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vsc
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
-src.manual = "2.0.301" # betterthantomorrow.calva
-fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.301/file/betterthantomorrow.calva-2.0.301.vsix" # betterthantomorrow.calva
+src.manual = "2.0.302" # betterthantomorrow.calva
+fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.302/file/betterthantomorrow.calva-2.0.302.vsix" # betterthantomorrow.calva
 passthru = { publisher = "betterthantomorrow", name = "calva", description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.", license = "MIT" }
 
 [WakaTime-vscode-wakatime]
@@ -10557,5 +10557,6 @@ passthru = { publisher = "Serhioromano", name = "vscode-st", description = "Supp
 src.manual = "1.2.0" # onlyutkarsh.git-config-user-profiles
 fetch.url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix" # onlyutkarsh.git-config-user-profiles
 passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", description = "Define multiple git config user profiles and switch them easily using status bar", license = "MIT" }
+
 
 

@@ -6303,10 +6303,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.301";
+    version = "2.0.302";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.301/file/betterthantomorrow.calva-2.0.301.vsix";
-      sha256 = "sha256-yQT3FJZlaUerepAq4TuzNUdP5Kxidnu5xTXpVxL+nuQ=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.302/file/betterthantomorrow.calva-2.0.302.vsix";
+      sha256 = "sha256-hs0brL6Y9JA6V/TYW6kfDPjNvKrogYcZ/ZrlFf+DGZ8=";
     };
     license = "MIT";
     name = "calva";
@@ -11187,10 +11187,10 @@
   };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
-    version = "0.4.2";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.2/file/hugogranstrom.nimiboost-0.4.2.vsix";
-      sha256 = "sha256-b/ir2MeT6Zn8MDiVVBD5Lo36xjD9PulkKNZmTLAMUv8=";
+      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.3/file/hugogranstrom.nimiboost-0.4.3.vsix";
+      sha256 = "sha256-l7rETWz8EL45Plg99mGR7zKQ2htm0cRiuBDDIHLk2os=";
     };
     license = "MIT";
     name = "nimiboost";
@@ -11835,10 +11835,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.3";
+    version = "0.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.3/file/iterative.dvc-0.4.3.vsix";
-      sha256 = "sha256-B8cQRR5Vvqj52jtWFC3i5znfqUv2zBMNlcUIa7ou33A=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.4/file/iterative.dvc-0.4.4.vsix";
+      sha256 = "sha256-DI7Bxd7LvLydgdH3d5FXDo79hx29lftexDRE2ntmr0Y=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13407,10 +13407,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -17403,10 +17403,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.21.2";
+    version = "0.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.21.2/file/pokey.parse-tree-0.21.2.vsix";
-      sha256 = "sha256-qv8bcYDiOXS3rsccAxQsMS3A7MV9BC0lM+Yj83MF/5k=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.22.0/file/pokey.parse-tree-0.22.0.vsix";
+      sha256 = "sha256-A82o0gD2Jvuboxbb9E7sXGV2uB+LScSKKv9qoWWHS2M=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -24507,10 +24507,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
