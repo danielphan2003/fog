@@ -199,24 +199,24 @@
   };
   caddy-dist = {
     pname = "caddy-dist";
-    version = "v2.6.0-beta.3";
+    version = "v2.6.0-beta.5";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "dist";
-      rev = "v2.6.0-beta.3";
+      rev = "v2.6.0-beta.5";
       fetchSubmodules = false;
       sha256 = "sha256-yw84ooXEqamWKANXmd5pU5Ig7ANDplBUwynF/qPLq1g=";
     });
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b";
+    version = "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b";
+      rev = "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d";
       fetchSubmodules = false;
-      sha256 = "sha256-R0sETcCmooaMMXSGPJT5feojQEEtbrzm8nzcNc2KOYg=";
+      sha256 = "sha256-3B1o0IoF0KUF4XJcN0Y4tppFmIhzNAt2CKwB1L9y9kw=";
     });
   };
   cinny = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c1309a34c221103d8fa4e18c431c776b6e9bbe74";
+    version = "e8f4425eedec07c7d3c7d7f906c029dcfd4aa36a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c1309a34c221103d8fa4e18c431c776b6e9bbe74";
+      rev = "e8f4425eedec07c7d3c7d7f906c029dcfd4aa36a";
       fetchSubmodules = false;
-      sha256 = "sha256-3Me7i48K31ktHWWtvs3QCybpk6Cf6+o/Za+OMDsve0o=";
+      sha256 = "sha256-kITZ9nwV6fIh/PLfS8iyM7ZbaonPvpQCrrad3bggYHo=";
     });
   };
   revanced-cli = {
