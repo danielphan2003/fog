@@ -6340,8 +6340,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-didact/0.4.1/file/redhat.vsc
 passthru = { publisher = "redhat", name = "vscode-didact", description = "Didact Tutorial Tools for Visual Studio Code", license = "Apache-2.0" }
 
 [tintoy-msbuild-project-tools]
-src.manual = "0.4.3" # tintoy.msbuild-project-tools
-fetch.url = "https://open-vsx.org/api/tintoy/msbuild-project-tools/0.4.3/file/tintoy.msbuild-project-tools-0.4.3.vsix" # tintoy.msbuild-project-tools
+src.manual = "0.4.9" # tintoy.msbuild-project-tools
+fetch.url = "https://open-vsx.org/api/tintoy/msbuild-project-tools/0.4.9/file/tintoy.msbuild-project-tools-0.4.9.vsix" # tintoy.msbuild-project-tools
 passthru = { publisher = "tintoy", name = "msbuild-project-tools", description = "Tools for working with MSBuild project files (such as auto-complete for package Ids / versions).", license = "MIT" }
 
 [MattiasBaake-vscode-snippets-for-ansible]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10557,6 +10557,7 @@ passthru = { publisher = "Serhioromano", name = "vscode-st", description = "Supp
 src.manual = "1.2.0" # onlyutkarsh.git-config-user-profiles
 fetch.url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix" # onlyutkarsh.git-config-user-profiles
 passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", description = "Define multiple git config user profiles and switch them easily using status bar", license = "MIT" }
+
 
 
 
