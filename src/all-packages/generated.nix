@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.10.1";
+    version = "2.10.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.10.1/revanced-cli-2.10.1-all.jar";
-      sha256 = "sha256-iG6PUvM2q96TT6AgzX7drNLsA6dc5cWRNinn3sPJPSA=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.10.2/revanced-cli-2.10.2-all.jar";
+      sha256 = "sha256-57+zOMmd3ZOC3L49RuXmhqt+MDH0fR3sH7QYv2GfneY=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.57.0";
+    version = "2.58.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.57.0/revanced-patches-2.57.0.jar";
-      sha256 = "sha256-ZVpcaWHW5HIcaBaeW7ia+6nlbJQFBbMFNVA9BQwqd8Q=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.58.0/revanced-patches-2.58.0.jar";
+      sha256 = "sha256-7tWfamOmWjz5CZ5LCK0M7jDqM0+uZbyOfzbnh/ZdO8g=";
     };
   };
   rofi-wayland = {
