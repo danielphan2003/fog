@@ -3481,6 +3481,30 @@
     description = "Tools for develepers of Kestrel";
     publisher = "SenseTime";
   };
+  Serhioromano-vscode-gitflow = {
+    pname = "Serhioromano-vscode-gitflow";
+    version = "1.3.22";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Serhioromano/vscode-gitflow/1.3.22/file/Serhioromano.vscode-gitflow-1.3.22.vsix";
+      sha256 = "sha256-+EuRRhDKkWcurddgG1VTpGBuX/F6cYifTUGzWNGaAaA=";
+    };
+    license = "MIT";
+    name = "vscode-gitflow";
+    description = "Git-Flow support for VS Code";
+    publisher = "Serhioromano";
+  };
+  Serhioromano-vscode-st = {
+    pname = "Serhioromano-vscode-st";
+    version = "1.12.9";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.9/file/Serhioromano.vscode-st-1.12.9.vsix";
+      sha256 = "sha256-625koCSEnsQYRsiugVjOmrRpklMNZSzeR3CKDCW9E2g=";
+    };
+    license = "MIT";
+    name = "vscode-st";
+    description = "Supports for syntax highlights, snippets for IEC 61131-3 Structured Text";
+    publisher = "Serhioromano";
+  };
   Serpen-vbsvscode = {
     pname = "Serpen-vbsvscode";
     version = "1.2.1";
@@ -19985,8 +20009,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23643,10 +23667,10 @@
   };
   wix-vscode-import-cost = {
     pname = "wix-vscode-import-cost";
-    version = "2.15.0";
+    version = "3.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wix/vscode-import-cost/2.15.0/file/wix.vscode-import-cost-2.15.0.vsix";
-      sha256 = "sha256-j8gB/0OmGqnoZroMsCI26JbzBhj0v1XlnXipOQyQF5A=";
+      url = "https://open-vsx.org/api/wix/vscode-import-cost/3.3.0/file/wix.vscode-import-cost-3.3.0.vsix";
+      sha256 = "sha256-w21FW44E0x8UI6VkHjpxjLfaZ76BRBgs6Dn2G0/Uagw=";
     };
     license = "MIT";
     name = "vscode-import-cost";
