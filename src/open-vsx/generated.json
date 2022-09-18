@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-29mfg0RlRjq+0UQ6TG6V/Ihxt9cpSIW0gO3p4QCeTes=",
+            "sha256": "sha256-WwSDasWW85NN7x0y1tAiUaUM/7yoHrscKYthT8Ni//0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix"
         },
-        "version": "31.0.1407"
+        "version": "31.0.1408"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -22945,11 +22945,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mejK+PTHv+x28Xi+cGeLBDoMURtmpg4B+LHuLNlrS4Y=",
+            "sha256": "sha256-9LqhvneIA0mos6Ln2Mp7HCKHyCecVOuuv+htERweTC4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.1/file/meshvoid.theme-meshvoid-1.2.1.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix"
         },
-        "version": "1.2.1"
+        "version": "1.2.9"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,
@@ -30982,11 +30982,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,

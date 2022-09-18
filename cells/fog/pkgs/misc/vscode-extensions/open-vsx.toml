@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.8.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1407" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1408" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10318,8 +10318,8 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 
 
 [meshvoid-theme-meshvoid]
-src.manual = "1.2.1" # meshvoid.theme-meshvoid
-fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.1/file/meshvoid.theme-meshvoid-1.2.1.vsix" # meshvoid.theme-meshvoid
+src.manual = "1.2.9" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 
 
@@ -10557,6 +10557,7 @@ passthru = { publisher = "Serhioromano", name = "vscode-st", description = "Supp
 src.manual = "1.2.0" # onlyutkarsh.git-config-user-profiles
 fetch.url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix" # onlyutkarsh.git-config-user-profiles
 passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", description = "Define multiple git config user profiles and switch them easily using status bar", license = "MIT" }
+
 
 
 

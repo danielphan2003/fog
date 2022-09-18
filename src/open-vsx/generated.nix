@@ -3171,10 +3171,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1407";
+    version = "31.0.1408";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1407/file/Prisma.prisma-insider-31.0.1407.vsix";
-      sha256 = "sha256-29mfg0RlRjq+0UQ6TG6V/Ihxt9cpSIW0gO3p4QCeTes=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix";
+      sha256 = "sha256-WwSDasWW85NN7x0y1tAiUaUM/7yoHrscKYthT8Ni//0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14487,10 +14487,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.2.1";
+    version = "1.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.1/file/meshvoid.theme-meshvoid-1.2.1.vsix";
-      sha256 = "sha256-mejK+PTHv+x28Xi+cGeLBDoMURtmpg4B+LHuLNlrS4Y=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix";
+      sha256 = "sha256-9LqhvneIA0mos6Ln2Mp7HCKHyCecVOuuv+htERweTC4=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -19563,10 +19563,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
