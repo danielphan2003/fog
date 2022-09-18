@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3459,10 +3459,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.2.0";
+    version = "4.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.0/file/Sarrus.sourcepawn-vscode-4.2.0.vsix";
-      sha256 = "sha256-210ofjHe4VHcK7r+ToFNJGNNRYtvpkYST6182zjVKbQ=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.1/file/Sarrus.sourcepawn-vscode-4.2.1.vsix";
+      sha256 = "sha256-anDFVkgrmfYH5eywM7VQZ5p8sJynJEJ9khWjL101bFQ=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -16560,6 +16560,18 @@
     name = "cadence";
     description = "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.";
     publisher = "onflow";
+  };
+  onlyutkarsh-git-config-user-profiles = {
+    pname = "onlyutkarsh-git-config-user-profiles";
+    version = "1.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix";
+      sha256 = "sha256-zmlGetUF7V77grPobwVQgmla6DhV07FeKrx8Q+jN1Q0=";
+    };
+    license = "MIT";
+    name = "git-config-user-profiles";
+    description = "Define multiple git config user profiles and switch them easily using status bar";
+    publisher = "onlyutkarsh";
   };
   oouo-diogo-perdigao-docthis = {
     pname = "oouo-diogo-perdigao-docthis";

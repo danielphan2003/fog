@@ -2026,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5484,11 +5484,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-210ofjHe4VHcK7r+ToFNJGNNRYtvpkYST6182zjVKbQ=",
+            "sha256": "sha256-anDFVkgrmfYH5eywM7VQZ5p8sJynJEJ9khWjL101bFQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.0/file/Sarrus.sourcepawn-vscode-4.2.0.vsix"
+            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.1/file/Sarrus.sourcepawn-vscode-4.2.1.vsix"
         },
-        "version": "4.2.0"
+        "version": "4.2.1"
     },
     "SenseTime-kestrel": {
         "cargoLocks": null,
@@ -26218,6 +26218,25 @@
             "url": "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix"
         },
         "version": "1.0.4"
+    },
+    "onlyutkarsh-git-config-user-profiles": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "onlyutkarsh-git-config-user-profiles",
+        "passthru": {
+            "description": "Define multiple git config user profiles and switch them easily using status bar",
+            "license": "MIT",
+            "name": "git-config-user-profiles",
+            "publisher": "onlyutkarsh"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-zmlGetUF7V77grPobwVQgmla6DhV07FeKrx8Q+jN1Q0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix"
+        },
+        "version": "1.2.0"
     },
     "oouo-diogo-perdigao-docthis": {
         "cargoLocks": null,

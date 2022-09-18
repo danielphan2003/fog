@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -9300,8 +9300,8 @@ fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.30
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
-src.manual = "4.2.0" # Sarrus.sourcepawn-vscode
-fetch.url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.0/file/Sarrus.sourcepawn-vscode-4.2.0.vsix" # Sarrus.sourcepawn-vscode
+src.manual = "4.2.1" # Sarrus.sourcepawn-vscode
+fetch.url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.2.1/file/Sarrus.sourcepawn-vscode-4.2.1.vsix" # Sarrus.sourcepawn-vscode
 passthru = { publisher = "Sarrus", name = "sourcepawn-vscode", description = "SourcePawn highlighting, autocompletion and much more", license = "MIT" }
 
 [chrisbibby-hide-node-modules]
@@ -10551,4 +10551,10 @@ passthru = { publisher = "Serhioromano", name = "vscode-gitflow", description = 
 src.manual = "1.12.9" # Serhioromano.vscode-st
 fetch.url = "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.9/file/Serhioromano.vscode-st-1.12.9.vsix" # Serhioromano.vscode-st
 passthru = { publisher = "Serhioromano", name = "vscode-st", description = "Supports for syntax highlights, snippets for IEC 61131-3 Structured Text", license = "MIT" }
+
+
+[onlyutkarsh-git-config-user-profiles]
+src.manual = "1.2.0" # onlyutkarsh.git-config-user-profiles
+fetch.url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix" # onlyutkarsh.git-config-user-profiles
+passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", description = "Define multiple git config user profiles and switch them easily using status bar", license = "MIT" }
 
