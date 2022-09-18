@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.37.3";
+    version = "0.37.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.37.3/app-release-unsigned.apk";
-      sha256 = "sha256-UEncOcx7ECHtYcnzm6fCWODIyyUIBpVKarmwpEE4XvE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.37.4/app-release-unsigned.apk";
+      sha256 = "sha256-Afyl+L5AZlYOkB5Wopp1KZJcies8hZhhA6tC/Br3S2k=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.58.0";
+    version = "2.59.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.58.0/revanced-patches-2.58.0.jar";
-      sha256 = "sha256-7tWfamOmWjz5CZ5LCK0M7jDqM0+uZbyOfzbnh/ZdO8g=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.59.0/revanced-patches-2.59.0.jar";
+      sha256 = "sha256-vAOfjVWb0BlAeowjB/CSqUDhVcCjVaQgMFDygl7PvNE=";
     };
   };
   rofi-wayland = {
@@ -1326,13 +1326,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "68ed713ca10e9570ec0dbea72a3ba04a4ca54b4e";
+    version = "8dd2256d8513e6165a7993c3e03ed95344959e7b";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "68ed713ca10e9570ec0dbea72a3ba04a4ca54b4e";
+      rev = "8dd2256d8513e6165a7993c3e03ed95344959e7b";
       fetchSubmodules = false;
-      sha256 = "sha256-YEqx5R6LXUYBGcUDMCdqOfb/fIaf0rSupSmOg/nhQCY=";
+      sha256 = "sha256-ZXakq/Qg/lMPAj9vQN2kgvNc2A8wZ58kcoh8xod1dj0=";
     });
   };
   wgcf = {
