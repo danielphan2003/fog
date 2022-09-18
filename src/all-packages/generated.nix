@@ -1389,13 +1389,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "81195bfde8f9b5218e6e87bbd6f6e362a7653aad";
+    version = "1d5d227e3a6dc9b70147960e99f17695d9f6804e";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "81195bfde8f9b5218e6e87bbd6f6e362a7653aad";
+      rev = "1d5d227e3a6dc9b70147960e99f17695d9f6804e";
       fetchSubmodules = false;
-      sha256 = "sha256-maXXGCqB8dkGO8956hsKSwM4HQdYn6z1jBFENQ9sKcA=";
+      sha256 = "sha256-F1d1IgHZXNbicJONiJ8Uf7NjGLqxfaP35mrb37PzcXo=";
     });
   };
   yubikey-agent = {
