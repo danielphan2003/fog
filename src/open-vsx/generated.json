@@ -8942,9 +8942,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -13312,11 +13312,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1x9pWFtbk8ds+a/g78tS+QdAfVg7p0BmYyme2Wldd7g=",
+            "sha256": "sha256-CD043qiIZ6rkufNn+kTBXzf5DcqdrYsvyOf7yoGKm4U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.4/file/dendron.nightly-0.112.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.5/file/dendron.nightly-0.112.5.vsix"
         },
-        "version": "0.112.4"
+        "version": "0.112.5"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -14357,11 +14357,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vBQneZHYrX8sXVusMCuGLzMG3OyH8raVXhHkroTrkcE=",
+            "sha256": "sha256-inGZAUBy7uocfD2dQ+YXu6JsjSm8Yoy2zMvJidfVQFU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3068700/file/eliostruyf.vscode-front-matter-beta-8.1.3068700.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3080905/file/eliostruyf.vscode-front-matter-beta-8.1.3080905.vsix"
         },
-        "version": "8.1.3068700"
+        "version": "8.1.3080905"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -28607,11 +28607,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-svatbjfQVH/g/UKSACeKQq3fq5MGJwjuRJHdYC1O0EE=",
+            "sha256": "sha256-3Bvo0H++RdS2MZmxuPId8qkmic1S53/1EkDkBmhmyy4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.0/file/redhat.atlasmap-viewer-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.1/file/redhat.atlasmap-viewer-0.2.1.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.2.1"
     },
     "redhat-fabric8-analytics": {
         "cargoLocks": null,

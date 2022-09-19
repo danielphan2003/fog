@@ -5645,8 +5645,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8403,10 +8403,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.112.4";
+    version = "0.112.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.112.4/file/dendron.nightly-0.112.4.vsix";
-      sha256 = "sha256-1x9pWFtbk8ds+a/g78tS+QdAfVg7p0BmYyme2Wldd7g=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.112.5/file/dendron.nightly-0.112.5.vsix";
+      sha256 = "sha256-CD043qiIZ6rkufNn+kTBXzf5DcqdrYsvyOf7yoGKm4U=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -9063,10 +9063,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3068700";
+    version = "8.1.3080905";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3068700/file/eliostruyf.vscode-front-matter-beta-8.1.3068700.vsix";
-      sha256 = "sha256-vBQneZHYrX8sXVusMCuGLzMG3OyH8raVXhHkroTrkcE=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3080905/file/eliostruyf.vscode-front-matter-beta-8.1.3080905.vsix";
+      sha256 = "sha256-inGZAUBy7uocfD2dQ+YXu6JsjSm8Yoy2zMvJidfVQFU=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -18063,10 +18063,10 @@
   };
   redhat-atlasmap-viewer = {
     pname = "redhat-atlasmap-viewer";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.0/file/redhat.atlasmap-viewer-0.2.0.vsix";
-      sha256 = "sha256-svatbjfQVH/g/UKSACeKQq3fq5MGJwjuRJHdYC1O0EE=";
+      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.1/file/redhat.atlasmap-viewer-0.2.1.vsix";
+      sha256 = "sha256-3Bvo0H++RdS2MZmxuPId8qkmic1S53/1EkDkBmhmyy4=";
     };
     license = "Apache-2.0";
     name = "atlasmap-viewer";
