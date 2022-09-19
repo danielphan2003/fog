@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "2200ae143e19cda2ea0b9b7ab97c14ca19ebc771";
+    version = "478957803df9654c72b397e5d5166511fb84ba8b";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "2200ae143e19cda2ea0b9b7ab97c14ca19ebc771";
+      rev = "478957803df9654c72b397e5d5166511fb84ba8b";
       fetchSubmodules = false;
-      sha256 = "sha256-fptgjU6pmquJ6Y9MrqBIuJb1YbCs6TLFlFL5NTRJlCY=";
+      sha256 = "sha256-6ZlM33PbzJjf6IrTbF/c+mpMOc0qMgRrnBn8Ixu2XC0=";
     });
   };
   cinny-bin = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "aaa80d64a8a2c4a25170b37356da019519622ca5";
+    version = "81707ad295465e7745ce694a03d0dcf6a436978e";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "aaa80d64a8a2c4a25170b37356da019519622ca5";
+      rev = "81707ad295465e7745ce694a03d0dcf6a436978e";
       fetchSubmodules = true;
-      sha256 = "sha256-/2Q6mZW3gcPqDpICL39qdeEIwU5ZT0rwj4z7woraAU8=";
+      sha256 = "sha256-UGbLWIl1BewrzDPmB3k7Pf5V+ueyp5Kh+eLkhszYDqg=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-aaa80d64a8a2c4a25170b37356da019519622ca5/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-81707ad295465e7745ce694a03d0dcf6a436978e/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f0208c759bc7e496b90d29af435cafa0e98c0599";
+    version = "6d20a3b11b36f6072bdab9a6d7a113f106a81f0d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f0208c759bc7e496b90d29af435cafa0e98c0599";
+      rev = "6d20a3b11b36f6072bdab9a6d7a113f106a81f0d";
       fetchSubmodules = false;
-      sha256 = "sha256-AXr8Br8ovEJnzA5UNnoZG2OIT/Kj3QUkZPgfDGd2NTk=";
+      sha256 = "sha256-D531cLBFFanEKugok1+m92+cMe63vvkBHENTVSzYbaY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f0208c759bc7e496b90d29af435cafa0e98c0599/Cargo.lock;
+      lockFile = ./rustdesk-6d20a3b11b36f6072bdab9a6d7a113f106a81f0d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
