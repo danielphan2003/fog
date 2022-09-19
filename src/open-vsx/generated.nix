@@ -13935,10 +13935,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "1.3.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.0/file/malipetek.liquivelte-1.3.0.vsix";
-      sha256 = "sha256-dJOXixNPsLyiEtTGo54TBwahahNgAYuW2pkd9XzytLU=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.1/file/malipetek.liquivelte-1.3.1.vsix";
+      sha256 = "sha256-1BJL9MUvZIAzTFLCnFM8KTeX/6iaVM6EnQROyvINMRs=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -24315,10 +24315,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.93";
+    version = "0.0.94";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.93/file/zardoy.zardoy-experiments-0.0.93.vsix";
-      sha256 = "sha256-rSOpxdngkiuhysxzu0tHy7zYEy4v0GE187bA4CTeXVs=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.94/file/zardoy.zardoy-experiments-0.0.94.vsix";
+      sha256 = "sha256-TY34an0ugq5Wc/loj0yNzQAbvlRYgEgXRn/YHkMA98Q=";
     };
     license = "MIT";
     name = "zardoy-experiments";
