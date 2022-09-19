@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7dgJKt3wpMM4I4HKfzgwfx1kAHPsZ5GvaV4wmTklHD8=",
+            "sha256": "sha256-J+r6rPTDxUqHKNjVv9t6qrELe1QTr8Rhh0wtq9QQqBo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6572.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6573.tar.bz2"
         },
-        "version": "1.0.6572"
+        "version": "1.0.6573"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
