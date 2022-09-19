@@ -2026,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -2748,11 +2748,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kA0onMF4/VsLrS5so3v8xKw2VGxcaq1twnEIR6nfbTU=",
+            "sha256": "sha256-VoYOIfBDmcDbgN6vYt8sFe0u0C+DZUQlvB58vuS2eiM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/IBM/zopeneditor/2.2.0/file/IBM.zopeneditor-2.2.0.vsix"
         },
-        "version": "2.1.1"
+        "version": "2.2.0"
     },
     "IBMBlockchain-ibm-blockchain-platform": {
         "cargoLocks": null,
@@ -4743,11 +4743,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CTIOgrCjICj+P7cEkRHsDjcmU/9HmKjod5hWSmugswE=",
+            "sha256": "sha256-nOBfkBpw3wVTNSmOW8533vQTR2B9qaPMWa7yM7Lcs0U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.2/file/PascalReitermann93.vscode-yaml-sort-5.3.2.vsix"
+            "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.3/file/PascalReitermann93.vscode-yaml-sort-5.3.3.vsix"
         },
-        "version": "5.3.2"
+        "version": "5.3.3"
     },
     "PauloAboimPinto-avalonia-vscode-extension": {
         "cargoLocks": null,

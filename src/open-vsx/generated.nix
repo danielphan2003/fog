@@ -1277,8 +1277,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -1731,10 +1731,10 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "2.1.1";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor-2.1.1.vsix";
-      sha256 = "sha256-kA0onMF4/VsLrS5so3v8xKw2VGxcaq1twnEIR6nfbTU=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.2.0/file/IBM.zopeneditor-2.2.0.vsix";
+      sha256 = "sha256-VoYOIfBDmcDbgN6vYt8sFe0u0C+DZUQlvB58vuS2eiM=";
     };
     license = "";
     name = "zopeneditor";
@@ -2991,10 +2991,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.3.2";
+    version = "5.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.2/file/PascalReitermann93.vscode-yaml-sort-5.3.2.vsix";
-      sha256 = "sha256-CTIOgrCjICj+P7cEkRHsDjcmU/9HmKjod5hWSmugswE=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.3/file/PascalReitermann93.vscode-yaml-sort-5.3.3.vsix";
+      sha256 = "sha256-nOBfkBpw3wVTNSmOW8533vQTR2B9qaPMWa7yM7Lcs0U=";
     };
     license = "MIT";
     name = "vscode-yaml-sort";

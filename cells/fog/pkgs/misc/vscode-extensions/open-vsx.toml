@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -8475,8 +8475,8 @@ fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0
 passthru = { publisher = "kie-group", name = "vscode-extension-kie-ba-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [PascalReitermann93-vscode-yaml-sort]
-src.manual = "5.3.2" # PascalReitermann93.vscode-yaml-sort
-fetch.url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.2/file/PascalReitermann93.vscode-yaml-sort-5.3.2.vsix" # PascalReitermann93.vscode-yaml-sort
+src.manual = "5.3.3" # PascalReitermann93.vscode-yaml-sort
+fetch.url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.3/file/PascalReitermann93.vscode-yaml-sort-5.3.3.vsix" # PascalReitermann93.vscode-yaml-sort
 passthru = { publisher = "PascalReitermann93", name = "vscode-yaml-sort", description = "This VS Code extension exposes the possibility to sort, format and validate yaml files.", license = "MIT" }
 
 [k4ustu3h-theme-jamt]
@@ -9075,8 +9075,8 @@ fetch.url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.4/file/ggbe
 passthru = { publisher = "ggbecker", name = "content-navigator", description = "Content Navigator helps security content authors to create content for https://github.com/ComplianceAsCode/content", license = "BSD-3-Clause" }
 
 [IBM-zopeneditor]
-src.manual = "2.1.1" # IBM.zopeneditor
-fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor-2.1.1.vsix" # IBM.zopeneditor
+src.manual = "2.2.0" # IBM.zopeneditor
+fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.2.0/file/IBM.zopeneditor-2.2.0.vsix" # IBM.zopeneditor
 passthru = { publisher = "IBM", name = "zopeneditor", description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.", license = "" }
 
 [CodeStream-codestream]
@@ -10574,6 +10574,7 @@ passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", descr
 src.manual = "0.7.0" # fermuch.surface
 fetch.url = "https://open-vsx.org/api/fermuch/surface/0.7.0/file/fermuch.surface-0.7.0.vsix" # fermuch.surface
 passthru = { publisher = "fermuch", name = "surface", description = "Syntax highlighting support for Surface/Elixir", license = "MIT" }
+
 
 
 
