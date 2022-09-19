@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WwSDasWW85NN7x0y1tAiUaUM/7yoHrscKYthT8Ni//0=",
+            "sha256": "sha256-2+IpDiF/T4joPTZYu3spkfgKbShR46+nc1HF7HVML/0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1409/file/Prisma.prisma-insider-31.0.1409.vsix"
         },
-        "version": "31.0.1408"
+        "version": "31.0.1409"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -15313,6 +15313,25 @@
         },
         "version": "1.0.2"
     },
+    "fermuch-surface": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "fermuch-surface",
+        "passthru": {
+            "description": "Syntax highlighting support for Surface/Elixir",
+            "license": "MIT",
+            "name": "surface",
+            "publisher": "fermuch"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-DVFzXXqX6xWTqKxLDI9TiJYbIntcWwJwVzddTJuO+HI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/fermuch/surface/0.7.0/file/fermuch.surface-0.7.0.vsix"
+        },
+        "version": "0.7.0"
+    },
     "fernandoescolar-vscode-solution-explorer": {
         "cargoLocks": null,
         "extract": null,
@@ -19050,11 +19069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JY0RY5nuGi+cuUYgen5J2KVCi17/0negFLU80iJ62Rg=",
+            "sha256": "sha256-3Psl7IRgENOUzNPUiwa+GrEjnADhpRENKgfTtYUwbbQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091723/file/jbangdev.jbang-vscode-0.1.2022091723.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix"
         },
-        "version": "0.1.2022091723"
+        "version": "0.1.2022091915"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -33319,11 +33338,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V9g+Wa59ivXbxMZtN7Lt4bp9v0N4fYGCy3HvI9MdJE8=",
+            "sha256": "sha256-De3g6yj+0qLkQRuSU1LEqjlmrVZlcobgWiU1NYeIHaQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.21.3/file/timonwong.shellcheck-0.21.3.vsix"
+            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.23.0/file/timonwong.shellcheck-0.23.0.vsix"
         },
-        "version": "0.21.3"
+        "version": "0.23.0"
     },
     "tinkerun-tinkerun-vscode": {
         "cargoLocks": null,
@@ -33414,11 +33433,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bwPQJ0lfU66ERmOMFQQQFDoR70YC/pQgfCMeadwLbQ4=",
+            "sha256": "sha256-kd3T6A5ro1k9ANKdAB1H7jTXd2AlQpPHMeDQQ31ujXc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/toit/toit/1.6.4/file/toit.toit-1.6.4.vsix"
+            "url": "https://open-vsx.org/api/toit/toit/1.6.5/file/toit.toit-1.6.5.vsix"
         },
-        "version": "1.6.4"
+        "version": "1.6.5"
     },
     "tokiwa-software-fuzion-lang": {
         "cargoLocks": null,

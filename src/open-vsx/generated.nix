@@ -3171,10 +3171,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1408";
+    version = "31.0.1409";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix";
-      sha256 = "sha256-WwSDasWW85NN7x0y1tAiUaUM/7yoHrscKYthT8Ni//0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1409/file/Prisma.prisma-insider-31.0.1409.vsix";
+      sha256 = "sha256-2+IpDiF/T4joPTZYu3spkfgKbShR46+nc1HF7HVML/0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -9673,6 +9673,18 @@
     description = "Everything you need for PHP development";
     publisher = "felixfbecker";
   };
+  fermuch-surface = {
+    pname = "fermuch-surface";
+    version = "0.7.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/fermuch/surface/0.7.0/file/fermuch.surface-0.7.0.vsix";
+      sha256 = "sha256-DVFzXXqX6xWTqKxLDI9TiJYbIntcWwJwVzddTJuO+HI=";
+    };
+    license = "MIT";
+    name = "surface";
+    description = "Syntax highlighting support for Surface/Elixir";
+    publisher = "fermuch";
+  };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
     version = "0.7.2";
@@ -12027,10 +12039,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022091723";
+    version = "0.1.2022091915";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091723/file/jbangdev.jbang-vscode-0.1.2022091723.vsix";
-      sha256 = "sha256-JY0RY5nuGi+cuUYgen5J2KVCi17/0negFLU80iJ62Rg=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix";
+      sha256 = "sha256-3Psl7IRgENOUzNPUiwa+GrEjnADhpRENKgfTtYUwbbQ=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -21039,10 +21051,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.21.3";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.3/file/timonwong.shellcheck-0.21.3.vsix";
-      sha256 = "sha256-V9g+Wa59ivXbxMZtN7Lt4bp9v0N4fYGCy3HvI9MdJE8=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.23.0/file/timonwong.shellcheck-0.23.0.vsix";
+      sha256 = "sha256-De3g6yj+0qLkQRuSU1LEqjlmrVZlcobgWiU1NYeIHaQ=";
     };
     license = "MIT";
     name = "shellcheck";
@@ -21099,10 +21111,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.6.4";
+    version = "1.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.6.4/file/toit.toit-1.6.4.vsix";
-      sha256 = "sha256-bwPQJ0lfU66ERmOMFQQQFDoR70YC/pQgfCMeadwLbQ4=";
+      url = "https://open-vsx.org/api/toit/toit/1.6.5/file/toit.toit-1.6.5.vsix";
+      sha256 = "sha256-kd3T6A5ro1k9ANKdAB1H7jTXd2AlQpPHMeDQQ31ujXc=";
     };
     license = "MIT";
     name = "toit";

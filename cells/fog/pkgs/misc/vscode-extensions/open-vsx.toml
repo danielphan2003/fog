@@ -8790,8 +8790,8 @@ fetch.url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.6.0/file/DC
 passthru = { publisher = "DCsunset", name = "vscode-modal-editor", description = "Customizable extension to turn VS Code into a modal editor", license = "AGPL-3.0" }
 
 [toit-toit]
-src.manual = "1.6.4" # toit.toit
-fetch.url = "https://open-vsx.org/api/toit/toit/1.6.4/file/toit.toit-1.6.4.vsix" # toit.toit
+src.manual = "1.6.5" # toit.toit
+fetch.url = "https://open-vsx.org/api/toit/toit/1.6.5/file/toit.toit-1.6.5.vsix" # toit.toit
 passthru = { publisher = "toit", name = "toit", description = "Toit Programming Language Support", license = "MIT" }
 
 [tomtung-vscode-markdown-linkify]
@@ -9145,8 +9145,8 @@ fetch.url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov
 passthru = { publisher = "FelixAngelov", name = "mason", description = "Mason support for Visual Studio Code.", license = "MIT" }
 
 [jbangdev-jbang-vscode]
-src.manual = "0.1.2022091723" # jbangdev.jbang-vscode
-fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091723/file/jbangdev.jbang-vscode-0.1.2022091723.vsix" # jbangdev.jbang-vscode
+src.manual = "0.1.2022091915" # jbangdev.jbang-vscode
+fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix" # jbangdev.jbang-vscode
 passthru = { publisher = "jbangdev", name = "jbang-vscode", description = "JBang support for VS Code Java", license = "MIT" }
 
 [prantlf-vscode-requirejs]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1408" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1408/file/Prisma.prisma-insider-31.0.1408.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1409" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1409/file/Prisma.prisma-insider-31.0.1409.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9935,8 +9935,8 @@ fetch.url = "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
-src.manual = "0.21.3" # timonwong.shellcheck
-fetch.url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.3/file/timonwong.shellcheck-0.21.3.vsix" # timonwong.shellcheck
+src.manual = "0.23.0" # timonwong.shellcheck
+fetch.url = "https://open-vsx.org/api/timonwong/shellcheck/0.23.0/file/timonwong.shellcheck-0.23.0.vsix" # timonwong.shellcheck
 passthru = { publisher = "timonwong", name = "shellcheck", description = "Integrates ShellCheck into VS Code, a linter for Shell scripts.", license = "MIT" }
 
 [Dart-Code-dart-code]
@@ -10568,4 +10568,10 @@ passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", descr
 
 
 
+
+
+[fermuch-surface]
+src.manual = "0.7.0" # fermuch.surface
+fetch.url = "https://open-vsx.org/api/fermuch/surface/0.7.0/file/fermuch.surface-0.7.0.vsix" # fermuch.surface
+passthru = { publisher = "fermuch", name = "surface", description = "Syntax highlighting support for Surface/Elixir", license = "MIT" }
 
