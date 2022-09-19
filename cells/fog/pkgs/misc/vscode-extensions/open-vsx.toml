@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -3400,8 +3400,8 @@ fetch.url = "https://open-vsx.org/api/vsls-contrib/codetour/0.0.59/file/vsls-con
 passthru = { publisher = "vsls-contrib", name = "codetour", description = "VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor", license = "MIT" }
 
 [jebbs-markdown-extended]
-src.manual = "1.1.2" # jebbs.markdown-extended
-fetch.url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.2/file/jebbs.markdown-extended-1.1.2.vsix" # jebbs.markdown-extended
+src.manual = "1.1.3" # jebbs.markdown-extended
+fetch.url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.3/file/jebbs.markdown-extended-1.1.3.vsix" # jebbs.markdown-extended
 passthru = { publisher = "jebbs", name = "markdown-extended", description = "Extended syntaxes to built-in markdown & What you see is what you get exporter.", license = "MIT" }
 
 [bmalehorn-vscode-fish]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.4/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.1720" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1720/file/Slint.slint-nightly-2022.9.1720.vsix" # Slint.slint-nightly
+src.manual = "2022.9.1808" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1808/file/Slint.slint-nightly-2022.9.1808.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10026,8 +10026,8 @@ passthru = { publisher = "dev01d", name = "devoid-theme", description = "A dark 
 
 
 [chalet-org-vscode-chalet]
-src.manual = "0.4.0" # chalet-org.vscode-chalet
-fetch.url = "https://open-vsx.org/api/chalet-org/vscode-chalet/0.4.0/file/chalet-org.vscode-chalet-0.4.0.vsix" # chalet-org.vscode-chalet
+src.manual = "0.5.0" # chalet-org.vscode-chalet
+fetch.url = "https://open-vsx.org/api/chalet-org/vscode-chalet/0.5.0/file/chalet-org.vscode-chalet-0.5.0.vsix" # chalet-org.vscode-chalet
 passthru = { publisher = "chalet-org", name = "vscode-chalet", description = "Support for Chalet projects in Visual Studio Code", license = "BSD-3-Clause" }
 
 
@@ -10557,6 +10557,7 @@ passthru = { publisher = "Serhioromano", name = "vscode-st", description = "Supp
 src.manual = "1.2.0" # onlyutkarsh.git-config-user-profiles
 fetch.url = "https://open-vsx.org/api/onlyutkarsh/git-config-user-profiles/1.2.0/file/onlyutkarsh.git-config-user-profiles-1.2.0.vsix" # onlyutkarsh.git-config-user-profiles
 passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", description = "Define multiple git config user profiles and switch them easily using status bar", license = "MIT" }
+
 
 
 
