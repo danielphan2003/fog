@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "263693328f23dc5e74e13a6cd50a759ec449ddfe";
+    version = "4c884dfdaedc002abcb7a05eaed1377683ea8049";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "263693328f23dc5e74e13a6cd50a759ec449ddfe";
+      rev = "4c884dfdaedc002abcb7a05eaed1377683ea8049";
       fetchSubmodules = false;
-      sha256 = "sha256-ef/afiMOWj439atbTqbg6HbTXKPnHZvxNGW3Lg2uOCc=";
+      sha256 = "sha256-LVvRgYXwY7Vxy5h4TwzS+4jFUMZu8U4IrbT+QVxJAMc=";
     });
   };
   caddy = {
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.39.0";
+    version = "0.40.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.39.0.tar.gz";
-      sha256 = "sha256-aJ65bk0UUcnbxS5I9BsgQ8CwHk8x188MTWomvr2P4HE=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.40.0.tar.gz";
+      sha256 = "sha256-jTwB3qz9V0PIR4WZtZnaLgM/+nUxtl2rjLHcO8l/hU8=";
     };
   };
   nix-zsh-completions = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e0d759c3bb47af8eae2641ac74a3319688538892";
+    version = "19586f28bd4cba89de12b053cada52e70ea9627b";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e0d759c3bb47af8eae2641ac74a3319688538892";
+      rev = "19586f28bd4cba89de12b053cada52e70ea9627b";
       fetchSubmodules = false;
-      sha256 = "sha256-kwsdDBJSrjqvbLmqZZsz1LIcCH9WCxmPM151wNnsDbY=";
+      sha256 = "sha256-+agjh0Ge7KkEw+ianfiuzfOGOsY5fZBdyOPMUJkkUyU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e0d759c3bb47af8eae2641ac74a3319688538892/Cargo.lock;
+      lockFile = ./rustdesk-19586f28bd4cba89de12b053cada52e70ea9627b/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1244,10 +1244,10 @@
   };
   teams = {
     pname = "teams";
-    version = "1.5.00.10453";
+    version = "1.5.00.23861";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.5.00.10453_amd64.deb";
-      sha256 = "sha256-fLVw2axSMetuaoRzjg+x4DRYY8WP5TQbL7LbfF6LFfA=";
+      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.5.00.23861_amd64.deb";
+      sha256 = "sha256-h0YnCeJX//l4TegJVZtavV3HrxjYUF2Fa5KmaYmZW8E=";
     };
   };
   trackma = {
