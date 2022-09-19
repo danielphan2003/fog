@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d",
-            "sha256": "sha256-3B1o0IoF0KUF4XJcN0Y4tppFmIhzNAt2CKwB1L9y9kw=",
+            "rev": "0950ba4f0b77f2a9134188386345fccdfddb80ad",
+            "sha256": "sha256-ymGNENe2dKxSoKDCF2GNxszSxN6mkY9yOEMyD4eG09s=",
             "type": "github"
         },
-        "version": "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d"
+        "version": "0950ba4f0b77f2a9134188386345fccdfddb80ad"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vAOfjVWb0BlAeowjB/CSqUDhVcCjVaQgMFDygl7PvNE=",
+            "sha256": "sha256-gYr+hrwSBPqwJM+tf2oU4XD52fTFvTwKKW61jsNpRqI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.59.0/revanced-patches-2.59.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.60.0/revanced-patches-2.60.0.jar"
         },
-        "version": "2.59.0"
+        "version": "2.60.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,

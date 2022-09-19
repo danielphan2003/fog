@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d";
+    version = "0950ba4f0b77f2a9134188386345fccdfddb80ad";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c7a6bc59345ca4075cc8bf97bd80900d28d8e05d";
+      rev = "0950ba4f0b77f2a9134188386345fccdfddb80ad";
       fetchSubmodules = false;
-      sha256 = "sha256-3B1o0IoF0KUF4XJcN0Y4tppFmIhzNAt2CKwB1L9y9kw=";
+      sha256 = "sha256-ymGNENe2dKxSoKDCF2GNxszSxN6mkY9yOEMyD4eG09s=";
     });
   };
   cinny = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.59.0";
+    version = "2.60.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.59.0/revanced-patches-2.59.0.jar";
-      sha256 = "sha256-vAOfjVWb0BlAeowjB/CSqUDhVcCjVaQgMFDygl7PvNE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.60.0/revanced-patches-2.60.0.jar";
+      sha256 = "sha256-gYr+hrwSBPqwJM+tf2oU4XD52fTFvTwKKW61jsNpRqI=";
     };
   };
   rofi-wayland = {
