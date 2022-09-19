@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2+IpDiF/T4joPTZYu3spkfgKbShR46+nc1HF7HVML/0=",
+            "sha256": "sha256-W8FMkwVBM21uxHVqCsPeDoKpSMMhYSe2rsgHa51KX/Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1409/file/Prisma.prisma-insider-31.0.1409.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1410/file/Prisma.prisma-insider-31.0.1410.vsix"
         },
-        "version": "31.0.1409"
+        "version": "31.0.1410"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8619,11 +8619,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FVDT/epkLI9aqbJL8csIp0q11MaNyvMUy+F6PRgoXa0=",
+            "sha256": "sha256-kUYPxzPti2aVqbGxlLytKUPcoctTja6A45RsaCtM70Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.0/file/anweber.vscode-httpyac-5.7.0.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.2/file/anweber.vscode-httpyac-5.7.2.vsix"
         },
-        "version": "5.7.0"
+        "version": "5.7.2"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -16846,9 +16846,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -21254,11 +21254,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -31001,11 +31001,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
