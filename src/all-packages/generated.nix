@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "478957803df9654c72b397e5d5166511fb84ba8b";
+    version = "0225204b4d52106da01569b775ca71e0bf6ee9c3";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "478957803df9654c72b397e5d5166511fb84ba8b";
+      rev = "0225204b4d52106da01569b775ca71e0bf6ee9c3";
       fetchSubmodules = false;
-      sha256 = "sha256-6ZlM33PbzJjf6IrTbF/c+mpMOc0qMgRrnBn8Ixu2XC0=";
+      sha256 = "sha256-uiilC6ClzIywtDxy2vKv1opo/PO8UueqR5VSqfBj8bc=";
     });
   };
   cinny-bin = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "abb6db9c379737bf36009f0de35cfd8f1198852f";
+    version = "696253b3489fb57904b500b8265dfaf19ada56d6";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "abb6db9c379737bf36009f0de35cfd8f1198852f";
+      rev = "696253b3489fb57904b500b8265dfaf19ada56d6";
       fetchSubmodules = false;
-      sha256 = "sha256-ep1/IgA6kVkA6DQ4qNOCVFgz/Jh3J8RCVzp5XvmSZ3A=";
+      sha256 = "sha256-DkrrRVxv/VP24ZBKzcX/IKKTQXygHGibVYRUrCkFKjA=";
     });
   };
   ibus = {
