@@ -7383,10 +7383,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.24";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.24/file/cloudstudio.workspaces-0.0.24.vsix";
-      sha256 = "sha256-30fEIUg/WEaiLCCF1RbwgdgBwiIyG/1JR1L5rvrb0kU=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.25/file/cloudstudio.workspaces-0.0.25.vsix";
+      sha256 = "sha256-Uit1WRocyqjMUQvcXNy2VAcxeoE+5vZrWneu2KyF2JA=";
     };
     license = "MIT";
     name = "workspaces";
@@ -9063,10 +9063,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3080905";
+    version = "8.1.3081028";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3080905/file/eliostruyf.vscode-front-matter-beta-8.1.3080905.vsix";
-      sha256 = "sha256-inGZAUBy7uocfD2dQ+YXu6JsjSm8Yoy2zMvJidfVQFU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3081028/file/eliostruyf.vscode-front-matter-beta-8.1.3081028.vsix";
+      sha256 = "sha256-EKGk1fKRYdYJvC1eXUlFPprp+O/N//jYVi07UZVkG08=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13095,10 +13095,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";

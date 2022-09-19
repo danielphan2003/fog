@@ -11697,11 +11697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-30fEIUg/WEaiLCCF1RbwgdgBwiIyG/1JR1L5rvrb0kU=",
+            "sha256": "sha256-Uit1WRocyqjMUQvcXNy2VAcxeoE+5vZrWneu2KyF2JA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.24/file/cloudstudio.workspaces-0.0.24.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.25/file/cloudstudio.workspaces-0.0.25.vsix"
         },
-        "version": "0.0.24"
+        "version": "0.0.25"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -14357,11 +14357,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-inGZAUBy7uocfD2dQ+YXu6JsjSm8Yoy2zMvJidfVQFU=",
+            "sha256": "sha256-EKGk1fKRYdYJvC1eXUlFPprp+O/N//jYVi07UZVkG08=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3080905/file/eliostruyf.vscode-front-matter-beta-8.1.3080905.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3081028/file/eliostruyf.vscode-front-matter-beta-8.1.3081028.vsix"
         },
-        "version": "8.1.3080905"
+        "version": "8.1.3081028"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -20741,11 +20741,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
