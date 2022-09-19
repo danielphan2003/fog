@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "81707ad295465e7745ce694a03d0dcf6a436978e";
+    version = "4c477821afd8d187a3c84618d19977940a377726";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "81707ad295465e7745ce694a03d0dcf6a436978e";
+      rev = "4c477821afd8d187a3c84618d19977940a377726";
       fetchSubmodules = true;
-      sha256 = "sha256-UGbLWIl1BewrzDPmB3k7Pf5V+ueyp5Kh+eLkhszYDqg=";
+      sha256 = "sha256-U6JdvgOeV14l8PesmyMJgIZzAPgexWIrmvQqeru+W+o=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-81707ad295465e7745ce694a03d0dcf6a436978e/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-4c477821afd8d187a3c84618d19977940a377726/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -564,10 +564,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6572";
+    version = "1.0.6573";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6572-1_all.deb";
-      sha256 = "sha256-RM6L+uzcBISW0lxR5DKPqGpu/QE4i+xB4X6HTa28rlU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6573-1_all.deb";
+      sha256 = "sha256-QgF7QuMxxvYur3lZ9hPltu9VaMi7UMpIPEv+QkDfDmA=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6d20a3b11b36f6072bdab9a6d7a113f106a81f0d";
+    version = "bf1314f91fcd83bf0618d483007be54c77280272";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6d20a3b11b36f6072bdab9a6d7a113f106a81f0d";
+      rev = "bf1314f91fcd83bf0618d483007be54c77280272";
       fetchSubmodules = false;
-      sha256 = "sha256-D531cLBFFanEKugok1+m92+cMe63vvkBHENTVSzYbaY=";
+      sha256 = "sha256-cWg5RpRPsF6BYr/hnJ1simGZpbaJiIFezUDsmugAKm0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6d20a3b11b36f6072bdab9a6d7a113f106a81f0d/Cargo.lock;
+      lockFile = ./rustdesk-bf1314f91fcd83bf0618d483007be54c77280272/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
