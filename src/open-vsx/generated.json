@@ -9987,11 +9987,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hs0brL6Y9JA6V/TYW6kfDPjNvKrogYcZ/ZrlFf+DGZ8=",
+            "sha256": "sha256-P8trsDzPzpPOLaUmniJAwUXrlE7Byos5A1SwU5eeVto=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.302/file/betterthantomorrow.calva-2.0.302.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.303/file/betterthantomorrow.calva-2.0.303.vsix"
         },
-        "version": "2.0.302"
+        "version": "2.0.303"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -20741,11 +20741,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -21235,11 +21235,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
