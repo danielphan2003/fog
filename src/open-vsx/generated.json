@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6xU2tSIaHh491OFN52tXUirDmAy1EPPWxBPEgIPTgZI=",
+            "sha256": "sha256-U9hBOm35thVUEIMerBdtem1f5IjBrMaMtntQOSN7THE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1412/file/Prisma.prisma-insider-31.0.1412.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1414/file/Prisma.prisma-insider-31.0.1414.vsix"
         },
-        "version": "31.0.1412"
+        "version": "31.0.1414"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -13236,11 +13236,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-dendron-markdown-notes": {
         "cargoLocks": null,
@@ -13255,11 +13255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-dendron-markdown-preview-enhanced": {
         "cargoLocks": null,
@@ -13274,11 +13274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-dendron-markdown-shortcuts": {
         "cargoLocks": null,
@@ -13293,11 +13293,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-dendron-paste-image": {
         "cargoLocks": null,
@@ -13312,11 +13312,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-dendron-snippet-maker": {
         "cargoLocks": null,
@@ -13331,11 +13331,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
+            "sha256": "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix"
         },
-        "version": "0.113.0"
+        "version": "0.113.1"
     },
     "dendron-nightly": {
         "cargoLocks": null,
@@ -22109,11 +22109,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1BJL9MUvZIAzTFLCnFM8KTeX/6iaVM6EnQROyvINMRs=",
+            "sha256": "sha256-cqGDw38j1G88U4f2HY3tt11iVUHtm5TjHFHrsnAffZ8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/malipetek/liquivelte/1.3.1/file/malipetek.liquivelte-1.3.1.vsix"
+            "url": "https://open-vsx.org/api/malipetek/liquivelte/1.3.2/file/malipetek.liquivelte-1.3.2.vsix"
         },
-        "version": "1.3.1"
+        "version": "1.3.2"
     },
     "manuth-eslint-language-service": {
         "cargoLocks": null,
@@ -27144,11 +27144,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySfcGgp/70XGM/Lm8oZye2hbIxH52d/4vAyJPr7bx6I=",
+            "sha256": "sha256-65147eiFQCHhkw2aDTLnwBLub+KOMXnFkMf0doRpKq0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.3.0/file/phoenisx.cssvar-2.3.0.vsix"
         },
-        "version": "2.2.2"
+        "version": "2.3.0"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
@@ -28455,11 +28455,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JrJLSBabJlsIGfUiFusvbFYq/zW76K+Qn4/+n64jm7Y=",
+            "sha256": "sha256-zdXVpqhQwgHX7pZq8WP4ZgQAydrQFLFd1ie5SIKpW8g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.1/file/rangav.vscode-thunder-client-1.19.1.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.2/file/rangav.vscode-thunder-client-1.19.2.vsix"
         },
-        "version": "1.19.1"
+        "version": "1.19.2"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,

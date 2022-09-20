@@ -3171,10 +3171,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1412";
+    version = "31.0.1414";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1412/file/Prisma.prisma-insider-31.0.1412.vsix";
-      sha256 = "sha256-6xU2tSIaHh491OFN52tXUirDmAy1EPPWxBPEgIPTgZI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1414/file/Prisma.prisma-insider-31.0.1414.vsix";
+      sha256 = "sha256-U9hBOm35thVUEIMerBdtem1f5IjBrMaMtntQOSN7THE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8355,10 +8355,10 @@
   };
   dendron-dendron-markdown-links = {
     pname = "dendron-dendron-markdown-links";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "MIT";
     name = "dendron-markdown-links";
@@ -8367,10 +8367,10 @@
   };
   dendron-dendron-markdown-notes = {
     pname = "dendron-dendron-markdown-notes";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "GPL-3.0";
     name = "dendron-markdown-notes";
@@ -8379,10 +8379,10 @@
   };
   dendron-dendron-markdown-preview-enhanced = {
     pname = "dendron-dendron-markdown-preview-enhanced";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "NCSA";
     name = "dendron-markdown-preview-enhanced";
@@ -8391,10 +8391,10 @@
   };
   dendron-dendron-markdown-shortcuts = {
     pname = "dendron-dendron-markdown-shortcuts";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "MIT";
     name = "dendron-markdown-shortcuts";
@@ -8403,10 +8403,10 @@
   };
   dendron-dendron-paste-image = {
     pname = "dendron-dendron-paste-image";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "MIT";
     name = "dendron-paste-image";
@@ -8415,10 +8415,10 @@
   };
   dendron-dendron-snippet-maker = {
     pname = "dendron-dendron-snippet-maker";
-    version = "0.113.0";
+    version = "0.113.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix";
-      sha256 = "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix";
+      sha256 = "sha256-IAIyqDvLQ5voen1yYnRirsunU0NhasKMWLEx4PgzlpA=";
     };
     license = "MIT";
     name = "dendron-snippet-maker";
@@ -13959,10 +13959,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "1.3.1";
+    version = "1.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.1/file/malipetek.liquivelte-1.3.1.vsix";
-      sha256 = "sha256-1BJL9MUvZIAzTFLCnFM8KTeX/6iaVM6EnQROyvINMRs=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.2/file/malipetek.liquivelte-1.3.2.vsix";
+      sha256 = "sha256-cqGDw38j1G88U4f2HY3tt11iVUHtm5TjHFHrsnAffZ8=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -17139,10 +17139,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "2.2.2";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix";
-      sha256 = "sha256-ySfcGgp/70XGM/Lm8oZye2hbIxH52d/4vAyJPr7bx6I=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/2.3.0/file/phoenisx.cssvar-2.3.0.vsix";
+      sha256 = "sha256-65147eiFQCHhkw2aDTLnwBLub+KOMXnFkMf0doRpKq0=";
     };
     license = "MIT";
     name = "cssvar";
@@ -17967,10 +17967,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.19.1";
+    version = "1.19.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.1/file/rangav.vscode-thunder-client-1.19.1.vsix";
-      sha256 = "sha256-JrJLSBabJlsIGfUiFusvbFYq/zW76K+Qn4/+n64jm7Y=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.2/file/rangav.vscode-thunder-client-1.19.2.vsix";
+      sha256 = "sha256-zdXVpqhQwgHX7pZq8WP4ZgQAydrQFLFd1ie5SIKpW8g=";
     };
     license = "";
     name = "vscode-thunder-client";

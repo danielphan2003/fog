@@ -720,8 +720,8 @@ fetch.url = "https://open-vsx.org/api/oouo-diogo-perdigao/docthis/0.8.2/file/oou
 passthru = { publisher = "oouo-diogo-perdigao", name = "docthis", description = "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.", license = "MIT" }
 
 [dendron-dendron-markdown-shortcuts]
-src.manual = "0.113.0" # dendron.dendron-markdown-shortcuts
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-markdown-shortcuts
+src.manual = "0.113.1" # dendron.dendron-markdown-shortcuts
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-markdown-shortcuts
 passthru = { publisher = "dendron", name = "dendron-markdown-shortcuts", description = "Shortcuts for Markdown editing", license = "MIT" }
 
 [aurorabiz-blade-ui-kit]
@@ -980,8 +980,8 @@ fetch.url = "https://open-vsx.org/api/corneliusludmann/gitpod-trivia/0.0.5/file/
 passthru = { publisher = "corneliusludmann", name = "gitpod-trivia", description = "This extension shows a message at Gitpod workspace start with more information about your unique workspace name. More features will probably be added in the future. Note: This extension works in Gitpod only.", license = "MIT" }
 
 [dendron-dendron-snippet-maker]
-src.manual = "0.113.0" # dendron.dendron-snippet-maker
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-snippet-maker
+src.manual = "0.113.1" # dendron.dendron-snippet-maker
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-snippet-maker
 passthru = { publisher = "dendron", name = "dendron-snippet-maker", description = "Easily create and manage snippets", license = "MIT" }
 
 [giantcola-advanced-new-file]
@@ -1465,8 +1465,8 @@ fetch.url = "https://open-vsx.org/api/fabiospampinato/vscode-todo-plus/4.18.4/fi
 passthru = { publisher = "fabiospampinato", name = "vscode-todo-plus", description = "Manage todo lists with ease. Powerful, easy to use and customizable.", license = "MIT" }
 
 [dendron-dendron-markdown-notes]
-src.manual = "0.113.0" # dendron.dendron-markdown-notes
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-markdown-notes
+src.manual = "0.113.1" # dendron.dendron-markdown-notes
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-markdown-notes
 passthru = { publisher = "dendron", name = "dendron-markdown-notes", description = "Navigate notes with [[wiki-links]], backlinks, and #tags (like Bear, Roam, etc). Automatically create notes from new inline [[wiki-links]]. Use Peek Definition to preview linked notes.", license = "GPL-3.0" }
 
 [vallyscode-crayons]
@@ -3930,8 +3930,8 @@ fetch.url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/jus
 passthru = { publisher = "justusadam", name = "language-haskell", description = "Syntax support for the Haskell programming language.", license = "BSD-3-Clause" }
 
 [dendron-dendron-markdown-links]
-src.manual = "0.113.0" # dendron.dendron-markdown-links
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-markdown-links
+src.manual = "0.113.1" # dendron.dendron-markdown-links
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-markdown-links
 passthru = { publisher = "dendron", name = "dendron-markdown-links", description = "Graph viz for Dendron Notes and Schemas", license = "MIT" }
 
 [akshayganeshen-alt-mode]
@@ -5290,8 +5290,8 @@ fetch.url = "https://open-vsx.org/api/taintbench/TB-Viewer/0.0.3/file/taintbench
 passthru = { publisher = "taintbench", name = "TB-Viewer", description = "A language server for displaying the baseline ground truth in TaintBench.", license = "MIT" }
 
 [dendron-dendron-markdown-preview-enhanced]
-src.manual = "0.113.0" # dendron.dendron-markdown-preview-enhanced
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-markdown-preview-enhanced
+src.manual = "0.113.1" # dendron.dendron-markdown-preview-enhanced
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-markdown-preview-enhanced
 passthru = { publisher = "dendron", name = "dendron-markdown-preview-enhanced", description = "Markdown Preview Enhanced ported to vscode", license = "NCSA" }
 
 [arzg-slate]
@@ -5460,8 +5460,8 @@ fetch.url = "https://open-vsx.org/api/usernamehw/indent-one-space/0.2.7/file/use
 passthru = { publisher = "usernamehw", name = "indent-one-space", description = "Move code to left or right with a distance of one whitespace", license = "MIT" }
 
 [dendron-dendron-paste-image]
-src.manual = "0.113.0" # dendron.dendron-paste-image
-fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix" # dendron.dendron-paste-image
+src.manual = "0.113.1" # dendron.dendron-paste-image
+fetch.url = "https://open-vsx.org/api/dendron/dendron/0.113.1/file/dendron.dendron-0.113.1.vsix" # dendron.dendron-paste-image
 passthru = { publisher = "dendron", name = "dendron-paste-image", description = "paste image from clipboard directly", license = "MIT" }
 
 [Moosecasa-vscode-acutest-test-adapter]
@@ -6930,8 +6930,8 @@ fetch.url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.50
 passthru = { publisher = "hediet", name = "vscode-drawio-insiders-build", description = "This is the unstable Insiders Build", license = "GPL-3.0" }
 
 [malipetek-liquivelte]
-src.manual = "1.3.1" # malipetek.liquivelte
-fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.1/file/malipetek.liquivelte-1.3.1.vsix" # malipetek.liquivelte
+src.manual = "1.3.2" # malipetek.liquivelte
+fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.3.2/file/malipetek.liquivelte-1.3.2.vsix" # malipetek.liquivelte
 passthru = { publisher = "malipetek", name = "liquivelte", description = "Write Shopify Themes With Svelte like syntax!", license = "MIT" }
 
 [XadillaX-van-gogh-paintings]
@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.6/file/dendron.night
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
-src.manual = "1.19.1" # rangav.vscode-thunder-client
-fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.1/file/rangav.vscode-thunder-client-1.19.1.vsix" # rangav.vscode-thunder-client
+src.manual = "1.19.2" # rangav.vscode-thunder-client
+fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.2/file/rangav.vscode-thunder-client-1.19.2.vsix" # rangav.vscode-thunder-client
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
@@ -9785,8 +9785,8 @@ fetch.url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.7.0/file/cns
 passthru = { publisher = "cnshenj", name = "vscode-task-manager", description = "Manages tasks in Visual Studio Code.", license = "MIT" }
 
 [phoenisx-cssvar]
-src.manual = "2.2.2" # phoenisx.cssvar
-fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.2.2/file/phoenisx.cssvar-2.2.2.vsix" # phoenisx.cssvar
+src.manual = "2.3.0" # phoenisx.cssvar
+fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.3.0/file/phoenisx.cssvar-2.3.0.vsix" # phoenisx.cssvar
 passthru = { publisher = "phoenisx", name = "cssvar", description = "Intellisense support for CSS Variables", license = "MIT" }
 
 [foam-foam-vscode]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1412" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1412/file/Prisma.prisma-insider-31.0.1412.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1414" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1414/file/Prisma.prisma-insider-31.0.1414.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10602,4 +10602,5 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-keybindings", descripti
 src.manual = "0.1.1" # sguerri.markdown-header
 fetch.url = "https://open-vsx.org/api/sguerri/markdown-header/0.1.1/file/sguerri.markdown-header-0.1.1.vsix" # sguerri.markdown-header
 passthru = { publisher = "sguerri", name = "markdown-header", description = "Markdown YAML header editor", license = "GPL-3.0" }
+
 
