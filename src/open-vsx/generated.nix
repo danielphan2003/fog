@@ -5645,8 +5645,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -6303,10 +6303,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.303";
+    version = "2.0.304";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.303/file/betterthantomorrow.calva-2.0.303.vsix";
-      sha256 = "sha256-P8trsDzPzpPOLaUmniJAwUXrlE7Byos5A1SwU5eeVto=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.304/file/betterthantomorrow.calva-2.0.304.vsix";
+      sha256 = "sha256-6Mp5gBPNAdyIxbrvR6G7GvJ1ZdmVXS2v5NYCNhdHKI0=";
     };
     license = "MIT";
     name = "calva";
@@ -7176,6 +7176,18 @@
     name = "argdown-vscode";
     description = "Live preview and full language support for the Argdown argumentation syntax";
     publisher = "christianvoigt";
+  };
+  chunsen-bracket-select = {
+    pname = "chunsen-bracket-select";
+    version = "2.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/chunsen/bracket-select/2.0.2/file/chunsen.bracket-select-2.0.2.vsix";
+      sha256 = "sha256-YgsAPq7xlLEExBNR8HdHpoTG4dBXDAAVVFcAbEtMJ4c=";
+    };
+    license = "MIT";
+    name = "bracket-select";
+    description = "Quick select code between brackets, support for (),{} and [], <>";
+    publisher = "chunsen";
   };
   ckolkman-vscode-postgres = {
     pname = "ckolkman-vscode-postgres";
@@ -8403,10 +8415,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.112.5";
+    version = "0.112.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.112.5/file/dendron.nightly-0.112.5.vsix";
-      sha256 = "sha256-CD043qiIZ6rkufNn+kTBXzf5DcqdrYsvyOf7yoGKm4U=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.112.6/file/dendron.nightly-0.112.6.vsix";
+      sha256 = "sha256-nun2pgo50Jlbv0IGEwRGWyWYb2iWypJjDrNYHTaJ7z4=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -12039,10 +12051,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022091915";
+    version = "0.1.2022092008";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix";
-      sha256 = "sha256-3Psl7IRgENOUzNPUiwa+GrEjnADhpRENKgfTtYUwbbQ=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092008/file/jbangdev.jbang-vscode-0.1.2022092008.vsix";
+      sha256 = "sha256-j3mv8VUD36v7tdz00KjGMGjuQJ7+QJqYCTyO3zwEaxg=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -18949,6 +18961,18 @@
     description = "Leverage your favourite shell commands to edit text";
     publisher = "ryu1kn";
   };
+  ryuta46-multi-command = {
+    pname = "ryuta46-multi-command";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ryuta46/multi-command/1.6.0/file/ryuta46.multi-command-1.6.0.vsix";
+      sha256 = "sha256-84muLtWFbz0qKbUfNF7+Dx9RsZIdrKEiNmeHkKYQyts=";
+    };
+    license = "MIT";
+    name = "multi-command";
+    description = "Invoke multiple commands as one command.";
+    publisher = "ryuta46";
+  };
   s-nlf-fh-glassit = {
     pname = "s-nlf-fh-glassit";
     version = "0.2.3";
@@ -24171,10 +24195,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.32";
+    version = "0.1.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.32/file/zardoy.better-snippets-0.1.32.vsix";
-      sha256 = "sha256-bq3w2RmlA27X3sMaBklimAQKWjjyUSYtIbWrI3rJMro=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.33/file/zardoy.better-snippets-0.1.33.vsix";
+      sha256 = "sha256-IvqsSMp0cqKQ4SAqfLYh8Z6ooM+zcbIRgGAocXAckDI=";
     };
     license = "MIT";
     name = "better-snippets";

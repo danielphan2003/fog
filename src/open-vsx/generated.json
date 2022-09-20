@@ -8942,9 +8942,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -9987,11 +9987,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P8trsDzPzpPOLaUmniJAwUXrlE7Byos5A1SwU5eeVto=",
+            "sha256": "sha256-6Mp5gBPNAdyIxbrvR6G7GvJ1ZdmVXS2v5NYCNhdHKI0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.303/file/betterthantomorrow.calva-2.0.303.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.304/file/betterthantomorrow.calva-2.0.304.vsix"
         },
-        "version": "2.0.303"
+        "version": "2.0.304"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -11360,6 +11360,25 @@
             "url": "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.8.2/file/christianvoigt.argdown-vscode-1.8.2.vsix"
         },
         "version": "1.8.2"
+    },
+    "chunsen-bracket-select": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "chunsen-bracket-select",
+        "passthru": {
+            "description": "Quick select code between brackets, support for (),{} and [], <>",
+            "license": "MIT",
+            "name": "bracket-select",
+            "publisher": "chunsen"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-YgsAPq7xlLEExBNR8HdHpoTG4dBXDAAVVFcAbEtMJ4c=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/chunsen/bracket-select/2.0.2/file/chunsen.bracket-select-2.0.2.vsix"
+        },
+        "version": "2.0.2"
     },
     "ckolkman-vscode-postgres": {
         "cargoLocks": null,
@@ -13312,11 +13331,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CD043qiIZ6rkufNn+kTBXzf5DcqdrYsvyOf7yoGKm4U=",
+            "sha256": "sha256-nun2pgo50Jlbv0IGEwRGWyWYb2iWypJjDrNYHTaJ7z4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.5/file/dendron.nightly-0.112.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.112.6/file/dendron.nightly-0.112.6.vsix"
         },
-        "version": "0.112.5"
+        "version": "0.112.6"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -19069,11 +19088,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3Psl7IRgENOUzNPUiwa+GrEjnADhpRENKgfTtYUwbbQ=",
+            "sha256": "sha256-j3mv8VUD36v7tdz00KjGMGjuQJ7+QJqYCTyO3zwEaxg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092008/file/jbangdev.jbang-vscode-0.1.2022092008.vsix"
         },
-        "version": "0.1.2022091915"
+        "version": "0.1.2022092008"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -30000,6 +30019,25 @@
         },
         "version": "1.3.0"
     },
+    "ryuta46-multi-command": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ryuta46-multi-command",
+        "passthru": {
+            "description": "Invoke multiple commands as one command.",
+            "license": "MIT",
+            "name": "multi-command",
+            "publisher": "ryuta46"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-84muLtWFbz0qKbUfNF7+Dx9RsZIdrKEiNmeHkKYQyts=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ryuta46/multi-command/1.6.0/file/ryuta46.multi-command-1.6.0.vsix"
+        },
+        "version": "1.6.0"
+    },
     "s-nlf-fh-glassit": {
         "cargoLocks": null,
         "extract": null,
@@ -38278,11 +38316,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bq3w2RmlA27X3sMaBklimAQKWjjyUSYtIbWrI3rJMro=",
+            "sha256": "sha256-IvqsSMp0cqKQ4SAqfLYh8Z6ooM+zcbIRgGAocXAckDI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.32/file/zardoy.better-snippets-0.1.32.vsix"
+            "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.33/file/zardoy.better-snippets-0.1.33.vsix"
         },
-        "version": "0.1.32"
+        "version": "0.1.33"
     },
     "zardoy-extra-commands": {
         "cargoLocks": null,

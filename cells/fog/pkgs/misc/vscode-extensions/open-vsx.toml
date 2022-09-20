@@ -3580,8 +3580,8 @@ fetch.url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.4/file
 passthru = { publisher = "zardoy", name = "typescript-server-logger", description = "Opens TS log in side-panel & scrolls for you", license = "MIT" }
 
 [zardoy-better-snippets]
-src.manual = "0.1.32" # zardoy.better-snippets
-fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.32/file/zardoy.better-snippets-0.1.32.vsix" # zardoy.better-snippets
+src.manual = "0.1.33" # zardoy.better-snippets
+fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.33/file/zardoy.better-snippets-0.1.33.vsix" # zardoy.better-snippets
 passthru = { publisher = "zardoy", name = "better-snippets", description = "", license = "MIT" }
 
 [bierner-emojisense]
@@ -9145,8 +9145,8 @@ fetch.url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov
 passthru = { publisher = "FelixAngelov", name = "mason", description = "Mason support for Visual Studio Code.", license = "MIT" }
 
 [jbangdev-jbang-vscode]
-src.manual = "0.1.2022091915" # jbangdev.jbang-vscode
-fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022091915/file/jbangdev.jbang-vscode-0.1.2022091915.vsix" # jbangdev.jbang-vscode
+src.manual = "0.1.2022092008" # jbangdev.jbang-vscode
+fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092008/file/jbangdev.jbang-vscode-0.1.2022092008.vsix" # jbangdev.jbang-vscode
 passthru = { publisher = "jbangdev", name = "jbang-vscode", description = "JBang support for VS Code Java", license = "MIT" }
 
 [prantlf-vscode-requirejs]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.112.5" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.5/file/dendron.nightly-0.112.5.vsix" # dendron.nightly
+src.manual = "0.112.6" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.112.6/file/dendron.nightly-0.112.6.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -9905,8 +9905,8 @@ fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vsc
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
-src.manual = "2.0.303" # betterthantomorrow.calva
-fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.303/file/betterthantomorrow.calva-2.0.303.vsix" # betterthantomorrow.calva
+src.manual = "2.0.304" # betterthantomorrow.calva
+fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.304/file/betterthantomorrow.calva-2.0.304.vsix" # betterthantomorrow.calva
 passthru = { publisher = "betterthantomorrow", name = "calva", description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.", license = "MIT" }
 
 [WakaTime-vscode-wakatime]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10578,4 +10578,15 @@ passthru = { publisher = "fermuch", name = "surface", description = "Syntax high
 
 
 
+
+
+[ryuta46-multi-command]
+src.manual = "1.6.0" # ryuta46.multi-command
+fetch.url = "https://open-vsx.org/api/ryuta46/multi-command/1.6.0/file/ryuta46.multi-command-1.6.0.vsix" # ryuta46.multi-command
+passthru = { publisher = "ryuta46", name = "multi-command", description = "Invoke multiple commands as one command.", license = "MIT" }
+
+[chunsen-bracket-select]
+src.manual = "2.0.2" # chunsen.bracket-select
+fetch.url = "https://open-vsx.org/api/chunsen/bracket-select/2.0.2/file/chunsen.bracket-select-2.0.2.vsix" # chunsen.bracket-select
+passthru = { publisher = "chunsen", name = "bracket-select", description = "Quick select code between brackets, support for (),{} and [], <>", license = "MIT" }
 
