@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "0950ba4f0b77f2a9134188386345fccdfddb80ad";
+    version = "e3d04ff86b5bf886bc4c6cf7806987eeda96d163";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "0950ba4f0b77f2a9134188386345fccdfddb80ad";
+      rev = "e3d04ff86b5bf886bc4c6cf7806987eeda96d163";
       fetchSubmodules = false;
-      sha256 = "sha256-ymGNENe2dKxSoKDCF2GNxszSxN6mkY9yOEMyD4eG09s=";
+      sha256 = "sha256-SHMUGo/Ft5H1aqK+GHdtdlLmWkcHd24DPuf+1WmVjD4=";
     });
   };
   cinny = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8a6ec7b18fac43e2493bad6013006ca13cfd5a81";
+    version = "7ad876afe92fe07a0c37bbc24db79d497980d936";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8a6ec7b18fac43e2493bad6013006ca13cfd5a81";
+      rev = "7ad876afe92fe07a0c37bbc24db79d497980d936";
       fetchSubmodules = false;
-      sha256 = "sha256-KhM8aQuBrDu05k4lpzvhS2cpBJLUmzWgdFDYnO8unS0=";
+      sha256 = "sha256-Y5blbYX1cqEqJtB1CdlpfqZ4VJzBGyRMmTRtuHCz14k=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8a6ec7b18fac43e2493bad6013006ca13cfd5a81/Cargo.lock;
+      lockFile = ./rustdesk-7ad876afe92fe07a0c37bbc24db79d497980d936/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8158dd2edc0e51625e25a106cc316965f2c9e521";
+    version = "ff13c66f55c9abd9551fa1f0e985d1ca38a55c0d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8158dd2edc0e51625e25a106cc316965f2c9e521";
+      rev = "ff13c66f55c9abd9551fa1f0e985d1ca38a55c0d";
       fetchSubmodules = false;
-      sha256 = "sha256-lkcNYKiMBTJVhyOMVWJ8zPwu34gFCJmGNJ4d27JUhp8=";
+      sha256 = "sha256-oMnl4f2XsUGu5XCNhqasJ9wglM1kuct6ZxkMcWtM5j4=";
     });
   };
   tailscale-systray = {
