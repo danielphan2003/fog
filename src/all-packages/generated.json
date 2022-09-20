@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-13fe2164d47cef8637524b168c2ebe270567cd60/Cargo.lock",
+                "./rustdesk-3101c4e11982bb3abd254403562d62f0d9b2d4fb/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "13fe2164d47cef8637524b168c2ebe270567cd60",
-            "sha256": "sha256-K8TxyWpe2DKTqr4pc6uu/IVC7fSYdXMvrSKK7ZuAVvA=",
+            "rev": "3101c4e11982bb3abd254403562d62f0d9b2d4fb",
+            "sha256": "sha256-hixp0EjyCuNfe/S5GTjzgYuQfM067Nf1dE/GzoR3GJ4=",
             "type": "github"
         },
-        "version": "13fe2164d47cef8637524b168c2ebe270567cd60"
+        "version": "3101c4e11982bb3abd254403562d62f0d9b2d4fb"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2806c2ac303d0679d431c7f4f373b042be0eac84",
-            "sha256": "sha256-XgADzcCh7yPlX4PqR7xjNe0U8pshOL6J9Q0TQa+PZmE=",
+            "rev": "11a0654753ac6a63bed687aed8224d1ff418f7e5",
+            "sha256": "sha256-MpaJsN79d0PPTvVvkyafvGjLIDV5idUUWoTzuc9Xylc=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "2806c2ac303d0679d431c7f4f373b042be0eac84"
+        "version": "11a0654753ac6a63bed687aed8224d1ff418f7e5"
     },
     "spicetify-cli": {
         "cargoLocks": null,
