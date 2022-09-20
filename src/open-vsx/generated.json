@@ -2026,9 +2026,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5028,11 +5028,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n6PAsGbh3gLE+VKcyMx5SH8e4I0GAjNvXgkIJhimEP8=",
+            "sha256": "sha256-6xU2tSIaHh491OFN52tXUirDmAy1EPPWxBPEgIPTgZI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1411/file/Prisma.prisma-insider-31.0.1411.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1412/file/Prisma.prisma-insider-31.0.1412.vsix"
         },
-        "version": "31.0.1411"
+        "version": "31.0.1412"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8942,9 +8942,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -13236,11 +13236,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-dendron-markdown-notes": {
         "cargoLocks": null,
@@ -13255,11 +13255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-dendron-markdown-preview-enhanced": {
         "cargoLocks": null,
@@ -13274,11 +13274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-dendron-markdown-shortcuts": {
         "cargoLocks": null,
@@ -13293,11 +13293,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-dendron-paste-image": {
         "cargoLocks": null,
@@ -13312,11 +13312,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-dendron-snippet-maker": {
         "cargoLocks": null,
@@ -13331,11 +13331,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oeezYBXKuUfbvpS9dxkejJhqNlb/dbFJTO1il1tZl6U=",
+            "sha256": "sha256-oulfBvLWKhA5jJ3d2DqqXl24Y3HEPlJjWNGWuc3Spt8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.112.0/file/dendron.dendron-0.112.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.113.0/file/dendron.dendron-0.113.0.vsix"
         },
-        "version": "0.112.0"
+        "version": "0.113.0"
     },
     "dendron-nightly": {
         "cargoLocks": null,
@@ -16865,9 +16865,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -19107,11 +19107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j3mv8VUD36v7tdz00KjGMGjuQJ7+QJqYCTyO3zwEaxg=",
+            "sha256": "sha256-Ehto5a0SYIh9QxcFKog7zPcJrgrey1rlUnvAtm2ZI0E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092008/file/jbangdev.jbang-vscode-0.1.2022092008.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092013/file/jbangdev.jbang-vscode-0.1.2022092013.vsix"
         },
-        "version": "0.1.2022092008"
+        "version": "0.1.2022092013"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -20798,11 +20798,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -21292,11 +21292,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -30684,6 +30684,25 @@
         },
         "version": "1.3.3"
     },
+    "sguerri-markdown-header": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "sguerri-markdown-header",
+        "passthru": {
+            "description": "Markdown YAML header editor",
+            "license": "GPL-3.0",
+            "name": "markdown-header",
+            "publisher": "sguerri"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-r3R7v4l9jLfpwNQI2R4hIxb8qiXoV6kC28h6j0CSiOg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/sguerri/markdown-header/0.1.1/file/sguerri.markdown-header-0.1.1.vsix"
+        },
+        "version": "0.1.1"
+    },
     "shalldie-background": {
         "cargoLocks": null,
         "extract": null,
@@ -31058,11 +31077,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -31780,9 +31799,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
