@@ -8942,9 +8942,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -16694,11 +16694,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1S8op9KWjDIbYGxLeQUvTs7mNKkFhwTXEJROoQb3QEM=",
+            "sha256": "sha256-K9mSMjHQryeegiu7oMvOn6DUSuUXtF8mdWKDg78E8V8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.18.0/file/golf1052.base16-generator-1.18.0.vsix"
+            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.18.1/file/golf1052.base16-generator-1.18.1.vsix"
         },
-        "version": "1.18.0"
+        "version": "1.18.1"
     },
     "golf1052-code-sync": {
         "cargoLocks": null,
@@ -38905,11 +38905,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

@@ -5645,8 +5645,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10539,10 +10539,10 @@
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
-    version = "1.18.0";
+    version = "1.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.0/file/golf1052.base16-generator-1.18.0.vsix";
-      sha256 = "sha256-1S8op9KWjDIbYGxLeQUvTs7mNKkFhwTXEJROoQb3QEM=";
+      url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.1/file/golf1052.base16-generator-1.18.1.vsix";
+      sha256 = "sha256-K9mSMjHQryeegiu7oMvOn6DUSuUXtF8mdWKDg78E8V8=";
     };
     license = "See license in LICENSE";
     name = "base16-generator";
@@ -24567,10 +24567,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

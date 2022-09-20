@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9015,8 +9015,8 @@ fetch.url = "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.4/file/v
 passthru = { publisher = "virgilsisoe", name = "python-easy-print", description = "Easy commands for some of Python most useful prints.", license = "MIT" }
 
 [golf1052-base16-generator]
-src.manual = "1.18.0" # golf1052.base16-generator
-fetch.url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.0/file/golf1052.base16-generator-1.18.0.vsix" # golf1052.base16-generator
+src.manual = "1.18.1" # golf1052.base16-generator
+fetch.url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.1/file/golf1052.base16-generator-1.18.1.vsix" # golf1052.base16-generator
 passthru = { publisher = "golf1052", name = "base16-generator", description = "All Base16 themes available on the fly", license = "See license in LICENSE" }
 
 [viper-admin-viper]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10602,5 +10602,6 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-keybindings", descripti
 src.manual = "0.1.1" # sguerri.markdown-header
 fetch.url = "https://open-vsx.org/api/sguerri/markdown-header/0.1.1/file/sguerri.markdown-header-0.1.1.vsix" # sguerri.markdown-header
 passthru = { publisher = "sguerri", name = "markdown-header", description = "Markdown YAML header editor", license = "GPL-3.0" }
+
 
 
