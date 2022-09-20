@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "853b78ab0fc5ad5c4c42dc83e4abc9a9764a0428",
-            "sha256": "sha256-iuHaZcVWwZmdZOjYUZyVWzMZGyTWqtOLHgiMDrcllXU=",
+            "rev": "8dafc25ad9f245ac60fffedbc8be724036e4469f",
+            "sha256": "sha256-kksPx0xlaiXe3LM6mnylEixx2y/N/4kDLc+Gd5/FcaY=",
             "type": "github"
         },
-        "version": "853b78ab0fc5ad5c4c42dc83e4abc9a9764a0428"
+        "version": "8dafc25ad9f245ac60fffedbc8be724036e4469f"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1793,12 +1793,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "11a0654753ac6a63bed687aed8224d1ff418f7e5",
-            "sha256": "sha256-MpaJsN79d0PPTvVvkyafvGjLIDV5idUUWoTzuc9Xylc=",
+            "rev": "5ef7cf86dad5735f3108dd5247618d6ee9990acd",
+            "sha256": "sha256-+1W7dE1Quaqk78017scyaWSTAvkoAE1A6B5QIpF02sU=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "11a0654753ac6a63bed687aed8224d1ff418f7e5"
+        "version": "5ef7cf86dad5735f3108dd5247618d6ee9990acd"
     },
     "spicetify-cli": {
         "cargoLocks": null,
