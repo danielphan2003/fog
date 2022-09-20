@@ -425,11 +425,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XB1NpToEW/0LO080Y+sDH+i+NBGuQh1ZsQpaHH+gne0=",
+            "sha256": "sha256-BXjxj01jK0lLRo7FaztBS1tW/qCH7n05z23N9MnQHwU=",
             "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/387/downloads/paper-1.18.2-387.jar"
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar"
         },
-        "version": "387"
+        "version": "388"
     },
     "papermc-1_19": {
         "cargoLocks": null,
@@ -473,11 +473,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ys3CY+P1kCldHTSALUN1kIgthFaM1ZC0W8cRbKGm8wE=",
+            "sha256": "sha256-qWugviditl965YHM6pkRu6kxhfkMHumYbCcKRgu2zwI=",
             "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.2/builds/153/downloads/paper-1.19.2-153.jar"
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.2/builds/159/downloads/paper-1.19.2-159.jar"
         },
-        "version": "153"
+        "version": "159"
     },
     "papermc-1_8_8": {
         "cargoLocks": null,
