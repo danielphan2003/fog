@@ -340,11 +340,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "dist",
-            "rev": "v2.6.0-beta.5",
+            "rev": "v2.6.0",
             "sha256": "sha256-yw84ooXEqamWKANXmd5pU5Ig7ANDplBUwynF/qPLq1g=",
             "type": "github"
         },
-        "version": "v2.6.0-beta.5"
+        "version": "v2.6.0"
     },
     "caddy-git": {
         "cargoLocks": null,

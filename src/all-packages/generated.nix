@@ -199,11 +199,11 @@
   };
   caddy-dist = {
     pname = "caddy-dist";
-    version = "v2.6.0-beta.5";
+    version = "v2.6.0";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "dist";
-      rev = "v2.6.0-beta.5";
+      rev = "v2.6.0";
       fetchSubmodules = false;
       sha256 = "sha256-yw84ooXEqamWKANXmd5pU5Ig7ANDplBUwynF/qPLq1g=";
     });
