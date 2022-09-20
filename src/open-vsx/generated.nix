@@ -15,10 +15,10 @@
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
-    version = "23.0.9";
+    version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
+      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
     };
     license = "GPL-3.0";
     name = "ada";
@@ -27,10 +27,10 @@
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
-    version = "23.0.9";
+    version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
+      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -3651,10 +3651,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.8.0";
+    version = "3.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.8.0/file/SonarSource.sonarlint-vscode-3.8.0.vsix";
-      sha256 = "sha256-rWYwbN9m3ioQVZR6EqvL3Ma6HeqjVNzOmLHtErTbnFE=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.10.0/file/SonarSource.sonarlint-vscode-3.10.0.vsix";
+      sha256 = "sha256-o4o+8wc6Y/H3sn7HhqhvNa3vKhgiX4C7q6+M+pXuDoI=";
     };
     license = "LGPL-3.0";
     name = "sonarlint-vscode";
@@ -6577,6 +6577,18 @@
     description = "Hotkeys for getting expression types";
     publisher = "br4ch1st0chr0n3";
   };
+  br4ch1st0chr0n3-purs-keybindings = {
+    pname = "br4ch1st0chr0n3-purs-keybindings";
+    version = "0.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-keybindings/0.0.6/file/br4ch1st0chr0n3.purs-keybindings-0.0.6.vsix";
+      sha256 = "sha256-FyKbesWld+DA9enjw/62LapZ4Z8ec8hLyTbQ29N9pqI=";
+    };
+    license = "MIT";
+    name = "purs-keybindings";
+    description = "Insert or remove typed holes via keybindings";
+    publisher = "br4ch1st0chr0n3";
+  };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
     version = "0.8.7";
@@ -8499,10 +8511,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.16.10559";
+    version = "1.16.10593";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10559/file/devsense.composer-php-vscode-1.16.10559.vsix";
-      sha256 = "sha256-8S8fJ5K0dCRz4+GMMYznI2si/hVG9jJPFBm0vweF81M=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10593/file/devsense.composer-php-vscode-1.16.10593.vsix";
+      sha256 = "sha256-juX6BuulbR353nYm9UoqTx56fTYXE1SGmyUOhnBzWBE=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -10527,10 +10539,10 @@
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
-    version = "1.17.1";
+    version = "1.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golf1052/base16-generator/1.17.1/file/golf1052.base16-generator-1.17.1.vsix";
-      sha256 = "sha256-73LlpA9WhFmOf/xmsc4VWCwksbOttImKc6IHkbGUBPw=";
+      url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.0/file/golf1052.base16-generator-1.18.0.vsix";
+      sha256 = "sha256-1S8op9KWjDIbYGxLeQUvTs7mNKkFhwTXEJROoQb3QEM=";
     };
     license = "See license in LICENSE";
     name = "base16-generator";

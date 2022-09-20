@@ -9015,8 +9015,8 @@ fetch.url = "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.4/file/v
 passthru = { publisher = "virgilsisoe", name = "python-easy-print", description = "Easy commands for some of Python most useful prints.", license = "MIT" }
 
 [golf1052-base16-generator]
-src.manual = "1.17.1" # golf1052.base16-generator
-fetch.url = "https://open-vsx.org/api/golf1052/base16-generator/1.17.1/file/golf1052.base16-generator-1.17.1.vsix" # golf1052.base16-generator
+src.manual = "1.18.0" # golf1052.base16-generator
+fetch.url = "https://open-vsx.org/api/golf1052/base16-generator/1.18.0/file/golf1052.base16-generator-1.18.0.vsix" # golf1052.base16-generator
 passthru = { publisher = "golf1052", name = "base16-generator", description = "All Base16 themes available on the fly", license = "See license in LICENSE" }
 
 [viper-admin-viper]
@@ -9680,13 +9680,13 @@ fetch.url = "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.3/file/unifiedjs.
 passthru = { publisher = "unifiedjs", name = "vscode-mdx", description = "Language support for MDX", license = "MIT" }
 
 [AdaCore-ada]
-src.manual = "23.0.9" # AdaCore.ada
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada
+src.manual = "23.0.10" # AdaCore.ada
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix" # AdaCore.ada
 passthru = { publisher = "AdaCore", name = "ada", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [AdaCore-ada-debug]
-src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+src.manual = "23.0.10" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9800,8 +9800,8 @@ fetch.url = "https://open-vsx.org/api/unthrottled/doki-theme/88.1.7/file/unthrot
 passthru = { publisher = "unthrottled", name = "doki-theme", description = "Cute anime character themes!", license = "MIT" }
 
 [SonarSource-sonarlint-vscode]
-src.manual = "3.8.0" # SonarSource.sonarlint-vscode
-fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.8.0/file/SonarSource.sonarlint-vscode-3.8.0.vsix" # SonarSource.sonarlint-vscode
+src.manual = "3.10.0" # SonarSource.sonarlint-vscode
+fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.10.0/file/SonarSource.sonarlint-vscode-3.10.0.vsix" # SonarSource.sonarlint-vscode
 passthru = { publisher = "SonarSource", name = "sonarlint-vscode", description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.", license = "LGPL-3.0" }
 
 [astro-build-astro-vscode]
@@ -10459,8 +10459,8 @@ passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS 
 
 
 [devsense-composer-php-vscode]
-src.manual = "1.16.10559" # devsense.composer-php-vscode
-fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10559/file/devsense.composer-php-vscode-1.16.10559.vsix" # devsense.composer-php-vscode
+src.manual = "1.16.10593" # devsense.composer-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10593/file/devsense.composer-php-vscode-1.16.10593.vsix" # devsense.composer-php-vscode
 passthru = { publisher = "devsense", name = "composer-php-vscode", description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.", license = "LicenseRef-LICENSE" }
 
 
@@ -10589,4 +10589,10 @@ passthru = { publisher = "ryuta46", name = "multi-command", description = "Invok
 src.manual = "2.0.2" # chunsen.bracket-select
 fetch.url = "https://open-vsx.org/api/chunsen/bracket-select/2.0.2/file/chunsen.bracket-select-2.0.2.vsix" # chunsen.bracket-select
 passthru = { publisher = "chunsen", name = "bracket-select", description = "Quick select code between brackets, support for (),{} and [], <>", license = "MIT" }
+
+
+[br4ch1st0chr0n3-purs-keybindings]
+src.manual = "0.0.6" # br4ch1st0chr0n3.purs-keybindings
+fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-keybindings/0.0.6/file/br4ch1st0chr0n3.purs-keybindings-0.0.6.vsix" # br4ch1st0chr0n3.purs-keybindings
+passthru = { publisher = "br4ch1st0chr0n3", name = "purs-keybindings", description = "Insert or remove typed holes via keybindings", license = "MIT" }
 
