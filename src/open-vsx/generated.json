@@ -4971,11 +4971,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ASh99E5P+4/uPiauOihf/fvdi97lWhLcJAvHOzwtxto=",
+            "sha256": "sha256-lE8e7J6FN3N3wR5PtmrtHKDLzDPP4oj4AnaIROK8J30=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/PrateekMahendrakar.prettyxml-2.2.0.vsix"
+            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.3.0/file/PrateekMahendrakar.prettyxml-2.3.0.vsix"
         },
-        "version": "2.2.0"
+        "version": "2.3.0"
     },
     "PrateekMahendrakar-resxpress": {
         "cargoLocks": null,
@@ -5731,11 +5731,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i6MJ/IW7PTjur01rmHCZBmixPVDAW5yfQCjY/F55zQU=",
+            "sha256": "sha256-tTi2SdNh11920WuykbJtSnveduGyTzg/ybORXYibrCk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1808/file/Slint.slint-nightly-2022.9.1808.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1918/file/Slint.slint-nightly-2022.9.1918.vsix"
         },
-        "version": "2022.9.1808"
+        "version": "2022.9.1918"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -8657,11 +8657,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/CgkY0Y6m/Rl1LPjmEWqOSkGZOoz+K+p45Sc9ac0mDs=",
+            "sha256": "sha256-9Yoe07knlAJrXe8aFMYy+lolTi3N8jTxsbr+l1xgINk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix"
+            "url": "https://open-vsx.org/api/aperricone/harbour/1.0.5/file/aperricone.harbour-1.0.5.vsix"
         },
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     "aperricone-regexper-unofficial": {
         "cargoLocks": null,
@@ -8942,9 +8942,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -16827,9 +16827,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16846,9 +16846,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -17036,11 +17036,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k1QXPWXBSy72jm5o4FAhXghyAKPOA3qR08o5Q5iLotY=",
+            "sha256": "sha256-n/hwg7lY3tAeNVwIzJLMPRZXHS5FR8WtRhgLGYn97pk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.12/file/halcyontechltd.code-for-ibmi-1.5.12.vsix"
         },
-        "version": "1.5.11"
+        "version": "1.5.12"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -20095,11 +20095,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5Qp6N6OPx8l3FhoJosG6LBtWNlYOUxcPS7lkE7eBqHc=",
+            "sha256": "sha256-KPiEzm9EKCILaSSXXPdcEuak7dUX9ufrAs9SA8kJyLg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.2/file/k--kato.intellij-idea-keybindings-1.5.2.vsix"
+            "url": "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.3/file/k--kato.intellij-idea-keybindings-1.5.3.vsix"
         },
-        "version": "1.5.2"
+        "version": "1.5.3"
     },
     "k4ustu3h-theme-jamt": {
         "cargoLocks": null,
@@ -21254,11 +21254,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -22964,11 +22964,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9LqhvneIA0mos6Ln2Mp7HCKHyCecVOuuv+htERweTC4=",
+            "sha256": "sha256-tFPF/SteXsOgmBswQ4phqKf50QbHRfevoWcoawLoAWc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix"
+            "url": "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.3.1/file/meshvoid.theme-meshvoid-1.3.1.vsix"
         },
-        "version": "1.2.9"
+        "version": "1.3.1"
     },
     "mesonbuild-mesonbuild": {
         "cargoLocks": null,

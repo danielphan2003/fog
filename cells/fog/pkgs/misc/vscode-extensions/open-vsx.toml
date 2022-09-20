@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4600,8 +4600,8 @@ fetch.url = "https://open-vsx.org/api/everscale/solidity-support/1.3.51/file/eve
 passthru = { publisher = "everscale", name = "solidity-support", description = "Everscale Solidity Language for Visual Studio Code", license = "Apache-2.0" }
 
 [k--kato-intellij-idea-keybindings]
-src.manual = "1.5.2" # k--kato.intellij-idea-keybindings
-fetch.url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.2/file/k--kato.intellij-idea-keybindings-1.5.2.vsix" # k--kato.intellij-idea-keybindings
+src.manual = "1.5.3" # k--kato.intellij-idea-keybindings
+fetch.url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.3/file/k--kato.intellij-idea-keybindings-1.5.3.vsix" # k--kato.intellij-idea-keybindings
 passthru = { publisher = "k--kato", name = "intellij-idea-keybindings", description = "Port of IntelliJ IDEA Keybindings, including for WebStorm, PyCharm, PHP Storm, etc.", license = "MIT" }
 
 [cschleiden-vscode-github-actions]
@@ -6980,8 +6980,8 @@ fetch.url = "https://open-vsx.org/api/arzg/sema/1.12.1/file/arzg.sema-1.12.1.vsi
 passthru = { publisher = "arzg", name = "sema", description = "A theme that focuses on what’s important", license = "MIT" }
 
 [aperricone-harbour]
-src.manual = "1.0.4" # aperricone.harbour
-fetch.url = "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix" # aperricone.harbour
+src.manual = "1.0.5" # aperricone.harbour
+fetch.url = "https://open-vsx.org/api/aperricone/harbour/1.0.5/file/aperricone.harbour-1.0.5.vsix" # aperricone.harbour
 passthru = { publisher = "aperricone", name = "harbour", description = "Harbour and xHarbour languages support for visual studio code", license = "MIT" }
 
 [aperricone-vscode-dbf]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -9705,8 +9705,8 @@ fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.13.0/file/zenclabs.pr
 passthru = { publisher = "zenclabs", name = "previewjs", description = "Get instant previews of your UI components, directly in your IDE", license = "https://previewjs.com/eula" }
 
 [halcyontechltd-code-for-ibmi]
-src.manual = "1.5.11" # halcyontechltd.code-for-ibmi
-fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix" # halcyontechltd.code-for-ibmi
+src.manual = "1.5.12" # halcyontechltd.code-for-ibmi
+fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.12/file/halcyontechltd.code-for-ibmi-1.5.12.vsix" # halcyontechltd.code-for-ibmi
 passthru = { publisher = "halcyontechltd", name = "code-for-ibmi", description = "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code.", license = "MIT" }
 
 [njzy-stats-bar]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.4/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.1808" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1808/file/Slint.slint-nightly-2022.9.1808.vsix" # Slint.slint-nightly
+src.manual = "2022.9.1918" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1918/file/Slint.slint-nightly-2022.9.1918.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -9850,8 +9850,8 @@ fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.2/file/anweber.
 passthru = { publisher = "anweber", name = "vscode-httpyac", description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code", license = "MIT" }
 
 [PrateekMahendrakar-prettyxml]
-src.manual = "2.2.0" # PrateekMahendrakar.prettyxml
-fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/PrateekMahendrakar.prettyxml-2.2.0.vsix" # PrateekMahendrakar.prettyxml
+src.manual = "2.3.0" # PrateekMahendrakar.prettyxml
+fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.3.0/file/PrateekMahendrakar.prettyxml-2.3.0.vsix" # PrateekMahendrakar.prettyxml
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
 [sasjs-sasjs-for-vscode]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10318,8 +10318,8 @@ passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", descripti
 
 
 [meshvoid-theme-meshvoid]
-src.manual = "1.2.9" # meshvoid.theme-meshvoid
-fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix" # meshvoid.theme-meshvoid
+src.manual = "1.3.1" # meshvoid.theme-meshvoid
+fetch.url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.3.1/file/meshvoid.theme-meshvoid-1.3.1.vsix" # meshvoid.theme-meshvoid
 passthru = { publisher = "meshvoid", name = "theme-meshvoid", description = "MeshVoid theme for Visual Studio Code", license = "GPL" }
 
 
@@ -10574,6 +10574,7 @@ passthru = { publisher = "onlyutkarsh", name = "git-config-user-profiles", descr
 src.manual = "0.7.0" # fermuch.surface
 fetch.url = "https://open-vsx.org/api/fermuch/surface/0.7.0/file/fermuch.surface-0.7.0.vsix" # fermuch.surface
 passthru = { publisher = "fermuch", name = "surface", description = "Syntax highlighting support for Surface/Elixir", license = "MIT" }
+
 
 
 

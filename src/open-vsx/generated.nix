@@ -3135,10 +3135,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "2.2.0";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/PrateekMahendrakar.prettyxml-2.2.0.vsix";
-      sha256 = "sha256-ASh99E5P+4/uPiauOihf/fvdi97lWhLcJAvHOzwtxto=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.3.0/file/PrateekMahendrakar.prettyxml-2.3.0.vsix";
+      sha256 = "sha256-lE8e7J6FN3N3wR5PtmrtHKDLzDPP4oj4AnaIROK8J30=";
     };
     license = "MIT";
     name = "prettyxml";
@@ -3615,10 +3615,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.1808";
+    version = "2022.9.1918";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1808/file/Slint.slint-nightly-2022.9.1808.vsix";
-      sha256 = "sha256-i6MJ/IW7PTjur01rmHCZBmixPVDAW5yfQCjY/F55zQU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.1918/file/Slint.slint-nightly-2022.9.1918.vsix";
+      sha256 = "sha256-tTi2SdNh11920WuykbJtSnveduGyTzg/ybORXYibrCk=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5463,10 +5463,10 @@
   };
   aperricone-harbour = {
     pname = "aperricone-harbour";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/aperricone/harbour/1.0.4/file/aperricone.harbour-1.0.4.vsix";
-      sha256 = "sha256-/CgkY0Y6m/Rl1LPjmEWqOSkGZOoz+K+p45Sc9ac0mDs=";
+      url = "https://open-vsx.org/api/aperricone/harbour/1.0.5/file/aperricone.harbour-1.0.5.vsix";
+      sha256 = "sha256-9Yoe07knlAJrXe8aFMYy+lolTi3N8jTxsbr+l1xgINk=";
     };
     license = "MIT";
     name = "harbour";
@@ -5645,8 +5645,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10625,8 +10625,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -10637,8 +10637,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
+      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -10755,10 +10755,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.11";
+    version = "1.5.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.11/file/halcyontechltd.code-for-ibmi-1.5.11.vsix";
-      sha256 = "sha256-k1QXPWXBSy72jm5o4FAhXghyAKPOA3qR08o5Q5iLotY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.12/file/halcyontechltd.code-for-ibmi-1.5.12.vsix";
+      sha256 = "sha256-n/hwg7lY3tAeNVwIzJLMPRZXHS5FR8WtRhgLGYn97pk=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -12687,10 +12687,10 @@
   };
   k--kato-intellij-idea-keybindings = {
     pname = "k--kato-intellij-idea-keybindings";
-    version = "1.5.2";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.2/file/k--kato.intellij-idea-keybindings-1.5.2.vsix";
-      sha256 = "sha256-5Qp6N6OPx8l3FhoJosG6LBtWNlYOUxcPS7lkE7eBqHc=";
+      url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.3/file/k--kato.intellij-idea-keybindings-1.5.3.vsix";
+      sha256 = "sha256-KPiEzm9EKCILaSSXXPdcEuak7dUX9ufrAs9SA8kJyLg=";
     };
     license = "MIT";
     name = "intellij-idea-keybindings";
@@ -13419,10 +13419,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -14499,10 +14499,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.2.9";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.2.9/file/meshvoid.theme-meshvoid-1.2.9.vsix";
-      sha256 = "sha256-9LqhvneIA0mos6Ln2Mp7HCKHyCecVOuuv+htERweTC4=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.3.1/file/meshvoid.theme-meshvoid-1.3.1.vsix";
+      sha256 = "sha256-tFPF/SteXsOgmBswQ4phqKf50QbHRfevoWcoawLoAWc=";
     };
     license = "GPL";
     name = "theme-meshvoid";
