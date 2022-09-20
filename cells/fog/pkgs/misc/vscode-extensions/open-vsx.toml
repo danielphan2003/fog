@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.2.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.94" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.94/file/zardoy.zardoy-experiments-0.0.94.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.96" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.96/file/zardoy.zardoy-experiments-0.0.96.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.8.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9100,8 +9100,8 @@ fetch.url = "https://open-vsx.org/api/PKief/copy-branch-name/1.0.2/file/PKief.co
 passthru = { publisher = "PKief", name = "copy-branch-name", description = "Extension to copy the current branch name", license = "MIT" }
 
 [ligolang-publish-ligo-vscode]
-src.manual = "0.4.19" # ligolang-publish.ligo-vscode
-fetch.url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.19/file/ligolang-publish.ligo-vscode-0.4.19.vsix" # ligolang-publish.ligo-vscode
+src.manual = "0.4.20" # ligolang-publish.ligo-vscode
+fetch.url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.20/file/ligolang-publish.ligo-vscode-0.4.20.vsix" # ligolang-publish.ligo-vscode
 passthru = { publisher = "ligolang-publish", name = "ligo-vscode", description = "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO.", license = "MIT" }
 
 [mfederczuk-w3c-ebnf]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1410" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1410/file/Prisma.prisma-insider-31.0.1410.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1411" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1411/file/Prisma.prisma-insider-31.0.1411.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10595,4 +10595,5 @@ passthru = { publisher = "chunsen", name = "bracket-select", description = "Quic
 src.manual = "0.0.6" # br4ch1st0chr0n3.purs-keybindings
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-keybindings/0.0.6/file/br4ch1st0chr0n3.purs-keybindings-0.0.6.vsix" # br4ch1st0chr0n3.purs-keybindings
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-keybindings", description = "Insert or remove typed holes via keybindings", license = "MIT" }
+
 
