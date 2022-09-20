@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e3d04ff86b5bf886bc4c6cf7806987eeda96d163";
+    version = "821a08a6e39ed0e7c43b0271ccf126c194eb6339";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e3d04ff86b5bf886bc4c6cf7806987eeda96d163";
+      rev = "821a08a6e39ed0e7c43b0271ccf126c194eb6339";
       fetchSubmodules = false;
-      sha256 = "sha256-SHMUGo/Ft5H1aqK+GHdtdlLmWkcHd24DPuf+1WmVjD4=";
+      sha256 = "sha256-BZGfYpQM5e+/LrGqs1oms/vOp9q4UY/ZyDODEsi/wl8=";
     });
   };
   cinny = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6578";
+    version = "1.0.6579";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6578.tar.bz2";
-      sha256 = "sha256-FdtDTYShXpE4qkVj7A21FNmMxgvllOAGC9jKzH9d4NY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6579.tar.bz2";
+      sha256 = "sha256-oJxX0wAhgex0MgDDkBsiD6LWB6dBnJ/TjqFTFLr+kSs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6578";
+    version = "1.0.6579";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6578-1_all.deb";
-      sha256 = "sha256-5K1aCA4xSnvcWGHAcP5E5TVPpQhf52pYDyrxwWoRDm4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6579-1_all.deb";
+      sha256 = "sha256-nmXWg1WZOFy1Ma7sCyryz4RAc5x5iMJFkqZoA8qYW9Y=";
     };
   };
   jitsi-videobridge2 = {
@@ -1019,13 +1019,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "02801666f7c9e82b57fe8198e2084d8fdcff6b91";
+    version = "149ab51a768f5b0256ed999e9e7c941363148cfc";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "02801666f7c9e82b57fe8198e2084d8fdcff6b91";
+      rev = "149ab51a768f5b0256ed999e9e7c941363148cfc";
       fetchSubmodules = false;
-      sha256 = "sha256-KNj1l4jW7moFOC1JkgRqQR0uPcSCMUuVnyKmkL0sDZw=";
+      sha256 = "sha256-+LGUgNftCmtoTRvTvLcioM/1g3EtAU1NbrZH0pFabsM=";
     });
   };
   sddm-chili = {
