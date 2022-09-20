@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "821a08a6e39ed0e7c43b0271ccf126c194eb6339";
+    version = "beb7dcbf2aa0d523ad230d21187e923ecd676eba";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "821a08a6e39ed0e7c43b0271ccf126c194eb6339";
+      rev = "beb7dcbf2aa0d523ad230d21187e923ecd676eba";
       fetchSubmodules = false;
-      sha256 = "sha256-BZGfYpQM5e+/LrGqs1oms/vOp9q4UY/ZyDODEsi/wl8=";
+      sha256 = "sha256-vQPlRRuFKCMLB9blHAmM7GUGDTUmF+duXYGqntwzDAw=";
     });
   };
   cinny = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.10.2";
+    version = "2.11.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.10.2/revanced-cli-2.10.2-all.jar";
-      sha256 = "sha256-57+zOMmd3ZOC3L49RuXmhqt+MDH0fR3sH7QYv2GfneY=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.0/revanced-cli-2.11.0-all.jar";
+      sha256 = "sha256-HQJ9yA5xjUlag9PRYhQX0OLJVdcgFgjDxyVN6aYQu0U=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.60.0";
+    version = "2.61.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.60.0/revanced-patches-2.60.0.jar";
-      sha256 = "sha256-gYr+hrwSBPqwJM+tf2oU4XD52fTFvTwKKW61jsNpRqI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.61.0/revanced-patches-2.61.0.jar";
+      sha256 = "sha256-Oz7SI5GefUQDigWwR3GxhN5rt4octeHpd5e3Z1FlsMk=";
     };
   };
   rofi-wayland = {
@@ -1088,13 +1088,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "04d8bada4aa57565744f42efe6e76fdc0c904845";
+    version = "00b3fb1d4485398b7614d5b789dbb72e187dce34";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "04d8bada4aa57565744f42efe6e76fdc0c904845";
+      rev = "00b3fb1d4485398b7614d5b789dbb72e187dce34";
       fetchSubmodules = false;
-      sha256 = "sha256-XbmZJZXYEAHh+IliRnwJ84h3queX1tLSSZd39ufI0F0=";
+      sha256 = "sha256-SC7oyuekxLXhaTBD38joKmn6w3Qum5jb6BwHBD5Csxw=";
     });
   };
   spicetify-marketplace = {
