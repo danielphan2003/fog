@@ -9190,8 +9190,8 @@ fetch.url = "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/0.1.0/fil
 passthru = { publisher = "avast-threatlabs-yara", name = "vscode-yls", description = "A Visual Studio Code extension for YARA based on YLS (Yara Language Server).", license = "MIT" }
 
 [BeardedBear-beardedtheme]
-src.manual = "7.3.0" # BeardedBear.beardedtheme
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.3.0/file/BeardedBear.beardedtheme-7.3.0.vsix" # BeardedBear.beardedtheme
+src.manual = "7.4.0" # BeardedBear.beardedtheme
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.4.0/file/BeardedBear.beardedtheme-7.4.0.vsix" # BeardedBear.beardedtheme
 passthru = { publisher = "BeardedBear", name = "beardedtheme", description = "The theme with a long beard.", license = "MIT" }
 
 [TiDev-titanium-sdk]
@@ -9545,8 +9545,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-snippets", description = "uni-app 基本能力代码片段。", license = "MIT" }
 
 [BeardedBear-beardedicons]
-src.manual = "1.0.0" # BeardedBear.beardedicons
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/1.0.0/file/BeardedBear.beardedicons-1.0.0.vsix" # BeardedBear.beardedicons
+src.manual = "1.1.0" # BeardedBear.beardedicons
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/1.1.0/file/BeardedBear.beardedicons-1.1.0.vsix" # BeardedBear.beardedicons
 passthru = { publisher = "BeardedBear", name = "beardedicons", description = "The icons with a long beard.", license = "MIT" }
 
 [ModyQyW-vscode-uni-ui-snippets]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1417" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1417/file/Prisma.prisma-insider-31.0.1417.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1418" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1418/file/Prisma.prisma-insider-31.0.1418.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10623,4 +10623,5 @@ passthru = { publisher = "Bito", name = "Bito-vscode-staging", description = "Co
 src.manual = "2022.4.0" # ms-python.black-formatter
 fetch.url = "https://open-vsx.org/api/ms-python/black-formatter/2022.4.0/file/ms-python.black-formatter-2022.4.0.vsix" # ms-python.black-formatter
 passthru = { publisher = "ms-python", name = "black-formatter", description = "Formatting support for python files using `black`.", license = "MIT" }
+
 
