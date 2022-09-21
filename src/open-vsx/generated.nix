@@ -289,6 +289,18 @@
     description = "Alt+H checks for broken links in an HTML, XML, RSS, or PHP file.  Alt+T sends currently-selected URL to browser.  Alt+M sends HTTPS version of currently-selected HTTP URL to browser.  Alt+L clears diagnostic messages.";
     publisher = "BillDietrich";
   };
+  Bito-Bito-vscode-staging = {
+    pname = "Bito-Bito-vscode-staging";
+    version = "1.0.111-35";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Bito/Bito-vscode-staging/1.0.111-35/file/Bito.Bito-vscode-staging-1.0.111-35.vsix";
+      sha256 = "sha256-obpIU4yfzIpR3RlF9k9DvsExM7RRBRo8hsmTZEuucew=";
+    };
+    license = "Apache-2.0";
+    name = "Bito-vscode-staging";
+    description = "Collaborate in your code \8212 anywhere, anytime";
+    publisher = "Bito";
+  };
   Brenek-kotlin-for-frc = {
     pname = "Brenek-kotlin-for-frc";
     version = "2022.7.1";
@@ -2847,10 +2859,10 @@
   };
   NomicFoundation-hardhat-solidity = {
     pname = "NomicFoundation-hardhat-solidity";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.2/file/NomicFoundation.hardhat-solidity-0.5.2.vsix";
-      sha256 = "sha256-d49ZLk5XM7oM2ytQdrzbNCRHJt3yULACwqBxEx884og=";
+      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.3/file/NomicFoundation.hardhat-solidity-0.5.3.vsix";
+      sha256 = "sha256-6Szq/Td2m0l2FwH75HfSAVm9Qr17RWxeImclWw8+U+s=";
     };
     license = "MIT";
     name = "hardhat-solidity";
@@ -10649,8 +10661,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -14523,10 +14535,10 @@
   };
   meshvoid-theme-meshvoid = {
     pname = "meshvoid-theme-meshvoid";
-    version = "1.3.1";
+    version = "1.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.3.1/file/meshvoid.theme-meshvoid-1.3.1.vsix";
-      sha256 = "sha256-tFPF/SteXsOgmBswQ4phqKf50QbHRfevoWcoawLoAWc=";
+      url = "https://open-vsx.org/api/meshvoid/theme-meshvoid/1.3.2/file/meshvoid.theme-meshvoid-1.3.2.vsix";
+      sha256 = "sha256-hC/TdVQlJsNPgDTDSdJ5zKm7AG7ak4xwH0u/2ACxUjQ=";
     };
     license = "GPL";
     name = "theme-meshvoid";
@@ -17427,10 +17439,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.438";
+    version = "0.26.443";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.438/file/pokey.cursorless-0.26.438.vsix";
-      sha256 = "sha256-6Zsh+wh26xt8hB7xbMoZJKsEnO6WQSw8ShaZiSoZA3g=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.443/file/pokey.cursorless-0.26.443.vsix";
+      sha256 = "sha256-9W5JHh4cAojzX+7IRy2Qgpu96t36xXS9SSrAPzXR5PU=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17439,10 +17451,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.22.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.22.0/file/pokey.parse-tree-0.22.0.vsix";
-      sha256 = "sha256-A82o0gD2Jvuboxbb9E7sXGV2uB+LScSKKv9qoWWHS2M=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.23.0/file/pokey.parse-tree-0.23.0.vsix";
+      sha256 = "sha256-///YluTBajrLR+dALQCRjYYmYSpnsnwXKlE2tE0ExdE=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -19623,10 +19635,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20081,8 +20093,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -21399,10 +21411,10 @@
   };
   trallard-pitaya-smoothie = {
     pname = "trallard-pitaya-smoothie";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/trallard/pitaya-smoothie/2.0.1/file/trallard.pitaya-smoothie-2.0.1.vsix";
-      sha256 = "sha256-iWLK+uEzid8pszhaowuQRUWJ9hq64Jivtrhz3BKMf9c=";
+      url = "https://open-vsx.org/api/trallard/pitaya-smoothie/2.0.2/file/trallard.pitaya-smoothie-2.0.2.vsix";
+      sha256 = "sha256-dbpMKNZopPSPVqKVtCxQyqgh13tMyotSzO23YelSJ4Y=";
     };
     license = "";
     name = "pitaya-smoothie";
