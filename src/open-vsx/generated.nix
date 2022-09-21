@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1418";
+    version = "31.0.1419";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1418/file/Prisma.prisma-insider-31.0.1418.vsix";
-      sha256 = "sha256-qeJiEj9Eb764WAjfyMO0/WDMVlKDDGPAcyYQyn8osmU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1419/file/Prisma.prisma-insider-31.0.1419.vsix";
+      sha256 = "sha256-10GMJdqldjUnjmx1j7f0pqMr61Lzg5bF0IalURbeDF4=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11883,10 +11883,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.4";
+    version = "0.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.4/file/iterative.dvc-0.4.4.vsix";
-      sha256 = "sha256-DI7Bxd7LvLydgdH3d5FXDo79hx29lftexDRE2ntmr0Y=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.5/file/iterative.dvc-0.4.5.vsix";
+      sha256 = "sha256-JWOQm57Ks70fKAi6d5Zf1lsfL3U325lHw7mSBriltXg=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15951,10 +15951,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.31";
+    version = "1.1.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.31/file/mutable-ai.mutable-ai-1.1.31.vsix";
-      sha256 = "sha256-M25QlvsyL6XeGV7UXoWjVSYoFvdzw1qa/ZZlkG8fLno=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.32/file/mutable-ai.mutable-ai-1.1.32.vsix";
+      sha256 = "sha256-k06wzGD4CDtXy8f7HTSRWRkAQb+AFA3gVQKfZLjCsoY=";
     };
     license = "";
     name = "mutable-ai";
@@ -19647,10 +19647,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24591,10 +24591,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
