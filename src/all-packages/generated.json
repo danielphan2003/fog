@@ -843,11 +843,11 @@
             "name": null,
             "owner": "ibus",
             "repo": "ibus",
-            "rev": "babad7839ba6d72609c717d647bb2928724b4cc3",
-            "sha256": "sha256-tToZDNimJeMWGopKK8IW/OYQ/VAYycW9FXChvgK/YM4=",
+            "rev": "ddead515d9d53fc692af252f610b009660494e21",
+            "sha256": "sha256-uou1jAFaYVrq78+eLXcTc55QL8RViAPPnXwOtLvI/os=",
             "type": "github"
         },
-        "version": "babad7839ba6d72609c717d647bb2928724b4cc3"
+        "version": "ddead515d9d53fc692af252f610b009660494e21"
     },
     "ibus-bamboo": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3zI8CVpGUXlxD388gER2Vy/qjTtJ+qONRkn7+fJyzUc=",
+            "sha256": "sha256-SlYjpm+qTglU18fBuCTy5MO10du6N0fmxylZity2I2w=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6580.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6581.tar.bz2"
         },
-        "version": "1.0.6580"
+        "version": "1.0.6581"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mzaU6hImvGAJLQauPl2mgTMkH0DqDYBZdmMv7pkoqdQ=",
+            "sha256": "sha256-Lrv2OTuvCfnSmK9O9qtH+1+a02t58qKR65PccDqYK+k=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6580-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6581-1_all.deb"
         },
-        "version": "1.0.6580"
+        "version": "1.0.6581"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2163,11 +2163,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-azkoDquN/i01QHsd1wJG79kdhHhBvXzPXIRnjKHAHNE=",
+            "sha256": "sha256-FmMpMUy8VqwbOiRWZdoY76ToSoWWbBGM5h/9VS8rYRY=",
             "type": "url",
-            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.79/ventoy-1.0.79-linux.tar.gz"
+            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.80/ventoy-1.0.80-linux.tar.gz"
         },
-        "version": "1.0.79"
+        "version": "1.0.80"
     },
     "vimPlugins-yuck": {
         "cargoLocks": null,

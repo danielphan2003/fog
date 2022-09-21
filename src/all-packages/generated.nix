@@ -507,13 +507,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "babad7839ba6d72609c717d647bb2928724b4cc3";
+    version = "ddead515d9d53fc692af252f610b009660494e21";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "babad7839ba6d72609c717d647bb2928724b4cc3";
+      rev = "ddead515d9d53fc692af252f610b009660494e21";
       fetchSubmodules = false;
-      sha256 = "sha256-tToZDNimJeMWGopKK8IW/OYQ/VAYycW9FXChvgK/YM4=";
+      sha256 = "sha256-uou1jAFaYVrq78+eLXcTc55QL8RViAPPnXwOtLvI/os=";
     });
   };
   ibus-bamboo = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6580";
+    version = "1.0.6581";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6580.tar.bz2";
-      sha256 = "sha256-3zI8CVpGUXlxD388gER2Vy/qjTtJ+qONRkn7+fJyzUc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6581.tar.bz2";
+      sha256 = "sha256-SlYjpm+qTglU18fBuCTy5MO10du6N0fmxylZity2I2w=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6580";
+    version = "1.0.6581";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6580-1_all.deb";
-      sha256 = "sha256-mzaU6hImvGAJLQauPl2mgTMkH0DqDYBZdmMv7pkoqdQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6581-1_all.deb";
+      sha256 = "sha256-Lrv2OTuvCfnSmK9O9qtH+1+a02t58qKR65PccDqYK+k=";
     };
   };
   jitsi-videobridge2 = {
@@ -1307,10 +1307,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.79";
+    version = "1.0.80";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.79/ventoy-1.0.79-linux.tar.gz";
-      sha256 = "sha256-azkoDquN/i01QHsd1wJG79kdhHhBvXzPXIRnjKHAHNE=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.80/ventoy-1.0.80-linux.tar.gz";
+      sha256 = "sha256-FmMpMUy8VqwbOiRWZdoY76ToSoWWbBGM5h/9VS8rYRY=";
     };
   };
   vimPlugins-yuck = {
