@@ -1359,10 +1359,10 @@
   };
   GrapeCity-gc-excelviewer = {
     pname = "GrapeCity-gc-excelviewer";
-    version = "4.2.55";
+    version = "4.2.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.55/file/GrapeCity.gc-excelviewer-4.2.55.vsix";
-      sha256 = "sha256-yHl6ZTGIKOEsqmyeYtgDUhNAN9uRpoFApA7FKkPWW3E=";
+      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.56/file/GrapeCity.gc-excelviewer-4.2.56.vsix";
+      sha256 = "sha256-lrKkxaqPDouWzDP1uUE4Rgt9mI61jUOi/xZ85A0mnrk=";
     };
     license = "MIT";
     name = "gc-excelviewer";
@@ -2811,10 +2811,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.14";
+    version = "1.15.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.14/file/Natizyskunk.sftp-1.15.14.vsix";
-      sha256 = "sha256-7ZBa181S1PZbDHtLDWPy5zShNdeezSpwH1F0WyUIB9E=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.15/file/Natizyskunk.sftp-1.15.15.vsix";
+      sha256 = "sha256-/RkDsetCif0idvD17+ly5gMaUBWL43KmVMO//fdBw+g=";
     };
     license = "MIT";
     name = "sftp";
@@ -5645,8 +5645,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8547,10 +8547,10 @@
   };
   dfinity-foundation-vscode-motoko = {
     pname = "dfinity-foundation-vscode-motoko";
-    version = "0.4.0";
+    version = "0.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.0/file/dfinity-foundation.vscode-motoko-0.4.0.vsix";
-      sha256 = "sha256-IOqcb5bHXkP1yT2xqJWpArvgH0NKEwIdbIsFhq3hUDc=";
+      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.2/file/dfinity-foundation.vscode-motoko-0.4.2.vsix";
+      sha256 = "sha256-IhREWgz6IYfyovNNa9ZZR7CaE2yID/EoXrzAi75CYTg=";
     };
     license = "Apache-2.0";
     name = "vscode-motoko";
@@ -10779,10 +10779,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.12";
+    version = "1.5.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.12/file/halcyontechltd.code-for-ibmi-1.5.12.vsix";
-      sha256 = "sha256-n/hwg7lY3tAeNVwIzJLMPRZXHS5FR8WtRhgLGYn97pk=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.13/file/halcyontechltd.code-for-ibmi-1.5.13.vsix";
+      sha256 = "sha256-BOZpKu+731hhiVzrY82VL7N5BrFTKoeADm2rAmPt3w8=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -13443,10 +13443,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -14115,10 +14115,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.6.3";
+    version = "1.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.3/file/marus25.cortex-debug-1.6.3.vsix";
-      sha256 = "sha256-CH4I7Q/ynvXtW9fOQKum1PLpic1h58hEfY0+efWm8Po=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.5/file/marus25.cortex-debug-1.6.5.vsix";
+      sha256 = "sha256-YHgDX0jxF6346ymYSiuYesxS9apggRKq5SdWN4rsFmE=";
     };
     license = "MIT";
     name = "cortex-debug";
@@ -15075,10 +15075,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.7.4";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.4/file/ms-azuretools.vscode-azurefunctions-1.7.4.vsix";
-      sha256 = "sha256-P/9tniOAskVHCVu0obruCRzGENshTYzlm/JwDY7Q4fo=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.8.0/file/ms-azuretools.vscode-azurefunctions-1.8.0.vsix";
+      sha256 = "sha256-WN3ISiKxH0yffYjtwH29mDfWHeRzC3FAH3BpvG98TUU=";
     };
     license = "MIT";
     name = "vscode-azurefunctions";
@@ -15171,10 +15171,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.271";
+    version = "1.1.272";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.271/file/ms-pyright.pyright-1.1.271.vsix";
-      sha256 = "sha256-uw1rUDlLjxzaySmAdZ8oZNVw08TlT7Z/acaJi21ms/M=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.272/file/ms-pyright.pyright-1.1.272.vsix";
+      sha256 = "sha256-SdwttVF2LOQG8ufzDGtcWmVcMAPQyqwOJt0ZWMzI3Sk=";
     };
     license = "MIT";
     name = "pyright";
@@ -15975,10 +15975,10 @@
   };
   nadako-vshaxe = {
     pname = "nadako-vshaxe";
-    version = "2.24.1";
+    version = "2.25.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nadako/vshaxe/2.24.1/file/nadako.vshaxe-2.24.1.vsix";
-      sha256 = "sha256-95w0xiUVZjPwUwUlh9kXqLNp+QYJ59N9QxNeFZ8qgz0=";
+      url = "https://open-vsx.org/api/nadako/vshaxe/2.25.0/file/nadako.vshaxe-2.25.0.vsix";
+      sha256 = "sha256-sUN+7ObV1DOXJ36KsbEFblcCDSSl3xnPAXFfopBZOuw=";
     };
     license = "MIT";
     name = "vshaxe";
@@ -19623,10 +19623,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19935,10 +19935,10 @@
   };
   sorbet-sorbet-vscode-extension = {
     pname = "sorbet-sorbet-vscode-extension";
-    version = "0.3.15";
+    version = "0.3.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.15/file/sorbet.sorbet-vscode-extension-0.3.15.vsix";
-      sha256 = "sha256-Tte4hP7Sf5EJvCSv5Sqgb+NGXGR7CHvHAnBHP+B5FqM=";
+      url = "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.16/file/sorbet.sorbet-vscode-extension-0.3.16.vsix";
+      sha256 = "sha256-Ut8JH6+hjZ0UbU9krtd7pHS+h9LYMypbPmXVyQjkwaI=";
     };
     license = "Apache-2.0";
     name = "sorbet-vscode-extension";
@@ -20081,8 +20081,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
