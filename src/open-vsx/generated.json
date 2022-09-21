@@ -9531,11 +9531,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XLp9UUT7F1vW3iLQ4Zse0Hh5uo5djW+LyxS0rcT9Tjg=",
+            "sha256": "sha256-Ry8tijWmlGxsHwbuRYBLs1kHjiAQjAhnJxGL8/M6hvw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.26/file/atsushieno.vscode-language-mugene-0.2.26.vsix"
+            "url": "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.28/file/atsushieno.vscode-language-mugene-0.2.28.vsix"
         },
-        "version": "0.2.26"
+        "version": "0.2.28"
     },
     "attilabuti-brainfuck-syntax": {
         "cargoLocks": null,
@@ -38905,11 +38905,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

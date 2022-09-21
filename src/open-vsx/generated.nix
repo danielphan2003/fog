@@ -6015,10 +6015,10 @@
   };
   atsushieno-vscode-language-mugene = {
     pname = "atsushieno-vscode-language-mugene";
-    version = "0.2.26";
+    version = "0.2.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.26/file/atsushieno.vscode-language-mugene-0.2.26.vsix";
-      sha256 = "sha256-XLp9UUT7F1vW3iLQ4Zse0Hh5uo5djW+LyxS0rcT9Tjg=";
+      url = "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.28/file/atsushieno.vscode-language-mugene-0.2.28.vsix";
+      sha256 = "sha256-Ry8tijWmlGxsHwbuRYBLs1kHjiAQjAhnJxGL8/M6hvw=";
     };
     license = "MIT";
     name = "vscode-language-mugene";
@@ -24567,10 +24567,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

@@ -2335,8 +2335,8 @@ fetch.url = "https://open-vsx.org/api/alantech/alan-lang/0.1.0/file/alantech.ala
 passthru = { publisher = "alantech", name = "alan-lang", description = "Syntax highlighting for Alan Lang", license = "Apache-2.0" }
 
 [atsushieno-vscode-language-mugene]
-src.manual = "0.2.26" # atsushieno.vscode-language-mugene
-fetch.url = "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.26/file/atsushieno.vscode-language-mugene-0.2.26.vsix" # atsushieno.vscode-language-mugene
+src.manual = "0.2.28" # atsushieno.vscode-language-mugene
+fetch.url = "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.28/file/atsushieno.vscode-language-mugene-0.2.28.vsix" # atsushieno.vscode-language-mugene
 passthru = { publisher = "atsushieno", name = "vscode-language-mugene", description = "mugene MML compiler support", license = "MIT" }
 
 [danielgjackson-auto-dark-mode-windows]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -10602,6 +10602,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-keybindings", descripti
 src.manual = "0.1.1" # sguerri.markdown-header
 fetch.url = "https://open-vsx.org/api/sguerri/markdown-header/0.1.1/file/sguerri.markdown-header-0.1.1.vsix" # sguerri.markdown-header
 passthru = { publisher = "sguerri", name = "markdown-header", description = "Markdown YAML header editor", license = "GPL-3.0" }
+
 
 
 
