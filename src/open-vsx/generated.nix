@@ -10827,10 +10827,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.10.6";
+    version = "0.10.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.6/file/halcyontechltd.vscode-rpgle-0.10.6.vsix";
-      sha256 = "sha256-ioa9YDJmyFYRboYGn85TcplzZDRXVPUIVUmziCasQu4=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.7/file/halcyontechltd.vscode-rpgle-0.10.7.vsix";
+      sha256 = "sha256-gLvIfAqJZ8VGHL4Do9BECWNB7SaGUV5f/IQos4OIdCQ=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -17835,10 +17835,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.39.0";
+    version = "1.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.39.0/file/quarto.quarto-1.39.0.vsix";
-      sha256 = "sha256-8kDjx/oJdpM7zL/lSDcuRYexWrFpo2DUVpllYvi2HVQ=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.40.0/file/quarto.quarto-1.40.0.vsix";
+      sha256 = "sha256-kIBq7vDFPpCn0v4St3tqz/ZWWu3A1pGOFI4zQfao1zw=";
     };
     license = "MIT";
     name = "quarto";
@@ -20105,8 +20105,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

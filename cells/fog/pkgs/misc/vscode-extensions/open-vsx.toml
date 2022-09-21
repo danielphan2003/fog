@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -9455,8 +9455,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "resxpress", description = "Resx editor, previewer and sorting extension", license = "MIT" }
 
 [quarto-quarto]
-src.manual = "1.39.0" # quarto.quarto
-fetch.url = "https://open-vsx.org/api/quarto/quarto/1.39.0/file/quarto.quarto-1.39.0.vsix" # quarto.quarto
+src.manual = "1.40.0" # quarto.quarto
+fetch.url = "https://open-vsx.org/api/quarto/quarto/1.40.0/file/quarto.quarto-1.40.0.vsix" # quarto.quarto
 passthru = { publisher = "quarto", name = "quarto", description = "Extension for the Quarto scientific and technical publishing system.", license = "MIT" }
 
 [NicolasVuillamy-vscode-groovy-lint]
@@ -9650,8 +9650,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.3/file/
 passthru = { publisher = "t-codespaces", name = "workspace-manager", description = "工作空间管理相关的插件功能集合，比如重启、服务发现等能力可以在此插件中提供。", license = "" }
 
 [halcyontechltd-vscode-rpgle]
-src.manual = "0.10.6" # halcyontechltd.vscode-rpgle
-fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.6/file/halcyontechltd.vscode-rpgle-0.10.6.vsix" # halcyontechltd.vscode-rpgle
+src.manual = "0.10.7" # halcyontechltd.vscode-rpgle
+fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.7/file/halcyontechltd.vscode-rpgle-0.10.7.vsix" # halcyontechltd.vscode-rpgle
 passthru = { publisher = "halcyontechltd", name = "vscode-rpgle", description = "RPGLE content assist and linter for VS Code", license = "MIT" }
 
 [devfactory-multispace]
@@ -10623,5 +10623,6 @@ passthru = { publisher = "Bito", name = "Bito-vscode-staging", description = "Co
 src.manual = "2022.4.0" # ms-python.black-formatter
 fetch.url = "https://open-vsx.org/api/ms-python/black-formatter/2022.4.0/file/ms-python.black-formatter-2022.4.0.vsix" # ms-python.black-formatter
 passthru = { publisher = "ms-python", name = "black-formatter", description = "Formatting support for python files using `black`.", license = "MIT" }
+
 
 
