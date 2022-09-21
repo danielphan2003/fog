@@ -13350,11 +13350,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nun2pgo50Jlbv0IGEwRGWyWYb2iWypJjDrNYHTaJ7z4=",
+            "sha256": "sha256-yFWKLglLt2bGk/FGbVBRS0SEHre1M6f3IUG9Z7HVWjE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.112.6/file/dendron.nightly-0.112.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.113.2/file/dendron.nightly-0.113.2.vsix"
         },
-        "version": "0.112.6"
+        "version": "0.113.2"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -14395,11 +14395,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EKGk1fKRYdYJvC1eXUlFPprp+O/N//jYVi07UZVkG08=",
+            "sha256": "sha256-UXPFRAV+4AcL7cipfJauhZ23EzB5KjkhSWNlKx8MWNc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3081028/file/eliostruyf.vscode-front-matter-beta-8.1.3081028.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3096094/file/eliostruyf.vscode-front-matter-beta-8.1.3096094.vsix"
         },
-        "version": "8.1.3081028"
+        "version": "8.1.3096094"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -16865,9 +16865,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
