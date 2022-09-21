@@ -125,13 +125,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "bde785ee64f91887cfe669f9db0dd8d9e90d32fc";
+    version = "f8e0dfd486f80a9ee255d4384d4787a9e1a0d3e2";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "bde785ee64f91887cfe669f9db0dd8d9e90d32fc";
+      rev = "f8e0dfd486f80a9ee255d4384d4787a9e1a0d3e2";
       fetchSubmodules = false;
-      sha256 = "sha256-aKXdZ/F7drzk5mePI+ViHcBvDzAmC8Xp/9Kro9reFbI=";
+      sha256 = "sha256-cXIoVP8i/ar4/AFXlv7r4DjzHKRqgF8+rlo+yUuGAe4=";
     });
   };
   awestore = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.11.0";
+    version = "2.11.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.0/revanced-cli-2.11.0-all.jar";
-      sha256 = "sha256-HQJ9yA5xjUlag9PRYhQX0OLJVdcgFgjDxyVN6aYQu0U=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.1/revanced-cli-2.11.1-all.jar";
+      sha256 = "sha256-iWb5KC1qF2BPvE4iJj1fdffoahstq33Kn3JCi1Nt1yw=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.63.0";
+    version = "2.64.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.63.0/revanced-patches-2.63.0.jar";
-      sha256 = "sha256-pwk6s1pzLPZpIjekRS3X5CkoA760CVvf8Cr0Ka+yBIc=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.64.1/revanced-patches-2.64.1.jar";
+      sha256 = "sha256-H9O3qkKSHBIzjPxZ/3f3q3sL2jYd8Dx/5xgwIhl831o=";
     };
   };
   rofi-wayland = {
@@ -1019,13 +1019,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "5892180c2494880ce42e2422f02fab81c5438dfa";
+    version = "a16f612e34073553d0de958ba486497dfd6dd955";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "5892180c2494880ce42e2422f02fab81c5438dfa";
+      rev = "a16f612e34073553d0de958ba486497dfd6dd955";
       fetchSubmodules = false;
-      sha256 = "sha256-eDL62gCfQxGYZGlP9JCyvMAXEhT9VnuR90yaTpIfG2I=";
+      sha256 = "sha256-tW8hMGUAs0hsIdm5E1MuREJdETqseAIlWBpdKLTAoEI=";
     });
   };
   sddm-chili = {
