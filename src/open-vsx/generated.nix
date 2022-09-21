@@ -1289,8 +1289,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -1311,10 +1311,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.12";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.12/file/GitHub.vscode-codeql-1.6.12.vsix";
-      sha256 = "sha256-KJbCYneTlfGkwN50IVZyzDMqnJLyC3AF5q/gaq7RvWo=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.7.0/file/GitHub.vscode-codeql-1.7.0.vsix";
+      sha256 = "sha256-ZCVUZQ4MStUvDuuclmrBqXTR89eVnjR6U5tv4DKk/d8=";
     };
     license = "MIT";
     name = "vscode-codeql";
@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1416";
+    version = "31.0.1417";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1416/file/Prisma.prisma-insider-31.0.1416.vsix";
-      sha256 = "sha256-IWUNTwsp9eruC+x+NaSdaxbzlJf139PYE8oa5spRZGs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1417/file/Prisma.prisma-insider-31.0.1417.vsix";
+      sha256 = "sha256-pTjRBsz5AP+8E/KUEi9oDG2+8ngyR9jfv0WVpZiWgpQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5657,8 +5657,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -5955,10 +5955,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.26.2";
+    version = "0.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.26.2/file/astro-build.astro-vscode-0.26.2.vsix";
-      sha256 = "sha256-NL4BSPszdVCx5/ECLnR3GCdr+Fomn1Exi4jfexlxpZQ=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.27.0/file/astro-build.astro-vscode-0.27.0.vsix";
+      sha256 = "sha256-kPtw10yF88CoB09oLRsu/Tuavak65196BeWugmx4Yx8=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -8523,10 +8523,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.16.10593";
+    version = "1.16.10605";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10593/file/devsense.composer-php-vscode-1.16.10593.vsix";
-      sha256 = "sha256-juX6BuulbR353nYm9UoqTx56fTYXE1SGmyUOhnBzWBE=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10605/file/devsense.composer-php-vscode-1.16.10605.vsix";
+      sha256 = "sha256-HgE7ZaAogM9xOZaLqneeWjnJWciFrObYXmvaCizLO9E=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8535,10 +8535,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.16.10559";
+    version = "1.16.10605";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10559/file/devsense.phptools-vscode-1.16.10559.vsix";
-      sha256 = "sha256-AvsSDgSeNNoqeuH49WddRB3c486opBlHZIEEnhB00/8=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10605/file/devsense.phptools-vscode-1.16.10605.vsix";
+      sha256 = "sha256-2icSjxOtqav9/9mZA6RCOT6rKW9KpHekhWdpY67gO1g=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -13071,10 +13071,10 @@
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.2.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.2.1.vsix";
-      sha256 = "sha256-zihCUU/SYliKT4ndGZkoxf9PUHa2dBLCYMeKV6CCfX8=";
+      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.2.2/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.2.2.vsix";
+      sha256 = "sha256-7cfvk/cf3Q/JCZ86eqqD2D6dC1LQQlAIsz4/xpBTES4=";
     };
     license = "MIT";
     name = "serenity-dsl-syntaxhighlight";
@@ -13143,10 +13143,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -15203,6 +15203,18 @@
     license = "MIT";
     name = "anaconda-extension-pack";
     description = "The Anaconda Extension Pack is a set of extensions that enhance the experience of Anaconda customers using Visual Studio Code";
+    publisher = "ms-python";
+  };
+  ms-python-black-formatter = {
+    pname = "ms-python-black-formatter";
+    version = "2022.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-python/black-formatter/2022.4.0/file/ms-python.black-formatter-2022.4.0.vsix";
+      sha256 = "sha256-slyMosc608IueVXISetaddYdB0/AGfnBFHV75KScnIQ=";
+    };
+    license = "MIT";
+    name = "black-formatter";
+    description = "Formatting support for python files using `black`.";
     publisher = "ms-python";
   };
   ms-python-devicesimulatorexpress = {
@@ -19635,10 +19647,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20093,8 +20105,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -22023,10 +22035,10 @@
   };
   viper-admin-gobra-ide = {
     pname = "viper-admin-gobra-ide";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/gobra-ide/1.0.0/file/viper-admin.gobra-ide-1.0.0.vsix";
-      sha256 = "sha256-GaFqDlu9v/yvQ4VB0TD/UQW3qRsESM8F7ZsSiFigNeI=";
+      url = "https://open-vsx.org/api/viper-admin/gobra-ide/1.1.0/file/viper-admin.gobra-ide-1.1.0.vsix";
+      sha256 = "sha256-feeoNI/tJXzDnb/wcRVIkS5uMXgZiBodKMZ5jRSsKKc=";
     };
     license = "MPL-2.0";
     name = "gobra-ide";
