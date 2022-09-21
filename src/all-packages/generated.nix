@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6582";
+    version = "1.0.6583";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6582.tar.bz2";
-      sha256 = "sha256-fl4aY90SYpg5vqa+8M6hz6ehDumPwUjSmJ6euNbHWOQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6583.tar.bz2";
+      sha256 = "sha256-1Pwxpt+ZhHfmBp3BSHY0f32GT6v5TmgEBIex5cwH+CM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6582";
+    version = "1.0.6583";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6582-1_all.deb";
-      sha256 = "sha256-5tcj6jvwDGhL52+oBqr99oF8dbw1PfYA0OkPUa0ro0g=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6583-1_all.deb";
+      sha256 = "sha256-he0esk4WQN4iIuXfag4mCpn07MpOKlU7n52N8aUuG5Q=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.64.1";
+    version = "2.64.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.64.1/revanced-patches-2.64.1.jar";
-      sha256 = "sha256-H9O3qkKSHBIzjPxZ/3f3q3sL2jYd8Dx/5xgwIhl831o=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.64.2/revanced-patches-2.64.2.jar";
+      sha256 = "sha256-PvuMIf9DLjlo4van/3MMU7o4H1jXykF8jOwJV9HDaC8=";
     };
   };
   rofi-wayland = {
