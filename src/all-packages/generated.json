@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "8b46d0b5a99b7b5cbc59e1faa9437b9b2c0398bb",
-            "sha256": "sha256-BFS+bzPkgZbp3O9bt6cY4HIASz7S+lxnQaXU0McqRgk=",
+            "rev": "d49af1cc183bae57b8fa794b0063f86050370f22",
+            "sha256": "sha256-Fn99w8s2v/Z8GHz7hJEm3sos+ieQrkYBwSKbZMfqA/E=",
             "type": "github"
         },
-        "version": "8b46d0b5a99b7b5cbc59e1faa9437b9b2c0398bb"
+        "version": "d49af1cc183bae57b8fa794b0063f86050370f22"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2239,11 +2239,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "950aed042e8bd4d11bdbc4cb53b4a721e5185e0f",
-            "sha256": "sha256-Iu2d8hAgWvrxGT5dsqBVCl4KPOep4AVnF4kRMczhD1A=",
+            "rev": "d3040b21263622d4fd3775fdcecc626fea094772",
+            "sha256": "sha256-ZV2Qj3TwMx2OLfCeYXDZzSgPhtjSSZnCq5vRuMOS/1s=",
             "type": "github"
         },
-        "version": "950aed042e8bd4d11bdbc4cb53b4a721e5185e0f"
+        "version": "d3040b21263622d4fd3775fdcecc626fea094772"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
