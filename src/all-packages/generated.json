@@ -606,11 +606,11 @@
             "name": null,
             "owner": "muesli",
             "repo": "duf",
-            "rev": "d123727925b907142622401f8fc9fc085e3b1af0",
-            "sha256": "sha256-vNCubG6o72+9iAM6B1G7jTQI2z1OaEYfvr2MckyHCzg=",
+            "rev": "7dc65f823351db75fcb46ebdb38d2715f84dcc84",
+            "sha256": "sha256-NPDw77qEq7hOQq42QqsQ/K386FnY0xmxRjwcN7FI6kI=",
             "type": "github"
         },
-        "version": "d123727925b907142622401f8fc9fc085e3b1af0"
+        "version": "7dc65f823351db75fcb46ebdb38d2715f84dcc84"
     },
     "eww": {
         "cargoLocks": {
@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zVTtn8TVzwNFd9P2LmeeAEhQI+XDCokS7QmlYnDAVqI=",
+            "sha256": "sha256-ys1/LK+MejdgRvrSZhTI3LUDXnPAMok8s/Y4VZo8cNU=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.42-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.50-1_amd64.deb"
         },
-        "version": "105.0.1343.42"
+        "version": "105.0.1343.50"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
