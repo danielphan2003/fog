@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ab57d3cab7d870b5dd55ddf9d9c584775bcdf03d";
+    version = "0973e8d4b071d10602b25b5a2271bbec062dcf03";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ab57d3cab7d870b5dd55ddf9d9c584775bcdf03d";
+      rev = "0973e8d4b071d10602b25b5a2271bbec062dcf03";
       fetchSubmodules = false;
-      sha256 = "sha256-Xl5OlwjH7cjJwtrKUuu41rzuVWRREuTixSkVR8vlATs=";
+      sha256 = "sha256-XONai4DqL4CYkPeRUVdG9Avm1VLuxyQFv8s/DSQ2clE=";
     });
   };
   revanced-cli = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.41.0";
+    version = "0.41.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.41.0/app-release-unsigned.apk";
-      sha256 = "sha256-gZwIDO9os6UbP17h/u48c1FHnJeP1sNHWSr0awBMWsI=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.41.1/app-release-unsigned.apk";
+      sha256 = "sha256-NLT6LDpKQOnRQ1YjaxmUtmfYg2i5bDs1kF3td5g9Jic=";
     };
   };
   revanced-patches-jar = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7cecf32d9ef8279bc5feca8670a38e860f3faa19";
+    version = "f5b7c34c8112f234dc1e114a62f11428e3fb5e82";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7cecf32d9ef8279bc5feca8670a38e860f3faa19";
+      rev = "f5b7c34c8112f234dc1e114a62f11428e3fb5e82";
       fetchSubmodules = false;
-      sha256 = "sha256-6C7F29muCs1rGZHiVm9XHKacpJQi1JT38pLMCh/Vano=";
+      sha256 = "sha256-0ZDidqoLzsHcUNSkIETpJQd72cD1P2UdXdSIsRmNQf8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-7cecf32d9ef8279bc5feca8670a38e860f3faa19/Cargo.lock;
+      lockFile = ./rustdesk-f5b7c34c8112f234dc1e114a62f11428e3fb5e82/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
