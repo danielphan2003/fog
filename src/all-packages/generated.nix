@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "daf6d603338b80be39e22a441c2e7bf34f8141a4";
+    version = "d8aca2f5350d2f7b136f84e47c3125ae7e0267b7";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "daf6d603338b80be39e22a441c2e7bf34f8141a4";
+      rev = "d8aca2f5350d2f7b136f84e47c3125ae7e0267b7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8BB8wYYlkAA7lBtCjQhcyywJADQ8gossdWUk7mJQO6g=";
+      sha256 = "sha256-0fdBWfJ0ogzacNuIzWG/Ve67y3ETRh7Q7xIYTG9Uhiw=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c08218301b613f93c480e7d9d32600cdf4a41bfe";
+    version = "ef3eb37c7f2cdbbab23e611aedc438c317463ef8";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c08218301b613f93c480e7d9d32600cdf4a41bfe";
+      rev = "ef3eb37c7f2cdbbab23e611aedc438c317463ef8";
       fetchSubmodules = false;
-      sha256 = "sha256-i+zwVn3qwRF++O+by70dr0MXakUhyeX1zCeYTVJG3o0=";
+      sha256 = "sha256-wfhZ//vxhipvF9n9f+s4W0Ql35B5IsLiO5cYAqbxIDQ=";
     });
   };
   ibus = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.41.1";
+    version = "0.41.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.41.1/app-release-unsigned.apk";
-      sha256 = "sha256-NLT6LDpKQOnRQ1YjaxmUtmfYg2i5bDs1kF3td5g9Jic=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.41.2/app-release-unsigned.apk";
+      sha256 = "sha256-JOMAhbOrVKAbGCAf0LL9aqt6zCfMtqqzwKShI2gka6E=";
     };
   };
   revanced-patches-jar = {
