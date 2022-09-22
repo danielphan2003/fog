@@ -5670,8 +5670,8 @@ fetch.url = "https://open-vsx.org/api/a5hk/vscode-scilla/0.2.1/file/a5hk.vscode-
 passthru = { publisher = "a5hk", name = "vscode-scilla", description = "Syntax highlighting for Scilla", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly]
-src.manual = "3.0.6" # launchdarklyofficial.launchdarkly
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.0.6/file/launchdarklyofficial.launchdarkly-3.0.6.vsix" # launchdarklyofficial.launchdarkly
+src.manual = "3.9.0" # launchdarklyofficial.launchdarkly
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.9.0/file/launchdarklyofficial.launchdarkly-3.9.0.vsix" # launchdarklyofficial.launchdarkly
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [MAKinteract-micro-bit-python]
@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1663337087" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663337087/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663337087.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "3.9.0" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.9.0/file/launchdarklyofficial.launchdarkly-3.9.0.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9085,8 +9085,8 @@ fetch.url = "https://open-vsx.org/api/CodeStream/codestream/14.1.0/file/CodeStre
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
-src.manual = "0.0.12" # jeanp413.open-remote-ssh
-fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.12/file/jeanp413.open-remote-ssh-0.0.12.vsix" # jeanp413.open-remote-ssh
+src.manual = "0.0.13" # jeanp413.open-remote-ssh
+fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.13/file/jeanp413.open-remote-ssh-0.0.13.vsix" # jeanp413.open-remote-ssh
 passthru = { publisher = "jeanp413", name = "open-remote-ssh", description = "Use any remote machine with a SSH server as your development environment.", license = "MIT" }
 
 [oraichain-cosmwasm-ide]
@@ -9435,8 +9435,8 @@ fetch.url = "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-
 passthru = { publisher = "dalirnet", name = "vue-sort", description = "Sort vue component", license = "MIT" }
 
 [CL-eide]
-src.manual = "3.9.0" # CL.eide
-fetch.url = "https://open-vsx.org/api/CL/eide/3.9.0/file/CL.eide-3.9.0.vsix" # CL.eide
+src.manual = "3.9.1" # CL.eide
+fetch.url = "https://open-vsx.org/api/CL/eide/3.9.1/file/CL.eide-3.9.1.vsix" # CL.eide
 passthru = { publisher = "CL", name = "eide", description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V", license = "MIT" }
 
 [dalirnet-doctypes]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1421" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1421/file/Prisma.prisma-insider-31.0.1421.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1423" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1423/file/Prisma.prisma-insider-31.0.1423.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9930,8 +9930,8 @@ fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKie
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
-src.manual = "0.13.68" # redhat.ansible
-fetch.url = "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible-0.13.68.vsix" # redhat.ansible
+src.manual = "0.14.71" # redhat.ansible
+fetch.url = "https://open-vsx.org/api/redhat/ansible/0.14.71/file/redhat.ansible-0.14.71.vsix" # redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
@@ -10635,5 +10635,6 @@ passthru = { publisher = "ms-python", name = "black-formatter", description = "F
 src.manual = "0.0.2" # abhatt-rh.snippets-for-asciidoc
 fetch.url = "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix" # abhatt-rh.snippets-for-asciidoc
 passthru = { publisher = "abhatt-rh", name = "snippets-for-asciidoc", description = "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.", license = "Apache-2.0" }
+
 
 

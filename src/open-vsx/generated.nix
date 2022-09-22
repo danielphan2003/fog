@@ -459,10 +459,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.9.0";
+    version = "3.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.9.0/file/CL.eide-3.9.0.vsix";
-      sha256 = "sha256-bCDh/U02PytU7qFBLZunWQqprqURvw7OOHZWkoVcxhA=";
+      url = "https://open-vsx.org/api/CL/eide/3.9.1/file/CL.eide-3.9.1.vsix";
+      sha256 = "sha256-gKzzwrhYpLn+KIuE7V7IcfT4ZCoVFLE9wcyBChY2+ZI=";
     };
     license = "MIT";
     name = "eide";
@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1421";
+    version = "31.0.1423";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1421/file/Prisma.prisma-insider-31.0.1421.vsix";
-      sha256 = "sha256-8hO2D0MFrv4MBN0vJx+G8amY4Sn7XvzhMwH4XmRpInc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1423/file/Prisma.prisma-insider-31.0.1423.vsix";
+      sha256 = "sha256-MkDTHaFrytivHPkIse3sbwqJvkIwbmK7C9ke7a68lpI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12171,10 +12171,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.12/file/jeanp413.open-remote-ssh-0.0.12.vsix";
-      sha256 = "sha256-rc3L2dDAV7pILRwdwTCXd12bAcFph/RC71aDYLB9XXE=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.13/file/jeanp413.open-remote-ssh-0.0.13.vsix";
+      sha256 = "sha256-5OgHiQ2+780NRHLikhaxp+Rv7MsCg8uC9411MfLD59g=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -13479,10 +13479,10 @@
   };
   launchdarklyofficial-launchdarkly = {
     pname = "launchdarklyofficial-launchdarkly";
-    version = "3.0.6";
+    version = "3.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.0.6/file/launchdarklyofficial.launchdarkly-3.0.6.vsix";
-      sha256 = "sha256-h9trwIr0l+Hghnz3chTOLRQbjFXJZIczNKu/axDarfQ=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.9.0/file/launchdarklyofficial.launchdarkly-3.9.0.vsix";
+      sha256 = "sha256-4GL/fEL+Ym5pX/cUb4w/rN2/jjLrPrAGjsH/vyGWN7g=";
     };
     license = "";
     name = "launchdarkly";
@@ -13491,10 +13491,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1663337087";
+    version = "3.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1663337087/file/launchdarklyofficial.launchdarkly-beta-2022.9.1663337087.vsix";
-      sha256 = "sha256-/I2FrxTuojSBbI4v0EJ0SbHPG0f47CMvFWQnBXcNDkM=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.9.0/file/launchdarklyofficial.launchdarkly-3.9.0.vsix";
+      sha256 = "sha256-4GL/fEL+Ym5pX/cUb4w/rN2/jjLrPrAGjsH/vyGWN7g=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -18111,10 +18111,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.68";
+    version = "0.14.71";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.68/file/redhat.ansible-0.13.68.vsix";
-      sha256 = "sha256-dFcXT9sDSdBf2wagSJwuWl2m/VBIAryJOdxI2tJYv0M=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.14.71/file/redhat.ansible-0.14.71.vsix";
+      sha256 = "sha256-M54KUc1vUC2U2LbFxsNbBCxyjGK6+j41QtdMEpo8fAY=";
     };
     license = "MIT";
     name = "ansible";
@@ -24603,10 +24603,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
