@@ -4155,10 +4155,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.5.3";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix";
-      sha256 = "sha256-/hOPYbx/HEv0EJGUKzlLiZ5QleaF5do9TEz0ZyyZFvQ=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.6.0/file/WatermelonTools.watermelon-tools-1.6.0.vsix";
+      sha256 = "sha256-IB5oiULbePGdaRWKtDLQRNf5yyQc7vLYFHi2omMZ85w=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -5669,8 +5669,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8631,10 +8631,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.35";
+    version = "0.5.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.35/file/digma.digma-0.5.35.vsix";
-      sha256 = "sha256-5hTLSxnJKI4HtJ7613SomXsf2Rp+oRUMhp5iM290ALw=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.36/file/digma.digma-0.5.36.vsix";
+      sha256 = "sha256-qBNUArGojcHwM6I19Y/4hfKhycC8p9zX5Pg8bEZUwl0=";
     };
     license = "MIT";
     name = "digma";
@@ -13155,10 +13155,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -24087,10 +24087,10 @@
   };
   yandeu-five-server = {
     pname = "yandeu-five-server";
-    version = "0.1.4";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix";
-      sha256 = "sha256-8KziXcWCGj/ujKqahcV+ezAi37bh/7bbTvHDZ2Hz1tA=";
+      url = "https://open-vsx.org/api/yandeu/five-server/0.1.8/file/yandeu.five-server-0.1.8.vsix";
+      sha256 = "sha256-fHeuEcTD63jpN4u4pH01VwQA/EjQpeK47cTFsMvnyxs=";
     };
     license = "";
     name = "five-server";

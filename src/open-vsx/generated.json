@@ -6586,11 +6586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/hOPYbx/HEv0EJGUKzlLiZ5QleaF5do9TEz0ZyyZFvQ=",
+            "sha256": "sha256-IB5oiULbePGdaRWKtDLQRNf5yyQc7vLYFHi2omMZ85w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix"
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.6.0/file/WatermelonTools.watermelon-tools-1.6.0.vsix"
         },
-        "version": "1.5.3"
+        "version": "1.6.0"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -8980,9 +8980,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -13673,11 +13673,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5hTLSxnJKI4HtJ7613SomXsf2Rp+oRUMhp5iM290ALw=",
+            "sha256": "sha256-qBNUArGojcHwM6I19Y/4hfKhycC8p9zX5Pg8bEZUwl0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.35/file/digma.digma-0.5.35.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.36/file/digma.digma-0.5.36.vsix"
         },
-        "version": "0.5.35"
+        "version": "0.5.36"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
@@ -20836,11 +20836,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -38145,11 +38145,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8KziXcWCGj/ujKqahcV+ezAi37bh/7bbTvHDZ2Hz1tA=",
+            "sha256": "sha256-fHeuEcTD63jpN4u4pH01VwQA/EjQpeK47cTFsMvnyxs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/yandeu/five-server/0.1.8/file/yandeu.five-server-0.1.8.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.8"
     },
     "yangshun-ys-vscode-extensions": {
         "cargoLocks": null,

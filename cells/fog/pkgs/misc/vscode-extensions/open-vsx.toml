@@ -7245,8 +7245,8 @@ fetch.url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.3/file/roipoussi
 passthru = { publisher = "roipoussiere", name = "cadquery", description = "Build parametric 2D/3D CAD models in VSCode with the CadQuery library.", license = "MIT" }
 
 [yandeu-five-server]
-src.manual = "0.1.4" # yandeu.five-server
-fetch.url = "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix" # yandeu.five-server
+src.manual = "0.1.8" # yandeu.five-server
+fetch.url = "https://open-vsx.org/api/yandeu/five-server/0.1.8/file/yandeu.five-server-0.1.8.vsix" # yandeu.five-server
 passthru = { publisher = "yandeu", name = "five-server", description = "A better Live Server with instant updates, highlights and PHP support.", license = "" }
 
 [redhat-vscode-openshift-connector]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8585,8 +8585,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.4/file/Turiiya.g
 passthru = { publisher = "Turiiya", name = "german-scroll", description = "Vim like scrolling that obeys to the rules. Preserves folds and respects scrollOff.", license = "MIT" }
 
 [WatermelonTools-watermelon-tools]
-src.manual = "1.5.3" # WatermelonTools.watermelon-tools
-fetch.url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix" # WatermelonTools.watermelon-tools
+src.manual = "1.6.0" # WatermelonTools.watermelon-tools
+fetch.url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.6.0/file/WatermelonTools.watermelon-tools-1.6.0.vsix" # WatermelonTools.watermelon-tools
 passthru = { publisher = "WatermelonTools", name = "watermelon-tools", description = "Watermelon, find all the historical context of your code", license = "See license.md (Apache)" }
 
 [webhint-vscode-webhint]
@@ -8645,8 +8645,8 @@ fetch.url = "https://open-vsx.org/api/pokey/parse-tree/0.23.0/file/pokey.parse-t
 passthru = { publisher = "pokey", name = "parse-tree", description = "Access document syntax using tree-sitter", license = "MIT" }
 
 [digma-digma]
-src.manual = "0.5.35" # digma.digma
-fetch.url = "https://open-vsx.org/api/digma/digma/0.5.35/file/digma.digma-0.5.35.vsix" # digma.digma
+src.manual = "0.5.36" # digma.digma
+fetch.url = "https://open-vsx.org/api/digma/digma/0.5.36/file/digma.digma-0.5.36.vsix" # digma.digma
 passthru = { publisher = "digma", name = "digma", description = "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon.", license = "MIT" }
 
 [quick-lint-quick-lint-js]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10635,6 +10635,7 @@ passthru = { publisher = "ms-python", name = "black-formatter", description = "F
 src.manual = "0.0.2" # abhatt-rh.snippets-for-asciidoc
 fetch.url = "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix" # abhatt-rh.snippets-for-asciidoc
 passthru = { publisher = "abhatt-rh", name = "snippets-for-asciidoc", description = "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.", license = "Apache-2.0" }
+
 
 
 
