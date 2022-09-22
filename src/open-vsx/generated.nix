@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1423";
+    version = "31.0.1424";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1423/file/Prisma.prisma-insider-31.0.1423.vsix";
-      sha256 = "sha256-MkDTHaFrytivHPkIse3sbwqJvkIwbmK7C9ke7a68lpI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1424/file/Prisma.prisma-insider-31.0.1424.vsix";
+      sha256 = "sha256-yAindEvJgJtAklo16bEw29tBQJVUln6Z4NYVdeTDHc0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -16419,10 +16419,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.23.0";
+    version = "17.23.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.23.0/file/nrwl.angular-console-17.23.0.vsix";
-      sha256 = "sha256-qNXpDNLA6UYVLVzKMru7IdG8ij5L+rtDrqJ1hhHvtO0=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.23.1/file/nrwl.angular-console-17.23.1.vsix";
+      sha256 = "sha256-HQXgz798Z1aR4o6sml9le0Nc+QpCuHIA9pE3JAqBmbI=";
     };
     license = "MIT";
     name = "angular-console";
@@ -24399,10 +24399,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.96";
+    version = "0.0.97";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.96/file/zardoy.zardoy-experiments-0.0.96.vsix";
-      sha256 = "sha256-nZGgoFexHAGY6nMqaLVc07bUh0pB2dhReK8i3COBEQ8=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.97/file/zardoy.zardoy-experiments-0.0.97.vsix";
+      sha256 = "sha256-k3JDXJqJsamSmCcTXoFRx9Obpj5F7j/pO5fzPjn0Z0g=";
     };
     license = "MIT";
     name = "zardoy-experiments";

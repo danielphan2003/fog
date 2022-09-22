@@ -5047,11 +5047,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MkDTHaFrytivHPkIse3sbwqJvkIwbmK7C9ke7a68lpI=",
+            "sha256": "sha256-yAindEvJgJtAklo16bEw29tBQJVUln6Z4NYVdeTDHc0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1423/file/Prisma.prisma-insider-31.0.1423.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1424/file/Prisma.prisma-insider-31.0.1424.vsix"
         },
-        "version": "31.0.1423"
+        "version": "31.0.1424"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -26004,11 +26004,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qNXpDNLA6UYVLVzKMru7IdG8ij5L+rtDrqJ1hhHvtO0=",
+            "sha256": "sha256-HQXgz798Z1aR4o6sml9le0Nc+QpCuHIA9pE3JAqBmbI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nrwl/angular-console/17.23.0/file/nrwl.angular-console-17.23.0.vsix"
+            "url": "https://open-vsx.org/api/nrwl/angular-console/17.23.1/file/nrwl.angular-console-17.23.1.vsix"
         },
-        "version": "17.23.0"
+        "version": "17.23.1"
     },
     "nullxception-cherry-theme": {
         "cargoLocks": null,
@@ -38639,11 +38639,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nZGgoFexHAGY6nMqaLVc07bUh0pB2dhReK8i3COBEQ8=",
+            "sha256": "sha256-k3JDXJqJsamSmCcTXoFRx9Obpj5F7j/pO5fzPjn0Z0g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.96/file/zardoy.zardoy-experiments-0.0.96.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.97/file/zardoy.zardoy-experiments-0.0.97.vsix"
         },
-        "version": "0.0.96"
+        "version": "0.0.97"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
