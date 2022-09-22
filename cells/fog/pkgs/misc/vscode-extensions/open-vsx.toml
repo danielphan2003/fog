@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9295,8 +9295,8 @@ fetch.url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.ag
 passthru = { publisher = "banacorn", name = "agda-mode", description = "agda-mode on vscode", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
-src.manual = "8.1.3096094" # eliostruyf.vscode-front-matter-beta
-fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3096094/file/eliostruyf.vscode-front-matter-beta-8.1.3096094.vsix" # eliostruyf.vscode-front-matter-beta
+src.manual = "8.1.3104462" # eliostruyf.vscode-front-matter-beta
+fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3104462/file/eliostruyf.vscode-front-matter-beta-8.1.3104462.vsix" # eliostruyf.vscode-front-matter-beta
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
@@ -9989,8 +9989,8 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 
 
 [arm-embedded-debug]
-src.manual = "0.2.0" # arm.embedded-debug
-fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.2.0/file/arm.embedded-debug-0.2.0.vsix" # arm.embedded-debug
+src.manual = "0.2.4" # arm.embedded-debug
+fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.2.4/file/arm.embedded-debug-0.2.4.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
 
 
@@ -10623,6 +10623,7 @@ passthru = { publisher = "Bito", name = "Bito-vscode-staging", description = "Co
 src.manual = "2022.4.0" # ms-python.black-formatter
 fetch.url = "https://open-vsx.org/api/ms-python/black-formatter/2022.4.0/file/ms-python.black-formatter-2022.4.0.vsix" # ms-python.black-formatter
 passthru = { publisher = "ms-python", name = "black-formatter", description = "Formatting support for python files using `black`.", license = "MIT" }
+
 
 
 
