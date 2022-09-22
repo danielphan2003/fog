@@ -4287,11 +4287,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cw56Q5y0C4JnFyd+etCS6MdlemMc0Bp4h2DisVhVBPc=",
+            "sha256": "sha256-BTfBATGIYS3vUVS3by4bF6XRnu7sExzu2FuL211IR7A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.2/file/ModyQyW.vscode-uni-app-schemas-0.8.2.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.3/file/ModyQyW.vscode-uni-app-schemas-0.8.3.vsix"
         },
-        "version": "0.8.2"
+        "version": "0.8.3"
     },
     "ModyQyW-vscode-uni-app-snippets": {
         "cargoLocks": null,
@@ -5047,11 +5047,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-si7f9vVOlYxxAPz9M9eu8C2LKKsglfwhIbgK3Bp2TD8=",
+            "sha256": "sha256-8hO2D0MFrv4MBN0vJx+G8amY4Sn7XvzhMwH4XmRpInc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1420/file/Prisma.prisma-insider-31.0.1420.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1421/file/Prisma.prisma-insider-31.0.1421.vsix"
         },
-        "version": "31.0.1420"
+        "version": "31.0.1421"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -14433,11 +14433,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=",
+            "sha256": "sha256-5Vu0XHF5i02FcIYzEDhZYq/qyU143wr19M+dkltsILs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3104462/file/eliostruyf.vscode-front-matter-beta-8.1.3104462.vsix"
         },
-        "version": "8.1.0"
+        "version": "8.1.3104462"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -15573,11 +15573,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/mATNn1K71AFtIPqoJOWt38QmK/CYWYL2Fw5797KAxI=",
+            "sha256": "sha256-z6UPXieV1JpDAqKGbmB+fHyUCA5+PUfr78pBPJxpVAs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.56/file/firsttris.vscode-jest-runner-0.4.56.vsix"
+            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.57/file/firsttris.vscode-jest-runner-0.4.57.vsix"
         },
-        "version": "0.4.56"
+        "version": "0.4.57"
     },
     "fivethree-vscode-hugo-snippets": {
         "cargoLocks": null,
@@ -20836,11 +20836,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -26004,11 +26004,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BvQMZB4983FyqtNVoMYENBR1ifiY/ZLyQ9UJaN8gThE=",
+            "sha256": "sha256-qNXpDNLA6UYVLVzKMru7IdG8ij5L+rtDrqJ1hhHvtO0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nrwl/angular-console/17.22.0/file/nrwl.angular-console-17.22.0.vsix"
+            "url": "https://open-vsx.org/api/nrwl/angular-console/17.23.0/file/nrwl.angular-console-17.23.0.vsix"
         },
-        "version": "17.22.0"
+        "version": "17.23.0"
     },
     "nullxception-cherry-theme": {
         "cargoLocks": null,
@@ -31856,9 +31856,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },

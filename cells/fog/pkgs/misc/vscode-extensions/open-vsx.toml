@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -4765,8 +4765,8 @@ fetch.url = "https://open-vsx.org/api/emeraldwalk/RunOnSave/0.1.0/file/emeraldwa
 passthru = { publisher = "emeraldwalk", name = "RunOnSave", description = "Run commands when a file is saved in vscode.", license = "Apache-2.0" }
 
 [nrwl-angular-console]
-src.manual = "17.22.0" # nrwl.angular-console
-fetch.url = "https://open-vsx.org/api/nrwl/angular-console/17.22.0/file/nrwl.angular-console-17.22.0.vsix" # nrwl.angular-console
+src.manual = "17.23.0" # nrwl.angular-console
+fetch.url = "https://open-vsx.org/api/nrwl/angular-console/17.23.0/file/nrwl.angular-console-17.23.0.vsix" # nrwl.angular-console
 passthru = { publisher = "nrwl", name = "angular-console", description = "Nx Console for Visual Studio Code", license = "MIT" }
 
 [zardoy-npm-rapid-ready]
@@ -4860,8 +4860,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.10/file/cloudstud
 passthru = { publisher = "cloudstudio", name = "metawork", description = "Cloud Studio 多人协作套件，让开发更高效！Cloud Studio MetaWork makes development more effective.", license = "MIT" }
 
 [firsttris-vscode-jest-runner]
-src.manual = "0.4.56" # firsttris.vscode-jest-runner
-fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.56/file/firsttris.vscode-jest-runner-0.4.56.vsix" # firsttris.vscode-jest-runner
+src.manual = "0.4.57" # firsttris.vscode-jest-runner
+fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.57/file/firsttris.vscode-jest-runner-0.4.57.vsix" # firsttris.vscode-jest-runner
 passthru = { publisher = "firsttris", name = "vscode-jest-runner", description = "Simple way to run or debug a single (or multiple) tests from context-menu", license = "MIT" }
 
 [ms-toolsai-vscode-jupyter-powertoys]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9295,8 +9295,8 @@ fetch.url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.ag
 passthru = { publisher = "banacorn", name = "agda-mode", description = "agda-mode on vscode", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
-src.manual = "8.1.0" # eliostruyf.vscode-front-matter-beta
-fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix" # eliostruyf.vscode-front-matter-beta
+src.manual = "8.1.3104462" # eliostruyf.vscode-front-matter-beta
+fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3104462/file/eliostruyf.vscode-front-matter-beta-8.1.3104462.vsix" # eliostruyf.vscode-front-matter-beta
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
@@ -9535,8 +9535,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.7/fi
 passthru = { publisher = "ModyQyW", name = "vscode-uni-cloud-snippets", description = "uni-cloud 基本能力代码片段。", license = "MIT" }
 
 [ModyQyW-vscode-uni-app-schemas]
-src.manual = "0.8.2" # ModyQyW.vscode-uni-app-schemas
-fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.2/file/ModyQyW.vscode-uni-app-schemas-0.8.2.vsix" # ModyQyW.vscode-uni-app-schemas
+src.manual = "0.8.3" # ModyQyW.vscode-uni-app-schemas
+fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.3/file/ModyQyW.vscode-uni-app-schemas-0.8.3.vsix" # ModyQyW.vscode-uni-app-schemas
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-schemas", description = "校验 uni-app 中的 androidPrivacy.json、pages.json 和 manifest.json 格式。", license = "MIT" }
 
 [ModyQyW-vscode-uni-app-snippets]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1420" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1420/file/Prisma.prisma-insider-31.0.1420.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1421" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1421/file/Prisma.prisma-insider-31.0.1421.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10635,4 +10635,5 @@ passthru = { publisher = "ms-python", name = "black-formatter", description = "F
 src.manual = "0.0.2" # abhatt-rh.snippets-for-asciidoc
 fetch.url = "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix" # abhatt-rh.snippets-for-asciidoc
 passthru = { publisher = "abhatt-rh", name = "snippets-for-asciidoc", description = "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.", license = "Apache-2.0" }
+
 
