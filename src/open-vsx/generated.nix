@@ -3627,10 +3627,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.2017";
+    version = "2022.9.2211";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2017/file/Slint.slint-nightly-2022.9.2017.vsix";
-      sha256 = "sha256-2XSP2+odPlCb/43PxTVO9uzUQMFJH9TzRPTxNTOZN1k=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2211/file/Slint.slint-nightly-2022.9.2211.vsix";
+      sha256 = "sha256-zwhDv9VmLmvjm6J+Dn1WIbWy14IpOV0hPuhnRoSzYto=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4632,6 +4632,18 @@
     name = "abelfubu-dark";
     description = "A super dark theme!";
     publisher = "abelfubu";
+  };
+  abhatt-rh-snippets-for-asciidoc = {
+    pname = "abhatt-rh-snippets-for-asciidoc";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix";
+      sha256 = "sha256-rpMXCP/f69yxJPUvoT3Fkx4Xmjdzh4lpOWi9Jme91+o=";
+    };
+    license = "Apache-2.0";
+    name = "snippets-for-asciidoc";
+    description = "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.";
+    publisher = "abhatt-rh";
   };
   abusaidm-html-snippets = {
     pname = "abusaidm-html-snippets";
@@ -5657,8 +5669,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -6075,10 +6087,10 @@
   };
   avast-threatlabs-yara-vscode-yls = {
     pname = "avast-threatlabs-yara-vscode-yls";
-    version = "0.1.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/0.1.0/file/avast-threatlabs-yara.vscode-yls-0.1.0.vsix";
-      sha256 = "sha256-wetBj6cMAii4nR5ksYUUkW0L0SUXLwKGUv3vslcNWtc=";
+      url = "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/1.1.0/file/avast-threatlabs-yara.vscode-yls-1.1.0.vsix";
+      sha256 = "sha256-z1vWe7kbORxlytTSrG5CiUgk6hLiaN3mJg9fGD+iu7w=";
     };
     license = "MIT";
     name = "vscode-yls";
@@ -9087,10 +9099,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "8.0.1";
+    version = "8.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.1/file/eliostruyf.vscode-front-matter-8.0.1.vsix";
-      sha256 = "sha256-t1vqWb4VMP1xT58QXEWGXdsHJ9kI5sHIQqTPuVXVDME=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix";
+      sha256 = "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=";
     };
     license = "MIT";
     name = "vscode-front-matter";
@@ -9099,10 +9111,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3104462";
+    version = "8.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3104462/file/eliostruyf.vscode-front-matter-beta-8.1.3104462.vsix";
-      sha256 = "sha256-5Vu0XHF5i02FcIYzEDhZYq/qyU143wr19M+dkltsILs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix";
+      sha256 = "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -18123,10 +18135,10 @@
   };
   redhat-atlasmap-viewer = {
     pname = "redhat-atlasmap-viewer";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.1/file/redhat.atlasmap-viewer-0.2.1.vsix";
-      sha256 = "sha256-3Bvo0H++RdS2MZmxuPId8qkmic1S53/1EkDkBmhmyy4=";
+      url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.2/file/redhat.atlasmap-viewer-0.2.2.vsix";
+      sha256 = "sha256-4ZN3P1fVXa1oBUczNuqPHlUKObPIXrnU9UK2emBgHY8=";
     };
     license = "Apache-2.0";
     name = "atlasmap-viewer";
@@ -19299,10 +19311,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.1.3";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.3/file/sebastianbille.iam-legend-1.1.3.vsix";
-      sha256 = "sha256-+1Grkgzrjr+HPg8t6zAbDZGits4LIQVVaV68ZOH0O5Y=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.4/file/sebastianbille.iam-legend-1.1.4.vsix";
+      sha256 = "sha256-8CtrPXIVrb7KUZxNbCDI2jzzw2oGg1hIn3DEWyEq7ZE=";
     };
     license = "MIT";
     name = "iam-legend";

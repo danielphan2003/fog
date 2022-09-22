@@ -5750,11 +5750,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2XSP2+odPlCb/43PxTVO9uzUQMFJH9TzRPTxNTOZN1k=",
+            "sha256": "sha256-zwhDv9VmLmvjm6J+Dn1WIbWy14IpOV0hPuhnRoSzYto=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2017/file/Slint.slint-nightly-2022.9.2017.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2211/file/Slint.slint-nightly-2022.9.2211.vsix"
         },
-        "version": "2022.9.2017"
+        "version": "2022.9.2211"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -7332,6 +7332,25 @@
             "url": "https://open-vsx.org/api/abelfubu/abelfubu-dark/1.3.4/file/abelfubu.abelfubu-dark-1.3.4.vsix"
         },
         "version": "1.3.4"
+    },
+    "abhatt-rh-snippets-for-asciidoc": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "abhatt-rh-snippets-for-asciidoc",
+        "passthru": {
+            "description": "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.",
+            "license": "Apache-2.0",
+            "name": "snippets-for-asciidoc",
+            "publisher": "abhatt-rh"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-rpMXCP/f69yxJPUvoT3Fkx4Xmjdzh4lpOWi9Jme91+o=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix"
+        },
+        "version": "0.0.2"
     },
     "abusaidm-html-snippets": {
         "cargoLocks": null,
@@ -8961,9 +8980,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -9626,11 +9645,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wetBj6cMAii4nR5ksYUUkW0L0SUXLwKGUv3vslcNWtc=",
+            "sha256": "sha256-z1vWe7kbORxlytTSrG5CiUgk6hLiaN3mJg9fGD+iu7w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/0.1.0/file/avast-threatlabs-yara.vscode-yls-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/1.1.0/file/avast-threatlabs-yara.vscode-yls-1.1.0.vsix"
         },
-        "version": "0.1.0"
+        "version": "1.1.0"
     },
     "bach-bahk-vs-code-snippets": {
         "cargoLocks": null,
@@ -14395,11 +14414,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t1vqWb4VMP1xT58QXEWGXdsHJ9kI5sHIQqTPuVXVDME=",
+            "sha256": "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.1/file/eliostruyf.vscode-front-matter-8.0.1.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix"
         },
-        "version": "8.0.1"
+        "version": "8.1.0"
     },
     "eliostruyf-vscode-front-matter-beta": {
         "cargoLocks": null,
@@ -14414,11 +14433,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5Vu0XHF5i02FcIYzEDhZYq/qyU143wr19M+dkltsILs=",
+            "sha256": "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3104462/file/eliostruyf.vscode-front-matter-beta-8.1.3104462.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix"
         },
-        "version": "8.1.3104462"
+        "version": "8.1.0"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -28702,11 +28721,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3Bvo0H++RdS2MZmxuPId8qkmic1S53/1EkDkBmhmyy4=",
+            "sha256": "sha256-4ZN3P1fVXa1oBUczNuqPHlUKObPIXrnU9UK2emBgHY8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.1/file/redhat.atlasmap-viewer-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/redhat/atlasmap-viewer/0.2.2/file/redhat.atlasmap-viewer-0.2.2.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "redhat-fabric8-analytics": {
         "cargoLocks": null,
@@ -30564,11 +30583,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+1Grkgzrjr+HPg8t6zAbDZGits4LIQVVaV68ZOH0O5Y=",
+            "sha256": "sha256-8CtrPXIVrb7KUZxNbCDI2jzzw2oGg1hIn3DEWyEq7ZE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.3/file/sebastianbille.iam-legend-1.1.3.vsix"
+            "url": "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.4/file/sebastianbille.iam-legend-1.1.4.vsix"
         },
-        "version": "1.1.3"
+        "version": "1.1.4"
     },
     "seneka-test": {
         "cargoLocks": null,
