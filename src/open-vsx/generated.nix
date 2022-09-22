@@ -5669,8 +5669,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -7983,10 +7983,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.7";
+    version = "0.13.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.7/file/d-biehl.robotcode-0.13.7.vsix";
-      sha256 = "sha256-FM3HMBkX2pMZtiNGx6R5j8UvfYmtlH7sy7Jui0R++ps=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.9/file/d-biehl.robotcode-0.13.9.vsix";
+      sha256 = "sha256-3Y6RP7HgzhJ6EyLJC5Mde3YwVC+GYyRt0kgv7yQfInE=";
     };
     license = "Apache-2.0";
     name = "robotcode";
