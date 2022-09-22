@@ -1076,14 +1076,14 @@
   };
   snui = {
     pname = "snui";
-    version = "5ef7cf86dad5735f3108dd5247618d6ee9990acd";
+    version = "d404865ced5b04b9f7274749bde2cd19f0271de4";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "5ef7cf86dad5735f3108dd5247618d6ee9990acd";
+      rev = "d404865ced5b04b9f7274749bde2cd19f0271de4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-+1W7dE1Quaqk78017scyaWSTAvkoAE1A6B5QIpF02sU=";
+      sha256 = "sha256-AwL+cUHwmKyzpZXiLapy1Nl4ZpF0zm/GRu5o9C8UkPU=";
     };
   };
   spicetify-cli = {
@@ -1326,13 +1326,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "8dd2256d8513e6165a7993c3e03ed95344959e7b";
+    version = "7dfcd8f6e49243fd08001d2b472560357d8c84cf";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "8dd2256d8513e6165a7993c3e03ed95344959e7b";
+      rev = "7dfcd8f6e49243fd08001d2b472560357d8c84cf";
       fetchSubmodules = false;
-      sha256 = "sha256-ZXakq/Qg/lMPAj9vQN2kgvNc2A8wZ58kcoh8xod1dj0=";
+      sha256 = "sha256-3upY6p10j0uwJLTlo7RxNiHmcnJxZU+cJqm9Hd72mOA=";
     });
   };
   wgcf = {
