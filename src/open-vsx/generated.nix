@@ -10649,8 +10649,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10661,8 +10661,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13455,10 +13455,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13527,10 +13527,10 @@
   };
   learn-pack-learnpack-vscode = {
     pname = "learn-pack-learnpack-vscode";
-    version = "1.0.12";
+    version = "1.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.12/file/learn-pack.learnpack-vscode-1.0.12.vsix";
-      sha256 = "sha256-gBrPw2VWirUGyIKruBKhWvpwTUd3h/uqU4FL0ivARfA=";
+      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.14/file/learn-pack.learnpack-vscode-1.0.14.vsix";
+      sha256 = "sha256-jod7E/WumWUUenwhTjm9OPaCaxQ1nGL5dQ6UC7GrI3I=";
     };
     license = "MIT";
     name = "learnpack-vscode";
@@ -15951,10 +15951,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.32";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.32/file/mutable-ai.mutable-ai-1.1.32.vsix";
-      sha256 = "sha256-k06wzGD4CDtXy8f7HTSRWRkAQb+AFA3gVQKfZLjCsoY=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.2.1/file/mutable-ai.mutable-ai-1.2.1.vsix";
+      sha256 = "sha256-jNUl5PorTrjIkphE1AF3zG9JStSivls0V/q2eXQ5WHU=";
     };
     license = "";
     name = "mutable-ai";
@@ -19575,10 +19575,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.17.5";
+    version = "0.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.5/file/shufo.vscode-blade-formatter-0.17.5.vsix";
-      sha256 = "sha256-VzYny6yi/rsanu8fuoQ9RnpeiUru7rSywkXhho10m+I=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.0/file/shufo.vscode-blade-formatter-0.18.0.vsix";
+      sha256 = "sha256-vQYVLjekTeI8yxIF36oVET6j4KSUMbYy/ITr0Be4rTk=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -20105,8 +20105,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4035,8 +4035,8 @@ fetch.url = "https://open-vsx.org/api/felixfbecker/php-intellisense/2.3.14/file/
 passthru = { publisher = "felixfbecker", name = "php-intellisense", description = "Advanced Autocompletion and Refactoring support for PHP", license = "MIT" }
 
 [learn-pack-learnpack-vscode]
-src.manual = "1.0.12" # learn-pack.learnpack-vscode
-fetch.url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.12/file/learn-pack.learnpack-vscode-1.0.12.vsix" # learn-pack.learnpack-vscode
+src.manual = "1.0.14" # learn-pack.learnpack-vscode
+fetch.url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.14/file/learn-pack.learnpack-vscode-1.0.14.vsix" # learn-pack.learnpack-vscode
 passthru = { publisher = "learn-pack", name = "learnpack-vscode", description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.", license = "MIT" }
 
 [garrit-p5canvas]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -9660,8 +9660,8 @@ fetch.url = "https://open-vsx.org/api/devfactory/multispace/0.0.80/file/devfacto
 passthru = { publisher = "devfactory", name = "multispace", description = "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment", license = "MIT" }
 
 [mutable-ai-mutable-ai]
-src.manual = "1.1.32" # mutable-ai.mutable-ai
-fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.32/file/mutable-ai.mutable-ai-1.1.32.vsix" # mutable-ai.mutable-ai
+src.manual = "1.2.1" # mutable-ai.mutable-ai
+fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.2.1/file/mutable-ai.mutable-ai-1.2.1.vsix" # mutable-ai.mutable-ai
 passthru = { publisher = "mutable-ai", name = "mutable-ai", description = "AI Accelerated Programming", license = "" }
 
 [stateful-issue-explorer]
@@ -9875,8 +9875,8 @@ fetch.url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.3/fil
 passthru = { publisher = "NomicFoundation", name = "hardhat-solidity", description = "Solidity and Hardhat support for Visual Studio Code", license = "MIT" }
 
 [shufo-vscode-blade-formatter]
-src.manual = "0.17.5" # shufo.vscode-blade-formatter
-fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.5/file/shufo.vscode-blade-formatter-0.17.5.vsix" # shufo.vscode-blade-formatter
+src.manual = "0.18.0" # shufo.vscode-blade-formatter
+fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.0/file/shufo.vscode-blade-formatter-0.18.0.vsix" # shufo.vscode-blade-formatter
 passthru = { publisher = "shufo", name = "vscode-blade-formatter", description = "Laravel Blade formatter for VSCode", license = "MIT" }
 
 [Catppuccin-catppuccin-vsc]
@@ -10623,6 +10623,7 @@ passthru = { publisher = "Bito", name = "Bito-vscode-staging", description = "Co
 src.manual = "2022.4.0" # ms-python.black-formatter
 fetch.url = "https://open-vsx.org/api/ms-python/black-formatter/2022.4.0/file/ms-python.black-formatter-2022.4.0.vsix" # ms-python.black-formatter
 passthru = { publisher = "ms-python", name = "black-formatter", description = "Formatting support for python files using `black`.", license = "MIT" }
+
 
 
 
