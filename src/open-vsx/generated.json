@@ -474,6 +474,25 @@
         },
         "version": "1.0.111-35"
     },
+    "Boa-boalang": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Boa-boalang",
+        "passthru": {
+            "description": "This extension provides syntax highlighting for Boa source queries and support for submitting them to the Boa infrastructure.",
+            "license": "Apache-2.0",
+            "name": "boalang",
+            "publisher": "Boa"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ufE0Lj/6DjdGpQlnHpOo/dkdY61fjRA+d/sbaMKlwyg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Boa/boalang/0.2.4/file/Boa.boalang-0.2.4.vsix"
+        },
+        "version": "0.2.4"
+    },
     "Brenek-kotlin-for-frc": {
         "cargoLocks": null,
         "extract": null,
@@ -2045,9 +2064,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5066,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9kUXtxO8RgubVeLRaLSyQdFC146BAvs3ArhbfZrnj54=",
+            "sha256": "sha256-06+cqQFdIAtuItbLctBd45PLRTTvjr2oBmjksXaIw04=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1428/file/Prisma.prisma-insider-31.0.1428.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1429/file/Prisma.prisma-insider-31.0.1429.vsix"
         },
-        "version": "31.0.1428"
+        "version": "31.0.1429"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -23654,6 +23673,25 @@
         },
         "version": "2.1.5"
     },
+    "moshe-vscode-case-search": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "moshe-vscode-case-search",
+        "passthru": {
+            "description": "Search multiple case types of an input",
+            "license": "MIT",
+            "name": "vscode-case-search",
+            "publisher": "moshe"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-RzJ7JIWVIs9II4kpRTtacCtugTyOTgxdZDimUGg0okQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/moshe/vscode-case-search/0.0.6/file/moshe.vscode-case-search-0.0.6.vsix"
+        },
+        "version": "0.0.6"
+    },
     "moshfeu-compare-folders": {
         "cargoLocks": null,
         "extract": null,
@@ -38696,11 +38734,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k3JDXJqJsamSmCcTXoFRx9Obpj5F7j/pO5fzPjn0Z0g=",
+            "sha256": "sha256-9E7o+F3oo2Xtv2O7IHq9yyEdhTWd4M5A/TRnK9PVHz8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.97/file/zardoy.zardoy-experiments-0.0.97.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.98/file/zardoy.zardoy-experiments-0.0.98.vsix"
         },
-        "version": "0.0.97"
+        "version": "0.0.98"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

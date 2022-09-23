@@ -301,6 +301,18 @@
     description = "Collaborate in your code \8212 anywhere, anytime";
     publisher = "Bito";
   };
+  Boa-boalang = {
+    pname = "Boa-boalang";
+    version = "0.2.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Boa/boalang/0.2.4/file/Boa.boalang-0.2.4.vsix";
+      sha256 = "sha256-ufE0Lj/6DjdGpQlnHpOo/dkdY61fjRA+d/sbaMKlwyg=";
+    };
+    license = "Apache-2.0";
+    name = "boalang";
+    description = "This extension provides syntax highlighting for Boa source queries and support for submitting them to the Boa infrastructure.";
+    publisher = "Boa";
+  };
   Brenek-kotlin-for-frc = {
     pname = "Brenek-kotlin-for-frc";
     version = "2022.7.1";
@@ -1289,8 +1301,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3195,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1428";
+    version = "31.0.1429";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1428/file/Prisma.prisma-insider-31.0.1428.vsix";
-      sha256 = "sha256-9kUXtxO8RgubVeLRaLSyQdFC146BAvs3ArhbfZrnj54=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1429/file/Prisma.prisma-insider-31.0.1429.vsix";
+      sha256 = "sha256-06+cqQFdIAtuItbLctBd45PLRTTvjr2oBmjksXaIw04=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14941,6 +14953,18 @@
     description = "TestMyCode extension for Visual Studio Code";
     publisher = "moocfi";
   };
+  moshe-vscode-case-search = {
+    pname = "moshe-vscode-case-search";
+    version = "0.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/moshe/vscode-case-search/0.0.6/file/moshe.vscode-case-search-0.0.6.vsix";
+      sha256 = "sha256-RzJ7JIWVIs9II4kpRTtacCtugTyOTgxdZDimUGg0okQ=";
+    };
+    license = "MIT";
+    name = "vscode-case-search";
+    description = "Search multiple case types of an input";
+    publisher = "moshe";
+  };
   moshfeu-compare-folders = {
     pname = "moshfeu-compare-folders";
     version = "0.22.3";
@@ -24435,10 +24459,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.97";
+    version = "0.0.98";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.97/file/zardoy.zardoy-experiments-0.0.97.vsix";
-      sha256 = "sha256-k3JDXJqJsamSmCcTXoFRx9Obpj5F7j/pO5fzPjn0Z0g=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.98/file/zardoy.zardoy-experiments-0.0.98.vsix";
+      sha256 = "sha256-9E7o+F3oo2Xtv2O7IHq9yyEdhTWd4M5A/TRnK9PVHz8=";
     };
     license = "MIT";
     name = "zardoy-experiments";
