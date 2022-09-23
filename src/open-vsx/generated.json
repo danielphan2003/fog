@@ -2121,11 +2121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UffyEaNfbBL3yRNCNxzCvpuRME+pcccaBQCBHv+p7kA=",
+            "sha256": "sha256-FPQlu+iglEUB0mFhPDypIbRABjnfTfZse6eWSNpKzHM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.51.0/file/GitLab.gitlab-workflow-3.51.0.vsix"
+            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.52.0/file/GitLab.gitlab-workflow-3.52.0.vsix"
         },
-        "version": "3.51.0"
+        "version": "3.52.0"
     },
     "Google-cros-ide": {
         "cargoLocks": null,
@@ -4615,6 +4615,25 @@
             "url": "https://open-vsx.org/api/OlegKunitsyn/gnucobol-debug/2.31.37/file/OlegKunitsyn.gnucobol-debug-2.31.37.vsix"
         },
         "version": "2.31.37"
+    },
+    "Oracle-oracledevtools": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Oracle-oracledevtools",
+        "passthru": {
+            "description": "Develop SQL and PL/SQL with Oracle Database and Oracle Autonomous Database",
+            "license": "",
+            "name": "oracledevtools",
+            "publisher": "Oracle"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-6v+vl9pW9hCWC9a+H6A8+Cw226Ni386BUyoAqkFtPm0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Oracle/oracledevtools/21.5.0/file/Oracle.oracledevtools-21.5.0.vsix"
+        },
+        "version": "21.5.0"
     },
     "Orta-vscode-jest": {
         "cargoLocks": null,
@@ -8980,9 +8999,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -14414,11 +14433,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=",
+            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
         },
-        "version": "8.1.0"
+        "version": "8.1.1"
     },
     "eliostruyf-vscode-front-matter-beta": {
         "cargoLocks": null,
@@ -14433,11 +14452,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lr58brPp5y8WdJ6y4kwvhahjw+xiSlOqPtOZLEPe0og=",
+            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3111016/file/eliostruyf.vscode-front-matter-beta-8.1.3111016.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
         },
-        "version": "8.1.3111016"
+        "version": "8.1.1"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -20836,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -30056,6 +30075,25 @@
             "url": "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.4/file/rvest.vs-code-prettier-eslint-5.0.4.vsix"
         },
         "version": "5.0.4"
+    },
+    "rxliuli-joplin-vscode-plugin": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "rxliuli-joplin-vscode-plugin",
+        "passthru": {
+            "description": "joplin's vscode integration",
+            "license": "MIT",
+            "name": "joplin-vscode-plugin",
+            "publisher": "rxliuli"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-arYr1atYMKkzwBoRkoYn3zrwCUspqa5NeOps2J0qC8I=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.7.12/file/rxliuli.joplin-vscode-plugin-0.7.12.vsix"
+        },
+        "version": "0.7.12"
     },
     "ryanluker-vscode-coverage-gutters": {
         "cargoLocks": null,

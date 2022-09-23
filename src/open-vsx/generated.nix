@@ -1335,10 +1335,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.51.0";
+    version = "3.52.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.51.0/file/GitLab.gitlab-workflow-3.51.0.vsix";
-      sha256 = "sha256-UffyEaNfbBL3yRNCNxzCvpuRME+pcccaBQCBHv+p7kA=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.52.0/file/GitLab.gitlab-workflow-3.52.0.vsix";
+      sha256 = "sha256-FPQlu+iglEUB0mFhPDypIbRABjnfTfZse6eWSNpKzHM=";
     };
     license = "MIT";
     name = "gitlab-workflow";
@@ -2916,6 +2916,18 @@
     name = "gnucobol-debug";
     description = "Debug or execute COBOL code. No mainframe required.";
     publisher = "OlegKunitsyn";
+  };
+  Oracle-oracledevtools = {
+    pname = "Oracle-oracledevtools";
+    version = "21.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Oracle/oracledevtools/21.5.0/file/Oracle.oracledevtools-21.5.0.vsix";
+      sha256 = "sha256-6v+vl9pW9hCWC9a+H6A8+Cw226Ni386BUyoAqkFtPm0=";
+    };
+    license = "";
+    name = "oracledevtools";
+    description = "Develop SQL and PL/SQL with Oracle Database and Oracle Autonomous Database";
+    publisher = "Oracle";
   };
   Orta-vscode-jest = {
     pname = "Orta-vscode-jest";
@@ -5669,8 +5681,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -9099,10 +9111,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "8.1.0";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix";
-      sha256 = "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter";
@@ -9111,10 +9123,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3111016";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3111016/file/eliostruyf.vscode-front-matter-beta-8.1.3111016.vsix";
-      sha256 = "sha256-lr58brPp5y8WdJ6y4kwvhahjw+xiSlOqPtOZLEPe0og=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13155,10 +13167,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -18984,6 +18996,18 @@
     name = "vs-code-prettier-eslint";
     description = "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package";
     publisher = "rvest";
+  };
+  rxliuli-joplin-vscode-plugin = {
+    pname = "rxliuli-joplin-vscode-plugin";
+    version = "0.7.12";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.7.12/file/rxliuli.joplin-vscode-plugin-0.7.12.vsix";
+      sha256 = "sha256-arYr1atYMKkzwBoRkoYn3zrwCUspqa5NeOps2J0qC8I=";
+    };
+    license = "MIT";
+    name = "joplin-vscode-plugin";
+    description = "joplin's vscode integration";
+    publisher = "rxliuli";
   };
   ryanluker-vscode-coverage-gutters = {
     pname = "ryanluker-vscode-coverage-gutters";
