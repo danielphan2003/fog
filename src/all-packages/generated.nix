@@ -125,13 +125,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "f8e0dfd486f80a9ee255d4384d4787a9e1a0d3e2";
+    version = "4a140ea5ea681e7a0f62d8ef050b0ed1b905cc68";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "f8e0dfd486f80a9ee255d4384d4787a9e1a0d3e2";
+      rev = "4a140ea5ea681e7a0f62d8ef050b0ed1b905cc68";
       fetchSubmodules = false;
-      sha256 = "sha256-cXIoVP8i/ar4/AFXlv7r4DjzHKRqgF8+rlo+yUuGAe4=";
+      sha256 = "sha256-OAd8yEcVsIhwwgy8k2mDP2YhB4YIfQgahn2T9mjkLkM=";
     });
   };
   awestore = {
@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "ec11392d12102af52c5d39aa92372cba68cd3dc0";
+    version = "8b49c1055f42853bb969525552b38b14c79505d3";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "ec11392d12102af52c5d39aa92372cba68cd3dc0";
+      rev = "8b49c1055f42853bb969525552b38b14c79505d3";
       fetchSubmodules = false;
-      sha256 = "sha256-VxpaJddGkWibjTf0cZ5XGstYoiNCAiMP0Q1nj8ZJYbA=";
+      sha256 = "sha256-xXBATzFAa/nnxqR4l1dDSjI6oH3X/KdkqhPU3ZYzWco=";
     });
   };
   caddy = {
@@ -935,26 +935,26 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.11.1";
+    version = "2.11.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.1/revanced-cli-2.11.1-all.jar";
-      sha256 = "sha256-iWb5KC1qF2BPvE4iJj1fdffoahstq33Kn3JCi1Nt1yw=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.2/revanced-cli-2.11.2-all.jar";
+      sha256 = "sha256-L50y/IogbB+qiv9yg8QTQCYW0gPoDaWpFXpTxPZUlf4=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.41.2";
+    version = "0.42.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.41.2/app-release-unsigned.apk";
-      sha256 = "sha256-JOMAhbOrVKAbGCAf0LL9aqt6zCfMtqqzwKShI2gka6E=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.42.0/app-release-unsigned.apk";
+      sha256 = "sha256-Bxo5QRScA9Ged+KMw8s4k/EjAcPhY0Y3J3MPyG1QxKc=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.67.0";
+    version = "2.68.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.67.0/revanced-patches-2.67.0.jar";
-      sha256 = "sha256-NK1aZxfCGhRcCWWrtW77HvgEZs62tQiPwAANfWQboAw=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.68.0/revanced-patches-2.68.0.jar";
+      sha256 = "sha256-9OcJsoHY9Q7V2Ef4nrOYsnEok5aEYoqTSNviKDP22d0=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e789b2c3a84265d7cb7b23f71604392756024a6b";
+    version = "95a241bdf4e11b91ba823a95c5c11d75aef168a9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e789b2c3a84265d7cb7b23f71604392756024a6b";
+      rev = "95a241bdf4e11b91ba823a95c5c11d75aef168a9";
       fetchSubmodules = false;
-      sha256 = "sha256-qTYZgt9qI6JssEkKPh4LYbMUAZ2BiY3eHiCdxF85MQ8=";
+      sha256 = "sha256-GPkBZCzG+um9+kX7HLgv5XyS11Zh50nsqYIVYayYfzw=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e789b2c3a84265d7cb7b23f71604392756024a6b/Cargo.lock;
+      lockFile = ./rustdesk-95a241bdf4e11b91ba823a95c5c11d75aef168a9/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
