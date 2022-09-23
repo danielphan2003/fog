@@ -2045,9 +2045,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5047,11 +5047,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yAindEvJgJtAklo16bEw29tBQJVUln6Z4NYVdeTDHc0=",
+            "sha256": "sha256-hSQxzBLHiQsmQPJ7Z3Dy8CCxjKu1p9MpZNng3n0YIuk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1424/file/Prisma.prisma-insider-31.0.1424.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1425/file/Prisma.prisma-insider-31.0.1425.vsix"
         },
-        "version": "31.0.1424"
+        "version": "31.0.1425"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -19278,11 +19278,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5OgHiQ2+780NRHLikhaxp+Rv7MsCg8uC9411MfLD59g=",
+            "sha256": "sha256-cBPyVAg6KfFxuwJkSCaUcBaaq73CmSYSbNBIHFsKdTI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.13/file/jeanp413.open-remote-ssh-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.14/file/jeanp413.open-remote-ssh-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
@@ -29291,11 +29291,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1TGKrzcDLHtnvbAK6MYPCYAAH2IsupTRaJGKmc+0Gxc=",
+            "sha256": "sha256-BFhW4Ypkv2yb/Xv/XvvQ5tkKJ964+kO9m6zvWO8ga9o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.20/file/remcohaszing.schemastore-1.0.20.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.21/file/remcohaszing.schemastore-1.0.21.vsix"
         },
-        "version": "1.0.20"
+        "version": "1.0.21"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -31856,9 +31856,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },

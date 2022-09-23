@@ -1289,8 +1289,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1424";
+    version = "31.0.1425";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1424/file/Prisma.prisma-insider-31.0.1424.vsix";
-      sha256 = "sha256-yAindEvJgJtAklo16bEw29tBQJVUln6Z4NYVdeTDHc0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1425/file/Prisma.prisma-insider-31.0.1425.vsix";
+      sha256 = "sha256-hSQxzBLHiQsmQPJ7Z3Dy8CCxjKu1p9MpZNng3n0YIuk=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12171,10 +12171,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.13/file/jeanp413.open-remote-ssh-0.0.13.vsix";
-      sha256 = "sha256-5OgHiQ2+780NRHLikhaxp+Rv7MsCg8uC9411MfLD59g=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.14/file/jeanp413.open-remote-ssh-0.0.14.vsix";
+      sha256 = "sha256-cBPyVAg6KfFxuwJkSCaUcBaaq73CmSYSbNBIHFsKdTI=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -18495,10 +18495,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.20";
+    version = "1.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.20/file/remcohaszing.schemastore-1.0.20.vsix";
-      sha256 = "sha256-1TGKrzcDLHtnvbAK6MYPCYAAH2IsupTRaJGKmc+0Gxc=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.21/file/remcohaszing.schemastore-1.0.21.vsix";
+      sha256 = "sha256-BFhW4Ypkv2yb/Xv/XvvQ5tkKJ964+kO9m6zvWO8ga9o=";
     };
     license = "MIT";
     name = "schemastore";
@@ -20117,8 +20117,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
