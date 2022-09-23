@@ -3183,10 +3183,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1426";
+    version = "31.0.1427";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1426/file/Prisma.prisma-insider-31.0.1426.vsix";
-      sha256 = "sha256-TJM4TcP1c+6Nj1yqVxb96dhKnrS3K2ouDNlv0a3bxrc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1427/file/Prisma.prisma-insider-31.0.1427.vsix";
+      sha256 = "sha256-c7qfEGcourUhRP04X3Xdcr8gc3DcQ8IfKvE2+TBVzLY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5669,8 +5669,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8451,10 +8451,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.113.2";
+    version = "0.113.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.113.2/file/dendron.nightly-0.113.2.vsix";
-      sha256 = "sha256-yFWKLglLt2bGk/FGbVBRS0SEHre1M6f3IUG9Z7HVWjE=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.113.4/file/dendron.nightly-0.113.4.vsix";
+      sha256 = "sha256-kuxxhND9DFanODyGYLjCowU3xP0oToEJGmGtLdfdwjc=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -9111,10 +9111,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.0";
+    version = "8.1.3111016";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.0/file/eliostruyf.vscode-front-matter-8.1.0.vsix";
-      sha256 = "sha256-PMh6Renk2PI3RRRPQMy1/MdMdcvaznW77bqQXpB0bE4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3111016/file/eliostruyf.vscode-front-matter-beta-8.1.3111016.vsix";
+      sha256 = "sha256-lr58brPp5y8WdJ6y4kwvhahjw+xiSlOqPtOZLEPe0og=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10673,8 +10673,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13467,10 +13467,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -24603,10 +24603,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.6/file/znck.vue-0.11.6.vsix";
+      sha256 = "sha256-HJzARoDGvxts3Uozrfz53aKQbxgzVC9TYCQmRp5RAPc=";
     };
     license = "MIT";
     name = "vue-language-features";
