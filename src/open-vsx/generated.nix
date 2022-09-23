@@ -3207,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1429";
+    version = "31.0.1431";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1429/file/Prisma.prisma-insider-31.0.1429.vsix";
-      sha256 = "sha256-06+cqQFdIAtuItbLctBd45PLRTTvjr2oBmjksXaIw04=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1431/file/Prisma.prisma-insider-31.0.1431.vsix";
+      sha256 = "sha256-Qa1KU3wtowZFWlnEd8NLexfy9KrukobE4ftpK9/+eG0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8007,10 +8007,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.9";
+    version = "0.13.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.9/file/d-biehl.robotcode-0.13.9.vsix";
-      sha256 = "sha256-3Y6RP7HgzhJ6EyLJC5Mde3YwVC+GYyRt0kgv7yQfInE=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.10/file/d-biehl.robotcode-0.13.10.vsix";
+      sha256 = "sha256-cO636piF7zbca3kCuJO/B/peWi+bRuiF36q6PCddb+M=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -9135,10 +9135,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3112154";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
-      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13491,10 +13491,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -24327,10 +24327,10 @@
   };
   zardoy-extra-commands = {
     pname = "zardoy-extra-commands";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.13/file/zardoy.extra-commands-0.0.13.vsix";
-      sha256 = "sha256-WVudEYJ22nW9iBxO7wejAOqEPtgRhudXjZJFrrX6KZ4=";
+      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.14/file/zardoy.extra-commands-0.0.14.vsix";
+      sha256 = "sha256-O7lGx+Jm3i8bHA4gqZ9RUOm6wF6GoQc4TuT+jSWv0XI=";
     };
     license = "MIT";
     name = "extra-commands";

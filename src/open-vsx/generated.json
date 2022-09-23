@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-06+cqQFdIAtuItbLctBd45PLRTTvjr2oBmjksXaIw04=",
+            "sha256": "sha256-Qa1KU3wtowZFWlnEd8NLexfy9KrukobE4ftpK9/+eG0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1429/file/Prisma.prisma-insider-31.0.1429.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1431/file/Prisma.prisma-insider-31.0.1431.vsix"
         },
-        "version": "31.0.1429"
+        "version": "31.0.1431"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12685,11 +12685,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3Y6RP7HgzhJ6EyLJC5Mde3YwVC+GYyRt0kgv7yQfInE=",
+            "sha256": "sha256-cO636piF7zbca3kCuJO/B/peWi+bRuiF36q6PCddb+M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.9/file/d-biehl.robotcode-0.13.9.vsix"
+            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.10/file/d-biehl.robotcode-0.13.10.vsix"
         },
-        "version": "0.13.9"
+        "version": "0.13.10"
     },
     "d-koppenhagen-vscode-code-review": {
         "cargoLocks": null,
@@ -14471,11 +14471,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=",
+            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
         },
-        "version": "8.1.3112154"
+        "version": "8.1.1"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -21368,11 +21368,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -38525,11 +38525,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WVudEYJ22nW9iBxO7wejAOqEPtgRhudXjZJFrrX6KZ4=",
+            "sha256": "sha256-O7lGx+Jm3i8bHA4gqZ9RUOm6wF6GoQc4TuT+jSWv0XI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/extra-commands/0.0.13/file/zardoy.extra-commands-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/zardoy/extra-commands/0.0.14/file/zardoy.extra-commands-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "zardoy-fix-all-json": {
         "cargoLocks": null,
