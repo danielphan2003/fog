@@ -3450,8 +3450,8 @@ fetch.url = "https://open-vsx.org/api/peterj/proto/0.0.3/file/peterj.proto-0.0.3
 passthru = { publisher = "peterj", name = "proto", description = "Protobuf support (.proto file syntax highlighting)", license = "MIT" }
 
 [styled-components-vscode-styled-components]
-src.manual = "1.7.4" # styled-components.vscode-styled-components
-fetch.url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.4/file/styled-components.vscode-styled-components-1.7.4.vsix" # styled-components.vscode-styled-components
+src.manual = "1.7.5" # styled-components.vscode-styled-components
+fetch.url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.5/file/styled-components.vscode-styled-components-1.7.5.vsix" # styled-components.vscode-styled-components
 passthru = { publisher = "styled-components", name = "vscode-styled-components", description = "Syntax highlighting for styled-components", license = "MIT" }
 
 [ms-vscode-vscode-github-issue-notebooks]
@@ -4735,8 +4735,8 @@ fetch.url = "https://open-vsx.org/api/TI/devspacesplus/0.0.70/file/TI.devspacesp
 passthru = { publisher = "TI", name = "devspacesplus", description = "Given the URLs open devspaces", license = "MIT" }
 
 [nonoroazoro-syncing]
-src.manual = "3.3.1" # nonoroazoro.syncing
-fetch.url = "https://open-vsx.org/api/nonoroazoro/syncing/3.3.1/file/nonoroazoro.syncing-3.3.1.vsix" # nonoroazoro.syncing
+src.manual = "3.3.2" # nonoroazoro.syncing
+fetch.url = "https://open-vsx.org/api/nonoroazoro/syncing/3.3.2/file/nonoroazoro.syncing-3.3.2.vsix" # nonoroazoro.syncing
 passthru = { publisher = "nonoroazoro", name = "syncing", description = "Synchronize all of your VSCode settings across multiple devices.", license = "(MIT AND 996ICU)" }
 
 [ms-vscode-mono-debug]
@@ -10635,6 +10635,7 @@ passthru = { publisher = "ms-python", name = "black-formatter", description = "F
 src.manual = "0.0.2" # abhatt-rh.snippets-for-asciidoc
 fetch.url = "https://open-vsx.org/api/abhatt-rh/snippets-for-asciidoc/0.0.2/file/abhatt-rh.snippets-for-asciidoc-0.0.2.vsix" # abhatt-rh.snippets-for-asciidoc
 passthru = { publisher = "abhatt-rh", name = "snippets-for-asciidoc", description = "Snippets for AsciiDoc documents useful for authoring content for Red Hat related technologies.", license = "Apache-2.0" }
+
 
 
 

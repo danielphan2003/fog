@@ -16383,10 +16383,10 @@
   };
   nonoroazoro-syncing = {
     pname = "nonoroazoro-syncing";
-    version = "3.3.1";
+    version = "3.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.3.1/file/nonoroazoro.syncing-3.3.1.vsix";
-      sha256 = "sha256-P8d0dFWfPa2zZy1bNypALn/wc55kSfWcPrR7WP/kFa0=";
+      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.3.2/file/nonoroazoro.syncing-3.3.2.vsix";
+      sha256 = "sha256-9utyl9zCg7LejQ90UZH9AMDXzrRt8L+Ec4RRBwObBEU=";
     };
     license = "(MIT AND 996ICU)";
     name = "syncing";
@@ -20547,10 +20547,10 @@
   };
   styled-components-vscode-styled-components = {
     pname = "styled-components-vscode-styled-components";
-    version = "1.7.4";
+    version = "1.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.4/file/styled-components.vscode-styled-components-1.7.4.vsix";
-      sha256 = "sha256-GjSNVPjUWKb1T+7LR+GrNsEv5xg/fzAnOtjCFvumrVI=";
+      url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.5/file/styled-components.vscode-styled-components-1.7.5.vsix";
+      sha256 = "sha256-kSmFmmFCcwFMKLk7Nt16XAoQYCBCrqRZWGxB9wSWPnw=";
     };
     license = "MIT";
     name = "vscode-styled-components";
