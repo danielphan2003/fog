@@ -8980,9 +8980,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -20836,11 +20836,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -21330,11 +21330,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -21886,6 +21886,25 @@
             "url": "https://open-vsx.org/api/lokalise/i18n-ally/2.8.1/file/lokalise.i18n-ally-2.8.1.vsix"
         },
         "version": "2.8.1"
+    },
+    "lolow-gams": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "lolow-gams",
+        "passthru": {
+            "description": "GAMS language",
+            "license": "Apache-2.0",
+            "name": "gams",
+            "publisher": "lolow"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-PtXnWPBSensM5JL9OOUWpkvY9/89jIrahJTfo6YKbLg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/lolow/gams/0.1.1/file/lolow.gams-0.1.1.vsix"
+        },
+        "version": "0.1.1"
     },
     "lonefy-vscode-JS-CSS-HTML-formatter": {
         "cargoLocks": null,
