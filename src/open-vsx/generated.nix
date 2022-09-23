@@ -3207,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1431";
+    version = "31.0.1433";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1431/file/Prisma.prisma-insider-31.0.1431.vsix";
-      sha256 = "sha256-Qa1KU3wtowZFWlnEd8NLexfy9KrukobE4ftpK9/+eG0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1433/file/Prisma.prisma-insider-31.0.1433.vsix";
+      sha256 = "sha256-8S3nouv9spZNEvQFBCjt4P1bKDt57N2luHKdMv+gUmM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -9135,10 +9135,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.1";
+    version = "8.1.3112154";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
-      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
+      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10709,8 +10709,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -11919,10 +11919,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.5";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.5/file/iterative.dvc-0.4.5.vsix";
-      sha256 = "sha256-JWOQm57Ks70fKAi6d5Zf1lsfL3U325lHw7mSBriltXg=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.6/file/iterative.dvc-0.4.6.vsix";
+      sha256 = "sha256-5sarE6MSV6A0Rq83v3Qn9jANNK0ARvo+Fw7HVhiy8QY=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -16467,10 +16467,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.23.1";
+    version = "17.23.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.23.1/file/nrwl.angular-console-17.23.1.vsix";
-      sha256 = "sha256-HQXgz798Z1aR4o6sml9le0Nc+QpCuHIA9pE3JAqBmbI=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.23.2/file/nrwl.angular-console-17.23.2.vsix";
+      sha256 = "sha256-Q56J3h9pJKm8gvS87Vt6LmJ7y9ljQmpbgR20cTbOoeo=";
     };
     license = "MIT";
     name = "angular-console";
