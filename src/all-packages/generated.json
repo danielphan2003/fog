@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "cd93bdc0583e28b3627e02903a8c1788ca6fa027",
-            "sha256": "sha256-tO9sUNFHDPIEU0UbTORutxC1iwez+INm+W6QOpvB6Mw=",
+            "rev": "08ccc59e3c3eccb46e1f179dd63df77fb909bee5",
+            "sha256": "sha256-MT45o7tmmAMwB1Gej9+t/noqEPW3KCMbBAtNHjdGgxg=",
             "type": "github"
         },
-        "version": "cd93bdc0583e28b3627e02903a8c1788ca6fa027"
+        "version": "08ccc59e3c3eccb46e1f179dd63df77fb909bee5"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2WTyb0CXPBb2c8qYmDuGNCVYLYE3DNXDQsVjY53dUlA=",
+            "sha256": "sha256-NK1aZxfCGhRcCWWrtW77HvgEZs62tQiPwAANfWQboAw=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.66.2/revanced-patches-2.66.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.67.0/revanced-patches-2.67.0.jar"
         },
-        "version": "2.66.2"
+        "version": "2.67.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
