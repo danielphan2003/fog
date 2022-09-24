@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8S3nouv9spZNEvQFBCjt4P1bKDt57N2luHKdMv+gUmM=",
+            "sha256": "sha256-E22+KBaL9tp4VU5evgS4CUvXYIgoQKOsClXGx1f1YJM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1433/file/Prisma.prisma-insider-31.0.1433.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1434/file/Prisma.prisma-insider-31.0.1434.vsix"
         },
-        "version": "31.0.1433"
+        "version": "31.0.1434"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -16789,11 +16789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K9mSMjHQryeegiu7oMvOn6DUSuUXtF8mdWKDg78E8V8=",
+            "sha256": "sha256-Ek5UBSBDrkaODNSleguPg63ZdYn/inPFhcDwtJZTpZw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.18.1/file/golf1052.base16-generator-1.18.1.vsix"
+            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.19.1/file/golf1052.base16-generator-1.19.1.vsix"
         },
-        "version": "1.18.1"
+        "version": "1.19.1"
     },
     "golf1052-code-sync": {
         "cargoLocks": null,
@@ -31248,11 +31248,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -31970,9 +31970,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
