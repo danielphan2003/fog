@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
-      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix";
+      sha256 = "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -1815,10 +1815,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "7.1.0";
+    version = "7.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.1.0/file/Ionide.Ionide-fsharp-7.1.0.vsix";
-      sha256 = "sha256-atwoJsfB9chtb7Ho1Hj5tGIkEzek3WvDJ96ZdBhCn7w=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.0/file/Ionide.Ionide-fsharp-7.2.0.vsix";
+      sha256 = "sha256-0dsf26WQm5nXUODuD0iRZ4ISlLQuG3ffJYkq+JphNU4=";
     };
     license = "MIT";
     name = "Ionide-fsharp";
@@ -13191,10 +13191,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";

@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=",
+            "sha256": "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix"
         },
         "version": "23.0.10"
     },
@@ -2881,11 +2881,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-atwoJsfB9chtb7Ho1Hj5tGIkEzek3WvDJ96ZdBhCn7w=",
+            "sha256": "sha256-0dsf26WQm5nXUODuD0iRZ4ISlLQuG3ffJYkq+JphNU4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.1.0/file/Ionide.Ionide-fsharp-7.1.0.vsix"
+            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.0/file/Ionide.Ionide-fsharp-7.2.0.vsix"
         },
-        "version": "7.1.0"
+        "version": "7.2.0"
     },
     "IronGeek-vscode-darklight": {
         "cargoLocks": null,
@@ -20893,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
