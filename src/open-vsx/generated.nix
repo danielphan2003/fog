@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix";
-      sha256 = "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
+      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -19743,10 +19743,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24687,10 +24687,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.6";
+    version = "0.11.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.6/file/znck.vue-0.11.6.vsix";
-      sha256 = "sha256-HJzARoDGvxts3Uozrfz53aKQbxgzVC9TYCQmRp5RAPc=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.7/file/znck.vue-language-features-0.11.7.vsix";
+      sha256 = "sha256-r+mHAZtli+1AzIFFwM1BqF6hE0NZNV9YKttfJ0M58Ww=";
     };
     license = "MIT";
     name = "vue-language-features";
