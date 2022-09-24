@@ -10395,10 +10395,10 @@
   };
   gera2ld-ipfs-editor-vscode = {
     pname = "gera2ld-ipfs-editor-vscode";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.3/file/gera2ld.ipfs-editor-vscode-0.1.3.vsix";
-      sha256 = "sha256-BY1vqt8lUDTvgwzXLWG8intjJJ8279yoXyn0jNBavFo=";
+      url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.4/file/gera2ld.ipfs-editor-vscode-0.1.4.vsix";
+      sha256 = "sha256-xvPpyxAg++X3u1ipA2AGpyycOicyderqgTwjAgpU3FM=";
     };
     license = "MIT";
     name = "ipfs-editor-vscode";
@@ -18183,10 +18183,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.14.72";
+    version = "0.14.73";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.14.72/file/redhat.ansible-0.14.72.vsix";
-      sha256 = "sha256-PLl452Sh/JzpsF+uNYUZwTgjQjoDmzIVvXwAXHgT9U0=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.14.73/file/redhat.ansible-0.14.73.vsix";
+      sha256 = "sha256-VJ2j68zWi0cua6KQB0gfMZOx3C8yI47zEm9JTfZJbZs=";
     };
     license = "MIT";
     name = "ansible";
