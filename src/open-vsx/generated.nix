@@ -4335,10 +4335,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.16.9";
+    version = "9.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.16.9/file/YXL.cloudmusic-9.16.9.vsix";
-      sha256 = "sha256-veHhQVGWFREMtl9EfD8gnspeWtQilbN8PCbVDWOE480=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.17.0/file/YXL.cloudmusic-9.17.0.vsix";
+      sha256 = "sha256-+V3JarTxIK40s5f9ml146DFek2sP47Acr5xP1bYqZS4=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -8487,10 +8487,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.113.4";
+    version = "0.113.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.113.4/file/dendron.nightly-0.113.4.vsix";
-      sha256 = "sha256-kuxxhND9DFanODyGYLjCowU3xP0oToEJGmGtLdfdwjc=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.113.5/file/dendron.nightly-0.113.5.vsix";
+      sha256 = "sha256-34CcFbkIk1R2X1dwy1u7BIMWIN65Kirtd90VtIkMS1E=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10709,8 +10709,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13395,10 +13395,10 @@
   };
   kuba-p-theme-pink-candy = {
     pname = "kuba-p-theme-pink-candy";
-    version = "1.3.4";
+    version = "1.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kuba-p/theme-pink-candy/1.3.4/file/kuba-p.theme-pink-candy-1.3.4.vsix";
-      sha256 = "sha256-+XE+k049JeFq21aVf4ubYEE5tqIS0zJTcFtDgYoV+VU=";
+      url = "https://open-vsx.org/api/kuba-p/theme-pink-candy/1.3.5/file/kuba-p.theme-pink-candy-1.3.5.vsix";
+      sha256 = "sha256-EBaMcDRN4ISeOPSEwl9ah3NrlN24gJZJBHtFAdPUdgE=";
     };
     license = "MIT";
     name = "theme-pink-candy";
@@ -17535,10 +17535,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.444";
+    version = "0.26.445";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.444/file/pokey.cursorless-0.26.444.vsix";
-      sha256 = "sha256-UVJKUDyT8MmnORuGkzIWaXTLCgwZDFy7CHgWWpAislI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.445/file/pokey.cursorless-0.26.445.vsix";
+      sha256 = "sha256-sZTsXQVbvMTpyixwz4ZxTRXD3p8U9CYW1FqLc9/qwgQ=";
     };
     license = "MIT";
     name = "cursorless";
