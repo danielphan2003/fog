@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-b2b6707f2ea5b79d8068ee5ff957220c77e8af66/Cargo.lock",
+                "./asusctl-c968dce009cf98473352c4eb67e6b2f45c23142d/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-+5J4JmoVNir8GMb3Gz4xap9uvMQlvIJKJNsvxEQnRUk="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b2b6707f2ea5b79d8068ee5ff957220c77e8af66",
-            "sha256": "sha256-KCfqnIwHybhG0sXuluUjBRmasA2vlMk44FuginuPiuM=",
+            "rev": "c968dce009cf98473352c4eb67e6b2f45c23142d",
+            "sha256": "sha256-Kz/33XNPjfcUKCTk3AopKCBSNJQ80h614PbrltXGuXw=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "b2b6707f2ea5b79d8068ee5ff957220c77e8af66"
+        "version": "c968dce009cf98473352c4eb67e6b2f45c23142d"
     },
     "avizo": {
         "cargoLocks": null,
@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "0225204b4d52106da01569b775ca71e0bf6ee9c3",
-            "sha256": "sha256-uiilC6ClzIywtDxy2vKv1opo/PO8UueqR5VSqfBj8bc=",
+            "rev": "ee144ccb2b5642f1eb96c136530fbabe12b5b900",
+            "sha256": "sha256-KHCtzZRbiaNcY1zSXs3Ijr5Igf69e6omUTdH99aDfaw=",
             "type": "github"
         },
-        "version": "0225204b4d52106da01569b775ca71e0bf6ee9c3"
+        "version": "ee144ccb2b5642f1eb96c136530fbabe12b5b900"
     },
     "cinny-bin": {
         "cargoLocks": null,

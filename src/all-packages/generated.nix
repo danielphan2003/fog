@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "b2b6707f2ea5b79d8068ee5ff957220c77e8af66";
+    version = "c968dce009cf98473352c4eb67e6b2f45c23142d";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "b2b6707f2ea5b79d8068ee5ff957220c77e8af66";
+      rev = "c968dce009cf98473352c4eb67e6b2f45c23142d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-KCfqnIwHybhG0sXuluUjBRmasA2vlMk44FuginuPiuM=";
+      sha256 = "sha256-Kz/33XNPjfcUKCTk3AopKCBSNJQ80h614PbrltXGuXw=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-b2b6707f2ea5b79d8068ee5ff957220c77e8af66/Cargo.lock;
+      lockFile = ./asusctl-c968dce009cf98473352c4eb67e6b2f45c23142d/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-+5J4JmoVNir8GMb3Gz4xap9uvMQlvIJKJNsvxEQnRUk=";
       };
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "0225204b4d52106da01569b775ca71e0bf6ee9c3";
+    version = "ee144ccb2b5642f1eb96c136530fbabe12b5b900";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "0225204b4d52106da01569b775ca71e0bf6ee9c3";
+      rev = "ee144ccb2b5642f1eb96c136530fbabe12b5b900";
       fetchSubmodules = false;
-      sha256 = "sha256-uiilC6ClzIywtDxy2vKv1opo/PO8UueqR5VSqfBj8bc=";
+      sha256 = "sha256-KHCtzZRbiaNcY1zSXs3Ijr5Igf69e6omUTdH99aDfaw=";
     });
   };
   cinny-bin = {
