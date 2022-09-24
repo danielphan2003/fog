@@ -1301,8 +1301,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
-      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
+      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -8019,10 +8019,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.10";
+    version = "0.13.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.10/file/d-biehl.robotcode-0.13.10.vsix";
-      sha256 = "sha256-cO636piF7zbca3kCuJO/B/peWi+bRuiF36q6PCddb+M=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.11/file/d-biehl.robotcode-0.13.11.vsix";
+      sha256 = "sha256-GkUL0NcdlraGecPP15CzkwMn1wSXGMTe2WaDpO8dgA4=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -9147,10 +9147,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3112154";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
-      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9975,10 +9975,10 @@
   };
   foretag-frontend-toolkit = {
     pname = "foretag-frontend-toolkit";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.6/file/foretag.frontend-toolkit-0.1.6.vsix";
-      sha256 = "sha256-Beapqdv+N+5FTV13e7D4xVjrOItDpEBDMAhuZsHC0qs=";
+      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.7/file/foretag.frontend-toolkit-0.1.7.vsix";
+      sha256 = "sha256-FkH8iQbVLt6boRvaQ0JT983FeHSMdU4Hxn8pkqxdn5o=";
     };
     license = "";
     name = "frontend-toolkit";
@@ -12135,10 +12135,10 @@
   };
   jbenden-c-cpp-flylint = {
     pname = "jbenden-c-cpp-flylint";
-    version = "1.11.0";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.11.0/file/jbenden.c-cpp-flylint-1.11.0.vsix";
-      sha256 = "sha256-pkBYvGu1WJVRS2l4snwzTaaiQVXWCo1UCigx8PHW00s=";
+      url = "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.12.0/file/jbenden.c-cpp-flylint-1.12.0.vsix";
+      sha256 = "sha256-j5a/zt67BUnLPVq/2Eed8iIbsDNFHq4x7qtBNQkFsgs=";
     };
     license = "MIT";
     name = "c-cpp-flylint";
@@ -24483,10 +24483,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.98";
+    version = "0.0.99";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.98/file/zardoy.zardoy-experiments-0.0.98.vsix";
-      sha256 = "sha256-9E7o+F3oo2Xtv2O7IHq9yyEdhTWd4M5A/TRnK9PVHz8=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.99/file/zardoy.zardoy-experiments-0.0.99.vsix";
+      sha256 = "sha256-zmyWlV+nvgtQywcfn3P/Qhu1ZK6XIukzsRqy4XzWPEc=";
     };
     license = "MIT";
     name = "zardoy-experiments";

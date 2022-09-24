@@ -2064,9 +2064,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
+            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -12704,11 +12704,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cO636piF7zbca3kCuJO/B/peWi+bRuiF36q6PCddb+M=",
+            "sha256": "sha256-GkUL0NcdlraGecPP15CzkwMn1wSXGMTe2WaDpO8dgA4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.10/file/d-biehl.robotcode-0.13.10.vsix"
+            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.11/file/d-biehl.robotcode-0.13.11.vsix"
         },
-        "version": "0.13.10"
+        "version": "0.13.11"
     },
     "d-koppenhagen-vscode-code-review": {
         "cargoLocks": null,
@@ -14490,11 +14490,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=",
+            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
         },
-        "version": "8.1.3112154"
+        "version": "8.1.1"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -15801,11 +15801,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Beapqdv+N+5FTV13e7D4xVjrOItDpEBDMAhuZsHC0qs=",
+            "sha256": "sha256-FkH8iQbVLt6boRvaQ0JT983FeHSMdU4Hxn8pkqxdn5o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.6/file/foretag.frontend-toolkit-0.1.6.vsix"
+            "url": "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.7/file/foretag.frontend-toolkit-0.1.7.vsix"
         },
-        "version": "0.1.6"
+        "version": "0.1.7"
     },
     "foretag-rust-toolkit": {
         "cargoLocks": null,
@@ -19221,11 +19221,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pkBYvGu1WJVRS2l4snwzTaaiQVXWCo1UCigx8PHW00s=",
+            "sha256": "sha256-j5a/zt67BUnLPVq/2Eed8iIbsDNFHq4x7qtBNQkFsgs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.11.0/file/jbenden.c-cpp-flylint-1.11.0.vsix"
+            "url": "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.12.0/file/jbenden.c-cpp-flylint-1.12.0.vsix"
         },
-        "version": "1.11.0"
+        "version": "1.12.0"
     },
     "jburz2001-vnv-snippets": {
         "cargoLocks": null,
@@ -38772,11 +38772,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9E7o+F3oo2Xtv2O7IHq9yyEdhTWd4M5A/TRnK9PVHz8=",
+            "sha256": "sha256-zmyWlV+nvgtQywcfn3P/Qhu1ZK6XIukzsRqy4XzWPEc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.98/file/zardoy.zardoy-experiments-0.0.98.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.99/file/zardoy.zardoy-experiments-0.0.99.vsix"
         },
-        "version": "0.0.98"
+        "version": "0.0.99"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
