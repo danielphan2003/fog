@@ -1301,8 +1301,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3651,10 +3651,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.2214";
+    version = "2022.9.2317";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2214/file/Slint.slint-nightly-2022.9.2214.vsix";
-      sha256 = "sha256-i8wp1dCLEiYtj1BLo/v3IWX4zdIWz3TY8cKECAJ1xQ4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2317/file/Slint.slint-nightly-2022.9.2317.vsix";
+      sha256 = "sha256-OSXprFN7I/Xl80MPjcUf2gVihedRl5ZjHrmGOjP3F9k=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -10697,8 +10697,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10721,8 +10721,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
+      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13392,6 +13392,18 @@
     name = "webview-sample";
     description = "Testing A Webview API Sample";
     publisher = "krishnaVamsi";
+  };
+  kuba-p-theme-pink-candy = {
+    pname = "kuba-p-theme-pink-candy";
+    version = "1.3.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kuba-p/theme-pink-candy/1.3.4/file/kuba-p.theme-pink-candy-1.3.4.vsix";
+      sha256 = "sha256-+XE+k049JeFq21aVf4ubYEE5tqIS0zJTcFtDgYoV+VU=";
+    };
+    license = "MIT";
+    name = "theme-pink-candy";
+    description = "A vivid colour scheme with a pink accent, in both light and dark variants.";
+    publisher = "kuba-p";
   };
   kube-42header = {
     pname = "kube-42header";
@@ -18171,10 +18183,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.14.71";
+    version = "0.14.72";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.14.71/file/redhat.ansible-0.14.71.vsix";
-      sha256 = "sha256-M54KUc1vUC2U2LbFxsNbBCxyjGK6+j41QtdMEpo8fAY=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.14.72/file/redhat.ansible-0.14.72.vsix";
+      sha256 = "sha256-PLl452Sh/JzpsF+uNYUZwTgjQjoDmzIVvXwAXHgT9U0=";
     };
     license = "MIT";
     name = "ansible";
