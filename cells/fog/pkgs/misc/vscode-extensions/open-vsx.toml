@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7545,8 +7545,8 @@ fetch.url = "https://open-vsx.org/api/armandphilippot/coldark/1.2.11/file/armand
 passthru = { publisher = "armandphilippot", name = "coldark", description = "A blue-grey theme with light & dark versions.", license = "MIT" }
 
 [zokugun-zokugun-theme]
-src.manual = "0.6.0" # zokugun.zokugun-theme
-fetch.url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.0/file/zokugun.zokugun-theme-0.6.0.vsix" # zokugun.zokugun-theme
+src.manual = "0.6.1" # zokugun.zokugun-theme
+fetch.url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.1/file/zokugun.zokugun-theme-0.6.1.vsix" # zokugun.zokugun-theme
 passthru = { publisher = "zokugun", name = "zokugun-theme", description = "Zokugun Themes for Visual Studio Code", license = "MIT" }
 
 [mattpocock-ts-error-translator]
@@ -9295,8 +9295,8 @@ fetch.url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.ag
 passthru = { publisher = "banacorn", name = "agda-mode", description = "agda-mode on vscode", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
-src.manual = "8.1.1" # eliostruyf.vscode-front-matter-beta
-fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix" # eliostruyf.vscode-front-matter-beta
+src.manual = "8.1.3112154" # eliostruyf.vscode-front-matter-beta
+fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix" # eliostruyf.vscode-front-matter-beta
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
@@ -10688,5 +10688,6 @@ passthru = { publisher = "claui", name = "pagan", description = "Support for the
 src.manual = "1.3.5" # kuba-p.theme-pink-candy
 fetch.url = "https://open-vsx.org/api/kuba-p/theme-pink-candy/1.3.5/file/kuba-p.theme-pink-candy-1.3.5.vsix" # kuba-p.theme-pink-candy
 passthru = { publisher = "kuba-p", name = "theme-pink-candy", description = "A vivid colour scheme with a pink accent, in both light and dark variants.", license = "MIT" }
+
 
 
