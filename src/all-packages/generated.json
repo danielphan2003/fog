@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1f5634b5e6ee2089735204d497f399e12503e840/Cargo.lock",
+                "./rustdesk-f6410ba61b9f2a75910d71d3d5a2962e9010d70b/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1f5634b5e6ee2089735204d497f399e12503e840",
-            "sha256": "sha256-GrqIMCIuvUl30SuRo6v9y3o6BpvDdgI/+nx+wYnbEYc=",
+            "rev": "f6410ba61b9f2a75910d71d3d5a2962e9010d70b",
+            "sha256": "sha256-oWzhJSdLTBDUQJkeVR2CdE6gkFYLjHLJhIsf78jlFjY=",
             "type": "github"
         },
-        "version": "1f5634b5e6ee2089735204d497f399e12503e840"
+        "version": "f6410ba61b9f2a75910d71d3d5a2962e9010d70b"
     },
     "rustdesk-server": {
         "cargoLocks": {
