@@ -9018,9 +9018,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -14490,11 +14490,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=",
+            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
         },
-        "version": "8.1.3112154"
+        "version": "8.1.1"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -26042,11 +26042,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eq7H5O5DjlC89g4Ai41xM1vfT6u0tIO9dt7Fn3LoPmw=",
+            "sha256": "sha256-nZ68H//96GkDf8xp38vaUIG5BR4okf81M0QhDsvE5Dk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.3/file/nokxs.iobroker-javascript-1.1.3.vsix"
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.4/file/nokxs.iobroker-javascript-1.1.4.vsix"
         },
-        "version": "1.1.3"
+        "version": "1.1.4"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
@@ -34573,11 +34573,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zPdnSmb6NUDfOsv8ZwFBXw0sM/qHAtE0T4cCab61zZM=",
+            "sha256": "sha256-A0bGZFWQe7GvipPapIQ5p8HbbZyzEaIPtGUm18jbQB4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/commands/1.4.0/file/usernamehw.commands-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/commands/1.5.0/file/usernamehw.commands-1.5.0.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.5.0"
     },
     "usernamehw-errorlens": {
         "cargoLocks": null,

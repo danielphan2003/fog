@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -9147,10 +9147,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3112154";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
-      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -16443,10 +16443,10 @@
   };
   nokxs-iobroker-javascript = {
     pname = "nokxs-iobroker-javascript";
-    version = "1.1.3";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.3/file/nokxs.iobroker-javascript-1.1.3.vsix";
-      sha256 = "sha256-eq7H5O5DjlC89g4Ai41xM1vfT6u0tIO9dt7Fn3LoPmw=";
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.4/file/nokxs.iobroker-javascript-1.1.4.vsix";
+      sha256 = "sha256-nZ68H//96GkDf8xp38vaUIG5BR4okf81M0QhDsvE5Dk=";
     };
     license = "MIT";
     name = "iobroker-javascript";
@@ -21831,10 +21831,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.4.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.4.0/file/usernamehw.commands-1.4.0.vsix";
-      sha256 = "sha256-zPdnSmb6NUDfOsv8ZwFBXw0sM/qHAtE0T4cCab61zZM=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.5.0/file/usernamehw.commands-1.5.0.vsix";
+      sha256 = "sha256-A0bGZFWQe7GvipPapIQ5p8HbbZyzEaIPtGUm18jbQB4=";
     };
     license = "MIT";
     name = "commands";
