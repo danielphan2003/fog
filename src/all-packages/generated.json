@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "cddb6c7c1ef33d4e00de1669418efcdb692ec441",
-            "sha256": "sha256-dcivhnn9X/R6n/md7CM/e4NZp4T74rBQF8haJa37oIQ=",
+            "rev": "5abb147a67250b11c4663ed54be3d406677913c2",
+            "sha256": "sha256-BFggndM5Vfch8w1eeCiYX4qCakgBlkF+DU7sEqmiBLM=",
             "type": "github"
         },
-        "version": "cddb6c7c1ef33d4e00de1669418efcdb692ec441"
+        "version": "5abb147a67250b11c4663ed54be3d406677913c2"
     },
     "caddy": {
         "cargoLocks": null,
@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-4c477821afd8d187a3c84618d19977940a377726/src-tauri/Cargo.lock",
+                "./cinny-desktop-28b72e9696cc90104c52d71b917647ce0a070144/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "4c477821afd8d187a3c84618d19977940a377726",
-            "sha256": "sha256-U6JdvgOeV14l8PesmyMJgIZzAPgexWIrmvQqeru+W+o=",
+            "rev": "28b72e9696cc90104c52d71b917647ce0a070144",
+            "sha256": "sha256-mLLrbji5TLGsYWXOTxaxFxOJHJQxIQ16RBpOU4Ibimc=",
             "type": "github"
         },
-        "version": "4c477821afd8d187a3c84618d19977940a377726"
+        "version": "28b72e9696cc90104c52d71b917647ce0a070144"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,

@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "cddb6c7c1ef33d4e00de1669418efcdb692ec441";
+    version = "5abb147a67250b11c4663ed54be3d406677913c2";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "cddb6c7c1ef33d4e00de1669418efcdb692ec441";
+      rev = "5abb147a67250b11c4663ed54be3d406677913c2";
       fetchSubmodules = false;
-      sha256 = "sha256-dcivhnn9X/R6n/md7CM/e4NZp4T74rBQF8haJa37oIQ=";
+      sha256 = "sha256-BFggndM5Vfch8w1eeCiYX4qCakgBlkF+DU7sEqmiBLM=";
     });
   };
   caddy = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "4c477821afd8d187a3c84618d19977940a377726";
+    version = "28b72e9696cc90104c52d71b917647ce0a070144";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "4c477821afd8d187a3c84618d19977940a377726";
+      rev = "28b72e9696cc90104c52d71b917647ce0a070144";
       fetchSubmodules = true;
-      sha256 = "sha256-U6JdvgOeV14l8PesmyMJgIZzAPgexWIrmvQqeru+W+o=";
+      sha256 = "sha256-mLLrbji5TLGsYWXOTxaxFxOJHJQxIQ16RBpOU4Ibimc=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-4c477821afd8d187a3c84618d19977940a377726/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-28b72e9696cc90104c52d71b917647ce0a070144/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
