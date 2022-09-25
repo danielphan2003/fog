@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -16443,10 +16443,10 @@
   };
   nokxs-iobroker-javascript = {
     pname = "nokxs-iobroker-javascript";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.2/file/nokxs.iobroker-javascript-1.1.2.vsix";
-      sha256 = "sha256-BMiLMFvjYL8q09NZG134//Zgl6Q3ciFQUUUwUPgSmCY=";
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.3/file/nokxs.iobroker-javascript-1.1.3.vsix";
+      sha256 = "sha256-eq7H5O5DjlC89g4Ai41xM1vfT6u0tIO9dt7Fn3LoPmw=";
     };
     license = "MIT";
     name = "iobroker-javascript";
@@ -24483,10 +24483,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.99";
+    version = "0.0.100";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.99/file/zardoy.zardoy-experiments-0.0.99.vsix";
-      sha256 = "sha256-zmyWlV+nvgtQywcfn3P/Qhu1ZK6XIukzsRqy4XzWPEc=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.100/file/zardoy.zardoy-experiments-0.0.100.vsix";
+      sha256 = "sha256-24D9wreNtwH3fhv0D1fEr/53G5u2+xE2gNBIwSop1dw=";
     };
     license = "MIT";
     name = "zardoy-experiments";
@@ -24687,10 +24687,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.6";
+    version = "0.11.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.6/file/znck.vue-0.11.6.vsix";
-      sha256 = "sha256-HJzARoDGvxts3Uozrfz53aKQbxgzVC9TYCQmRp5RAPc=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.7/file/znck.vue-language-features-0.11.7.vsix";
+      sha256 = "sha256-r+mHAZtli+1AzIFFwM1BqF6hE0NZNV9YKttfJ0M58Ww=";
     };
     license = "MIT";
     name = "vue-language-features";

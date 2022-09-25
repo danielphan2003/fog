@@ -9018,9 +9018,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -26042,11 +26042,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BMiLMFvjYL8q09NZG134//Zgl6Q3ciFQUUUwUPgSmCY=",
+            "sha256": "sha256-eq7H5O5DjlC89g4Ai41xM1vfT6u0tIO9dt7Fn3LoPmw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.2/file/nokxs.iobroker-javascript-1.1.2.vsix"
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.3/file/nokxs.iobroker-javascript-1.1.3.vsix"
         },
-        "version": "1.1.2"
+        "version": "1.1.3"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
@@ -38772,11 +38772,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zmyWlV+nvgtQywcfn3P/Qhu1ZK6XIukzsRqy4XzWPEc=",
+            "sha256": "sha256-24D9wreNtwH3fhv0D1fEr/53G5u2+xE2gNBIwSop1dw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.99/file/zardoy.zardoy-experiments-0.0.99.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.100/file/zardoy.zardoy-experiments-0.0.100.vsix"
         },
-        "version": "0.0.99"
+        "version": "0.0.100"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
@@ -39095,11 +39095,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HJzARoDGvxts3Uozrfz53aKQbxgzVC9TYCQmRp5RAPc=",
+            "sha256": "sha256-r+mHAZtli+1AzIFFwM1BqF6hE0NZNV9YKttfJ0M58Ww=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.6/file/znck.vue-0.11.6.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.7/file/znck.vue-language-features-0.11.7.vsix"
         },
-        "version": "0.11.6"
+        "version": "0.11.7"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
