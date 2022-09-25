@@ -8106,11 +8106,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Vv3+ukuzyBVq099ZFmYhnTkC1R0nPsy54fQJFi8b7Es=",
+            "sha256": "sha256-YY/MtPSLx4MXnjhoVeRG0ZiroX17KQqBQggTWLKkGEc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.9.2308/file/alygin.vscode-tlaplus-nightly-2022.9.2308.vsix"
+            "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.9.2419/file/alygin.vscode-tlaplus-nightly-2022.9.2419.vsix"
         },
-        "version": "2022.9.2308"
+        "version": "2022.9.2419"
     },
     "amazonwebservices-aws-toolkit-vscode": {
         "cargoLocks": null,
