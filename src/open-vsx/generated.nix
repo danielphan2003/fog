@@ -3531,10 +3531,10 @@
   };
   Serhioromano-vscode-st = {
     pname = "Serhioromano-vscode-st";
-    version = "1.12.10";
+    version = "1.12.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.10/file/Serhioromano.vscode-st-1.12.10.vsix";
-      sha256 = "sha256-02HiOAE3ycZvxIt6qjYT42Cs4C2I0ndbHaoYt+WMMmo=";
+      url = "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.11/file/Serhioromano.vscode-st-1.12.11.vsix";
+      sha256 = "sha256-s6mi2bstU/MdMtxnXB3OmW1Z2+K9VdjLq0hEZi04izg=";
     };
     license = "MIT";
     name = "vscode-st";
@@ -10709,8 +10709,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13191,10 +13191,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";

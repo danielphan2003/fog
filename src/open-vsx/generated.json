@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-02HiOAE3ycZvxIt6qjYT42Cs4C2I0ndbHaoYt+WMMmo=",
+            "sha256": "sha256-s6mi2bstU/MdMtxnXB3OmW1Z2+K9VdjLq0hEZi04izg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.10/file/Serhioromano.vscode-st-1.12.10.vsix"
+            "url": "https://open-vsx.org/api/Serhioromano/vscode-st/1.12.11/file/Serhioromano.vscode-st-1.12.11.vsix"
         },
-        "version": "1.12.10"
+        "version": "1.12.11"
     },
     "Serpen-vbsvscode": {
         "cargoLocks": null,
@@ -16960,9 +16960,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20893,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
