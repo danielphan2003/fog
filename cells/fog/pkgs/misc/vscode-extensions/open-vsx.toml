@@ -9295,8 +9295,8 @@ fetch.url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.ag
 passthru = { publisher = "banacorn", name = "agda-mode", description = "agda-mode on vscode", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
-src.manual = "8.1.1" # eliostruyf.vscode-front-matter-beta
-fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix" # eliostruyf.vscode-front-matter-beta
+src.manual = "8.1.3112154" # eliostruyf.vscode-front-matter-beta
+fetch.url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix" # eliostruyf.vscode-front-matter-beta
 passthru = { publisher = "eliostruyf", name = "vscode-front-matter-beta", description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...", license = "MIT" }
 
 [Sarrus-sourcepawn-vscode]
