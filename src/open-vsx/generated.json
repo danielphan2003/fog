@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=",
+            "sha256": "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix"
         },
         "version": "23.0.10"
     },
@@ -18651,11 +18651,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AdOaWbAJgUYsR+/nJ66jFrTP62ZRrxUz6UAS8ASUHwE=",
+            "sha256": "sha256-VnBlISGg2qwSZIMK3Kf+xEXvrn05xYSnneB2mbpm+Co=",
             "type": "url",
-            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.2/file/innoverio.vscode-dbt-power-user-0.6.2.vsix"
+            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.7.0/file/innoverio.vscode-dbt-power-user-0.7.0.vsix"
         },
-        "version": "0.6.2"
+        "version": "0.7.0"
     },
     "intersystems-community-servermanager": {
         "cargoLocks": null,
@@ -21406,11 +21406,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,

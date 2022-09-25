@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
-      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix";
+      sha256 = "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -11775,10 +11775,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.6.2";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.2/file/innoverio.vscode-dbt-power-user-0.6.2.vsix";
-      sha256 = "sha256-AdOaWbAJgUYsR+/nJ66jFrTP62ZRrxUz6UAS8ASUHwE=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.7.0/file/innoverio.vscode-dbt-power-user-0.7.0.vsix";
+      sha256 = "sha256-VnBlISGg2qwSZIMK3Kf+xEXvrn05xYSnneB2mbpm+Co=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
@@ -13515,10 +13515,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
