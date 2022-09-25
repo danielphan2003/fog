@@ -20201,8 +20201,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24735,10 +24735,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.12.2";
+    version = "0.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.12.2/file/zokugun.sync-settings-0.12.2.vsix";
-      sha256 = "sha256-BW3vuRf/YXVOZcxmK2Oq1jf0Ito2AIFM9XgYCQnicDs=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.13.0/file/zokugun.sync-settings-0.13.0.vsix";
+      sha256 = "sha256-3N7Ur7q7VzMB2HOhamML8467QBktdDeVck7i2I+GuJ4=";
     };
     license = "MIT";
     name = "sync-settings";
@@ -24747,10 +24747,10 @@
   };
   zokugun-zokugun-theme = {
     pname = "zokugun-zokugun-theme";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.1/file/zokugun.zokugun-theme-0.6.1.vsix";
-      sha256 = "sha256-3teEZXGGxc1PHgF8OoiOx92zrUxsMsdD7EbItnCVo2w=";
+      url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.2/file/zokugun.zokugun-theme-0.6.2.vsix";
+      sha256 = "sha256-P9NXgmhgnffF3xG8wEPFGErxvv+LAnJ9tCOnI+Sxhgw=";
     };
     license = "MIT";
     name = "zokugun-theme";

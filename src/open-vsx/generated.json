@@ -31989,9 +31989,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -39171,11 +39171,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BW3vuRf/YXVOZcxmK2Oq1jf0Ito2AIFM9XgYCQnicDs=",
+            "sha256": "sha256-3N7Ur7q7VzMB2HOhamML8467QBktdDeVck7i2I+GuJ4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zokugun/sync-settings/0.12.2/file/zokugun.sync-settings-0.12.2.vsix"
+            "url": "https://open-vsx.org/api/zokugun/sync-settings/0.13.0/file/zokugun.sync-settings-0.13.0.vsix"
         },
-        "version": "0.12.2"
+        "version": "0.13.0"
     },
     "zokugun-zokugun-theme": {
         "cargoLocks": null,
@@ -39190,11 +39190,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3teEZXGGxc1PHgF8OoiOx92zrUxsMsdD7EbItnCVo2w=",
+            "sha256": "sha256-P9NXgmhgnffF3xG8wEPFGErxvv+LAnJ9tCOnI+Sxhgw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.1/file/zokugun.zokugun-theme-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.2/file/zokugun.zokugun-theme-0.6.2.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.6.2"
     },
     "zxh404-vscode-proto3": {
         "cargoLocks": null,
