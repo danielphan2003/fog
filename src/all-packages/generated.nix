@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5abb147a67250b11c4663ed54be3d406677913c2";
+    version = "34358a9f85f5391212292f3fb9166d01a84b51f3";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5abb147a67250b11c4663ed54be3d406677913c2";
+      rev = "34358a9f85f5391212292f3fb9166d01a84b51f3";
       fetchSubmodules = false;
-      sha256 = "sha256-BFggndM5Vfch8w1eeCiYX4qCakgBlkF+DU7sEqmiBLM=";
+      sha256 = "sha256-SG683uOg6efy2X+04P5SIyHwxnkbbEPHYdT/KuSK78k=";
     });
   };
   caddy = {
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "ee144ccb2b5642f1eb96c136530fbabe12b5b900";
+    version = "4291005161747500f1c983543f5ddd8325f588fe";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "ee144ccb2b5642f1eb96c136530fbabe12b5b900";
+      rev = "4291005161747500f1c983543f5ddd8325f588fe";
       fetchSubmodules = false;
-      sha256 = "sha256-KHCtzZRbiaNcY1zSXs3Ijr5Igf69e6omUTdH99aDfaw=";
+      sha256 = "sha256-YiywmkTCg43gU/h+gHeu06phiMAXzoVqq0Qk9jB9SyQ=";
     });
   };
   cinny-bin = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f6410ba61b9f2a75910d71d3d5a2962e9010d70b";
+    version = "bb8540b040c7f114b772f863e929ec4e43318d32";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f6410ba61b9f2a75910d71d3d5a2962e9010d70b";
+      rev = "bb8540b040c7f114b772f863e929ec4e43318d32";
       fetchSubmodules = false;
-      sha256 = "sha256-oWzhJSdLTBDUQJkeVR2CdE6gkFYLjHLJhIsf78jlFjY=";
+      sha256 = "sha256-t1eo6nOu2kflpi2CckTN5FI6oT0qSKGwmCjqv3hy29E=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f6410ba61b9f2a75910d71d3d5a2962e9010d70b/Cargo.lock;
+      lockFile = ./rustdesk-bb8540b040c7f114b772f863e929ec4e43318d32/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
