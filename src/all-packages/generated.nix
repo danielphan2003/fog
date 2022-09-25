@@ -390,13 +390,13 @@
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
-    version = "d222c2c7e9a8dad20cc5960caa88bef70e4c23ca";
+    version = "efda82945820db1400106a52a209e14b8c33d9d9";
     src = fetchFromGitHub ({
       owner = "fangfufu";
       repo = "Linux-Fake-Background-Webcam";
-      rev = "d222c2c7e9a8dad20cc5960caa88bef70e4c23ca";
+      rev = "efda82945820db1400106a52a209e14b8c33d9d9";
       fetchSubmodules = false;
-      sha256 = "sha256-sxw93NQznc6QmHHN4eStIYzTYb9yremVOCNcb+Ut3gQ=";
+      sha256 = "sha256-6i7QsErGCFo5jxeXceDVijp6B6S4tmNYhE560j0T7GE=";
     });
   };
   firefox-sidebar = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fad5fc587d4281a5d399e61dc1243bc333d94d4d";
+    version = "190229942f60ea5b8905a673ddea44c05da14de3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fad5fc587d4281a5d399e61dc1243bc333d94d4d";
+      rev = "190229942f60ea5b8905a673ddea44c05da14de3";
       fetchSubmodules = false;
-      sha256 = "sha256-Q+dLA0bPW0RqYs9ONiu5/KalJYVjoFX2kG6p9G/hzDc=";
+      sha256 = "sha256-mu53DXd+UVrw59pmsMR/MkM+9vWgr7Ah9E0yaUQ9jbI=";
     });
   };
   ibus = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.42.1";
+    version = "0.42.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.42.1/app-release-unsigned.apk";
-      sha256 = "sha256-qVyTxGPyyj6QhObjUOmwa7jF7is+tf3WtDtY8cHS4VY=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.42.2/app-release-unsigned.apk";
+      sha256 = "sha256-pXjdS/8Njj/cfmEmRqdQB6pQl/CeEpAEqlqHHXGrkCA=";
     };
   };
   revanced-patches-jar = {
