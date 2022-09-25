@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-28b72e9696cc90104c52d71b917647ce0a070144/src-tauri/Cargo.lock",
+                "./cinny-desktop-b95adf903c20756cf98aedad7a8d5397e87d3a09/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "28b72e9696cc90104c52d71b917647ce0a070144",
+            "rev": "b95adf903c20756cf98aedad7a8d5397e87d3a09",
             "sha256": "sha256-mLLrbji5TLGsYWXOTxaxFxOJHJQxIQ16RBpOU4Ibimc=",
             "type": "github"
         },
-        "version": "28b72e9696cc90104c52d71b917647ce0a070144"
+        "version": "b95adf903c20756cf98aedad7a8d5397e87d3a09"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "08ccc59e3c3eccb46e1f179dd63df77fb909bee5",
-            "sha256": "sha256-MT45o7tmmAMwB1Gej9+t/noqEPW3KCMbBAtNHjdGgxg=",
+            "rev": "a878bd3f957400936702439fa937bf5aed85e76b",
+            "sha256": "sha256-b/fNWj9HDLS8RWbFcGLzuZcBPkUv7EIb8BWY89erNeU=",
             "type": "github"
         },
-        "version": "08ccc59e3c3eccb46e1f179dd63df77fb909bee5"
+        "version": "a878bd3f957400936702439fa937bf5aed85e76b"
     },
     "revanced-cli": {
         "cargoLocks": null,

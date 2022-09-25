@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "28b72e9696cc90104c52d71b917647ce0a070144";
+    version = "b95adf903c20756cf98aedad7a8d5397e87d3a09";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "28b72e9696cc90104c52d71b917647ce0a070144";
+      rev = "b95adf903c20756cf98aedad7a8d5397e87d3a09";
       fetchSubmodules = true;
       sha256 = "sha256-mLLrbji5TLGsYWXOTxaxFxOJHJQxIQ16RBpOU4Ibimc=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-28b72e9696cc90104c52d71b917647ce0a070144/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-b95adf903c20756cf98aedad7a8d5397e87d3a09/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "08ccc59e3c3eccb46e1f179dd63df77fb909bee5";
+    version = "a878bd3f957400936702439fa937bf5aed85e76b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "08ccc59e3c3eccb46e1f179dd63df77fb909bee5";
+      rev = "a878bd3f957400936702439fa937bf5aed85e76b";
       fetchSubmodules = false;
-      sha256 = "sha256-MT45o7tmmAMwB1Gej9+t/noqEPW3KCMbBAtNHjdGgxg=";
+      sha256 = "sha256-b/fNWj9HDLS8RWbFcGLzuZcBPkUv7EIb8BWY89erNeU=";
     });
   };
   revanced-cli = {
