@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6602";
+    version = "1.0.6603";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6602.tar.bz2";
-      sha256 = "sha256-CiaeDXvF5Ony61UDhUCDKYUx0IeeOX2kvpxuHwf+lGM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6603.tar.bz2";
+      sha256 = "sha256-PerxxbeY1GpAIKuNn1u7v+UtxNWGTaT8bTg/Da6T1Oo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6602";
+    version = "1.0.6603";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6602-1_all.deb";
-      sha256 = "sha256-p37jhEj9Xf3ByHP4a9GoYy94FgpcpIfBpHwFWDb33qo=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6603-1_all.deb";
+      sha256 = "sha256-hraZdlvWzwhzqRPzNjB5Nf9C27dhW2JkYeDy5SmLlWs=";
     };
   };
   jitsi-videobridge2 = {
@@ -1099,13 +1099,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "c926776f104696466e7472b596522eb577a14264";
+    version = "fcc7ee66617a2dffc9ebda775b9101295046c31e";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "c926776f104696466e7472b596522eb577a14264";
+      rev = "fcc7ee66617a2dffc9ebda775b9101295046c31e";
       fetchSubmodules = false;
-      sha256 = "sha256-PvbbZO5jlnvvnLR4ngNXRLI+oxsUA6ob50FMrzzeTjo=";
+      sha256 = "sha256-nncNS3q0UnFON6yi3XxUc0D5tr7QBAPRU8cOn4ENNR8=";
     });
   };
   spicetify-themes = {
@@ -1422,10 +1422,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.11.10.4400";
+    version = "5.12.0.4682";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.11.10.4400/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-Pi1MtuCHzkQACamsNOIS6pbM03L1CmyosbpdrYVNCkQ=";
+      url = "https://cdn.zoom.us/prod/5.12.0.4682/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-UNtxyR4SMCP9c1Dre/arfdSVZbAV8qoHyHlvj3ZbXIs=";
     };
   };
 }
