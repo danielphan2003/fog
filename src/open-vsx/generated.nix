@@ -2835,10 +2835,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.15";
+    version = "1.15.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.15/file/Natizyskunk.sftp-1.15.15.vsix";
-      sha256 = "sha256-/RkDsetCif0idvD17+ly5gMaUBWL43KmVMO//fdBw+g=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.16/file/Natizyskunk.sftp-1.15.16.vsix";
+      sha256 = "sha256-/JBaPZ+r6uzGBiDyZx5x61CVoNRNZHkJRzygdmv+1KI=";
     };
     license = "MIT";
     name = "sftp";
@@ -7311,10 +7311,10 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.5/file/cloudstudio.browser-preview-lite-0.0.5.vsix";
-      sha256 = "sha256-Dd9sykSU/mOTjAjrpAlasYNEkzJezQADKCn/zlAAueU=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.6/file/cloudstudio.browser-preview-lite-0.0.6.vsix";
+      sha256 = "sha256-4UGxrHg9IiSdkmB+y5fiLQJ+moP6y+rqNKjRoeW4Ux0=";
     };
     license = "MIT";
     name = "browser-preview-lite";
@@ -8571,10 +8571,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.16.10605";
+    version = "1.16.10632";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10605/file/devsense.composer-php-vscode-1.16.10605.vsix";
-      sha256 = "sha256-HgE7ZaAogM9xOZaLqneeWjnJWciFrObYXmvaCizLO9E=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10632/file/devsense.composer-php-vscode-1.16.10632.vsix";
+      sha256 = "sha256-7VkHpGGO7mEcbwbap4L9Z8LIqpo2qZzmFQkEKeRjEY0=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8583,10 +8583,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.16.10605";
+    version = "1.16.10632";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10605/file/devsense.phptools-vscode-1.16.10605.vsix";
-      sha256 = "sha256-2icSjxOtqav9/9mZA6RCOT6rKW9KpHekhWdpY67gO1g=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10632/file/devsense.phptools-vscode-1.16.10632.vsix";
+      sha256 = "sha256-0u6CvY1mx1pyV//xPlriHpla3xsDuhVs3KtWKgl5ghI=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -9147,10 +9147,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.1";
+    version = "8.1.3112154";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
-      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
+      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -11931,10 +11931,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.6";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.6/file/iterative.dvc-0.4.6.vsix";
-      sha256 = "sha256-5sarE6MSV6A0Rq83v3Qn9jANNK0ARvo+Fw7HVhiy8QY=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.7/file/iterative.dvc-0.4.7.vsix";
+      sha256 = "sha256-a/XVxACr5uGcZKUSWWn52BsvnCA4gPiY3GxfkZyOmDM=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -17919,10 +17919,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.40.0";
+    version = "1.41.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.40.0/file/quarto.quarto-1.40.0.vsix";
-      sha256 = "sha256-kIBq7vDFPpCn0v4St3tqz/ZWWu3A1pGOFI4zQfao1zw=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.41.0/file/quarto.quarto-1.41.0.vsix";
+      sha256 = "sha256-NkZ/2k/xKbO/u74X02IvOx7xbopYU2aysUvkAO4EZIU=";
     };
     license = "MIT";
     name = "quarto";
@@ -19671,10 +19671,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.0/file/shufo.vscode-blade-formatter-0.18.0.vsix";
-      sha256 = "sha256-vQYVLjekTeI8yxIF36oVET6j4KSUMbYy/ITr0Be4rTk=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.1/file/shufo.vscode-blade-formatter-0.18.1.vsix";
+      sha256 = "sha256-tkl7eOZ5WZRd+oAj85ZghAhCq1+4l/0i3/iv8yHrj6M=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";

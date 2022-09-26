@@ -4496,11 +4496,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/RkDsetCif0idvD17+ly5gMaUBWL43KmVMO//fdBw+g=",
+            "sha256": "sha256-/JBaPZ+r6uzGBiDyZx5x61CVoNRNZHkJRzygdmv+1KI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.15/file/Natizyskunk.sftp-1.15.15.vsix"
+            "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.16/file/Natizyskunk.sftp-1.15.16.vsix"
         },
-        "version": "1.15.15"
+        "version": "1.15.16"
     },
     "NicolasVuillamy-vscode-groovy-lint": {
         "cargoLocks": null,
@@ -11583,11 +11583,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Dd9sykSU/mOTjAjrpAlasYNEkzJezQADKCn/zlAAueU=",
+            "sha256": "sha256-4UGxrHg9IiSdkmB+y5fiLQJ+moP6y+rqNKjRoeW4Ux0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.5/file/cloudstudio.browser-preview-lite-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.6/file/cloudstudio.browser-preview-lite-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "cloudstudio-cloud-debug": {
         "cargoLocks": null,
@@ -13578,11 +13578,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HgE7ZaAogM9xOZaLqneeWjnJWciFrObYXmvaCizLO9E=",
+            "sha256": "sha256-7VkHpGGO7mEcbwbap4L9Z8LIqpo2qZzmFQkEKeRjEY0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10605/file/devsense.composer-php-vscode-1.16.10605.vsix"
+            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.16.10632/file/devsense.composer-php-vscode-1.16.10632.vsix"
         },
-        "version": "1.16.10605"
+        "version": "1.16.10632"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -13597,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2icSjxOtqav9/9mZA6RCOT6rKW9KpHekhWdpY67gO1g=",
+            "sha256": "sha256-0u6CvY1mx1pyV//xPlriHpla3xsDuhVs3KtWKgl5ghI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10605/file/devsense.phptools-vscode-1.16.10605.vsix"
+            "url": "https://open-vsx.org/api/devsense/phptools-vscode/1.16.10632/file/devsense.phptools-vscode-1.16.10632.vsix"
         },
-        "version": "1.16.10605"
+        "version": "1.16.10632"
     },
     "dez64ru-macos-modern-theme": {
         "cargoLocks": null,
@@ -14490,11 +14490,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=",
+            "sha256": "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix"
         },
-        "version": "8.1.1"
+        "version": "8.1.3112154"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -18898,11 +18898,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5sarE6MSV6A0Rq83v3Qn9jANNK0ARvo+Fw7HVhiy8QY=",
+            "sha256": "sha256-a/XVxACr5uGcZKUSWWn52BsvnCA4gPiY3GxfkZyOmDM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.4.6/file/iterative.dvc-0.4.6.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.4.7/file/iterative.dvc-0.4.7.vsix"
         },
-        "version": "0.4.6"
+        "version": "0.4.7"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -28379,11 +28379,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kIBq7vDFPpCn0v4St3tqz/ZWWu3A1pGOFI4zQfao1zw=",
+            "sha256": "sha256-NkZ/2k/xKbO/u74X02IvOx7xbopYU2aysUvkAO4EZIU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.40.0/file/quarto.quarto-1.40.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.41.0/file/quarto.quarto-1.41.0.vsix"
         },
-        "version": "1.40.0"
+        "version": "1.41.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,
@@ -31153,11 +31153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vQYVLjekTeI8yxIF36oVET6j4KSUMbYy/ITr0Be4rTk=",
+            "sha256": "sha256-tkl7eOZ5WZRd+oAj85ZghAhCq1+4l/0i3/iv8yHrj6M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.0/file/shufo.vscode-blade-formatter-0.18.0.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.18.1/file/shufo.vscode-blade-formatter-0.18.1.vsix"
         },
-        "version": "0.18.0"
+        "version": "0.18.1"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
