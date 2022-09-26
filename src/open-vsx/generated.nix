@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -9147,10 +9147,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.1";
+    version = "8.1.3112154";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
-      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
+      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10709,8 +10709,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11787,10 +11787,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.7.0/file/innoverio.vscode-dbt-power-user-0.7.0.vsix";
-      sha256 = "sha256-VnBlISGg2qwSZIMK3Kf+xEXvrn05xYSnneB2mbpm+Co=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.7.1/file/innoverio.vscode-dbt-power-user-0.7.1.vsix";
+      sha256 = "sha256-7nbfZRCjwates+Z2DW8tep+JQA/+/3ntE8G5F9RSzJs=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
@@ -13203,10 +13203,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13527,10 +13527,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19755,10 +19755,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20091,10 +20091,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.12.7";
+    version = "0.12.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.7/file/sourcery.sourcery-0.12.7.vsix";
-      sha256 = "sha256-NXE4DK4VD9f9N8vC21Srtjp244xS8CjpaIxei40mA+s=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.9/file/sourcery.sourcery-0.12.9.vsix";
+      sha256 = "sha256-4REqwKnuygByApUj5bfF4wbYhPuoiPLbIWn+1vhQtE4=";
     };
     license = "MIT";
     name = "sourcery";
