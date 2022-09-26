@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e902df3b0d49d4c529f9292e55b07e7fdd4f1504";
+    version = "a4b934b71adfcf36c3be8aae80cd96d82460df6e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e902df3b0d49d4c529f9292e55b07e7fdd4f1504";
+      rev = "a4b934b71adfcf36c3be8aae80cd96d82460df6e";
       fetchSubmodules = false;
-      sha256 = "sha256-A8urPbqs5Q0QWlg1iGFGST627xXPvcEcHQe9+xgGRrE=";
+      sha256 = "sha256-ictZi7SCx0NS4RCKIrzRa1tIWN2QOKvi4TOMCp8S/IA=";
     });
   };
   revanced-cli = {
@@ -1137,16 +1137,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "7146f64a819590a16de9991de74f8bc2fea9c2ac";
+    version = "cb976cebddeefcaf00b61ba533104b9f8ec44b6c";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "7146f64a819590a16de9991de74f8bc2fea9c2ac";
+      rev = "cb976cebddeefcaf00b61ba533104b9f8ec44b6c";
       fetchSubmodules = false;
-      sha256 = "sha256-6/mFCApGYiK6rYrzfxHuQI3a49bzkmpPcJw5gHCnUuY=";
+      sha256 = "sha256-Njz2eCoOpE97t2CTIj5hvc9+NfzR4FWUgR133x36+Kk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-7146f64a819590a16de9991de74f8bc2fea9c2ac/Cargo.lock;
+      lockFile = ./spotifyd-cb976cebddeefcaf00b61ba533104b9f8ec44b6c/Cargo.lock;
       outputHashes = {
         
       };
