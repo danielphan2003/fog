@@ -318,13 +318,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "ca253923eb631ccde49bfcc6cf376ba867485108";
+    version = "94cba8cf78001f60c5a9584ab07b17451434f784";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "ca253923eb631ccde49bfcc6cf376ba867485108";
+      rev = "94cba8cf78001f60c5a9584ab07b17451434f784";
       fetchSubmodules = false;
-      sha256 = "sha256-1Mju3OguRm/ATQovS0P2Xqgj/H3UP6Lb852PKzuYtu8=";
+      sha256 = "sha256-sZ/T08BT/pg83b3E3cS3+7glKzerHdIIX7irIIYPhWA=";
     });
   };
   doggo = {
@@ -1088,13 +1088,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "d1df9972874baf8112860f1078f569a5a49e1423";
+    version = "860ab878e71edd84507caf0fa8f45d75ade16cf9";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "d1df9972874baf8112860f1078f569a5a49e1423";
+      rev = "860ab878e71edd84507caf0fa8f45d75ade16cf9";
       fetchSubmodules = false;
-      sha256 = "sha256-L31J6ZeXEX/+ezs4SrXvtEdM7kZghsbJSJZ0fDob1z4=";
+      sha256 = "sha256-C41H8dEHyzgdkbPCAu8VCQX1Lybryd2H9i3V32+Itw8=";
     });
   };
   spicetify-marketplace = {
