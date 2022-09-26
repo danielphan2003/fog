@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.10/file/AdaCore.ada-debug-23.0.10.vsix";
-      sha256 = "sha256-WvlzzA10Jy+crLCRQDhh9gNALncWVLgCU653JU12nrk=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.10/file/AdaCore.ada-23.0.10.vsix";
+      sha256 = "sha256-EbtfTNA/YUmH9nxQy3GPasEAQl41iNfn7QT9ZiInM/k=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -2835,10 +2835,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.16";
+    version = "1.15.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.16/file/Natizyskunk.sftp-1.15.16.vsix";
-      sha256 = "sha256-/JBaPZ+r6uzGBiDyZx5x61CVoNRNZHkJRzygdmv+1KI=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.18/file/Natizyskunk.sftp-1.15.18.vsix";
+      sha256 = "sha256-kZQZp5BMKd8QlYiciMydVbOoDbQmJ0iRF8ZUnGIvZPw=";
     };
     license = "MIT";
     name = "sftp";
@@ -3183,10 +3183,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.8.0";
+    version = "4.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/PrateekMahendrakar.resxpress-4.8.0.vsix";
-      sha256 = "sha256-iNZXwPDe2kHW52/mCA4r1r5M3V16X/4NQiUfW4cxkGI=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.9.0/file/PrateekMahendrakar.resxpress-4.9.0.vsix";
+      sha256 = "sha256-J491kGBSfRK9IYkf0uFa5PgtCiSVVrbH3ZySnSrIU8w=";
     };
     license = "MIT";
     name = "resxpress";
@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -7335,10 +7335,10 @@
   };
   cloudstudio-coding-authentication = {
     pname = "cloudstudio-coding-authentication";
-    version = "0.0.4";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.4/file/cloudstudio.coding-authentication-0.0.4.vsix";
-      sha256 = "sha256-E/LzFfFhFjAYdhx+jI4xzlEzxMCjNqUUj9E/cTS+k54=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.8/file/cloudstudio.coding-0.0.8.vsix";
+      sha256 = "sha256-o95XetAO09zl1JE+b7oRHpR7L+6ZBRJpZgyWm7w7oYA=";
     };
     license = "MIT";
     name = "coding-authentication";
@@ -7347,10 +7347,10 @@
   };
   cloudstudio-coding-publish = {
     pname = "cloudstudio-coding-publish";
-    version = "0.0.4";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.4/file/cloudstudio.coding-publish-0.0.4.vsix";
-      sha256 = "sha256-C/fF4qOFSUXC0LJ36Lg8DV2Kok9+NrPd3nwmW+ZqsjQ=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.8/file/cloudstudio.coding-0.0.8.vsix";
+      sha256 = "sha256-o95XetAO09zl1JE+b7oRHpR7L+6ZBRJpZgyWm7w7oYA=";
     };
     license = "MIT";
     name = "coding-publish";
@@ -7359,10 +7359,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.6";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.6/file/cloudstudio.coding-0.0.6.vsix";
-      sha256 = "sha256-wyu8a8NTHYcd/kKs4qYU/c5nURUZMUizloWOtiJs7pU=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.8/file/cloudstudio.coding-0.0.8.vsix";
+      sha256 = "sha256-o95XetAO09zl1JE+b7oRHpR7L+6ZBRJpZgyWm7w7oYA=";
     };
     license = "MIT";
     name = "coding-repositories";
@@ -7383,10 +7383,10 @@
   };
   cloudstudio-custom-template = {
     pname = "cloudstudio-custom-template";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.5/file/cloudstudio.custom-template-0.0.5.vsix";
-      sha256 = "sha256-oChCLOjW2LKB9Lpco/zlu+1ryyQTYCkutclbf3OSpho=";
+      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.6/file/cloudstudio.custom-template-0.0.6.vsix";
+      sha256 = "sha256-qrpE0CjmiqZkg8qA6rJVa9tBXhumQCX9eoxBSjXtRpQ=";
     };
     license = "MIT";
     name = "custom-template";
@@ -7395,10 +7395,10 @@
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.5/file/cloudstudio.deploykit-0.0.5.vsix";
-      sha256 = "sha256-EhddEkXlAd5O/NFFXTH+t8umyDwbOAbfpzvzsCT60vQ=";
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.6/file/cloudstudio.deploykit-0.0.6.vsix";
+      sha256 = "sha256-k6eKz7bWyLKnsVQyivq+J9yxrfZcYzeST98xFMt37xA=";
     };
     license = "MIT";
     name = "deploykit";
@@ -7419,10 +7419,10 @@
   };
   cloudstudio-github-authentication = {
     pname = "cloudstudio-github-authentication";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.3/file/cloudstudio.github-authentication-0.0.3.vsix";
-      sha256 = "sha256-NbaUKea/rgajQThG1jMf2bvjakh1WSHjJzEqeFDr2KI=";
+      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.4/file/cloudstudio.github-authentication-0.0.4.vsix";
+      sha256 = "sha256-REgMVzncx4Yq2P8u15UKCCrrLqc5MISIfDpO+T9YlvE=";
     };
     license = "MIT";
     name = "github-authentication";
@@ -7455,10 +7455,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.10/file/cloudstudio.metawork-0.0.10.vsix";
-      sha256 = "sha256-s4OG9HCidqr1xvo0USYEIty57/Erm0UPcv/QUrGvPuc=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.11/file/cloudstudio.metawork-0.0.11.vsix";
+      sha256 = "sha256-Wpzk1ITkSMMKBnnY18lpxS+mwcUygBXpGeEduXUCWw8=";
     };
     license = "MIT";
     name = "metawork";
@@ -7467,10 +7467,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.25";
+    version = "0.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.25/file/cloudstudio.workspaces-0.0.25.vsix";
-      sha256 = "sha256-Uit1WRocyqjMUQvcXNy2VAcxeoE+5vZrWneu2KyF2JA=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.26/file/cloudstudio.workspaces-0.0.26.vsix";
+      sha256 = "sha256-T5e3R9JyVzJTHFRzOa0hubQXGgj0SFBY/oFjE0dtBMg=";
     };
     license = "MIT";
     name = "workspaces";
@@ -8607,10 +8607,10 @@
   };
   dfinity-foundation-vscode-motoko = {
     pname = "dfinity-foundation-vscode-motoko";
-    version = "0.4.4";
+    version = "0.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.4/file/dfinity-foundation.vscode-motoko-0.4.4.vsix";
-      sha256 = "sha256-gx05UrPdEw2b7fq0eaQP/jusno1j2aR2Ba3s7GrQSJo=";
+      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.5/file/dfinity-foundation.vscode-motoko-0.4.5.vsix";
+      sha256 = "sha256-C7Iwi4I/ixWr12TMM1VksittibZHpn5wfa4Dxr6YCPU=";
     };
     license = "Apache-2.0";
     name = "vscode-motoko";
@@ -9099,10 +9099,10 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "4.2.2";
+    version = "4.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/4.2.2/file/efoerster.texlab-4.2.2.vsix";
-      sha256 = "sha256-mfKuCj52A6Zblz7QBwOi/EV+OyHmS+qrJ+Etq4/YLok=";
+      url = "https://open-vsx.org/api/efoerster/texlab/4.3.0/file/efoerster.texlab-4.3.0.vsix";
+      sha256 = "sha256-0xDJcu7xzM7rlD/xH/hnmPFB4kVBMTWNmrbjb/msHMI=";
     };
     license = "MIT";
     name = "texlab";
@@ -9147,10 +9147,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.1.3112154";
+    version = "8.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.1.3112154/file/eliostruyf.vscode-front-matter-beta-8.1.3112154.vsix";
-      sha256 = "sha256-ELDYXC0VZhW73fftx7q2I4u0uxqofhz2KauCq4G/5/Q=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.1.1/file/eliostruyf.vscode-front-matter-8.1.1.vsix";
+      sha256 = "sha256-C4zgah5e+SghMgJ4lw6RWhodXdt/9PngiAathQHNOuw=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9411,10 +9411,10 @@
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
-    version = "0.0.36";
+    version = "0.0.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.36/file/erlang-ls.erlang-ls-0.0.36.vsix";
-      sha256 = "sha256-VbkIJDaeaiBJFv54s8Y6i3hzxB+iV9+bEbWmdSrcI8Q=";
+      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.37/file/erlang-ls.erlang-ls-0.0.37.vsix";
+      sha256 = "sha256-jZWYulnW9uXlWsyAkHkBg5Pn0dIssElcz2TspkpxJWg=";
     };
     license = "Apache-2.0";
     name = "erlang-ls";
@@ -9435,10 +9435,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.8.0";
+    version = "9.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.8.0/file/esbenp.prettier-vscode-9.8.0.vsix";
-      sha256 = "sha256-bzCxOuwdRos0zp/aksV4/oMRnRacHyho7OM2ddZ2mw8=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.9.0/file/esbenp.prettier-vscode-9.9.0.vsix";
+      sha256 = "sha256-T4QaiY/EMO/2XLmRRIUamSYsGguWsyIdWBtzqE3ivlE=";
     };
     license = "MIT";
     name = "prettier-vscode";
@@ -9579,10 +9579,10 @@
   };
   evhub-coconut = {
     pname = "evhub-coconut";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evhub/coconut/2.0.0/file/evhub.coconut-2.0.0.vsix";
-      sha256 = "sha256-x6Fm57+qiPhktUsb+tRznF+zttBfEiOZ8yDBTc/p1ck=";
+      url = "https://open-vsx.org/api/evhub/coconut/2.1.0/file/evhub.coconut-2.1.0.vsix";
+      sha256 = "sha256-EB433rhnJyqnDPWrXoqj+HgaPcD4ggpZbBkNRpi6a6E=";
     };
     license = "GPL-3.0";
     name = "coconut";
@@ -11823,10 +11823,10 @@
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
-    version = "0.1.64";
+    version = "0.1.65";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.64/file/iocave.customize-ui-0.1.64.vsix";
-      sha256 = "sha256-SjwFXLtEjbdVyUg6ikreIrKCb4D9I1+sknaBg0G1DPY=";
+      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.65/file/iocave.customize-ui-0.1.65.vsix";
+      sha256 = "sha256-ekT0D8LBBgPmixrUiOqwScyNNP0u2665t4dsm12t9Gw=";
     };
     license = "MIT";
     name = "customize-ui";
@@ -13191,10 +13191,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13515,10 +13515,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -15159,10 +15159,10 @@
   };
   ms-azuretools-vscode-azureappservice = {
     pname = "ms-azuretools-vscode-azureappservice";
-    version = "0.24.3";
+    version = "0.24.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azureappservice/0.24.3/file/ms-azuretools.vscode-azureappservice-0.24.3.vsix";
-      sha256 = "sha256-yB10x56dcmsDHSRlevXu50JgtxkOHu6gJJ8NAjUTJFM=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azureappservice/0.24.4/file/ms-azuretools.vscode-azureappservice-0.24.4.vsix";
+      sha256 = "sha256-3LiK5mdKiVlJLrmcjejc3bu1Dvn23qYQ0N6weCh24Sk=";
     };
     license = "MIT";
     name = "vscode-azureappservice";
@@ -19743,10 +19743,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24687,10 +24687,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.7";
+    version = "0.11.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.7/file/znck.vue-language-features-0.11.7.vsix";
-      sha256 = "sha256-r+mHAZtli+1AzIFFwM1BqF6hE0NZNV9YKttfJ0M58Ww=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.6/file/znck.vue-0.11.6.vsix";
+      sha256 = "sha256-HJzARoDGvxts3Uozrfz53aKQbxgzVC9TYCQmRp5RAPc=";
     };
     license = "MIT";
     name = "vue-language-features";
