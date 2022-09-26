@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
-      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
+      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -12135,10 +12135,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022092608";
+    version = "0.1.2022092609";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092608/file/jbangdev.jbang-vscode-0.1.2022092608.vsix";
-      sha256 = "sha256-VzwsRvlLtqSLYYiyGM0YKk3Y6bAVTwguMjYoso7q44s=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092609/file/jbangdev.jbang-vscode-0.1.2022092609.vsix";
+      sha256 = "sha256-amtjEhBQPEp+TIfrbuvtgNa5SgRYNSUyjcBEU9JiD7o=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13203,10 +13203,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13923,10 +13923,10 @@
   };
   lukashass-volar = {
     pname = "lukashass-volar";
-    version = "0.40.6";
+    version = "1.0.0-beta.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lukashass/volar/0.40.6/file/lukashass.volar-0.40.6.vsix";
-      sha256 = "sha256-wtDZLJOMbczNZp5AdNBvX2yUSYq1Cnk/3FpDFWijwzc=";
+      url = "https://open-vsx.org/api/lukashass/volar/1.0.0-beta.0/file/lukashass.volar-1.0.0-beta.0.vsix";
+      sha256 = "sha256-VVfaIZ2CM9flrq+9EwBcEtQ+gv9dxgo/NTOyAJ9ar7I=";
     };
     license = "MIT";
     name = "volar";

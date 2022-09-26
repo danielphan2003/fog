@@ -3560,8 +3560,8 @@ fetch.url = "https://open-vsx.org/api/polyhurt/ascii-art-previewer/0.0.1/file/po
 passthru = { publisher = "polyhurt", name = "ascii-art-previewer", description = "Previews ASCII art using MIRC colors.", license = "MIT" }
 
 [lukashass-volar]
-src.manual = "0.40.6" # lukashass.volar
-fetch.url = "https://open-vsx.org/api/lukashass/volar/0.40.6/file/lukashass.volar-0.40.6.vsix" # lukashass.volar
+src.manual = "1.0.0-beta.0" # lukashass.volar
+fetch.url = "https://open-vsx.org/api/lukashass/volar/1.0.0-beta.0/file/lukashass.volar-1.0.0-beta.0.vsix" # lukashass.volar
 passthru = { publisher = "lukashass", name = "volar", description = "Language support for Vue 3", license = "MIT" }
 
 [castwide-solargraph]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9145,8 +9145,8 @@ fetch.url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov
 passthru = { publisher = "FelixAngelov", name = "mason", description = "Mason support for Visual Studio Code.", license = "MIT" }
 
 [jbangdev-jbang-vscode]
-src.manual = "0.1.2022092608" # jbangdev.jbang-vscode
-fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092608/file/jbangdev.jbang-vscode-0.1.2022092608.vsix" # jbangdev.jbang-vscode
+src.manual = "0.1.2022092609" # jbangdev.jbang-vscode
+fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092609/file/jbangdev.jbang-vscode-0.1.2022092609.vsix" # jbangdev.jbang-vscode
 passthru = { publisher = "jbangdev", name = "jbang-vscode", description = "JBang support for VS Code Java", license = "MIT" }
 
 [prantlf-vscode-requirejs]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.1.0" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10713,4 +10713,5 @@ passthru = { publisher = "kuba-p", name = "theme-pink-candy", description = "A v
 src.manual = "0.5.0" # hugo-vrijswijk.vscode-lit-xml
 fetch.url = "https://open-vsx.org/api/hugo-vrijswijk/vscode-lit-xml/0.5.0/file/hugo-vrijswijk.vscode-lit-xml-0.5.0.vsix" # hugo-vrijswijk.vscode-lit-xml
 passthru = { publisher = "hugo-vrijswijk", name = "vscode-lit-xml", description = "Syntax highlighting xml inside of JavaScript and TypeScript lit-xml tagged template strings", license = "Apache-2.0" }
+
 

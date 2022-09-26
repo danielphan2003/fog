@@ -9018,9 +9018,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
+            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -19221,11 +19221,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VzwsRvlLtqSLYYiyGM0YKk3Y6bAVTwguMjYoso7q44s=",
+            "sha256": "sha256-amtjEhBQPEp+TIfrbuvtgNa5SgRYNSUyjcBEU9JiD7o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092608/file/jbangdev.jbang-vscode-0.1.2022092608.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092609/file/jbangdev.jbang-vscode-0.1.2022092609.vsix"
         },
-        "version": "0.1.2022092608"
+        "version": "0.1.2022092609"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -20912,11 +20912,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -22052,11 +22052,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wtDZLJOMbczNZp5AdNBvX2yUSYq1Cnk/3FpDFWijwzc=",
+            "sha256": "sha256-VVfaIZ2CM9flrq+9EwBcEtQ+gv9dxgo/NTOyAJ9ar7I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lukashass/volar/0.40.6/file/lukashass.volar-0.40.6.vsix"
+            "url": "https://open-vsx.org/api/lukashass/volar/1.0.0-beta.0/file/lukashass.volar-1.0.0-beta.0.vsix"
         },
-        "version": "0.40.6"
+        "version": "1.0.0-beta.0"
     },
     "lukepearson-cidr-ip-range": {
         "cargoLocks": null,
