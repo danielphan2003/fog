@@ -2064,9 +2064,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=",
+            "sha256": "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix"
         },
         "version": "0.1.23"
     },
@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-E22+KBaL9tp4VU5evgS4CUvXYIgoQKOsClXGx1f1YJM=",
+            "sha256": "sha256-vhVAMBSMIsqK5ecqJQ+ePCq8eY+yU5Xzpq0TQnTE+fg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1434/file/Prisma.prisma-insider-31.0.1434.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1437/file/Prisma.prisma-insider-31.0.1437.vsix"
         },
-        "version": "31.0.1434"
+        "version": "31.0.1437"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9018,9 +9018,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=",
+            "sha256": "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix"
         },
         "version": "1.1.0"
     },
@@ -13445,11 +13445,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-34CcFbkIk1R2X1dwy1u7BIMWIN65Kirtd90VtIkMS1E=",
+            "sha256": "sha256-I3hd1I003oW25gJfo97Wa8522NURYKuAPzIdZ8TdXXg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.113.5/file/dendron.nightly-0.113.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.113.6/file/dendron.nightly-0.113.6.vsix"
         },
-        "version": "0.113.5"
+        "version": "0.113.6"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -17859,6 +17859,25 @@
         },
         "version": "0.4.0"
     },
+    "hugo-vrijswijk-vscode-lit-xml": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "hugo-vrijswijk-vscode-lit-xml",
+        "passthru": {
+            "description": "Syntax highlighting xml inside of JavaScript and TypeScript lit-xml tagged template strings",
+            "license": "Apache-2.0",
+            "name": "vscode-lit-xml",
+            "publisher": "hugo-vrijswijk"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ClrTrg3DbYqUfMTaA0ackqzYWRgEFiPFR3+rqBp34mU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/hugo-vrijswijk/vscode-lit-xml/0.5.0/file/hugo-vrijswijk.vscode-lit-xml-0.5.0.vsix"
+        },
+        "version": "0.5.0"
+    },
     "hugogranstrom-nimiboost": {
         "cargoLocks": null,
         "extract": null,
@@ -19202,11 +19221,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ehto5a0SYIh9QxcFKog7zPcJrgrey1rlUnvAtm2ZI0E=",
+            "sha256": "sha256-VzwsRvlLtqSLYYiyGM0YKk3Y6bAVTwguMjYoso7q44s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092013/file/jbangdev.jbang-vscode-0.1.2022092013.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092608/file/jbangdev.jbang-vscode-0.1.2022092608.vsix"
         },
-        "version": "0.1.2022092013"
+        "version": "0.1.2022092608"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -21406,11 +21425,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,

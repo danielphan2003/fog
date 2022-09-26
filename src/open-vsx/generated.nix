@@ -1301,8 +1301,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix";
-      sha256 = "sha256-u90/WJisnMmA7FhSeCkGG4ABERjbIFuPxe3dSgCsVEk=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix";
+      sha256 = "sha256-i66obN+T592HRB0fQPnIaghngrWBOwXsF2SjODywleg=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3207,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1434";
+    version = "31.0.1437";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1434/file/Prisma.prisma-insider-31.0.1434.vsix";
-      sha256 = "sha256-E22+KBaL9tp4VU5evgS4CUvXYIgoQKOsClXGx1f1YJM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1437/file/Prisma.prisma-insider-31.0.1437.vsix";
+      sha256 = "sha256-vhVAMBSMIsqK5ecqJQ+ePCq8eY+yU5Xzpq0TQnTE+fg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5693,8 +5693,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.1.0/file/arm.keil-studio-pack-1.1.0.vsix";
-      sha256 = "sha256-M7OwpXozc4IcEzbAlXzhRAoPSUxN2noRCRirCs3pv40=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.1.0/file/arm.keil-studio-pack-web-1.1.0.vsix";
+      sha256 = "sha256-Ob34r8C3NmeH7+Cb/g4N2ezxq0kaGZ74MljeMCoiLTw=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -8487,10 +8487,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.113.5";
+    version = "0.113.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.113.5/file/dendron.nightly-0.113.5.vsix";
-      sha256 = "sha256-34CcFbkIk1R2X1dwy1u7BIMWIN65Kirtd90VtIkMS1E=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.113.6/file/dendron.nightly-0.113.6.vsix";
+      sha256 = "sha256-I3hd1I003oW25gJfo97Wa8522NURYKuAPzIdZ8TdXXg=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -11281,6 +11281,18 @@
     description = "A cool pink theme for VScode.";
     publisher = "huacat";
   };
+  hugo-vrijswijk-vscode-lit-xml = {
+    pname = "hugo-vrijswijk-vscode-lit-xml";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hugo-vrijswijk/vscode-lit-xml/0.5.0/file/hugo-vrijswijk.vscode-lit-xml-0.5.0.vsix";
+      sha256 = "sha256-ClrTrg3DbYqUfMTaA0ackqzYWRgEFiPFR3+rqBp34mU=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-lit-xml";
+    description = "Syntax highlighting xml inside of JavaScript and TypeScript lit-xml tagged template strings";
+    publisher = "hugo-vrijswijk";
+  };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
     version = "0.4.3";
@@ -12123,10 +12135,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022092013";
+    version = "0.1.2022092608";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092013/file/jbangdev.jbang-vscode-0.1.2022092013.vsix";
-      sha256 = "sha256-Ehto5a0SYIh9QxcFKog7zPcJrgrey1rlUnvAtm2ZI0E=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022092608/file/jbangdev.jbang-vscode-0.1.2022092608.vsix";
+      sha256 = "sha256-VzwsRvlLtqSLYYiyGM0YKk3Y6bAVTwguMjYoso7q44s=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13515,10 +13527,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
