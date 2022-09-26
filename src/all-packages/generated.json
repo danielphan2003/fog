@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "34358a9f85f5391212292f3fb9166d01a84b51f3",
-            "sha256": "sha256-SG683uOg6efy2X+04P5SIyHwxnkbbEPHYdT/KuSK78k=",
+            "rev": "0a5451baad0461ae459617a5c3fe9be7d7a3b48b",
+            "sha256": "sha256-7imPvJ5Pz7jETIfwiViAUUGUk8utdhWx1G1IPKh+XDQ=",
             "type": "github"
         },
-        "version": "34358a9f85f5391212292f3fb9166d01a84b51f3"
+        "version": "0a5451baad0461ae459617a5c3fe9be7d7a3b48b"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L50y/IogbB+qiv9yg8QTQCYW0gPoDaWpFXpTxPZUlf4=",
+            "sha256": "sha256-lqE5WrR4rTmDKRQC01LmIZzk7Pzb+5ixUapCjJNbNXk=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.11.2/revanced-cli-2.11.2-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.12.0/revanced-cli-2.12.0-all.jar"
         },
-        "version": "2.11.2"
+        "version": "2.12.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,

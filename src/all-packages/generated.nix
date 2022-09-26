@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "34358a9f85f5391212292f3fb9166d01a84b51f3";
+    version = "0a5451baad0461ae459617a5c3fe9be7d7a3b48b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "34358a9f85f5391212292f3fb9166d01a84b51f3";
+      rev = "0a5451baad0461ae459617a5c3fe9be7d7a3b48b";
       fetchSubmodules = false;
-      sha256 = "sha256-SG683uOg6efy2X+04P5SIyHwxnkbbEPHYdT/KuSK78k=";
+      sha256 = "sha256-7imPvJ5Pz7jETIfwiViAUUGUk8utdhWx1G1IPKh+XDQ=";
     });
   };
   caddy = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.11.2";
+    version = "2.12.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.11.2/revanced-cli-2.11.2-all.jar";
-      sha256 = "sha256-L50y/IogbB+qiv9yg8QTQCYW0gPoDaWpFXpTxPZUlf4=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.12.0/revanced-cli-2.12.0-all.jar";
+      sha256 = "sha256-lqE5WrR4rTmDKRQC01LmIZzk7Pzb+5ixUapCjJNbNXk=";
     };
   };
   revanced-integrations = {
