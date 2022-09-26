@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -4305,8 +4305,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.6/fil
 passthru = { publisher = "cloudstudio", name = "browser-preview-lite", description = "Browser preview extension", license = "MIT" }
 
 [cloudstudio-common]
-src.manual = "0.0.12" # cloudstudio.common
-fetch.url = "https://open-vsx.org/api/cloudstudio/common/0.0.12/file/cloudstudio.common-0.0.12.vsix" # cloudstudio.common
+src.manual = "0.0.13" # cloudstudio.common
+fetch.url = "https://open-vsx.org/api/cloudstudio/common/0.0.13/file/cloudstudio.common-0.0.13.vsix" # cloudstudio.common
 passthru = { publisher = "cloudstudio", name = "common", description = "This extension provides support for Cloud Stuido Web integration.", license = "MIT" }
 
 [Gruntfuggly-open-url]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.23" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.23/file/GenieBuilder.geniebuilder-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.23/file/GenieBuilder.geniebuilder-insider-0.1.23.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
