@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "106.0.1370.17";
+    version = "106.0.1370.26";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_106.0.1370.17-1_amd64.deb";
-      sha256 = "sha256-U8UWFLJUxghGDk22wEClaP5CaNkytyM8wHEw+48aPD0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_106.0.1370.26-1_amd64.deb";
+      sha256 = "sha256-liFUd8SwQe2sXAlAjDZePpOmLnh4zqYZl5jPPT4I8zM=";
     };
   };
   microsoft-edge-dev = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ecccdd5484122a304b41c17c81bebc9731b75a3b";
+    version = "3cdccb6b907822016741064c535107061db99ec3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ecccdd5484122a304b41c17c81bebc9731b75a3b";
+      rev = "3cdccb6b907822016741064c535107061db99ec3";
       fetchSubmodules = false;
-      sha256 = "sha256-+f5LZGaX0Df8trH3hY1ylV8GK2k3MZMEVRpk3xfMyHc=";
+      sha256 = "sha256-klmfAff+ueoIhmwk7x5mtIa2o5gKCCehdcTyPdAOgKo=";
     });
   };
   revanced-cli = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0589f5ae9ad47f01852b7b72a255ab3461e14d7d";
+    version = "9040ada6f49918fbac617f689fee6e13edf3fc17";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0589f5ae9ad47f01852b7b72a255ab3461e14d7d";
+      rev = "9040ada6f49918fbac617f689fee6e13edf3fc17";
       fetchSubmodules = false;
-      sha256 = "sha256-6tN6f66s7SF7uq1Ap7JyCF80HbnjaBmbptKTjlq+cVc=";
+      sha256 = "sha256-H/Y7IYzO0w8vh0XJIFqV1QWSI1SQLWM/bgHSAEf1p5g=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0589f5ae9ad47f01852b7b72a255ab3461e14d7d/Cargo.lock;
+      lockFile = ./rustdesk-9040ada6f49918fbac617f689fee6e13edf3fc17/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1222,13 +1222,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f981b1d9da97844c290e60dabfe973e9cd6dd782";
+    version = "e97d5634bffc3876cb5580fdbd59d9f6e8b2d2fa";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f981b1d9da97844c290e60dabfe973e9cd6dd782";
+      rev = "e97d5634bffc3876cb5580fdbd59d9f6e8b2d2fa";
       fetchSubmodules = false;
-      sha256 = "sha256-KrVteF2fbey49vPoUfaY6GsuI3jRrmUjehMfKvSggwA=";
+      sha256 = "sha256-HsrFcC2Z9wAWpVbrgkR4FryjTtKae31bltTkUOjJ3GE=";
     });
   };
   tailscale-systray = {
