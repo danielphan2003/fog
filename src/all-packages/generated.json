@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qUTtNKISbXwwvXppgCUnZUlttjuaxCD8L2hl56ot3Rs=",
+            "sha256": "sha256-o2TgPRdwuJwqI92ERnI0iOafoce8zUPXhBxgkB3EGzc=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-935-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-936-1_all.deb"
         },
-        "version": "1.0-935"
+        "version": "1.0-936"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Cj2E/YUhfPSFBVWHRTx5hMnGfzP6a1W3gHB6J5Ey0RI=",
+            "sha256": "sha256-B2xN0nKEMKmji7pQ0IlQ9Ca0YauueJcu3e//GscTorI=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6611.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6612.tar.bz2"
         },
-        "version": "1.0.6611"
+        "version": "1.0.6612"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hHuBn31i/Ed1XQvgQQf7LEUDXn4Wysx6rsTi1cOoKNY=",
+            "sha256": "sha256-jcqe7HrvRrKkwF3yQ5RE61Xx/1/0I2JdHxIgb96cc9M=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6611-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6612-1_all.deb"
         },
-        "version": "1.0.6611"
+        "version": "1.0.6612"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VsYh0zENlXMeqXfleeBPn5NvG0lXeo9iASjC3+si0Y8=",
+            "sha256": "sha256-II+It20cJQVFFbZAFIm16FXYr0sO+f6uPdM4EVl/oc0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.43.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.43.1/app-release-unsigned.apk"
         },
-        "version": "0.43.0"
+        "version": "0.43.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7gYMxQdefv7aMDUOPJTnQPJIKmZXhMYxrWIiAY1Z1ro=",
+            "sha256": "sha256-vtR+5GE3qYa1u0Jbe5umn8FOqHbaXy92eHoNdR7RGMg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.69.2/revanced-patches-2.69.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.69.3/revanced-patches-2.69.3.jar"
         },
-        "version": "2.69.2"
+        "version": "2.69.3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
