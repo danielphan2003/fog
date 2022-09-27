@@ -606,11 +606,11 @@
             "name": null,
             "owner": "muesli",
             "repo": "duf",
-            "rev": "9f808d952e8ac30c99c31c19f32086156a25141e",
-            "sha256": "sha256-D34KnKWV1QrHtcyz4ZohIkurXAnv7buz+O6YMtGnq+M=",
+            "rev": "bf3bcc890e33ba637f06271a72d0f7ee908a1140",
+            "sha256": "sha256-90lhbHud9s4q8XBozhuuPunmUpNByIw/C/OM2znDTyM=",
             "type": "github"
         },
-        "version": "9f808d952e8ac30c99c31c19f32086156a25141e"
+        "version": "bf3bcc890e33ba637f06271a72d0f7ee908a1140"
     },
     "eww": {
         "cargoLocks": {
