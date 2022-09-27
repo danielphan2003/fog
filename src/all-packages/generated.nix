@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6607";
+    version = "1.0.6608";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6607.tar.bz2";
-      sha256 = "sha256-ZBzYrXf3VdbN4XUuC4bxlOko2AtyuNgHa1Ktqxew/qQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6608.tar.bz2";
+      sha256 = "sha256-dKRg7e+OFfM0JHyR12pFJpRh3SUw0x8JvLCy38vHgZo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6607";
+    version = "1.0.6609";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6607-1_all.deb";
-      sha256 = "sha256-ft9AiQBR4ZDOSu7tBIx/fgsfJtu/jgkAIB8B1MefbGc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6609-1_all.deb";
+      sha256 = "sha256-iD06Ds5qZG2t6L54zuxDuCb2QLh9zrMssqD2A9CFLYk=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "dac851ace96abf132e3c470029e89d74166c1e61";
+    version = "e9b9fc8cf3a0716fd67ffda7ea3148d8ba65a569";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "dac851ace96abf132e3c470029e89d74166c1e61";
+      rev = "e9b9fc8cf3a0716fd67ffda7ea3148d8ba65a569";
       fetchSubmodules = false;
-      sha256 = "sha256-9FOGxhdRkQfcQk75TkxJ8zKFSbUc33RwmDX4pqnB+eI=";
+      sha256 = "sha256-eYOfdujKHuqyKEr4XsxYgVL8se/nTdMEbDzxK8ph8IM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-dac851ace96abf132e3c470029e89d74166c1e61/Cargo.lock;
+      lockFile = ./rustdesk-e9b9fc8cf3a0716fd67ffda7ea3148d8ba65a569/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1137,16 +1137,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "a4316df958b1d29c5b22c318ee00f6df96f9c6c7";
+    version = "e523711c9835202ef9cca83dd147684cd7efe0da";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "a4316df958b1d29c5b22c318ee00f6df96f9c6c7";
+      rev = "e523711c9835202ef9cca83dd147684cd7efe0da";
       fetchSubmodules = false;
-      sha256 = "sha256-hIbWuiterZ8S0GNInqmQl6V6aK08Eq+AZ89Vv8U69+s=";
+      sha256 = "sha256-Z+x70+/SRzhX+omjjbHQBTSNvebvBzzl2BDl5dGC+Vg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-a4316df958b1d29c5b22c318ee00f6df96f9c6c7/Cargo.lock;
+      lockFile = ./spotifyd-e523711c9835202ef9cca83dd147684cd7efe0da/Cargo.lock;
       outputHashes = {
         
       };
