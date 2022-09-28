@@ -221,35 +221,35 @@
   };
   cinny = {
     pname = "cinny";
-    version = "e2de51832cf704ee1d60fb6374eb47eade74b433";
+    version = "9185ee0cf94d3340aef2d464a91afcbd0471a96d";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "e2de51832cf704ee1d60fb6374eb47eade74b433";
+      rev = "9185ee0cf94d3340aef2d464a91afcbd0471a96d";
       fetchSubmodules = false;
-      sha256 = "sha256-TR7N8jmpFejTMfAi4Be69oTbVKqssaMKrzm6Voy9m8M=";
+      sha256 = "sha256-6EA8qIgFW9Jeo/clnNg/sAJhJJyyP0A/lCNe9jquOQU=";
     });
   };
   cinny-bin = {
     pname = "cinny-bin";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny/releases/download/v2.2.0/cinny-v2.2.0.tar.gz";
-      sha256 = "sha256-wwMNb3WBW/I72MXfeYdUZzE/z9YgPFdRbq/F0AdKf9Q=";
+      url = "https://github.com/cinnyapp/cinny/releases/download/v2.2.1/cinny-v2.2.1.tar.gz";
+      sha256 = "sha256-fX7/QLpMgsdQZQIzLeehuSpGi8PFbelngTEa2HJETTg=";
     };
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "b95adf903c20756cf98aedad7a8d5397e87d3a09";
+    version = "475f78b5bcda779887d401c7b34e08e56570bce0";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "b95adf903c20756cf98aedad7a8d5397e87d3a09";
+      rev = "475f78b5bcda779887d401c7b34e08e56570bce0";
       fetchSubmodules = true;
-      sha256 = "sha256-mLLrbji5TLGsYWXOTxaxFxOJHJQxIQ16RBpOU4Ibimc=";
+      sha256 = "sha256-PAmY8fZNFpEdl+2HsZid4EvZcuXI3mcSRnsO4GZtQx4=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-b95adf903c20756cf98aedad7a8d5397e87d3a09/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-475f78b5bcda779887d401c7b34e08e56570bce0/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -257,10 +257,10 @@
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.0/Cinny_desktop-x86_64.AppImage";
-      sha256 = "sha256-rY9x7bPpdvOm1JK5XJtYwFjrRk/8Le5S+gFnt52KJXY=";
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.1/Cinny_desktop-x86_64.AppImage";
+      sha256 = "sha256-VBP/hXFTLRE7lH4DHpKSuDujoJYTommDPm/zmKtjdq0=";
     };
   };
   conduit = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7a775c0584db95af25bae1c07952c99c6c1bfe6e";
+    version = "ec5ffe8839c9c993fed4c23d72077969615dd298";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "7a775c0584db95af25bae1c07952c99c6c1bfe6e";
+      rev = "ec5ffe8839c9c993fed4c23d72077969615dd298";
       fetchSubmodules = false;
-      sha256 = "sha256-a9urkQl4xDAFw9khIpBw2DgqE0dZdHS3ft/X5qnTju4=";
+      sha256 = "sha256-eavVnSeBkwLf3IXm9Yxh+FNC3sbNkvqaHmYfo9QYknE=";
     });
   };
   ibus = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.43.1";
+    version = "0.44.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.43.1/app-release-unsigned.apk";
-      sha256 = "sha256-II+It20cJQVFFbZAFIm16FXYr0sO+f6uPdM4EVl/oc0=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.44.0/app-release-unsigned.apk";
+      sha256 = "sha256-9BGqfJzoQ8Uoz25HooRtIK1KQJe/X93iBvYSSjtakcU=";
     };
   };
   revanced-patches-jar = {
