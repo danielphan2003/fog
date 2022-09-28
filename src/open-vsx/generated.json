@@ -487,11 +487,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ufE0Lj/6DjdGpQlnHpOo/dkdY61fjRA+d/sbaMKlwyg=",
+            "sha256": "sha256-Bsxzm38AKdYkXaQ5ewv4KP1TGZC2+PJNjpUNJiYVYLk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Boa/boalang/0.2.4/file/Boa.boalang-0.2.4.vsix"
+            "url": "https://open-vsx.org/api/Boa/boalang/0.2.5/file/Boa.boalang-0.2.5.vsix"
         },
-        "version": "0.2.4"
+        "version": "0.2.5"
     },
     "Brenek-kotlin-for-frc": {
         "cargoLocks": null,
@@ -28436,11 +28436,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NkZ/2k/xKbO/u74X02IvOx7xbopYU2aysUvkAO4EZIU=",
+            "sha256": "sha256-z+gbyYrskAkm61isXruwV4BPh5yqaya58FZCQmQ3xt0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.41.0/file/quarto.quarto-1.41.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.42.0/file/quarto.quarto-1.42.0.vsix"
         },
-        "version": "1.41.0"
+        "version": "1.42.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,
@@ -29690,11 +29690,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5TcjGHScjqgzcGYQyc0opdkKUH2oGuCEQfliEMYo/Tg=",
+            "sha256": "sha256-deaD1T08R5jbBvLyl+L/6jWSWcCqoq7RiEvUXSXKMpM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robocorp/robocorp-code/0.37.0/file/robocorp.robocorp-code-0.37.0.vsix"
+            "url": "https://open-vsx.org/api/robocorp/robocorp-code/0.38.0/file/robocorp.robocorp-code-0.38.0.vsix"
         },
-        "version": "0.37.0"
+        "version": "0.38.0"
     },
     "robocorp-robotframework-lsp": {
         "cargoLocks": null,
@@ -29709,11 +29709,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Gih6g5v1pC2cqytjm2fVb/Nand6TTtwfA4nu7ifZNGA=",
+            "sha256": "sha256-2ZDYbRRk085LM8L9Yg9FCqAbdhde4Mbgi5u51DyrlDE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/1.1.3/file/robocorp.robotframework-lsp-1.1.3.vsix"
+            "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/1.2.0/file/robocorp.robotframework-lsp-1.2.0.vsix"
         },
-        "version": "1.1.3"
+        "version": "1.2.0"
     },
     "robole-file-bunny": {
         "cargoLocks": null,
@@ -37461,11 +37461,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cBp5efcByIjCRn9U6L4rthIP11+qvfCc5m9QVymV5j4=",
+            "sha256": "sha256-W5m6GDbARwprxXRFr6uDxkHXbFALL4+rU45qVAKpeQA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.0/file/weaveworks.vscode-gitops-tools-0.22.0.vsix"
+            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.2/file/weaveworks.vscode-gitops-tools-0.22.2.vsix"
         },
-        "version": "0.22.0"
+        "version": "0.22.2"
     },
     "webfreak-code-d": {
         "cargoLocks": null,

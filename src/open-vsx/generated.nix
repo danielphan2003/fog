@@ -303,10 +303,10 @@
   };
   Boa-boalang = {
     pname = "Boa-boalang";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Boa/boalang/0.2.4/file/Boa.boalang-0.2.4.vsix";
-      sha256 = "sha256-ufE0Lj/6DjdGpQlnHpOo/dkdY61fjRA+d/sbaMKlwyg=";
+      url = "https://open-vsx.org/api/Boa/boalang/0.2.5/file/Boa.boalang-0.2.5.vsix";
+      sha256 = "sha256-Bsxzm38AKdYkXaQ5ewv4KP1TGZC2+PJNjpUNJiYVYLk=";
     };
     license = "Apache-2.0";
     name = "boalang";
@@ -17955,10 +17955,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.41.0";
+    version = "1.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.41.0/file/quarto.quarto-1.41.0.vsix";
-      sha256 = "sha256-NkZ/2k/xKbO/u74X02IvOx7xbopYU2aysUvkAO4EZIU=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.42.0/file/quarto.quarto-1.42.0.vsix";
+      sha256 = "sha256-z+gbyYrskAkm61isXruwV4BPh5yqaya58FZCQmQ3xt0=";
     };
     license = "MIT";
     name = "quarto";
@@ -18747,10 +18747,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.37.0";
+    version = "0.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.37.0/file/robocorp.robocorp-code-0.37.0.vsix";
-      sha256 = "sha256-5TcjGHScjqgzcGYQyc0opdkKUH2oGuCEQfliEMYo/Tg=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.38.0/file/robocorp.robocorp-code-0.38.0.vsix";
+      sha256 = "sha256-deaD1T08R5jbBvLyl+L/6jWSWcCqoq7RiEvUXSXKMpM=";
     };
     license = "";
     name = "robocorp-code";
@@ -18759,10 +18759,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "1.1.3";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.1.3/file/robocorp.robotframework-lsp-1.1.3.vsix";
-      sha256 = "sha256-Gih6g5v1pC2cqytjm2fVb/Nand6TTtwfA4nu7ifZNGA=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.2.0/file/robocorp.robotframework-lsp-1.2.0.vsix";
+      sha256 = "sha256-2ZDYbRRk085LM8L9Yg9FCqAbdhde4Mbgi5u51DyrlDE=";
     };
     license = "Apache 2.0";
     name = "robotframework-lsp";
@@ -23655,10 +23655,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.22.0";
+    version = "0.22.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.0/file/weaveworks.vscode-gitops-tools-0.22.0.vsix";
-      sha256 = "sha256-cBp5efcByIjCRn9U6L4rthIP11+qvfCc5m9QVymV5j4=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.2/file/weaveworks.vscode-gitops-tools-0.22.2.vsix";
+      sha256 = "sha256-W5m6GDbARwprxXRFr6uDxkHXbFALL4+rU45qVAKpeQA=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
