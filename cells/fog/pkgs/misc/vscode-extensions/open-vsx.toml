@@ -10356,14 +10356,14 @@ passthru = { publisher = "ArmantGoldswain", name = "seesharp-theme", description
 
 
 [foretag-rust-toolkit]
-src.manual = "0.1.6" # foretag.rust-toolkit
-fetch.url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.6/file/foretag.rust-toolkit-0.1.6.vsix" # foretag.rust-toolkit
+src.manual = "0.1.8" # foretag.rust-toolkit
+fetch.url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.8/file/foretag.rust-toolkit-0.1.8.vsix" # foretag.rust-toolkit
 passthru = { publisher = "foretag", name = "rust-toolkit", description = "", license = "" }
 
 
 [foretag-frontend-toolkit]
-src.manual = "0.1.7" # foretag.frontend-toolkit
-fetch.url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.7/file/foretag.frontend-toolkit-0.1.7.vsix" # foretag.frontend-toolkit
+src.manual = "0.1.8" # foretag.frontend-toolkit
+fetch.url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.8/file/foretag.frontend-toolkit-0.1.8.vsix" # foretag.frontend-toolkit
 passthru = { publisher = "foretag", name = "frontend-toolkit", description = "A collection of tools and extensions to enhance your frontend development experience.", license = "" }
 
 
@@ -10728,5 +10728,6 @@ passthru = { publisher = "filiptronicek", name = "vscode-platform-specific-sampl
 src.manual = "1.18.10666" # devsense.profiler-php-vscode
 fetch.url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10666/file/devsense.profiler-php-vscode-1.18.10666.vsix" # devsense.profiler-php-vscode
 passthru = { publisher = "devsense", name = "profiler-php-vscode", description = "Support for PHP (Xdebug) profiling files and inspecting them.", license = "LicenseRef-LICENSE" }
+
 
 

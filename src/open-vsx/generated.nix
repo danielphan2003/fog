@@ -9999,10 +9999,10 @@
   };
   foretag-frontend-toolkit = {
     pname = "foretag-frontend-toolkit";
-    version = "0.1.7";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.7/file/foretag.frontend-toolkit-0.1.7.vsix";
-      sha256 = "sha256-FkH8iQbVLt6boRvaQ0JT983FeHSMdU4Hxn8pkqxdn5o=";
+      url = "https://open-vsx.org/api/foretag/frontend-toolkit/0.1.8/file/foretag.frontend-toolkit-0.1.8.vsix";
+      sha256 = "sha256-7hp3dy9VQJqaR+xScmCm7Lo7IhSBWDdYdc2e26J9fgc=";
     };
     license = "";
     name = "frontend-toolkit";
@@ -10011,10 +10011,10 @@
   };
   foretag-rust-toolkit = {
     pname = "foretag-rust-toolkit";
-    version = "0.1.6";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.6/file/foretag.rust-toolkit-0.1.6.vsix";
-      sha256 = "sha256-eYCw8JiX3O4fsWqVqzSifDnEyGfo76NP5V1OragFDJM=";
+      url = "https://open-vsx.org/api/foretag/rust-toolkit/0.1.8/file/foretag.rust-toolkit-0.1.8.vsix";
+      sha256 = "sha256-x06oISAdEA4uMJAgYxcCFXhawzPfk/nK+JuJztotsKI=";
     };
     license = "";
     name = "rust-toolkit";
