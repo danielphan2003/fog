@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "c2ae56eeb3771351c733d4fad911bf9f2385397a";
+    version = "7ac2feb3dbf5b398814b90144e7a05a969cbd0ac";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "c2ae56eeb3771351c733d4fad911bf9f2385397a";
+      rev = "7ac2feb3dbf5b398814b90144e7a05a969cbd0ac";
       fetchSubmodules = false;
-      sha256 = "sha256-gGGS+a7C6AzH6eq1VTaYYGFeJWaVxQpbnX7xNNEN15o=";
+      sha256 = "sha256-oZEtWVtDCwABPQw2GYMy/URXKc5F3SPGfSccgKIDikA=";
     });
   };
   caddy = {
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "d0ddedc2b20fc30a1c8b2f9d3d02b6a5ae6e9c49";
+    version = "e2de51832cf704ee1d60fb6374eb47eade74b433";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "d0ddedc2b20fc30a1c8b2f9d3d02b6a5ae6e9c49";
+      rev = "e2de51832cf704ee1d60fb6374eb47eade74b433";
       fetchSubmodules = false;
-      sha256 = "sha256-oBxA2vWGctPHlciFif2nkH9e5hqc7lWb1UztsksSti4=";
+      sha256 = "sha256-TR7N8jmpFejTMfAi4Be69oTbVKqssaMKrzm6Voy9m8M=";
     });
   };
   cinny-bin = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.71.0";
+    version = "2.71.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.71.0/revanced-patches-2.71.0.jar";
-      sha256 = "sha256-k9hi1pwW9HNpPvZSWv55yxOBRxTb6p411grNe+ptlJ4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.71.2/revanced-patches-2.71.2.jar";
+      sha256 = "sha256-KYaNjZG/Nag4di+re1N2MGGr9+uLmcTnfU1tpJHgc0I=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "ff567537563550f9b4aa70e051d9399fbdb56846";
+    version = "77276dd78e49eb977840ade8afd16525f7c661a2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "ff567537563550f9b4aa70e051d9399fbdb56846";
+      rev = "77276dd78e49eb977840ade8afd16525f7c661a2";
       fetchSubmodules = false;
-      sha256 = "sha256-7lM+/ugLSky2RtKaGHvWng6Di2+uTiIPmW1qNS30VcM=";
+      sha256 = "sha256-vVabhV7j6LnoFg2XpvB2jU0XqKr64LlFhhgzs++fDio=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-ff567537563550f9b4aa70e051d9399fbdb56846/Cargo.lock;
+      lockFile = ./rustdesk-77276dd78e49eb977840ade8afd16525f7c661a2/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
