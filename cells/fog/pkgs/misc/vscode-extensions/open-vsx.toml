@@ -8775,8 +8775,8 @@ fetch.url = "https://open-vsx.org/api/ruiferreira/autoi18n/0.0.5/file/ruiferreir
 passthru = { publisher = "ruiferreira", name = "autoi18n", description = "Auto I18N", license = "Apache-2.0" }
 
 [devsense-phptools-vscode]
-src.manual = "1.17.10653" # devsense.phptools-vscode
-fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/web/1.17.10653/file/devsense.phptools-vscode-1.17.10653@web.vsix" # devsense.phptools-vscode
+src.manual = "1.18.10666" # devsense.phptools-vscode
+fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10666/file/devsense.phptools-vscode-1.18.10666@win32-x64.vsix" # devsense.phptools-vscode
 passthru = { publisher = "devsense", name = "phptools-vscode", description = "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.", license = "LicenseRef-LICENSE" }
 
 [codezombiech-gitignore]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.24.1/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1458" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1458/file/Prisma.prisma-insider-31.0.1458.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1465" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10455,8 +10455,8 @@ passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS 
 
 
 [devsense-composer-php-vscode]
-src.manual = "1.17.10653" # devsense.composer-php-vscode
-fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.17.10653/file/devsense.composer-php-vscode-1.17.10653.vsix" # devsense.composer-php-vscode
+src.manual = "1.18.10666" # devsense.composer-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10666/file/devsense.composer-php-vscode-1.18.10666.vsix" # devsense.composer-php-vscode
 passthru = { publisher = "devsense", name = "composer-php-vscode", description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.", license = "LicenseRef-LICENSE" }
 
 
@@ -10722,4 +10722,10 @@ passthru = { publisher = "albert", name = "TabOut", description = "Tab out of qu
 src.manual = "1.18.0" # filiptronicek.vscode-platform-specific-sample
 fetch.url = "https://open-vsx.org/api/filiptronicek/vscode-platform-specific-sample/linux-x64/1.18.0/file/filiptronicek.vscode-platform-specific-sample-1.18.0@linux-x64.vsix" # filiptronicek.vscode-platform-specific-sample
 passthru = { publisher = "filiptronicek", name = "vscode-platform-specific-sample", description = "VS Code platform specific extension sample", license = "MIT" }
+
+
+[devsense-profiler-php-vscode]
+src.manual = "1.18.10666" # devsense.profiler-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10666/file/devsense.profiler-php-vscode-1.18.10666.vsix" # devsense.profiler-php-vscode
+passthru = { publisher = "devsense", name = "profiler-php-vscode", description = "Support for PHP (Xdebug) profiling files and inspecting them.", license = "LicenseRef-LICENSE" }
 

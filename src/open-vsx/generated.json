@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vTr8yEJKl6noB4nUgsA2VWnd/BE4kbNC+FTQUIz3ZNQ=",
+            "sha256": "sha256-+Nz5weswBh0zyyK1esVfapFWYG7plMay7WWyytaKmtk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1458/file/Prisma.prisma-insider-31.0.1458.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix"
         },
-        "version": "31.0.1458"
+        "version": "31.0.1465"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -13578,11 +13578,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iB/cvGnGl5SN7SymcnpX9LGrrdj3E8zGTA38BAC0zdM=",
+            "sha256": "sha256-MfXxLEH6+ARr9YEmeNxhQnAG9rz8D+PVRFz7TXYpzcI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.17.10653/file/devsense.composer-php-vscode-1.17.10653.vsix"
+            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10666/file/devsense.composer-php-vscode-1.18.10666.vsix"
         },
-        "version": "1.17.10653"
+        "version": "1.18.10666"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -13597,11 +13597,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-68sRja3rsKaxz5zfMHYMpwgqjNrW1I4u2biykXyutRo=",
+            "sha256": "sha256-SdwlmRjC5mHp+Iz0MT5kx8K3Kb4gagHc5/bIYpHa6A4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/phptools-vscode/web/1.17.10653/file/devsense.phptools-vscode-1.17.10653@web.vsix"
+            "url": "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10666/file/devsense.phptools-vscode-1.18.10666@win32-x64.vsix"
         },
-        "version": "1.17.10653"
+        "version": "1.18.10666"
+    },
+    "devsense-profiler-php-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "devsense-profiler-php-vscode",
+        "passthru": {
+            "description": "Support for PHP (Xdebug) profiling files and inspecting them.",
+            "license": "LicenseRef-LICENSE",
+            "name": "profiler-php-vscode",
+            "publisher": "devsense"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-g+Aw41G5HNe7JEN873qTVLRrUidv/bd3Uaa2fnsmzwg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10666/file/devsense.profiler-php-vscode-1.18.10666.vsix"
+        },
+        "version": "1.18.10666"
     },
     "dez64ru-macos-modern-theme": {
         "cargoLocks": null,

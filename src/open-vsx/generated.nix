@@ -3207,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1458";
+    version = "31.0.1465";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1458/file/Prisma.prisma-insider-31.0.1458.vsix";
-      sha256 = "sha256-vTr8yEJKl6noB4nUgsA2VWnd/BE4kbNC+FTQUIz3ZNQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix";
+      sha256 = "sha256-+Nz5weswBh0zyyK1esVfapFWYG7plMay7WWyytaKmtk=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8571,10 +8571,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.17.10653";
+    version = "1.18.10666";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.17.10653/file/devsense.composer-php-vscode-1.17.10653.vsix";
-      sha256 = "sha256-iB/cvGnGl5SN7SymcnpX9LGrrdj3E8zGTA38BAC0zdM=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10666/file/devsense.composer-php-vscode-1.18.10666.vsix";
+      sha256 = "sha256-MfXxLEH6+ARr9YEmeNxhQnAG9rz8D+PVRFz7TXYpzcI=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8583,14 +8583,26 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.17.10653";
+    version = "1.18.10666";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/web/1.17.10653/file/devsense.phptools-vscode-1.17.10653@web.vsix";
-      sha256 = "sha256-68sRja3rsKaxz5zfMHYMpwgqjNrW1I4u2biykXyutRo=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10666/file/devsense.phptools-vscode-1.18.10666@win32-x64.vsix";
+      sha256 = "sha256-SdwlmRjC5mHp+Iz0MT5kx8K3Kb4gagHc5/bIYpHa6A4=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
     description = "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.";
+    publisher = "devsense";
+  };
+  devsense-profiler-php-vscode = {
+    pname = "devsense-profiler-php-vscode";
+    version = "1.18.10666";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10666/file/devsense.profiler-php-vscode-1.18.10666.vsix";
+      sha256 = "sha256-g+Aw41G5HNe7JEN873qTVLRrUidv/bd3Uaa2fnsmzwg=";
+    };
+    license = "LicenseRef-LICENSE";
+    name = "profiler-php-vscode";
+    description = "Support for PHP (Xdebug) profiling files and inspecting them.";
     publisher = "devsense";
   };
   dez64ru-macos-modern-theme = {
