@@ -392,16 +392,16 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fX7/QLpMgsdQZQIzLeehuSpGi8PFbelngTEa2HJETTg=",
+            "sha256": "sha256-MNmU6MvDwGbFNQt7qe08klXjy1n2LiABlPkARGvjVJU=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.2.1/cinny-v2.2.1.tar.gz"
+            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.2.2/cinny-v2.2.2.tar.gz"
         },
-        "version": "2.2.1"
+        "version": "2.2.2"
     },
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-475f78b5bcda779887d401c7b34e08e56570bce0/src-tauri/Cargo.lock",
+                "./cinny-desktop-ed23a1178868c722d0887a69e25aff388ce9e15f/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "475f78b5bcda779887d401c7b34e08e56570bce0",
-            "sha256": "sha256-PAmY8fZNFpEdl+2HsZid4EvZcuXI3mcSRnsO4GZtQx4=",
+            "rev": "ed23a1178868c722d0887a69e25aff388ce9e15f",
+            "sha256": "sha256-5r1gWfAE6kc4/lVVWvzOJM7fMx0lrT8l23E/+L1Lyvs=",
             "type": "github"
         },
-        "version": "475f78b5bcda779887d401c7b34e08e56570bce0"
+        "version": "ed23a1178868c722d0887a69e25aff388ce9e15f"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -430,11 +430,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VBP/hXFTLRE7lH4DHpKSuDujoJYTommDPm/zmKtjdq0=",
+            "sha256": "sha256-1Yf/9Ott0sAtimMkuU/TVW1PpXVmYIxbCRNQAz3qCHU=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.1/Cinny_desktop-x86_64.AppImage"
+            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.2/Cinny_desktop-x86_64.AppImage"
         },
-        "version": "2.2.1"
+        "version": "2.2.2"
     },
     "conduit": {
         "cargoLocks": {
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qylKkOS4phJL5Hw/s0qYabUcoNCT2+DsGcZkYYJnNMw=",
+            "sha256": "sha256-EoavwTXHFMhxnnz643hnMQxkhcYKLoGL3P1kswEAhdM=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6619.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6620.tar.bz2"
         },
-        "version": "1.0.6619"
+        "version": "1.0.6620"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-z3OhBF+ENfhlc5m2IxGSZoFwn/waWioZ73fKNCuVov8=",
+            "sha256": "sha256-p8quJVjce898iI2nLa9HPyPKLmMsUHtC4fADmuuiP4Y=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6619-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6620-1_all.deb"
         },
-        "version": "1.0.6619"
+        "version": "1.0.6620"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
