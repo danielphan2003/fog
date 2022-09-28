@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "d0556929a4a574ea67be4c1ca2a2741b0f7a52c2";
+    version = "61822f129b9edbbc1ed2fd068d8e5ba919b5881d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "d0556929a4a574ea67be4c1ca2a2741b0f7a52c2";
+      rev = "61822f129b9edbbc1ed2fd068d8e5ba919b5881d";
       fetchSubmodules = false;
-      sha256 = "sha256-zWUinxClIBFIEV25SGQ7DsfeXSTaN0yfmnI0ekAyw3s=";
+      sha256 = "sha256-vEDzc+mh7UZYXDCCjPvOGPNweriVgFPOPYcTgMfWK+s=";
     });
   };
   cinny = {
@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-938";
+    version = "1.0-939";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-938-1_all.deb";
-      sha256 = "sha256-IaY6Kx2q9xZMBZE6Me6OJA+OUuZLvIkVo82CT1JMwGk=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-939-1_all.deb";
+      sha256 = "sha256-EuFvoj+Po/943NMWNAEzR+jcb4WMhwAutYqspqfdsKo=";
     };
   };
   jitsi-meet = {
