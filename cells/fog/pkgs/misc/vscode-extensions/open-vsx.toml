@@ -10142,10 +10142,6 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 
 
 
-[br4ch1st0chr0n3-purs-hotkeys]
-src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
-fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
-passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
 
 
 
