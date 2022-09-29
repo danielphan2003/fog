@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "e2991eb019e36b612be3d7b43ed961c7a7e3841d",
-            "sha256": "sha256-UlH+EsMI5wgPtjP4Zrb1eZ63ePuDzGN31XrAL6R0L+8=",
+            "rev": "ab720fb768a2602f940cb7296c34021b5bb6c7e6",
+            "sha256": "sha256-qIMbJlhiexEY4/M4HtzHIvj0flTpGa7JuHLbFZZxo1s=",
             "type": "github"
         },
-        "version": "e2991eb019e36b612be3d7b43ed961c7a7e3841d"
+        "version": "ab720fb768a2602f940cb7296c34021b5bb6c7e6"
     },
     "cinny": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "2636abca2dcf1eca2c0296bb817f644b8626a860",
-            "sha256": "sha256-fvMT8W/b8Ai/4lHq62/BGJGS/oJP+HTWNCjykKGG548=",
+            "rev": "9f9129e53647f61ffa70287ae0cc83d70d4c9bf6",
+            "sha256": "sha256-HQt8v9XFj1bHymv+R8JH8Vx1rmjO8oQ2YFBf5rzq3Ok=",
             "type": "github"
         },
-        "version": "2636abca2dcf1eca2c0296bb817f644b8626a860"
+        "version": "9f9129e53647f61ffa70287ae0cc83d70d4c9bf6"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sc1+LL3OGulNCv/zBYPIUhAyrr9sh3/edDlrFwAAYXc=",
+            "sha256": "sha256-fkvrVF8TD2G0UucO4oxSDK75iJxvOJwt80gNQ7hGuyw=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6626.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6627.tar.bz2"
         },
-        "version": "1.0.6626"
+        "version": "1.0.6627"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HOZs1NhTSK62coaSmeY9/eoGBJtgzwm6t0tr+ZZXPac=",
+            "sha256": "sha256-GFnHhrXVYA2PdBi7eHdQPk0FQH8cm1iKlfhfW05PBq8=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6626-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6627-1_all.deb"
         },
-        "version": "1.0.6626"
+        "version": "1.0.6627"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KYaNjZG/Nag4di+re1N2MGGr9+uLmcTnfU1tpJHgc0I=",
+            "sha256": "sha256-otZl33c1JkKbFQ9AVL3tuUZ/IZt/VYNiLN7CU6nUCks=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.71.2/revanced-patches-2.71.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.72.0/revanced-patches-2.72.0.jar"
         },
-        "version": "2.71.2"
+        "version": "2.72.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
