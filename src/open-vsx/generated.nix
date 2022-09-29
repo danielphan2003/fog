@@ -3567,10 +3567,10 @@
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
-    version = "3.0.0";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/3.0.0/file/Shelex.vscode-cy-helper-3.0.0.vsix";
-      sha256 = "sha256-Jwj3lr8gWEHBtfio8HVWSUIgdoMnTSpbpg1mwPIUow4=";
+      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/3.1.0/file/Shelex.vscode-cy-helper-3.1.0.vsix";
+      sha256 = "sha256-hgbid7ZrHVI/TidwLbyxzBpwnGcy54ISFrTBkedI5Yo=";
     };
     license = "Apache-2.0";
     name = "vscode-cy-helper";
@@ -8019,10 +8019,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.8";
+    version = "0.18.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.8/file/cyrusfirheir.twee3-language-tools-0.18.8.vsix";
-      sha256 = "sha256-G6ma40h+ztNxi9zTUfIUVyIOHKGMpiggDEt5LaCKUy8=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.9/file/cyrusfirheir.twee3-language-tools-0.18.9.vsix";
+      sha256 = "sha256-1HLv/iJ4UXn31DegDQM4JdcwATwwElc3mlAY8NNpqFw=";
     };
     license = "MIT";
     name = "twee3-language-tools";
@@ -24219,10 +24219,10 @@
   };
   yandeu-five-server = {
     pname = "yandeu-five-server";
-    version = "0.1.8";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yandeu/five-server/0.1.8/file/yandeu.five-server-0.1.8.vsix";
-      sha256 = "sha256-fHeuEcTD63jpN4u4pH01VwQA/EjQpeK47cTFsMvnyxs=";
+      url = "https://open-vsx.org/api/yandeu/five-server/0.1.9/file/yandeu.five-server-0.1.9.vsix";
+      sha256 = "sha256-OICeDurdiMbi0oNpds5VcyTDE4QZR2xVDEfsuncvhK8=";
     };
     license = "";
     name = "five-server";
