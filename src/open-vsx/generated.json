@@ -28208,11 +28208,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U+2q9apdCOIGHlTY5FmEk8otryrltNQxAPofcZDhuzs=",
+            "sha256": "sha256-dvOMYHc7e0deIkWUr4pCvqZke/iWttPNyM4zA/yy17Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/projektanker/code-butler/2.0.0/file/projektanker.code-butler-2.0.0.vsix"
+            "url": "https://open-vsx.org/api/projektanker/code-butler/2.1.0/file/projektanker.code-butler-2.1.0.vsix"
         },
-        "version": "2.0.0"
+        "version": "2.1.0"
     },
     "pshershov-blueberry-banana": {
         "cargoLocks": null,

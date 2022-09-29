@@ -17811,10 +17811,10 @@
   };
   projektanker-code-butler = {
     pname = "projektanker-code-butler";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/projektanker/code-butler/2.0.0/file/projektanker.code-butler-2.0.0.vsix";
-      sha256 = "sha256-U+2q9apdCOIGHlTY5FmEk8otryrltNQxAPofcZDhuzs=";
+      url = "https://open-vsx.org/api/projektanker/code-butler/2.1.0/file/projektanker.code-butler-2.1.0.vsix";
+      sha256 = "sha256-dvOMYHc7e0deIkWUr4pCvqZke/iWttPNyM4zA/yy17Q=";
     };
     license = "MIT";
     name = "code-butler";
