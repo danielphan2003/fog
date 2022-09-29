@@ -8905,8 +8905,8 @@ fetch.url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.ma
 passthru = { publisher = "svsool", name = "markdown-memo", description = "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode", license = "MIT" }
 
 [d-biehl-robotcode]
-src.manual = "0.13.13" # d-biehl.robotcode
-fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.13/file/d-biehl.robotcode-0.13.13.vsix" # d-biehl.robotcode
+src.manual = "0.13.14" # d-biehl.robotcode
+fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.14/file/d-biehl.robotcode-0.13.14.vsix" # d-biehl.robotcode
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
 [spoorthi-cosmy-wasmy]
@@ -9695,8 +9695,8 @@ fetch.url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.7/file/z
 passthru = { publisher = "zerodind", name = "familiar-java-themes", description = "Familiar color themes inspired by Java IDEs like Eclipse and IntelliJ IDEA.", license = "MIT" }
 
 [sourcegraph-sourcegraph]
-src.manual = "2.2.10" # sourcegraph.sourcegraph
-fetch.url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.10/file/sourcegraph.sourcegraph-2.2.10.vsix" # sourcegraph.sourcegraph
+src.manual = "2.2.12" # sourcegraph.sourcegraph
+fetch.url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.12/file/sourcegraph.sourcegraph-2.2.12.vsix" # sourcegraph.sourcegraph
 passthru = { publisher = "sourcegraph", name = "sourcegraph", description = "Sourcegraph for VS Code", license = "Apache-2.0" }
 
 [zenclabs-previewjs]
@@ -9930,8 +9930,8 @@ fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKie
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
-src.manual = "0.14.75" # redhat.ansible
-fetch.url = "https://open-vsx.org/api/redhat/ansible/0.14.75/file/redhat.ansible-0.14.75.vsix" # redhat.ansible
+src.manual = "0.14.76" # redhat.ansible
+fetch.url = "https://open-vsx.org/api/redhat/ansible/0.14.76/file/redhat.ansible-0.14.76.vsix" # redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
@@ -9965,8 +9965,8 @@ fetch.url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.15/file/TabNine
 passthru = { publisher = "TabNine", name = "tabnine-vscode", description = "cript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.", license = "License at https://tabnine.com/eula" }
 
 [redhat-java]
-src.manual = "1.10.0" # redhat.java
-fetch.url = "https://open-vsx.org/api/redhat/java/1.10.0/file/redhat.java-1.10.0.vsix" # redhat.java
+src.manual = "1.11.0" # redhat.java
+fetch.url = "https://open-vsx.org/api/redhat/java/1.11.0/file/redhat.java-1.11.0.vsix" # redhat.java
 passthru = { publisher = "redhat", name = "java", description = "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...", license = "EPL-2.0" }
 
 [redhat-vscode-yaml]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

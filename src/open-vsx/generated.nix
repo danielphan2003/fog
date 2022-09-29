@@ -8031,10 +8031,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.13";
+    version = "0.13.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.13/file/d-biehl.robotcode-0.13.13.vsix";
-      sha256 = "sha256-0i7EP/9vPkQsXxSLbY3wmhDUQJjUkUuu9yL4uV2xeuY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.14/file/d-biehl.robotcode-0.13.14.vsix";
+      sha256 = "sha256-btmdIlo8p0YjKomDGDg/7QP6polyVgchrfpBZyNaKIo=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -18231,10 +18231,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.14.75";
+    version = "0.14.76";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.14.75/file/redhat.ansible-0.14.75.vsix";
-      sha256 = "sha256-bfmD7okfS2e0Duxef4hcUSV9c1Xsp2yYq5dOqVC5Np0=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.14.76/file/redhat.ansible-0.14.76.vsix";
+      sha256 = "sha256-SBQKmLXSAMZLx36BUp1ZTmrZe55i5NY5B7OoedbJlIE=";
     };
     license = "MIT";
     name = "ansible";
@@ -18279,10 +18279,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.10.0";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.10.0/file/redhat.java-1.10.0.vsix";
-      sha256 = "sha256-Ra2flTEcJ56GIIrjbPk59DZ0b5F9zIcoK3eV+TzSrxw=";
+      url = "https://open-vsx.org/api/redhat/java/1.11.0/file/redhat.java-1.11.0.vsix";
+      sha256 = "sha256-0r5oLVfvO8AXnRVV2adBoCImhyY2zc7Fb+BArFkV928=";
     };
     license = "EPL-2.0";
     name = "java";
@@ -20115,10 +20115,10 @@
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
-    version = "2.2.10";
+    version = "2.2.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.10/file/sourcegraph.sourcegraph-2.2.10.vsix";
-      sha256 = "sha256-HkhJgSO8AjZad1fvyzPagEdIhFBKobHsI6Cn4zZ8tuc=";
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.12/file/sourcegraph.sourcegraph-2.2.12.vsix";
+      sha256 = "sha256-qLS4bMaQOmy9NnmACmQzIdzkmp6U02FNy95M50Wy1Eg=";
     };
     license = "Apache-2.0";
     name = "sourcegraph";
