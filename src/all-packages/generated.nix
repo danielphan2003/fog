@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "5ac8b7fc562b393ab91021b149706a7dab060496";
+    version = "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "5ac8b7fc562b393ab91021b149706a7dab060496";
+      rev = "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3";
       fetchSubmodules = false;
-      sha256 = "sha256-bYK0ZgBSt4iJRFja4Pk3mUvXlBfoO7zpWbbRTnrxLqc=";
+      sha256 = "sha256-daLb7ebMVeL+f8WydH4DONkUA+0D6d+v+pohJb2qjOo=";
     });
   };
   playit-agent = {
@@ -820,10 +820,10 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.40.0";
+    version = "1.46.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.40.0.tar.gz";
-      sha256 = "sha256-b/9NEURp42d/j/Fk8NUS0ZAG99q56eg0pEU/xkFnvrM=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.46.0.tar.gz";
+      sha256 = "sha256-azr2B8ng8aJJlv4tqozup20iWeogqbZbzdMXS/9PoQQ=";
     };
   };
   pmbootstrap-test = {
@@ -1360,13 +1360,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "5d8984f4bab2408d17dd50b5fdeb6970468bbaca";
+    version = "ce6d29dbe90e0c0f02555907f790346257e812e0";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "5d8984f4bab2408d17dd50b5fdeb6970468bbaca";
+      rev = "ce6d29dbe90e0c0f02555907f790346257e812e0";
       fetchSubmodules = false;
-      sha256 = "sha256-Ez1S2wI0O7juVfmr9sQuHm4HHRrtD/WmGHPj+CkSN74=";
+      sha256 = "sha256-SsKpdwC64XOMyLKR6ZKK98clyB/2MMtyWDp/EGcLYTA=";
     });
   };
   widevine-cdm = {
