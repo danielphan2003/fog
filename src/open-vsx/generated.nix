@@ -3207,10 +3207,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1465";
+    version = "31.0.1468";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix";
-      sha256 = "sha256-+Nz5weswBh0zyyK1esVfapFWYG7plMay7WWyytaKmtk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1468/file/Prisma.prisma-insider-31.0.1468.vsix";
+      sha256 = "sha256-1YdsVnGKQOp+HVlCCPakJJi5q0eY4H+ctmFkRB7okRo=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7383,10 +7383,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.13/file/cloudstudio.common-0.0.13.vsix";
-      sha256 = "sha256-2YiYB7vTX51BLAAW+safuSTC5mt/v23fzuBvOrIQJ80=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.14/file/cloudstudio.common-0.0.14.vsix";
+      sha256 = "sha256-aaoT03LTFRgRmiOViG8ux0gCszL/uU2ekWRskMCBAfk=";
     };
     license = "MIT";
     name = "common";
@@ -7407,10 +7407,10 @@
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.6/file/cloudstudio.deploykit-0.0.6.vsix";
-      sha256 = "sha256-k6eKz7bWyLKnsVQyivq+J9yxrfZcYzeST98xFMt37xA=";
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.7/file/cloudstudio.deploykit-0.0.7.vsix";
+      sha256 = "sha256-xi/CYw3eU+8rZWdH3Wl5jwq9l7JHGEWSsnENRIoQMwY=";
     };
     license = "MIT";
     name = "deploykit";
@@ -8499,10 +8499,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.114.1";
+    version = "0.114.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.114.1/file/dendron.nightly-0.114.1.vsix";
-      sha256 = "sha256-1VDXzGkKYrnAsOCPyFbt3G3txN7xyE9FLTNgXyFwqno=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.114.2/file/dendron.nightly-0.114.2.vsix";
+      sha256 = "sha256-c9z5EB6HdXi2XkNIBLN7elbhVrJ2rB7uEgNedVL5rNA=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -11979,10 +11979,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.4.8";
+    version = "0.4.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.4.8/file/iterative.dvc-0.4.8.vsix";
-      sha256 = "sha256-vXFRq4Yw9EKOORIoythfQ3Mrb0DdF2qtJ6uizRjUqyM=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.4.9/file/iterative.dvc-0.4.9.vsix";
+      sha256 = "sha256-6Mjw3VcyvFrtD6CsOgf0GO7tgx2CQUqamTA4vE3GjN8=";
     };
     license = "Apache-2.0";
     name = "dvc";

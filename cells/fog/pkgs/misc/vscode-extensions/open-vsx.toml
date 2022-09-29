@@ -4305,8 +4305,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.6/fil
 passthru = { publisher = "cloudstudio", name = "browser-preview-lite", description = "Browser preview extension", license = "MIT" }
 
 [cloudstudio-common]
-src.manual = "0.0.13" # cloudstudio.common
-fetch.url = "https://open-vsx.org/api/cloudstudio/common/0.0.13/file/cloudstudio.common-0.0.13.vsix" # cloudstudio.common
+src.manual = "0.0.14" # cloudstudio.common
+fetch.url = "https://open-vsx.org/api/cloudstudio/common/0.0.14/file/cloudstudio.common-0.0.14.vsix" # cloudstudio.common
 passthru = { publisher = "cloudstudio", name = "common", description = "This extension provides support for Cloud Stuido Web integration.", license = "MIT" }
 
 [Gruntfuggly-open-url]
@@ -4775,8 +4775,8 @@ fetch.url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.7/file/zardoy.n
 passthru = { publisher = "zardoy", name = "npm-rapid-ready", description = "Full-featured extension for npm ecosystem", license = "MIT" }
 
 [cloudstudio-deploykit]
-src.manual = "0.0.6" # cloudstudio.deploykit
-fetch.url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.6/file/cloudstudio.deploykit-0.0.6.vsix" # cloudstudio.deploykit
+src.manual = "0.0.7" # cloudstudio.deploykit
+fetch.url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.7/file/cloudstudio.deploykit-0.0.7.vsix" # cloudstudio.deploykit
 passthru = { publisher = "cloudstudio", name = "deploykit", description = "Cloud Studio 云部署套件", license = "MIT" }
 
 [ecmel-vscode-html-css]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.114.1" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.1/file/dendron.nightly-0.114.1.vsix" # dendron.nightly
+src.manual = "0.114.2" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.2/file/dendron.nightly-0.114.2.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -9730,8 +9730,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.2.10/file/t-c
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.4.8" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.8/file/iterative.dvc-0.4.8.vsix" # iterative.dvc
+src.manual = "0.4.9" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.9/file/iterative.dvc-0.4.9.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.24.1/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1465" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1468" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1468/file/Prisma.prisma-insider-31.0.1468.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10736,5 +10736,6 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 

@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Nz5weswBh0zyyK1esVfapFWYG7plMay7WWyytaKmtk=",
+            "sha256": "sha256-1YdsVnGKQOp+HVlCCPakJJi5q0eY4H+ctmFkRB7okRo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1465/file/Prisma.prisma-insider-31.0.1465.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1468/file/Prisma.prisma-insider-31.0.1468.vsix"
         },
-        "version": "31.0.1465"
+        "version": "31.0.1468"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -11697,11 +11697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2YiYB7vTX51BLAAW+safuSTC5mt/v23fzuBvOrIQJ80=",
+            "sha256": "sha256-aaoT03LTFRgRmiOViG8ux0gCszL/uU2ekWRskMCBAfk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.13/file/cloudstudio.common-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.14/file/cloudstudio.common-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -11735,11 +11735,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k6eKz7bWyLKnsVQyivq+J9yxrfZcYzeST98xFMt37xA=",
+            "sha256": "sha256-xi/CYw3eU+8rZWdH3Wl5jwq9l7JHGEWSsnENRIoQMwY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/deploykit/0.0.6/file/cloudstudio.deploykit-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/deploykit/0.0.7/file/cloudstudio.deploykit-0.0.7.vsix"
         },
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "cloudstudio-gitcommits": {
         "cargoLocks": null,
@@ -13464,11 +13464,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1VDXzGkKYrnAsOCPyFbt3G3txN7xyE9FLTNgXyFwqno=",
+            "sha256": "sha256-c9z5EB6HdXi2XkNIBLN7elbhVrJ2rB7uEgNedVL5rNA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.114.1/file/dendron.nightly-0.114.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.114.2/file/dendron.nightly-0.114.2.vsix"
         },
-        "version": "0.114.1"
+        "version": "0.114.2"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -18974,11 +18974,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vXFRq4Yw9EKOORIoythfQ3Mrb0DdF2qtJ6uizRjUqyM=",
+            "sha256": "sha256-6Mjw3VcyvFrtD6CsOgf0GO7tgx2CQUqamTA4vE3GjN8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.4.8/file/iterative.dvc-0.4.8.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.4.9/file/iterative.dvc-0.4.9.vsix"
         },
-        "version": "0.4.8"
+        "version": "0.4.9"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
