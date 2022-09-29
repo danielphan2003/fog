@@ -1619,12 +1619,13 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-77276dd78e49eb977840ade8afd16525f7c661a2/Cargo.lock",
+                "./rustdesk-0bfb9478bd9245e3654265d261cd1162c6947b8f/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
                     "flutter_rust_bridge-1.32.0": "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=",
                     "hwcodec-0.1.0": "sha256-E5osGKmtvaTn3ntsdAWG2BTE05RWfPlmqqBQFoX4mlI=",
+                    "impersonate_system-0.1.0": "sha256-p3CrWeIzKvxpkBQ4b0hgloFldvCtG7OvbzoSjInzG6o=",
                     "magnum-opus-0.4.0": "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=",
                     "mouce-0.2.1": "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=",
                     "parity-tokio-ipc-0.7.3-1": "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=",
@@ -1649,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "77276dd78e49eb977840ade8afd16525f7c661a2",
-            "sha256": "sha256-vVabhV7j6LnoFg2XpvB2jU0XqKr64LlFhhgzs++fDio=",
+            "rev": "0bfb9478bd9245e3654265d261cd1162c6947b8f",
+            "sha256": "sha256-wiLrESyXJnOglqJ+1RxJDxSO78s6Bk2t/XlHvn60Y4w=",
             "type": "github"
         },
-        "version": "77276dd78e49eb977840ade8afd16525f7c661a2"
+        "version": "0bfb9478bd9245e3654265d261cd1162c6947b8f"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1888,7 +1889,7 @@
     "spotifyd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./spotifyd-e523711c9835202ef9cca83dd147684cd7efe0da/Cargo.lock",
+                "./spotifyd-12c2f82e5b7b006c3d4c5a8e7e731883d7379c6c/Cargo.lock",
                 {}
             ]
         },
@@ -1903,11 +1904,11 @@
             "name": null,
             "owner": "Spotifyd",
             "repo": "spotifyd",
-            "rev": "e523711c9835202ef9cca83dd147684cd7efe0da",
-            "sha256": "sha256-Z+x70+/SRzhX+omjjbHQBTSNvebvBzzl2BDl5dGC+Vg=",
+            "rev": "12c2f82e5b7b006c3d4c5a8e7e731883d7379c6c",
+            "sha256": "sha256-SgpFXk+IT3uWyxg3qHoEF5BkArBZ4x/zjRL9iKsluv4=",
             "type": "github"
         },
-        "version": "e523711c9835202ef9cca83dd147684cd7efe0da"
+        "version": "12c2f82e5b7b006c3d4c5a8e7e731883d7379c6c"
     },
     "steamcompmgr": {
         "cargoLocks": null,
@@ -2026,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "44f13d32d7396acbab942eb34d9044f2495aecb7",
-            "sha256": "sha256-iRr8B7Lhx5AbOHAuvi70HR7vY9f7WYNN9u7rZ5bOCtM=",
+            "rev": "9214b293e3f69965faa70ad024394cfb0f62e36b",
+            "sha256": "sha256-OLgcgRjN98ZEGs0nxCxIIzmYhNs+jQ6WDPpIlZ0oVtw=",
             "type": "github"
         },
-        "version": "44f13d32d7396acbab942eb34d9044f2495aecb7"
+        "version": "9214b293e3f69965faa70ad024394cfb0f62e36b"
     },
     "tailscale-systray": {
         "cargoLocks": null,
