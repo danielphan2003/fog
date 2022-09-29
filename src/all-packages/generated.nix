@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "398d63f8c3a11215cdc6eb9d5cd2c76ea931c7e1";
+    version = "0687327601d4e9c0468cbff0fc719ad7c1751fd0";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "398d63f8c3a11215cdc6eb9d5cd2c76ea931c7e1";
+      rev = "0687327601d4e9c0468cbff0fc719ad7c1751fd0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DQaR5qDvki89KZrTXIH5MkwUcGnLSpjOW/IjRbW10rw=";
+      sha256 = "sha256-UJG18VIk1SBZQk1eaIrn22jGlYx7xBScOlTex6Cx0bs=";
     };
   };
   flyingfox = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6628";
+    version = "1.0.6629";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6628.tar.bz2";
-      sha256 = "sha256-ARGni+X0gLJp6suKAmhQk3hvUg3a9vsWL+KCpWJv1iw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6629.tar.bz2";
+      sha256 = "sha256-K8aDZNnrCNX3xSuATr5j83/Pu0KXjqiqq5oXd1haPFQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6628";
+    version = "1.0.6629";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6628-1_all.deb";
-      sha256 = "sha256-gfQvqgBixKgNgp+TJmfYIvPIrc6XRc8Pm+r3qDudVAg=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6629-1_all.deb";
+      sha256 = "sha256-UEe+ys00qMJmxjbydU/A6dMpbSsTwtzRR82pXZs2BeA=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.72.1";
+    version = "2.73.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.72.1/revanced-patches-2.72.1.jar";
-      sha256 = "sha256-XtlN9RnMUXFzgG8g7ZUVrrLKm0NhJacMaLKVlO9mt9w=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.73.0/revanced-patches-2.73.0.jar";
+      sha256 = "sha256-G39AYAqeQ/o+/ocQLC1AHAe79Wr27+xEe5sVcpM1kns=";
     };
   };
   rofi-wayland = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c581ce7b00b4968c43252d5be5d8bc1b05e70c76";
+    version = "bb7be74756e23d4385a91a9608fd68eddd5a249a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c581ce7b00b4968c43252d5be5d8bc1b05e70c76";
+      rev = "bb7be74756e23d4385a91a9608fd68eddd5a249a";
       fetchSubmodules = false;
-      sha256 = "sha256-6Z68hOczNFGYXjKLoOeawvfc1T7rf+gkG+kMS4seYYw=";
+      sha256 = "sha256-ozzgdgAVf1gRzGhYMNTAr8LLYgKvl7VPbD3TyKcAg1M=";
     });
   };
   tailscale-systray = {
