@@ -96,19 +96,19 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "2a4754cfc4bdcf624640866516c5dbdf17c6499a";
+    version = "cde1b4f252ecf7be35e0f951c32882164decc6c1";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "2a4754cfc4bdcf624640866516c5dbdf17c6499a";
+      rev = "cde1b4f252ecf7be35e0f951c32882164decc6c1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-3i/o3lX9Hr7bGTJ8hDC3WJwsB5WF3ZBK8GMSobJl6v4=";
+      sha256 = "sha256-V5KRIiu9aYql3RdBHdFT7jOzuzvf0H+fFeTRo30EXPA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-2a4754cfc4bdcf624640866516c5dbdf17c6499a/Cargo.lock;
+      lockFile = ./asusctl-cde1b4f252ecf7be35e0f951c32882164decc6c1/Cargo.lock;
       outputHashes = {
-        "eframe-0.19.0" = "sha256-+5J4JmoVNir8GMb3Gz4xap9uvMQlvIJKJNsvxEQnRUk=";
+        "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
       };
     };
   };
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "593cc03962d9ec2bd81d3232ed3838d6f799eaa3";
+    version = "a07a7676b7d4983bb031635c4aea3f683df70ee7";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "593cc03962d9ec2bd81d3232ed3838d6f799eaa3";
+      rev = "a07a7676b7d4983bb031635c4aea3f683df70ee7";
       fetchSubmodules = false;
-      sha256 = "sha256-6qgUhzh0+QXlPjQ7/WrG/558U17ODte+MTsQqhYPOi0=";
+      sha256 = "sha256-fSoiVwJmYYx82PUUhM0+hxTx6NN6eBEzoO7kyBvNK4k=";
     });
   };
   cinny-bin = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "ed23a1178868c722d0887a69e25aff388ce9e15f";
+    version = "3685308c9628a84f53db9aee36e80c5c2bd607cb";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "ed23a1178868c722d0887a69e25aff388ce9e15f";
+      rev = "3685308c9628a84f53db9aee36e80c5c2bd607cb";
       fetchSubmodules = true;
-      sha256 = "sha256-5r1gWfAE6kc4/lVVWvzOJM7fMx0lrT8l23E/+L1Lyvs=";
+      sha256 = "sha256-s8Pgwnz69/c9bWXMgKhMvdMEbtKAaJyPaFDZeWosXV0=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-ed23a1178868c722d0887a69e25aff388ce9e15f/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-3685308c9628a84f53db9aee36e80c5c2bd607cb/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0bfb9478bd9245e3654265d261cd1162c6947b8f";
+    version = "0abda2edef49d298b92ae488d8b80b0dbb8a5c58";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0bfb9478bd9245e3654265d261cd1162c6947b8f";
+      rev = "0abda2edef49d298b92ae488d8b80b0dbb8a5c58";
       fetchSubmodules = false;
-      sha256 = "sha256-wiLrESyXJnOglqJ+1RxJDxSO78s6Bk2t/XlHvn60Y4w=";
+      sha256 = "sha256-Tm220C33tOzx02SvfoIyp1Jf9/lJxNimKzw295m1VlY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0bfb9478bd9245e3654265d261cd1162c6947b8f/Cargo.lock;
+      lockFile = ./rustdesk-0abda2edef49d298b92ae488d8b80b0dbb8a5c58/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
