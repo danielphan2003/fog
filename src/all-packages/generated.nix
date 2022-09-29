@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3";
+    version = "c1dc11f59cf746ca5cd65a4d88760bcc5a44ae3b";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3";
+      rev = "c1dc11f59cf746ca5cd65a4d88760bcc5a44ae3b";
       fetchSubmodules = false;
-      sha256 = "sha256-daLb7ebMVeL+f8WydH4DONkUA+0D6d+v+pohJb2qjOo=";
+      sha256 = "sha256-cLy8RVbvL3g2F4Lu6EQLlyzRxZRbAM5kxG7iZJEj5Bg=";
     });
   };
   playit-agent = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "ab591906c8f743b76ba20668693158e969aed951";
+    version = "c581ce7b00b4968c43252d5be5d8bc1b05e70c76";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "ab591906c8f743b76ba20668693158e969aed951";
+      rev = "c581ce7b00b4968c43252d5be5d8bc1b05e70c76";
       fetchSubmodules = false;
-      sha256 = "sha256-O4/mKqaKyYPDmeirODoHGNRiLMkk6Qs5Gi8nhl74Qnc=";
+      sha256 = "sha256-6Z68hOczNFGYXjKLoOeawvfc1T7rf+gkG+kMS4seYYw=";
     });
   };
   tailscale-systray = {

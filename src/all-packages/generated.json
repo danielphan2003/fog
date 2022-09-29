@@ -1307,11 +1307,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3",
-            "sha256": "sha256-daLb7ebMVeL+f8WydH4DONkUA+0D6d+v+pohJb2qjOo=",
+            "rev": "c1dc11f59cf746ca5cd65a4d88760bcc5a44ae3b",
+            "sha256": "sha256-cLy8RVbvL3g2F4Lu6EQLlyzRxZRbAM5kxG7iZJEj5Bg=",
             "type": "github"
         },
-        "version": "0fe4e0a1d4e2c77efac632b15f9a911e47fbadf3"
+        "version": "c1dc11f59cf746ca5cd65a4d88760bcc5a44ae3b"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ab591906c8f743b76ba20668693158e969aed951",
-            "sha256": "sha256-O4/mKqaKyYPDmeirODoHGNRiLMkk6Qs5Gi8nhl74Qnc=",
+            "rev": "c581ce7b00b4968c43252d5be5d8bc1b05e70c76",
+            "sha256": "sha256-6Z68hOczNFGYXjKLoOeawvfc1T7rf+gkG+kMS4seYYw=",
             "type": "github"
         },
-        "version": "ab591906c8f743b76ba20668693158e969aed951"
+        "version": "c581ce7b00b4968c43252d5be5d8bc1b05e70c76"
     },
     "tailscale-systray": {
         "cargoLocks": null,
