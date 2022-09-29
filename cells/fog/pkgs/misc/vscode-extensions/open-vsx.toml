@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.1/file/dendron.night
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
-src.manual = "1.19.2" # rangav.vscode-thunder-client
-fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.2/file/rangav.vscode-thunder-client-1.19.2.vsix" # rangav.vscode-thunder-client
+src.manual = "1.19.3" # rangav.vscode-thunder-client
+fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.3/file/rangav.vscode-thunder-client-1.19.3.vsix" # rangav.vscode-thunder-client
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.8/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.2716" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2716/file/Slint.slint-nightly-2022.9.2716.vsix" # Slint.slint-nightly
+src.manual = "2022.9.2822" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2822/file/Slint.slint-nightly-2022.9.2822.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -9845,8 +9845,8 @@ fetch.url = "https://open-vsx.org/api/haskell/haskell/2.2.1/file/haskell.haskell
 passthru = { publisher = "haskell", name = "haskell", description = "Haskell language support powered by the Haskell Language Server", license = "MIT" }
 
 [anweber-vscode-httpyac]
-src.manual = "5.7.2" # anweber.vscode-httpyac
-fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.2/file/anweber.vscode-httpyac-5.7.2.vsix" # anweber.vscode-httpyac
+src.manual = "5.7.3" # anweber.vscode-httpyac
+fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.3/file/anweber.vscode-httpyac-5.7.3.vsix" # anweber.vscode-httpyac
 passthru = { publisher = "anweber", name = "vscode-httpyac", description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code", license = "MIT" }
 
 [PrateekMahendrakar-prettyxml]
@@ -10736,4 +10736,5 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 

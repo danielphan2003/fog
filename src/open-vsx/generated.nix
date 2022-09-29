@@ -3651,10 +3651,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.2716";
+    version = "2022.9.2822";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2716/file/Slint.slint-nightly-2022.9.2716.vsix";
-      sha256 = "sha256-DCaGHMvBGBbE7GmcN4kcd78hefBL5TpgQWXW1Fb69HU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.2822/file/Slint.slint-nightly-2022.9.2822.vsix";
+      sha256 = "sha256-hS19EME+PdnZOZ3P6B12/bZFFaYb8kJkIcNzgODPrr4=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5499,10 +5499,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.7.2";
+    version = "5.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.2/file/anweber.vscode-httpyac-5.7.2.vsix";
-      sha256 = "sha256-kUYPxzPti2aVqbGxlLytKUPcoctTja6A45RsaCtM70Y=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.7.3/file/anweber.vscode-httpyac-5.7.3.vsix";
+      sha256 = "sha256-iml1YvjIdwb++/OwD0J5h9lC1LEzO22akG6WbjMeteI=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -18123,10 +18123,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.19.2";
+    version = "1.19.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.2/file/rangav.vscode-thunder-client-1.19.2.vsix";
-      sha256 = "sha256-zdXVpqhQwgHX7pZq8WP4ZgQAydrQFLFd1ie5SIKpW8g=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.3/file/rangav.vscode-thunder-client-1.19.3.vsix";
+      sha256 = "sha256-1gdxJUK37///DGTdUvU1vJNbK4RKG4uZzJYv8DcOqA4=";
     };
     license = "";
     name = "vscode-thunder-client";
