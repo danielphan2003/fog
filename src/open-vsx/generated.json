@@ -10962,6 +10962,25 @@
         },
         "version": "0.4.1"
     },
+    "cab404-fairyfloss": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cab404-fairyfloss",
+        "passthru": {
+            "description": "Fairyfloss theme port",
+            "license": "MIT",
+            "name": "fairyfloss",
+            "publisher": "cab404"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-GJGvBdmXpNc4eoXzPn3hjWMnCiVvhyfR79fIvBSTDqc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "cab404-vscode-direnv": {
         "cargoLocks": null,
         "extract": null,

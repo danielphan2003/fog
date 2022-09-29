@@ -6925,6 +6925,18 @@
     description = "LIN Description Syntax highlighting and snippets";
     publisher = "c4deszes";
   };
+  cab404-fairyfloss = {
+    pname = "cab404-fairyfloss";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix";
+      sha256 = "sha256-GJGvBdmXpNc4eoXzPn3hjWMnCiVvhyfR79fIvBSTDqc=";
+    };
+    license = "MIT";
+    name = "fairyfloss";
+    description = "Fairyfloss theme port";
+    publisher = "cab404";
+  };
   cab404-vscode-direnv = {
     pname = "cab404-vscode-direnv";
     version = "1.0.0";

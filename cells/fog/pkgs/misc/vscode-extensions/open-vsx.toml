@@ -10731,3 +10731,9 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 
 
 
+
+[cab404-fairyfloss]
+src.manual = "0.0.1" # cab404.fairyfloss
+fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
+passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
