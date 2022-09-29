@@ -8583,10 +8583,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.18.10666";
+    version = "1.18.10675";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10666/file/devsense.composer-php-vscode-1.18.10666.vsix";
-      sha256 = "sha256-MfXxLEH6+ARr9YEmeNxhQnAG9rz8D+PVRFz7TXYpzcI=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10675/file/devsense.composer-php-vscode-1.18.10675.vsix";
+      sha256 = "sha256-SS4NMTkwqroG6T2K8bPtF6zm3qDzR6mdLE/tnIsbQvI=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8595,10 +8595,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.18.10666";
+    version = "1.18.10675";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10666/file/devsense.phptools-vscode-1.18.10666@win32-x64.vsix";
-      sha256 = "sha256-SdwlmRjC5mHp+Iz0MT5kx8K3Kb4gagHc5/bIYpHa6A4=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10675/file/devsense.phptools-vscode-1.18.10675@win32-x64.vsix";
+      sha256 = "sha256-J1G00NxKrg/k++Fd+KV2Nm37xpxYO6rhlYege65PoaY=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -8607,10 +8607,10 @@
   };
   devsense-profiler-php-vscode = {
     pname = "devsense-profiler-php-vscode";
-    version = "1.18.10666";
+    version = "1.18.10675";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10666/file/devsense.profiler-php-vscode-1.18.10666.vsix";
-      sha256 = "sha256-g+Aw41G5HNe7JEN873qTVLRrUidv/bd3Uaa2fnsmzwg=";
+      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10675/file/devsense.profiler-php-vscode-1.18.10675.vsix";
+      sha256 = "sha256-TMH5uoQQShXxH6ZuKGS+HpqPXtQUK5qOWRArbhrka7Y=";
     };
     license = "LicenseRef-LICENSE";
     name = "profiler-php-vscode";
@@ -23667,10 +23667,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.22.2";
+    version = "0.22.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.2/file/weaveworks.vscode-gitops-tools-0.22.2.vsix";
-      sha256 = "sha256-W5m6GDbARwprxXRFr6uDxkHXbFALL4+rU45qVAKpeQA=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.22.3/file/weaveworks.vscode-gitops-tools-0.22.3.vsix";
+      sha256 = "sha256-nxsxiKrFX8aggov0Gqf1dXo5ZZEMhjveHceabayNdSM=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
