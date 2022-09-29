@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.44.0";
+    version = "0.44.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.44.0/app-release-unsigned.apk";
-      sha256 = "sha256-9BGqfJzoQ8Uoz25HooRtIK1KQJe/X93iBvYSSjtakcU=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.44.1/app-release-unsigned.apk";
+      sha256 = "sha256-X1kqulRjEeihq1RlqmfTUvK1g5zYMYXGx3rfcz549sU=";
     };
   };
   revanced-patches-jar = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6e8eb159fa3f52a9935a7903d7823ffcc17e909d";
+    version = "f38a114d63fb1c5730ecd361262e33f57471e244";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6e8eb159fa3f52a9935a7903d7823ffcc17e909d";
+      rev = "f38a114d63fb1c5730ecd361262e33f57471e244";
       fetchSubmodules = false;
-      sha256 = "sha256-ykNbOeynyA8f/OuptbzZCBpf8icRNbZdTo9TuMfRL8c=";
+      sha256 = "sha256-GL322xBWplOH4oe5IxCaoxP03TeqQdOHXzvZ9QoqF+s=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6e8eb159fa3f52a9935a7903d7823ffcc17e909d/Cargo.lock;
+      lockFile = ./rustdesk-f38a114d63fb1c5730ecd361262e33f57471e244/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

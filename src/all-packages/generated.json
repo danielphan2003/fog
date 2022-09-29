@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9BGqfJzoQ8Uoz25HooRtIK1KQJe/X93iBvYSSjtakcU=",
+            "sha256": "sha256-X1kqulRjEeihq1RlqmfTUvK1g5zYMYXGx3rfcz549sU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.44.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.44.1/app-release-unsigned.apk"
         },
-        "version": "0.44.0"
+        "version": "0.44.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-6e8eb159fa3f52a9935a7903d7823ffcc17e909d/Cargo.lock",
+                "./rustdesk-f38a114d63fb1c5730ecd361262e33f57471e244/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "6e8eb159fa3f52a9935a7903d7823ffcc17e909d",
-            "sha256": "sha256-ykNbOeynyA8f/OuptbzZCBpf8icRNbZdTo9TuMfRL8c=",
+            "rev": "f38a114d63fb1c5730ecd361262e33f57471e244",
+            "sha256": "sha256-GL322xBWplOH4oe5IxCaoxP03TeqQdOHXzvZ9QoqF+s=",
             "type": "github"
         },
-        "version": "6e8eb159fa3f52a9935a7903d7823ffcc17e909d"
+        "version": "f38a114d63fb1c5730ecd361262e33f57471e244"
     },
     "rustdesk-server": {
         "cargoLocks": {
