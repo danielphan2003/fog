@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "cde1b4f252ecf7be35e0f951c32882164decc6c1";
+    version = "8569edf68481d4d9bf226d8144b34ebb101f2e2b";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "cde1b4f252ecf7be35e0f951c32882164decc6c1";
+      rev = "8569edf68481d4d9bf226d8144b34ebb101f2e2b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-V5KRIiu9aYql3RdBHdFT7jOzuzvf0H+fFeTRo30EXPA=";
+      sha256 = "sha256-N/EzceNReTT9beH2tQ5jMl5WlirfplFBhuj5+n0AVDE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-cde1b4f252ecf7be35e0f951c32882164decc6c1/Cargo.lock;
+      lockFile = ./asusctl-8569edf68481d4d9bf226d8144b34ebb101f2e2b/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
       };
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "a07a7676b7d4983bb031635c4aea3f683df70ee7";
+    version = "a900b0425417a78fe39a45a17f707f3ae28aab1e";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "a07a7676b7d4983bb031635c4aea3f683df70ee7";
+      rev = "a900b0425417a78fe39a45a17f707f3ae28aab1e";
       fetchSubmodules = false;
-      sha256 = "sha256-fSoiVwJmYYx82PUUhM0+hxTx6NN6eBEzoO7kyBvNK4k=";
+      sha256 = "sha256-5Yc+F7RpP2hLLyezrSlH093vV4gdjgts5V98Jh8jR+Q=";
     });
   };
   cinny-bin = {
@@ -820,10 +820,10 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.46.0";
+    version = "1.40.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.46.0.tar.gz";
-      sha256 = "sha256-azr2B8ng8aJJlv4tqozup20iWeogqbZbzdMXS/9PoQQ=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.40.0.tar.gz";
+      sha256 = "sha256-b/9NEURp42d/j/Fk8NUS0ZAG99q56eg0pEU/xkFnvrM=";
     };
   };
   pmbootstrap-test = {

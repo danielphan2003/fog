@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-cde1b4f252ecf7be35e0f951c32882164decc6c1/Cargo.lock",
+                "./asusctl-8569edf68481d4d9bf226d8144b34ebb101f2e2b/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cde1b4f252ecf7be35e0f951c32882164decc6c1",
-            "sha256": "sha256-V5KRIiu9aYql3RdBHdFT7jOzuzvf0H+fFeTRo30EXPA=",
+            "rev": "8569edf68481d4d9bf226d8144b34ebb101f2e2b",
+            "sha256": "sha256-N/EzceNReTT9beH2tQ5jMl5WlirfplFBhuj5+n0AVDE=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "cde1b4f252ecf7be35e0f951c32882164decc6c1"
+        "version": "8569edf68481d4d9bf226d8144b34ebb101f2e2b"
     },
     "avizo": {
         "cargoLocks": null,
@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "a07a7676b7d4983bb031635c4aea3f683df70ee7",
-            "sha256": "sha256-fSoiVwJmYYx82PUUhM0+hxTx6NN6eBEzoO7kyBvNK4k=",
+            "rev": "a900b0425417a78fe39a45a17f707f3ae28aab1e",
+            "sha256": "sha256-5Yc+F7RpP2hLLyezrSlH093vV4gdjgts5V98Jh8jR+Q=",
             "type": "github"
         },
-        "version": "a07a7676b7d4983bb031635c4aea3f683df70ee7"
+        "version": "a900b0425417a78fe39a45a17f707f3ae28aab1e"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-azr2B8ng8aJJlv4tqozup20iWeogqbZbzdMXS/9PoQQ=",
+            "sha256": "sha256-b/9NEURp42d/j/Fk8NUS0ZAG99q56eg0pEU/xkFnvrM=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.46.0.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.40.0.tar.gz"
         },
-        "version": "1.46.0"
+        "version": "1.40.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
