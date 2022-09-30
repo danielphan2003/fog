@@ -2139,10 +2139,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.2.1/file/Leathong.openscad-language-support-1.2.1.vsix";
-      sha256 = "sha256-aSQ9D9r7J2Gbirr5HyC+Mm6e+bZA+MfZeiY94uYAiHo=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.2.2/file/Leathong.openscad-language-support-1.2.2.vsix";
+      sha256 = "sha256-9cpz9HtjOTIxAbx0B6ewn8HjSsEx17HU6T8YCN3tkL4=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
@@ -8031,10 +8031,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.14";
+    version = "0.13.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.14/file/d-biehl.robotcode-0.13.14.vsix";
-      sha256 = "sha256-btmdIlo8p0YjKomDGDg/7QP6polyVgchrfpBZyNaKIo=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.16/file/d-biehl.robotcode-0.13.16.vsix";
+      sha256 = "sha256-Xzyx4PI+TKBDRz7sYOVFrwY2IEBPRBxg9Qgzomb9tbI=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -8583,10 +8583,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.18.10675";
+    version = "1.18.10687";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10675/file/devsense.composer-php-vscode-1.18.10675.vsix";
-      sha256 = "sha256-SS4NMTkwqroG6T2K8bPtF6zm3qDzR6mdLE/tnIsbQvI=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10687/file/devsense.composer-php-vscode-1.18.10687.vsix";
+      sha256 = "sha256-XspJjfB/Rrc0le56tFq30lI+HMJu9u3498b4ZPTe1TY=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8595,10 +8595,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.18.10675";
+    version = "1.18.10687";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10675/file/devsense.phptools-vscode-1.18.10675@win32-x64.vsix";
-      sha256 = "sha256-J1G00NxKrg/k++Fd+KV2Nm37xpxYO6rhlYege65PoaY=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10687/file/devsense.phptools-vscode-1.18.10687@win32-x64.vsix";
+      sha256 = "sha256-/bjo9YBe1l64zhWovyzuUsrMfCVkquCU96LoftVBzPQ=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -8607,10 +8607,10 @@
   };
   devsense-profiler-php-vscode = {
     pname = "devsense-profiler-php-vscode";
-    version = "1.18.10675";
+    version = "1.18.10687";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10675/file/devsense.profiler-php-vscode-1.18.10675.vsix";
-      sha256 = "sha256-TMH5uoQQShXxH6ZuKGS+HpqPXtQUK5qOWRArbhrka7Y=";
+      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10687/file/devsense.profiler-php-vscode-1.18.10687.vsix";
+      sha256 = "sha256-giUp8wK/ufvaaY93m8ROSYsMtWNjIXl1fb3kHLqx7OI=";
     };
     license = "LicenseRef-LICENSE";
     name = "profiler-php-vscode";
@@ -9171,10 +9171,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.2.3135147";
+    version = "8.2.3157450";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3135147/file/eliostruyf.vscode-front-matter-beta-8.2.3135147.vsix";
-      sha256 = "sha256-lH5YcOeTDGEXlnqGLV0jUll+NNzgoqTEMuWaqyebx70=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3157450/file/eliostruyf.vscode-front-matter-beta-8.2.3157450.vsix";
+      sha256 = "sha256-gvQbZMxvOgFJL0VFecTbCjQwPYBSp1AiDAXthVrMlRY=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
