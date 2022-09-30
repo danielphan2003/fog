@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "a7a905548f2a8180528b215a9014b189bd85e4fe";
+    version = "2473ceddb682b17c86cea1b338cceb4a85faf6db";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "a7a905548f2a8180528b215a9014b189bd85e4fe";
+      rev = "2473ceddb682b17c86cea1b338cceb4a85faf6db";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vaLHzXq/fz8kR/kyDtAh+cktydhGt9AarjVlwHUI2fQ=";
+      sha256 = "sha256-z7Au2PNhI+rSTPp66iB4nSkwH9Ep5989Eg7DnflwcwY=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-a7a905548f2a8180528b215a9014b189bd85e4fe/Cargo.lock;
+      lockFile = ./supergfxctl-2473ceddb682b17c86cea1b338cceb4a85faf6db/Cargo.lock;
       outputHashes = {
         
       };
