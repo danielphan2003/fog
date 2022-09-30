@@ -6027,10 +6027,10 @@
   };
   asyncapi-asyncapi-preview = {
     pname = "asyncapi-asyncapi-preview";
-    version = "0.3.8";
+    version = "0.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.8/file/asyncapi.asyncapi-preview-0.3.8.vsix";
-      sha256 = "sha256-XNOPujLqG/QPPFJS+Ye21WYi90CsBdCZ0EDf83CtYsU=";
+      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.9/file/asyncapi.asyncapi-preview-0.3.9.vsix";
+      sha256 = "sha256-EFpe2E0w67Ze5SazV2ob/1Hbfq7tf+NAiMTnVisScIM=";
     };
     license = "Apache-2.0";
     name = "asyncapi-preview";
@@ -8499,10 +8499,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.114.2";
+    version = "0.114.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.114.2/file/dendron.nightly-0.114.2.vsix";
-      sha256 = "sha256-c9z5EB6HdXi2XkNIBLN7elbhVrJ2rB7uEgNedVL5rNA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.114.3/file/dendron.nightly-0.114.3.vsix";
+      sha256 = "sha256-5AIsaCR/jtD46BYtx8TR+osYK/oKlxRL5rkljphaWuU=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -22455,10 +22455,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.25.2";
+    version = "0.25.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.2/file/vscjava.vscode-java-pack-0.25.2.vsix";
-      sha256 = "sha256-8n2624wShBe6+66vedoD9xjYtY/lzIKUcCoXSCI2erM=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.3/file/vscjava.vscode-java-pack-0.25.3.vsix";
+      sha256 = "sha256-FMpR123vlCrPWBmNi/vO0ULFHkbEXJF56pr9ieNqmQg=";
     };
     license = "MIT";
     name = "vscode-java-pack";

@@ -4710,8 +4710,8 @@ fetch.url = "https://open-vsx.org/api/iocave/customize-ui/0.1.65/file/iocave.cus
 passthru = { publisher = "iocave", name = "customize-ui", description = "Advanced VSCode user interface customizations. Very experimental.", license = "MIT" }
 
 [vscjava-vscode-java-pack]
-src.manual = "0.25.2" # vscjava.vscode-java-pack
-fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.2/file/vscjava.vscode-java-pack-0.25.2.vsix" # vscjava.vscode-java-pack
+src.manual = "0.25.3" # vscjava.vscode-java-pack
+fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.3/file/vscjava.vscode-java-pack-0.25.3.vsix" # vscjava.vscode-java-pack
 passthru = { publisher = "vscjava", name = "vscode-java-pack", description = "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more", license = "MIT" }
 
 [KidkArolis-vscode-healthier]
@@ -8325,8 +8325,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.
 passthru = { publisher = "Turiiya", name = "keyword-o-mat", description = "Quickly swap related keywords.", license = "MIT" }
 
 [asyncapi-asyncapi-preview]
-src.manual = "0.3.8" # asyncapi.asyncapi-preview
-fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.8/file/asyncapi.asyncapi-preview-0.3.8.vsix" # asyncapi.asyncapi-preview
+src.manual = "0.3.9" # asyncapi.asyncapi-preview
+fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.9/file/asyncapi.asyncapi-preview-0.3.9.vsix" # asyncapi.asyncapi-preview
 passthru = { publisher = "asyncapi", name = "asyncapi-preview", description = "Preview AsyncAPI documents inside VSCode.", license = "Apache-2.0" }
 
 [CodeChat-codechat]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.114.2" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.2/file/dendron.nightly-0.114.2.vsix" # dendron.nightly
+src.manual = "0.114.3" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.3/file/dendron.nightly-0.114.3.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
