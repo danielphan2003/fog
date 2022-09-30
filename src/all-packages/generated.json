@@ -1168,11 +1168,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-krqfqniZelPktGbFZa8BUscnDyAtOCRyHcpMgZkZIX4=",
+            "sha256": "sha256-MbjaaVHoaBidqwfD5Uc5XQHU6OPTAD/3wMMVljX87RA=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.40.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.40.2.tar.gz"
         },
-        "version": "0.40.1"
+        "version": "0.40.2"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
