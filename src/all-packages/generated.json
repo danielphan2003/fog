@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QiT0rpAVANSMzoJdrUVrfD2UmyhYtebYyiBQ3CNsEgA=",
+            "sha256": "sha256-PyPJ2+YY8Y4JMx/9mT6p672AYbDoRXe1O+wExWVxyoI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.46.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.46.1/app-release-unsigned.apk"
         },
-        "version": "0.46.0"
+        "version": "0.46.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FVQjCpwXBJEArgEoPOgzFFZYqFc5w4SXR8pHPEmbQB0=",
+            "sha256": "sha256-xKX+RY+QxH1rT2tLxWr40tbaHEnZ4xaEPA9+Z4mhYCg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.76.0/revanced-patches-2.76.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.76.2/revanced-patches-2.76.2.jar"
         },
-        "version": "2.76.0"
+        "version": "2.76.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3686f3a044e17a8565b51267b21d4c388c4f3372",
-            "sha256": "sha256-oP9BKl1vWFwlxXKuRvhPlpteGj2NKFWsKXFwd1QdxFI=",
+            "rev": "fb08c3b2d037e285a5224004e6c6b55148eda915",
+            "sha256": "sha256-uhSAAkzAxpqT1zT0UXNfEvsEgZ/P2A74q5QUzeeLAu0=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "3686f3a044e17a8565b51267b21d4c388c4f3372"
+        "version": "fb08c3b2d037e285a5224004e6c6b55148eda915"
     },
     "spicetify-cli": {
         "cargoLocks": null,
