@@ -8775,8 +8775,8 @@ fetch.url = "https://open-vsx.org/api/ruiferreira/autoi18n/0.0.5/file/ruiferreir
 passthru = { publisher = "ruiferreira", name = "autoi18n", description = "Auto I18N", license = "Apache-2.0" }
 
 [devsense-phptools-vscode]
-src.manual = "1.18.10687" # devsense.phptools-vscode
-fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10687/file/devsense.phptools-vscode-1.18.10687@win32-x64.vsix" # devsense.phptools-vscode
+src.manual = "1.18.10692" # devsense.phptools-vscode
+fetch.url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10692/file/devsense.phptools-vscode-1.18.10692@win32-x64.vsix" # devsense.phptools-vscode
 passthru = { publisher = "devsense", name = "phptools-vscode", description = "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.", license = "LicenseRef-LICENSE" }
 
 [codezombiech-gitignore]
@@ -8905,8 +8905,8 @@ fetch.url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.ma
 passthru = { publisher = "svsool", name = "markdown-memo", description = "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode", license = "MIT" }
 
 [d-biehl-robotcode]
-src.manual = "0.13.16" # d-biehl.robotcode
-fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.16/file/d-biehl.robotcode-0.13.16.vsix" # d-biehl.robotcode
+src.manual = "0.13.17" # d-biehl.robotcode
+fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix" # d-biehl.robotcode
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
 [spoorthi-cosmy-wasmy]
@@ -10455,8 +10455,8 @@ passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS 
 
 
 [devsense-composer-php-vscode]
-src.manual = "1.18.10687" # devsense.composer-php-vscode
-fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10687/file/devsense.composer-php-vscode-1.18.10687.vsix" # devsense.composer-php-vscode
+src.manual = "1.18.10692" # devsense.composer-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10692/file/devsense.composer-php-vscode-1.18.10692.vsix" # devsense.composer-php-vscode
 passthru = { publisher = "devsense", name = "composer-php-vscode", description = "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.", license = "LicenseRef-LICENSE" }
 
 
@@ -10725,8 +10725,8 @@ passthru = { publisher = "filiptronicek", name = "vscode-platform-specific-sampl
 
 
 [devsense-profiler-php-vscode]
-src.manual = "1.18.10687" # devsense.profiler-php-vscode
-fetch.url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10687/file/devsense.profiler-php-vscode-1.18.10687.vsix" # devsense.profiler-php-vscode
+src.manual = "1.18.10692" # devsense.profiler-php-vscode
+fetch.url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10692/file/devsense.profiler-php-vscode-1.18.10692.vsix" # devsense.profiler-php-vscode
 passthru = { publisher = "devsense", name = "profiler-php-vscode", description = "Support for PHP (Xdebug) profiling files and inspecting them.", license = "LicenseRef-LICENSE" }
 
 
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

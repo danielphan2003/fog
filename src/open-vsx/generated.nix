@@ -8031,10 +8031,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.16";
+    version = "0.13.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.16/file/d-biehl.robotcode-0.13.16.vsix";
-      sha256 = "sha256-Xzyx4PI+TKBDRz7sYOVFrwY2IEBPRBxg9Qgzomb9tbI=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix";
+      sha256 = "sha256-T2L5aWbzMbCMtj4ymyyUE4W6KzCVqzHH+nb0kwNtW9k=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -8583,10 +8583,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.18.10687";
+    version = "1.18.10692";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10687/file/devsense.composer-php-vscode-1.18.10687.vsix";
-      sha256 = "sha256-XspJjfB/Rrc0le56tFq30lI+HMJu9u3498b4ZPTe1TY=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10692/file/devsense.composer-php-vscode-1.18.10692.vsix";
+      sha256 = "sha256-dCvAHRtT7/mX+LkW0Suilz/dCPpoWao7ywnBaDAOTrc=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8595,10 +8595,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.18.10687";
+    version = "1.18.10692";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10687/file/devsense.phptools-vscode-1.18.10687@win32-x64.vsix";
-      sha256 = "sha256-/bjo9YBe1l64zhWovyzuUsrMfCVkquCU96LoftVBzPQ=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10692/file/devsense.phptools-vscode-1.18.10692@win32-x64.vsix";
+      sha256 = "sha256-2szaZV5+w1mZEvKHXARYNa7vDVzR/eE02owPVE/iYoA=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -8607,10 +8607,10 @@
   };
   devsense-profiler-php-vscode = {
     pname = "devsense-profiler-php-vscode";
-    version = "1.18.10687";
+    version = "1.18.10692";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10687/file/devsense.profiler-php-vscode-1.18.10687.vsix";
-      sha256 = "sha256-giUp8wK/ufvaaY93m8ROSYsMtWNjIXl1fb3kHLqx7OI=";
+      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10692/file/devsense.profiler-php-vscode-1.18.10692.vsix";
+      sha256 = "sha256-kG688os+FEzSZp81lN6HBKy+PxtgT28t8YSgZziNcmE=";
     };
     license = "LicenseRef-LICENSE";
     name = "profiler-php-vscode";

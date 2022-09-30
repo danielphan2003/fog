@@ -12723,11 +12723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Xzyx4PI+TKBDRz7sYOVFrwY2IEBPRBxg9Qgzomb9tbI=",
+            "sha256": "sha256-T2L5aWbzMbCMtj4ymyyUE4W6KzCVqzHH+nb0kwNtW9k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.16/file/d-biehl.robotcode-0.13.16.vsix"
+            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix"
         },
-        "version": "0.13.16"
+        "version": "0.13.17"
     },
     "d-koppenhagen-vscode-code-review": {
         "cargoLocks": null,
@@ -13597,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XspJjfB/Rrc0le56tFq30lI+HMJu9u3498b4ZPTe1TY=",
+            "sha256": "sha256-dCvAHRtT7/mX+LkW0Suilz/dCPpoWao7ywnBaDAOTrc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10687/file/devsense.composer-php-vscode-1.18.10687.vsix"
+            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10692/file/devsense.composer-php-vscode-1.18.10692.vsix"
         },
-        "version": "1.18.10687"
+        "version": "1.18.10692"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -13616,11 +13616,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/bjo9YBe1l64zhWovyzuUsrMfCVkquCU96LoftVBzPQ=",
+            "sha256": "sha256-2szaZV5+w1mZEvKHXARYNa7vDVzR/eE02owPVE/iYoA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10687/file/devsense.phptools-vscode-1.18.10687@win32-x64.vsix"
+            "url": "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10692/file/devsense.phptools-vscode-1.18.10692@win32-x64.vsix"
         },
-        "version": "1.18.10687"
+        "version": "1.18.10692"
     },
     "devsense-profiler-php-vscode": {
         "cargoLocks": null,
@@ -13635,11 +13635,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-giUp8wK/ufvaaY93m8ROSYsMtWNjIXl1fb3kHLqx7OI=",
+            "sha256": "sha256-kG688os+FEzSZp81lN6HBKy+PxtgT28t8YSgZziNcmE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10687/file/devsense.profiler-php-vscode-1.18.10687.vsix"
+            "url": "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10692/file/devsense.profiler-php-vscode-1.18.10692.vsix"
         },
-        "version": "1.18.10687"
+        "version": "1.18.10692"
     },
     "dez64ru-macos-modern-theme": {
         "cargoLocks": null,
