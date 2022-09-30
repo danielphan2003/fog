@@ -51,10 +51,10 @@
   };
   AdrianCuadrado-npm-install-reminder = {
     pname = "AdrianCuadrado-npm-install-reminder";
-    version = "0.0.3";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.3/file/AdrianCuadrado.npm-install-reminder-0.0.3.vsix";
-      sha256 = "sha256-ZJ373WkY77yEXN/n3njNTP4tzFe3xu26xmxz+jF5Amc=";
+      url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.6/file/AdrianCuadrado.npm-install-reminder-0.0.6.vsix";
+      sha256 = "sha256-fI9BPniJzHzBvjtpOhveTe/7/UZCSIVGens1ePVNt4s=";
     };
     license = "MIT";
     name = "npm-install-reminder";
@@ -9975,10 +9975,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.19.5";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.5/file/foam.foam-vscode-0.19.5.vsix";
-      sha256 = "sha256-pVCqOjAhN5gNndD+xHvniImN1WBD8jR+Cvg57EDyyrs=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.20.0/file/foam.foam-vscode-0.20.0.vsix";
+      sha256 = "sha256-S7lt1bH2dc4K9vR4kXJ/JNMl7mlAi9s/TFlE2o8H4Hg=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -19467,10 +19467,10 @@
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
-    version = "2.1.11";
+    version = "2.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.11/file/senx.warpscript-language-2.1.11.vsix";
-      sha256 = "sha256-2HRpxp1bd9sxv2NskVsGKrPwXFY1sPFFUaLTs8yQxGc=";
+      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.12/file/senx.warpscript-language-2.1.12.vsix";
+      sha256 = "sha256-6Cnq9ofF/4Y7qHtPkYFM6bbOSeA1Uel8j4nEfFukGZg=";
     };
     license = "Apache-2.0";
     name = "warpscript-language";

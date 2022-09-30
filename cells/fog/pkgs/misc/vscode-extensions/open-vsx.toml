@@ -3370,8 +3370,8 @@ fetch.url = "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.4/file/c
 passthru = { publisher = "caiqichang", name = "vscode-translation", description = "A translation tool for Visual Studio Code.", license = "GPL-3.0" }
 
 [AdrianCuadrado-npm-install-reminder]
-src.manual = "0.0.3" # AdrianCuadrado.npm-install-reminder
-fetch.url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.3/file/AdrianCuadrado.npm-install-reminder-0.0.3.vsix" # AdrianCuadrado.npm-install-reminder
+src.manual = "0.0.6" # AdrianCuadrado.npm-install-reminder
+fetch.url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.6/file/AdrianCuadrado.npm-install-reminder-0.0.6.vsix" # AdrianCuadrado.npm-install-reminder
 passthru = { publisher = "AdrianCuadrado", name = "npm-install-reminder", description = "Detects when a change is made in package.lock every time you pull or checkout another git branch, and reminds you to run npm install.", license = "MIT" }
 
 [littlefoxteam-vscode-python-test-adapter]
@@ -7480,8 +7480,8 @@ fetch.url = "https://open-vsx.org/api/webfreak/debug/0.26.0/file/webfreak.debug-
 passthru = { publisher = "webfreak", name = "debug", description = "GDB, LLDB & Mago-MI Debugger support for VSCode", license = "public domain" }
 
 [senx-warpscript-language]
-src.manual = "2.1.11" # senx.warpscript-language
-fetch.url = "https://open-vsx.org/api/senx/warpscript-language/2.1.11/file/senx.warpscript-language-2.1.11.vsix" # senx.warpscript-language
+src.manual = "2.1.12" # senx.warpscript-language
+fetch.url = "https://open-vsx.org/api/senx/warpscript-language/2.1.12/file/senx.warpscript-language-2.1.12.vsix" # senx.warpscript-language
 passthru = { publisher = "senx", name = "warpscript-language", description = "WarpScript & FLoWS support", license = "Apache-2.0" }
 
 [ryanluker-vscode-coverage-gutters]
@@ -9790,8 +9790,8 @@ fetch.url = "https://open-vsx.org/api/phoenisx/cssvar/2.3.0/file/phoenisx.cssvar
 passthru = { publisher = "phoenisx", name = "cssvar", description = "Intellisense support for CSS Variables", license = "MIT" }
 
 [foam-foam-vscode]
-src.manual = "0.19.5" # foam.foam-vscode
-fetch.url = "https://open-vsx.org/api/foam/foam-vscode/0.19.5/file/foam.foam-vscode-0.19.5.vsix" # foam.foam-vscode
+src.manual = "0.20.0" # foam.foam-vscode
+fetch.url = "https://open-vsx.org/api/foam/foam-vscode/0.20.0/file/foam.foam-vscode-0.20.0.vsix" # foam.foam-vscode
 passthru = { publisher = "foam", name = "foam-vscode", description = "VS Code + Markdown + Wikilinks for your note taking and knowledge base", license = "MIT" }
 
 [unthrottled-doki-theme]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
