@@ -759,10 +759,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.6.0/file/DCsunset.vscode-modal-editor-1.6.0.vsix";
-      sha256 = "sha256-Rkjz4LXobx6KBxVS9rKQWOAuz6x6PQhkD0ThyRtAZd0=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.7.0/file/DCsunset.vscode-modal-editor-1.7.0.vsix";
+      sha256 = "sha256-Ojrj7xqAJSgxNCp/4kChDjSu5Fe3/d8lubRTWEab/ls=";
     };
     license = "AGPL-3.0";
     name = "vscode-modal-editor";
@@ -5655,10 +5655,10 @@
   };
   arm-cmsis-csolution = {
     pname = "arm-cmsis-csolution";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/cmsis-csolution/linux-x64/0.5.2/file/arm.cmsis-csolution-0.5.2@linux-x64.vsix";
-      sha256 = "sha256-2e4CEwo+si+yAIeqvmFfmulfyN7UVpGOP6u/R4brLhs=";
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/win32-x64/0.5.3/file/arm.cmsis-csolution-0.5.3@win32-x64.vsix";
+      sha256 = "sha256-iDIbIaZ0TMIWjutIxqHMnt52levrRImm8yUJ0vzg4/c=";
     };
     license = "";
     name = "cmsis-csolution";
@@ -16827,10 +16827,10 @@
   };
   openstax-editor = {
     pname = "openstax-editor";
-    version = "6.2.0";
+    version = "6.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openstax/editor/6.2.0/file/openstax.editor-6.2.0.vsix";
-      sha256 = "sha256-HELpjN3NBTdxDdBA213IOWlSMpjnTdtqWb5eqNZK2rw=";
+      url = "https://open-vsx.org/api/openstax/editor/6.2.1/file/openstax.editor-6.2.1.vsix";
+      sha256 = "sha256-puKrj4euchjGTVm0dypQIOw4vFbp22xQMpdq3cmEwNE=";
     };
     license = "LICENSE";
     name = "editor";

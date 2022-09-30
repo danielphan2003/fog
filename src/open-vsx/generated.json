@@ -1209,11 +1209,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Rkjz4LXobx6KBxVS9rKQWOAuz6x6PQhkD0ThyRtAZd0=",
+            "sha256": "sha256-Ojrj7xqAJSgxNCp/4kChDjSu5Fe3/d8lubRTWEab/ls=",
             "type": "url",
-            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.6.0/file/DCsunset.vscode-modal-editor-1.6.0.vsix"
+            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.7.0/file/DCsunset.vscode-modal-editor-1.7.0.vsix"
         },
-        "version": "1.6.0"
+        "version": "1.7.0"
     },
     "Daimler-sechub": {
         "cargoLocks": null,
@@ -8961,11 +8961,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2e4CEwo+si+yAIeqvmFfmulfyN7UVpGOP6u/R4brLhs=",
+            "sha256": "sha256-iDIbIaZ0TMIWjutIxqHMnt52levrRImm8yUJ0vzg4/c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/cmsis-csolution/linux-x64/0.5.2/file/arm.cmsis-csolution-0.5.2@linux-x64.vsix"
+            "url": "https://open-vsx.org/api/arm/cmsis-csolution/win32-x64/0.5.3/file/arm.cmsis-csolution-0.5.3@win32-x64.vsix"
         },
-        "version": "0.5.2"
+        "version": "0.5.3"
     },
     "arm-device-manager": {
         "cargoLocks": null,
@@ -26650,11 +26650,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HELpjN3NBTdxDdBA213IOWlSMpjnTdtqWb5eqNZK2rw=",
+            "sha256": "sha256-puKrj4euchjGTVm0dypQIOw4vFbp22xQMpdq3cmEwNE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/openstax/editor/6.2.0/file/openstax.editor-6.2.0.vsix"
+            "url": "https://open-vsx.org/api/openstax/editor/6.2.1/file/openstax.editor-6.2.1.vsix"
         },
-        "version": "6.2.0"
+        "version": "6.2.1"
     },
     "opensumi-opensumi-default-themes": {
         "cargoLocks": null,
