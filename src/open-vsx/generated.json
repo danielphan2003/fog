@@ -10082,11 +10082,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6Mp5gBPNAdyIxbrvR6G7GvJ1ZdmVXS2v5NYCNhdHKI0=",
+            "sha256": "sha256-RrgBUFiccZHx4pbZDq/oeQoKaASBHNR1Mshq2sC27qA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.304/file/betterthantomorrow.calva-2.0.304.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.305/file/betterthantomorrow.calva-2.0.305.vsix"
         },
-        "version": "2.0.304"
+        "version": "2.0.305"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,

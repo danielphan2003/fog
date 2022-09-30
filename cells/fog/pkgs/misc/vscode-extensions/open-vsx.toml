@@ -9905,8 +9905,8 @@ fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vsc
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
-src.manual = "2.0.304" # betterthantomorrow.calva
-fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.304/file/betterthantomorrow.calva-2.0.304.vsix" # betterthantomorrow.calva
+src.manual = "2.0.305" # betterthantomorrow.calva
+fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.305/file/betterthantomorrow.calva-2.0.305.vsix" # betterthantomorrow.calva
 passthru = { publisher = "betterthantomorrow", name = "calva", description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.", license = "MIT" }
 
 [WakaTime-vscode-wakatime]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
