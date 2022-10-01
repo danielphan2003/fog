@@ -1815,10 +1815,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "7.2.1";
+    version = "7.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.1/file/Ionide.Ionide-fsharp-7.2.1.vsix";
-      sha256 = "sha256-1YUKDt4p1djFfntWZVXgcSGk0AcXIhigQ046viPfwm4=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.2/file/Ionide.Ionide-fsharp-7.2.2.vsix";
+      sha256 = "sha256-SsuB2UeywB6KPm3/zW7ryRFtT5zST+zo9t5L52JMFJs=";
     };
     license = "MIT";
     name = "Ionide-fsharp";
@@ -8031,10 +8031,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.17";
+    version = "0.13.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix";
-      sha256 = "sha256-T2L5aWbzMbCMtj4ymyyUE4W6KzCVqzHH+nb0kwNtW9k=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.18/file/d-biehl.robotcode-0.13.18.vsix";
+      sha256 = "sha256-uhFGalI+NqFoaEwKwRhDF/Jzj7W1ZK589KB8EQ99ZDw=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -22299,10 +22299,10 @@
   };
   vivaxy-vscode-conventional-commits = {
     pname = "vivaxy-vscode-conventional-commits";
-    version = "1.24.2";
+    version = "1.24.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.2/file/vivaxy.vscode-conventional-commits-1.24.2.vsix";
-      sha256 = "sha256-Bw+zFW9/iXYLS1j92w/q4L9uieZ2IhjcOHH1w28Gwy8=";
+      url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.3/file/vivaxy.vscode-conventional-commits-1.24.3.vsix";
+      sha256 = "sha256-RpDjd1t6Q+Xbnpv++kn/dYwxvnkDNotHv/8ME0BjGZI=";
     };
     license = "MIT";
     name = "vscode-conventional-commits";

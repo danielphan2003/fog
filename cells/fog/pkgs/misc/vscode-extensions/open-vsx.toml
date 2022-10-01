@@ -7430,8 +7430,8 @@ fetch.url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.4/file/jaspergee
 passthru = { publisher = "jaspergeer", name = "docmachine", description = "On the fly documentation generator", license = "MIT" }
 
 [vivaxy-vscode-conventional-commits]
-src.manual = "1.24.2" # vivaxy.vscode-conventional-commits
-fetch.url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.2/file/vivaxy.vscode-conventional-commits-1.24.2.vsix" # vivaxy.vscode-conventional-commits
+src.manual = "1.24.3" # vivaxy.vscode-conventional-commits
+fetch.url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.3/file/vivaxy.vscode-conventional-commits-1.24.3.vsix" # vivaxy.vscode-conventional-commits
 passthru = { publisher = "vivaxy", name = "vscode-conventional-commits", description = "💬Conventional Commits for VSCode.", license = "MIT" }
 
 [VMSSoftwareInc-vms-ide]
@@ -8905,8 +8905,8 @@ fetch.url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.ma
 passthru = { publisher = "svsool", name = "markdown-memo", description = "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode", license = "MIT" }
 
 [d-biehl-robotcode]
-src.manual = "0.13.17" # d-biehl.robotcode
-fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix" # d-biehl.robotcode
+src.manual = "0.13.18" # d-biehl.robotcode
+fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.18/file/d-biehl.robotcode-0.13.18.vsix" # d-biehl.robotcode
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
 [spoorthi-cosmy-wasmy]
@@ -9065,8 +9065,8 @@ fetch.url = "https://open-vsx.org/api/antfu/iconify/0.3.4/file/antfu.iconify-0.3
 passthru = { publisher = "antfu", name = "iconify", description = "Intelligent Iconify previewing and searching for VS Code", license = "MIT" }
 
 [Ionide-Ionide-fsharp]
-src.manual = "7.2.1" # Ionide.Ionide-fsharp
-fetch.url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.1/file/Ionide.Ionide-fsharp-7.2.1.vsix" # Ionide.Ionide-fsharp
+src.manual = "7.2.2" # Ionide.Ionide-fsharp
+fetch.url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.2/file/Ionide.Ionide-fsharp-7.2.2.vsix" # Ionide.Ionide-fsharp
 passthru = { publisher = "Ionide", name = "Ionide-fsharp", description = "F# Language Support, powered by FsAutoComplete", license = "MIT" }
 
 [ggbecker-content-navigator]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

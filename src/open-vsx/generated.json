@@ -2881,11 +2881,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1YUKDt4p1djFfntWZVXgcSGk0AcXIhigQ046viPfwm4=",
+            "sha256": "sha256-SsuB2UeywB6KPm3/zW7ryRFtT5zST+zo9t5L52JMFJs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.1/file/Ionide.Ionide-fsharp-7.2.1.vsix"
+            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.2.2/file/Ionide.Ionide-fsharp-7.2.2.vsix"
         },
-        "version": "7.2.1"
+        "version": "7.2.2"
     },
     "IronGeek-vscode-darklight": {
         "cargoLocks": null,
@@ -12723,11 +12723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T2L5aWbzMbCMtj4ymyyUE4W6KzCVqzHH+nb0kwNtW9k=",
+            "sha256": "sha256-uhFGalI+NqFoaEwKwRhDF/Jzj7W1ZK589KB8EQ99ZDw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.17/file/d-biehl.robotcode-0.13.17.vsix"
+            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.18/file/d-biehl.robotcode-0.13.18.vsix"
         },
-        "version": "0.13.17"
+        "version": "0.13.18"
     },
     "d-koppenhagen-vscode-code-review": {
         "cargoLocks": null,
@@ -35314,11 +35314,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Bw+zFW9/iXYLS1j92w/q4L9uieZ2IhjcOHH1w28Gwy8=",
+            "sha256": "sha256-RpDjd1t6Q+Xbnpv++kn/dYwxvnkDNotHv/8ME0BjGZI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.2/file/vivaxy.vscode-conventional-commits-1.24.2.vsix"
+            "url": "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.3/file/vivaxy.vscode-conventional-commits-1.24.3.vsix"
         },
-        "version": "1.24.2"
+        "version": "1.24.3"
     },
     "vknabel-vscode-apple-swift-format": {
         "cargoLocks": null,
