@@ -2470,13 +2470,13 @@ fetch.url = "https://open-vsx.org/api/vscode/theme-defaults/1.64.0-next.d9fa2b12
 passthru = { publisher = "vscode", name = "theme-defaults", description = "The default Visual Studio light and dark themes", license = "MIT" }
 
 [vscode-sql]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.sql
-fetch.url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.d9fa2b12136/file/vscode.sql-1.64.0-next.d9fa2b12136.vsix" # vscode.sql
+src.manual = "1.64.0-next.68976705968" # vscode.sql
+fetch.url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.68976705968/file/vscode.sql-1.64.0-next.68976705968.vsix" # vscode.sql
 passthru = { publisher = "vscode", name = "sql", description = "Provides syntax highlighting and bracket matching in SQL files.", license = "MIT" }
 
 [vscode-theme-solarized-dark]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-solarized-dark
-fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.d9fa2b12136/file/vscode.theme-solarized-dark-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-solarized-dark
+src.manual = "1.64.0-next.68976705968" # vscode.theme-solarized-dark
+fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68976705968/file/vscode.theme-solarized-dark-1.64.0-next.68976705968.vsix" # vscode.theme-solarized-dark
 passthru = { publisher = "vscode", name = "theme-solarized-dark", description = "Solarized dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-monokai-dimmed]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

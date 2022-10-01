@@ -23199,10 +23199,10 @@
   };
   vscode-sql = {
     pname = "vscode-sql";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.d9fa2b12136/file/vscode.sql-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-5GhcAPKliFgCs+8lPZKxwvmiEfCBt6f1HZvhQHo9+ao=";
+      url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.68976705968/file/vscode.sql-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-dKELbg8uxi69ro/rz7BK7Fsin1zFm7gHPZZyvSnlUKc=";
     };
     license = "MIT";
     name = "sql";
@@ -23307,10 +23307,10 @@
   };
   vscode-theme-solarized-dark = {
     pname = "vscode-theme-solarized-dark";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.d9fa2b12136/file/vscode.theme-solarized-dark-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-/zT+M3x7J52xqlxXfZhRPt7/rlf6wE/jf+oxoOjJYKg=";
+      url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68976705968/file/vscode.theme-solarized-dark-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-x2jxm3EkPwEwLIVVqzgVQuUs4zfFU3Mz5FSbHNqBu7Q=";
     };
     license = "MIT";
     name = "theme-solarized-dark";
