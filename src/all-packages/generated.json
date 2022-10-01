@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "a900b0425417a78fe39a45a17f707f3ae28aab1e",
-            "sha256": "sha256-5Yc+F7RpP2hLLyezrSlH093vV4gdjgts5V98Jh8jR+Q=",
+            "rev": "bf94550a84d87cb79f389b65dbafc4103b41a2fa",
+            "sha256": "sha256-CEYYfAMHv+lYtaxKKYJzPL4ZeMbZubbpTTGoKZWvaAw=",
             "type": "github"
         },
-        "version": "a900b0425417a78fe39a45a17f707f3ae28aab1e"
+        "version": "bf94550a84d87cb79f389b65dbafc4103b41a2fa"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-3685308c9628a84f53db9aee36e80c5c2bd607cb/src-tauri/Cargo.lock",
+                "./cinny-desktop-8f1f4d7984d955a5fb00deab49d6202c75732ee2/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "3685308c9628a84f53db9aee36e80c5c2bd607cb",
-            "sha256": "sha256-s8Pgwnz69/c9bWXMgKhMvdMEbtKAaJyPaFDZeWosXV0=",
+            "rev": "8f1f4d7984d955a5fb00deab49d6202c75732ee2",
+            "sha256": "sha256-+sLSdt6VPNfyT90zgvYK4t9rZkfIZKMIBI1bXkwcPKQ=",
             "type": "github"
         },
-        "version": "3685308c9628a84f53db9aee36e80c5c2bd607cb"
+        "version": "8f1f4d7984d955a5fb00deab49d6202c75732ee2"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lqE5WrR4rTmDKRQC01LmIZzk7Pzb+5ixUapCjJNbNXk=",
+            "sha256": "sha256-0BLCScknVR12M0pXQphZeQBkMkYVcagrAOWnGi8kq1Y=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.12.0/revanced-cli-2.12.0-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.13.0/revanced-cli-2.13.0-all.jar"
         },
-        "version": "2.12.0"
+        "version": "2.13.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NatLHbdovQdq9E9KbXb6AVGnzCHZ8nDLEkj7bFqkrAE=",
+            "sha256": "sha256-DV/80U/1QrqoWZEIDDT3MImsa9vV1kuVWL19wRpuEyM=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.76.3/revanced-patches-2.76.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.77.1/revanced-patches-2.77.1.jar"
         },
-        "version": "2.76.3"
+        "version": "2.77.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
