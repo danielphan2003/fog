@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-600d0ae3d984ed0c4de502c48781caae4d3400c0/Cargo.lock",
+                "./asusctl-3a640a3269757345005f86cbf89dca396695074a/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "600d0ae3d984ed0c4de502c48781caae4d3400c0",
-            "sha256": "sha256-bz8YPoRLAI075D7ezU+JXnP56t65bf4+LJ57jO6nyhQ=",
+            "rev": "3a640a3269757345005f86cbf89dca396695074a",
+            "sha256": "sha256-9r9/CCxUR0gARQs7AjSxLbLj8/yqMKgEq3XBu2g4JBE=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "600d0ae3d984ed0c4de502c48781caae4d3400c0"
+        "version": "3a640a3269757345005f86cbf89dca396695074a"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "22e0f64095fbe42a0f087858dc4a6cf02387b0d8",
-            "sha256": "sha256-mcOCk68FXU1I+/cmsyacay+Q/iTw3z+ytxzsffDads4=",
+            "rev": "8385e8db8fa44372417b5c6e1d37187a5556db19",
+            "sha256": "sha256-zhWGsifwD0ccozSgsHUXXiIr3xBAw0cLSHSmEmKZS6c=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "22e0f64095fbe42a0f087858dc4a6cf02387b0d8"
+        "version": "8385e8db8fa44372417b5c6e1d37187a5556db19"
     },
     "pure": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PyPJ2+YY8Y4JMx/9mT6p672AYbDoRXe1O+wExWVxyoI=",
+            "sha256": "sha256-Onb2Nrgp6J0MclseuYNEDLZ6NOt9V0JgsZ9A9lfTVg4=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.46.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.46.2/app-release-unsigned.apk"
         },
-        "version": "0.46.1"
+        "version": "0.46.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xKX+RY+QxH1rT2tLxWr40tbaHEnZ4xaEPA9+Z4mhYCg=",
+            "sha256": "sha256-NatLHbdovQdq9E9KbXb6AVGnzCHZ8nDLEkj7bFqkrAE=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.76.2/revanced-patches-2.76.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.76.3/revanced-patches-2.76.3.jar"
         },
-        "version": "2.76.2"
+        "version": "2.76.3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1833,11 +1833,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "c9d611d117868d69e33aa563afd86a6bd0abe497",
-            "sha256": "sha256-2/roVMOaKXDWo2j4mTLiQ6QvyPpHqeYXx/VdcBuiGlQ=",
+            "rev": "ec2616a094a3fa900308f48e8b87638f1c86a56b",
+            "sha256": "sha256-NmZAIy7VFw4E6yhRZfhzt/hOPE60KwFvjjxtndwg7wM=",
             "type": "github"
         },
-        "version": "c9d611d117868d69e33aa563afd86a6bd0abe497"
+        "version": "ec2616a094a3fa900308f48e8b87638f1c86a56b"
     },
     "spicetify-themes": {
         "cargoLocks": null,
