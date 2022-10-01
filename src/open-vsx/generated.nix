@@ -1047,10 +1047,10 @@
   };
   Elmtooling-elm-ls-vscode = {
     pname = "Elmtooling-elm-ls-vscode";
-    version = "2.4.1";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.4.1/file/Elmtooling.elm-ls-vscode-2.4.1.vsix";
-      sha256 = "sha256-x6OTH+r8wX2WmCG0o8NL93c2hZ/LucftBCnCtqqP/RA=";
+      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.5.0/file/Elmtooling.elm-ls-vscode-2.5.0.vsix";
+      sha256 = "sha256-j/tRfJEI+cn8iUn1M2FEdF4/5WTlMOEn1lblu9dq9CE=";
     };
     license = "MIT";
     name = "elm-ls-vscode";
@@ -12315,10 +12315,10 @@
   };
   jeff-hykin-better-cpp-syntax = {
     pname = "jeff-hykin-better-cpp-syntax";
-    version = "1.15.19";
+    version = "1.15.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeff-hykin/better-cpp-syntax/1.15.19/file/jeff-hykin.better-cpp-syntax-1.15.19.vsix";
-      sha256 = "sha256-DEvnF7dzIBHPbNFrbCsowxdKAnUFIGMXcWuQnA/KSmM=";
+      url = "https://open-vsx.org/api/jeff-hykin/better-cpp-syntax/1.15.23/file/jeff-hykin.better-cpp-syntax-1.15.23.vsix";
+      sha256 = "sha256-t2USiB39EcplHmKnnpRcQU0x/kdVZN9+t+SngPCSKfI=";
     };
     license = "MIT";
     name = "better-cpp-syntax";
@@ -23199,10 +23199,10 @@
   };
   vscode-sql = {
     pname = "vscode-sql";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.68976705968/file/vscode.sql-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-dKELbg8uxi69ro/rz7BK7Fsin1zFm7gHPZZyvSnlUKc=";
+      url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.d9fa2b12136/file/vscode.sql-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-5GhcAPKliFgCs+8lPZKxwvmiEfCBt6f1HZvhQHo9+ao=";
     };
     license = "MIT";
     name = "sql";
@@ -23307,10 +23307,10 @@
   };
   vscode-theme-solarized-dark = {
     pname = "vscode-theme-solarized-dark";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68976705968/file/vscode.theme-solarized-dark-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-x2jxm3EkPwEwLIVVqzgVQuUs4zfFU3Mz5FSbHNqBu7Q=";
+      url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.d9fa2b12136/file/vscode.theme-solarized-dark-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-/zT+M3x7J52xqlxXfZhRPt7/rlf6wE/jf+oxoOjJYKg=";
     };
     license = "MIT";
     name = "theme-solarized-dark";
