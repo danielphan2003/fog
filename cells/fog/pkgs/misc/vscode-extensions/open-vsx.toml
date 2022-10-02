@@ -9480,8 +9480,8 @@ fetch.url = "https://open-vsx.org/api/MateuszDrewniak/theme-dracula-dark-plus/2.
 passthru = { publisher = "MateuszDrewniak", name = "theme-dracula-dark-plus", description = "Yet another Dracula Official Theme fork, but with colors switched to resemble Dark+", license = "MIT" }
 
 [davelopez-galaxy-tools]
-src.manual = "0.7.3" # davelopez.galaxy-tools
-fetch.url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.3/file/davelopez.galaxy-tools-0.7.3.vsix" # davelopez.galaxy-tools
+src.manual = "0.8.0" # davelopez.galaxy-tools
+fetch.url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.8.0/file/davelopez.galaxy-tools-0.8.0.vsix" # davelopez.galaxy-tools
 passthru = { publisher = "davelopez", name = "galaxy-tools", description = "Galaxy Tools for Visual Studio Code - provides XML completion, lints, snippets and other smart features to develop Galaxy (https://galaxyproject.org/) tool wrappers.", license = "Apache-2.0" }
 
 [Pivotal-vscode-manifest-yaml]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

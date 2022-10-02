@@ -8247,10 +8247,10 @@
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
-    version = "0.7.3";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.3/file/davelopez.galaxy-tools-0.7.3.vsix";
-      sha256 = "sha256-4qwZiVP3p07kSvVzshNmUYbARDRTBkX7MPfCbX+onb4=";
+      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.8.0/file/davelopez.galaxy-tools-0.8.0.vsix";
+      sha256 = "sha256-d1nXqq7SQHp0t9IbxNIQswhl1RfN4PNN6xIdWDkdFKI=";
     };
     license = "Apache-2.0";
     name = "galaxy-tools";
