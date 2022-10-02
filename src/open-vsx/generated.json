@@ -12723,11 +12723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uhFGalI+NqFoaEwKwRhDF/Jzj7W1ZK589KB8EQ99ZDw=",
+            "sha256": "sha256-URRUfHsF01xOf7XyzOPg7RPi/epdUd+ebTHt+Bef5tw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.18/file/d-biehl.robotcode-0.13.18.vsix"
+            "url": "https://open-vsx.org/api/d-biehl/robotcode/0.13.19/file/d-biehl.robotcode-0.13.19.vsix"
         },
-        "version": "0.13.18"
+        "version": "0.13.19"
     },
     "d-koppenhagen-vscode-code-review": {
         "cargoLocks": null,

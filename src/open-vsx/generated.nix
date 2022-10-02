@@ -8031,10 +8031,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.18";
+    version = "0.13.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.18/file/d-biehl.robotcode-0.13.18.vsix";
-      sha256 = "sha256-uhFGalI+NqFoaEwKwRhDF/Jzj7W1ZK589KB8EQ99ZDw=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.19/file/d-biehl.robotcode-0.13.19.vsix";
+      sha256 = "sha256-URRUfHsF01xOf7XyzOPg7RPi/epdUd+ebTHt+Bef5tw=";
     };
     license = "Apache-2.0";
     name = "robotcode";
