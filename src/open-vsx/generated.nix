@@ -8583,10 +8583,10 @@
   };
   devsense-composer-php-vscode = {
     pname = "devsense-composer-php-vscode";
-    version = "1.18.10692";
+    version = "1.18.10705";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10692/file/devsense.composer-php-vscode-1.18.10692.vsix";
-      sha256 = "sha256-dCvAHRtT7/mX+LkW0Suilz/dCPpoWao7ywnBaDAOTrc=";
+      url = "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10705/file/devsense.composer-php-vscode-1.18.10705.vsix";
+      sha256 = "sha256-7DCc7FCdpmnMguLe1xZroU9QpPbJmdYXD+tShVQWwzE=";
     };
     license = "LicenseRef-LICENSE";
     name = "composer-php-vscode";
@@ -8595,10 +8595,10 @@
   };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
-    version = "1.18.10692";
+    version = "1.18.10705";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10692/file/devsense.phptools-vscode-1.18.10692@win32-x64.vsix";
-      sha256 = "sha256-2szaZV5+w1mZEvKHXARYNa7vDVzR/eE02owPVE/iYoA=";
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10705/file/devsense.phptools-vscode-1.18.10705@win32-x64.vsix";
+      sha256 = "sha256-u7B8hITddwkbac9EnWddoMi/R7kbn3iu5sXJQZ5AaxI=";
     };
     license = "LicenseRef-LICENSE";
     name = "phptools-vscode";
@@ -8607,10 +8607,10 @@
   };
   devsense-profiler-php-vscode = {
     pname = "devsense-profiler-php-vscode";
-    version = "1.18.10692";
+    version = "1.18.10705";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10692/file/devsense.profiler-php-vscode-1.18.10692.vsix";
-      sha256 = "sha256-kG688os+FEzSZp81lN6HBKy+PxtgT28t8YSgZziNcmE=";
+      url = "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10705/file/devsense.profiler-php-vscode-1.18.10705.vsix";
+      sha256 = "sha256-X50Df/hpMYWGo4dwBFHT3GZSArVdYpQh6nyV+NPLoRQ=";
     };
     license = "LicenseRef-LICENSE";
     name = "profiler-php-vscode";
@@ -17583,10 +17583,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.450";
+    version = "0.26.451";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.450/file/pokey.cursorless-0.26.450.vsix";
-      sha256 = "sha256-HynZQRH7QTy9oJLsP+2nuPHJEvHTvlvqao9iZvCvPYE=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.451/file/pokey.cursorless-0.26.451.vsix";
+      sha256 = "sha256-/YRbuzQi54Fgf1YWa4VQG3l27gnZygQD0fZsqmX33oo=";
     };
     license = "MIT";
     name = "cursorless";

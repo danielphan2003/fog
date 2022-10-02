@@ -13597,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dCvAHRtT7/mX+LkW0Suilz/dCPpoWao7ywnBaDAOTrc=",
+            "sha256": "sha256-7DCc7FCdpmnMguLe1xZroU9QpPbJmdYXD+tShVQWwzE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10692/file/devsense.composer-php-vscode-1.18.10692.vsix"
+            "url": "https://open-vsx.org/api/devsense/composer-php-vscode/1.18.10705/file/devsense.composer-php-vscode-1.18.10705.vsix"
         },
-        "version": "1.18.10692"
+        "version": "1.18.10705"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -13616,11 +13616,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2szaZV5+w1mZEvKHXARYNa7vDVzR/eE02owPVE/iYoA=",
+            "sha256": "sha256-u7B8hITddwkbac9EnWddoMi/R7kbn3iu5sXJQZ5AaxI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10692/file/devsense.phptools-vscode-1.18.10692@win32-x64.vsix"
+            "url": "https://open-vsx.org/api/devsense/phptools-vscode/win32-x64/1.18.10705/file/devsense.phptools-vscode-1.18.10705@win32-x64.vsix"
         },
-        "version": "1.18.10692"
+        "version": "1.18.10705"
     },
     "devsense-profiler-php-vscode": {
         "cargoLocks": null,
@@ -13635,11 +13635,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kG688os+FEzSZp81lN6HBKy+PxtgT28t8YSgZziNcmE=",
+            "sha256": "sha256-X50Df/hpMYWGo4dwBFHT3GZSArVdYpQh6nyV+NPLoRQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10692/file/devsense.profiler-php-vscode-1.18.10692.vsix"
+            "url": "https://open-vsx.org/api/devsense/profiler-php-vscode/1.18.10705/file/devsense.profiler-php-vscode-1.18.10705.vsix"
         },
-        "version": "1.18.10692"
+        "version": "1.18.10705"
     },
     "dez64ru-macos-modern-theme": {
         "cargoLocks": null,
@@ -27847,11 +27847,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HynZQRH7QTy9oJLsP+2nuPHJEvHTvlvqao9iZvCvPYE=",
+            "sha256": "sha256-/YRbuzQi54Fgf1YWa4VQG3l27gnZygQD0fZsqmX33oo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.450/file/pokey.cursorless-0.26.450.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.451/file/pokey.cursorless-0.26.451.vsix"
         },
-        "version": "0.26.450"
+        "version": "0.26.451"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
