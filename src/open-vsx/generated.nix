@@ -19095,10 +19095,10 @@
   };
   rxliuli-joplin-vscode-plugin = {
     pname = "rxliuli-joplin-vscode-plugin";
-    version = "0.7.12";
+    version = "0.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.7.12/file/rxliuli.joplin-vscode-plugin-0.7.12.vsix";
-      sha256 = "sha256-arYr1atYMKkzwBoRkoYn3zrwCUspqa5NeOps2J0qC8I=";
+      url = "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.8.3/file/rxliuli.joplin-vscode-plugin-0.8.3.vsix";
+      sha256 = "sha256-7+g98bkGTPRONUthuY/uaOEwtOM4q/GePlOT1rsLp44=";
     };
     license = "MIT";
     name = "joplin-vscode-plugin";
@@ -19275,10 +19275,10 @@
   };
   samuelcolvin-jinjahtml = {
     pname = "samuelcolvin-jinjahtml";
-    version = "0.18.0";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.18.0/file/samuelcolvin.jinjahtml-0.18.0.vsix";
-      sha256 = "sha256-rGjIzCcJ+lR74cC3U5v4jfKEOI9sGfDSAjyowKq5Q1A=";
+      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.19.0/file/samuelcolvin.jinjahtml-0.19.0.vsix";
+      sha256 = "sha256-eGVVi7pB03oOLV6xmxe1b7QLyYC81G/qlGyI1qwCyXY=";
     };
     license = "MIT";
     name = "jinjahtml";
@@ -22839,10 +22839,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.18.0";
+    version = "11.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.18.0/file/vscode-icons-team.vscode-icons-11.18.0.vsix";
-      sha256 = "sha256-47nO6pBspYO9pjux+Skdl+eDgao4nuWA/7GwB93vNiQ=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.19.0/file/vscode-icons-team.vscode-icons-11.19.0.vsix";
+      sha256 = "sha256-qv6iirVAX++jmlSdtnJ7+x/Z7Is+0HSkDQBzpjYumLU=";
     };
     license = "MIT";
     name = "vscode-icons";
@@ -24735,10 +24735,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.7";
+    version = "0.11.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.7/file/znck.vue-0.11.7.vsix";
-      sha256 = "sha256-fsp9h2KLAaWWk44IzxYkpJxVvKhD38NLzu096OL65xY=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.8/file/znck.vue-0.11.8.vsix";
+      sha256 = "sha256-8Ekaw9k8N39GMfJO9ccP4TU1DJq4BOnqf5yJ/fBi+lo=";
     };
     license = "MIT";
     name = "vue-language-features";

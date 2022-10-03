@@ -3070,8 +3070,8 @@ fetch.url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.32.0/file/onece
 passthru = { publisher = "onecentlin", name = "laravel-blade", description = "Laravel blade snippets and syntax highlight support", license = "MIT" }
 
 [samuelcolvin-jinjahtml]
-src.manual = "0.18.0" # samuelcolvin.jinjahtml
-fetch.url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.18.0/file/samuelcolvin.jinjahtml-0.18.0.vsix" # samuelcolvin.jinjahtml
+src.manual = "0.19.0" # samuelcolvin.jinjahtml
+fetch.url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.19.0/file/samuelcolvin.jinjahtml-0.19.0.vsix" # samuelcolvin.jinjahtml
 passthru = { publisher = "samuelcolvin", name = "jinjahtml", description = "Syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates", license = "MIT" }
 
 [asciidoctor-asciidoctor-vscode]
@@ -5000,8 +5000,8 @@ fetch.url = "https://open-vsx.org/api/Antyos/openscad/1.1.1/file/Antyos.openscad
 passthru = { publisher = "Antyos", name = "openscad", description = "OpenSCAD highlighting, snippets, and more for VSCode!", license = "GPL-3.0" }
 
 [vscode-icons-team-vscode-icons]
-src.manual = "11.18.0" # vscode-icons-team.vscode-icons
-fetch.url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.18.0/file/vscode-icons-team.vscode-icons-11.18.0.vsix" # vscode-icons-team.vscode-icons
+src.manual = "11.19.0" # vscode-icons-team.vscode-icons
+fetch.url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.19.0/file/vscode-icons-team.vscode-icons-11.19.0.vsix" # vscode-icons-team.vscode-icons
 passthru = { publisher = "vscode-icons-team", name = "vscode-icons", description = "Icons for Visual Studio Code", license = "MIT" }
 
 [aaron-bond-better-comments]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.7" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.7/file/znck.vue-0.11.7.vsix" # znck.vue-language-features
+src.manual = "0.11.8" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.8/file/znck.vue-0.11.8.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -10649,8 +10649,8 @@ passthru = { publisher = "lolow", name = "gams", description = "GAMS language", 
 
 
 [rxliuli-joplin-vscode-plugin]
-src.manual = "0.7.12" # rxliuli.joplin-vscode-plugin
-fetch.url = "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.7.12/file/rxliuli.joplin-vscode-plugin-0.7.12.vsix" # rxliuli.joplin-vscode-plugin
+src.manual = "0.8.3" # rxliuli.joplin-vscode-plugin
+fetch.url = "https://open-vsx.org/api/rxliuli/joplin-vscode-plugin/0.8.3/file/rxliuli.joplin-vscode-plugin-0.8.3.vsix" # rxliuli.joplin-vscode-plugin
 passthru = { publisher = "rxliuli", name = "joplin-vscode-plugin", description = "joplin's vscode integration", license = "MIT" }
 
 [Oracle-oracledevtools]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
