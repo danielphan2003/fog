@@ -2145,8 +2145,8 @@ fetch.url = "https://open-vsx.org/api/formulahendry/vscode-mysql/0.4.1/file/form
 passthru = { publisher = "formulahendry", name = "vscode-mysql", description = "MySQL management tool", license = "MIT" }
 
 [vscode-debug-server-ready]
-src.manual = "1.64.0-next.68976705968" # vscode.debug-server-ready
-fetch.url = "https://open-vsx.org/api/vscode/debug-server-ready/1.64.0-next.68976705968/file/vscode.debug-server-ready-1.64.0-next.68976705968.vsix" # vscode.debug-server-ready
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.debug-server-ready
+fetch.url = "https://open-vsx.org/api/vscode/debug-server-ready/1.64.0-next.d9fa2b12136/file/vscode.debug-server-ready-1.64.0-next.d9fa2b12136.vsix" # vscode.debug-server-ready
 passthru = { publisher = "vscode", name = "debug-server-ready", description = "Open URI in browser if server under debugging is ready.", license = "MIT" }
 
 [vscode-search-result]
@@ -2160,8 +2160,8 @@ fetch.url = "https://open-vsx.org/api/vscode/php-language-features/1.64.0-next.6
 passthru = { publisher = "vscode", name = "php-language-features", description = "Provides rich language support for PHP files.", license = "MIT" }
 
 [vscode-image-preview]
-src.manual = "1.64.0-next.68976705968" # vscode.image-preview
-fetch.url = "https://open-vsx.org/api/vscode/image-preview/1.64.0-next.68976705968/file/vscode.image-preview-1.64.0-next.68976705968.vsix" # vscode.image-preview
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.image-preview
+fetch.url = "https://open-vsx.org/api/vscode/image-preview/1.64.0-next.d9fa2b12136/file/vscode.image-preview-1.64.0-next.d9fa2b12136.vsix" # vscode.image-preview
 passthru = { publisher = "vscode", name = "image-preview", description = "Provides VS Code's built-in image preview", license = "MIT" }
 
 [sbg-rabix-benten-cwl]
@@ -2240,8 +2240,8 @@ fetch.url = "https://open-vsx.org/api/phil9909/ytt-lint/0.3.1/file/phil9909.ytt-
 passthru = { publisher = "phil9909", name = "ytt-lint", description = "ytt lint validates ytt-templates and plain yaml-files. It is designed for Kubernetes artifacts, but works with other yaml-files.", license = "Apache-2.0" }
 
 [vscode-theme-solarized-light]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-solarized-light
-fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-light/1.64.0-next.68976705968/file/vscode.theme-solarized-light-1.64.0-next.68976705968.vsix" # vscode.theme-solarized-light
+src.manual = "1.64.0-next.452e2c53030" # vscode.theme-solarized-light
+fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-light/1.64.0-next.452e2c53030/file/vscode.theme-solarized-light-1.64.0-next.452e2c53030.vsix" # vscode.theme-solarized-light
 passthru = { publisher = "vscode", name = "theme-solarized-light", description = "Solarized light theme for Visual Studio Code", license = "MIT" }
 
 [bach-bahk-vs-code-snippets]
@@ -2385,8 +2385,8 @@ fetch.url = "https://open-vsx.org/api/liangcheng-plugins/open-sourcetree-in-vsco
 passthru = { publisher = "liangcheng-plugins", name = "open-sourcetree-in-vscode-plugin", description = "在vscode中的资源管理器中，直接右键可以打开sourcetree, 并加载当前git源码树到sourcetree", license = "MIT" }
 
 [vscode-shaderlab]
-src.manual = "1.64.0-next.68976705968" # vscode.shaderlab
-fetch.url = "https://open-vsx.org/api/vscode/shaderlab/1.64.0-next.68976705968/file/vscode.shaderlab-1.64.0-next.68976705968.vsix" # vscode.shaderlab
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.shaderlab
+fetch.url = "https://open-vsx.org/api/vscode/shaderlab/1.64.0-next.d9fa2b12136/file/vscode.shaderlab-1.64.0-next.d9fa2b12136.vsix" # vscode.shaderlab
 passthru = { publisher = "vscode", name = "shaderlab", description = "Provides syntax highlighting and bracket matching in Shaderlab files.", license = "MIT" }
 
 [vscode-razor]
@@ -2475,8 +2475,8 @@ fetch.url = "https://open-vsx.org/api/vscode/sql/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "sql", description = "Provides syntax highlighting and bracket matching in SQL files.", license = "MIT" }
 
 [vscode-theme-solarized-dark]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-solarized-dark
-fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68976705968/file/vscode.theme-solarized-dark-1.64.0-next.68976705968.vsix" # vscode.theme-solarized-dark
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-solarized-dark
+fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.d9fa2b12136/file/vscode.theme-solarized-dark-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-solarized-dark
 passthru = { publisher = "vscode", name = "theme-solarized-dark", description = "Solarized dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-monokai-dimmed]
@@ -2565,8 +2565,8 @@ fetch.url = "https://open-vsx.org/api/vscode/python/1.64.0-next.d9fa2b12136/file
 passthru = { publisher = "vscode", name = "python", description = "Provides syntax highlighting, bracket matching and folding in Python files.", license = "MIT" }
 
 [vscode-groovy]
-src.manual = "1.64.0-next.68976705968" # vscode.groovy
-fetch.url = "https://open-vsx.org/api/vscode/groovy/1.64.0-next.68976705968/file/vscode.groovy-1.64.0-next.68976705968.vsix" # vscode.groovy
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.groovy
+fetch.url = "https://open-vsx.org/api/vscode/groovy/1.64.0-next.d9fa2b12136/file/vscode.groovy-1.64.0-next.d9fa2b12136.vsix" # vscode.groovy
 passthru = { publisher = "vscode", name = "groovy", description = "Provides snippets, syntax highlighting and bracket matching in Groovy files.", license = "MIT" }
 
 [vscode-emmet]
@@ -2605,8 +2605,8 @@ fetch.url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.68976705968/
 passthru = { publisher = "vscode", name = "handlebars", description = "Provides syntax highlighting and bracket matching in Handlebars files.", license = "MIT" }
 
 [vscode-less]
-src.manual = "1.64.0-next.68976705968" # vscode.less
-fetch.url = "https://open-vsx.org/api/vscode/less/1.64.0-next.68976705968/file/vscode.less-1.64.0-next.68976705968.vsix" # vscode.less
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.less
+fetch.url = "https://open-vsx.org/api/vscode/less/1.64.0-next.d9fa2b12136/file/vscode.less-1.64.0-next.d9fa2b12136.vsix" # vscode.less
 passthru = { publisher = "vscode", name = "less", description = "Provides syntax highlighting, bracket matching and folding in Less files.", license = "MIT" }
 
 [vscode-make]
@@ -2645,8 +2645,8 @@ fetch.url = "https://open-vsx.org/api/vscode/java/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "javascript", description = "Provides snippets, syntax highlighting, bracket matching and folding in JavaScript files.", license = "MIT" }
 
 [vscode-docker]
-src.manual = "1.64.0-next.68976705968" # vscode.docker
-fetch.url = "https://open-vsx.org/api/vscode/docker/1.64.0-next.68976705968/file/vscode.docker-1.64.0-next.68976705968.vsix" # vscode.docker
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.docker
+fetch.url = "https://open-vsx.org/api/vscode/docker/1.64.0-next.d9fa2b12136/file/vscode.docker-1.64.0-next.d9fa2b12136.vsix" # vscode.docker
 passthru = { publisher = "vscode", name = "docker", description = "Provides syntax highlighting and bracket matching in Docker files.", license = "MIT" }
 
 [emattiza-vscode-purty]
@@ -8920,8 +8920,8 @@ fetch.url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.1/fi
 passthru = { publisher = "vunguyentuan", name = "vscode-css-variables", description = "Autocomplete CSS Variable support CSS, SCSS, LESS, PostCSS, VueJS, ReactJS and more", license = "MIT" }
 
 [redhat-vscode-apache-camel]
-src.manual = "0.4.0" # redhat.vscode-apache-camel
-fetch.url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.4.0/file/redhat.vscode-apache-camel-0.4.0.vsix" # redhat.vscode-apache-camel
+src.manual = "0.5.0" # redhat.vscode-apache-camel
+fetch.url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.5.0/file/redhat.vscode-apache-camel-0.5.0.vsix" # redhat.vscode-apache-camel
 passthru = { publisher = "redhat", name = "vscode-apache-camel", description = "Provides completion, validation and documentation features for Apache Camel URI elements.", license = "Apache-2.0" }
 
 [AlekseyNagovitsyn-autocomplete-line]
@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.5/file/dendron.night
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
-src.manual = "1.19.3" # rangav.vscode-thunder-client
-fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.3/file/rangav.vscode-thunder-client-1.19.3.vsix" # rangav.vscode-thunder-client
+src.manual = "1.19.4" # rangav.vscode-thunder-client
+fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.19.4/file/rangav.vscode-thunder-client-1.19.4.vsix" # rangav.vscode-thunder-client
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
@@ -9800,8 +9800,8 @@ fetch.url = "https://open-vsx.org/api/unthrottled/doki-theme/88.1.7/file/unthrot
 passthru = { publisher = "unthrottled", name = "doki-theme", description = "Cute anime character themes!", license = "MIT" }
 
 [SonarSource-sonarlint-vscode]
-src.manual = "3.10.0" # SonarSource.sonarlint-vscode
-fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.10.0/file/SonarSource.sonarlint-vscode-3.10.0.vsix" # SonarSource.sonarlint-vscode
+src.manual = "3.11.0" # SonarSource.sonarlint-vscode
+fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.11.0/file/SonarSource.sonarlint-vscode-3.11.0.vsix" # SonarSource.sonarlint-vscode
 passthru = { publisher = "SonarSource", name = "sonarlint-vscode", description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.", license = "LGPL-3.0" }
 
 [astro-build-astro-vscode]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1468/file/Prism
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
-src.manual = "1.8.0" # vadimcn.vscode-lldb
-fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.0/file/vadimcn.vscode-lldb-1.8.0.vsix" # vadimcn.vscode-lldb
+src.manual = "1.8.1" # vadimcn.vscode-lldb
+fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.1/file/vadimcn.vscode-lldb-1.8.1.vsix" # vadimcn.vscode-lldb
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
@@ -9920,8 +9920,8 @@ fetch.url = "https://open-vsx.org/api/zokugun/sync-settings/0.13.0/file/zokugun.
 passthru = { publisher = "zokugun", name = "sync-settings", description = "Easily synchronize your settings", license = "MIT" }
 
 [Dart-Code-flutter]
-src.manual = "3.48.0" # Dart-Code.flutter
-fetch.url = "https://open-vsx.org/api/Dart-Code/flutter/3.48.0/file/Dart-Code.flutter-3.48.0.vsix" # Dart-Code.flutter
+src.manual = "3.50.0" # Dart-Code.flutter
+fetch.url = "https://open-vsx.org/api/Dart-Code/flutter/3.50.0/file/Dart-Code.flutter-3.50.0.vsix" # Dart-Code.flutter
 passthru = { publisher = "Dart-Code", name = "flutter", description = "Flutter support and debugger for Visual Studio Code.", license = "MIT" }
 
 [PKief-material-icon-theme]
@@ -9940,8 +9940,8 @@ fetch.url = "https://open-vsx.org/api/timonwong/shellcheck/0.23.0/file/timonwong
 passthru = { publisher = "timonwong", name = "shellcheck", description = "Integrates ShellCheck into VS Code, a linter for Shell scripts.", license = "MIT" }
 
 [Dart-Code-dart-code]
-src.manual = "3.48.0" # Dart-Code.dart-code
-fetch.url = "https://open-vsx.org/api/Dart-Code/dart-code/3.48.0/file/Dart-Code.dart-code-3.48.0.vsix" # Dart-Code.dart-code
+src.manual = "3.50.0" # Dart-Code.dart-code
+fetch.url = "https://open-vsx.org/api/Dart-Code/dart-code/3.50.0/file/Dart-Code.dart-code-3.50.0.vsix" # Dart-Code.dart-code
 passthru = { publisher = "Dart-Code", name = "dart-code", description = "Dart language support and debugger for Visual Studio Code.", license = "MIT" }
 
 [cweijan-vscode-mysql-client2]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
