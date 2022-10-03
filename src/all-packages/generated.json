@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ClutWJg/DmPXPKQrybCgYqtb2QNh1yFVhMtDhWVfM7g=",
+            "sha256": "sha256-Oo+V8kEZSds4th8txa0qY1tGuHcOonIDzXwiAkEYCtk=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.53-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_106.0.1370.34-1_amd64.deb"
         },
-        "version": "105.0.1343.53"
+        "version": "106.0.1370.34"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
