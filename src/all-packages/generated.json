@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "bf94550a84d87cb79f389b65dbafc4103b41a2fa",
-            "sha256": "sha256-CEYYfAMHv+lYtaxKKYJzPL4ZeMbZubbpTTGoKZWvaAw=",
+            "rev": "e170d02bff3eac2eb18c566bed2362e64285e5e7",
+            "sha256": "sha256-XIz7Cz9RiHaMKxmjLXdBhYepE6IbhTKDw8PRLYCr7gU=",
             "type": "github"
         },
-        "version": "bf94550a84d87cb79f389b65dbafc4103b41a2fa"
+        "version": "e170d02bff3eac2eb18c566bed2362e64285e5e7"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-8f1f4d7984d955a5fb00deab49d6202c75732ee2/src-tauri/Cargo.lock",
+                "./cinny-desktop-5c5825c8baf1f240bd9c944e1f326d14c01edd8f/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "8f1f4d7984d955a5fb00deab49d6202c75732ee2",
-            "sha256": "sha256-+sLSdt6VPNfyT90zgvYK4t9rZkfIZKMIBI1bXkwcPKQ=",
+            "rev": "5c5825c8baf1f240bd9c944e1f326d14c01edd8f",
+            "sha256": "sha256-nUUBcxoNp1UY1VvkVw6F8DF2BDexuIR7W2zQwPN1UGo=",
             "type": "github"
         },
-        "version": "8f1f4d7984d955a5fb00deab49d6202c75732ee2"
+        "version": "5c5825c8baf1f240bd9c944e1f326d14c01edd8f"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NRB3xwNHyEcbnb++pUT6jQ/wPoEGMlAqIM/IFDTxZ5k=",
+            "sha256": "sha256-YWUowZLf0oOf3ETpjDEOZTBDr6di1lNpoFRf1vrfyNo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6637.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6638.tar.bz2"
         },
-        "version": "1.0.6637"
+        "version": "1.0.6638"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-q/rxdJx+J0LtOil61hWfpy/JRa3ZuijyAs40PLKzI1M=",
+            "sha256": "sha256-5I5YRg78cNRvRhYI/waAjoAcdti/XSbUTIMReCg+gxI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6637-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6638-1_all.deb"
         },
-        "version": "1.0.6637"
+        "version": "1.0.6638"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j3aO/L3U08PaGO5RazApQWeGiFtFLvBoGVqbDi3vurA=",
+            "sha256": "sha256-7Uv/u7Cm0y7DeMxxL+Q22KTHW14TMDcnd2jJmiTQ6hU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.47.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.48.0/app-release-unsigned.apk"
         },
-        "version": "0.47.1"
+        "version": "0.48.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zSf97Pvt9FpyJaiNm3Oe9fIereGFV1IFMg4QZP8b5As=",
+            "sha256": "sha256-SmXqteUXpvGlccWPOaEgb6sVA3k5Y2Ep7M0RH2miQl0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.78.0/revanced-patches-2.78.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.79.0/revanced-patches-2.79.0.jar"
         },
-        "version": "2.78.0"
+        "version": "2.79.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "dbf1641f216092dfe9d8067ffa0fbfe5965ff8d4",
-            "sha256": "sha256-/jZ63Qj2SEnIELiHUBD6GFcmqkz9NLSQBFtofzTaPZ4=",
+            "rev": "83873f1e148a9c84471c10f166c9a945a44d3e64",
+            "sha256": "sha256-PF6OaxiV1FuL2KvG3cZ5rR5u2QM3mTUrLfLJ917fnxA=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "dbf1641f216092dfe9d8067ffa0fbfe5965ff8d4"
+        "version": "83873f1e148a9c84471c10f166c9a945a44d3e64"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "83b5b6824bedc10079d73706ec733a83f1e9e074",
-            "sha256": "sha256-SCQF1vGuH8yQkjZpLo9Y0NgoN9UrQPFYDZ7Q2LzLJFY=",
+            "rev": "909c5bb3416f6f8474856d9b6df97475356bae01",
+            "sha256": "sha256-YChTxREsyp3g/fyzXiXSJ4tOuPwneC6dwqJK/HtqDOE=",
             "type": "github"
         },
-        "version": "83b5b6824bedc10079d73706ec733a83f1e9e074"
+        "version": "909c5bb3416f6f8474856d9b6df97475356bae01"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
