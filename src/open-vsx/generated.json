@@ -5788,11 +5788,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FbnRdN6aTVCblBlShew4pz28gV/+N7AvXkdYd1jt1+U=",
+            "sha256": "sha256-Qn8HBSoZLBoRT54hx2ptxwYy9jGtmhVuPUmdWB+wtp8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.9.3023/file/Slint.slint-nightly-2022.9.3023.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.10.210/file/Slint.slint-nightly-2022.10.210.vsix"
         },
-        "version": "2022.9.3023"
+        "version": "2022.10.210"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -13673,11 +13673,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xxcvD8zij2cHY3hriSYDZWTjjaV/GhFdmzd5fGO6dAI=",
+            "sha256": "sha256-8v5Tz5oq/i2pg1V99anJz2A7JSnPCrqw+UjU/YzzCKc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.6/file/dfinity-foundation.vscode-motoko-0.4.6.vsix"
+            "url": "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.7/file/dfinity-foundation.vscode-motoko-0.4.7.vsix"
         },
-        "version": "0.4.6"
+        "version": "0.4.7"
     },
     "dhall-dhall-lang": {
         "cargoLocks": null,
@@ -19411,11 +19411,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a3uQiyBdg2gO4Q5p6SGPwF/ZxI8zCzG5xN7LSqvnfLo=",
+            "sha256": "sha256-oy0mEGaGu598UtZDQknrab18viYggfpxcr62zJC7PlQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.15/file/jeanp413.open-remote-ssh-0.0.15.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.16/file/jeanp413.open-remote-ssh-0.0.16.vsix"
         },
-        "version": "0.0.15"
+        "version": "0.0.16"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,

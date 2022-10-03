@@ -3651,10 +3651,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.9.3023";
+    version = "2022.10.210";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.3023/file/Slint.slint-nightly-2022.9.3023.vsix";
-      sha256 = "sha256-FbnRdN6aTVCblBlShew4pz28gV/+N7AvXkdYd1jt1+U=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.10.210/file/Slint.slint-nightly-2022.10.210.vsix";
+      sha256 = "sha256-Qn8HBSoZLBoRT54hx2ptxwYy9jGtmhVuPUmdWB+wtp8=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -8631,10 +8631,10 @@
   };
   dfinity-foundation-vscode-motoko = {
     pname = "dfinity-foundation-vscode-motoko";
-    version = "0.4.6";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.6/file/dfinity-foundation.vscode-motoko-0.4.6.vsix";
-      sha256 = "sha256-xxcvD8zij2cHY3hriSYDZWTjjaV/GhFdmzd5fGO6dAI=";
+      url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.7/file/dfinity-foundation.vscode-motoko-0.4.7.vsix";
+      sha256 = "sha256-8v5Tz5oq/i2pg1V99anJz2A7JSnPCrqw+UjU/YzzCKc=";
     };
     license = "Apache-2.0";
     name = "vscode-motoko";
@@ -12255,10 +12255,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.15/file/jeanp413.open-remote-ssh-0.0.15.vsix";
-      sha256 = "sha256-a3uQiyBdg2gO4Q5p6SGPwF/ZxI8zCzG5xN7LSqvnfLo=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.16/file/jeanp413.open-remote-ssh-0.0.16.vsix";
+      sha256 = "sha256-oy0mEGaGu598UtZDQknrab18viYggfpxcr62zJC7PlQ=";
     };
     license = "MIT";
     name = "open-remote-ssh";

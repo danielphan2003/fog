@@ -9085,8 +9085,8 @@ fetch.url = "https://open-vsx.org/api/CodeStream/codestream/14.1.0/file/CodeStre
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
-src.manual = "0.0.15" # jeanp413.open-remote-ssh
-fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.15/file/jeanp413.open-remote-ssh-0.0.15.vsix" # jeanp413.open-remote-ssh
+src.manual = "0.0.16" # jeanp413.open-remote-ssh
+fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.16/file/jeanp413.open-remote-ssh-0.0.16.vsix" # jeanp413.open-remote-ssh
 passthru = { publisher = "jeanp413", name = "open-remote-ssh", description = "Use any remote machine with a SSH server as your development environment.", license = "MIT" }
 
 [oraichain-cosmwasm-ide]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.4.9/file/iterative.dvc-0.4
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.9.3023" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.9.3023/file/Slint.slint-nightly-2022.9.3023.vsix" # Slint.slint-nightly
+src.manual = "2022.10.210" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.10.210/file/Slint.slint-nightly-2022.10.210.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10306,8 +10306,8 @@ passthru = { publisher = "cortex-debug", name = "svd-viewer", description = "Sta
 
 
 [dfinity-foundation-vscode-motoko]
-src.manual = "0.4.6" # dfinity-foundation.vscode-motoko
-fetch.url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.6/file/dfinity-foundation.vscode-motoko-0.4.6.vsix" # dfinity-foundation.vscode-motoko
+src.manual = "0.4.7" # dfinity-foundation.vscode-motoko
+fetch.url = "https://open-vsx.org/api/dfinity-foundation/vscode-motoko/0.4.7/file/dfinity-foundation.vscode-motoko-0.4.7.vsix" # dfinity-foundation.vscode-motoko
 passthru = { publisher = "dfinity-foundation", name = "vscode-motoko", description = "Motoko language support", license = "Apache-2.0" }
 
 
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
