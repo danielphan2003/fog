@@ -6027,10 +6027,10 @@
   };
   asyncapi-asyncapi-preview = {
     pname = "asyncapi-asyncapi-preview";
-    version = "0.3.9";
+    version = "0.3.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.9/file/asyncapi.asyncapi-preview-0.3.9.vsix";
-      sha256 = "sha256-EFpe2E0w67Ze5SazV2ob/1Hbfq7tf+NAiMTnVisScIM=";
+      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.10/file/asyncapi.asyncapi-preview-0.3.10.vsix";
+      sha256 = "sha256-251RRNtDzP8+/pOePMmptwHMLTNM0qYogxJbZ3KL6zM=";
     };
     license = "Apache-2.0";
     name = "asyncapi-preview";
@@ -23103,10 +23103,10 @@
   };
   vscode-python = {
     pname = "vscode-python";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/python/1.64.0-next.68976705968/file/vscode.python-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-qtQa3SblTDpxFfdfCkVX5JBdn8Bq/vffTXvk0tIwGEk=";
+      url = "https://open-vsx.org/api/vscode/python/1.64.0-next.d9fa2b12136/file/vscode.python-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-1PMrheurtWrVY97+nfxwjtuOqHCJEUz0roa7N4thEbk=";
     };
     license = "MIT";
     name = "python";

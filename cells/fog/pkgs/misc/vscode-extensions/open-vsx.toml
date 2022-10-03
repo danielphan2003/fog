@@ -2560,8 +2560,8 @@ fetch.url = "https://open-vsx.org/api/vscode/gulp/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "gulp", description = "Extension to add Gulp capabilities to VSCode.", license = "MIT" }
 
 [vscode-python]
-src.manual = "1.64.0-next.68976705968" # vscode.python
-fetch.url = "https://open-vsx.org/api/vscode/python/1.64.0-next.68976705968/file/vscode.python-1.64.0-next.68976705968.vsix" # vscode.python
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.python
+fetch.url = "https://open-vsx.org/api/vscode/python/1.64.0-next.d9fa2b12136/file/vscode.python-1.64.0-next.d9fa2b12136.vsix" # vscode.python
 passthru = { publisher = "vscode", name = "python", description = "Provides syntax highlighting, bracket matching and folding in Python files.", license = "MIT" }
 
 [vscode-groovy]
@@ -8325,8 +8325,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.
 passthru = { publisher = "Turiiya", name = "keyword-o-mat", description = "Quickly swap related keywords.", license = "MIT" }
 
 [asyncapi-asyncapi-preview]
-src.manual = "0.3.9" # asyncapi.asyncapi-preview
-fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.9/file/asyncapi.asyncapi-preview-0.3.9.vsix" # asyncapi.asyncapi-preview
+src.manual = "0.3.10" # asyncapi.asyncapi-preview
+fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.10/file/asyncapi.asyncapi-preview-0.3.10.vsix" # asyncapi.asyncapi-preview
 passthru = { publisher = "asyncapi", name = "asyncapi-preview", description = "Preview AsyncAPI documents inside VSCode.", license = "Apache-2.0" }
 
 [CodeChat-codechat]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 
