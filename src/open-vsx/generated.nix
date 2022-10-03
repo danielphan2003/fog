@@ -6699,10 +6699,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.33";
+    version = "5.6.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.33/file/bringout.f18-klijent-5.6.33.vsix";
-      sha256 = "sha256-fRBKzE4hMBttioDDLATXh8UHOYFuKmGiFcywGe754xA=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.34/file/bringout.f18-klijent-5.6.34.vsix";
+      sha256 = "sha256-tN5luHwILqVtL+Nv7lQcvEJbIvGgtc40oA6O4u5X0tY=";
     };
     license = "MIT";
     name = "f18-klijent";
@@ -8499,10 +8499,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.114.4";
+    version = "0.114.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.114.4/file/dendron.nightly-0.114.4.vsix";
-      sha256 = "sha256-IDvoKCtWzymKSiakeZ2A4GUOR/coqlabi51grlEycP4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.114.5/file/dendron.nightly-0.114.5.vsix";
+      sha256 = "sha256-zvwAhwnZuJr7W9afJyXjXzz0JjijDf7uRuqh7flzWD4=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -22011,10 +22011,10 @@
   };
   vadimcn-vscode-lldb = {
     pname = "vadimcn-vscode-lldb";
-    version = "1.7.4";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vscode-lldb-1.7.4.vsix";
-      sha256 = "sha256-XJxNs7A81IYS9l04I0D55fJQasPmt75l10yj3gZNmXg=";
+      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.0/file/vadimcn.vscode-lldb-1.8.0.vsix";
+      sha256 = "sha256-juajzBtfYAEDXbee7XwtVbOdKc9Xo5f/D9t2XpC6G4E=";
     };
     license = "MIT";
     name = "vscode-lldb";

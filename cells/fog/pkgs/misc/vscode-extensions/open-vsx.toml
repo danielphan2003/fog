@@ -4635,8 +4635,8 @@ fetch.url = "https://open-vsx.org/api/benspaulding/procfile/1.1.7/file/benspauld
 passthru = { publisher = "benspaulding", name = "procfile", description = "Grammar & features for Procfiles", license = "BSD-3-Clause" }
 
 [bringout-f18-klijent]
-src.manual = "5.6.33" # bringout.f18-klijent
-fetch.url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.33/file/bringout.f18-klijent-5.6.33.vsix" # bringout.f18-klijent
+src.manual = "5.6.34" # bringout.f18-klijent
+fetch.url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.34/file/bringout.f18-klijent-5.6.34.vsix" # bringout.f18-klijent
 passthru = { publisher = "bringout", name = "f18-klijent", description = "F18 klijent host eShell", license = "MIT" }
 
 [vscjava-vscode-spring-boot-dashboard]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.114.4" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.4/file/dendron.nightly-0.114.4.vsix" # dendron.nightly
+src.manual = "0.114.5" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.5/file/dendron.nightly-0.114.5.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1468/file/Prism
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
-src.manual = "1.7.4" # vadimcn.vscode-lldb
-fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vscode-lldb-1.7.4.vsix" # vadimcn.vscode-lldb
+src.manual = "1.8.0" # vadimcn.vscode-lldb
+fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.0/file/vadimcn.vscode-lldb-1.8.0.vsix" # vadimcn.vscode-lldb
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
@@ -10736,6 +10736,7 @@ passthru = { publisher = "devsense", name = "profiler-php-vscode", description =
 src.manual = "0.0.1" # cab404.fairyfloss
 fetch.url = "https://open-vsx.org/api/cab404/fairyfloss/0.0.1/file/cab404.fairyfloss-0.0.1.vsix" # cab404.fairyfloss
 passthru = { publisher = "cab404", name = "fairyfloss", description = "Fairyfloss theme port", license = "MIT" }
+
 
 
 

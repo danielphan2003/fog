@@ -10614,11 +10614,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fRBKzE4hMBttioDDLATXh8UHOYFuKmGiFcywGe754xA=",
+            "sha256": "sha256-tN5luHwILqVtL+Nv7lQcvEJbIvGgtc40oA6O4u5X0tY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.33/file/bringout.f18-klijent-5.6.33.vsix"
+            "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.34/file/bringout.f18-klijent-5.6.34.vsix"
         },
-        "version": "5.6.33"
+        "version": "5.6.34"
     },
     "bringout-pdf-view": {
         "cargoLocks": null,
@@ -13464,11 +13464,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IDvoKCtWzymKSiakeZ2A4GUOR/coqlabi51grlEycP4=",
+            "sha256": "sha256-zvwAhwnZuJr7W9afJyXjXzz0JjijDf7uRuqh7flzWD4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.114.4/file/dendron.nightly-0.114.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.114.5/file/dendron.nightly-0.114.5.vsix"
         },
-        "version": "0.114.4"
+        "version": "0.114.5"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -34858,11 +34858,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XJxNs7A81IYS9l04I0D55fJQasPmt75l10yj3gZNmXg=",
+            "sha256": "sha256-juajzBtfYAEDXbee7XwtVbOdKc9Xo5f/D9t2XpC6G4E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.4/file/vadimcn.vscode-lldb-1.7.4.vsix"
+            "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.0/file/vadimcn.vscode-lldb-1.8.0.vsix"
         },
-        "version": "1.7.4"
+        "version": "1.8.0"
     },
     "valentjn-vscode-ltex": {
         "cargoLocks": null,
