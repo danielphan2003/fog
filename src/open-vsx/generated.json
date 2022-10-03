@@ -14528,11 +14528,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IgVwOeE1fOJZSqx/cmzvpwBgs+cdxKhv7D9US6cnhKw=",
+            "sha256": "sha256-P9hbQKj9S3E4jdZsf3QFH98+MhREp40LizmqZPB7vx8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3169549/file/eliostruyf.vscode-front-matter-beta-8.2.3169549.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3174013/file/eliostruyf.vscode-front-matter-beta-8.2.3174013.vsix"
         },
-        "version": "8.2.3169549"
+        "version": "8.2.3174013"
     },
     "eliostruyf-vscode-hide-comments": {
         "cargoLocks": null,
@@ -27847,11 +27847,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/YRbuzQi54Fgf1YWa4VQG3l27gnZygQD0fZsqmX33oo=",
+            "sha256": "sha256-hs+VadxgzppwsHv+kOcnhZMQz9rkol65DD/kG4T8C0M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.451/file/pokey.cursorless-0.26.451.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.452/file/pokey.cursorless-0.26.452.vsix"
         },
-        "version": "0.26.451"
+        "version": "0.26.452"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28892,11 +28892,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FXp1W6qz+Bt4rBgJ4LJVV64KMWM1H/r1WC7/zB+W2Zo=",
+            "sha256": "sha256-k15UVHRHZmehGLFMIvkQiUC3+Z7DS73rCpTlaDnrR/U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.13/file/redhat.apache-camel-extension-pack-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.14/file/redhat.apache-camel-extension-pack-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "redhat-atlasmap-viewer": {
         "cargoLocks": null,

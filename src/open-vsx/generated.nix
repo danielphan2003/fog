@@ -9171,10 +9171,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.2.3169549";
+    version = "8.2.3174013";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3169549/file/eliostruyf.vscode-front-matter-beta-8.2.3169549.vsix";
-      sha256 = "sha256-IgVwOeE1fOJZSqx/cmzvpwBgs+cdxKhv7D9US6cnhKw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.2.3174013/file/eliostruyf.vscode-front-matter-beta-8.2.3174013.vsix";
+      sha256 = "sha256-P9hbQKj9S3E4jdZsf3QFH98+MhREp40LizmqZPB7vx8=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -17583,10 +17583,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.451";
+    version = "0.26.452";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.451/file/pokey.cursorless-0.26.451.vsix";
-      sha256 = "sha256-/YRbuzQi54Fgf1YWa4VQG3l27gnZygQD0fZsqmX33oo=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.452/file/pokey.cursorless-0.26.452.vsix";
+      sha256 = "sha256-hs+VadxgzppwsHv+kOcnhZMQz9rkol65DD/kG4T8C0M=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18243,10 +18243,10 @@
   };
   redhat-apache-camel-extension-pack = {
     pname = "redhat-apache-camel-extension-pack";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.13/file/redhat.apache-camel-extension-pack-0.0.13.vsix";
-      sha256 = "sha256-FXp1W6qz+Bt4rBgJ4LJVV64KMWM1H/r1WC7/zB+W2Zo=";
+      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.14/file/redhat.apache-camel-extension-pack-0.0.14.vsix";
+      sha256 = "sha256-k15UVHRHZmehGLFMIvkQiUC3+Z7DS73rCpTlaDnrR/U=";
     };
     license = "Apache-2.0";
     name = "apache-camel-extension-pack";
