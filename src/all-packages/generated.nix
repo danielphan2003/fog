@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9bbae5b8e2e593b04f6505c9f35c7e9affa9ab6f";
+    version = "0d702b556d0a52f1df53ac1e52fac11b8302783b";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9bbae5b8e2e593b04f6505c9f35c7e9affa9ab6f";
+      rev = "0d702b556d0a52f1df53ac1e52fac11b8302783b";
       fetchSubmodules = false;
-      sha256 = "sha256-n133KFE2gR7SNJLM/LcMyWTxwqiFYysKkw/ngbHI3Io=";
+      sha256 = "sha256-TIhY37rQgfle2jYrMDQpEKsrGnsTh1SvnS8iduIua70=";
     });
   };
   ibus = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.49.0";
+    version = "0.49.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.49.0/app-release-unsigned.apk";
-      sha256 = "sha256-JUR7OpjSdKmPJ80BXOXyjGpyN8+dXIVwz9/WsP7mt+Y=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.49.1/app-release-unsigned.apk";
+      sha256 = "sha256-f0Q9sud2qsSKA0kGChcg/hFGS7n4Bdyt9ohgoFPFjSk=";
     };
   };
   revanced-patches-jar = {
