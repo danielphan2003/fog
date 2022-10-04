@@ -2430,8 +2430,8 @@ fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "pug", description = "Provides syntax highlighting and bracket matching in Pug files.", license = "MIT" }
 
 [vscode-perl]
-src.manual = "1.64.0-next.68976705968" # vscode.perl
-fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/vscode.perl-1.64.0-next.68976705968.vsix" # vscode.perl
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.perl
+fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.d9fa2b12136/file/vscode.perl-1.64.0-next.d9fa2b12136.vsix" # vscode.perl
 passthru = { publisher = "vscode", name = "perl", description = "Provides syntax highlighting and bracket matching in Perl files.", license = "MIT" }
 
 [vscode-theme-kimbie-dark]
@@ -2530,8 +2530,8 @@ fetch.url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.d9fa2b12136/file/v
 passthru = { publisher = "vscode", name = "hlsl", description = "Provides syntax highlighting and bracket matching in HLSL files.", license = "MIT" }
 
 [vscode-csharp]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.csharp
-fetch.url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.d9fa2b12136/file/vscode.csharp-1.64.0-next.d9fa2b12136.vsix" # vscode.csharp
+src.manual = "1.64.0-next.68976705968" # vscode.csharp
+fetch.url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.68976705968/file/vscode.csharp-1.64.0-next.68976705968.vsix" # vscode.csharp
 passthru = { publisher = "vscode", name = "csharp", description = "Provides snippets, syntax highlighting, bracket matching and folding in C# files.", license = "MIT" }
 
 [MyoHlaingWin-vscode-language-pack-mm-uni]
@@ -2545,8 +2545,8 @@ fetch.url = "https://open-vsx.org/api/vscode/ini/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "ini", description = "Provides syntax highlighting and bracket matching in Ini files.", license = "MIT" }
 
 [vscode-jake]
-src.manual = "1.64.0-next.68976705968" # vscode.jake
-fetch.url = "https://open-vsx.org/api/vscode/jake/1.64.0-next.68976705968/file/vscode.jake-1.64.0-next.68976705968.vsix" # vscode.jake
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.jake
+fetch.url = "https://open-vsx.org/api/vscode/jake/1.64.0-next.d9fa2b12136/file/vscode.jake-1.64.0-next.d9fa2b12136.vsix" # vscode.jake
 passthru = { publisher = "vscode", name = "jake", description = "Extension to add Jake capabilities to VS Code.", license = "MIT" }
 
 [vscode-grunt]
@@ -9715,8 +9715,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.114.5" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.5/file/dendron.nightly-0.114.5.vsix" # dendron.nightly
+src.manual = "0.114.6" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.114.6/file/dendron.nightly-0.114.6.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -10446,8 +10446,8 @@ passthru = { publisher = "zhouhangao", name = "ihub-preview-cloud", description 
 
 
 [Google-cros-ide]
-src.manual = "0.1.0" # Google.cros-ide
-fetch.url = "https://open-vsx.org/api/Google/cros-ide/0.1.0/file/Google.cros-ide-0.1.0.vsix" # Google.cros-ide
+src.manual = "0.1.1" # Google.cros-ide
+fetch.url = "https://open-vsx.org/api/Google/cros-ide/0.1.1/file/Google.cros-ide-0.1.1.vsix" # Google.cros-ide
 passthru = { publisher = "Google", name = "cros-ide", description = "ChromiumOS Development", license = "BSD-3-Clause" }
 
 
