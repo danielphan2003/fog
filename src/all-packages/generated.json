@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "63dfe305dd5ff00d4de74f0cb9fea9b9901e6b40",
-            "sha256": "sha256-7XpQRUhO1rgklw976lXpEcz5piCbWF1UUTqiUn0CZxc=",
+            "rev": "3e3f6aef5efa5d3b20c9cb3db8df40127b9222d1",
+            "sha256": "sha256-p6lFud6VWJJW1wriJAB71Bl/sU7pXWvRebUzsMkrwcg=",
             "type": "github"
         },
-        "version": "63dfe305dd5ff00d4de74f0cb9fea9b9901e6b40"
+        "version": "3e3f6aef5efa5d3b20c9cb3db8df40127b9222d1"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YWUowZLf0oOf3ETpjDEOZTBDr6di1lNpoFRf1vrfyNo=",
+            "sha256": "sha256-p9j2HY4zm+uKxbEscweenhONjHRRmS0TA/eApJB99Aw=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6638.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6639.tar.bz2"
         },
-        "version": "1.0.6638"
+        "version": "1.0.6639"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5I5YRg78cNRvRhYI/waAjoAcdti/XSbUTIMReCg+gxI=",
+            "sha256": "sha256-SZ/mFmdLaA0xYEcagT9T+JKZi3dph5vB2ugCEaUAcCs=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6638-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6639-1_all.deb"
         },
-        "version": "1.0.6638"
+        "version": "1.0.6639"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-46613397e647ed8227b386a5423e92558cff0bc0/Cargo.lock",
+                "./rustdesk-479301346a0f9536c3eb7d2e9398049ce146f4de/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "46613397e647ed8227b386a5423e92558cff0bc0",
-            "sha256": "sha256-BhaCpyWrbW7gIHUykur/3WsQNY5aCEveQ29zDoT3Sew=",
+            "rev": "479301346a0f9536c3eb7d2e9398049ce146f4de",
+            "sha256": "sha256-yL5Ti9UmchhJT4NwhX2ms4o70Q82cNSmF809/0gLT2Y=",
             "type": "github"
         },
-        "version": "46613397e647ed8227b386a5423e92558cff0bc0"
+        "version": "479301346a0f9536c3eb7d2e9398049ce146f4de"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "909c5bb3416f6f8474856d9b6df97475356bae01",
-            "sha256": "sha256-YChTxREsyp3g/fyzXiXSJ4tOuPwneC6dwqJK/HtqDOE=",
+            "rev": "3342d923d47c308ef3dacb2612e8562e0b86c1de",
+            "sha256": "sha256-QYhH79TPFG3jwUvVkdGeWPJOsxDDg+yondQpNdpx1Jc=",
             "type": "github"
         },
-        "version": "909c5bb3416f6f8474856d9b6df97475356bae01"
+        "version": "3342d923d47c308ef3dacb2612e8562e0b86c1de"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
