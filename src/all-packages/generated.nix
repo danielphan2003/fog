@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7bdfdaa28a4d107b1a9c9260837f81001000e697";
+    version = "719a5b4f0b2039a8cc7cbf3610ade82aaf26f190";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "7bdfdaa28a4d107b1a9c9260837f81001000e697";
+      rev = "719a5b4f0b2039a8cc7cbf3610ade82aaf26f190";
       fetchSubmodules = false;
-      sha256 = "sha256-kaBJKaUxTEn/31Dec/34FmvHOjGwnA6jWPek8fcbHTc=";
+      sha256 = "sha256-tzxD8ozwOKc+jrQw+MwoFDSoheWPKD3Lqo1V9KTcHOE=";
     });
   };
   ibus = {
@@ -556,10 +556,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6643";
+    version = "1.0.6644";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6643.tar.bz2";
-      sha256 = "sha256-kwBt5HsLxA2GSOSWVCSIGWQ7r51me4kvjgUYuS80HRU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6644.tar.bz2";
+      sha256 = "sha256-y1oI3nxIu7breYNPhdX7PU5GfnCyxdEbAYlyZmif2Uo=";
     };
   };
   jitsi-meet-prosody = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "389ef31a8f4a505f255e9bfebe882750d22ab490";
+    version = "1eebd1196ee1cadc7aed44d1c9115bf4ef22ce2d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "389ef31a8f4a505f255e9bfebe882750d22ab490";
+      rev = "1eebd1196ee1cadc7aed44d1c9115bf4ef22ce2d";
       fetchSubmodules = false;
-      sha256 = "sha256-K2IrXXeEaV86ubkKTa7VbgnS5SlCsd5asw+GiXrNdR8=";
+      sha256 = "sha256-wk2UdP9Y6tWu9IQmoy6njJcvHXLg8j/1VK6G25/d2io=";
     });
   };
   revanced-cli = {
