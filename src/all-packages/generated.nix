@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "3a640a3269757345005f86cbf89dca396695074a";
+    version = "f6498337feeb4c504ba3a2b57e19db2cf4945664";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "3a640a3269757345005f86cbf89dca396695074a";
+      rev = "f6498337feeb4c504ba3a2b57e19db2cf4945664";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9r9/CCxUR0gARQs7AjSxLbLj8/yqMKgEq3XBu2g4JBE=";
+      sha256 = "sha256-1kwuG6M9uzmBvBRSUpvxHhlXwqfknAI/rZN/NZsnhhg=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-3a640a3269757345005f86cbf89dca396695074a/Cargo.lock;
+      lockFile = ./asusctl-f6498337feeb4c504ba3a2b57e19db2cf4945664/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
       };
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fd81ba5a4f8eecfbea843e4945dfb9bd80561eda";
+    version = "44da575ea87d5f6a919d0d84ff44d021f5b30699";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fd81ba5a4f8eecfbea843e4945dfb9bd80561eda";
+      rev = "44da575ea87d5f6a919d0d84ff44d021f5b30699";
       fetchSubmodules = false;
-      sha256 = "sha256-XyBq72xZ+CRji19O5cgEhpBABEqSiFVZryK8WcsJlKU=";
+      sha256 = "sha256-zE53lYucZICPbC6v4pchO4rP6yR576Gan/JZxBfq7o0=";
     });
   };
   ibus = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2934c5114cb7ddfa3eb4391443ec37e9a3106716";
+    version = "7ffd2fe0051f939c3260ea82d144c4b7e9859afd";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2934c5114cb7ddfa3eb4391443ec37e9a3106716";
+      rev = "7ffd2fe0051f939c3260ea82d144c4b7e9859afd";
       fetchSubmodules = false;
-      sha256 = "sha256-UQv3YhmS8p7QrksUrLGtbhEVkMQozFgbbTRsa1v3Du0=";
+      sha256 = "sha256-F3kycWX/IsghksNPy9s1q7dfvXY00HzgGyygkLMG45I=";
     });
   };
   tailscale-systray = {
