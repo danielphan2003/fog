@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "3e3f6aef5efa5d3b20c9cb3db8df40127b9222d1";
+    version = "a80e0cecfed48fbe61058015ad77653e0f48dff0";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "3e3f6aef5efa5d3b20c9cb3db8df40127b9222d1";
+      rev = "a80e0cecfed48fbe61058015ad77653e0f48dff0";
       fetchSubmodules = false;
-      sha256 = "sha256-p6lFud6VWJJW1wriJAB71Bl/sU7pXWvRebUzsMkrwcg=";
+      sha256 = "sha256-oe7G5mu83Bb8ei+oa9sDHDJYpsZprY+SjzQU0wiktIk=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6639";
+    version = "1.0.6640";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6639.tar.bz2";
-      sha256 = "sha256-p9j2HY4zm+uKxbEscweenhONjHRRmS0TA/eApJB99Aw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6640.tar.bz2";
+      sha256 = "sha256-ysRgtnaV2EWzSxp6+mb4Kj59Bfk0/fOkYA5mwBIGXtc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6639";
+    version = "1.0.6640";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6639-1_all.deb";
-      sha256 = "sha256-SZ/mFmdLaA0xYEcagT9T+JKZi3dph5vB2ugCEaUAcCs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6640-1_all.deb";
+      sha256 = "sha256-5uvUNJNTDCvolvPRryKaU8eQ+cE20TR+gTvvqRuYy64=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "479301346a0f9536c3eb7d2e9398049ce146f4de";
+    version = "589d366327af762da09eecb8cdd98c6418628d89";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "479301346a0f9536c3eb7d2e9398049ce146f4de";
+      rev = "589d366327af762da09eecb8cdd98c6418628d89";
       fetchSubmodules = false;
-      sha256 = "sha256-yL5Ti9UmchhJT4NwhX2ms4o70Q82cNSmF809/0gLT2Y=";
+      sha256 = "sha256-h7OG4rjA+KhENerygdUO+Urv7YAg450mvseCOsr4eTE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-479301346a0f9536c3eb7d2e9398049ce146f4de/Cargo.lock;
+      lockFile = ./rustdesk-589d366327af762da09eecb8cdd98c6418628d89/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
