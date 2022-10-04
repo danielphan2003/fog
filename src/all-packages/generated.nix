@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "da24f57daca431704f953500386758eae2b8de1b";
+    version = "c28cd29fe7ffc4b7f7bebb16fe721f25abab2446";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "da24f57daca431704f953500386758eae2b8de1b";
+      rev = "c28cd29fe7ffc4b7f7bebb16fe721f25abab2446";
       fetchSubmodules = false;
-      sha256 = "sha256-XKvG1BZ5ZRJhaf4zTJwzXvsFh54hGZaAK9BR+1DKjpc=";
+      sha256 = "sha256-cm4X0rbUwHtxUru6E1uzDIhAs+ctrXtZIVm27BFTgHo=";
     });
   };
   cinny = {
@@ -564,10 +564,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6643";
+    version = "1.0.6644";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6643-1_all.deb";
-      sha256 = "sha256-K3NCF9AZFX9ZZes0+n+61TxB+dMimmk+s7iv6KvzBJs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6644-1_all.deb";
+      sha256 = "sha256-41jlcsJpcFlNdBIOAdzTUF3wOUAOS9upF/uxFQaGULc=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "caa1e1dcea5a04ff6ded2850a2aa0128d3f97979";
+    version = "048fc408820fbc64037c4c9707b5026d9df31c14";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "caa1e1dcea5a04ff6ded2850a2aa0128d3f97979";
+      rev = "048fc408820fbc64037c4c9707b5026d9df31c14";
       fetchSubmodules = false;
-      sha256 = "sha256-Ykucnqk/QJaav/lzxpb5VXQX7RJ9XHTfNbZmxMIyj3E=";
+      sha256 = "sha256-BQOHTZSw2l+oEW/F/8oVa9oS+pahT//fZMUSROEq2jY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-caa1e1dcea5a04ff6ded2850a2aa0128d3f97979/Cargo.lock;
+      lockFile = ./rustdesk-048fc408820fbc64037c4c9707b5026d9df31c14/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1089,13 +1089,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "3342d923d47c308ef3dacb2612e8562e0b86c1de";
+    version = "a5a18e658a7a9e9c3b655b9fa1397c5465ec711a";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "3342d923d47c308ef3dacb2612e8562e0b86c1de";
+      rev = "a5a18e658a7a9e9c3b655b9fa1397c5465ec711a";
       fetchSubmodules = false;
-      sha256 = "sha256-QYhH79TPFG3jwUvVkdGeWPJOsxDDg+yondQpNdpx1Jc=";
+      sha256 = "sha256-TRrFjZ6i19k7DfcR6ob/GiOxqOdf8gYLvHD5FdspMlY=";
     });
   };
   spicetify-marketplace = {
