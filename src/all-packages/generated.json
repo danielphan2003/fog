@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-azr2B8ng8aJJlv4tqozup20iWeogqbZbzdMXS/9PoQQ=",
+            "sha256": "sha256-Cn1GkxcqgshH+rKrdZtVKBx+RlSuxVdbq8gbLr9Wehk=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.46.0.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.47.0.tar.gz"
         },
-        "version": "1.46.0"
+        "version": "1.47.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8385e8db8fa44372417b5c6e1d37187a5556db19",
-            "sha256": "sha256-zhWGsifwD0ccozSgsHUXXiIr3xBAw0cLSHSmEmKZS6c=",
+            "rev": "dac8b27738cc883495b53b83dece8b31c6cb9dbb",
+            "sha256": "sha256-J0F+iU1RvDHQhebC3RDOGKuiPFNnaGIoaNoWcOAa6X0=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "8385e8db8fa44372417b5c6e1d37187a5556db19"
+        "version": "dac8b27738cc883495b53b83dece8b31c6cb9dbb"
     },
     "pure": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-551c5ecddfd6d5a7adff261f36592fece2874d27/Cargo.lock",
+                "./rustdesk-46613397e647ed8227b386a5423e92558cff0bc0/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,16 +1650,16 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "551c5ecddfd6d5a7adff261f36592fece2874d27",
-            "sha256": "sha256-tKNyqKhRSfgES5CbmZgMD/DGxu3p8Q9MROpLgg+xyYs=",
+            "rev": "46613397e647ed8227b386a5423e92558cff0bc0",
+            "sha256": "sha256-BhaCpyWrbW7gIHUykur/3WsQNY5aCEveQ29zDoT3Sew=",
             "type": "github"
         },
-        "version": "551c5ecddfd6d5a7adff261f36592fece2874d27"
+        "version": "46613397e647ed8227b386a5423e92558cff0bc0"
     },
     "rustdesk-server": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-server-85af668a4f746a8138cbc0d26e2eba66ab95cfa0/Cargo.lock",
+                "./rustdesk-server-fa2b42db7643a779398bdffe605e313c8e1085e3/Cargo.lock",
                 {
                     "async-speed-limit-0.3.1": "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=",
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
@@ -1678,11 +1678,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk-server",
-            "rev": "85af668a4f746a8138cbc0d26e2eba66ab95cfa0",
-            "sha256": "sha256-nc+r3PZ/UndzaJOuuqDzhyY+RY9NpiyD5pQodaagNlU=",
+            "rev": "fa2b42db7643a779398bdffe605e313c8e1085e3",
+            "sha256": "sha256-KQhKHeL9jwhbEuz3IILFuIXB/Stt9gh4EJMdGMOh2Lw=",
             "type": "github"
         },
-        "version": "85af668a4f746a8138cbc0d26e2eba66ab95cfa0"
+        "version": "fa2b42db7643a779398bdffe605e313c8e1085e3"
     },
     "sddm": {
         "cargoLocks": null,
