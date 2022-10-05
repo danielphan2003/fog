@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "2153a81ec85da99dcd33aa87ff0df5d286f00e9d";
+    version = "e07a267276b9c00181c979ec65f26e25b8325beb";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "2153a81ec85da99dcd33aa87ff0df5d286f00e9d";
+      rev = "e07a267276b9c00181c979ec65f26e25b8325beb";
       fetchSubmodules = false;
-      sha256 = "sha256-W3gHOMIpMpyBllrX/msC6x1RkRraFII1WStnp7sNoAQ=";
+      sha256 = "sha256-KIplAnIsmAzcYFGUEqf5d5N8VfKhax+0o7E0PoBuqUA=";
     });
   };
   cinny = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9c5023ab1acf2297e4bbcc3bcb008bbc818a1972";
+    version = "11ce4689963f52a72817a9395ecccc1b034447a7";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9c5023ab1acf2297e4bbcc3bcb008bbc818a1972";
+      rev = "11ce4689963f52a72817a9395ecccc1b034447a7";
       fetchSubmodules = false;
-      sha256 = "sha256-cCCNOzSvCG88KZRzGjNaC8BPXteVCA+kNRbnuum1D8I=";
+      sha256 = "sha256-Q3VncJxmC4kozX8drsCam9e5hm453rg0P7r4Qah5uoA=";
     });
   };
   ibus = {
@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-940";
+    version = "1.0-941";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-940-1_all.deb";
-      sha256 = "sha256-vx7aUHfKxG+tZ0sM8eWr1tTKf//bMxdKVhE5I4P4mLo=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-941-1_all.deb";
+      sha256 = "sha256-oxZZtRcYXzAsCgWbY1yYxynT9DUGAj7jn2HKHiBmN2w=";
     };
   };
   jitsi-meet = {
@@ -959,13 +959,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "fee3c437517c543969584dd69e9581ba4695afc9";
+    version = "d44b81e778bfeed892d48439f8332d8616cacccf";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "fee3c437517c543969584dd69e9581ba4695afc9";
+      rev = "d44b81e778bfeed892d48439f8332d8616cacccf";
       fetchSubmodules = true;
-      sha256 = "sha256-JL1rzduLUP//3ulREDuV3YivoO0QAMtsEq/B+3bxGuI=";
+      sha256 = "sha256-ETG1Qx5+g54zzu79MzFDXVOBM96kKb/LW4BXgS0l5/k=";
     });
   };
   rustdesk = {
