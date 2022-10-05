@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "9e1d964bd6af27cd96a370987a1cadc58933d19a";
+    version = "2153a81ec85da99dcd33aa87ff0df5d286f00e9d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "9e1d964bd6af27cd96a370987a1cadc58933d19a";
+      rev = "2153a81ec85da99dcd33aa87ff0df5d286f00e9d";
       fetchSubmodules = false;
-      sha256 = "sha256-sQRUQ5FGJysvHAhmIsc1WZa+QgE4LhB5l7b9pIRz9fM=";
+      sha256 = "sha256-W3gHOMIpMpyBllrX/msC6x1RkRraFII1WStnp7sNoAQ=";
     });
   };
   cinny = {
