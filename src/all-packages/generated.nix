@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "99ffe9338837eff80def7e5d51c2a0e02f56abdb";
+    version = "ed118f2b0900e6416ef202afb0f79caeae4fddcb";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "99ffe9338837eff80def7e5d51c2a0e02f56abdb";
+      rev = "ed118f2b0900e6416ef202afb0f79caeae4fddcb";
       fetchSubmodules = false;
-      sha256 = "sha256-7fjvApkCYGH34tOlgrlXBBTYDx8bVcM8J+rqX5QwOeM=";
+      sha256 = "sha256-o7PiWfNWPH/qrQcf4zMbw9bIYxFo409ZpVwXqDdP+N0=";
     });
   };
   cinny = {
@@ -412,13 +412,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "7feedcad25c4252b8a6fc07db969b0b9e2871d7a";
+    version = "49d7a15a196cea39673d4c1596f1813dd5091c54";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "7feedcad25c4252b8a6fc07db969b0b9e2871d7a";
+      rev = "49d7a15a196cea39673d4c1596f1813dd5091c54";
       fetchSubmodules = false;
-      sha256 = "sha256-7H0C1fxgD6cKsDb81Aj/COmI4TGyZgg9esqF8JEO0p0=";
+      sha256 = "sha256-cruFs3bat45R+ZarPqXcEBDRZ63zzJ/UKkO3jTRZGyU=";
     });
   };
   fluffychat = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "dac8b27738cc883495b53b83dece8b31c6cb9dbb";
+    version = "54268b72e10262b67d32cd70d40ca01791a9d835";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "dac8b27738cc883495b53b83dece8b31c6cb9dbb";
+      rev = "54268b72e10262b67d32cd70d40ca01791a9d835";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-J0F+iU1RvDHQhebC3RDOGKuiPFNnaGIoaNoWcOAa6X0=";
+      sha256 = "sha256-mjaeWFwcWRcHQfYJy87dj3F7WKI4MEH2ogu6YP6hQVQ=";
     };
   };
   pure = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e8c53cad10ba66e5a60d38a5044a4493dd3ead1f";
+    version = "f8a9b0a197258c27c00fc575675668088b132bd2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e8c53cad10ba66e5a60d38a5044a4493dd3ead1f";
+      rev = "f8a9b0a197258c27c00fc575675668088b132bd2";
       fetchSubmodules = false;
-      sha256 = "sha256-lmaCoRHZmqpx9z0HTzKFBK9Br+5Ub39CFH4o9xohIX0=";
+      sha256 = "sha256-DTyLfabqoSrVtqH4Pw4+u4oergf/5vneYpZ6p+XaDlM=";
     });
   };
   revanced-cli = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "77142615667d952fb4c07cf532055b2f106ae939";
+    version = "3af0d4d0f21df312c5bdeab8552e1e99cdf6c796";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "77142615667d952fb4c07cf532055b2f106ae939";
+      rev = "3af0d4d0f21df312c5bdeab8552e1e99cdf6c796";
       fetchSubmodules = false;
-      sha256 = "sha256-cXUg+LZ26ENHWt0A9Ts9L4CT//yygYB/CYR2Q0ISaHY=";
+      sha256 = "sha256-EVYE3hIQ+ID532BAtD8szIZLBIWu6+XOEwvd16BWvyA=";
     });
   };
   tailscale-systray = {
