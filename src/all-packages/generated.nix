@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "33d999684930d1f27ddf9c6d110cecc512d1ce20";
+    version = "7c8653d55f9af12bfe941c643cd93c7ab5844f2c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "33d999684930d1f27ddf9c6d110cecc512d1ce20";
+      rev = "7c8653d55f9af12bfe941c643cd93c7ab5844f2c";
       fetchSubmodules = false;
-      sha256 = "sha256-/xg2Q7coNqdQ1Nco1PfDdgVIpXolemi/vTrnM6+7xRE=";
+      sha256 = "sha256-fJ9wfHZb1NADZyw0BroNyFpe8I0HLsiJuSvxQaXcnuw=";
     });
   };
   caddy = {
@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e07a267276b9c00181c979ec65f26e25b8325beb";
+    version = "99ffe9338837eff80def7e5d51c2a0e02f56abdb";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e07a267276b9c00181c979ec65f26e25b8325beb";
+      rev = "99ffe9338837eff80def7e5d51c2a0e02f56abdb";
       fetchSubmodules = false;
-      sha256 = "sha256-KIplAnIsmAzcYFGUEqf5d5N8VfKhax+0o7E0PoBuqUA=";
+      sha256 = "sha256-7fjvApkCYGH34tOlgrlXBBTYDx8bVcM8J+rqX5QwOeM=";
     });
   };
   cinny = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.13.0";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.13.0/revanced-cli-2.13.0-all.jar";
-      sha256 = "sha256-0BLCScknVR12M0pXQphZeQBkMkYVcagrAOWnGi8kq1Y=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.14.0/revanced-cli-2.14.0-all.jar";
+      sha256 = "sha256-OdsH+GuFpQM1BhTiWyYlIFFlsGm7fvy05bmQSVRZSys=";
     };
   };
   revanced-integrations = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "01ebef0f4f77bea73e0cd9729ddc698eb0eeac3e";
+    version = "77142615667d952fb4c07cf532055b2f106ae939";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "01ebef0f4f77bea73e0cd9729ddc698eb0eeac3e";
+      rev = "77142615667d952fb4c07cf532055b2f106ae939";
       fetchSubmodules = false;
-      sha256 = "sha256-xw8bctUhkwW0NnZFCfuKRaanEnx4PmBMkAPWoO3TCIM=";
+      sha256 = "sha256-cXUg+LZ26ENHWt0A9Ts9L4CT//yygYB/CYR2Q0ISaHY=";
     });
   };
   tailscale-systray = {
