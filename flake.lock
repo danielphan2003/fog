@@ -1,5 +1,20 @@
 {
   "nodes": {
+    "blank": {
+      "locked": {
+        "lastModified": 1625557891,
+        "narHash": "sha256-O8/MWsPBGhhyPoPLHZAuoZiiHo9q6FLlEeIDEXuj6T4=",
+        "owner": "divnix",
+        "repo": "blank",
+        "rev": "5a5d2684073d9f563072ed07c871d577a6c614a8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "divnix",
+        "repo": "blank",
+        "type": "github"
+      }
+    },
     "devshell": {
       "inputs": {
         "flake-utils": [
@@ -87,7 +102,10 @@
           "std",
           "flake-utils"
         ],
-        "nixago-exts": "nixago-exts",
+        "nixago-exts": [
+          "std",
+          "blank"
+        ],
         "nixpkgs": [
           "std",
           "nixpkgs"
@@ -104,21 +122,6 @@
       "original": {
         "owner": "nix-community",
         "repo": "nixago",
-        "type": "github"
-      }
-    },
-    "nixago-exts": {
-      "locked": {
-        "lastModified": 1625557891,
-        "narHash": "sha256-O8/MWsPBGhhyPoPLHZAuoZiiHo9q6FLlEeIDEXuj6T4=",
-        "owner": "divnix",
-        "repo": "blank",
-        "rev": "5a5d2684073d9f563072ed07c871d577a6c614a8",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nix-community",
-        "repo": "nixago-extensions",
         "type": "github"
       }
     },
@@ -146,10 +149,23 @@
     },
     "std": {
       "inputs": {
+        "blank": "blank",
         "devshell": "devshell",
         "dmerge": "dmerge",
         "flake-utils": "flake-utils",
+        "makes": [
+          "std",
+          "blank"
+        ],
         "mdbook-kroki-preprocessor": "mdbook-kroki-preprocessor",
+        "microvm": [
+          "std",
+          "blank"
+        ],
+        "n2c": [
+          "std",
+          "blank"
+        ],
         "nixago": "nixago",
         "nixpkgs": [
           "nixpkgs"
@@ -157,11 +173,11 @@
         "yants": "yants"
       },
       "locked": {
-        "lastModified": 1664063803,
-        "narHash": "sha256-SIHUwxbLCZ1bHuW/5VpT10RyqNYE2MesrhV9bfgGLE8=",
+        "lastModified": 1664932700,
+        "narHash": "sha256-BtVMnadLSfQVL8f/M0GS01CxzgjI7+6Tl+GUapqvCUI=",
         "owner": "divnix",
         "repo": "std",
-        "rev": "a32f17f7f51166d6f11d3f7852f5078dc6cd8685",
+        "rev": "693678c760730b3b84a797dca30b2a178b41ae2a",
         "type": "github"
       },
       "original": {
