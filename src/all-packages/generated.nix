@@ -412,25 +412,25 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d2b38f962c004ea5ea46e60a1be9a065dd1e4763";
+    version = "e9cd132a0eeaa3e301d1fde32c7843d539404ada";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "d2b38f962c004ea5ea46e60a1be9a065dd1e4763";
+      rev = "e9cd132a0eeaa3e301d1fde32c7843d539404ada";
       fetchSubmodules = false;
-      sha256 = "sha256-T5EMHLYDlKl7MrV/bJbOTztBI4YHUPgiLTvP+oJo37E=";
+      sha256 = "sha256-5C17goqwAxnYXFJmfhO+y94GEB+UkWqncNZ+jAv1RJU=";
     });
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "462fcea504230ec22349ebc5e0142416ea7e989f";
+    version = "ad2a9807aced2c51613622469aee091a08314603";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "462fcea504230ec22349ebc5e0142416ea7e989f";
+      rev = "ad2a9807aced2c51613622469aee091a08314603";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ui1dw1ki3rj4U1lqWwuyu0Iu5KOoRanoFEo4MTKaY8g=";
+      sha256 = "sha256-LBinbXfZykJKNey8tcSTJmb6NK2Ae+x5CeopS4RIg2s=";
     };
   };
   flyingfox = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6649";
+    version = "1.0.6651";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6649.tar.bz2";
-      sha256 = "sha256-CWouMNNzt5MQaAvMlVtVeCc1Cpje0UsuRONUbhZz3Ac=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6651.tar.bz2";
+      sha256 = "sha256-2AMmrWFQ2ELYWxW1c40mpMU+dTn7+62jpsIWlXu6y1k=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6649";
+    version = "1.0.6651";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6649-1_all.deb";
-      sha256 = "sha256-fyrQWcWE92wu4PfW8tm2eyhHXBqyVnD/Pr4e2TwxmGE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6651-1_all.deb";
+      sha256 = "sha256-Y3aY3cOvr9rQHmNxUncqYntBCwa6jAxAYay7XTGxtCU=";
     };
   };
   jitsi-videobridge2 = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "62bc1052a28c46f4457a7bab16a6398bdf22b6b5";
+    version = "01ebef0f4f77bea73e0cd9729ddc698eb0eeac3e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "62bc1052a28c46f4457a7bab16a6398bdf22b6b5";
+      rev = "01ebef0f4f77bea73e0cd9729ddc698eb0eeac3e";
       fetchSubmodules = false;
-      sha256 = "sha256-wCsugDS8k4nmDrmEwHExfaDc1kdgn0iCLojNMz2gk7Y=";
+      sha256 = "sha256-xw8bctUhkwW0NnZFCfuKRaanEnx4PmBMkAPWoO3TCIM=";
     });
   };
   tailscale-systray = {
