@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ad2a9807aced2c51613622469aee091a08314603";
+    version = "7276ffd63b77ff93853a39a1642e595cef250715";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ad2a9807aced2c51613622469aee091a08314603";
+      rev = "7276ffd63b77ff93853a39a1642e595cef250715";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-LBinbXfZykJKNey8tcSTJmb6NK2Ae+x5CeopS4RIg2s=";
+      sha256 = "sha256-9MkeD6gS7bQ/1E0RSosJFeLdN+fg26mZM61lxNZksyE=";
     };
   };
   flyingfox = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6659";
+    version = "1.0.6661";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6659.tar.bz2";
-      sha256 = "sha256-QbwAQH4T0l/CMxvfA0FSnDGXqb79+QHmt0oeAxoNIkA=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6661.tar.bz2";
+      sha256 = "sha256-Kr9py2uI2dpYZ/9YO46sDmz8OxQM5mtqz953E1GtPxg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6659";
+    version = "1.0.6661";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6659-1_all.deb";
-      sha256 = "sha256-69girjbshHAbKe5EX5elZwhbbZgZYmXSlcOOGEWfWuU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6661-1_all.deb";
+      sha256 = "sha256-WxVoAOU5mzF4PN2z0aTmSlfA0tTne0EWcuLsuujKUdE=";
     };
   };
   jitsi-videobridge2 = {
@@ -1077,14 +1077,14 @@
   };
   snui = {
     pname = "snui";
-    version = "83873f1e148a9c84471c10f166c9a945a44d3e64";
+    version = "00b6847e7dfd6dd4c5dad6fbc1175a2cd1a8946e";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "83873f1e148a9c84471c10f166c9a945a44d3e64";
+      rev = "00b6847e7dfd6dd4c5dad6fbc1175a2cd1a8946e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PF6OaxiV1FuL2KvG3cZ5rR5u2QM3mTUrLfLJ917fnxA=";
+      sha256 = "sha256-czBzHX+3yl/5nDV4le3WkaCWrvQxbx/1ySd5UY3hl78=";
     };
   };
   spicetify-cli = {
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "b904f9510e5f9b8b4a5903b19a745ad30b4d07fb";
+    version = "a69ecbc49d1a58737a29018e6506383c4faac26c";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "b904f9510e5f9b8b4a5903b19a745ad30b4d07fb";
+      rev = "a69ecbc49d1a58737a29018e6506383c4faac26c";
       fetchSubmodules = false;
-      sha256 = "sha256-XEZ5Jfv1gLvZdOQAutj8QwRMhwON5NzVQbgNnZwHvYU=";
+      sha256 = "sha256-/maEIrMUwtU9dx2tWz4/aPrm3lV5mSklF/g7tkXADCw=";
     });
   };
   whitesur-icon-theme = {
