@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Cn1GkxcqgshH+rKrdZtVKBx+RlSuxVdbq8gbLr9Wehk=",
+            "sha256": "sha256-tv8n6aeATLyD8xgvPRTkcseMj+ezqDs0z+Y2T7jVnDw=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.47.0.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.47.1.tar.gz"
         },
-        "version": "1.47.0"
+        "version": "1.47.1"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "54268b72e10262b67d32cd70d40ca01791a9d835",
-            "sha256": "sha256-mjaeWFwcWRcHQfYJy87dj3F7WKI4MEH2ogu6YP6hQVQ=",
+            "rev": "aaeff96d23a4313d68589e284263361399a02ac6",
+            "sha256": "sha256-lqSPahTkiIuQNAycH0yvaMXuPMThZqsewOyJ/qqFf+s=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "54268b72e10262b67d32cd70d40ca01791a9d835"
+        "version": "aaeff96d23a4313d68589e284263361399a02ac6"
     },
     "pure": {
         "cargoLocks": null,
