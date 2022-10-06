@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ee3b770cfde266fe79fc741c386354748dde2e57";
+    version = "922e978f56ed8a00700ed7730ea56bd1e10665b3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ee3b770cfde266fe79fc741c386354748dde2e57";
+      rev = "922e978f56ed8a00700ed7730ea56bd1e10665b3";
       fetchSubmodules = false;
-      sha256 = "sha256-0qpcJCHBzE65yLzJxHZ6LvpsZg8ajgZObltd8R15/YQ=";
+      sha256 = "sha256-x7NhukirKUTc4qWvZm54gsogF+pIV/u1t5ir0doHlZ0=";
     });
   };
   ibus = {
@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-943";
+    version = "1.0-944";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-943-1_all.deb";
-      sha256 = "sha256-ygHdtZXUevK4sH5DjUa70GfQOYh2z0mmQw4qY7Z3SpY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-944-1_all.deb";
+      sha256 = "sha256-lPX+I7kX2Jb8Bj5qc4TkO3AKT0IknGFtdzKHB9UX1EE=";
     };
   };
   jitsi-meet = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "cc199b71db58967730c8746f36f36b62178149e4";
+    version = "28f55845b674fe6ff8d634eb251c48c53286a3d0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "cc199b71db58967730c8746f36f36b62178149e4";
+      rev = "28f55845b674fe6ff8d634eb251c48c53286a3d0";
       fetchSubmodules = false;
-      sha256 = "sha256-KYIjD2ffHYy9XtctgK6qVbfwhnW+/euUXe4+kBgMBxM=";
+      sha256 = "sha256-m/ID0M2QeIjf8peKvkq4L3OpG/2GS1smVrznyFswsFE=";
     });
   };
   revanced-cli = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.50.0";
+    version = "0.51.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.50.0/app-release-unsigned.apk";
-      sha256 = "sha256-LBvpkU3/wUJQ28/lMZpoktyPXKDnfKrIcHMjFXLQ0Kk=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.51.0/app-release-unsigned.apk";
+      sha256 = "sha256-iGrtLO5XxBayRyUKsHr5hNbNdPXX08SY1UvmK5t9+P4=";
     };
   };
   revanced-patches-jar = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "dd045a3767636338fa7ba449d791095aa0fc7a1c";
+    version = "84e8f25c21114135f89dfbb6168ba9aae83d336d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "dd045a3767636338fa7ba449d791095aa0fc7a1c";
+      rev = "84e8f25c21114135f89dfbb6168ba9aae83d336d";
       fetchSubmodules = false;
-      sha256 = "sha256-hRW/hz+dMOf6FOy399D1bEIZEs0ts0pMyXkYRtX0/zM=";
+      sha256 = "sha256-FlDsaY7McUrfLaP+LhSEnBv56E7H78V6462l2sWF7vQ=";
     });
   };
   tailscale-systray = {
