@@ -149,11 +149,11 @@
             "name": null,
             "owner": "arkenfox",
             "repo": "user.js",
-            "rev": "51f3fdbd87570488d8bac7d8e9aa5965ef9e0566",
-            "sha256": "sha256-zIescEfFFzopcw6wCkd21IDtd6P0t5B5RooEHx6rusM=",
+            "rev": "f4187632faef76df4de0cbb0cdc7199f22fadd76",
+            "sha256": "sha256-4PNnCRLomAd5OdN4UEbsVSm8eNuteZHKaUqRVvIBvN8=",
             "type": "github"
         },
-        "version": "51f3fdbd87570488d8bac7d8e9aa5965ef9e0566"
+        "version": "f4187632faef76df4de0cbb0cdc7199f22fadd76"
     },
     "asusctl": {
         "cargoLocks": {
