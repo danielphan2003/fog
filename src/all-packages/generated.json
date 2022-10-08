@@ -149,11 +149,11 @@
             "name": null,
             "owner": "arkenfox",
             "repo": "user.js",
-            "rev": "db04bc44f2982ae8e39f10d056bc7cfe7804d4fd",
-            "sha256": "sha256-XUjX+Tno3EU/3IXR/WCn4M5gVR+sKjCzpKcV31dqzWA=",
+            "rev": "51f3fdbd87570488d8bac7d8e9aa5965ef9e0566",
+            "sha256": "sha256-zIescEfFFzopcw6wCkd21IDtd6P0t5B5RooEHx6rusM=",
             "type": "github"
         },
-        "version": "db04bc44f2982ae8e39f10d056bc7cfe7804d4fd"
+        "version": "51f3fdbd87570488d8bac7d8e9aa5965ef9e0566"
     },
     "asusctl": {
         "cargoLocks": {
@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "00b6847e7dfd6dd4c5dad6fbc1175a2cd1a8946e",
-            "sha256": "sha256-czBzHX+3yl/5nDV4le3WkaCWrvQxbx/1ySd5UY3hl78=",
+            "rev": "e95f3d46f8c26e8e357962cbd7e7835e34528aee",
+            "sha256": "sha256-PFET6RrxavPF99ZJXsAODGg03P6R6Ehgli/ZnqrfPIo=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "00b6847e7dfd6dd4c5dad6fbc1175a2cd1a8946e"
+        "version": "e95f3d46f8c26e8e357962cbd7e7835e34528aee"
     },
     "spicetify-cli": {
         "cargoLocks": null,
