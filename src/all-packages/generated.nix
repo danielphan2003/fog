@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "672d5f31d0fde05c34b72bfb2f781c0cc1bfd278";
+    version = "e6a71c15665827819791f537c73b7614195ebe1a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "672d5f31d0fde05c34b72bfb2f781c0cc1bfd278";
+      rev = "e6a71c15665827819791f537c73b7614195ebe1a";
       fetchSubmodules = false;
-      sha256 = "sha256-dtME97tDuoH65uIiP6ShtXA9DeC1FsW2Oq8YHn+wcSQ=";
+      sha256 = "sha256-UoXgQQAY2OHxFKmdPhesAyXHVykTyxPlfJZtL9owug0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-672d5f31d0fde05c34b72bfb2f781c0cc1bfd278/Cargo.lock;
+      lockFile = ./rustdesk-e6a71c15665827819791f537c73b7614195ebe1a/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "72feeeeddfb78088c225e120e6ca7d4a9a660585";
+    version = "182bce9bbab9d580abda5dbec1aee4f1e115fe63";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "72feeeeddfb78088c225e120e6ca7d4a9a660585";
+      rev = "182bce9bbab9d580abda5dbec1aee4f1e115fe63";
       fetchSubmodules = false;
-      sha256 = "sha256-tEjM/ftHVS83h7FMzMd1b17fZn6GgHTLYZ+YB/TD19c=";
+      sha256 = "sha256-NHDiUgicDMzB+zQ+6lWp5vB0LlVJEs+QApMn1KwzPaY=";
     });
   };
   whitesur-icon-theme = {
