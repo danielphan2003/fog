@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "d3384fd89db861efd90f44a8b43cca44af5cf16e",
-            "sha256": "sha256-lXt8ovv+GwgRYuepRQOflbNEvNcYJorRYLZFMJ4IkNQ=",
+            "rev": "479e3b23d9bafad4a2c9fbd78f16c066c2240544",
+            "sha256": "sha256-bvB/nHGcxZFBtLZ8Zng6XCXSIpRLoWpsuYv7xgEH1bc=",
             "type": "github"
         },
-        "version": "d3384fd89db861efd90f44a8b43cca44af5cf16e"
+        "version": "479e3b23d9bafad4a2c9fbd78f16c066c2240544"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1923,11 +1923,11 @@
             "name": null,
             "owner": "ChimeraOS",
             "repo": "steamos-compositor-plus",
-            "rev": "f49432f14b296f3a84a265e4f138252875798a8d",
-            "sha256": "sha256-0X3M/GkWSHsmNMo65uxbnOEM9rzUZeukYEQBPXElUEU=",
+            "rev": "cfd86ead069fe69b435f85c779aab004c4dc5266",
+            "sha256": "sha256-sijqx3CBcFODel91XJlgNwCMTaa/gjGkgmcUTqa88VU=",
             "type": "github"
         },
-        "version": "f49432f14b296f3a84a265e4f138252875798a8d"
+        "version": "cfd86ead069fe69b435f85c779aab004c4dc5266"
     },
     "supergfxctl": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ecf6cdd830be2699dcb063996ab82c366cf4bfaf",
-            "sha256": "sha256-jsmxDUjY2iIkTBaby752qBFe6R/lsZUsiEibIPCpeBo=",
+            "rev": "91b5c50b43b73c47803d9b608e8ea1ec4277437e",
+            "sha256": "sha256-NVnGXZ8JoJ+w3nzZP+YO4HVrYaogUWnyklWe+ByfEx0=",
             "type": "github"
         },
-        "version": "ecf6cdd830be2699dcb063996ab82c366cf4bfaf"
+        "version": "91b5c50b43b73c47803d9b608e8ea1ec4277437e"
     },
     "tailscale-systray": {
         "cargoLocks": null,

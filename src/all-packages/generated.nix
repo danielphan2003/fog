@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d3384fd89db861efd90f44a8b43cca44af5cf16e";
+    version = "479e3b23d9bafad4a2c9fbd78f16c066c2240544";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d3384fd89db861efd90f44a8b43cca44af5cf16e";
+      rev = "479e3b23d9bafad4a2c9fbd78f16c066c2240544";
       fetchSubmodules = false;
-      sha256 = "sha256-lXt8ovv+GwgRYuepRQOflbNEvNcYJorRYLZFMJ4IkNQ=";
+      sha256 = "sha256-bvB/nHGcxZFBtLZ8Zng6XCXSIpRLoWpsuYv7xgEH1bc=";
     });
   };
   revanced-cli = {
@@ -1155,13 +1155,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "f49432f14b296f3a84a265e4f138252875798a8d";
+    version = "cfd86ead069fe69b435f85c779aab004c4dc5266";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "f49432f14b296f3a84a265e4f138252875798a8d";
+      rev = "cfd86ead069fe69b435f85c779aab004c4dc5266";
       fetchSubmodules = false;
-      sha256 = "sha256-0X3M/GkWSHsmNMo65uxbnOEM9rzUZeukYEQBPXElUEU=";
+      sha256 = "sha256-sijqx3CBcFODel91XJlgNwCMTaa/gjGkgmcUTqa88VU=";
     });
   };
   supergfxctl = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "ecf6cdd830be2699dcb063996ab82c366cf4bfaf";
+    version = "91b5c50b43b73c47803d9b608e8ea1ec4277437e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "ecf6cdd830be2699dcb063996ab82c366cf4bfaf";
+      rev = "91b5c50b43b73c47803d9b608e8ea1ec4277437e";
       fetchSubmodules = false;
-      sha256 = "sha256-jsmxDUjY2iIkTBaby752qBFe6R/lsZUsiEibIPCpeBo=";
+      sha256 = "sha256-NVnGXZ8JoJ+w3nzZP+YO4HVrYaogUWnyklWe+ByfEx0=";
     });
   };
   tailscale-systray = {
