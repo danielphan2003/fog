@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c9bbe7683fdb9b50e68d15f8701663279d4a7173";
+    version = "d100e7378075fe028ff6b22c3fdcc47e6ce6f7cf";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c9bbe7683fdb9b50e68d15f8701663279d4a7173";
+      rev = "d100e7378075fe028ff6b22c3fdcc47e6ce6f7cf";
       fetchSubmodules = false;
-      sha256 = "sha256-P5WE+DMZGuV/ziGuIl40XW0B+Iw6Oc64dh1eKGfs7Pc=";
+      sha256 = "sha256-9vFGM0m8fPGi/LZxyUCGR4DdmNf+HBKc5tMG+gXUDQE=";
     });
   };
   revanced-cli = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b5809f131580bc9cbdff6d0a3e706547dfb76518";
+    version = "15296fd629434e88031d4c1311362ee935bbe1dd";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b5809f131580bc9cbdff6d0a3e706547dfb76518";
+      rev = "15296fd629434e88031d4c1311362ee935bbe1dd";
       fetchSubmodules = false;
-      sha256 = "sha256-/NOdXt6F0yw2xx2VKwxRrGaelHWejAnFzv4KGomjhlU=";
+      sha256 = "sha256-2rT4+QXnJau/VQPXkXoK2IqC2n18wCZF7lqn2F7fG/w=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-b5809f131580bc9cbdff6d0a3e706547dfb76518/Cargo.lock;
+      lockFile = ./rustdesk-15296fd629434e88031d4c1311362ee935bbe1dd/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -991,7 +991,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-E5osGKmtvaTn3ntsdAWG2BTE05RWfPlmqqBQFoX4mlI=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
-        "rdev-0.5.0-2" = "sha256-gkZN4k2id/DxFu8JOKoHlIgbk8EsV937t8GJy37qKUs=";
+        "rdev-0.5.0-2" = "sha256-+Ejjds5v6IVaj3EVkxxK1Ra6eb4jRHRe4f+oAi8ECr8=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
