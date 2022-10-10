@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2218ea1d96182569817df691a07591faa537b099";
+    version = "076a1a398c77408eea7efb383ddd8ec54a380836";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2218ea1d96182569817df691a07591faa537b099";
+      rev = "076a1a398c77408eea7efb383ddd8ec54a380836";
       fetchSubmodules = false;
-      sha256 = "sha256-4NpdpBft2KpTnxP5yg7CAq7Xxeey5J5AzDpnRA7OkoU=";
+      sha256 = "sha256-lMp/3epGgeB5aIn0lg680mTZsj+CwzB8C2mxss1URHo=";
     });
   };
   revanced-cli = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1719b4735de69f8b4c1c387d83f64a56e2ab0d8f";
+    version = "b5809f131580bc9cbdff6d0a3e706547dfb76518";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1719b4735de69f8b4c1c387d83f64a56e2ab0d8f";
+      rev = "b5809f131580bc9cbdff6d0a3e706547dfb76518";
       fetchSubmodules = false;
-      sha256 = "sha256-RcflcFervmAA6bQdYFJpb0p8oE2I0ewdNYVoCPES7YU=";
+      sha256 = "sha256-/NOdXt6F0yw2xx2VKwxRrGaelHWejAnFzv4KGomjhlU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-1719b4735de69f8b4c1c387d83f64a56e2ab0d8f/Cargo.lock;
+      lockFile = ./rustdesk-b5809f131580bc9cbdff6d0a3e706547dfb76518/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "2919dc9e9685928a12fd7933681f344c25b8aeee";
+    version = "444918f9b42e149fbd27bc0222339e270db8825f";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "2919dc9e9685928a12fd7933681f344c25b8aeee";
+      rev = "444918f9b42e149fbd27bc0222339e270db8825f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xPeAo4vDY+Nv7yK7y6iXNftcKnoxNbANyiJU7rrMIfg=";
+      sha256 = "sha256-/biNFz17QytkRbgF+bMDoIapc7QHKJK3CESWeQ7jmnk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-2919dc9e9685928a12fd7933681f344c25b8aeee/Cargo.lock;
+      lockFile = ./supergfxctl-444918f9b42e149fbd27bc0222339e270db8825f/Cargo.lock;
       outputHashes = {
         
       };

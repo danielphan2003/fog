@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "2218ea1d96182569817df691a07591faa537b099",
-            "sha256": "sha256-4NpdpBft2KpTnxP5yg7CAq7Xxeey5J5AzDpnRA7OkoU=",
+            "rev": "076a1a398c77408eea7efb383ddd8ec54a380836",
+            "sha256": "sha256-lMp/3epGgeB5aIn0lg680mTZsj+CwzB8C2mxss1URHo=",
             "type": "github"
         },
-        "version": "2218ea1d96182569817df691a07591faa537b099"
+        "version": "076a1a398c77408eea7efb383ddd8ec54a380836"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1719b4735de69f8b4c1c387d83f64a56e2ab0d8f/Cargo.lock",
+                "./rustdesk-b5809f131580bc9cbdff6d0a3e706547dfb76518/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1719b4735de69f8b4c1c387d83f64a56e2ab0d8f",
-            "sha256": "sha256-RcflcFervmAA6bQdYFJpb0p8oE2I0ewdNYVoCPES7YU=",
+            "rev": "b5809f131580bc9cbdff6d0a3e706547dfb76518",
+            "sha256": "sha256-/NOdXt6F0yw2xx2VKwxRrGaelHWejAnFzv4KGomjhlU=",
             "type": "github"
         },
-        "version": "1719b4735de69f8b4c1c387d83f64a56e2ab0d8f"
+        "version": "b5809f131580bc9cbdff6d0a3e706547dfb76518"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-2919dc9e9685928a12fd7933681f344c25b8aeee/Cargo.lock",
+                "./supergfxctl-444918f9b42e149fbd27bc0222339e270db8825f/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2919dc9e9685928a12fd7933681f344c25b8aeee",
-            "sha256": "sha256-xPeAo4vDY+Nv7yK7y6iXNftcKnoxNbANyiJU7rrMIfg=",
+            "rev": "444918f9b42e149fbd27bc0222339e270db8825f",
+            "sha256": "sha256-/biNFz17QytkRbgF+bMDoIapc7QHKJK3CESWeQ7jmnk=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "2919dc9e9685928a12fd7933681f344c25b8aeee"
+        "version": "444918f9b42e149fbd27bc0222339e270db8825f"
     },
     "sway-borders": {
         "cargoLocks": null,
