@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "cb687c208c116ea870f827d8b2ee963655599f1f",
-            "sha256": "sha256-FdjdpWgsvM75/wtmgRjY/91VBGFX1YRQ9AtT4sffzP8=",
+            "rev": "f55f56f26049ec97dab2cdbaf6445e9166c72b7d",
+            "sha256": "sha256-QerUvVuB6zA7nqFRoaUBnngLafa7eL9O63uDt7cLILA=",
             "type": "github"
         },
-        "version": "cb687c208c116ea870f827d8b2ee963655599f1f"
+        "version": "f55f56f26049ec97dab2cdbaf6445e9166c72b7d"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p2LVQ9AaK3KA0T+2WidMbz+nDLprQCOHtvn+gfBEtms=",
+            "sha256": "sha256-8dhwlbekm/+xM5otmXiAZQmD+o5SDd4Ps+ONFJb0j54=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.6/revanced-patches-2.81.6.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.7/revanced-patches-2.81.7.jar"
         },
-        "version": "2.81.6"
+        "version": "2.81.7"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2240,11 +2240,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "5e3f7ac7dd2edbd78a82694a580c3cb50e5a177c",
-            "sha256": "sha256-P/oBEtqeUMA7vjAz2SYWUXaT2gziRJh8nMEJS1rHqqw=",
+            "rev": "7ff29e359038543b66a87962b817ead074c96b7b",
+            "sha256": "sha256-Z/en6vVupYMVn6sX/tBR0u36qFZtxXLTOWakX3Bkkp0=",
             "type": "github"
         },
-        "version": "5e3f7ac7dd2edbd78a82694a580c3cb50e5a177c"
+        "version": "7ff29e359038543b66a87962b817ead074c96b7b"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
