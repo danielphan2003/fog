@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8dhwlbekm/+xM5otmXiAZQmD+o5SDd4Ps+ONFJb0j54=",
+            "sha256": "sha256-CxViwlIdLN8bFSbY3ezSvSVz53ks2giMq+U+sak7Slg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.7/revanced-patches-2.81.7.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.8/revanced-patches-2.81.8.jar"
         },
-        "version": "2.81.7"
+        "version": "2.81.8"
     },
     "rofi-wayland": {
         "cargoLocks": null,
