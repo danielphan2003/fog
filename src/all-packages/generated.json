@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+qEmxfGfzWnVKy1d2pULs3ha7b9papaPQZRd0zfEkwU=",
+            "sha256": "sha256-1FalJaufq+F/p3i79EvI85exVxkCjygHgNeysFCi/c0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.2/revanced-patches-2.81.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.81.4/revanced-patches-2.81.4.jar"
         },
-        "version": "2.81.2"
+        "version": "2.81.4"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-15296fd629434e88031d4c1311362ee935bbe1dd/Cargo.lock",
+                "./rustdesk-b7b1b183f117dcdacf10ddb494a46eb7ab8af1b9/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "15296fd629434e88031d4c1311362ee935bbe1dd",
-            "sha256": "sha256-2rT4+QXnJau/VQPXkXoK2IqC2n18wCZF7lqn2F7fG/w=",
+            "rev": "b7b1b183f117dcdacf10ddb494a46eb7ab8af1b9",
+            "sha256": "sha256-ymdaR8qy0NoUKo09weDBNLtOoPzVJYbUZFCkJ8wN5xI=",
             "type": "github"
         },
-        "version": "15296fd629434e88031d4c1311362ee935bbe1dd"
+        "version": "b7b1b183f117dcdacf10ddb494a46eb7ab8af1b9"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2363,10 +2363,10 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UNtxyR4SMCP9c1Dre/arfdSVZbAV8qoHyHlvj3ZbXIs=",
+            "sha256": "sha256-kgjooMqeZurzqIn3ADcgFjlqaC58dQNuIAHLx4M0S9I=",
             "type": "url",
-            "url": "https://cdn.zoom.us/prod/5.12.0.4682/zoom_x86_64.pkg.tar.xz"
+            "url": "https://cdn.zoom.us/prod/5.12.2.4816/zoom_x86_64.pkg.tar.xz"
         },
-        "version": "5.12.0.4682"
+        "version": "5.12.2.4816"
     }
 }
