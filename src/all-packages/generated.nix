@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "71072415196257585439839a670b0ac2cb3c8060";
+    version = "8a373c38a631e0344c38d3b19ab673aacfbaf1f5";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "71072415196257585439839a670b0ac2cb3c8060";
+      rev = "8a373c38a631e0344c38d3b19ab673aacfbaf1f5";
       fetchSubmodules = false;
-      sha256 = "sha256-4O2oRKS9MsE0dVo7kXSurx/35eIappC//ytpEOKuL98=";
+      sha256 = "sha256-mKtop5/80YIAZqogshk5Tm9PR+93rLWSh8hqtNFjlPE=";
     });
   };
   playit-agent = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.81.4";
+    version = "2.81.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.4/revanced-patches-2.81.4.jar";
-      sha256 = "sha256-1FalJaufq+F/p3i79EvI85exVxkCjygHgNeysFCi/c0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.6/revanced-patches-2.81.6.jar";
+      sha256 = "sha256-p2LVQ9AaK3KA0T+2WidMbz+nDLprQCOHtvn+gfBEtms=";
     };
   };
   rofi-wayland = {
@@ -1077,14 +1077,14 @@
   };
   snui = {
     pname = "snui";
-    version = "e95f3d46f8c26e8e357962cbd7e7835e34528aee";
+    version = "66fd457141dab6dca42b99967883592a336cbca4";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "e95f3d46f8c26e8e357962cbd7e7835e34528aee";
+      rev = "66fd457141dab6dca42b99967883592a336cbca4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PFET6RrxavPF99ZJXsAODGg03P6R6Ehgli/ZnqrfPIo=";
+      sha256 = "sha256-x1vGswAP47YR69eTlsLFcItEZFQYli+XBVcTVnduth0=";
     };
   };
   spicetify-cli = {
