@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5";
+    version = "ba1d3f045d0fca79f125c165fd3cf34da249b506";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5";
+      rev = "ba1d3f045d0fca79f125c165fd3cf34da249b506";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-hr2pDK37tAMuscoMkuA1k336qC/F+l7BIWf+KNZ1Ymw=";
+      sha256 = "sha256-9dVaS0cM/e0qyomRxYU7hxhHQAUA6vRbrc64Vi6xspE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5/Cargo.lock;
+      lockFile = ./asusctl-ba1d3f045d0fca79f125c165fd3cf34da249b506/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
       };
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ae91f6610ff00495c777fa3d996056061ea5c6b9";
+    version = "8880298f50dcc53b0aa91e13673dbd3391b65170";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ae91f6610ff00495c777fa3d996056061ea5c6b9";
+      rev = "8880298f50dcc53b0aa91e13673dbd3391b65170";
       fetchSubmodules = false;
-      sha256 = "sha256-0up6k+ATaxv1X60nQuslcIirUQqkbl1m5pCFnH3TJtE=";
+      sha256 = "sha256-FPcO5We1hhUcql4bnes3Q5sIa8E9nfH8y582wieFGQU=";
     });
   };
   ibus = {
@@ -564,10 +564,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6676";
+    version = "1.0.6677";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6676-1_all.deb";
-      sha256 = "sha256-O8VWcDqzuSdJVxb7ig3UIOyhUsykIQU6BGeh0Bk5y4s=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6677-1_all.deb";
+      sha256 = "sha256-VYXrYrzrjWBTqRxkzd8KVIpxWrYE9ysyAfTSAsJC+Hc=";
     };
   };
   jitsi-videobridge2 = {
