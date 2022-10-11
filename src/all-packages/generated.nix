@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "41de5ec80bbb64b3d47bf8c8bf5f3c3f70e57581";
+    version = "8b3965436806f0a21a65e2c5bd4a9c0f7649722b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "41de5ec80bbb64b3d47bf8c8bf5f3c3f70e57581";
+      rev = "8b3965436806f0a21a65e2c5bd4a9c0f7649722b";
       fetchSubmodules = false;
-      sha256 = "sha256-R2kQjSQO8ypXx2NTdfYxP1Xgl7SCgl3sNVQ2SqF+gQY=";
+      sha256 = "sha256-3ctmJMSpyVVgCAvgMoW8fz7Aq/SF+NPmigDplP3KRNk=";
     });
   };
   revanced-cli = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "444918f9b42e149fbd27bc0222339e270db8825f";
+    version = "6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "444918f9b42e149fbd27bc0222339e270db8825f";
+      rev = "6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/biNFz17QytkRbgF+bMDoIapc7QHKJK3CESWeQ7jmnk=";
+      sha256 = "sha256-KB9e2dhAkGxG19q9/YI/lcDkGkZP3ToWWLiPPhBaVL8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-444918f9b42e149fbd27bc0222339e270db8825f/Cargo.lock;
+      lockFile = ./supergfxctl-6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca/Cargo.lock;
       outputHashes = {
         
       };
