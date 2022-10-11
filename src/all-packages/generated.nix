@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "921637f979453e1ed0a5bdcd4f62811215777bcc";
+    version = "e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "921637f979453e1ed0a5bdcd4f62811215777bcc";
+      rev = "e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-aKg1SsNekS1EejM4o33n5I8cKIt4calIgReAWm5vLao=";
+      sha256 = "sha256-hr2pDK37tAMuscoMkuA1k336qC/F+l7BIWf+KNZ1Ymw=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-921637f979453e1ed0a5bdcd4f62811215777bcc/Cargo.lock;
+      lockFile = ./asusctl-e0ed52092ae82cc96aa8b3323d96f24bff5a2ae5/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
       };
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6675";
+    version = "1.0.6677";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6675.tar.bz2";
-      sha256 = "sha256-HhF35WFjk7ZysyXwCaBBxrq9UXgZbKfUrDlgXLYEW0Q=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6677.tar.bz2";
+      sha256 = "sha256-NWglLea2L4xo6bWPaPOFVpicnNZCYmAjALm94JFJWK4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6675";
+    version = "1.0.6676";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6675-1_all.deb";
-      sha256 = "sha256-JxnTLNqmkrmDRuhmqkUpgxH/zBcuIzAnj1JTOLw4FKY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6676-1_all.deb";
+      sha256 = "sha256-O8VWcDqzuSdJVxb7ig3UIOyhUsykIQU6BGeh0Bk5y4s=";
     };
   };
   jitsi-videobridge2 = {
