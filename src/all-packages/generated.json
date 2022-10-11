@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xYSXTHgq93DSF23YmT+mgtGbCK99uYW8v2zeNfzRbYA=",
+            "sha256": "sha256-eGXXpc1zME6vnw0HeR6V88b2BJfNI9Gn1qIDvHYD//A=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6679.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6680.tar.bz2"
         },
-        "version": "1.0.6679"
+        "version": "1.0.6680"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bvdJHcDNWQQ8KTsuAB/R1lya+22yeI9DAImVpTAF5vA=",
+            "sha256": "sha256-zydC8tCtKpPrAu4i/PjRKE+I57x/VDFT32rAzN25a2U=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6679-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6680-1_all.deb"
         },
-        "version": "1.0.6679"
+        "version": "1.0.6680"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1248,7 +1248,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-f8e6075ee4b5bded5a969f95ffa428054e5b49c3/Cargo.lock",
+                "./ouch-cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9/Cargo.lock",
                 {}
             ]
         },
@@ -1263,11 +1263,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "f8e6075ee4b5bded5a969f95ffa428054e5b49c3",
-            "sha256": "sha256-JzaaxtDx5spjzzAbCGMnyC7C0AcwCrmqXH2eRelGSeQ=",
+            "rev": "cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9",
+            "sha256": "sha256-rQs0CgBuIet5juEmy23x9bzHFqoCjOqbiO63/aI/kNE=",
             "type": "github"
         },
-        "version": "f8e6075ee4b5bded5a969f95ffa428054e5b49c3"
+        "version": "cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9"
     },
     "paper": {
         "cargoLocks": {
