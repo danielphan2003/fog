@@ -265,19 +265,19 @@
   };
   conduit = {
     pname = "conduit";
-    version = "147f27521c0d7dbc32d39ec1d8da6cd00008f23c";
+    version = "8105c5cc60912afc487a6d045c67a7dada76322e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "147f27521c0d7dbc32d39ec1d8da6cd00008f23c";
+      rev = "8105c5cc60912afc487a6d045c67a7dada76322e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-j469Zh8zyqJNWz7q6gjRu1Khk9y6Xbb52SpxzNjADW8=";
+      sha256 = "sha256-ZjrcnMUhb+gFMh5qa9tPd7Lvbl3oSdXpnbQQrnhkJI4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-147f27521c0d7dbc32d39ec1d8da6cd00008f23c/Cargo.lock;
+      lockFile = ./conduit-8105c5cc60912afc487a6d045c67a7dada76322e/Cargo.lock;
       outputHashes = {
-        "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
+        "ruma-0.7.4" = "sha256-RyeZAmqA4IDCT6FEfDDUCOkmQYS4voEcPT6wCbot+ng=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.40.3";
+    version = "0.40.4";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.40.3.tar.gz";
-      sha256 = "sha256-q1yjLjf//FMsn0zhHjXCh5RG0c21xvCCiacGWLl8otw=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.40.4.tar.gz";
+      sha256 = "sha256-PRrEkRvGD76tb0s0wvXhvszGmbmU4QuHyX+yrUd35b0=";
     };
   };
   nix-zsh-completions = {
