@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "8ea2b0b63b286af39bc9e95859e4c489053442b2",
-            "sha256": "sha256-YMRag9aKdl1g7BftL+IQye7mqbtxFGQhPj2nYBfHwlg=",
+            "rev": "d59a118e83938558ee1ab71f00ec95835dc2b592",
+            "sha256": "sha256-GmTojtEtbDHVpsMaEogpN6GG+Y1SDOTDkZuoJMLIOus=",
             "type": "github"
         },
-        "version": "8ea2b0b63b286af39bc9e95859e4c489053442b2"
+        "version": "d59a118e83938558ee1ab71f00ec95835dc2b592"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-5c5825c8baf1f240bd9c944e1f326d14c01edd8f/src-tauri/Cargo.lock",
+                "./cinny-desktop-9d2b39a418cf4908df17295738cffb4229570fcb/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "5c5825c8baf1f240bd9c944e1f326d14c01edd8f",
-            "sha256": "sha256-nUUBcxoNp1UY1VvkVw6F8DF2BDexuIR7W2zQwPN1UGo=",
+            "rev": "9d2b39a418cf4908df17295738cffb4229570fcb",
+            "sha256": "sha256-2DM3Eoont/UPk5LGwVofTzt4cKuK6vCfyO82PoEwxps=",
             "type": "github"
         },
-        "version": "5c5825c8baf1f240bd9c944e1f326d14c01edd8f"
+        "version": "9d2b39a418cf4908df17295738cffb4229570fcb"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "0475ed4a7e28a10f2f9e1b51bc1b07b957bea1c9",
-            "sha256": "sha256-5T58lNrM8YJ9bXq6ai98hqhbH1Vrka6PEUuCWNQg/js=",
+            "rev": "680f8d97932566ad9bde24b44c11f591ec16c7d3",
+            "sha256": "sha256-hIXjc96LZvRfdV/OPlVw1xPD5zKm77pOnRaQs3f8fE0=",
             "type": "github"
         },
-        "version": "0475ed4a7e28a10f2f9e1b51bc1b07b957bea1c9"
+        "version": "680f8d97932566ad9bde24b44c11f591ec16c7d3"
     },
     "tailscale-systray": {
         "cargoLocks": null,
