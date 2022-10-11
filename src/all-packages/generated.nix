@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.51.0";
+    version = "0.51.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.51.0/app-release-unsigned.apk";
-      sha256 = "sha256-iGrtLO5XxBayRyUKsHr5hNbNdPXX08SY1UvmK5t9+P4=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.51.1/app-release-unsigned.apk";
+      sha256 = "sha256-tQYU5Uf29WTjgxwb1G278VzfNsNqzlpyZQrDK4ESNT8=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.81.9";
+    version = "2.81.10";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.9/revanced-patches-2.81.9.jar";
-      sha256 = "sha256-c1Ko37cknDCjJyWoqInZEDOE4xyJEgoYwHGwWsY9g8w=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.10/revanced-patches-2.81.10.jar";
+      sha256 = "sha256-OBulua/LmfHRap/GjWjrpg+TaaogKFhuwQGP0yVrth8=";
     };
   };
   rofi-wayland = {
@@ -1077,14 +1077,14 @@
   };
   snui = {
     pname = "snui";
-    version = "66fd457141dab6dca42b99967883592a336cbca4";
+    version = "c96cfb9d544fbd921df2f7d0dd041caaba1dc706";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "66fd457141dab6dca42b99967883592a336cbca4";
+      rev = "c96cfb9d544fbd921df2f7d0dd041caaba1dc706";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-x1vGswAP47YR69eTlsLFcItEZFQYli+XBVcTVnduth0=";
+      sha256 = "sha256-DCT3NZvDLsITmfDsX9naSFOWhIGV0iP8IokpEbhQYwc=";
     };
   };
   spicetify-cli = {
