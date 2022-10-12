@@ -757,7 +757,7 @@ checksum = "a2eb9349b6444b326872e140eb1cf5e7c522154d69e7a0ffb0fb81c06b37543f"
 
 [[package]]
 name = "supergfxctl"
-version = "5.0.0-rc9"
+version = "5.0.0-rc10"
 dependencies = [
  "env_logger",
  "gumdrop",

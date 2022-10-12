@@ -746,16 +746,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9";
+    version = "e92b538d72f113cdc1ebb6b31434b530e6155735";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9";
+      rev = "e92b538d72f113cdc1ebb6b31434b530e6155735";
       fetchSubmodules = false;
-      sha256 = "sha256-rQs0CgBuIet5juEmy23x9bzHFqoCjOqbiO63/aI/kNE=";
+      sha256 = "sha256-V0HRJlUiJqlY6cZJ3CUuF0SKHjoesLbDW3IduzBBebA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-cd21ee99b86ae09f7830ad1a4b5bc0d76fe6d3d9/Cargo.lock;
+      lockFile = ./ouch-e92b538d72f113cdc1ebb6b31434b530e6155735/Cargo.lock;
       outputHashes = {
         
       };
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.81.10";
+    version = "2.81.11";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.10/revanced-patches-2.81.10.jar";
-      sha256 = "sha256-OBulua/LmfHRap/GjWjrpg+TaaogKFhuwQGP0yVrth8=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.11/revanced-patches-2.81.11.jar";
+      sha256 = "sha256-NFUsNIM96ivOB56Vd/W401uk+SmamCyGrm2zfqFa0sk=";
     };
   };
   rofi-wayland = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca";
+    version = "bcd6953e86205c11b656a3545996d23cfba8a984";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca";
+      rev = "bcd6953e86205c11b656a3545996d23cfba8a984";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-KB9e2dhAkGxG19q9/YI/lcDkGkZP3ToWWLiPPhBaVL8=";
+      sha256 = "sha256-anV3IeHLUevDLC/ullenJNci59zP5URMs73nlXeX6/U=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-6dd0b6776b7e43de4ca7ab6ec342f0e9a2cdf5ca/Cargo.lock;
+      lockFile = ./supergfxctl-bcd6953e86205c11b656a3545996d23cfba8a984/Cargo.lock;
       outputHashes = {
         
       };
