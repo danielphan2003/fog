@@ -738,7 +738,7 @@
   };
   ny-font = {
     pname = "ny-font";
-    version = "0.0.0.20210625";
+    version = "0.0.0.20221012";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
       sha256 = "sha256-Rr0UpJa7kemczCqNn6b8HNtW6PiWO/Ez1LUh/WNk8S8=";
@@ -1053,7 +1053,7 @@
   };
   sf-font-compact = {
     pname = "sf-font-compact";
-    version = "0.0.0.20210625";
+    version = "0.0.0.20221012";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg";
       sha256 = "sha256-SIht9sqmeijEeU4uLwm+tlZtFlTnD/G5GH8haUL6dlU=";
@@ -1061,7 +1061,7 @@
   };
   sf-font-pro = {
     pname = "sf-font-pro";
-    version = "0.0.0.20210625";
+    version = "0.0.0.20221012";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg";
       sha256 = "sha256-g/SzgU3vOzm8uRuA6AN/N8Tnrl2Vpya58hx99dGfecI=";
@@ -1069,7 +1069,7 @@
   };
   sf-mono = {
     pname = "sf-mono";
-    version = "0.0.0.20210625";
+    version = "0.0.0.20221012";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
       sha256 = "sha256-jnhTTmSy5J8MJotbsI8g5hxotgjvyDbccymjABwajYw=";

@@ -1243,7 +1243,7 @@
             "type": "url",
             "url": "https://devimages-cdn.apple.com/design/resources/download/NY.dmg"
         },
-        "version": "0.0.0.20210625"
+        "version": "0.0.0.20221012"
     },
     "ouch": {
         "cargoLocks": {
@@ -1753,7 +1753,7 @@
             "type": "url",
             "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg"
         },
-        "version": "0.0.0.20210625"
+        "version": "0.0.0.20221012"
     },
     "sf-font-pro": {
         "cargoLocks": null,
@@ -1767,7 +1767,7 @@
             "type": "url",
             "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg"
         },
-        "version": "0.0.0.20210625"
+        "version": "0.0.0.20221012"
     },
     "sf-mono": {
         "cargoLocks": null,
@@ -1781,7 +1781,7 @@
             "type": "url",
             "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg"
         },
-        "version": "0.0.0.20210625"
+        "version": "0.0.0.20221012"
     },
     "snui": {
         "cargoLocks": null,
