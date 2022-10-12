@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "123098ec4470d8536f9ae713ab3f651ceb39211a";
+    version = "e5b69dec5d12e92f4ac718906f81ec2d78360507";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "123098ec4470d8536f9ae713ab3f651ceb39211a";
+      rev = "e5b69dec5d12e92f4ac718906f81ec2d78360507";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Swx0xPD02VGgwJPfKRrnkpDVr1VUvAfQzQVOxfp7SlA=";
+      sha256 = "sha256-ln/Bkk3csGRl8ZUE6+quGdvY5W7G+6GkH//WQxMbXDI=";
     };
   };
   flyingfox = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "abf8bdc66001f5e9d5451de86c73fcaf5b426fc7";
+    version = "a153738bbd5fbc92627ffc601774c01097699abb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "abf8bdc66001f5e9d5451de86c73fcaf5b426fc7";
+      rev = "a153738bbd5fbc92627ffc601774c01097699abb";
       fetchSubmodules = false;
-      sha256 = "sha256-HXrnVpc6iqiZT9VDig2sd5fCdaUqwqX0cC2L9k9QXNs=";
+      sha256 = "sha256-il8j4m4AtfL8TnpT6CfMiZ54xiekCMCcnuQGhjiZx44=";
     });
   };
   revanced-cli = {
