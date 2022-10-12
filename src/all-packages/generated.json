@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-cd835fc7a810c010ef344b40160b02d49bafe772/Cargo.lock",
+                "./conduit-4d982d05afccd2d4790ba59f62e2a2a02f360caf/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cd835fc7a810c010ef344b40160b02d49bafe772",
-            "sha256": "sha256-Ghcl+R1tzbKd9gSFgW0d5TLjWvE3Cuy6aYpC3jXDzIk=",
+            "rev": "4d982d05afccd2d4790ba59f62e2a2a02f360caf",
+            "sha256": "sha256-brnWnIB66w08x/ew+8kxdGK43HjWi4scGz6XT8gNAjE=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "cd835fc7a810c010ef344b40160b02d49bafe772"
+        "version": "4d982d05afccd2d4790ba59f62e2a2a02f360caf"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1060,11 +1060,11 @@
             "name": null,
             "owner": "projectdiscovery",
             "repo": "mapcidr",
-            "rev": "v1.0.2",
-            "sha256": "sha256-qfEm+DFnTmGwHV7Sb488qFmjT+7QSCmbT4n5JhtDo5g=",
+            "rev": "v1.0.3",
+            "sha256": "sha256-dsHTnaK1Bna6Gbr/J+PYjeZ0WqJh696sliTd5JF1C+o=",
             "type": "github"
         },
-        "version": "v1.0.2"
+        "version": "v1.0.3"
     },
     "matrix-appservice-discord": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-e94c3467ebca2d25092f7341390bd4a881ecb7ec/Cargo.lock",
+                "./rustdesk-3593fb0463f35eeb567da5c2a6699348e0d0e89f/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "e94c3467ebca2d25092f7341390bd4a881ecb7ec",
-            "sha256": "sha256-5h4dU/dQk47F1sBrmcWHT5WUOFNWCuZrU2HuerbUTqY=",
+            "rev": "3593fb0463f35eeb567da5c2a6699348e0d0e89f",
+            "sha256": "sha256-PuRLJCWmkUPNb6hpMs4MJIvPCCY9vCoGoECUund13js=",
             "type": "github"
         },
-        "version": "e94c3467ebca2d25092f7341390bd4a881ecb7ec"
+        "version": "3593fb0463f35eeb567da5c2a6699348e0d0e89f"
     },
     "rustdesk-server": {
         "cargoLocks": {

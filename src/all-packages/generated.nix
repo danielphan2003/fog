@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "cd835fc7a810c010ef344b40160b02d49bafe772";
+    version = "4d982d05afccd2d4790ba59f62e2a2a02f360caf";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "cd835fc7a810c010ef344b40160b02d49bafe772";
+      rev = "4d982d05afccd2d4790ba59f62e2a2a02f360caf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Ghcl+R1tzbKd9gSFgW0d5TLjWvE3Cuy6aYpC3jXDzIk=";
+      sha256 = "sha256-brnWnIB66w08x/ew+8kxdGK43HjWi4scGz6XT8gNAjE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-cd835fc7a810c010ef344b40160b02d49bafe772/Cargo.lock;
+      lockFile = ./conduit-4d982d05afccd2d4790ba59f62e2a2a02f360caf/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-WDycy/JyHGwJVSwHHvdELrVPyS2SImTAMiE18CGz50A=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -632,13 +632,13 @@
   };
   mapcidr = {
     pname = "mapcidr";
-    version = "v1.0.2";
+    version = "v1.0.3";
     src = fetchFromGitHub ({
       owner = "projectdiscovery";
       repo = "mapcidr";
-      rev = "v1.0.2";
+      rev = "v1.0.3";
       fetchSubmodules = false;
-      sha256 = "sha256-qfEm+DFnTmGwHV7Sb488qFmjT+7QSCmbT4n5JhtDo5g=";
+      sha256 = "sha256-dsHTnaK1Bna6Gbr/J+PYjeZ0WqJh696sliTd5JF1C+o=";
     });
   };
   matrix-appservice-discord = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e94c3467ebca2d25092f7341390bd4a881ecb7ec";
+    version = "3593fb0463f35eeb567da5c2a6699348e0d0e89f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e94c3467ebca2d25092f7341390bd4a881ecb7ec";
+      rev = "3593fb0463f35eeb567da5c2a6699348e0d0e89f";
       fetchSubmodules = false;
-      sha256 = "sha256-5h4dU/dQk47F1sBrmcWHT5WUOFNWCuZrU2HuerbUTqY=";
+      sha256 = "sha256-PuRLJCWmkUPNb6hpMs4MJIvPCCY9vCoGoECUund13js=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e94c3467ebca2d25092f7341390bd4a881ecb7ec/Cargo.lock;
+      lockFile = ./rustdesk-3593fb0463f35eeb567da5c2a6699348e0d0e89f/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
