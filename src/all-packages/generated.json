@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a1f5edb820062eb46031af2db3af977f9b955128",
-            "sha256": "sha256-kLkU4o+4J6HSOeB0GCCD6BCXZlWJgOBnNlgzJSIarBQ=",
+            "rev": "123098ec4470d8536f9ae713ab3f651ceb39211a",
+            "sha256": "sha256-Swx0xPD02VGgwJPfKRrnkpDVr1VUvAfQzQVOxfp7SlA=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "a1f5edb820062eb46031af2db3af977f9b955128"
+        "version": "123098ec4470d8536f9ae713ab3f651ceb39211a"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "248fe447bdc0611ca55a0379939aaa15ab8d166c",
-            "sha256": "sha256-4QOBacL2lNjp0pMhlUogyyNbkp8AjRAQ+d/aavbbSOM=",
+            "rev": "35784a5fd70b9231d7c2a552e28c5dc0ba8428ea",
+            "sha256": "sha256-rh4CnEFMwPzX5qVOCx4ArD78P7hRTmECPAkweDVZDj4=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "248fe447bdc0611ca55a0379939aaa15ab8d166c"
+        "version": "35784a5fd70b9231d7c2a552e28c5dc0ba8428ea"
     },
     "pure": {
         "cargoLocks": null,
