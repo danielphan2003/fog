@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "2ee9fb067526f51c6e13aa399ff540efe20cb540",
-            "sha256": "sha256-qn8VeRZgjaSxdwC3Rnxu9KTlheafp6Mi3hgqCYxuTdc=",
+            "rev": "170def35d79210f9124cdfd7da563d5d384dcae9",
+            "sha256": "sha256-lYoJoLnJ6hCyLoXLNz1nLWIFNyvvKf0D4P+pf6l3Zdw=",
             "type": "github"
         },
-        "version": "2ee9fb067526f51c6e13aa399ff540efe20cb540"
+        "version": "170def35d79210f9124cdfd7da563d5d384dcae9"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1107,11 +1107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-f4AZmxYxFbBwKRo/6AIkXl78ndZakEaEuC/4KzWxOhA=",
+            "sha256": "sha256-8L43y76EfnG3C0R49cmICdQ+sLybP8Zi05ypmktYqqM=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1402.2-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_107.0.1418.8-1_amd64.deb"
         },
-        "version": "107.0.1402.2"
+        "version": "107.0.1418.8"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1248,7 +1248,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-e92b538d72f113cdc1ebb6b31434b530e6155735/Cargo.lock",
+                "./ouch-ee082e136757cce749aa1ef6126ecfd3522a3c8e/Cargo.lock",
                 {}
             ]
         },
@@ -1263,11 +1263,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "e92b538d72f113cdc1ebb6b31434b530e6155735",
-            "sha256": "sha256-V0HRJlUiJqlY6cZJ3CUuF0SKHjoesLbDW3IduzBBebA=",
+            "rev": "ee082e136757cce749aa1ef6126ecfd3522a3c8e",
+            "sha256": "sha256-zXW7oqY1XZ39p3bk+n43vvMsaZ6WR6UmjPuxNa/iCsA=",
             "type": "github"
         },
-        "version": "e92b538d72f113cdc1ebb6b31434b530e6155735"
+        "version": "ee082e136757cce749aa1ef6126ecfd3522a3c8e"
     },
     "paper": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "e7519adc182bf6a4ebfe35b21d1c561ab77e8e6a",
-            "sha256": "sha256-PbDcqfXuffZH/2FR/ZG+5eqju0MsPJr35lbKS45xgRQ=",
+            "rev": "79755d3ce53baaa19c68e24cae149b6bb5141a40",
+            "sha256": "sha256-6IaXv+WJnS0OIice9F70eBBVVnRT84R0aND+dkK2UeE=",
             "type": "github"
         },
-        "version": "e7519adc182bf6a4ebfe35b21d1c561ab77e8e6a"
+        "version": "79755d3ce53baaa19c68e24cae149b6bb5141a40"
     },
     "tailscale-systray": {
         "cargoLocks": null,
