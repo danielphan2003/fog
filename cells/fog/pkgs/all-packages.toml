@@ -398,19 +398,19 @@ src.git = "https://github.com/mrbvrz/segoe-ui-linux"
 fetch.github = "mrbvrz/segoe-ui-linux"
 
 [sf-font-compact]
-src.manual = "0.0.0.20210625"
+src.manual = "0.0.0.20221012"
 fetch.url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg"
 
 [sf-font-pro]
-src.manual = "0.0.0.20210625"
+src.manual = "0.0.0.20221012"
 fetch.url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg"
 
 [sf-mono]
-src.manual = "0.0.0.20210625"
+src.manual = "0.0.0.20221012"
 fetch.url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg"
 
 [ny-font]
-src.manual = "0.0.0.20210625"
+src.manual = "0.0.0.20221012"
 fetch.url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg"
 
 [snui]
