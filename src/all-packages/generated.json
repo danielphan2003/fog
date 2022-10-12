@@ -439,11 +439,11 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-4d982d05afccd2d4790ba59f62e2a2a02f360caf/Cargo.lock",
+                "./conduit-37eb686b5b6c49ed830fda9d43bafb31851e224a/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
-                    "ruma-0.7.4": "sha256-WDycy/JyHGwJVSwHHvdELrVPyS2SImTAMiE18CGz50A="
+                    "ruma-0.7.4": "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk="
                 }
             ]
         },
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4d982d05afccd2d4790ba59f62e2a2a02f360caf",
-            "sha256": "sha256-brnWnIB66w08x/ew+8kxdGK43HjWi4scGz6XT8gNAjE=",
+            "rev": "37eb686b5b6c49ed830fda9d43bafb31851e224a",
+            "sha256": "sha256-uboJt/ESaKJix5IzzRl/874x4DwQOSA2zdVoTnIjW8w=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "4d982d05afccd2d4790ba59f62e2a2a02f360caf"
+        "version": "37eb686b5b6c49ed830fda9d43bafb31851e224a"
     },
     "conduit-toolbox": {
         "cargoLocks": {
