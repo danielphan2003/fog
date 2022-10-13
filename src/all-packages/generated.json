@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-c23b4946c5cdefe2375329c9145a61552a5839b9/Cargo.lock",
+                "./conduit-f46d64e52fb56616749a7a00331f642d7ffd2386/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c23b4946c5cdefe2375329c9145a61552a5839b9",
-            "sha256": "sha256-QwbY5vyP3HGzlJIDQFqVov4hcdtLf465MXFrDi8M5C8=",
+            "rev": "f46d64e52fb56616749a7a00331f642d7ffd2386",
+            "sha256": "sha256-wzE1lOaraMuyyKkglO7p2mT1WM0JHi2HXPYVzIM3zsE=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "c23b4946c5cdefe2375329c9145a61552a5839b9"
+        "version": "f46d64e52fb56616749a7a00331f642d7ffd2386"
     },
     "conduit-toolbox": {
         "cargoLocks": {
