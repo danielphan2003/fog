@@ -188,13 +188,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "v2.6.1";
+    version = "v2.6.2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "v2.6.1";
+      rev = "v2.6.2";
       fetchSubmodules = false;
-      sha256 = "sha256-Z8MiMhXH1er+uYvmDQiamF/jSxHbTMwjo61qbH0ioEo=";
+      sha256 = "sha256-Tbf6RB3106OEZGc/Wx7vk+I82Z8/Q3WqnID4f8uZ6z0=";
     });
   };
   caddy-dist = {
@@ -746,16 +746,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "b64d0c0c55154b684d32b9ac7ffcc02588f5ff8c";
+    version = "385a630d0ecf81344d91266d6552030387bdca0d";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "b64d0c0c55154b684d32b9ac7ffcc02588f5ff8c";
+      rev = "385a630d0ecf81344d91266d6552030387bdca0d";
       fetchSubmodules = false;
-      sha256 = "sha256-9fwdsi8ZTVvXqhrB7JFRkR31eK7rKguFY0hV6PSV6l8=";
+      sha256 = "sha256-Sok+hG4jUDYeVoN+T1eKVK5vqFgWp/Y+P96Mkxgo/4Q=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-b64d0c0c55154b684d32b9ac7ffcc02588f5ff8c/Cargo.lock;
+      lockFile = ./ouch-385a630d0ecf81344d91266d6552030387bdca0d/Cargo.lock;
       outputHashes = {
         
       };
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "db863bf00fa7fc4a13833e068a5df064c9021ffa";
+    version = "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "db863bf00fa7fc4a13833e068a5df064c9021ffa";
+      rev = "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29";
       fetchSubmodules = false;
-      sha256 = "sha256-RyqF5x2IHYsUbmegYmPadHsLGelZR3525aZ0QoDbz/s=";
+      sha256 = "sha256-lhBtuPQ3UfEtfzg8vp+8nW1Ph+MzfLyxMIC/iFsLDLE=";
     });
   };
   tailscale-systray = {
