@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.51.1";
+    version = "0.52.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.51.1/app-release-unsigned.apk";
-      sha256 = "sha256-tQYU5Uf29WTjgxwb1G278VzfNsNqzlpyZQrDK4ESNT8=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.52.0/app-release-unsigned.apk";
+      sha256 = "sha256-JrAcNilGL/lp7ir8eeUw69L+a38XIw5T5WLr9A5XR1E=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.81.11";
+    version = "2.82.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.81.11/revanced-patches-2.81.11.jar";
-      sha256 = "sha256-NFUsNIM96ivOB56Vd/W401uk+SmamCyGrm2zfqFa0sk=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.82.0/revanced-patches-2.82.0.jar";
+      sha256 = "sha256-YUg085wrZ/Cu8t6v5KYLo+wTcSDe15AQhbPaY0s19dA=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3f4339cbe02bd17a62262766bdee291532a5f5ff";
+    version = "c0b230fd63ec4741e0b8bf9631eb1616d6e93630";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3f4339cbe02bd17a62262766bdee291532a5f5ff";
+      rev = "c0b230fd63ec4741e0b8bf9631eb1616d6e93630";
       fetchSubmodules = false;
-      sha256 = "sha256-oeKMQvHPU9/nobCnHsH9G0Powh4gS0CzYJjZm59L6I0=";
+      sha256 = "sha256-GwuO2Do5hn179LfkBDINSmR136940xXha/qsc9C26/k=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3f4339cbe02bd17a62262766bdee291532a5f5ff/Cargo.lock;
+      lockFile = ./rustdesk-c0b230fd63ec4741e0b8bf9631eb1616d6e93630/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
