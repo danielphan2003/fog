@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "60ad2b0462004d7d1c4ad3d7ab21f768b9527f61";
+    version = "075949baaabde90ff82dfc2a03e3794837abbfb5";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "60ad2b0462004d7d1c4ad3d7ab21f768b9527f61";
+      rev = "075949baaabde90ff82dfc2a03e3794837abbfb5";
       fetchSubmodules = false;
-      sha256 = "sha256-tEDIkO013b43B7o3uiEFgdZqL2BnGCTaXOMIhuHlA4k=";
+      sha256 = "sha256-bvZSFFyuIkxd9ETJnr7w0Oo7bEmEUF54rkWlxUC4zZQ=";
     });
   };
   caddy = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f3917f21228b26807a320c22890c92b4bd890c8a";
+    version = "670d6ce8f476cbdced7aa62e7d8c16a48bccf0d5";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f3917f21228b26807a320c22890c92b4bd890c8a";
+      rev = "670d6ce8f476cbdced7aa62e7d8c16a48bccf0d5";
       fetchSubmodules = false;
-      sha256 = "sha256-H6Y3sTEhN7/gQDuIG0hXpykw0fDzEB55J44b2OoZkGE=";
+      sha256 = "sha256-4l9JdLslVEQ7CJ0kQlLu0rvmXaUGkLj4HAV0m0UFoDA=";
     });
   };
   ibus = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9a264dac014f6d82c13222f762cf5a65a2d9a91b";
+    version = "d05dd41bc18780b5271cce26d8a22428606fd92d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9a264dac014f6d82c13222f762cf5a65a2d9a91b";
+      rev = "d05dd41bc18780b5271cce26d8a22428606fd92d";
       fetchSubmodules = false;
-      sha256 = "sha256-5EvE5FhlekaoO+OaQqYt9hAXpo4QInXlwBis3xbslOg=";
+      sha256 = "sha256-QOVusiIRdmv89WF4md26chMIOWTWRnQq5HgsURDc2xE=";
     });
   };
   tailscale-systray = {
@@ -1253,7 +1253,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "e132db014c56e8fbcc0dc80d0891c32701068c9a";
+    version = "6e3e6a7e80fe1c2691f1256cfacbbc655869d6ff";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
