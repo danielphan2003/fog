@@ -199,13 +199,13 @@
   };
   caddy-dist = {
     pname = "caddy-dist";
-    version = "v2.6.1";
+    version = "v2.6.2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "dist";
-      rev = "v2.6.1";
+      rev = "v2.6.2";
       fetchSubmodules = false;
-      sha256 = "sha256-C9nFl7/ZV5fFYzBKz/PwYhDmY7Asq41aZwj50PLeo6I=";
+      sha256 = "sha256-bctRc2klaV2JbB4KRWk5n/ACQ/7KlgaMKHae7SIQs+0=";
     });
   };
   caddy-git = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29";
+    version = "b2855cfd86425ff1129dfdb3cba120fdfdb19152";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29";
+      rev = "b2855cfd86425ff1129dfdb3cba120fdfdb19152";
       fetchSubmodules = false;
-      sha256 = "sha256-lhBtuPQ3UfEtfzg8vp+8nW1Ph+MzfLyxMIC/iFsLDLE=";
+      sha256 = "sha256-l8Rl1LoOJhqfrSeTzvK9dFso/eiedg8vRIa+q6eV1cE=";
     });
   };
   tailscale-systray = {

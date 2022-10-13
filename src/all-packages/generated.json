@@ -340,11 +340,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "dist",
-            "rev": "v2.6.1",
-            "sha256": "sha256-C9nFl7/ZV5fFYzBKz/PwYhDmY7Asq41aZwj50PLeo6I=",
+            "rev": "v2.6.2",
+            "sha256": "sha256-bctRc2klaV2JbB4KRWk5n/ACQ/7KlgaMKHae7SIQs+0=",
             "type": "github"
         },
-        "version": "v2.6.1"
+        "version": "v2.6.2"
     },
     "caddy-git": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29",
-            "sha256": "sha256-lhBtuPQ3UfEtfzg8vp+8nW1Ph+MzfLyxMIC/iFsLDLE=",
+            "rev": "b2855cfd86425ff1129dfdb3cba120fdfdb19152",
+            "sha256": "sha256-l8Rl1LoOJhqfrSeTzvK9dFso/eiedg8vRIa+q6eV1cE=",
             "type": "github"
         },
-        "version": "4ec6d41682c7daa1e4b983e6d02d28c5f5ba1b29"
+        "version": "b2855cfd86425ff1129dfdb3cba120fdfdb19152"
     },
     "tailscale-systray": {
         "cargoLocks": null,
