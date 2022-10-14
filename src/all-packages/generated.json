@@ -2121,8 +2121,10 @@
     "vaultwarden": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./vaultwarden-1.25.2/Cargo.lock",
-                {}
+                "./vaultwarden-1.26.0/Cargo.lock",
+                {
+                    "multer-2.0.4": "sha256-962onbcPUjkoIGSQTnF8m1fkamwThpPj4uBJ8EqbouQ="
+                }
             ]
         },
         "extract": null,
@@ -2136,11 +2138,11 @@
             "name": null,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "rev": "1.25.2",
-            "sha256": "sha256-6CpdvLCw7SUmWm9NHAxFAo454Rrp1FloDp67YAr0pjQ=",
+            "rev": "1.26.0",
+            "sha256": "sha256-LPIc1odUBvjVJty3GYYFNhile4XBWMisLUeVtWH6xgE=",
             "type": "github"
         },
-        "version": "1.25.2"
+        "version": "1.26.0"
     },
     "vaultwarden-vault": {
         "cargoLocks": null,

@@ -1283,18 +1283,18 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "1.25.2";
+    version = "1.26.0";
     src = fetchFromGitHub ({
       owner = "dani-garcia";
       repo = "vaultwarden";
-      rev = "1.25.2";
+      rev = "1.26.0";
       fetchSubmodules = false;
-      sha256 = "sha256-6CpdvLCw7SUmWm9NHAxFAo454Rrp1FloDp67YAr0pjQ=";
+      sha256 = "sha256-LPIc1odUBvjVJty3GYYFNhile4XBWMisLUeVtWH6xgE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./vaultwarden-1.25.2/Cargo.lock;
+      lockFile = ./vaultwarden-1.26.0/Cargo.lock;
       outputHashes = {
-        
+        "multer-2.0.4" = "sha256-962onbcPUjkoIGSQTnF8m1fkamwThpPj4uBJ8EqbouQ=";
       };
     };
   };
