@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "c948324cf25d46754a4d4c0877119eec3e4886a1";
+    version = "aca6218c0a32b6ea45b57c7922593fde4a520a70";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "c948324cf25d46754a4d4c0877119eec3e4886a1";
+      rev = "aca6218c0a32b6ea45b57c7922593fde4a520a70";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-iRuuXQUEiOGq7TXcily451dZ+TcN9VDllTiG/grr2dU=";
+      sha256 = "sha256-IrySGRg23BKg5f7fWRBy5YqtmSNGK4jZeAy+g/WJsio=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-c948324cf25d46754a4d4c0877119eec3e4886a1/Cargo.lock;
+      lockFile = ./conduit-aca6218c0a32b6ea45b57c7922593fde4a520a70/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -318,13 +318,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "94cba8cf78001f60c5a9584ab07b17451434f784";
+    version = "c7486306910679112728c8766e99689c7e163b01";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "94cba8cf78001f60c5a9584ab07b17451434f784";
+      rev = "c7486306910679112728c8766e99689c7e163b01";
       fetchSubmodules = false;
-      sha256 = "sha256-sZ/T08BT/pg83b3E3cS3+7glKzerHdIIX7irIIYPhWA=";
+      sha256 = "sha256-MHDpqAkVizxLTrXTpIYu32nSBPo6jTrqqPBijj9hE/E=";
     });
   };
   doggo = {
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "b4bf23cd34bb2f8011372c3e0d527304044bd75e";
+    version = "7e4a4c88bede2ff07b017624f915b15f29ffb7d4";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "b4bf23cd34bb2f8011372c3e0d527304044bd75e";
+      rev = "7e4a4c88bede2ff07b017624f915b15f29ffb7d4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DDjS1qhQxgaToAz2Bw8ZePfVU4ZFEIlZjJMtKA00uNs=";
+      sha256 = "sha256-tdNvIxJAbTOsvCmjO0NwCWIVunihwjgLvtI0X0JgpjM=";
     };
   };
   flyingfox = {
