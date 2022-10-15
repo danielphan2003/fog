@@ -195,11 +195,11 @@
         "yants": "yants"
       },
       "locked": {
-        "lastModified": 1665598716,
-        "narHash": "sha256-WV/CNP4y0YaCBphzMRRkGg5AKFbkYUXr+IcbwWl6N08=",
+        "lastModified": 1665797767,
+        "narHash": "sha256-90A2j2QrR3cYSq1Il8MIzZOoh/uu17I99zfFVb/99xA=",
         "owner": "divnix",
         "repo": "std",
-        "rev": "83d447b6a333535f795d39bd85f642247a3e7f9a",
+        "rev": "80c98af89b1fdc1ffb30aab2855ffd3bc7defdc3",
         "type": "github"
       },
       "original": {
