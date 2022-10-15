@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-3054af41baa4a16f7232d808b9fa13c0b5bba0f0/Cargo.lock",
+                "./conduit-cb2b5beea8a3fb27ed514ee9e46b5729aa272179/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3054af41baa4a16f7232d808b9fa13c0b5bba0f0",
-            "sha256": "sha256-3CRFAy9IPUVh8WMzcmXdfntHbMXiXe3La1LUJk3Yv7Y=",
+            "rev": "cb2b5beea8a3fb27ed514ee9e46b5729aa272179",
+            "sha256": "sha256-PeKhXmTuc0d7raKlPlSfcPc678osgu12I4t6lqaAD4A=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "3054af41baa4a16f7232d808b9fa13c0b5bba0f0"
+        "version": "cb2b5beea8a3fb27ed514ee9e46b5729aa272179"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "bbd6c0ae9a2b307961f43631ad1e88e03de425b2",
-            "sha256": "sha256-HAzGbL0OrUSjNAKslGvgsL3q/VmWo6ApcsGPhE3egTk=",
+            "rev": "e62abac647bfc31bee9a9ec23c1dd4cdab8595bf",
+            "sha256": "sha256-byqMfjUsT8Xt6K81s9gWg8OtNeiYTKpz4nfKf4RVwKg=",
             "type": "github"
         },
-        "version": "bbd6c0ae9a2b307961f43631ad1e88e03de425b2"
+        "version": "e62abac647bfc31bee9a9ec23c1dd4cdab8595bf"
     },
     "revanced-cli": {
         "cargoLocks": null,
