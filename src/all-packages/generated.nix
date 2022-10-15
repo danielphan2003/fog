@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "b1991c8f4fff27557cc0b465c10a6d1b98d98714";
+    version = "3054af41baa4a16f7232d808b9fa13c0b5bba0f0";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "b1991c8f4fff27557cc0b465c10a6d1b98d98714";
+      rev = "3054af41baa4a16f7232d808b9fa13c0b5bba0f0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-qsznNeJB7spgKq77AeLUS1YzGJ2MokwYvbkP6gYoBFc=";
+      sha256 = "sha256-3CRFAy9IPUVh8WMzcmXdfntHbMXiXe3La1LUJk3Yv7Y=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-b1991c8f4fff27557cc0b465c10a6d1b98d98714/Cargo.lock;
+      lockFile = ./conduit-3054af41baa4a16f7232d808b9fa13c0b5bba0f0/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -1089,13 +1089,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c7d4cffbd3beb5b115980c573c4b274cb77e8dc9";
+    version = "e7cebd49e937b71879d0e5e0fe68c9194b6a8f98";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "c7d4cffbd3beb5b115980c573c4b274cb77e8dc9";
+      rev = "e7cebd49e937b71879d0e5e0fe68c9194b6a8f98";
       fetchSubmodules = false;
-      sha256 = "sha256-AkjpGioGPcAaeeAzXHZq/RBfCFX49Vpx3VZ+D+H6y8Q=";
+      sha256 = "sha256-+Uxw5g4sYkRSjMJbQN8npSAUaFdg9SHJwfZmGfs3Jjo=";
     });
   };
   spicetify-marketplace = {
