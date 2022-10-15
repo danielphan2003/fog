@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "d59a118e83938558ee1ab71f00ec95835dc2b592",
-            "sha256": "sha256-GmTojtEtbDHVpsMaEogpN6GG+Y1SDOTDkZuoJMLIOus=",
+            "rev": "81b88477bd18dfb771eebd78047494b9ef5557d0",
+            "sha256": "sha256-o5MBPWHAfBhoxNo47fULFMX7kxn1b/EGDCACB6pPg48=",
             "type": "github"
         },
-        "version": "d59a118e83938558ee1ab71f00ec95835dc2b592"
+        "version": "81b88477bd18dfb771eebd78047494b9ef5557d0"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -401,7 +401,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-9d2b39a418cf4908df17295738cffb4229570fcb/src-tauri/Cargo.lock",
+                "./cinny-desktop-4e3609e4973a821d886fd491a8018b97465d5f82/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "9d2b39a418cf4908df17295738cffb4229570fcb",
-            "sha256": "sha256-2DM3Eoont/UPk5LGwVofTzt4cKuK6vCfyO82PoEwxps=",
+            "rev": "4e3609e4973a821d886fd491a8018b97465d5f82",
+            "sha256": "sha256-vasvKKsOI/Rg0grhJWqHOrXLONq4qCugSR+C+u7Ix7k=",
             "type": "github"
         },
-        "version": "9d2b39a418cf4908df17295738cffb4229570fcb"
+        "version": "4e3609e4973a821d886fd491a8018b97465d5f82"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-aca6218c0a32b6ea45b57c7922593fde4a520a70/Cargo.lock",
+                "./conduit-b1991c8f4fff27557cc0b465c10a6d1b98d98714/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aca6218c0a32b6ea45b57c7922593fde4a520a70",
-            "sha256": "sha256-IrySGRg23BKg5f7fWRBy5YqtmSNGK4jZeAy+g/WJsio=",
+            "rev": "b1991c8f4fff27557cc0b465c10a6d1b98d98714",
+            "sha256": "sha256-qsznNeJB7spgKq77AeLUS1YzGJ2MokwYvbkP6gYoBFc=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "aca6218c0a32b6ea45b57c7922593fde4a520a70"
+        "version": "b1991c8f4fff27557cc0b465c10a6d1b98d98714"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "74d7aa3691774b9a39bf025282da198001d9aee7",
-            "sha256": "sha256-JrDNHT02Ml1L53Xq+yuHzpbNNAOVmeDThLPuYCStMCQ=",
+            "rev": "bbd6c0ae9a2b307961f43631ad1e88e03de425b2",
+            "sha256": "sha256-HAzGbL0OrUSjNAKslGvgsL3q/VmWo6ApcsGPhE3egTk=",
             "type": "github"
         },
-        "version": "74d7aa3691774b9a39bf025282da198001d9aee7"
+        "version": "bbd6c0ae9a2b307961f43631ad1e88e03de425b2"
     },
     "revanced-cli": {
         "cargoLocks": null,
