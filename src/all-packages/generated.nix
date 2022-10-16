@@ -820,10 +820,10 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.47.1";
+    version = "1.48.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.47.1.tar.gz";
-      sha256 = "sha256-tv8n6aeATLyD8xgvPRTkcseMj+ezqDs0z+Y2T7jVnDw=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz";
+      sha256 = "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=";
     };
   };
   pmbootstrap-test = {

@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tv8n6aeATLyD8xgvPRTkcseMj+ezqDs0z+Y2T7jVnDw=",
+            "sha256": "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.47.1.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz"
         },
-        "version": "1.47.1"
+        "version": "1.48.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
