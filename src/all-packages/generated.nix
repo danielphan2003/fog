@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "6bad878a22e048762262d6fabe2144cefaf4ca81";
+    version = "1cd594963eb54b011764e1172b18aabd3bde90d3";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "6bad878a22e048762262d6fabe2144cefaf4ca81";
+      rev = "1cd594963eb54b011764e1172b18aabd3bde90d3";
       fetchSubmodules = false;
-      sha256 = "sha256-Tbf6RB3106OEZGc/Wx7vk+I82Z8/Q3WqnID4f8uZ6z0=";
+      sha256 = "sha256-1DxkvILmTr8z0foh22INacRsUJ0JBtiCO1PibSwFWZM=";
     });
   };
   cinny = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "35784a5fd70b9231d7c2a552e28c5dc0ba8428ea";
+    version = "d2c39ce5d83382dec42518c0a7ebead44e5a5923";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "35784a5fd70b9231d7c2a552e28c5dc0ba8428ea";
+      rev = "d2c39ce5d83382dec42518c0a7ebead44e5a5923";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-rh4CnEFMwPzX5qVOCx4ArD78P7hRTmECPAkweDVZDj4=";
+      sha256 = "sha256-tHoRWW5BMXlKFginXDtFyzX7xepAxmJYR41HU6Bmrtw=";
     };
   };
   pure = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "df879b52cda2feca4fb2577f37472e2d11eab4a6";
+    version = "415925c5dc73e9f080d8edf36398434038648507";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "df879b52cda2feca4fb2577f37472e2d11eab4a6";
+      rev = "415925c5dc73e9f080d8edf36398434038648507";
       fetchSubmodules = false;
-      sha256 = "sha256-EtRY8gS0xYECt0yEpNoJ7QxPDkvdDqrOXhlsB1TBGPc=";
+      sha256 = "sha256-vAzNA8U5GIFN9f2RA1WI0fCSoZZCrYJ0l+7n/XNtR9E=";
     });
   };
   revanced-cli = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4eed2883db7875e3f2efc66da6c6924da103458a";
+    version = "19dfdeb1bb23e7805da8f9482a6afd0a0c019e3f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4eed2883db7875e3f2efc66da6c6924da103458a";
+      rev = "19dfdeb1bb23e7805da8f9482a6afd0a0c019e3f";
       fetchSubmodules = false;
-      sha256 = "sha256-Oi2Tk0mSePTvd0O4l8qtlrp0Vr0cINXWxFy+QW8mi8I=";
+      sha256 = "sha256-5st/g1N3XJqdUVikX/6o+Zp/lR4w1nVrpy3pvNpDBlg=";
     });
   };
   tailscale-systray = {
@@ -1360,13 +1360,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "d002bf27f55a7fa3907cd72333aa2e5bcceb0731";
+    version = "6dca396b5339e07f30db196a93ebd99830a58f11";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "d002bf27f55a7fa3907cd72333aa2e5bcceb0731";
+      rev = "6dca396b5339e07f30db196a93ebd99830a58f11";
       fetchSubmodules = false;
-      sha256 = "sha256-Y+PmGV13EKKaI/ML5QacDovu9JJlxtbB3LGfUm+9rz8=";
+      sha256 = "sha256-Y/ljSXQwd+U+1WFg1RQDJ2Oxr72HHLKqX2ZVVtaiADw=";
     });
   };
   widevine-cdm = {
