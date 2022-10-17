@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "1cd594963eb54b011764e1172b18aabd3bde90d3";
+    version = "a999b707276dbcc9a5424c90c084923e303e5d89";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "1cd594963eb54b011764e1172b18aabd3bde90d3";
+      rev = "a999b707276dbcc9a5424c90c084923e303e5d89";
       fetchSubmodules = false;
-      sha256 = "sha256-1DxkvILmTr8z0foh22INacRsUJ0JBtiCO1PibSwFWZM=";
+      sha256 = "sha256-HxyzzaPvoqY4AihgytydA8dEv+E8soBdYXC6SJ810tc=";
     });
   };
   cinny = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "4e3609e4973a821d886fd491a8018b97465d5f82";
+    version = "59d1a2c57e7f8e454c7fde8230e12339b84262d5";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "4e3609e4973a821d886fd491a8018b97465d5f82";
+      rev = "59d1a2c57e7f8e454c7fde8230e12339b84262d5";
       fetchSubmodules = true;
-      sha256 = "sha256-vasvKKsOI/Rg0grhJWqHOrXLONq4qCugSR+C+u7Ix7k=";
+      sha256 = "sha256-nMRNyAC3ViKCvBi5O6NRdIr5a8G1aDdmbP2U/0E5Hwg=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-4e3609e4973a821d886fd491a8018b97465d5f82/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-59d1a2c57e7f8e454c7fde8230e12339b84262d5/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "6d70240c140592a5a95b7296963c8f0d60fe8507";
+    version = "ef057b1775eb46096afcd01cc8c71f39f7a8c6a2";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "6d70240c140592a5a95b7296963c8f0d60fe8507";
+      rev = "ef057b1775eb46096afcd01cc8c71f39f7a8c6a2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PTNf9XUetFPfaWt0hzpqFU3aiwI0V1JvE7guD4Pp8No=";
+      sha256 = "sha256-QTAmN0NgRf9G+oVZFsSrCfBZqznDTUqEdphw5Ap+wUs=";
     };
   };
   flyingfox = {
@@ -1360,13 +1360,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "6dca396b5339e07f30db196a93ebd99830a58f11";
+    version = "c1ff3f946e6d107a67a50d14359228b87616bc60";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "6dca396b5339e07f30db196a93ebd99830a58f11";
+      rev = "c1ff3f946e6d107a67a50d14359228b87616bc60";
       fetchSubmodules = false;
-      sha256 = "sha256-Y/ljSXQwd+U+1WFg1RQDJ2Oxr72HHLKqX2ZVVtaiADw=";
+      sha256 = "sha256-BN1hd6aixboLKhnYPweTKp3OPI25rvu4jHUfMmZs49k=";
     });
   };
   widevine-cdm = {
