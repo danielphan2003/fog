@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ecf0cdaba4f8da4922bbf8c2cc607b9f5e9ae3b6",
-            "sha256": "sha256-MXO9JIzsWKiiSW4w2oa4aQptSRgN3VTsdIcoxFO0rjg=",
+            "rev": "dc1737f12891957c9989f0fb732f404e67dc425e",
+            "sha256": "sha256-afSgOGYknowKaiHTgWpWUR9wQ4cdiK9/boJddIcflIE=",
             "type": "github"
         },
-        "version": "ecf0cdaba4f8da4922bbf8c2cc607b9f5e9ae3b6"
+        "version": "dc1737f12891957c9989f0fb732f404e67dc425e"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zX4ts0xK/3ih/Duu6qmkT/rgBQwPUvgxo6ogorx6Z/I=",
+            "sha256": "sha256-ZtYCILK2ekVkWOf9hzGyDVq7bKGYYieNsorMNIm4J7g=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6704.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6706.tar.bz2"
         },
-        "version": "1.0.6704"
+        "version": "1.0.6706"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vNfoE6Ox6gnANrsCEbCkROzH37DXjf1qW01LV/wzr8w=",
+            "sha256": "sha256-F23oqsZl5OEpBak7P4NYdEc5JVHasHmWmSz3OiVAzDM=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6704-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6706-1_all.deb"
         },
-        "version": "1.0.6704"
+        "version": "1.0.6706"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-7cccdd1738867a971b61d5ac90c7f3d58b55c660/Cargo.lock",
+                "./supergfxctl-a9865148fffe95de19b2322d933681a16f4b43b2/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7cccdd1738867a971b61d5ac90c7f3d58b55c660",
-            "sha256": "sha256-NIaIin6KB3WtJkEbqvP6xJa/H2V4AaT+8zqERmw+N/w=",
+            "rev": "a9865148fffe95de19b2322d933681a16f4b43b2",
+            "sha256": "sha256-obfCbJ6/+cJqBXKWcZprFClzbLw9XzEDmEz0+6YMNN0=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "7cccdd1738867a971b61d5ac90c7f3d58b55c660"
+        "version": "a9865148fffe95de19b2322d933681a16f4b43b2"
     },
     "sway-borders": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "14100c0985ae520e039fa3b9ed9e71e06077e901",
-            "sha256": "sha256-gSNm8bEtGuPVm6PjBB+qiPFImXMAPZ/4VP/RDcOY9VA=",
+            "rev": "246274b8e916746d175e41b3d9b3c942dd8c0df5",
+            "sha256": "sha256-hbgtP2Cy3r2XYs4uzqZjCAjxI95RGpVjOa/uS/74DX8=",
             "type": "github"
         },
-        "version": "14100c0985ae520e039fa3b9ed9e71e06077e901"
+        "version": "246274b8e916746d175e41b3d9b3c942dd8c0df5"
     },
     "tailscale-systray": {
         "cargoLocks": null,

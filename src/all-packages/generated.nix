@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ecf0cdaba4f8da4922bbf8c2cc607b9f5e9ae3b6";
+    version = "dc1737f12891957c9989f0fb732f404e67dc425e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ecf0cdaba4f8da4922bbf8c2cc607b9f5e9ae3b6";
+      rev = "dc1737f12891957c9989f0fb732f404e67dc425e";
       fetchSubmodules = false;
-      sha256 = "sha256-MXO9JIzsWKiiSW4w2oa4aQptSRgN3VTsdIcoxFO0rjg=";
+      sha256 = "sha256-afSgOGYknowKaiHTgWpWUR9wQ4cdiK9/boJddIcflIE=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6704";
+    version = "1.0.6706";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6704.tar.bz2";
-      sha256 = "sha256-zX4ts0xK/3ih/Duu6qmkT/rgBQwPUvgxo6ogorx6Z/I=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6706.tar.bz2";
+      sha256 = "sha256-ZtYCILK2ekVkWOf9hzGyDVq7bKGYYieNsorMNIm4J7g=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6704";
+    version = "1.0.6706";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6704-1_all.deb";
-      sha256 = "sha256-vNfoE6Ox6gnANrsCEbCkROzH37DXjf1qW01LV/wzr8w=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6706-1_all.deb";
+      sha256 = "sha256-F23oqsZl5OEpBak7P4NYdEc5JVHasHmWmSz3OiVAzDM=";
     };
   };
   jitsi-videobridge2 = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "7cccdd1738867a971b61d5ac90c7f3d58b55c660";
+    version = "a9865148fffe95de19b2322d933681a16f4b43b2";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "7cccdd1738867a971b61d5ac90c7f3d58b55c660";
+      rev = "a9865148fffe95de19b2322d933681a16f4b43b2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NIaIin6KB3WtJkEbqvP6xJa/H2V4AaT+8zqERmw+N/w=";
+      sha256 = "sha256-obfCbJ6/+cJqBXKWcZprFClzbLw9XzEDmEz0+6YMNN0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-7cccdd1738867a971b61d5ac90c7f3d58b55c660/Cargo.lock;
+      lockFile = ./supergfxctl-a9865148fffe95de19b2322d933681a16f4b43b2/Cargo.lock;
       outputHashes = {
         
       };
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "14100c0985ae520e039fa3b9ed9e71e06077e901";
+    version = "246274b8e916746d175e41b3d9b3c942dd8c0df5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "14100c0985ae520e039fa3b9ed9e71e06077e901";
+      rev = "246274b8e916746d175e41b3d9b3c942dd8c0df5";
       fetchSubmodules = false;
-      sha256 = "sha256-gSNm8bEtGuPVm6PjBB+qiPFImXMAPZ/4VP/RDcOY9VA=";
+      sha256 = "sha256-hbgtP2Cy3r2XYs4uzqZjCAjxI95RGpVjOa/uS/74DX8=";
     });
   };
   tailscale-systray = {
