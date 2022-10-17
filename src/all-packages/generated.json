@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QROQDCJlif+wUgmhzqxh4TCnqftrYZgKEKtnUM2qLRo=",
+            "sha256": "sha256-GY8AZuBiGz626eo9BZOes0ki42nHnK57h+IoN5GVf3o=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6701.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6702.tar.bz2"
         },
-        "version": "1.0.6701"
+        "version": "1.0.6702"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gdTYkNp+sBmD0tOhKEJWt0TIT6Ic4sS066roiiDxVBQ=",
+            "sha256": "sha256-2vNgpinZxOpCVRvA+DK2hJSqZmt3FLJsGOiBxXQFhFI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6701-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6702-1_all.deb"
         },
-        "version": "1.0.6701"
+        "version": "1.0.6702"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1248,7 +1248,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-645ad65c725c1a68cb5b01b807e4ea45052f2319/Cargo.lock",
+                "./ouch-dcd225777ea4c27fbb906c65f15b4ffa061e484f/Cargo.lock",
                 {}
             ]
         },
@@ -1263,11 +1263,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "645ad65c725c1a68cb5b01b807e4ea45052f2319",
-            "sha256": "sha256-qEoOGjcDyILiWFJ174YxLxOnYas6eGCyTDnRoc2X6FY=",
+            "rev": "dcd225777ea4c27fbb906c65f15b4ffa061e484f",
+            "sha256": "sha256-hbdMQovzbSjCd3vquMN2J7VgxWG9HitKX/QJnn8V1Y4=",
             "type": "github"
         },
-        "version": "645ad65c725c1a68cb5b01b807e4ea45052f2319"
+        "version": "dcd225777ea4c27fbb906c65f15b4ffa061e484f"
     },
     "paper": {
         "cargoLocks": {
@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "eb15b8b6d50daa84866743bdad95827806f38537",
-            "sha256": "sha256-o6LUQDpIUMz6KTFWW0p9Myn6DyMk1RVgvVcHWoefTsU=",
+            "rev": "e6d89c86893376b233ff95a0dcf22c97b42aee95",
+            "sha256": "sha256-5YR0lnP3FKNMBaWOUZ0JbR63xARR5oCe1taOxK446Vo=",
             "type": "github"
         },
-        "version": "eb15b8b6d50daa84866743bdad95827806f38537"
+        "version": "e6d89c86893376b233ff95a0dcf22c97b42aee95"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
