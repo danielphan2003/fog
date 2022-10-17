@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ef057b1775eb46096afcd01cc8c71f39f7a8c6a2";
+    version = "ad904de95423b6a6db55c33915ad74c340461a8c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ef057b1775eb46096afcd01cc8c71f39f7a8c6a2";
+      rev = "ad904de95423b6a6db55c33915ad74c340461a8c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QTAmN0NgRf9G+oVZFsSrCfBZqznDTUqEdphw5Ap+wUs=";
+      sha256 = "sha256-BR/EIpLD0Tv26RpXcwk5wmiSCJXsvqWa0v5Iyoao34c=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "58375bc87a189c915d12ad93d202462427e239ac";
+    version = "da4cfb9c32fecf2e5d2fa065c9e180a2bdec76a3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "58375bc87a189c915d12ad93d202462427e239ac";
+      rev = "da4cfb9c32fecf2e5d2fa065c9e180a2bdec76a3";
       fetchSubmodules = false;
-      sha256 = "sha256-h28jGbOaZCUCPWEtzyWuPpR6XXEmOYB3rjjj0DXhwgo=";
+      sha256 = "sha256-K4rxS7uj3DfCkdS65BfhNJlEIou4VV5+qAoekrbxroU=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6696";
+    version = "1.0.6698";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6696.tar.bz2";
-      sha256 = "sha256-M2k3+yAewF8GRoFM3p2peWozqPMmiWNvic+AXQ36Nss=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6698.tar.bz2";
+      sha256 = "sha256-Qv6iI3tIuK7RcPAE/35sDDhpIoNNAwj1v2WqEWjDljw=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6696";
+    version = "1.0.6698";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6696-1_all.deb";
-      sha256 = "sha256-c1OqoWjYG30CQM2dirkUCtVYvwVyoPIqMdSGrjFjLH4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6698-1_all.deb";
+      sha256 = "sha256-DSdAK8XJj7Jt//oEoSJchHu/Yoz81A3J7y0zkB/X6ww=";
     };
   };
   jitsi-videobridge2 = {
