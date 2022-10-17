@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-a9865148fffe95de19b2322d933681a16f4b43b2/Cargo.lock",
+                "./supergfxctl-db92d9a4251266995056e2fb3187d4f7199a1b3c/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a9865148fffe95de19b2322d933681a16f4b43b2",
-            "sha256": "sha256-obfCbJ6/+cJqBXKWcZprFClzbLw9XzEDmEz0+6YMNN0=",
+            "rev": "db92d9a4251266995056e2fb3187d4f7199a1b3c",
+            "sha256": "sha256-LX+T17pF/Qc9NX5+fmMhNqi7vA5EmeC0iQbmyIC0Q6Y=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "a9865148fffe95de19b2322d933681a16f4b43b2"
+        "version": "db92d9a4251266995056e2fb3187d4f7199a1b3c"
     },
     "sway-borders": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "246274b8e916746d175e41b3d9b3c942dd8c0df5",
-            "sha256": "sha256-hbgtP2Cy3r2XYs4uzqZjCAjxI95RGpVjOa/uS/74DX8=",
+            "rev": "37da61738087d025c3cacd64bf14f09b2b314618",
+            "sha256": "sha256-rTBBga9eUm/j8Uot++Y0xm0e/gD/klTfNHIHXX3BLLk=",
             "type": "github"
         },
-        "version": "246274b8e916746d175e41b3d9b3c942dd8c0df5"
+        "version": "37da61738087d025c3cacd64bf14f09b2b314618"
     },
     "tailscale-systray": {
         "cargoLocks": null,
