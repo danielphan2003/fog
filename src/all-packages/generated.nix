@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6700";
+    version = "1.0.6701";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6700.tar.bz2";
-      sha256 = "sha256-NVKlEcfhmj7TWBUzeUxHFcePa+4R1VNswOEhPKtGdKM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6701.tar.bz2";
+      sha256 = "sha256-QROQDCJlif+wUgmhzqxh4TCnqftrYZgKEKtnUM2qLRo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6700";
+    version = "1.0.6701";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6700-1_all.deb";
-      sha256 = "sha256-Ks1uKoQTRXHtPhGe68Sszj/7HTM0nAgOe/l1QadXH90=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6701-1_all.deb";
+      sha256 = "sha256-gdTYkNp+sBmD0tOhKEJWt0TIT6Ic4sS066roiiDxVBQ=";
     };
   };
   jitsi-videobridge2 = {
