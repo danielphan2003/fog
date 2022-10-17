@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3U3v6n942q/hYmXQWhg5C/nD63syUzY0REKptkz1TMc=",
+            "sha256": "sha256-M2k3+yAewF8GRoFM3p2peWozqPMmiWNvic+AXQ36Nss=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6694.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6696.tar.bz2"
         },
-        "version": "1.0.6694"
+        "version": "1.0.6696"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uyLDnYAd4h2Zd1S/rYTV9X7J+vYeMbM5qWgFp9MmAoI=",
+            "sha256": "sha256-c1OqoWjYG30CQM2dirkUCtVYvwVyoPIqMdSGrjFjLH4=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6694-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6696-1_all.deb"
         },
-        "version": "1.0.6694"
+        "version": "1.0.6696"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-8b1f78d84f114b833fc44cea580f28351283bf4e/Cargo.lock",
+                "./rustdesk-de6c0693cfb57ddcf472f4e4506036252e9a1962/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "8b1f78d84f114b833fc44cea580f28351283bf4e",
-            "sha256": "sha256-YO5mbOV0HyTrgQeZ7aFdAW6Rq5jbYscpPuFDRQEtwFs=",
+            "rev": "de6c0693cfb57ddcf472f4e4506036252e9a1962",
+            "sha256": "sha256-HhGblpfKDfOe9SPdDs7Jow6x2baClmBh0kG/LI2uiXo=",
             "type": "github"
         },
-        "version": "8b1f78d84f114b833fc44cea580f28351283bf4e"
+        "version": "de6c0693cfb57ddcf472f4e4506036252e9a1962"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-2c476d9c04a0337c744f41d1b5420b9164b67e0b/Cargo.lock",
+                "./supergfxctl-7cccdd1738867a971b61d5ac90c7f3d58b55c660/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2c476d9c04a0337c744f41d1b5420b9164b67e0b",
-            "sha256": "sha256-x802aslOBpQuIM0flOQL9Zvp0hhMiFOHKeCoMmTY8gk=",
+            "rev": "7cccdd1738867a971b61d5ac90c7f3d58b55c660",
+            "sha256": "sha256-NIaIin6KB3WtJkEbqvP6xJa/H2V4AaT+8zqERmw+N/w=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "2c476d9c04a0337c744f41d1b5420b9164b67e0b"
+        "version": "7cccdd1738867a971b61d5ac90c7f3d58b55c660"
     },
     "sway-borders": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "af966391c76576f10cd898ae70f2fe1ee59d9cbd",
-            "sha256": "sha256-lKb/e7ziE3AzWQlOT48WpRFb+Dr9wM3fjwni64A/ZUA=",
+            "rev": "b55761246b370c459d46cc0a1c5b60f76e781f83",
+            "sha256": "sha256-WlBL9slJ+5UwSEsDZ0Ja8Q9eURi392AgJjOCIGaW25s=",
             "type": "github"
         },
-        "version": "af966391c76576f10cd898ae70f2fe1ee59d9cbd"
+        "version": "b55761246b370c459d46cc0a1c5b60f76e781f83"
     },
     "tailscale-systray": {
         "cargoLocks": null,

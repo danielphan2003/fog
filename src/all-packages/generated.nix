@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6694";
+    version = "1.0.6696";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6694.tar.bz2";
-      sha256 = "sha256-3U3v6n942q/hYmXQWhg5C/nD63syUzY0REKptkz1TMc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6696.tar.bz2";
+      sha256 = "sha256-M2k3+yAewF8GRoFM3p2peWozqPMmiWNvic+AXQ36Nss=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6694";
+    version = "1.0.6696";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6694-1_all.deb";
-      sha256 = "sha256-uyLDnYAd4h2Zd1S/rYTV9X7J+vYeMbM5qWgFp9MmAoI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6696-1_all.deb";
+      sha256 = "sha256-c1OqoWjYG30CQM2dirkUCtVYvwVyoPIqMdSGrjFjLH4=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8b1f78d84f114b833fc44cea580f28351283bf4e";
+    version = "de6c0693cfb57ddcf472f4e4506036252e9a1962";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8b1f78d84f114b833fc44cea580f28351283bf4e";
+      rev = "de6c0693cfb57ddcf472f4e4506036252e9a1962";
       fetchSubmodules = false;
-      sha256 = "sha256-YO5mbOV0HyTrgQeZ7aFdAW6Rq5jbYscpPuFDRQEtwFs=";
+      sha256 = "sha256-HhGblpfKDfOe9SPdDs7Jow6x2baClmBh0kG/LI2uiXo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8b1f78d84f114b833fc44cea580f28351283bf4e/Cargo.lock;
+      lockFile = ./rustdesk-de6c0693cfb57ddcf472f4e4506036252e9a1962/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "2c476d9c04a0337c744f41d1b5420b9164b67e0b";
+    version = "7cccdd1738867a971b61d5ac90c7f3d58b55c660";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "2c476d9c04a0337c744f41d1b5420b9164b67e0b";
+      rev = "7cccdd1738867a971b61d5ac90c7f3d58b55c660";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-x802aslOBpQuIM0flOQL9Zvp0hhMiFOHKeCoMmTY8gk=";
+      sha256 = "sha256-NIaIin6KB3WtJkEbqvP6xJa/H2V4AaT+8zqERmw+N/w=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-2c476d9c04a0337c744f41d1b5420b9164b67e0b/Cargo.lock;
+      lockFile = ./supergfxctl-7cccdd1738867a971b61d5ac90c7f3d58b55c660/Cargo.lock;
       outputHashes = {
         
       };
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "af966391c76576f10cd898ae70f2fe1ee59d9cbd";
+    version = "b55761246b370c459d46cc0a1c5b60f76e781f83";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "af966391c76576f10cd898ae70f2fe1ee59d9cbd";
+      rev = "b55761246b370c459d46cc0a1c5b60f76e781f83";
       fetchSubmodules = false;
-      sha256 = "sha256-lKb/e7ziE3AzWQlOT48WpRFb+Dr9wM3fjwni64A/ZUA=";
+      sha256 = "sha256-WlBL9slJ+5UwSEsDZ0Ja8Q9eURi392AgJjOCIGaW25s=";
     });
   };
   tailscale-systray = {
