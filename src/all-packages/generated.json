@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "1625b8a665fc2a0b83c40512536f6adfdf307ade",
-            "sha256": "sha256-QIChbyf/UfAEWRRwUDS98q+WPb0e5R4WGhQORJJn8q8=",
+            "rev": "dbeac1f8eb846e08db71b192222186f393ad9ef4",
+            "sha256": "sha256-3Gm0htceKOtL9WNQ4xLV1e441Yixmm+vKatu4WRoguw=",
             "type": "github"
         },
-        "version": "1625b8a665fc2a0b83c40512536f6adfdf307ade"
+        "version": "dbeac1f8eb846e08db71b192222186f393ad9ef4"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -530,11 +530,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "c7486306910679112728c8766e99689c7e163b01",
-            "sha256": "sha256-MHDpqAkVizxLTrXTpIYu32nSBPo6jTrqqPBijj9hE/E=",
+            "rev": "09a691822627cdc6637adb73556f98536f28e3ee",
+            "sha256": "sha256-D9/2COekqluefsYqItjXyO5ZW4iWZnTnCQheN+jaG74=",
             "type": "github"
         },
-        "version": "c7486306910679112728c8766e99689c7e163b01"
+        "version": "09a691822627cdc6637adb73556f98536f28e3ee"
     },
     "doggo": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "37da61738087d025c3cacd64bf14f09b2b314618",
-            "sha256": "sha256-rTBBga9eUm/j8Uot++Y0xm0e/gD/klTfNHIHXX3BLLk=",
+            "rev": "9475801ebe3bec27635343a6b1daa7e7ff51a5ef",
+            "sha256": "sha256-uwSyuds9Iv1G9IVl9AyaQDk4oV8qhA0mlrUBUg6ErsY=",
             "type": "github"
         },
-        "version": "37da61738087d025c3cacd64bf14f09b2b314618"
+        "version": "9475801ebe3bec27635343a6b1daa7e7ff51a5ef"
     },
     "tailscale-systray": {
         "cargoLocks": null,
