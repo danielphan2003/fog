@@ -1093,11 +1093,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yHWzxGcYs7f0IJ2HThHFKbFyyhqjV106Hb1GQ51m228=",
+            "sha256": "sha256-lEufOfiezcUWuwCuAzlP6/BQkkhrQrnbxKH9N/9dVJ4=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.8-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.13-1_amd64.deb"
         },
-        "version": "107.0.1418.8"
+        "version": "107.0.1418.13"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "07ae7ff7f12e96acac1a8d7da7673cd56a21c945",
-            "sha256": "sha256-O1yNIM0AZJq1LzvAAtBXk1Mn/zsKV9qN7dAeeuDXLgc=",
+            "rev": "03c901dfb8a19470187a8eae91523a0349c6f2a0",
+            "sha256": "sha256-eCHDvrKqKrN9pcULajz7851yTvPO50w1nFrglCnMj1w=",
             "type": "github"
         },
-        "version": "07ae7ff7f12e96acac1a8d7da7673cd56a21c945"
+        "version": "03c901dfb8a19470187a8eae91523a0349c6f2a0"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Zca7jfC+SY2kLyusvJuTb3r1qiqnJsIcTbyf3DfyYgA=",
+            "sha256": "sha256-aJBSffIqizqatJIHA2uB4prUpZaX4CsI2/n1+DMZbmI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.82.1/revanced-patches-2.82.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.83.0/revanced-patches-2.83.0.jar"
         },
-        "version": "2.82.1"
+        "version": "2.83.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
