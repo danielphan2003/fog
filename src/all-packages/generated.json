@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "e6d89c86893376b233ff95a0dcf22c97b42aee95",
-            "sha256": "sha256-5YR0lnP3FKNMBaWOUZ0JbR63xARR5oCe1taOxK446Vo=",
+            "rev": "e4c86aa43124d1a05559c8538eef8795598afde9",
+            "sha256": "sha256-62bj0/dLzsJUvUIWQVZi+aElyOACJXII4AgVCVWl59I=",
             "type": "github"
         },
-        "version": "e6d89c86893376b233ff95a0dcf22c97b42aee95"
+        "version": "e4c86aa43124d1a05559c8538eef8795598afde9"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
