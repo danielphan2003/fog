@@ -401,13 +401,13 @@
   };
   firefox-sidebar = {
     pname = "firefox-sidebar";
-    version = "586c9ea4612b302ef85081e35b7368d2f7d5defd";
+    version = "20d4029dceb1eadec2887cd5f0956476b512b258";
     src = fetchFromGitHub ({
       owner = "drannex42";
       repo = "FirefoxSidebar";
-      rev = "586c9ea4612b302ef85081e35b7368d2f7d5defd";
+      rev = "20d4029dceb1eadec2887cd5f0956476b512b258";
       fetchSubmodules = false;
-      sha256 = "sha256-wExL88eRr+5wTQ6NP08f1mPq9/+2Xu1SIsJv1WdTVuU=";
+      sha256 = "sha256-ARIqWBzrJqAU528kH5wIotVipWpiyG/1JeXJFb31gSM=";
     });
   };
   flameshot = {
