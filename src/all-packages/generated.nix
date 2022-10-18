@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6707";
+    version = "1.0.6708";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6707.tar.bz2";
-      sha256 = "sha256-OhzVmQe8pLsyM09D15aUJTqcP5ipbfPLyympKRd8GEY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6708.tar.bz2";
+      sha256 = "sha256-FYVbJmjtTtRpw7PM73uLmPkMvByN9AfWy2Um5wIT/D0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6707";
+    version = "1.0.6708";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6707-1_all.deb";
-      sha256 = "sha256-lbusykRxNWcQdefJDgjpoEzxz1Zb1nWY/F0jKFb9c6A=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6708-1_all.deb";
+      sha256 = "sha256-HQZisv3kOfqj/X2dX5hVIYmZMO15WyGY5rvZcgf6rC4=";
     };
   };
   jitsi-videobridge2 = {
@@ -1077,14 +1077,14 @@
   };
   snui = {
     pname = "snui";
-    version = "1b8110114ce8f6c9fc03701dfe5cc02068857966";
+    version = "f5c391095d01337f94dac725d425b7f6c6ea4fe9";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "1b8110114ce8f6c9fc03701dfe5cc02068857966";
+      rev = "f5c391095d01337f94dac725d425b7f6c6ea4fe9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-mxmZwlCo5O4WhH+1f4DoS0OfkuA38XrvXs9NSzhDizk=";
+      sha256 = "sha256-4NSN5azgsXrj643E8SzZvmq6yzrFh00ATP2xM4B5Nts=";
     };
   };
   spicetify-cli = {
