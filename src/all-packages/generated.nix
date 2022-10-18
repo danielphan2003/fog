@@ -362,13 +362,13 @@
   };
   duf = {
     pname = "duf";
-    version = "7024a8255e384057d86744ab52e72186160d793a";
+    version = "9cc75ba0d3adce8b971606d61d0fc4411ac7eb1c";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "7024a8255e384057d86744ab52e72186160d793a";
+      rev = "9cc75ba0d3adce8b971606d61d0fc4411ac7eb1c";
       fetchSubmodules = false;
-      sha256 = "sha256-vUCDPocnX9bD9gMQxoDPSIBC2LqCInsR2GksUi8eZ84=";
+      sha256 = "sha256-71HG921zHtDx8DLIFFsWg28BZdn+Sm1amoZXgxjAqIw=";
     });
   };
   eww = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6708";
+    version = "1.0.6709";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6708.tar.bz2";
-      sha256 = "sha256-FYVbJmjtTtRpw7PM73uLmPkMvByN9AfWy2Um5wIT/D0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6709.tar.bz2";
+      sha256 = "sha256-GUTCbOAWYdbvvF816AvPWLz/42aIK5WxzQDdzEudsHc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6708";
+    version = "1.0.6709";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6708-1_all.deb";
-      sha256 = "sha256-HQZisv3kOfqj/X2dX5hVIYmZMO15WyGY5rvZcgf6rC4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6709-1_all.deb";
+      sha256 = "sha256-ecN/upLpD5TBg3N3kIg+k/obKnadDIcW+iXmowrJH2s=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "57d5b8749e6eb456e8f7480895396389f7e64b6d";
+    version = "07ae7ff7f12e96acac1a8d7da7673cd56a21c945";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "57d5b8749e6eb456e8f7480895396389f7e64b6d";
+      rev = "07ae7ff7f12e96acac1a8d7da7673cd56a21c945";
       fetchSubmodules = false;
-      sha256 = "sha256-q7RMERndjIKpYy6BmINPwJY125AarmYBKVtG/O26mCw=";
+      sha256 = "sha256-O1yNIM0AZJq1LzvAAtBXk1Mn/zsKV9qN7dAeeuDXLgc=";
     });
   };
   revanced-cli = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "e2064c016bd63699425357efa8a206ad3d2e5feb";
+    version = "e15c001c128cd4b22c9234f3fe7ea9910dcd7061";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "e2064c016bd63699425357efa8a206ad3d2e5feb";
+      rev = "e15c001c128cd4b22c9234f3fe7ea9910dcd7061";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xxLjfxEWZ1mkxCJm62De7jC7OX4x2zAUMY2wLlSgNB4=";
+      sha256 = "sha256-fGcdsZLu25mlNeVVRcR+kg5WT711cW/MYU4+OH3wtk4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-e2064c016bd63699425357efa8a206ad3d2e5feb/Cargo.lock;
+      lockFile = ./supergfxctl-e15c001c128cd4b22c9234f3fe7ea9910dcd7061/Cargo.lock;
       outputHashes = {
         
       };
