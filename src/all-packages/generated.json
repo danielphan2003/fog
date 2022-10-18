@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZtYCILK2ekVkWOf9hzGyDVq7bKGYYieNsorMNIm4J7g=",
+            "sha256": "sha256-OhzVmQe8pLsyM09D15aUJTqcP5ipbfPLyympKRd8GEY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6706.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6707.tar.bz2"
         },
-        "version": "1.0.6706"
+        "version": "1.0.6707"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-F23oqsZl5OEpBak7P4NYdEc5JVHasHmWmSz3OiVAzDM=",
+            "sha256": "sha256-lbusykRxNWcQdefJDgjpoEzxz1Zb1nWY/F0jKFb9c6A=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6706-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6707-1_all.deb"
         },
-        "version": "1.0.6706"
+        "version": "1.0.6707"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "320886f9fada227ac4557f3389c4a167449edf54",
-            "sha256": "sha256-r9hpcXbgaVY2W8Wkp90vjzZcEaiaL5rRwJbDP2+FusU=",
+            "rev": "b846a5d792f3b8e208e385d0dd14e0194dd5f380",
+            "sha256": "sha256-Cc4DI/OnJEWrkY93Q4QlkqPTkdhQNTl0rm+ljP3b1Fc=",
             "type": "github"
         },
-        "version": "320886f9fada227ac4557f3389c4a167449edf54"
+        "version": "b846a5d792f3b8e208e385d0dd14e0194dd5f380"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YUg085wrZ/Cu8t6v5KYLo+wTcSDe15AQhbPaY0s19dA=",
+            "sha256": "sha256-Zca7jfC+SY2kLyusvJuTb3r1qiqnJsIcTbyf3DfyYgA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.82.0/revanced-patches-2.82.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.82.1/revanced-patches-2.82.1.jar"
         },
-        "version": "2.82.0"
+        "version": "2.82.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-de6c0693cfb57ddcf472f4e4506036252e9a1962/Cargo.lock",
+                "./rustdesk-e23fa8c80618844cbbcff57d0fa6c7f3879f3e63/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "de6c0693cfb57ddcf472f4e4506036252e9a1962",
-            "sha256": "sha256-HhGblpfKDfOe9SPdDs7Jow6x2baClmBh0kG/LI2uiXo=",
+            "rev": "e23fa8c80618844cbbcff57d0fa6c7f3879f3e63",
+            "sha256": "sha256-YrSMmMY0ufE2Y2/MuJOtXoLCz/lE8bRW52idSWLPjlc=",
             "type": "github"
         },
-        "version": "de6c0693cfb57ddcf472f4e4506036252e9a1962"
+        "version": "e23fa8c80618844cbbcff57d0fa6c7f3879f3e63"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-db92d9a4251266995056e2fb3187d4f7199a1b3c/Cargo.lock",
+                "./supergfxctl-e2064c016bd63699425357efa8a206ad3d2e5feb/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "db92d9a4251266995056e2fb3187d4f7199a1b3c",
-            "sha256": "sha256-LX+T17pF/Qc9NX5+fmMhNqi7vA5EmeC0iQbmyIC0Q6Y=",
+            "rev": "e2064c016bd63699425357efa8a206ad3d2e5feb",
+            "sha256": "sha256-xxLjfxEWZ1mkxCJm62De7jC7OX4x2zAUMY2wLlSgNB4=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "db92d9a4251266995056e2fb3187d4f7199a1b3c"
+        "version": "e2064c016bd63699425357efa8a206ad3d2e5feb"
     },
     "sway-borders": {
         "cargoLocks": null,
@@ -1965,11 +1965,11 @@
             "name": null,
             "owner": "fluix-dev",
             "repo": "sway-borders",
-            "rev": "3890d2a2fb255276993891e2da5f6cb33670efcd",
-            "sha256": "sha256-esMruivwq6XPPYJWaW825+d8rD8NOxbJQqVfAeBtXe0=",
+            "rev": "01bf3988a6292563163163968a9eb71da6fd5f68",
+            "sha256": "sha256-AkXIqfha2PidvpmKom4DYkyByvj6K4szstCVCULGXlU=",
             "type": "github"
         },
-        "version": "3890d2a2fb255276993891e2da5f6cb33670efcd"
+        "version": "01bf3988a6292563163163968a9eb71da6fd5f68"
     },
     "swaylock-effects": {
         "cargoLocks": null,

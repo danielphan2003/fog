@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6706";
+    version = "1.0.6707";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6706.tar.bz2";
-      sha256 = "sha256-ZtYCILK2ekVkWOf9hzGyDVq7bKGYYieNsorMNIm4J7g=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6707.tar.bz2";
+      sha256 = "sha256-OhzVmQe8pLsyM09D15aUJTqcP5ipbfPLyympKRd8GEY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6706";
+    version = "1.0.6707";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6706-1_all.deb";
-      sha256 = "sha256-F23oqsZl5OEpBak7P4NYdEc5JVHasHmWmSz3OiVAzDM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6707-1_all.deb";
+      sha256 = "sha256-lbusykRxNWcQdefJDgjpoEzxz1Zb1nWY/F0jKFb9c6A=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "320886f9fada227ac4557f3389c4a167449edf54";
+    version = "b846a5d792f3b8e208e385d0dd14e0194dd5f380";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "320886f9fada227ac4557f3389c4a167449edf54";
+      rev = "b846a5d792f3b8e208e385d0dd14e0194dd5f380";
       fetchSubmodules = false;
-      sha256 = "sha256-r9hpcXbgaVY2W8Wkp90vjzZcEaiaL5rRwJbDP2+FusU=";
+      sha256 = "sha256-Cc4DI/OnJEWrkY93Q4QlkqPTkdhQNTl0rm+ljP3b1Fc=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.82.0";
+    version = "2.82.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.82.0/revanced-patches-2.82.0.jar";
-      sha256 = "sha256-YUg085wrZ/Cu8t6v5KYLo+wTcSDe15AQhbPaY0s19dA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.82.1/revanced-patches-2.82.1.jar";
+      sha256 = "sha256-Zca7jfC+SY2kLyusvJuTb3r1qiqnJsIcTbyf3DfyYgA=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "de6c0693cfb57ddcf472f4e4506036252e9a1962";
+    version = "e23fa8c80618844cbbcff57d0fa6c7f3879f3e63";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "de6c0693cfb57ddcf472f4e4506036252e9a1962";
+      rev = "e23fa8c80618844cbbcff57d0fa6c7f3879f3e63";
       fetchSubmodules = false;
-      sha256 = "sha256-HhGblpfKDfOe9SPdDs7Jow6x2baClmBh0kG/LI2uiXo=";
+      sha256 = "sha256-YrSMmMY0ufE2Y2/MuJOtXoLCz/lE8bRW52idSWLPjlc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-de6c0693cfb57ddcf472f4e4506036252e9a1962/Cargo.lock;
+      lockFile = ./rustdesk-e23fa8c80618844cbbcff57d0fa6c7f3879f3e63/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "db92d9a4251266995056e2fb3187d4f7199a1b3c";
+    version = "e2064c016bd63699425357efa8a206ad3d2e5feb";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "db92d9a4251266995056e2fb3187d4f7199a1b3c";
+      rev = "e2064c016bd63699425357efa8a206ad3d2e5feb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-LX+T17pF/Qc9NX5+fmMhNqi7vA5EmeC0iQbmyIC0Q6Y=";
+      sha256 = "sha256-xxLjfxEWZ1mkxCJm62De7jC7OX4x2zAUMY2wLlSgNB4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-db92d9a4251266995056e2fb3187d4f7199a1b3c/Cargo.lock;
+      lockFile = ./supergfxctl-e2064c016bd63699425357efa8a206ad3d2e5feb/Cargo.lock;
       outputHashes = {
         
       };
@@ -1184,13 +1184,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "3890d2a2fb255276993891e2da5f6cb33670efcd";
+    version = "01bf3988a6292563163163968a9eb71da6fd5f68";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "3890d2a2fb255276993891e2da5f6cb33670efcd";
+      rev = "01bf3988a6292563163163968a9eb71da6fd5f68";
       fetchSubmodules = false;
-      sha256 = "sha256-esMruivwq6XPPYJWaW825+d8rD8NOxbJQqVfAeBtXe0=";
+      sha256 = "sha256-AkXIqfha2PidvpmKom4DYkyByvj6K4szstCVCULGXlU=";
     });
   };
   swaylock-effects = {
