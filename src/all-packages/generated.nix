@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.139";
+    version = "0.0.140";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.139/discord-canary-0.0.139.tar.gz";
-      sha256 = "sha256-/PfO0TWRxMrK+V1XkYmdaXQ6SfyJNBFETaR9oV90itI=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.140/discord-canary-0.0.140.tar.gz";
+      sha256 = "sha256-AEbjkAMeOJ48RVgbVj35Rp26klCsCsDCX+VD5u1xCM0=";
     };
   };
   dnscrypt-proxy2 = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d00b095f14263635c4764c6358a62aff36d2574c";
+    version = "9d04ffc7823dbd5fb18d5e5e9dea462846128969";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d00b095f14263635c4764c6358a62aff36d2574c";
+      rev = "9d04ffc7823dbd5fb18d5e5e9dea462846128969";
       fetchSubmodules = false;
-      sha256 = "sha256-Td1X5A/+InzIyal8491bmmvOAHPYzPoHDgy1duamkGk=";
+      sha256 = "sha256-Z3GTHFmTC0yL4ebjM2IFh14Sf4BOTHDv7dq5r4tjBCg=";
     });
   };
   tailscale-systray = {

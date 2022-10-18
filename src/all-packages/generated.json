@@ -511,11 +511,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/PfO0TWRxMrK+V1XkYmdaXQ6SfyJNBFETaR9oV90itI=",
+            "sha256": "sha256-AEbjkAMeOJ48RVgbVj35Rp26klCsCsDCX+VD5u1xCM0=",
             "type": "url",
-            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.139/discord-canary-0.0.139.tar.gz"
+            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.140/discord-canary-0.0.140.tar.gz"
         },
-        "version": "0.0.139"
+        "version": "0.0.140"
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "d00b095f14263635c4764c6358a62aff36d2574c",
-            "sha256": "sha256-Td1X5A/+InzIyal8491bmmvOAHPYzPoHDgy1duamkGk=",
+            "rev": "9d04ffc7823dbd5fb18d5e5e9dea462846128969",
+            "sha256": "sha256-Z3GTHFmTC0yL4ebjM2IFh14Sf4BOTHDv7dq5r4tjBCg=",
             "type": "github"
         },
-        "version": "d00b095f14263635c4764c6358a62aff36d2574c"
+        "version": "9d04ffc7823dbd5fb18d5e5e9dea462846128969"
     },
     "tailscale-systray": {
         "cargoLocks": null,
