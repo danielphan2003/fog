@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6711";
+    version = "1.0.6712";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6711.tar.bz2";
-      sha256 = "sha256-GUWKDJwvJoF3BnL5/wOYpqBn17NoGIBJXIjuMoAUMn8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6712.tar.bz2";
+      sha256 = "sha256-44MXZREpcUtgrHV0+dL/j2VuQ6wKXgMfZnjWxcBhz3Q=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6711";
+    version = "1.0.6712";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6711-1_all.deb";
-      sha256 = "sha256-UWTfzTF48iYSPRXIRZkBFMVJSN+vG9Ror2ObdicZjQk=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6712-1_all.deb";
+      sha256 = "sha256-K/YZeVxeLFErfQZ8+rPYw1fTWNnu5PSbEYdqbmwL6iM=";
     };
   };
   jitsi-videobridge2 = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "66706f896dec72ace5fc7ca5ab81d1b2df6f369e";
+    version = "dfada2a5221bf345034d45034f97cfc9f82d771f";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "66706f896dec72ace5fc7ca5ab81d1b2df6f369e";
+      rev = "dfada2a5221bf345034d45034f97cfc9f82d771f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-IMd+t8/aMkYHVBVhRnUDBU+4jylTKlGOfBfRqFuxhlk=";
+      sha256 = "sha256-M6qtrspY/ywRVKFeHIBeJmlSb0UCQBOe4aEHtCbE03Y=";
     };
   };
   pure = {
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "163cf67f081a173b7a2701cc8616dafdd1b97a46";
+    version = "326a1b1e6e279f47ca6aba2404edb0261938ff12";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "163cf67f081a173b7a2701cc8616dafdd1b97a46";
+      rev = "326a1b1e6e279f47ca6aba2404edb0261938ff12";
       fetchSubmodules = false;
-      sha256 = "sha256-fn51wh7yYd5zye5h40s1R1MbdElqNK0RNYxAPHrL7i0=";
+      sha256 = "sha256-pJikEGi2eKffHAL7WuuurxbviXtTCaxmgPhMMlbN+UE=";
     });
   };
   whitesur-icon-theme = {
