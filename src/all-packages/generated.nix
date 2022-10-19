@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "dc1737f12891957c9989f0fb732f404e67dc425e";
+    version = "98a32f5e52143bd40cb574822889d7ae64818fb0";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "dc1737f12891957c9989f0fb732f404e67dc425e";
+      rev = "98a32f5e52143bd40cb574822889d7ae64818fb0";
       fetchSubmodules = false;
-      sha256 = "sha256-afSgOGYknowKaiHTgWpWUR9wQ4cdiK9/boJddIcflIE=";
+      sha256 = "sha256-z5Knwoe72FtijYNfPOwRlsI2pKs2VbBBX6ZM85mGeMM=";
     });
   };
   ibus = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.83.0";
+    version = "2.83.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.83.0/revanced-patches-2.83.0.jar";
-      sha256 = "sha256-aJBSffIqizqatJIHA2uB4prUpZaX4CsI2/n1+DMZbmI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.83.1/revanced-patches-2.83.1.jar";
+      sha256 = "sha256-daBA+UoyASovdcUc8amabH8gYxl2hYT4qxnjhR6f9JE=";
     };
   };
   rofi-wayland = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9d04ffc7823dbd5fb18d5e5e9dea462846128969";
+    version = "d499afac780ab1c9abd5df5288cdf8242c03a54d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9d04ffc7823dbd5fb18d5e5e9dea462846128969";
+      rev = "d499afac780ab1c9abd5df5288cdf8242c03a54d";
       fetchSubmodules = false;
-      sha256 = "sha256-Z3GTHFmTC0yL4ebjM2IFh14Sf4BOTHDv7dq5r4tjBCg=";
+      sha256 = "sha256-U3hwvtD/lKpOzblFQDIkIkueQv+XEiVkpu30O6OOagE=";
     });
   };
   tailscale-systray = {
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "326a1b1e6e279f47ca6aba2404edb0261938ff12";
+    version = "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "326a1b1e6e279f47ca6aba2404edb0261938ff12";
+      rev = "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc";
       fetchSubmodules = false;
-      sha256 = "sha256-pJikEGi2eKffHAL7WuuurxbviXtTCaxmgPhMMlbN+UE=";
+      sha256 = "sha256-JyqNv64Nj47MOScFefTC/xaO6pgGmAwAbjw6Qztmul4=";
     });
   };
   whitesur-icon-theme = {

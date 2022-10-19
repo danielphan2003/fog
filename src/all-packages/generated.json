@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "dc1737f12891957c9989f0fb732f404e67dc425e",
-            "sha256": "sha256-afSgOGYknowKaiHTgWpWUR9wQ4cdiK9/boJddIcflIE=",
+            "rev": "98a32f5e52143bd40cb574822889d7ae64818fb0",
+            "sha256": "sha256-z5Knwoe72FtijYNfPOwRlsI2pKs2VbBBX6ZM85mGeMM=",
             "type": "github"
         },
-        "version": "dc1737f12891957c9989f0fb732f404e67dc425e"
+        "version": "98a32f5e52143bd40cb574822889d7ae64818fb0"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aJBSffIqizqatJIHA2uB4prUpZaX4CsI2/n1+DMZbmI=",
+            "sha256": "sha256-daBA+UoyASovdcUc8amabH8gYxl2hYT4qxnjhR6f9JE=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.83.0/revanced-patches-2.83.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.83.1/revanced-patches-2.83.1.jar"
         },
-        "version": "2.83.0"
+        "version": "2.83.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9d04ffc7823dbd5fb18d5e5e9dea462846128969",
-            "sha256": "sha256-Z3GTHFmTC0yL4ebjM2IFh14Sf4BOTHDv7dq5r4tjBCg=",
+            "rev": "d499afac780ab1c9abd5df5288cdf8242c03a54d",
+            "sha256": "sha256-U3hwvtD/lKpOzblFQDIkIkueQv+XEiVkpu30O6OOagE=",
             "type": "github"
         },
-        "version": "9d04ffc7823dbd5fb18d5e5e9dea462846128969"
+        "version": "d499afac780ab1c9abd5df5288cdf8242c03a54d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "326a1b1e6e279f47ca6aba2404edb0261938ff12",
-            "sha256": "sha256-pJikEGi2eKffHAL7WuuurxbviXtTCaxmgPhMMlbN+UE=",
+            "rev": "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc",
+            "sha256": "sha256-JyqNv64Nj47MOScFefTC/xaO6pgGmAwAbjw6Qztmul4=",
             "type": "github"
         },
-        "version": "326a1b1e6e279f47ca6aba2404edb0261938ff12"
+        "version": "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
