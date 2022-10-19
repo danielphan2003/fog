@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "98a32f5e52143bd40cb574822889d7ae64818fb0",
-            "sha256": "sha256-z5Knwoe72FtijYNfPOwRlsI2pKs2VbBBX6ZM85mGeMM=",
+            "rev": "bf9d31ce49e2fd13950daec83eaff83d045fbbbf",
+            "sha256": "sha256-N26PJ0cnfsUcHmYAv9GizRRKiMF+9SMRhtcECUMQRV0=",
             "type": "github"
         },
-        "version": "98a32f5e52143bd40cb574822889d7ae64818fb0"
+        "version": "bf9d31ce49e2fd13950daec83eaff83d045fbbbf"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2078,7 +2078,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "6e3e6a7e80fe1c2691f1256cfacbbc655869d6ff"
+        "version": "4f7f6195fd9e04b4b9fffc30391b8ba8af5d7f47"
     },
     "ulauncher": {
         "cargoLocks": null,
