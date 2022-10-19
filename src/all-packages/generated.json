@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pqByA4REe8fhXSmzTe5uNWi0WwU4i6vESJlE68Uaznw=",
+            "sha256": "sha256-8yebdDI6948u0PWaHpWws0R6K1uGBI8+1MbtYRr9ELc=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6713.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6714.tar.bz2"
         },
-        "version": "1.0.6713"
+        "version": "1.0.6714"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GkeG9eejqjyE2OgjTbecsMWUcMvvpLeH6n6yIuFDXk8=",
+            "sha256": "sha256-+akhNa8Mxmy+5CD1Ln7aBinMNUS2II1wIG9PS1C+2XU=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6713-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6714-1_all.deb"
         },
-        "version": "1.0.6713"
+        "version": "1.0.6714"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc",
-            "sha256": "sha256-JyqNv64Nj47MOScFefTC/xaO6pgGmAwAbjw6Qztmul4=",
+            "rev": "53e7d7119bed724d32ac6b22744c1180cfc711b9",
+            "sha256": "sha256-BUCRPvZ0S5DITwEullapHMesY9IH1ngUyNvXh/+eDIM=",
             "type": "github"
         },
-        "version": "bd0a83a1ae2e4ab3756e8afa8dc53d4a723f8bcc"
+        "version": "53e7d7119bed724d32ac6b22744c1180cfc711b9"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
