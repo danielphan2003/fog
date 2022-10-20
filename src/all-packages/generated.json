@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aed6a12e6fc873d830ad9995d7757bc7e244a203",
-            "sha256": "sha256-5D6Yym/LlYcnH9ZVsU4Kik7dhmnrStAjJuXEVqPpnJs=",
+            "rev": "9c6aad2f617507362b49dcd258dde09b4cdadc53",
+            "sha256": "sha256-ASViLGDYvdCwsHR8nHx91IxCkWCcpsu8NtiV5jw7rwM=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "aed6a12e6fc873d830ad9995d7757bc7e244a203"
+        "version": "9c6aad2f617507362b49dcd258dde09b4cdadc53"
     },
     "spicetify-cli": {
         "cargoLocks": null,
