@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x9AuPbIb/7aU0prQCdB+B5tX1OYAFLKNGpbhQk+gwro=",
+            "sha256": "sha256-kzTmM2EqHz/KlpDHF3eQ5kjF23nvh3B/m34XKqm4QDU=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6719.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6720.tar.bz2"
         },
-        "version": "1.0.6719"
+        "version": "1.0.6720"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HPW48FdOcqNHp9sqofvRhFXNiIL6A4Ha4Iwt2pcMsso=",
+            "sha256": "sha256-3dwoiQEL441JStuZA1OwmbllnlmQtGHY4oqEV+0hIy8=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6719-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6720-1_all.deb"
         },
-        "version": "1.0.6719"
+        "version": "1.0.6720"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Qzb/H/RBIf1aWxquo1tZG0Byh7I0xTDYXg+GdnDLrC0=",
+            "sha256": "sha256-9Eeyzb6UNGXgVzesnV28PrX4yJEPeTeQxpeosyDajhY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.84.0/revanced-patches-2.84.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.84.1/revanced-patches-2.84.1.jar"
         },
-        "version": "2.84.0"
+        "version": "2.84.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "deac82231cfcf76c9d6f320cdd69a0f868a4008f",
-            "sha256": "sha256-Nsii82tkrLJfSmK6B9gW5jc57Qc7yL/T+WhQSOhTNgQ=",
+            "rev": "d13c9cdfb449653a0cee040ebd46b978478abfd6",
+            "sha256": "sha256-FB9Ud2INvcvqwR0NedQNQeD7z7RbF4v51EFWolf6qXM=",
             "type": "github"
         },
-        "version": "deac82231cfcf76c9d6f320cdd69a0f868a4008f"
+        "version": "d13c9cdfb449653a0cee040ebd46b978478abfd6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
