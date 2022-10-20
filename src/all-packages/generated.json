@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "1ccb0b5f96ad2bac353e1e6e9935a4021d9a43a7",
-            "sha256": "sha256-xi3IJfZqWmUwlD5VJsqmZnwt1EHrcGPFsEddS6HeBHs=",
+            "rev": "6df6aea1ba4f120863ed47d61000847ccd547ac3",
+            "sha256": "sha256-7bzLqpbzAE804l2P6ai7Wn5hjdlop41YZ6TZdaq5/xs=",
             "type": "github"
         },
-        "version": "1ccb0b5f96ad2bac353e1e6e9935a4021d9a43a7"
+        "version": "6df6aea1ba4f120863ed47d61000847ccd547ac3"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rVG2ivEyHsMW61ujOk+JvF0M5LaS8PYkPsxzV0/vYzY=",
+            "sha256": "sha256-Gb0ogQo9SLYhDrniVK9+s1jIBpU+8StBt5aHU7+xTvQ=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_106.0.1370.47-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_106.0.1370.52-1_amd64.deb"
         },
-        "version": "106.0.1370.47"
+        "version": "106.0.1370.52"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cLBC/nu6NFW3pM0QGB+HdjQG4t+bFqcfCqFn7DCXFcE=",
+            "sha256": "sha256-C9Ddbp1qZ4c6y1Df1tlgKydV8ZJBJrBxGM6TEj7p/H8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.53.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.54.0/app-release-unsigned.apk"
         },
-        "version": "0.53.0"
+        "version": "0.54.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9Eeyzb6UNGXgVzesnV28PrX4yJEPeTeQxpeosyDajhY=",
+            "sha256": "sha256-hujAmmmso/9AB2bCtMEAfSZUltcIwQIBdRaMGF4o9OQ=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.84.1/revanced-patches-2.84.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.85.0/revanced-patches-2.85.0.jar"
         },
-        "version": "2.84.1"
+        "version": "2.85.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "d13c9cdfb449653a0cee040ebd46b978478abfd6",
-            "sha256": "sha256-FB9Ud2INvcvqwR0NedQNQeD7z7RbF4v51EFWolf6qXM=",
+            "rev": "95f630ced019a6d90b28ad2e682740fe3cb1830c",
+            "sha256": "sha256-waCToT32gl2WjFozJJIzb0vMflMUHUV7103fYb/g9dM=",
             "type": "github"
         },
-        "version": "d13c9cdfb449653a0cee040ebd46b978478abfd6"
+        "version": "95f630ced019a6d90b28ad2e682740fe3cb1830c"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2152,11 +2152,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Sf1YnOikjZmloTQvdrFH/UAevQqKQEkNNrCRUhvNZfA=",
+            "sha256": "sha256-4kkw1Ik79tGMYbiHcL6+G6IYpBDVHcYgPfWaYCHuGcY=",
             "type": "url",
-            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.0/bw_web_v2022.10.0.tar.gz"
+            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.1/bw_web_v2022.10.1.tar.gz"
         },
-        "version": "2022.10.0"
+        "version": "2022.10.1"
     },
     "ventoy": {
         "cargoLocks": null,

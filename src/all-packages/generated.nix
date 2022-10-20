@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "1ccb0b5f96ad2bac353e1e6e9935a4021d9a43a7";
+    version = "6df6aea1ba4f120863ed47d61000847ccd547ac3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "1ccb0b5f96ad2bac353e1e6e9935a4021d9a43a7";
+      rev = "6df6aea1ba4f120863ed47d61000847ccd547ac3";
       fetchSubmodules = false;
-      sha256 = "sha256-xi3IJfZqWmUwlD5VJsqmZnwt1EHrcGPFsEddS6HeBHs=";
+      sha256 = "sha256-7bzLqpbzAE804l2P6ai7Wn5hjdlop41YZ6TZdaq5/xs=";
     });
   };
   ibus = {
@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "106.0.1370.47";
+    version = "106.0.1370.52";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_106.0.1370.47-1_amd64.deb";
-      sha256 = "sha256-rVG2ivEyHsMW61ujOk+JvF0M5LaS8PYkPsxzV0/vYzY=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_106.0.1370.52-1_amd64.deb";
+      sha256 = "sha256-Gb0ogQo9SLYhDrniVK9+s1jIBpU+8StBt5aHU7+xTvQ=";
     };
   };
   minecraft-wayland = {
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.53.0";
+    version = "0.54.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.53.0/app-release-unsigned.apk";
-      sha256 = "sha256-cLBC/nu6NFW3pM0QGB+HdjQG4t+bFqcfCqFn7DCXFcE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.54.0/app-release-unsigned.apk";
+      sha256 = "sha256-C9Ddbp1qZ4c6y1Df1tlgKydV8ZJBJrBxGM6TEj7p/H8=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.84.1";
+    version = "2.85.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.84.1/revanced-patches-2.84.1.jar";
-      sha256 = "sha256-9Eeyzb6UNGXgVzesnV28PrX4yJEPeTeQxpeosyDajhY=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.85.0/revanced-patches-2.85.0.jar";
+      sha256 = "sha256-hujAmmmso/9AB2bCtMEAfSZUltcIwQIBdRaMGF4o9OQ=";
     };
   };
   rofi-wayland = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d13c9cdfb449653a0cee040ebd46b978478abfd6";
+    version = "95f630ced019a6d90b28ad2e682740fe3cb1830c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d13c9cdfb449653a0cee040ebd46b978478abfd6";
+      rev = "95f630ced019a6d90b28ad2e682740fe3cb1830c";
       fetchSubmodules = false;
-      sha256 = "sha256-FB9Ud2INvcvqwR0NedQNQeD7z7RbF4v51EFWolf6qXM=";
+      sha256 = "sha256-waCToT32gl2WjFozJJIzb0vMflMUHUV7103fYb/g9dM=";
     });
   };
   tailscale-systray = {
@@ -1300,10 +1300,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.10.0";
+    version = "2022.10.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.0/bw_web_v2022.10.0.tar.gz";
-      sha256 = "sha256-Sf1YnOikjZmloTQvdrFH/UAevQqKQEkNNrCRUhvNZfA=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.1/bw_web_v2022.10.1.tar.gz";
+      sha256 = "sha256-4kkw1Ik79tGMYbiHcL6+G6IYpBDVHcYgPfWaYCHuGcY=";
     };
   };
   ventoy = {
