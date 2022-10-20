@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6df6aea1ba4f120863ed47d61000847ccd547ac3";
+    version = "ce5f025428f4e5adfcbace82a86238dfd0b57959";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "6df6aea1ba4f120863ed47d61000847ccd547ac3";
+      rev = "ce5f025428f4e5adfcbace82a86238dfd0b57959";
       fetchSubmodules = false;
-      sha256 = "sha256-7bzLqpbzAE804l2P6ai7Wn5hjdlop41YZ6TZdaq5/xs=";
+      sha256 = "sha256-KuUXuCDC+0fDJ1cVIQJZV7VmzLJqIljIgdaG4qM67p4=";
     });
   };
   ibus = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "107.0.1418.13";
+    version = "107.0.1418.16";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.13-1_amd64.deb";
-      sha256 = "sha256-lEufOfiezcUWuwCuAzlP6/BQkkhrQrnbxKH9N/9dVJ4=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.16-1_amd64.deb";
+      sha256 = "sha256-MkcR0zoIBO+qGI0aZm6jSiPsqvVXD9ifQs7qMEgLY1A=";
     };
   };
   microsoft-edge-dev = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "74637f2c156a91d24d429f44dd0f0b888cd7a4f2";
+    version = "adec726fee58a8d5c8e54fed789abced23737cdb";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "74637f2c156a91d24d429f44dd0f0b888cd7a4f2";
+      rev = "adec726fee58a8d5c8e54fed789abced23737cdb";
       fetchSubmodules = false;
-      sha256 = "sha256-curqzOKshMkH3VtqEOz6EdF15SAv7MbUJQG52Pi7jR8=";
+      sha256 = "sha256-upCHmDVHQi6xXn24kBYcX45xnMSISMgJXv0oo8zJWJ0=";
     });
   };
   tailscale-systray = {
