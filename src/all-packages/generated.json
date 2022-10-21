@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-djcCXBwMnYJd2QgDXcpqeZDVoExLv8h90GilQ9eZ8Zk=",
+            "sha256": "sha256-b2doBG+cGEjznCao18ZP02PyUECk5EdW0/1NLHWlSDk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-49-g499972b6-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-50-gb83e4f50-1_all.deb"
         },
-        "version": "2.2-49-g499972b6"
+        "version": "2.2-50-gb83e4f50"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -2093,11 +2093,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "17c08b634f170c3c40bb8b530646477939fe60f2",
-            "sha256": "sha256-oe0UEgzeKXPRGwwMul/O274T3ur1pxs+CAAe+0uHg4w=",
+            "rev": "0e14a70886e8504e9b3ee7132c60fabc8ac86156",
+            "sha256": "sha256-+cCAitTlrUr47JDoFs/kHcRezJhPu7G1zpfCDJggLmw=",
             "type": "github"
         },
-        "version": "17c08b634f170c3c40bb8b530646477939fe60f2"
+        "version": "0e14a70886e8504e9b3ee7132c60fabc8ac86156"
     },
     "uniemoji": {
         "cargoLocks": null,

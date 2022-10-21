@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-49-g499972b6";
+    version = "2.2-50-gb83e4f50";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-49-g499972b6-1_all.deb";
-      sha256 = "sha256-djcCXBwMnYJd2QgDXcpqeZDVoExLv8h90GilQ9eZ8Zk=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-50-gb83e4f50-1_all.deb";
+      sha256 = "sha256-b2doBG+cGEjznCao18ZP02PyUECk5EdW0/1NLHWlSDk=";
     };
   };
   layout-machi = {
@@ -1261,13 +1261,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "17c08b634f170c3c40bb8b530646477939fe60f2";
+    version = "0e14a70886e8504e9b3ee7132c60fabc8ac86156";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "17c08b634f170c3c40bb8b530646477939fe60f2";
+      rev = "0e14a70886e8504e9b3ee7132c60fabc8ac86156";
       fetchSubmodules = false;
-      sha256 = "sha256-oe0UEgzeKXPRGwwMul/O274T3ur1pxs+CAAe+0uHg4w=";
+      sha256 = "sha256-+cCAitTlrUr47JDoFs/kHcRezJhPu7G1zpfCDJggLmw=";
     });
   };
   uniemoji = {
