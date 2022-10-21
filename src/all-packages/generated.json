@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ce5f025428f4e5adfcbace82a86238dfd0b57959",
-            "sha256": "sha256-KuUXuCDC+0fDJ1cVIQJZV7VmzLJqIljIgdaG4qM67p4=",
+            "rev": "b71d7c9007d77f78a403075b99adf8e9d43bf125",
+            "sha256": "sha256-/45v91bYl9hbEJSgYu51ep9ZyoEHlZDE44gotGZfO4M=",
             "type": "github"
         },
-        "version": "ce5f025428f4e5adfcbace82a86238dfd0b57959"
+        "version": "b71d7c9007d77f78a403075b99adf8e9d43bf125"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34/Cargo.lock",
+                "./supergfxctl-ea2f099faf6d3a12eb69010e4b0ce9a753c46182/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34",
-            "sha256": "sha256-aeN5JUD8p5/VqoPpGCQ8C8Xjl+KG6iiFvb8a1P4NTDA=",
+            "rev": "ea2f099faf6d3a12eb69010e4b0ce9a753c46182",
+            "sha256": "sha256-EzyzRPPnlal58WodyrLKYo1/sp+ywp+pcShZ3GCABBs=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34"
+        "version": "ea2f099faf6d3a12eb69010e4b0ce9a753c46182"
     },
     "sway-borders": {
         "cargoLocks": null,

@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ce5f025428f4e5adfcbace82a86238dfd0b57959";
+    version = "b71d7c9007d77f78a403075b99adf8e9d43bf125";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ce5f025428f4e5adfcbace82a86238dfd0b57959";
+      rev = "b71d7c9007d77f78a403075b99adf8e9d43bf125";
       fetchSubmodules = false;
-      sha256 = "sha256-KuUXuCDC+0fDJ1cVIQJZV7VmzLJqIljIgdaG4qM67p4=";
+      sha256 = "sha256-/45v91bYl9hbEJSgYu51ep9ZyoEHlZDE44gotGZfO4M=";
     });
   };
   ibus = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34";
+    version = "ea2f099faf6d3a12eb69010e4b0ce9a753c46182";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34";
+      rev = "ea2f099faf6d3a12eb69010e4b0ce9a753c46182";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-aeN5JUD8p5/VqoPpGCQ8C8Xjl+KG6iiFvb8a1P4NTDA=";
+      sha256 = "sha256-EzyzRPPnlal58WodyrLKYo1/sp+ywp+pcShZ3GCABBs=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-acdc4ce8a2b1cb9e76e8fbac57e172625bd18c34/Cargo.lock;
+      lockFile = ./supergfxctl-ea2f099faf6d3a12eb69010e4b0ce9a753c46182/Cargo.lock;
       outputHashes = {
         
       };
