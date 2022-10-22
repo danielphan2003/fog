@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.54.0";
+    version = "0.54.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.54.0/app-release-unsigned.apk";
-      sha256 = "sha256-C9Ddbp1qZ4c6y1Df1tlgKydV8ZJBJrBxGM6TEj7p/H8=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.54.1/app-release-unsigned.apk";
+      sha256 = "sha256-ea8+F+pRZ7PyTZ8h7Ksg2EhPe4ZPdYXg3yw8Hj7PHeQ=";
     };
   };
   revanced-patches-jar = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "ea2f099faf6d3a12eb69010e4b0ce9a753c46182";
+    version = "52b78f4b1106cd0d311fc476df525de129bfe7f7";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "ea2f099faf6d3a12eb69010e4b0ce9a753c46182";
+      rev = "52b78f4b1106cd0d311fc476df525de129bfe7f7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-EzyzRPPnlal58WodyrLKYo1/sp+ywp+pcShZ3GCABBs=";
+      sha256 = "sha256-w41f6G0oLt93ICE2SATP4kDvHzFSkFZTI/TLGZPx+r4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-ea2f099faf6d3a12eb69010e4b0ce9a753c46182/Cargo.lock;
+      lockFile = ./supergfxctl-52b78f4b1106cd0d311fc476df525de129bfe7f7/Cargo.lock;
       outputHashes = {
         
       };
