@@ -212,11 +212,11 @@
             "name": null,
             "owner": "awesomeWM",
             "repo": "awesome",
-            "rev": "26032bf018cfac3b930e055cabc3ee07cbc2a4f9",
-            "sha256": "sha256-BrGFhtIME5cIkldDkO/A2yCE5IHjattJFWFlhRSpWQ0=",
+            "rev": "a436478731936812e82ef17b78cc4979d5db6ad6",
+            "sha256": "sha256-zFeAzujjEGNBDmWIO/BS7mE6Dy4wsfINxsvcUx32nMg=",
             "type": "github"
         },
-        "version": "26032bf018cfac3b930e055cabc3ee07cbc2a4f9"
+        "version": "a436478731936812e82ef17b78cc4979d5db6ad6"
     },
     "awestore": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "3697609aaa1f18b918080f1557b65022e94564be",
-            "sha256": "sha256-czaLZ+HktwxRs2skkRZCD4w2Q3bEkPxdbxPWdnVpk1A=",
+            "rev": "f36ddd92759ecb88504a3df0b2bd127e165711c3",
+            "sha256": "sha256-mzEypnrttWAv+YWVlSD2rVoFqsCg+qKZk62QNI4RtTI=",
             "type": "github"
         },
-        "version": "3697609aaa1f18b918080f1557b65022e94564be"
+        "version": "f36ddd92759ecb88504a3df0b2bd127e165711c3"
     },
     "tailscale-systray": {
         "cargoLocks": null,

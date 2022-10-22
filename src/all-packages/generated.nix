@@ -125,13 +125,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "26032bf018cfac3b930e055cabc3ee07cbc2a4f9";
+    version = "a436478731936812e82ef17b78cc4979d5db6ad6";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "26032bf018cfac3b930e055cabc3ee07cbc2a4f9";
+      rev = "a436478731936812e82ef17b78cc4979d5db6ad6";
       fetchSubmodules = false;
-      sha256 = "sha256-BrGFhtIME5cIkldDkO/A2yCE5IHjattJFWFlhRSpWQ0=";
+      sha256 = "sha256-zFeAzujjEGNBDmWIO/BS7mE6Dy4wsfINxsvcUx32nMg=";
     });
   };
   awestore = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3697609aaa1f18b918080f1557b65022e94564be";
+    version = "f36ddd92759ecb88504a3df0b2bd127e165711c3";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3697609aaa1f18b918080f1557b65022e94564be";
+      rev = "f36ddd92759ecb88504a3df0b2bd127e165711c3";
       fetchSubmodules = false;
-      sha256 = "sha256-czaLZ+HktwxRs2skkRZCD4w2Q3bEkPxdbxPWdnVpk1A=";
+      sha256 = "sha256-mzEypnrttWAv+YWVlSD2rVoFqsCg+qKZk62QNI4RtTI=";
     });
   };
   tailscale-systray = {
