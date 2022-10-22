@@ -147,10 +147,10 @@
   };
   betterdiscord-installer = {
     pname = "betterdiscord-installer";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://github.com/BetterDiscord/Installer/releases/download/v1.1.1/BetterDiscord-Linux.AppImage";
-      sha256 = "sha256-EZj8vRyWbEfCagy/x3QTFADvE6Z76fqnDVRQZhD0S2k=";
+      url = "https://github.com/BetterDiscord/Installer/releases/download/v1.1.2/BetterDiscord-Linux.AppImage";
+      sha256 = "sha256-fY5COUWrJPwTNL5dMj+Fg7ik6QsQSlTjL74Xrg/wYCo=";
     };
   };
   betterdiscordctl = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "50e5c40c40424c6d59ebcd0f72a8dcc73cf340a5";
+    version = "622cc61671457a17e5456a67e238bb24c414faf0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "50e5c40c40424c6d59ebcd0f72a8dcc73cf340a5";
+      rev = "622cc61671457a17e5456a67e238bb24c414faf0";
       fetchSubmodules = false;
-      sha256 = "sha256-jxzB/+CE6gRYkDQptwKMmrUL7HaBYCgyl9bJzeKq3Hc=";
+      sha256 = "sha256-AaecXQsEoc+4eg49nHAxFREu5LibHDRSDAHbJNWpp7g=";
     });
   };
   revanced-cli = {
@@ -1261,13 +1261,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "0e14a70886e8504e9b3ee7132c60fabc8ac86156";
+    version = "a8f636f6a6bfcedac892f4027be821fa3f332f5e";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "0e14a70886e8504e9b3ee7132c60fabc8ac86156";
+      rev = "a8f636f6a6bfcedac892f4027be821fa3f332f5e";
       fetchSubmodules = false;
-      sha256 = "sha256-+cCAitTlrUr47JDoFs/kHcRezJhPu7G1zpfCDJggLmw=";
+      sha256 = "sha256-e+7CP9Zcd9SsU0t08xROY//nijEuucylz9SlQy1lybM=";
     });
   };
   uniemoji = {
