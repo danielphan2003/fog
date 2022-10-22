@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "7149155b80cff3dda5f97e1e289830e9d5f8f970",
-            "sha256": "sha256-GE/WWMmxLvWGSVZ+oiyKEFGlvSKZTASdZ7k5MK68V+g=",
+            "rev": "3697609aaa1f18b918080f1557b65022e94564be",
+            "sha256": "sha256-czaLZ+HktwxRs2skkRZCD4w2Q3bEkPxdbxPWdnVpk1A=",
             "type": "github"
         },
-        "version": "7149155b80cff3dda5f97e1e289830e9d5f8f970"
+        "version": "3697609aaa1f18b918080f1557b65022e94564be"
     },
     "tailscale-systray": {
         "cargoLocks": null,
