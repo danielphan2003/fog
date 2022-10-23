@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "622cc61671457a17e5456a67e238bb24c414faf0",
-            "sha256": "sha256-AaecXQsEoc+4eg49nHAxFREu5LibHDRSDAHbJNWpp7g=",
+            "rev": "7cfa69be1bce687724e63aba6daf62fbcaaa3c7e",
+            "sha256": "sha256-oXuObMyCjlZKm1sxoxcz4hiejjbIITFPhp5hgrxE05g=",
             "type": "github"
         },
-        "version": "622cc61671457a17e5456a67e238bb24c414faf0"
+        "version": "7cfa69be1bce687724e63aba6daf62fbcaaa3c7e"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-05e81d33457de0380e0eb01ba16d353c7a5e1cdc/Cargo.lock",
+                "./rustdesk-f908451647f2c613e4e48efd9ba1ed9e5fd62ba6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "05e81d33457de0380e0eb01ba16d353c7a5e1cdc",
-            "sha256": "sha256-5FsFHB+tzkxx/ZORo/CcLED0HVtja2TUGxBo5L9O3c8=",
+            "rev": "f908451647f2c613e4e48efd9ba1ed9e5fd62ba6",
+            "sha256": "sha256-hYnntioHnpHMQT9Fgx64aYojI5b289u1AJbGuOWRxwQ=",
             "type": "github"
         },
-        "version": "05e81d33457de0380e0eb01ba16d353c7a5e1cdc"
+        "version": "f908451647f2c613e4e48efd9ba1ed9e5fd62ba6"
     },
     "rustdesk-server": {
         "cargoLocks": {
