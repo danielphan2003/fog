@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "8a373c38a631e0344c38d3b19ab673aacfbaf1f5";
+    version = "2dae094981e665df37de523479be062d5e0bda98";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "8a373c38a631e0344c38d3b19ab673aacfbaf1f5";
+      rev = "2dae094981e665df37de523479be062d5e0bda98";
       fetchSubmodules = false;
-      sha256 = "sha256-mKtop5/80YIAZqogshk5Tm9PR+93rLWSh8hqtNFjlPE=";
+      sha256 = "sha256-U3q45ES+pOn0RZPbzEB3CINMXKlRKJo0HwjiBnxK2kI=";
     });
   };
   playit-agent = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7cfa69be1bce687724e63aba6daf62fbcaaa3c7e";
+    version = "3d1bcf98363078fed8201f2bb7b8a6e75e080ff7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7cfa69be1bce687724e63aba6daf62fbcaaa3c7e";
+      rev = "3d1bcf98363078fed8201f2bb7b8a6e75e080ff7";
       fetchSubmodules = false;
-      sha256 = "sha256-oXuObMyCjlZKm1sxoxcz4hiejjbIITFPhp5hgrxE05g=";
+      sha256 = "sha256-ykuLFyi0vX0lE4tvSazjZeKhPS6VBNee39cq/wHnd4k=";
     });
   };
   revanced-cli = {
