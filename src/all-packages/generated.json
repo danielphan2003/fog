@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YvyYXDUY+aAxGTGY1GCgN4dxhgMb0xNF9H1ICDHNVcA=",
+            "sha256": "sha256-9IMRHOIkzdY+ihHiBhSAeDE7IGzpjKQWmCravk+Cl4k=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-52-gd53399a8-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-53-g07e368f0-1_all.deb"
         },
-        "version": "2.2-52-gd53399a8"
+        "version": "2.2-53-g07e368f0"
     },
     "layout-machi": {
         "cargoLocks": null,
