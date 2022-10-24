@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "a3ae146cbdf2cfbdbdf5feea52e8bf407cce2b31";
+    version = "798c4a3ba48b55e85867780ed399dc084c15b322";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "a3ae146cbdf2cfbdbdf5feea52e8bf407cce2b31";
+      rev = "798c4a3ba48b55e85867780ed399dc084c15b322";
       fetchSubmodules = false;
-      sha256 = "sha256-sig6TQwGeRAa3/GY3Flkq8xExWxKfuL8SnjJrEsBqmA=";
+      sha256 = "sha256-biFx7oqVzVX7KHfbwxA3J+NGxizYrbFkjviATdvN1Js=";
     });
   };
   cinny = {
@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "471f1a117df1d2c8716a8d1120643759d9199110";
+    version = "f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "471f1a117df1d2c8716a8d1120643759d9199110";
+      rev = "f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d";
       fetchSubmodules = false;
-      sha256 = "sha256-ol12uSO2AXTg5GDwycaMbMTcvCcQhYdY0YnV/4dxwNs=";
+      sha256 = "sha256-BJTVAFD0T2pEnmlJa2fAhAn5+P0aqztUkF8hiiFxK8I=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-471f1a117df1d2c8716a8d1120643759d9199110/Cargo.lock;
+      lockFile = ./eww-f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d/Cargo.lock;
       outputHashes = {
         
       };
