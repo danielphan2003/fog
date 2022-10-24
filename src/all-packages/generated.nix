@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "0cccd9d74f0bda19f8409549588db274eba0d393";
+    version = "471f1a117df1d2c8716a8d1120643759d9199110";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "0cccd9d74f0bda19f8409549588db274eba0d393";
+      rev = "471f1a117df1d2c8716a8d1120643759d9199110";
       fetchSubmodules = false;
-      sha256 = "sha256-3mPHAFecDyP1Rgjshjyn1u5EsdjZun9DofnVbtlfRJk=";
+      sha256 = "sha256-ol12uSO2AXTg5GDwycaMbMTcvCcQhYdY0YnV/4dxwNs=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-0cccd9d74f0bda19f8409549588db274eba0d393/Cargo.lock;
+      lockFile = ./eww-471f1a117df1d2c8716a8d1120643759d9199110/Cargo.lock;
       outputHashes = {
         
       };
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e0bc952c8382992c2e9621865b94c904e728a8c3";
+    version = "69f1d7b3607bb088512420052b9e0d48e529772d";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "e0bc952c8382992c2e9621865b94c904e728a8c3";
+      rev = "69f1d7b3607bb088512420052b9e0d48e529772d";
       fetchSubmodules = false;
-      sha256 = "sha256-Qc7FDSlQGHXi0p72NLHGYOUfnUron0GeeBAiHU+aEwY=";
+      sha256 = "sha256-aw483m93tZOZKWZPevPDcWxuhALZl9GDo7KIIkfTRS8=";
     });
   };
   ibus = {
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.41.0";
+    version = "0.41.1";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.41.0.tar.gz";
-      sha256 = "sha256-ecMgGejLJxBBTpivHPJ8T13rlbv8t1L6rhgQNhEpygw=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.41.1.tar.gz";
+      sha256 = "sha256-cdQnnZv16PPnxe8T6GbCDWj0zky21yZ9wv5rQhzDnGA=";
     };
   };
   nix-zsh-completions = {
