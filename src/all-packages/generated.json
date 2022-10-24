@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d/Cargo.lock",
+                "./eww-964cafce741f16cd039bf95b302a71b9cdd2c3e0/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d",
-            "sha256": "sha256-BJTVAFD0T2pEnmlJa2fAhAn5+P0aqztUkF8hiiFxK8I=",
+            "rev": "964cafce741f16cd039bf95b302a71b9cdd2c3e0",
+            "sha256": "sha256-WOoIJpRZwqpsE0jCiASk9Dcl7WT+VCkbWA/iA66wzWU=",
             "type": "github"
         },
-        "version": "f37f3ca3d8ff5437144f850422ba1e5ffa5efa5d"
+        "version": "964cafce741f16cd039bf95b302a71b9cdd2c3e0"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
