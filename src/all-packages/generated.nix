@@ -329,13 +329,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "9386c589bf54828264af1aedfdd9992f0a963a14";
+    version = "3409971103629472fd350515e90cc0aa365bda91";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "9386c589bf54828264af1aedfdd9992f0a963a14";
+      rev = "3409971103629472fd350515e90cc0aa365bda91";
       fetchSubmodules = false;
-      sha256 = "sha256-i7W4qQqV6rePIJewqqNg8JpLN6EcnJ4jaoV4+7gACYM=";
+      sha256 = "sha256-MHO9RNjqpk2m09ZuZMUn0Uyw0w1k+Mt2tQQjrbXINAM=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a2cb295a11c41b1b35bcdc23c0e7875f0e9dea81";
+    version = "ea7c596a389390050c956c7616db8da27179ea34";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a2cb295a11c41b1b35bcdc23c0e7875f0e9dea81";
+      rev = "ea7c596a389390050c956c7616db8da27179ea34";
       fetchSubmodules = false;
-      sha256 = "sha256-1dCQwG5H3VtSkCVdY6TuwmmQVW/iwhCffmAf+DSvz+A=";
+      sha256 = "sha256-Wer/Jg4rwtcHOZy3Zb4fZaqE8wRr9mpplFhXTfmXVNM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a2cb295a11c41b1b35bcdc23c0e7875f0e9dea81/Cargo.lock;
+      lockFile = ./rustdesk-ea7c596a389390050c956c7616db8da27179ea34/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "036f70b7b45ab78b07ff0c691d749c2c6045ac33";
+    version = "575c5994102a7d889c7a18dd372c0a3fd0082065";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "036f70b7b45ab78b07ff0c691d749c2c6045ac33";
+      rev = "575c5994102a7d889c7a18dd372c0a3fd0082065";
       fetchSubmodules = false;
-      sha256 = "sha256-qsHhcHHo5xTPdHQiC8VavYmAAcd3ZtjubkVeYOkk8NE=";
+      sha256 = "sha256-vF01JJDTydzVjCtgW/bNpK2qbN8Tlq9rIQsxe1oN5Oo=";
     });
   };
   tailscale-systray = {
