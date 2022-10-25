@@ -13,7 +13,7 @@
     std.growOn {
       inherit inputs;
       cellsFrom = ./cells;
-      organelles = [
+      cellBlocks = [
         (std.runnables "cli")
         (std.runnables "repl")
 
