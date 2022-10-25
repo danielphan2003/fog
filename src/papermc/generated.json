@@ -447,6 +447,22 @@
         },
         "version": "81"
     },
+    "papermc-1_19_1": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "papermc-1_19_1",
+        "passthru": {
+            "mcVer": "1.19.1"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Wv4jofreksVHEk+odLx9kI+mdvSfCYefqHYiS2Lp1Rs=",
+            "type": "url",
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.1/builds/111/downloads/paper-1.19.1-111.jar"
+        },
+        "version": "111"
+    },
     "papermc-1_19_2": {
         "cargoLocks": null,
         "extract": null,
