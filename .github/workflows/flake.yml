@@ -10,7 +10,7 @@ jobs:
   update_flake:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.0.2
+    - uses: actions/checkout@v3.1.0
 
     - name: Install latest nix
       uses: cachix/install-nix-action@v17
