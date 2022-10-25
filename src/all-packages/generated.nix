@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-948";
+    version = "1.0-949";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-948-1_all.deb";
-      sha256 = "sha256-BvcNU5n33a5kYszEVHSY5jj+wSLJDj6b/hMmA4lAWkU=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-949-1_all.deb";
+      sha256 = "sha256-ThjCNN0ln+CQnrg8ufnVtUzesfnPKl2oIuwCyIOIHFI=";
     };
   };
   jitsi-meet = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "89c2ff09268bc393128bc91b0ed386933cfe776d";
+    version = "1ef933e3be8150b20435c4e8fc949546a6a45018";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "89c2ff09268bc393128bc91b0ed386933cfe776d";
+      rev = "1ef933e3be8150b20435c4e8fc949546a6a45018";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xxFGW6p6PAcup8v/fta7UfUsCdklYOePWoYhb9nDLfM=";
+      sha256 = "sha256-WqbVge5dkSjNS2E+oQa5S2gCd0bjwjJjQx0we6RV/yY=";
     };
   };
   pure = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "299875f8b6c24eac570c5679544fa58e7234b890";
+    version = "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "299875f8b6c24eac570c5679544fa58e7234b890";
+      rev = "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015";
       fetchSubmodules = false;
-      sha256 = "sha256-jUrufBXxf3Q4qQvrsgOFFiZdfjvXGmFZGB086dEW6Ys=";
+      sha256 = "sha256-1ZMxobNoE6uJvk6PaCbwRK5RiEW04neRzU+ap8YbW+8=";
     });
   };
   revanced-cli = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d60f7fe33f54961780faf0d78ebfe5e36bb864c2";
+    version = "a471681e285ba22ab1975e4c2ab92768156e4162";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d60f7fe33f54961780faf0d78ebfe5e36bb864c2";
+      rev = "a471681e285ba22ab1975e4c2ab92768156e4162";
       fetchSubmodules = false;
-      sha256 = "sha256-6zIx7rWZq32Cfyi2QJepAf5Wo6uAFGedIibt7HIbusQ=";
+      sha256 = "sha256-mSJBvoRl2m/iUaodeFLxS2Klk0oyIPslWluQXRBuM/Q=";
     });
   };
   tailscale-systray = {
