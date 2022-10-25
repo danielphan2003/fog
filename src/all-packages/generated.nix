@@ -820,10 +820,10 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.48.0";
+    version = "1.40.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz";
-      sha256 = "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.40.0.tar.gz";
+      sha256 = "sha256-b/9NEURp42d/j/Fk8NUS0ZAG99q56eg0pEU/xkFnvrM=";
     };
   };
   pmbootstrap-test = {
@@ -1308,10 +1308,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.80";
+    version = "1.0.81";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.80/ventoy-1.0.80-linux.tar.gz";
-      sha256 = "sha256-FmMpMUy8VqwbOiRWZdoY76ToSoWWbBGM5h/9VS8rYRY=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.81/ventoy-1.0.81-linux.tar.gz";
+      sha256 = "sha256-15y05g+F+oEFYUUy7SE57GZ1RSHqdZnk2iOPsy1L0GI=";
     };
   };
   vimPlugins-yuck = {
