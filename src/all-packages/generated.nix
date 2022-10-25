@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "44ac27995ddadc9af62c1bc4926e15c867d55e31";
+    version = "45e8d25efa0b4724eebb6acc8bdb9c9e0d4fc388";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "44ac27995ddadc9af62c1bc4926e15c867d55e31";
+      rev = "45e8d25efa0b4724eebb6acc8bdb9c9e0d4fc388";
       fetchSubmodules = true;
-      sha256 = "sha256-+UTDhtA/6gQ0Q/ltaSn6w3Y0Wmk573Ixqvp9FhsUONk=";
+      sha256 = "sha256-CyKZ9Dy8u8Nx+HEFTIVe5/YMkKZyrxgNgrlMv/WAoqw=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-44ac27995ddadc9af62c1bc4926e15c867d55e31/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-45e8d25efa0b4724eebb6acc8bdb9c9e0d4fc388/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -412,13 +412,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "ff7028d8ab45f293e1529777a81cb80653c33014";
+    version = "edd228b938dd1587029df4b0b735c5f57a54c4a3";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "ff7028d8ab45f293e1529777a81cb80653c33014";
+      rev = "edd228b938dd1587029df4b0b735c5f57a54c4a3";
       fetchSubmodules = false;
-      sha256 = "sha256-6+sxZrMGauEYyoRs482xBqlxC2IssGniowbMJLQANPo=";
+      sha256 = "sha256-/7DyDQKC/oKG8/N7UoQbQJKfbSOFDAue/yLMePMOo/c=";
     });
   };
   fluffychat = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "34bd2cf803e790e6592707cbc5dfd0d3b42b86fe";
+    version = "cdb331076afcd1069d4d62805c3b48d237cc0b05";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "34bd2cf803e790e6592707cbc5dfd0d3b42b86fe";
+      rev = "cdb331076afcd1069d4d62805c3b48d237cc0b05";
       fetchSubmodules = false;
-      sha256 = "sha256-yEDO640nKJ0//uGRaCZSG+cxWtKNFVL211qWUBbJQ+o=";
+      sha256 = "sha256-AuN21pv4nM/YqZWUS7wumg2o926M9J+AvnN97/1s7iQ=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6732";
+    version = "1.0.6733";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6732.tar.bz2";
-      sha256 = "sha256-V4uYEmPwwlIAX5oyHs6YNDgj1twpilVrQV7SJ0XwJ/o=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6733.tar.bz2";
+      sha256 = "sha256-l3rDzsSsOi7bHuUy0DYBq3gpM0UzvS3uun7/nQhYQT8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6732";
+    version = "1.0.6733";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6732-1_all.deb";
-      sha256 = "sha256-x1fo7d1Bkl6j5PJdPa2Elj1DfRVBGA9J5AYGUICvFdQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6733-1_all.deb";
+      sha256 = "sha256-JvrCX5toC8eoI7Ed2rA4T6kD+1g/o8nbQUf5VNuqUGA=";
     };
   };
   jitsi-videobridge2 = {
@@ -820,10 +820,10 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.40.0";
+    version = "1.48.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.40.0.tar.gz";
-      sha256 = "sha256-b/9NEURp42d/j/Fk8NUS0ZAG99q56eg0pEU/xkFnvrM=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz";
+      sha256 = "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=";
     };
   };
   pmbootstrap-test = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e3e0040063b4c4aaab42032ac60dfd46fde37ebb";
+    version = "069de60efc094fc51d751c134057dc6881029ef8";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e3e0040063b4c4aaab42032ac60dfd46fde37ebb";
+      rev = "069de60efc094fc51d751c134057dc6881029ef8";
       fetchSubmodules = false;
-      sha256 = "sha256-84og/P6MlKAfwjbjCfh58/4Zdl1id7qLGnWcTMpKkYc=";
+      sha256 = "sha256-n9KfpfZWMPidG8oDydpWDHImCoD69nY9LOd8YCMVx5k=";
     });
   };
   revanced-cli = {
