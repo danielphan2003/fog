@@ -103,6 +103,10 @@ function parseMeta() {
     done
 
     getPage "$pageNumber"
+    
+    if [ "$pageNumber" -eq "$max_page" ]; then
+      break
+    fi
   done
 
   echo >> "$package_meta_file"
