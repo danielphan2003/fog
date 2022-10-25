@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-53-g07e368f0";
+    version = "2.2-54-g620dfa5d";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-53-g07e368f0-1_all.deb";
-      sha256 = "sha256-9IMRHOIkzdY+ihHiBhSAeDE7IGzpjKQWmCravk+Cl4k=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-54-g620dfa5d-1_all.deb";
+      sha256 = "sha256-POwSV9aJQrCwJQpGZ7hM7xGAd/2J1T/nCZF/euF1thw=";
     };
   };
   layout-machi = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "3bee7222d84125b6072510ae5a283901c66c74b9";
+    version = "89c2ff09268bc393128bc91b0ed386933cfe776d";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "3bee7222d84125b6072510ae5a283901c66c74b9";
+      rev = "89c2ff09268bc393128bc91b0ed386933cfe776d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-+LQ+kW5Ik8TU4e9s4neuxET90HAwyEsZe+9Km4yVyQM=";
+      sha256 = "sha256-xxFGW6p6PAcup8v/fta7UfUsCdklYOePWoYhb9nDLfM=";
     };
   };
   pure = {
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.58.0";
+    version = "0.59.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.58.0/app-release-unsigned.apk";
-      sha256 = "sha256-BCzRWLvjaR0brHOSkR93x8FA5E4sv0nMvrFDy+Qfh4U=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.59.0/app-release-unsigned.apk";
+      sha256 = "sha256-LZErwQpQbKSx67luz/PXWRlNHBfMOvSxyIELXITYQ48=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.89.0";
+    version = "2.90.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.89.0/revanced-patches-2.89.0.jar";
-      sha256 = "sha256-TMzBUNCAsHzzTdJWbqOUZrxnc3Vry/Q+QaXK0xIvdfM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.90.0/revanced-patches-2.90.0.jar";
+      sha256 = "sha256-syDM//XPKFoA3w75YP70YShZUxlJkRZ/CJKp1lv4sEA=";
     };
   };
   rofi-wayland = {

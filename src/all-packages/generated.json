@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IMRHOIkzdY+ihHiBhSAeDE7IGzpjKQWmCravk+Cl4k=",
+            "sha256": "sha256-POwSV9aJQrCwJQpGZ7hM7xGAd/2J1T/nCZF/euF1thw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-53-g07e368f0-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-54-g620dfa5d-1_all.deb"
         },
-        "version": "2.2-53-g07e368f0"
+        "version": "2.2-54-g620dfa5d"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3bee7222d84125b6072510ae5a283901c66c74b9",
-            "sha256": "sha256-+LQ+kW5Ik8TU4e9s4neuxET90HAwyEsZe+9Km4yVyQM=",
+            "rev": "89c2ff09268bc393128bc91b0ed386933cfe776d",
+            "sha256": "sha256-xxFGW6p6PAcup8v/fta7UfUsCdklYOePWoYhb9nDLfM=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "3bee7222d84125b6072510ae5a283901c66c74b9"
+        "version": "89c2ff09268bc393128bc91b0ed386933cfe776d"
     },
     "pure": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BCzRWLvjaR0brHOSkR93x8FA5E4sv0nMvrFDy+Qfh4U=",
+            "sha256": "sha256-LZErwQpQbKSx67luz/PXWRlNHBfMOvSxyIELXITYQ48=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.58.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.59.0/app-release-unsigned.apk"
         },
-        "version": "0.58.0"
+        "version": "0.59.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TMzBUNCAsHzzTdJWbqOUZrxnc3Vry/Q+QaXK0xIvdfM=",
+            "sha256": "sha256-syDM//XPKFoA3w75YP70YShZUxlJkRZ/CJKp1lv4sEA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.89.0/revanced-patches-2.89.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.90.0/revanced-patches-2.90.0.jar"
         },
-        "version": "2.89.0"
+        "version": "2.90.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
