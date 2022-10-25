@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "cb2b5beea8a3fb27ed514ee9e46b5729aa272179";
+    version = "876fdf480df7dd786d144f0f221029924c0083ef";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "cb2b5beea8a3fb27ed514ee9e46b5729aa272179";
+      rev = "876fdf480df7dd786d144f0f221029924c0083ef";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PeKhXmTuc0d7raKlPlSfcPc678osgu12I4t6lqaAD4A=";
+      sha256 = "sha256-DSVpqQJPs8ZkWqlTlUXrq4FQi+ckR13i9fZgQQQwEX8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-cb2b5beea8a3fb27ed514ee9e46b5729aa272179/Cargo.lock;
+      lockFile = ./conduit-876fdf480df7dd786d144f0f221029924c0083ef/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "8770aba287f6e52dc841ecbd2809489548f88e65";
+    version = "3bee7222d84125b6072510ae5a283901c66c74b9";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "8770aba287f6e52dc841ecbd2809489548f88e65";
+      rev = "3bee7222d84125b6072510ae5a283901c66c74b9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-3bQmIoEyHvX6+E8cGH11nEAB6PoSPdZHOrQo6TsW8ew=";
+      sha256 = "sha256-+LQ+kW5Ik8TU4e9s4neuxET90HAwyEsZe+9Km4yVyQM=";
     };
   };
   pure = {
