@@ -7184,11 +7184,6 @@ src.manual = "0.10.0" # GabrielNordeborn.vscode-rescript-relay
 fetch.url = "https://open-vsx.org/api/GabrielNordeborn/vscode-rescript-relay/0.10.0/file/GabrielNordeborn.vscode-rescript-relay-0.10.0.vsix" # GabrielNordeborn.vscode-rescript-relay
 passthru = { publisher = "GabrielNordeborn", name = "vscode-rescript-relay", description = "Improve quality-of-life of using RescriptRelay with VSCode.", license = "MIT" }
 
-[gitduck-code-streaming]
-src.manual = "0.4.11" # gitduck.code-streaming
-fetch.url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.11/file/gitduck.code-streaming-0.4.11.vsix" # gitduck.code-streaming
-passthru = { publisher = "gitduck", name = "code-streaming", description = "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs.", license = "Custom" }
-
 [DontShaveTheYak-groovy-guru]
 src.manual = "0.6.0" # DontShaveTheYak.groovy-guru
 fetch.url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.6.0/file/DontShaveTheYak.groovy-guru-0.6.0.vsix" # DontShaveTheYak.groovy-guru
