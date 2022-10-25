@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "0d619079e54092a3edfadc1b8c1951bc3e4e76d9";
+    version = "44ac27995ddadc9af62c1bc4926e15c867d55e31";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "0d619079e54092a3edfadc1b8c1951bc3e4e76d9";
+      rev = "44ac27995ddadc9af62c1bc4926e15c867d55e31";
       fetchSubmodules = true;
-      sha256 = "sha256-gG/JMPuxzM6djvnFXt01Ed2eZzBOZWyhIJxahy0iyhQ=";
+      sha256 = "sha256-+UTDhtA/6gQ0Q/ltaSn6w3Y0Wmk573Ixqvp9FhsUONk=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-0d619079e54092a3edfadc1b8c1951bc3e4e76d9/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-44ac27995ddadc9af62c1bc4926e15c867d55e31/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6731";
+    version = "1.0.6732";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6731.tar.bz2";
-      sha256 = "sha256-ZJh82vSLUTpE+TkheBTVKQSyYqys8ovGfSH9KVk7yjI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6732.tar.bz2";
+      sha256 = "sha256-V4uYEmPwwlIAX5oyHs6YNDgj1twpilVrQV7SJ0XwJ/o=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6731";
+    version = "1.0.6732";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6731-1_all.deb";
-      sha256 = "sha256-SN3AoHGOWN7Yl1U3mZkC3z1sF1ajJdf9VS0/+64y/+Q=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6732-1_all.deb";
+      sha256 = "sha256-x1fo7d1Bkl6j5PJdPa2Elj1DfRVBGA9J5AYGUICvFdQ=";
     };
   };
   jitsi-videobridge2 = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "3b5492d91e2e6f21918623a9769aff15bf72f899";
+    version = "8770aba287f6e52dc841ecbd2809489548f88e65";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "3b5492d91e2e6f21918623a9769aff15bf72f899";
+      rev = "8770aba287f6e52dc841ecbd2809489548f88e65";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-RDKq9KUZJdWG6g+gDstIhoTlaVgsyRXc5+Wjg8rk1Rk=";
+      sha256 = "sha256-3bQmIoEyHvX6+E8cGH11nEAB6PoSPdZHOrQo6TsW8ew=";
     };
   };
   pure = {
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.55.0";
+    version = "0.55.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.55.0/app-release-unsigned.apk";
-      sha256 = "sha256-lEihRCjacoX/rUhNfc8MscRW6vkPx2yjkI7dLXzzHSY=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.55.1/app-release-unsigned.apk";
+      sha256 = "sha256-qA8rqxYtRI8ONzQUNk9DMKOEQF2lkgxaVmBX7e+1k5c=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.85.2";
+    version = "2.86.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.85.2/revanced-patches-2.85.2.jar";
-      sha256 = "sha256-tovL/l1p8G/pvsMnqGzrRFSR3Dv6z6LH2JCbwWuMscM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.86.0/revanced-patches-2.86.0.jar";
+      sha256 = "sha256-2+dRB7Z6qdcCHr3AwOQ41zbryWQXSfWIX12iARAxcSA=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3a1856a9edaa6c49c2b5131f8bb4b4d118ab41bd";
+    version = "ee796b7a06067869da0871c5a3fe72033869f593";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3a1856a9edaa6c49c2b5131f8bb4b4d118ab41bd";
+      rev = "ee796b7a06067869da0871c5a3fe72033869f593";
       fetchSubmodules = false;
-      sha256 = "sha256-Qc35sm4XNEmr/ro740/X9h3e3ixSgKoS3FK7oNIy54I=";
+      sha256 = "sha256-sbUG730ZEiT3ogPF0AwvhJ6Hm5iIzb9ZZX/YOJY1BFc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3a1856a9edaa6c49c2b5131f8bb4b4d118ab41bd/Cargo.lock;
+      lockFile = ./rustdesk-ee796b7a06067869da0871c5a3fe72033869f593/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
