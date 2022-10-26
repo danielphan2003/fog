@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.140";
+    version = "0.0.141";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.140/discord-canary-0.0.140.tar.gz";
-      sha256 = "sha256-AEbjkAMeOJ48RVgbVj35Rp26klCsCsDCX+VD5u1xCM0=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.141/discord-canary-0.0.141.tar.gz";
+      sha256 = "sha256-ctk4onMkk1gUuSVLWl4aem8N9B0wC3VhzF3xW8QjDYA=";
     };
   };
   dnscrypt-proxy2 = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "107.0.1418.16";
+    version = "107.0.1418.23";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.16-1_amd64.deb";
-      sha256 = "sha256-MkcR0zoIBO+qGI0aZm6jSiPsqvVXD9ifQs7qMEgLY1A=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.23-1_amd64.deb";
+      sha256 = "sha256-xprdPtPmrScXpIoFD/9OKTne4h+fIQybxopt98DJsnY=";
     };
   };
   microsoft-edge-dev = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c0d6d6e750b80713a5a1532fcf57e8774018fe44";
+    version = "c7eee86fd5aa75ecdbbf65b01006844ce134df22";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c0d6d6e750b80713a5a1532fcf57e8774018fe44";
+      rev = "c7eee86fd5aa75ecdbbf65b01006844ce134df22";
       fetchSubmodules = false;
-      sha256 = "sha256-YPXhiuih9mtHHXks1br5gLMB+evCo2HIxEhPyfhvExM=";
+      sha256 = "sha256-uslN8c6bM6SfJmR2+7ZxhnNkz501AhA6QC5dm8J4Eqc=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.92.0";
+    version = "2.92.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.92.0/revanced-patches-2.92.0.jar";
-      sha256 = "sha256-S2kffJPKG0h0xHQV2VCENO8rsww44j16Ivlm9aMAmy8=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.92.1/revanced-patches-2.92.1.jar";
+      sha256 = "sha256-F6qH94N6NBLDNj1R4SIPQh2b5lXnmxx8n+6ZuCK8lFc=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9";
+    version = "6da1d37100377a0c46a9a91cc7f3849db832c436";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9";
+      rev = "6da1d37100377a0c46a9a91cc7f3849db832c436";
       fetchSubmodules = false;
-      sha256 = "sha256-p2iDy4gdSfInPMgOxG4r+VOHp1VSItzTHXIevuTHNm8=";
+      sha256 = "sha256-zU2HEfB278osnCLza8fu5pVJgqhYDwZIFPtYFkn8Z28=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9/Cargo.lock;
+      lockFile = ./rustdesk-6da1d37100377a0c46a9a91cc7f3849db832c436/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

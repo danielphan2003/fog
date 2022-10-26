@@ -511,11 +511,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AEbjkAMeOJ48RVgbVj35Rp26klCsCsDCX+VD5u1xCM0=",
+            "sha256": "sha256-ctk4onMkk1gUuSVLWl4aem8N9B0wC3VhzF3xW8QjDYA=",
             "type": "url",
-            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.140/discord-canary-0.0.140.tar.gz"
+            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.141/discord-canary-0.0.141.tar.gz"
         },
-        "version": "0.0.140"
+        "version": "0.0.141"
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
@@ -1093,11 +1093,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MkcR0zoIBO+qGI0aZm6jSiPsqvVXD9ifQs7qMEgLY1A=",
+            "sha256": "sha256-xprdPtPmrScXpIoFD/9OKTne4h+fIQybxopt98DJsnY=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.16-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_107.0.1418.23-1_amd64.deb"
         },
-        "version": "107.0.1418.16"
+        "version": "107.0.1418.23"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "c0d6d6e750b80713a5a1532fcf57e8774018fe44",
-            "sha256": "sha256-YPXhiuih9mtHHXks1br5gLMB+evCo2HIxEhPyfhvExM=",
+            "rev": "c7eee86fd5aa75ecdbbf65b01006844ce134df22",
+            "sha256": "sha256-uslN8c6bM6SfJmR2+7ZxhnNkz501AhA6QC5dm8J4Eqc=",
             "type": "github"
         },
-        "version": "c0d6d6e750b80713a5a1532fcf57e8774018fe44"
+        "version": "c7eee86fd5aa75ecdbbf65b01006844ce134df22"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S2kffJPKG0h0xHQV2VCENO8rsww44j16Ivlm9aMAmy8=",
+            "sha256": "sha256-F6qH94N6NBLDNj1R4SIPQh2b5lXnmxx8n+6ZuCK8lFc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.92.0/revanced-patches-2.92.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.92.1/revanced-patches-2.92.1.jar"
         },
-        "version": "2.92.0"
+        "version": "2.92.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9/Cargo.lock",
+                "./rustdesk-6da1d37100377a0c46a9a91cc7f3849db832c436/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9",
-            "sha256": "sha256-p2iDy4gdSfInPMgOxG4r+VOHp1VSItzTHXIevuTHNm8=",
+            "rev": "6da1d37100377a0c46a9a91cc7f3849db832c436",
+            "sha256": "sha256-zU2HEfB278osnCLza8fu5pVJgqhYDwZIFPtYFkn8Z28=",
             "type": "github"
         },
-        "version": "5b2f15e2d76fb6f0cf31e8e3b2c57e0adba9d7b9"
+        "version": "6da1d37100377a0c46a9a91cc7f3849db832c436"
     },
     "rustdesk-server": {
         "cargoLocks": {
