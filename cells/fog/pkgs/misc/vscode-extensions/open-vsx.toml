@@ -2390,8 +2390,8 @@ fetch.url = "https://open-vsx.org/api/vscode/shaderlab/1.64.0-next.68976705968/f
 passthru = { publisher = "vscode", name = "shaderlab", description = "Provides syntax highlighting and bracket matching in Shaderlab files.", license = "MIT" }
 
 [vscode-razor]
-src.manual = "1.64.0-next.68976705968" # vscode.razor
-fetch.url = "https://open-vsx.org/api/vscode/r/1.64.0-next.68976705968/file/vscode.r-1.64.0-next.68976705968.vsix" # vscode.razor
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.razor
+fetch.url = "https://open-vsx.org/api/vscode/r/1.64.0-next.d9fa2b12136/file/vscode.r-1.64.0-next.d9fa2b12136.vsix" # vscode.razor
 passthru = { publisher = "vscode", name = "razor", description = "Provides syntax highlighting, bracket matching and folding in Razor files.", license = "MIT" }
 
 [vscode-swift]
@@ -2430,18 +2430,18 @@ fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "pug", description = "Provides syntax highlighting and bracket matching in Pug files.", license = "MIT" }
 
 [vscode-perl]
-src.manual = "1.64.0-next.68976705968" # vscode.perl
-fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/vscode.perl-1.64.0-next.68976705968.vsix" # vscode.perl
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.perl
+fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.d9fa2b12136/file/vscode.perl-1.64.0-next.d9fa2b12136.vsix" # vscode.perl
 passthru = { publisher = "vscode", name = "perl", description = "Provides syntax highlighting and bracket matching in Perl files.", license = "MIT" }
 
 [vscode-theme-kimbie-dark]
-src.manual = "1.64.0-next.452e2c53030" # vscode.theme-kimbie-dark
-fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.452e2c53030/file/vscode.theme-kimbie-dark-1.64.0-next.452e2c53030.vsix" # vscode.theme-kimbie-dark
+src.manual = "1.64.0-next.68976705968" # vscode.theme-kimbie-dark
+fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.68976705968/file/vscode.theme-kimbie-dark-1.64.0-next.68976705968.vsix" # vscode.theme-kimbie-dark
 passthru = { publisher = "vscode", name = "theme-kimbie-dark", description = "Kimbie dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-abyss]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-abyss
-fetch.url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968/file/vscode.theme-abyss-1.64.0-next.68976705968.vsix" # vscode.theme-abyss
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-abyss
+fetch.url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.d9fa2b12136/file/vscode.theme-abyss-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-abyss
 passthru = { publisher = "vscode", name = "theme-abyss", description = "Abyss theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-red]
@@ -2500,8 +2500,8 @@ fetch.url = "https://open-vsx.org/api/bringout/pdf-view/2.4.8/file/bringout.pdf-
 passthru = { publisher = "bringout", name = "pdf-view", description = "pdf view for eShell", license = "MIT" }
 
 [vscode-typescript-language-features]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.typescript-language-features
-fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.d9fa2b12136/file/vscode.typescript-language-features-1.64.0-next.d9fa2b12136.vsix" # vscode.typescript-language-features
+src.manual = "1.64.0-next.68976705968" # vscode.typescript-language-features
+fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.68976705968/file/vscode.typescript-language-features-1.64.0-next.68976705968.vsix" # vscode.typescript-language-features
 passthru = { publisher = "vscode", name = "typescript-language-features", description = "Provides rich language support for JavaScript and TypeScript.", license = "MIT" }
 
 [vscode-merge-conflict]
@@ -2525,8 +2525,8 @@ fetch.url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.9
 passthru = { publisher = "meganrogge", name = "template-string-converter", description = "Converts a string to a template string when '$'{ is typed", license = "MIT" }
 
 [vscode-hlsl]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.hlsl
-fetch.url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.d9fa2b12136/file/vscode.hlsl-1.64.0-next.d9fa2b12136.vsix" # vscode.hlsl
+src.manual = "1.64.0-next.68976705968" # vscode.hlsl
+fetch.url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.68976705968/file/vscode.hlsl-1.64.0-next.68976705968.vsix" # vscode.hlsl
 passthru = { publisher = "vscode", name = "hlsl", description = "Provides syntax highlighting and bracket matching in HLSL files.", license = "MIT" }
 
 [vscode-csharp]
@@ -2640,8 +2640,8 @@ fetch.url = "https://open-vsx.org/api/zardoy/terminal-code-runner/0.1.1/file/zar
 passthru = { publisher = "zardoy", name = "terminal-code-runner", description = "", license = "MIT" }
 
 [vscode-javascript]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.javascript
-fetch.url = "https://open-vsx.org/api/vscode/java/1.64.0-next.d9fa2b12136/file/vscode.java-1.64.0-next.d9fa2b12136.vsix" # vscode.javascript
+src.manual = "1.64.0-next.68976705968" # vscode.javascript
+fetch.url = "https://open-vsx.org/api/vscode/java/1.64.0-next.68976705968/file/vscode.java-1.64.0-next.68976705968.vsix" # vscode.javascript
 passthru = { publisher = "vscode", name = "javascript", description = "Provides snippets, syntax highlighting, bracket matching and folding in JavaScript files.", license = "MIT" }
 
 [vscode-docker]
@@ -2790,8 +2790,8 @@ fetch.url = "https://open-vsx.org/api/FlyIoStaging/fly-extension/0.0.2/file/FlyI
 passthru = { publisher = "FlyIoStaging", name = "fly-extension", description = "", license = "MIT" }
 
 [vscode-json]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.json
-fetch.url = "https://open-vsx.org/api/vscode/json/1.64.0-next.d9fa2b12136/file/vscode.json-1.64.0-next.d9fa2b12136.vsix" # vscode.json
+src.manual = "1.64.0-next.68976705968" # vscode.json
+fetch.url = "https://open-vsx.org/api/vscode/json/1.64.0-next.68976705968/file/vscode.json-1.64.0-next.68976705968.vsix" # vscode.json
 passthru = { publisher = "vscode", name = "json", description = "Provides syntax highlighting & bracket matching in JSON files.", license = "MIT" }
 
 [ruscur-power-asm]
@@ -4160,8 +4160,8 @@ fetch.url = "https://open-vsx.org/api/mitchdenny/ecdc/1.8.0/file/mitchdenny.ecdc
 passthru = { publisher = "mitchdenny", name = "ecdc", description = "An extension for Visual Studio Code that allows you to quickly convert text selections.", license = "Apache-2.0" }
 
 [innoverio-vscode-dbt-power-user]
-src.manual = "0.8.0" # innoverio.vscode-dbt-power-user
-fetch.url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.8.0/file/innoverio.vscode-dbt-power-user-0.8.0.vsix" # innoverio.vscode-dbt-power-user
+src.manual = "0.8.1" # innoverio.vscode-dbt-power-user
+fetch.url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.8.1/file/innoverio.vscode-dbt-power-user-0.8.1.vsix" # innoverio.vscode-dbt-power-user
 passthru = { publisher = "innoverio", name = "vscode-dbt-power-user", description = "This extension makes vscode seamlessly work with dbt", license = "MIT" }
 
 [ms-edgedevtools-vscode-edge-devtools]
@@ -9430,8 +9430,8 @@ fetch.url = "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-
 passthru = { publisher = "dalirnet", name = "vue-sort", description = "Sort vue component", license = "MIT" }
 
 [CL-eide]
-src.manual = "3.9.1" # CL.eide
-fetch.url = "https://open-vsx.org/api/CL/eide/3.9.1/file/CL.eide-3.9.1.vsix" # CL.eide
+src.manual = "3.10.0" # CL.eide
+fetch.url = "https://open-vsx.org/api/CL/eide/3.10.0/file/cl.eide-3.10.0.vsix" # CL.eide
 passthru = { publisher = "CL", name = "eide", description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V", license = "MIT" }
 
 [dalirnet-doctypes]
@@ -11082,4 +11082,20 @@ passthru = { publisher = "porifa", name = "laravel-intelephense", description = 
 
 
 
+
+
+[fulib-vnc-viewer]
+src.manual = "0.0.1" # fulib.vnc-viewer
+fetch.url = "https://open-vsx.org/api/fulib/vnc-viewer/0.0.1/file/fulib.vnc-viewer-0.0.1.vsix" # fulib.vnc-viewer
+passthru = { publisher = "fulib", name = "vnc-viewer", description = "VNC Viewer for fulib.org", license = "MIT" }
+
+[kanekotic-trunk-based-review]
+src.manual = "0.0.1" # kanekotic.trunk-based-review
+fetch.url = "https://open-vsx.org/api/kanekotic/trunk-based-review/0.0.1/file/kanekotic.trunk-based-review-0.0.1.vsix" # kanekotic.trunk-based-review
+passthru = { publisher = "kanekotic", name = "trunk-based-review", description = "Trunk Based Review VS Code Extension", license = "MIT" }
+
+[bfrangi-vscode-nightingale-theme]
+src.manual = "0.0.1" # bfrangi.vscode-nightingale-theme
+fetch.url = "https://open-vsx.org/api/bfrangi/vscode-nightingale-theme/0.0.1/file/bfrangi.vscode-nightingale-theme-0.0.1.vsix" # bfrangi.vscode-nightingale-theme
+passthru = { publisher = "bfrangi", name = "vscode-nightingale-theme", description = "Dark theme based on Kanagawa", license = "GPL-3.0" }
 

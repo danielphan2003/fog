@@ -483,10 +483,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.9.1";
+    version = "3.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.9.1/file/CL.eide-3.9.1.vsix";
-      sha256 = "sha256-gKzzwrhYpLn+KIuE7V7IcfT4ZCoVFLE9wcyBChY2+ZI=";
+      url = "https://open-vsx.org/api/CL/eide/3.10.0/file/cl.eide-3.10.0.vsix";
+      sha256 = "sha256-mK3EJb6jI5G4s6Y2gGVM+yq6gbNZTr15cQCqGE8srFA=";
     };
     license = "MIT";
     name = "eide";
@@ -6565,6 +6565,18 @@
     description = "Syntax Highlighting in Django-Tex Templates";
     publisher = "bfrangi";
   };
+  bfrangi-vscode-nightingale-theme = {
+    pname = "bfrangi-vscode-nightingale-theme";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bfrangi/vscode-nightingale-theme/0.0.1/file/bfrangi.vscode-nightingale-theme-0.0.1.vsix";
+      sha256 = "sha256-5ChoFvF4FVAYHm5Dvi3mj7eJWY7sF+LcmmHaP4mwxWU=";
+    };
+    license = "GPL-3.0";
+    name = "vscode-nightingale-theme";
+    description = "Dark theme based on Kanagawa";
+    publisher = "bfrangi";
+  };
   biao1010-ai-js = {
     pname = "biao1010-ai-js";
     version = "0.0.1";
@@ -10573,6 +10585,18 @@
     description = "Support for php-cs-fixer in Visual Studio Code";
     publisher = "fterrag";
   };
+  fulib-vnc-viewer = {
+    pname = "fulib-vnc-viewer";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/fulib/vnc-viewer/0.0.1/file/fulib.vnc-viewer-0.0.1.vsix";
+      sha256 = "sha256-mUUutx49FE1p3fRl58Ucz0fQltS0aDcBGtV+MHZ8qks=";
+    };
+    license = "MIT";
+    name = "vnc-viewer";
+    description = "VNC Viewer for fulib.org";
+    publisher = "fulib";
+  };
   fwcd-kotlin = {
     pname = "fwcd-kotlin";
     version = "0.2.26";
@@ -12183,10 +12207,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.8.0/file/innoverio.vscode-dbt-power-user-0.8.0.vsix";
-      sha256 = "sha256-aNeuFMUuoC+8pK/E4YNmpoC8SlyPbopajV9Sv7IThHc=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.8.1/file/innoverio.vscode-dbt-power-user-0.8.1.vsix";
+      sha256 = "sha256-zJzY+pEvPVcK/pNT+MeKbUdAzwgqwsGZ00Nqlp7N3Cs=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
@@ -13284,6 +13308,18 @@
     name = "vscode-colorize";
     description = "A vscode extension to help visualize css colors in files.";
     publisher = "kamikillerto";
+  };
+  kanekotic-trunk-based-review = {
+    pname = "kanekotic-trunk-based-review";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kanekotic/trunk-based-review/0.0.1/file/kanekotic.trunk-based-review-0.0.1.vsix";
+      sha256 = "sha256-ufg1Go4lRVNbKX95fVhzBadw+pbbf+5kJbF5303QmDk=";
+    };
+    license = "MIT";
+    name = "trunk-based-review";
+    description = "Trunk Based Review VS Code Extension";
+    publisher = "kanekotic";
   };
   kaptainmicila-gzdoom-zscript = {
     pname = "kaptainmicila-gzdoom-zscript";
@@ -23463,10 +23499,10 @@
   };
   vscode-hlsl = {
     pname = "vscode-hlsl";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.d9fa2b12136/file/vscode.hlsl-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-OtPfFmbx578nym7e1lIvd3sIqTyKlIFIn86Sym4wyXc=";
+      url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.68976705968/file/vscode.hlsl-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-uFEd340G9/Yrhxr5feRDmXzMXLCa2XmxA7w46CrUQww=";
     };
     license = "MIT";
     name = "hlsl";
@@ -23559,10 +23595,10 @@
   };
   vscode-javascript = {
     pname = "vscode-javascript";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/java/1.64.0-next.d9fa2b12136/file/vscode.java-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-c1By+n9CEYVvBmO0J6wv0/vWUm1O+R5K/praihYTmCI=";
+      url = "https://open-vsx.org/api/vscode/java/1.64.0-next.68976705968/file/vscode.java-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-NYaaTMyFjAA8zoQx8aq+ikLxzT6NL7+Sp7QxQAe0AGM=";
     };
     license = "MIT";
     name = "javascript";
@@ -23571,10 +23607,10 @@
   };
   vscode-json = {
     pname = "vscode-json";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/json/1.64.0-next.d9fa2b12136/file/vscode.json-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-pDmYHlIkirNFMqT0tj+iCJhC5rkKbVPdEWvjjRI4tI4=";
+      url = "https://open-vsx.org/api/vscode/json/1.64.0-next.68976705968/file/vscode.json-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-G5yFeMMqk5RvbrXlBsYdpm5g9zFg7DY+IaKK1o/cBzc=";
     };
     license = "MIT";
     name = "json";
@@ -23727,10 +23763,10 @@
   };
   vscode-perl = {
     pname = "vscode-perl";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/vscode.perl-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-FeVTL5fErHNdrNdzFaGuSLdRcOnxtZaAUJ3FKGap+b0=";
+      url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.d9fa2b12136/file/vscode.perl-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-aQeFwEnmM2XyoL0niH574XdYNxVYoJ3VUuQ8fWBt4m0=";
     };
     license = "MIT";
     name = "perl";
@@ -23775,10 +23811,10 @@
   };
   vscode-razor = {
     pname = "vscode-razor";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/r/1.64.0-next.68976705968/file/vscode.r-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-6NO6vV382xvI04970owOKkEpJtnJeILxX8AhR6ol76w=";
+      url = "https://open-vsx.org/api/vscode/r/1.64.0-next.d9fa2b12136/file/vscode.r-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-U7LAg1rRpHfgv8G1M9LCv9mHVeg5TGQZCiRnqk4RxzE=";
     };
     license = "MIT";
     name = "razor";
@@ -23895,10 +23931,10 @@
   };
   vscode-theme-abyss = {
     pname = "vscode-theme-abyss";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968/file/vscode.theme-abyss-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-ojqdXX9o9pupOWeu+KPG7tplYeTwdfH4XEVrkXZOOeE=";
+      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.d9fa2b12136/file/vscode.theme-abyss-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-0qFkfPdgReAkzRVTODElnA8Lca3JCI6R1ayvoVIF/wc=";
     };
     license = "MIT";
     name = "theme-abyss";
@@ -23919,10 +23955,10 @@
   };
   vscode-theme-kimbie-dark = {
     pname = "vscode-theme-kimbie-dark";
-    version = "1.64.0-next.452e2c53030";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.452e2c53030/file/vscode.theme-kimbie-dark-1.64.0-next.452e2c53030.vsix";
-      sha256 = "sha256-i0P5RLc3b97//tNSEDABotQqJSF8pjn4rs+xqmBF7Pw=";
+      url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.68976705968/file/vscode.theme-kimbie-dark-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-xxn6b9UgGvTGU4HOPQ/zJwo1915zuMSCsd1Mn3slKJ0=";
     };
     license = "MIT";
     name = "theme-kimbie-dark";
@@ -24003,10 +24039,10 @@
   };
   vscode-typescript-language-features = {
     pname = "vscode-typescript-language-features";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.d9fa2b12136/file/vscode.typescript-language-features-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-p9+Uc9eRc1mqKPzecCrRXXcxSXlvbR14fTkz43FpQq4=";
+      url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.68976705968/file/vscode.typescript-language-features-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-I0AjlJpW3baFdHgaNImj1zA6EShTzA2e647KCKk6JqM=";
     };
     license = "MIT";
     name = "typescript-language-features";
