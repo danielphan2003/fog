@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f7266cae31f6a7c3646654353bdaa0ccf427edf6";
+    version = "9df0f1914388c880307fb20a05da85348a3c42cf";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f7266cae31f6a7c3646654353bdaa0ccf427edf6";
+      rev = "9df0f1914388c880307fb20a05da85348a3c42cf";
       fetchSubmodules = false;
-      sha256 = "sha256-VDTeSDYuO+tulqf1AFHPq1AWEGzczbeTiktsRLcRFrI=";
+      sha256 = "sha256-tQrZxlyJ2Idfx2qpAtnBvFahRjrE4kcR8ykmglrlmrs=";
     });
   };
   caddy = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "fc78f96a3ad693fe4aa2779e2d53fbeccef4cd9f";
+    version = "e8f4268e6e75cfe8f97838926e27b02a99c8acb6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "fc78f96a3ad693fe4aa2779e2d53fbeccef4cd9f";
+      rev = "e8f4268e6e75cfe8f97838926e27b02a99c8acb6";
       fetchSubmodules = false;
-      sha256 = "sha256-JFvplBvaQty6pHZRwKczmZG5yC9sXPqSrJlKL0C8UQI=";
+      sha256 = "sha256-0Wmk8p952UM+5jDIuog2Btra5qOdWszIUnmI3ssmCfw=";
     });
   };
   revanced-cli = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "95f3dd13461c9597dd9308eb2b57b8187d786de5";
+    version = "8c09ae90322c27d9d506783ef4e1684239e11258";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "95f3dd13461c9597dd9308eb2b57b8187d786de5";
+      rev = "8c09ae90322c27d9d506783ef4e1684239e11258";
       fetchSubmodules = false;
-      sha256 = "sha256-BQbyl8mAMXTjsGPJyclIPMJMwC39QONQlmQLHrvahBg=";
+      sha256 = "sha256-yZ8UwE4zguCP4IjafOM683jg3iUad9APzCznAVJycFc=";
     });
   };
   tailscale-systray = {
@@ -1300,10 +1300,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.10.1";
+    version = "2022.10.2";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.1/bw_web_v2022.10.1.tar.gz";
-      sha256 = "sha256-4kkw1Ik79tGMYbiHcL6+G6IYpBDVHcYgPfWaYCHuGcY=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.2/bw_web_v2022.10.2.tar.gz";
+      sha256 = "sha256-ubmh7k3CSPSN36N5is17o6OP34ZvMwC498wFyBzkCK0=";
     };
   };
   ventoy = {
