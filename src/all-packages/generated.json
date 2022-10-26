@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3JoYkmrI2Ggf3GOEbZMJI7cY5kh1nlkY/S+r2LDQxUk=",
+            "sha256": "sha256-+qTBgKjtKpFnfh6YpheR3rjKCUHK7uJ4XKOzX0uYchI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-56-g56715316-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-57-g1158321d-1_all.deb"
         },
-        "version": "2.2-56-g56715316"
+        "version": "2.2-57-g1158321d"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "92a2c0f71afc3f5db2d550708b7063b1c96f69d9",
-            "sha256": "sha256-7J6YTvx5m0k70/lgT1gqMf1PQ7J1w70Dkc9lHu9mmjU=",
+            "rev": "fc78f96a3ad693fe4aa2779e2d53fbeccef4cd9f",
+            "sha256": "sha256-JFvplBvaQty6pHZRwKczmZG5yC9sXPqSrJlKL0C8UQI=",
             "type": "github"
         },
-        "version": "92a2c0f71afc3f5db2d550708b7063b1c96f69d9"
+        "version": "fc78f96a3ad693fe4aa2779e2d53fbeccef4cd9f"
     },
     "revanced-cli": {
         "cargoLocks": null,
