@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.90.0";
+    version = "2.91.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.90.0/revanced-patches-2.90.0.jar";
-      sha256 = "sha256-syDM//XPKFoA3w75YP70YShZUxlJkRZ/CJKp1lv4sEA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.91.0/revanced-patches-2.91.0.jar";
+      sha256 = "sha256-8QE5ETusClpkSWGRTYuk9CT1PkiZO4ID2Ml58WXOt3U=";
     };
   };
   rofi-wayland = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a471681e285ba22ab1975e4c2ab92768156e4162";
+    version = "19b558657308a0cd6d8e2eac272737552fb04725";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a471681e285ba22ab1975e4c2ab92768156e4162";
+      rev = "19b558657308a0cd6d8e2eac272737552fb04725";
       fetchSubmodules = false;
-      sha256 = "sha256-mSJBvoRl2m/iUaodeFLxS2Klk0oyIPslWluQXRBuM/Q=";
+      sha256 = "sha256-3OeO2mL3jiynmZjUbo0znRf/0M/pRR4T/kpDtC8uTWU=";
     });
   };
   tailscale-systray = {
