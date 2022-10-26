@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-54-g620dfa5d";
+    version = "2.2-55-gf59bbe9d";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-54-g620dfa5d-1_all.deb";
-      sha256 = "sha256-POwSV9aJQrCwJQpGZ7hM7xGAd/2J1T/nCZF/euF1thw=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-55-gf59bbe9d-1_all.deb";
+      sha256 = "sha256-rg/l/DLQ/kR8xMY4xiP/Lz9a1ZsPE6oVTXU0Z+G0ysU=";
     };
   };
   layout-machi = {
@@ -727,13 +727,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "bc84a053784c8b902c371683eb052fd07c8fc88e";
+    version = "f68678f687998ae3e489e0831146087f1e3d1ea5";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "bc84a053784c8b902c371683eb052fd07c8fc88e";
+      rev = "f68678f687998ae3e489e0831146087f1e3d1ea5";
       fetchSubmodules = false;
-      sha256 = "sha256-2TKpQvgFcsx0U64DRSvg5jAMFIyR3Vxzt7xY6hQkeIo=";
+      sha256 = "sha256-yP/GdUtSrDSFbx0i0tJBvlGIXRFoIvkL9h8PW4ak9os=";
     });
   };
   ny-font = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015";
+    version = "b41f6b288569d2e47cd69587f5d6c14e8e47e05c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015";
+      rev = "b41f6b288569d2e47cd69587f5d6c14e8e47e05c";
       fetchSubmodules = false;
-      sha256 = "sha256-1ZMxobNoE6uJvk6PaCbwRK5RiEW04neRzU+ap8YbW+8=";
+      sha256 = "sha256-jjcELLBVb1+rUMLFiw2QuP/J+RWd+0UGffRU/QeRHWg=";
     });
   };
   revanced-cli = {
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "df3ed412a6407bf78cda3bd3711890934226c870";
+    version = "d22bca3f34c9fad2c88fe4473834b35408d98d04";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "df3ed412a6407bf78cda3bd3711890934226c870";
+      rev = "d22bca3f34c9fad2c88fe4473834b35408d98d04";
       fetchSubmodules = false;
-      sha256 = "sha256-jOby1tL3yQcjIDOTcho7+/NocAiYfmvcN9H9j939RTo=";
+      sha256 = "sha256-7vxKi6ZVTUoPvKleU1N9BKTXmOZZ2INUQgkOvPFMl+Y=";
     });
   };
   whitesur-icon-theme = {

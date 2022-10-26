@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-POwSV9aJQrCwJQpGZ7hM7xGAd/2J1T/nCZF/euF1thw=",
+            "sha256": "sha256-rg/l/DLQ/kR8xMY4xiP/Lz9a1ZsPE6oVTXU0Z+G0ysU=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-54-g620dfa5d-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-55-gf59bbe9d-1_all.deb"
         },
-        "version": "2.2-54-g620dfa5d"
+        "version": "2.2-55-gf59bbe9d"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1225,11 +1225,11 @@
             "name": null,
             "owner": "nwg-piotr",
             "repo": "nwg-drawer",
-            "rev": "bc84a053784c8b902c371683eb052fd07c8fc88e",
-            "sha256": "sha256-2TKpQvgFcsx0U64DRSvg5jAMFIyR3Vxzt7xY6hQkeIo=",
+            "rev": "f68678f687998ae3e489e0831146087f1e3d1ea5",
+            "sha256": "sha256-yP/GdUtSrDSFbx0i0tJBvlGIXRFoIvkL9h8PW4ak9os=",
             "type": "github"
         },
-        "version": "bc84a053784c8b902c371683eb052fd07c8fc88e"
+        "version": "f68678f687998ae3e489e0831146087f1e3d1ea5"
     },
     "ny-font": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015",
-            "sha256": "sha256-1ZMxobNoE6uJvk6PaCbwRK5RiEW04neRzU+ap8YbW+8=",
+            "rev": "b41f6b288569d2e47cd69587f5d6c14e8e47e05c",
+            "sha256": "sha256-jjcELLBVb1+rUMLFiw2QuP/J+RWd+0UGffRU/QeRHWg=",
             "type": "github"
         },
-        "version": "94a3eba9ef7a202cd364d33cbe0fd31cd2c0a015"
+        "version": "b41f6b288569d2e47cd69587f5d6c14e8e47e05c"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "df3ed412a6407bf78cda3bd3711890934226c870",
-            "sha256": "sha256-jOby1tL3yQcjIDOTcho7+/NocAiYfmvcN9H9j939RTo=",
+            "rev": "d22bca3f34c9fad2c88fe4473834b35408d98d04",
+            "sha256": "sha256-7vxKi6ZVTUoPvKleU1N9BKTXmOZZ2INUQgkOvPFMl+Y=",
             "type": "github"
         },
-        "version": "df3ed412a6407bf78cda3bd3711890934226c870"
+        "version": "d22bca3f34c9fad2c88fe4473834b35408d98d04"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
