@@ -7563,10 +7563,10 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.6/file/cloudstudio.browser-preview-lite-0.0.6.vsix";
-      sha256 = "sha256-4UGxrHg9IiSdkmB+y5fiLQJ+moP6y+rqNKjRoeW4Ux0=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.7/file/CloudStudio.browser-preview-lite-0.0.7.vsix";
+      sha256 = "sha256-ckNwcY2aaluUTj6M4FZc5yfKzdyM6XSNPepNNkwsBts=";
     };
     license = "MIT";
     name = "browser-preview-lite";
@@ -7623,10 +7623,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.15/file/cloudstudio.common-0.0.15.vsix";
-      sha256 = "sha256-SV3rPf62ScCwTa33NPA6Q3q7O1uG0KLiW9qlM86pUZc=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.16/file/CloudStudio.common-0.0.16.vsix";
+      sha256 = "sha256-yT+WRjAS9Nx56tddrSVRClKJIkHwArzh/3G7O1rbrxg=";
     };
     license = "MIT";
     name = "common";
@@ -7671,10 +7671,10 @@
   };
   cloudstudio-github-authentication = {
     pname = "cloudstudio-github-authentication";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.5/file/cloudstudio.github-authentication-0.0.5.vsix";
-      sha256 = "sha256-1+OZBN3QxvpU5VGq5P5g7LoWKqwZw+VcuCr5aatPe9Y=";
+      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.6/file/CloudStudio.github-authentication-0.0.6.vsix";
+      sha256 = "sha256-DitTixEJ/JZYciThX5NqQN71kdoJAsqnw5F3X+RjeTo=";
     };
     license = "MIT";
     name = "github-authentication";
@@ -7719,10 +7719,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.29";
+    version = "0.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.29/file/cloudstudio.workspaces-0.0.29.vsix";
-      sha256 = "sha256-mS8/KGh6FKQTbPGQhhGDqsuF6sZQ/SiivCT36GZuNi0=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.30/file/CloudStudio.workspaces-0.0.30.vsix";
+      sha256 = "sha256-tRnmTvL2jNefGA4UWOO0QaqZXnnFIJQw9mBKp3jzBJU=";
     };
     license = "MIT";
     name = "workspaces";
@@ -8199,10 +8199,10 @@
   };
   cweijan-vscode-office = {
     pname = "cweijan-vscode-office";
-    version = "2.7.8";
+    version = "2.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-office/2.7.8/file/cweijan.vscode-office-2.7.8.vsix";
-      sha256 = "sha256-pL4SdKm9cNqPNhrmf2TU9bLeGsK9AWNAZT3YDes1JgE=";
+      url = "https://open-vsx.org/api/cweijan/vscode-office/2.8.0/file/cweijan.vscode-office-2.8.0.vsix";
+      sha256 = "sha256-bKX29xT8WBBOV5EDtz0nc0WsPWQ8np0+8ag+8MKBm04=";
     };
     license = "MIT";
     name = "vscode-office";
@@ -23331,10 +23331,10 @@
   };
   vscode-debug-auto-launch = {
     pname = "vscode-debug-auto-launch";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.68976705968/file/vscode.debug-auto-launch-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-wr5Ha3ZkkKsaAirLO65/TvpSlMHxGipkReAH33G5oI8=";
+      url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.d9fa2b12136/file/vscode.debug-auto-launch-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-820SjMoRzRRdtOtykfwa61ALDICFxLhRi6C9l5CR1hs=";
     };
     license = "MIT";
     name = "debug-auto-launch";
@@ -23427,10 +23427,10 @@
   };
   vscode-git-ui = {
     pname = "vscode-git-ui";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/git/1.64.0-next.68976705968/file/vscode.git-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-AK/0sGsrJZ3qd5xvjmkCEfQdvU8RniyuRxmKtU1N2sc=";
+      url = "https://open-vsx.org/api/vscode/git/1.64.0-next.d9fa2b12136/file/vscode.git-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-hGnMQcHg2fHoaOKOk0MAmCdO0pVHIryK9ktVJZCaqjw=";
     };
     license = "MIT";
     name = "git-ui";
@@ -23511,10 +23511,10 @@
   };
   vscode-handlebars = {
     pname = "vscode-handlebars";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.d9fa2b12136/file/vscode.handlebars-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-U/M8QX7jvpIK7UsBevkjwdpK+Sehl3fV2GkBVlzCvKQ=";
+      url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.68976705968/file/vscode.handlebars-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-dIIB/ig0qDX4lhn1eVdII0/RxEr807y1Gc40Zn093Zg=";
     };
     license = "MIT";
     name = "handlebars";
@@ -23763,10 +23763,10 @@
   };
   vscode-objective-c = {
     pname = "vscode-objective-c";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/objective-c/1.64.0-next.d9fa2b12136/file/vscode.objective-c-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-XTCPiJ/v3i8scoXgWY71qLyOe+YjCXMy8iiGWc2XnqY=";
+      url = "https://open-vsx.org/api/vscode/objective-c/1.64.0-next.68976705968/file/vscode.objective-c-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-cTaKqdvqCA9NDWWtnLOkrEaDj7Ep2ZQ5lXDFJwnGPtQ=";
     };
     license = "MIT";
     name = "objective-c";
@@ -23799,10 +23799,10 @@
   };
   vscode-php-language-features = {
     pname = "vscode-php-language-features";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/php-language-features/1.64.0-next.d9fa2b12136/file/vscode.php-language-features-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-aS+WvGvZNSp8O5ct0Fp0Whxk9NZf1zHa5LvoUWDE+xY=";
+      url = "https://open-vsx.org/api/vscode/php-language-features/1.64.0-next.68976705968/file/vscode.php-language-features-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-l2cBfaQ2XWfwW/G9XXATbaBGUmQuxlh+b9BsBFroKyY=";
     };
     license = "MIT";
     name = "php-language-features";
@@ -23835,10 +23835,10 @@
   };
   vscode-razor = {
     pname = "vscode-razor";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/r/1.64.0-next.68976705968/file/vscode.r-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-6NO6vV382xvI04970owOKkEpJtnJeILxX8AhR6ol76w=";
+      url = "https://open-vsx.org/api/vscode/r/1.64.0-next.d9fa2b12136/file/vscode.r-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-U7LAg1rRpHfgv8G1M9LCv9mHVeg5TGQZCiRnqk4RxzE=";
     };
     license = "MIT";
     name = "razor";
@@ -23955,10 +23955,10 @@
   };
   vscode-theme-abyss = {
     pname = "vscode-theme-abyss";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.d9fa2b12136/file/vscode.theme-abyss-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-0qFkfPdgReAkzRVTODElnA8Lca3JCI6R1ayvoVIF/wc=";
+      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968/file/vscode.theme-abyss-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-ojqdXX9o9pupOWeu+KPG7tplYeTwdfH4XEVrkXZOOeE=";
     };
     license = "MIT";
     name = "theme-abyss";
@@ -24003,10 +24003,10 @@
   };
   vscode-theme-quietlight = {
     pname = "vscode-theme-quietlight";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-quietlight/1.64.0-next.68976705968/file/vscode.theme-quietlight-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-GR98zNBzFXi5M2Fw7iqIaYM8YDEIM2RDSW12ov+9uyA=";
+      url = "https://open-vsx.org/api/vscode/theme-quietlight/1.64.0-next.d9fa2b12136/file/vscode.theme-quietlight-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-BCRA+kqalD3viB99jFgeIxN72GMANkVaDWcvrCNQY+k=";
     };
     license = "MIT";
     name = "theme-quietlight";
@@ -24051,10 +24051,10 @@
   };
   vscode-theme-tomorrow-night-blue = {
     pname = "vscode-theme-tomorrow-night-blue";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-tomorrow-night-blue/1.64.0-next.68976705968/file/vscode.theme-tomorrow-night-blue-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-l2BA8S0g/EMlxOMC/CXwytUev/l4jcOrOAQGgalW86c=";
+      url = "https://open-vsx.org/api/vscode/theme-tomorrow-night-blue/1.64.0-next.d9fa2b12136/file/vscode.theme-tomorrow-night-blue-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-X78wCN+6WeUvn9gK8lx1AH9FGPdoyRr/tndUb3wK4N0=";
     };
     license = "MIT";
     name = "theme-tomorrow-night-blue";
@@ -24099,10 +24099,10 @@
   };
   vscode-yaml = {
     pname = "vscode-yaml";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/yaml/1.64.0-next.68976705968/file/vscode.yaml-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-Pr9+vFcQMEVBCb0IE7YyMRQn08c/rZguC2ESHAp9L9M=";
+      url = "https://open-vsx.org/api/vscode/yaml/1.64.0-next.d9fa2b12136/file/vscode.yaml-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-qXCjTRNOm7h9bxnolpL096feJcwo5CAoKBf1Ayw7u+E=";
     };
     license = "MIT";
     name = "yaml";
