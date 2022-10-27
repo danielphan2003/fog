@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pgUYxqa7A1O94xMolU9GA+uD0n8Y38xJjjj/UtUpFRU=",
+            "sha256": "sha256-takiO+Chbg0gtDwQSWSW6BCkfAL/pFcFGXh94qz5dtM=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.92.2/revanced-patches-2.92.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.92.3/revanced-patches-2.92.3.jar"
         },
-        "version": "2.92.2"
+        "version": "2.92.3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "a44687e71f54dc0bc5c60148350dc75de3600b71",
-            "sha256": "sha256-dId9E2/LmcQiksFjwl9K6WgLwF6v2+JcZDZYr0yNYzs=",
+            "rev": "c21a3c47333f5d990569861e826bc6be15b46e40",
+            "sha256": "sha256-FwBYJNnKJvK9Vmv91XfaVUoqINTql7KUo450XlpOWQ0=",
             "type": "github"
         },
-        "version": "a44687e71f54dc0bc5c60148350dc75de3600b71"
+        "version": "c21a3c47333f5d990569861e826bc6be15b46e40"
     },
     "tailscale-systray": {
         "cargoLocks": null,
