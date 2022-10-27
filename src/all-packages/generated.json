@@ -1168,11 +1168,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cdQnnZv16PPnxe8T6GbCDWj0zky21yZ9wv5rQhzDnGA=",
+            "sha256": "sha256-OQZJ0e06vD+YoThKQAEUuL4RYtd6p5p/bySLLXBEV4I=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.41.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.41.2.tar.gz"
         },
-        "version": "0.41.1"
+        "version": "0.41.2"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "8c09ae90322c27d9d506783ef4e1684239e11258",
-            "sha256": "sha256-yZ8UwE4zguCP4IjafOM683jg3iUad9APzCznAVJycFc=",
+            "rev": "4021ae6b9def3b7effc1c6f276ff3c822640e9a0",
+            "sha256": "sha256-BZHaBtluh0bDpc7W8pu9PMosGqKpwUffdSitBBt34MU=",
             "type": "github"
         },
-        "version": "8c09ae90322c27d9d506783ef4e1684239e11258"
+        "version": "4021ae6b9def3b7effc1c6f276ff3c822640e9a0"
     },
     "tailscale-systray": {
         "cargoLocks": null,
