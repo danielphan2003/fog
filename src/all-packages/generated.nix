@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "3bb26d63425ac948c1fb391e50c2174ed5e0f46a";
+    version = "464b0e575b7315e44f479216a6be5b1a5b478558";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "3bb26d63425ac948c1fb391e50c2174ed5e0f46a";
+      rev = "464b0e575b7315e44f479216a6be5b1a5b478558";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-mL1G67fYvUW1TvDfPHdPTtRgGd4JgaZ5t29V/LqtHzA=";
+      sha256 = "sha256-i/89xsqeb/Sy2cBn+uW+WpE8r2cymdOnpzmHIpqxphc=";
     };
   };
   flyingfox = {
@@ -1089,13 +1089,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "8ad8dbf45da75a723a6028e291ef8d87181e9c70";
+    version = "92d2c10eb6ecf7b9e93d3d4f5563ed8346b299f1";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "8ad8dbf45da75a723a6028e291ef8d87181e9c70";
+      rev = "92d2c10eb6ecf7b9e93d3d4f5563ed8346b299f1";
       fetchSubmodules = false;
-      sha256 = "sha256-WiMmHbiAivOW8IisW6lRDt4vfDoco9OwBiU4sSFYG4Q=";
+      sha256 = "sha256-262tnSKX6M9ggm4JIs0pANeq2JSNYzKkTN8awpqLyMM=";
     });
   };
   spicetify-marketplace = {
@@ -1349,13 +1349,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "5ada2124406526a250bdc5465fe5ab509098f1b5";
+    version = "578515e6711b1540cb4eb35e75ce4ed276a3c8aa";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "5ada2124406526a250bdc5465fe5ab509098f1b5";
+      rev = "578515e6711b1540cb4eb35e75ce4ed276a3c8aa";
       fetchSubmodules = false;
-      sha256 = "sha256-xZjFwteBVeEinrHn93Duh4endpqnTQNWLr5zk+LTHDs=";
+      sha256 = "sha256-jOrTasnkNExCgvST+09JOQ0iosjoEu3aoj3C1pNHTgY=";
     });
   };
   whitesur-icon-theme = {
