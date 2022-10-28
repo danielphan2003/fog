@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "876fdf480df7dd786d144f0f221029924c0083ef";
+    version = "e86fb115120a9d7bebe76727cc9fca8b8530fd9d";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "876fdf480df7dd786d144f0f221029924c0083ef";
+      rev = "e86fb115120a9d7bebe76727cc9fca8b8530fd9d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DSVpqQJPs8ZkWqlTlUXrq4FQi+ckR13i9fZgQQQwEX8=";
+      sha256 = "sha256-djntX5VMJ+WB/pX78wktEjFi+MLUb4v46BmieQLbVXQ=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-876fdf480df7dd786d144f0f221029924c0083ef/Cargo.lock;
+      lockFile = ./conduit-e86fb115120a9d7bebe76727cc9fca8b8530fd9d/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.94.0";
+    version = "2.95.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.94.0/revanced-patches-2.94.0.jar";
-      sha256 = "sha256-+0papYv2poUqSraRQPJade+aFNipx2/tKu4Xvkdy1To=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.95.0/revanced-patches-2.95.0.jar";
+      sha256 = "sha256-SYREcaDY0IbuQGTwnYqvDFQnqXKZH6TK7jp4PFMVxqY=";
     };
   };
   rofi-wayland = {

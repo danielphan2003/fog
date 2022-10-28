@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-876fdf480df7dd786d144f0f221029924c0083ef/Cargo.lock",
+                "./conduit-e86fb115120a9d7bebe76727cc9fca8b8530fd9d/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "876fdf480df7dd786d144f0f221029924c0083ef",
-            "sha256": "sha256-DSVpqQJPs8ZkWqlTlUXrq4FQi+ckR13i9fZgQQQwEX8=",
+            "rev": "e86fb115120a9d7bebe76727cc9fca8b8530fd9d",
+            "sha256": "sha256-djntX5VMJ+WB/pX78wktEjFi+MLUb4v46BmieQLbVXQ=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "876fdf480df7dd786d144f0f221029924c0083ef"
+        "version": "e86fb115120a9d7bebe76727cc9fca8b8530fd9d"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+0papYv2poUqSraRQPJade+aFNipx2/tKu4Xvkdy1To=",
+            "sha256": "sha256-SYREcaDY0IbuQGTwnYqvDFQnqXKZH6TK7jp4PFMVxqY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.94.0/revanced-patches-2.94.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.95.0/revanced-patches-2.95.0.jar"
         },
-        "version": "2.94.0"
+        "version": "2.95.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
