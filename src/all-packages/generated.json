@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "578515e6711b1540cb4eb35e75ce4ed276a3c8aa",
-            "sha256": "sha256-jOrTasnkNExCgvST+09JOQ0iosjoEu3aoj3C1pNHTgY=",
+            "rev": "8d489f2de91c1d780dde2dbbd091407869ec51bd",
+            "sha256": "sha256-tX8dKBEP8Nx6cWtJ9CuXb2Y4UgJAwxGKsu/ln3FTU4U=",
             "type": "github"
         },
-        "version": "578515e6711b1540cb4eb35e75ce4ed276a3c8aa"
+        "version": "8d489f2de91c1d780dde2dbbd091407869ec51bd"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
