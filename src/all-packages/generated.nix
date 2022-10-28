@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.141";
+    version = "0.0.142";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.141/discord-canary-0.0.141.tar.gz";
-      sha256 = "sha256-ctk4onMkk1gUuSVLWl4aem8N9B0wC3VhzF3xW8QjDYA=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.142/discord-canary-0.0.142.tar.gz";
+      sha256 = "sha256-/EWJC3hFIBqwHa9z4nMWR7CpoaqYY+pvw+1vcq4F0LU=";
     };
   };
   dnscrypt-proxy2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "194be57da12969407e2f93ee91fdd5188258940f";
+    version = "902a693bdb7b31c5e7f7d1f0467cff13009bfed6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "194be57da12969407e2f93ee91fdd5188258940f";
+      rev = "902a693bdb7b31c5e7f7d1f0467cff13009bfed6";
       fetchSubmodules = false;
-      sha256 = "sha256-6utL5arRcETJ5Lg31YG9iYacvAYSUdsEprDwbE14kMk=";
+      sha256 = "sha256-BlZIsnlRfkE70f7Nff2ofYhLASYSwHeqiivYn7R75Cg=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.92.3";
+    version = "2.93.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.92.3/revanced-patches-2.92.3.jar";
-      sha256 = "sha256-takiO+Chbg0gtDwQSWSW6BCkfAL/pFcFGXh94qz5dtM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.93.0/revanced-patches-2.93.0.jar";
+      sha256 = "sha256-lTnMPmHjtAdUUyZBBUy7FYntHkgUVyWLnnv1voXRxFM=";
     };
   };
   rofi-wayland = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5e9e57ecf531f26692413ecddebfa6172550dd44";
+    version = "81fd259133f510be35114c456cb927f7ef7537ec";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5e9e57ecf531f26692413ecddebfa6172550dd44";
+      rev = "81fd259133f510be35114c456cb927f7ef7537ec";
       fetchSubmodules = false;
-      sha256 = "sha256-8LIlhuB9TeGHC1n58rHO06WAQcLpOjdLeJbPrjveqY8=";
+      sha256 = "sha256-HvawWHCAjVpoVVUJw9qlUCHaVdHBOJOmhJRwvgiN+qw=";
     });
   };
   tailscale-systray = {
