@@ -5560,11 +5560,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P9XFgJGReA5eUxFcprQUFIh8EPxhoGmEJJMQx5zRY9U=",
+            "sha256": "sha256-QimoFwJvDosVy21UzXOm/FirufxPzXlVMcBywM+g+4k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.36.1/file/RokuCommunity.brightscript-2.36.1.vsix"
+            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.37.0/file/RokuCommunity.brightscript-2.37.0.vsix"
         },
-        "version": "2.36.1"
+        "version": "2.37.0"
     },
     "RomainMenke-csstools-design-tokens": {
         "cargoLocks": null,
@@ -7365,11 +7365,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XXNli3yyAfFir+Xzmaz4YOGbsa1B5/w2E7Q14t0DiBA=",
+            "sha256": "sha256-oULINUKKHkzf0ovbJhhG1ZyPFErdc4hd/V6j6KMJpyk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.14.1/file/42Crunch.vscode-openapi-4.14.1.vsix"
+            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.15.8/file/42Crunch.vscode-openapi-4.15.8.vsix"
         },
-        "version": "4.14.1"
+        "version": "4.15.8"
     },
     "_4ops-terraform": {
         "cargoLocks": null,
@@ -8966,6 +8966,25 @@
             "url": "https://open-vsx.org/api/anweber/statusbar-commands/2.5.0/file/anweber.statusbar-commands-2.5.0.vsix"
         },
         "version": "2.5.0"
+    },
+    "anweber-swapf": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "anweber-swapf",
+        "passthru": {
+            "description": "swap between related files",
+            "license": "ISC",
+            "name": "swapf",
+            "publisher": "anweber"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-G43GyBYO8Dvnd25KXSjv4474FYoropJf3/6m5dfqbLg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/anweber/swapf/1.0.0/file/anweber.swapf-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "anweber-timewarrior": {
         "cargoLocks": null,
@@ -30051,11 +30070,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pwm8BGJgoL9pokgrbAZR6cU07rk30b7hudzYHvgvG60=",
+            "sha256": "sha256-g6b7tra+Nbs4bMLor4kcuO9vujlymsqwouTFYTZ3/hE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/java/1.12.0/file/redhat.java-1.12.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/java/win32-x64/1.13.2022102814/file/redhat.java-1.13.2022102814@win32-x64.vsix"
         },
-        "version": "1.12.0"
+        "version": "1.13.2022102814"
     },
     "redhat-mta-vscode-extension": {
         "cargoLocks": null,
@@ -37005,11 +37024,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W/KoH3S7vcIvYHhOCtx9mdP19dD9+EatyIcK+iVs3uQ=",
+            "sha256": "sha256-R1CWcUfLp3rqo+iFgYo/jNorboMG/Ui9utO5hke1Vu0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/cpp/1.64.0-next.d9fa2b12136/file/vscode.cpp-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/cpp/1.64.0-next.68976705968/file/vscode.cpp-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-csharp": {
         "cargoLocks": null,
@@ -37233,11 +37252,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hGnMQcHg2fHoaOKOk0MAmCdO0pVHIryK9ktVJZCaqjw=",
+            "sha256": "sha256-AK/0sGsrJZ3qd5xvjmkCEfQdvU8RniyuRxmKtU1N2sc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/git/1.64.0-next.d9fa2b12136/file/vscode.git-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/git/1.64.0-next.68976705968/file/vscode.git-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-github-authentication": {
         "cargoLocks": null,
@@ -37290,11 +37309,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-my6NOirSmQMBCRFe5525D8DHQgwMSmFVQqagWfk3rHI=",
+            "sha256": "sha256-4ENdVKpt2q640fs4lHzmwx13UreamKBXWU71N+t/3P4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/go/1.64.0-next.d9fa2b12136/file/vscode.go-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/go/1.64.0-next.68976705968/file/vscode.go-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-groovy": {
         "cargoLocks": null,
@@ -37518,11 +37537,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k2iUdXDGku0Ntqz31DYic4T4B/91y0PFNiovQYIbutQ=",
+            "sha256": "sha256-FxAsEcbVYbj6ywzVO9sRhQ7+P4rGcXL/yQv8/z2Pcgc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/jake/1.64.0-next.68976705968/file/vscode.jake-1.64.0-next.68976705968.vsix"
+            "url": "https://open-vsx.org/api/vscode/jake/1.64.0-next.d9fa2b12136/file/vscode.jake-1.64.0-next.d9fa2b12136.vsix"
         },
-        "version": "1.64.0-next.68976705968"
+        "version": "1.64.0-next.d9fa2b12136"
     },
     "vscode-javascript": {
         "cargoLocks": null,
@@ -37537,11 +37556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-c1By+n9CEYVvBmO0J6wv0/vWUm1O+R5K/praihYTmCI=",
+            "sha256": "sha256-NYaaTMyFjAA8zoQx8aq+ikLxzT6NL7+Sp7QxQAe0AGM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/java/1.64.0-next.d9fa2b12136/file/vscode.java-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/java/1.64.0-next.68976705968/file/vscode.java-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-json": {
         "cargoLocks": null,
@@ -37860,11 +37879,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1PMrheurtWrVY97+nfxwjtuOqHCJEUz0roa7N4thEbk=",
+            "sha256": "sha256-qtQa3SblTDpxFfdfCkVX5JBdn8Bq/vffTXvk0tIwGEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/python/1.64.0-next.d9fa2b12136/file/vscode.python-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/python/1.64.0-next.68976705968/file/vscode.python-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-razor": {
         "cargoLocks": null,
@@ -37936,11 +37955,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V9rc+z7jX/Fbr4KHpRA/D5H3d6WeLQwLq5jb951s7OM=",
+            "sha256": "sha256-yd0UshlH1C2rS6+SI1DYH49II9t9qxHMLw2f/90J+l0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/shellscript/1.64.0-next.68976705968/file/vscode.shellscript-1.64.0-next.68976705968.vsix"
+            "url": "https://open-vsx.org/api/vscode/shellscript/1.64.0-next.d9fa2b12136/file/vscode.shellscript-1.64.0-next.d9fa2b12136.vsix"
         },
-        "version": "1.64.0-next.68976705968"
+        "version": "1.64.0-next.d9fa2b12136"
     },
     "vscode-simple-browser": {
         "cargoLocks": null,
@@ -38031,11 +38050,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qlY7+huLNhIN9XxQsGJQUa+TcZEiusKTNPqD7wuPq/U=",
+            "sha256": "sha256-ycuSSuxa2DbwYn0vmn1A2gBxSalqgm/wYA0FlXRd11E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode/swift/1.64.0-next.d9fa2b12136/file/vscode.swift-1.64.0-next.d9fa2b12136.vsix"
+            "url": "https://open-vsx.org/api/vscode/swift/1.64.0-next.68976705968/file/vscode.swift-1.64.0-next.68976705968.vsix"
         },
-        "version": "1.64.0-next.d9fa2b12136"
+        "version": "1.64.0-next.68976705968"
     },
     "vscode-testing-editor-contributions": {
         "cargoLocks": null,
