@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YMINq3udFD1esj2BQaP2VRv9YdDKMlJy/PgE2qrEWRU=",
+            "sha256": "sha256-YHV95mK3MiR5/TX0sxW9R7HArjM3j87e+gx+UeMFNGE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6747.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6748.tar.bz2"
         },
-        "version": "1.0.6747"
+        "version": "1.0.6748"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cEi/utK2V0Ynbe1/+i+vHCrGrTbnKRWjSqJy7pjH154=",
+            "sha256": "sha256-aymQqn5yXRCu0tmWyOjhyAl5NDNp9w8LFHDDHe/gCLo=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6747-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6748-1_all.deb"
         },
-        "version": "1.0.6747"
+        "version": "1.0.6748"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1107,11 +1107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x/FiHrrE+HzkZ0rtsCnDp/vknkd68KhWBPHtveRzDdk=",
+            "sha256": "sha256-zq6avbsVVAw7nVCDE22JqY6QOuOfufgVr3KQqcvpgE8=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_108.0.1438.1-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_108.0.1462.2-1_amd64.deb"
         },
-        "version": "108.0.1438.1"
+        "version": "108.0.1462.2"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "2e73b87328577506f0cce1b7af9045b21e74f52b",
-            "sha256": "sha256-qybvEnVl35jFILk1gYRA1qP114Xh5oUY41I2fagsSLw=",
+            "rev": "2ec2f4719f83c34c1179333adc3818626652d3a2",
+            "sha256": "sha256-xwC+QeB4u3hrJUqB22WNQbTPazXrwj0AZ0yWRcBzQ8M=",
             "type": "github"
         },
-        "version": "2e73b87328577506f0cce1b7af9045b21e74f52b"
+        "version": "2ec2f4719f83c34c1179333adc3818626652d3a2"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "81fd259133f510be35114c456cb927f7ef7537ec",
-            "sha256": "sha256-HvawWHCAjVpoVVUJw9qlUCHaVdHBOJOmhJRwvgiN+qw=",
+            "rev": "48ddb3af2a4e29d5e9f6f6e1e7f1c1d21e8204b4",
+            "sha256": "sha256-vPnv3drL3suC5zYUgFtSby4YQs8QojgDalbARuin0jc=",
             "type": "github"
         },
-        "version": "81fd259133f510be35114c456cb927f7ef7537ec"
+        "version": "48ddb3af2a4e29d5e9f6f6e1e7f1c1d21e8204b4"
     },
     "tailscale-systray": {
         "cargoLocks": null,
