@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6742";
+    version = "1.0.6744";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6742.tar.bz2";
-      sha256 = "sha256-8eOVdUBHp1LUNZ80M7zHN2dCzkAqMbsj8QTbBXIUBvM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6744.tar.bz2";
+      sha256 = "sha256-rH92r1/sekHoqhFl21ZaBVWpYJMhRTSHTzai9mr+ivg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6742";
+    version = "1.0.6744";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6742-1_all.deb";
-      sha256 = "sha256-UxKl4JhBciekJ9VsrHfsqih7I0g5kje+PdRQyL0tBOE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6744-1_all.deb";
+      sha256 = "sha256-/xgo2kcuVEjYnJjlf0kDjKfqTWAg6wTdBCNjAwTc4zg=";
     };
   };
   jitsi-videobridge2 = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "1ef933e3be8150b20435c4e8fc949546a6a45018";
+    version = "c1e4790947e996efb6b39643e37597c56a63a796";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "1ef933e3be8150b20435c4e8fc949546a6a45018";
+      rev = "c1e4790947e996efb6b39643e37597c56a63a796";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-WqbVge5dkSjNS2E+oQa5S2gCd0bjwjJjQx0we6RV/yY=";
+      sha256 = "sha256-fdgRBzBqIQf1jqN+9c+O+0/11bPIg3Da4mygX3H3Cv8=";
     };
   };
   pure = {

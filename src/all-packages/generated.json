@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8eOVdUBHp1LUNZ80M7zHN2dCzkAqMbsj8QTbBXIUBvM=",
+            "sha256": "sha256-rH92r1/sekHoqhFl21ZaBVWpYJMhRTSHTzai9mr+ivg=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6742.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6744.tar.bz2"
         },
-        "version": "1.0.6742"
+        "version": "1.0.6744"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UxKl4JhBciekJ9VsrHfsqih7I0g5kje+PdRQyL0tBOE=",
+            "sha256": "sha256-/xgo2kcuVEjYnJjlf0kDjKfqTWAg6wTdBCNjAwTc4zg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6742-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6744-1_all.deb"
         },
-        "version": "1.0.6742"
+        "version": "1.0.6744"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1ef933e3be8150b20435c4e8fc949546a6a45018",
-            "sha256": "sha256-WqbVge5dkSjNS2E+oQa5S2gCd0bjwjJjQx0we6RV/yY=",
+            "rev": "c1e4790947e996efb6b39643e37597c56a63a796",
+            "sha256": "sha256-fdgRBzBqIQf1jqN+9c+O+0/11bPIg3Da4mygX3H3Cv8=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "1ef933e3be8150b20435c4e8fc949546a6a45018"
+        "version": "c1e4790947e996efb6b39643e37597c56a63a796"
     },
     "pure": {
         "cargoLocks": null,
