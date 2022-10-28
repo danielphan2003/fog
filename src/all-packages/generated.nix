@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.93.0";
+    version = "2.94.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.93.0/revanced-patches-2.93.0.jar";
-      sha256 = "sha256-lTnMPmHjtAdUUyZBBUy7FYntHkgUVyWLnnv1voXRxFM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.94.0/revanced-patches-2.94.0.jar";
+      sha256 = "sha256-+0papYv2poUqSraRQPJade+aFNipx2/tKu4Xvkdy1To=";
     };
   };
   rofi-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0c7a9ca1f03c9a69260aea44bd8bc4e71ed90760";
+    version = "ba9d15597da0b9373d46a6616a2992a880a97b49";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0c7a9ca1f03c9a69260aea44bd8bc4e71ed90760";
+      rev = "ba9d15597da0b9373d46a6616a2992a880a97b49";
       fetchSubmodules = false;
-      sha256 = "sha256-JBZVi5kuTrRu01BznJLIfa1ZBj+7/+vrCmps1wOBG9w=";
+      sha256 = "sha256-CKJaQgasW3I+GO6qYwejFYyDy98ovev3+Nex3sT5hus=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0c7a9ca1f03c9a69260aea44bd8bc4e71ed90760/Cargo.lock;
+      lockFile = ./rustdesk-ba9d15597da0b9373d46a6616a2992a880a97b49/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
