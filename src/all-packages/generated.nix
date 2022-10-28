@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ea7f617df613a859ea59fb18131c31ac83ed16ea";
+    version = "74d05d0adc14d920aa780b2ca2a51c9ca14fadd7";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ea7f617df613a859ea59fb18131c31ac83ed16ea";
+      rev = "74d05d0adc14d920aa780b2ca2a51c9ca14fadd7";
       fetchSubmodules = false;
-      sha256 = "sha256-cIMd9k/A9KYgOpDb7AAbzCnmvY0ZDEL7HUxkSettvh8=";
+      sha256 = "sha256-DnX7XTM5wsDGiQMlIbcLc7qVArWSb0h1lHLTDntC6z4=";
     });
   };
   ibus = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "ba9d15597da0b9373d46a6616a2992a880a97b49";
+    version = "759826c8861cca13de6942bfada05995e47f5f7f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "ba9d15597da0b9373d46a6616a2992a880a97b49";
+      rev = "759826c8861cca13de6942bfada05995e47f5f7f";
       fetchSubmodules = false;
-      sha256 = "sha256-CKJaQgasW3I+GO6qYwejFYyDy98ovev3+Nex3sT5hus=";
+      sha256 = "sha256-LxMvwrOiyBCX6E137XgzVoHnjV2GFkXDJbCYYfSCk68=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-ba9d15597da0b9373d46a6616a2992a880a97b49/Cargo.lock;
+      lockFile = ./rustdesk-759826c8861cca13de6942bfada05995e47f5f7f/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "dfe67afb4a19af889fe0ecf4e8b64ca3cb897b39";
+    version = "120bfc97ce12ba987e9e57cca07ec64b64d3694a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "dfe67afb4a19af889fe0ecf4e8b64ca3cb897b39";
+      rev = "120bfc97ce12ba987e9e57cca07ec64b64d3694a";
       fetchSubmodules = false;
-      sha256 = "sha256-uza9MiUJ6bNS/J2X2d9mElfcs+Ik7bMjN01zgc2Q0kY=";
+      sha256 = "sha256-YD2b9l1XNzI2KGvibMWP6abP3hyTl/Vs7fUS0mnhc4k=";
     });
   };
   tailscale-systray = {
