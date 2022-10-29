@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-964cafce741f16cd039bf95b302a71b9cdd2c3e0/Cargo.lock",
+                "./eww-7a0e1b77f24ee89d627e552f9abc55eb636aaaa6/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "964cafce741f16cd039bf95b302a71b9cdd2c3e0",
-            "sha256": "sha256-WOoIJpRZwqpsE0jCiASk9Dcl7WT+VCkbWA/iA66wzWU=",
+            "rev": "7a0e1b77f24ee89d627e552f9abc55eb636aaaa6",
+            "sha256": "sha256-VJx7GKkVmXCxsDfOXEDXGrAHZWyHN74Ax6GUXiir0Z8=",
             "type": "github"
         },
-        "version": "964cafce741f16cd039bf95b302a71b9cdd2c3e0"
+        "version": "7a0e1b77f24ee89d627e552f9abc55eb636aaaa6"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "74d05d0adc14d920aa780b2ca2a51c9ca14fadd7",
-            "sha256": "sha256-DnX7XTM5wsDGiQMlIbcLc7qVArWSb0h1lHLTDntC6z4=",
+            "rev": "05f3eebd968455752eb95cee373bbf2d9a71deae",
+            "sha256": "sha256-61qKTbBmzDMELsIEWPggsW2GKr/NbaYO/KoB+TkBf5o=",
             "type": "github"
         },
-        "version": "74d05d0adc14d920aa780b2ca2a51c9ca14fadd7"
+        "version": "05f3eebd968455752eb95cee373bbf2d9a71deae"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2185,11 +2185,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "yuck.vim",
-            "rev": "6dc3da77c53820c32648cf67cbdbdfb6994f4e08",
-            "sha256": "sha256-lp7qJWkvelVfoLCyI0aAiajTC+0W1BzDhmtta7tnICE=",
+            "rev": "9b5e0370f70cc30383e1dabd6c215475915fe5c3",
+            "sha256": "sha256-F7aS8d6jJQQoIGkG2o4KNnDZAIrq0c+otIHvjdoGbtY=",
             "type": "github"
         },
-        "version": "6dc3da77c53820c32648cf67cbdbdfb6994f4e08"
+        "version": "9b5e0370f70cc30383e1dabd6c215475915fe5c3"
     },
     "waydroid": {
         "cargoLocks": null,
