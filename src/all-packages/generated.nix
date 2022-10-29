@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "3d21a3cbed7ee54e34793a59c66710f1daaafc7e";
+    version = "ad113bc230034678a18a4ada69851758f4e5b2c4";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "3d21a3cbed7ee54e34793a59c66710f1daaafc7e";
+      rev = "ad113bc230034678a18a4ada69851758f4e5b2c4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/N873QW5lZeL30yYOT+2yFljNiIpy5kH6TU9T8EFyQ4=";
+      sha256 = "sha256-SBIMVvQNQ4w7+0BGhg72BrjopTYIUVsXEjallXWOQPQ=";
     };
   };
   flyingfox = {
