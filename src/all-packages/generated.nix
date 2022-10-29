@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "2dae094981e665df37de523479be062d5e0bda98";
+    version = "5ec79a03646f34e62d6e144c134ae0f15e3fbf12";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "2dae094981e665df37de523479be062d5e0bda98";
+      rev = "5ec79a03646f34e62d6e144c134ae0f15e3fbf12";
       fetchSubmodules = false;
-      sha256 = "sha256-U3q45ES+pOn0RZPbzEB3CINMXKlRKJo0HwjiBnxK2kI=";
+      sha256 = "sha256-SFq9DQhdvS0jJPrfPtZAG+uSnNnGE4uR/mb9IgJ/zpA=";
     });
   };
   playit-agent = {

@@ -1307,11 +1307,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "2dae094981e665df37de523479be062d5e0bda98",
-            "sha256": "sha256-U3q45ES+pOn0RZPbzEB3CINMXKlRKJo0HwjiBnxK2kI=",
+            "rev": "5ec79a03646f34e62d6e144c134ae0f15e3fbf12",
+            "sha256": "sha256-SFq9DQhdvS0jJPrfPtZAG+uSnNnGE4uR/mb9IgJ/zpA=",
             "type": "github"
         },
-        "version": "2dae094981e665df37de523479be062d5e0bda98"
+        "version": "5ec79a03646f34e62d6e144c134ae0f15e3fbf12"
     },
     "playit-agent": {
         "cargoLocks": {
