@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f6866fe6cefbefe6f1582eb719314496465e27b1";
+    version = "cab6cbca4851e6f474aad45db68b3a5e32e34cae";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f6866fe6cefbefe6f1582eb719314496465e27b1";
+      rev = "cab6cbca4851e6f474aad45db68b3a5e32e34cae";
       fetchSubmodules = false;
-      sha256 = "sha256-gqY2is57bGmhffw6pul7kI7ieDkOaWQVqx3xTEzZgYg=";
+      sha256 = "sha256-os53whxhJwVZR4pFmgrLThWuThkci4VwjUBdFGr4vv4=";
     });
   };
   revanced-cli = {
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.59.0";
+    version = "0.61.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.59.0/app-release-unsigned.apk";
-      sha256 = "sha256-LZErwQpQbKSx67luz/PXWRlNHBfMOvSxyIELXITYQ48=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.61.0/app-release-unsigned.apk";
+      sha256 = "sha256-AIBL+KoMN7gkIrLbBj8oxCdnS8ZTnFm5S85UjBmQ3/A=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.95.0";
+    version = "2.97.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.95.0/revanced-patches-2.95.0.jar";
-      sha256 = "sha256-SYREcaDY0IbuQGTwnYqvDFQnqXKZH6TK7jp4PFMVxqY=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.97.0/revanced-patches-2.97.0.jar";
+      sha256 = "sha256-WplEAQX2fMqfVS1nn11JbXEuu/RXcwan8PQF4jP1NYo=";
     };
   };
   rofi-wayland = {
