@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-f0799360346f3de9232f4a7dce2a618843b11230/Cargo.lock",
+                "./rustdesk-4ab179e4b79296e1001ee74a138375fa2939471c/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "f0799360346f3de9232f4a7dce2a618843b11230",
-            "sha256": "sha256-ctpbYWInPl/tA7I/X0Aq4DPD7Q0xDFSU6Zy2LK/+BO4=",
+            "rev": "4ab179e4b79296e1001ee74a138375fa2939471c",
+            "sha256": "sha256-uK1wBZLe5N4sNTqPbrG8vG9f/7lEhpYTFHvlXOAeN3c=",
             "type": "github"
         },
-        "version": "f0799360346f3de9232f4a7dce2a618843b11230"
+        "version": "4ab179e4b79296e1001ee74a138375fa2939471c"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1932,7 +1932,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-52b78f4b1106cd0d311fc476df525de129bfe7f7/Cargo.lock",
+                "./supergfxctl-61311ed8266bd603a5fce4e810a6e6404eb73777/Cargo.lock",
                 {}
             ]
         },
@@ -1945,12 +1945,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "52b78f4b1106cd0d311fc476df525de129bfe7f7",
-            "sha256": "sha256-w41f6G0oLt93ICE2SATP4kDvHzFSkFZTI/TLGZPx+r4=",
+            "rev": "61311ed8266bd603a5fce4e810a6e6404eb73777",
+            "sha256": "sha256-xknaibIwUr06Q0hMGOCFQPEFqu6W7fvV3G4+6KOoT5k=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "52b78f4b1106cd0d311fc476df525de129bfe7f7"
+        "version": "61311ed8266bd603a5fce4e810a6e6404eb73777"
     },
     "sway-borders": {
         "cargoLocks": null,

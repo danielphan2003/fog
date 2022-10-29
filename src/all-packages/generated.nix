@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f0799360346f3de9232f4a7dce2a618843b11230";
+    version = "4ab179e4b79296e1001ee74a138375fa2939471c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f0799360346f3de9232f4a7dce2a618843b11230";
+      rev = "4ab179e4b79296e1001ee74a138375fa2939471c";
       fetchSubmodules = false;
-      sha256 = "sha256-ctpbYWInPl/tA7I/X0Aq4DPD7Q0xDFSU6Zy2LK/+BO4=";
+      sha256 = "sha256-uK1wBZLe5N4sNTqPbrG8vG9f/7lEhpYTFHvlXOAeN3c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f0799360346f3de9232f4a7dce2a618843b11230/Cargo.lock;
+      lockFile = ./rustdesk-4ab179e4b79296e1001ee74a138375fa2939471c/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "52b78f4b1106cd0d311fc476df525de129bfe7f7";
+    version = "61311ed8266bd603a5fce4e810a6e6404eb73777";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "52b78f4b1106cd0d311fc476df525de129bfe7f7";
+      rev = "61311ed8266bd603a5fce4e810a6e6404eb73777";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-w41f6G0oLt93ICE2SATP4kDvHzFSkFZTI/TLGZPx+r4=";
+      sha256 = "sha256-xknaibIwUr06Q0hMGOCFQPEFqu6W7fvV3G4+6KOoT5k=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-52b78f4b1106cd0d311fc476df525de129bfe7f7/Cargo.lock;
+      lockFile = ./supergfxctl-61311ed8266bd603a5fce4e810a6e6404eb73777/Cargo.lock;
       outputHashes = {
         
       };
