@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "05f3eebd968455752eb95cee373bbf2d9a71deae";
+    version = "2caebb3b108fdc57fd5da3d46832cbef51bd110f";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "05f3eebd968455752eb95cee373bbf2d9a71deae";
+      rev = "2caebb3b108fdc57fd5da3d46832cbef51bd110f";
       fetchSubmodules = false;
-      sha256 = "sha256-61qKTbBmzDMELsIEWPggsW2GKr/NbaYO/KoB+TkBf5o=";
+      sha256 = "sha256-VNlbzylELgCMmCygihXvT6uelxoWelc0Kj8/UauhR3Q=";
     });
   };
   ibus = {
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.61.0";
+    version = "0.62.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.61.0/app-release-unsigned.apk";
-      sha256 = "sha256-AIBL+KoMN7gkIrLbBj8oxCdnS8ZTnFm5S85UjBmQ3/A=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.62.0/app-release-unsigned.apk";
+      sha256 = "sha256-MjMXw1iCiooyPPWsE0ynDUuJmg3U4o5LBbat2Hje8Yo=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.97.0";
+    version = "2.98.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.97.0/revanced-patches-2.97.0.jar";
-      sha256 = "sha256-WplEAQX2fMqfVS1nn11JbXEuu/RXcwan8PQF4jP1NYo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.98.0/revanced-patches-2.98.0.jar";
+      sha256 = "sha256-VM5Jk0W2uFbBW5N/oPuQ6of36vTyUOa/SwS2RaezGQQ=";
     };
   };
   rofi-wayland = {
