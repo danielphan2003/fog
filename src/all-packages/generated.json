@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "d994ad75e80df6c97c400f85e0fbdf11dbb5ca49",
-            "sha256": "sha256-iCmV/HvYkCExjfK4FD0hE88vi87eHO3/q1rzNNhOETc=",
+            "rev": "2e32e202e98e491c9b6a2e09f0713a586fc2c93e",
+            "sha256": "sha256-879I6CQqd7zdRSCD6/pyBsl3dAd3XWHYxlepQOeYLbA=",
             "type": "github"
         },
-        "version": "d994ad75e80df6c97c400f85e0fbdf11dbb5ca49"
+        "version": "2e32e202e98e491c9b6a2e09f0713a586fc2c93e"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MjMXw1iCiooyPPWsE0ynDUuJmg3U4o5LBbat2Hje8Yo=",
+            "sha256": "sha256-3Ay/Bi4HKglu+bmXyLxtztBwmnrIYjUbWzjEqZR2/lY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.62.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.63.0/app-release-unsigned.apk"
         },
-        "version": "0.62.0"
+        "version": "0.63.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
