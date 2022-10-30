@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-e86fb115120a9d7bebe76727cc9fca8b8530fd9d/Cargo.lock",
+                "./conduit-c61914c8e1523a65a7feabe9a7c079cbb88fd194/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e86fb115120a9d7bebe76727cc9fca8b8530fd9d",
-            "sha256": "sha256-djntX5VMJ+WB/pX78wktEjFi+MLUb4v46BmieQLbVXQ=",
+            "rev": "c61914c8e1523a65a7feabe9a7c079cbb88fd194",
+            "sha256": "sha256-gfCcrmvccH0AuGY3poowLWNqvdxPv9oDytJLLdO57J0=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "e86fb115120a9d7bebe76727cc9fca8b8530fd9d"
+        "version": "c61914c8e1523a65a7feabe9a7c079cbb88fd194"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "07378abbdfbdbcd377526e862a34c0b9ab26272c",
-            "sha256": "sha256-daEf7/CsdqfJ3F/zAoaB9jBRudRmig8EmuRCu52zhc4=",
+            "rev": "250a0b954263c130781533558a8f7c3207f939e6",
+            "sha256": "sha256-/9T6YnX/pjH4ufCGLoPl3mCvBPHmUd399+cARTMnweM=",
             "type": "github"
         },
-        "version": "07378abbdfbdbcd377526e862a34c0b9ab26272c"
+        "version": "250a0b954263c130781533558a8f7c3207f939e6"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1833,11 +1833,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "fbb9bd84b1a17a8cd146a1a7a2cdd30b0f3f0492",
-            "sha256": "sha256-WMoXZ6CNtqBeiu7swtej8sTn9P+UHP9q1V0DJk9/Ezk=",
+            "rev": "105c1d8e8f0845f67b05ddbbab14bd3e49d2fb04",
+            "sha256": "sha256-5Lmu7BgwhWLRNHmfc0q0RwbM4Wo8xORiB8Jfb2XnOoM=",
             "type": "github"
         },
-        "version": "fbb9bd84b1a17a8cd146a1a7a2cdd30b0f3f0492"
+        "version": "105c1d8e8f0845f67b05ddbbab14bd3e49d2fb04"
     },
     "spicetify-themes": {
         "cargoLocks": null,
