@@ -518,13 +518,13 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2";
+    version = "52a05226194be8a52ae155a98c2cb940c65c8f1f";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2";
+      rev = "52a05226194be8a52ae155a98c2cb940c65c8f1f";
       fetchSubmodules = false;
-      sha256 = "sha256-IkmNNYyV3eRAqTdh19d1hgNWtENmlMD5qYAGs34T3ZU=";
+      sha256 = "sha256-W0WXu8Y+U/ooosIc4SBjG6JiDa3UAKu+jt+5ChNlKfo=";
     });
   };
   inih = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2de52baf744b54f5baba994557efe0972abe7168";
+    version = "c3914d1c852b9d24a025a8e8b6a91e0e8b9abe65";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2de52baf744b54f5baba994557efe0972abe7168";
+      rev = "c3914d1c852b9d24a025a8e8b6a91e0e8b9abe65";
       fetchSubmodules = false;
-      sha256 = "sha256-hhc+WvDD2mSPg1fZBARRBeOj88FqQBs0jZJ6k59mRfY=";
+      sha256 = "sha256-CA9TSMSedA0qpu+ooJupr7sABQB6WsXpJQdeXfN3yeU=";
     });
   };
   revanced-cli = {
