@@ -2015,8 +2015,8 @@ fetch.url = "https://open-vsx.org/api/jeroen-meijer/pubspec-assist/2.3.2/file/je
 passthru = { publisher = "jeroen-meijer", name = "pubspec-assist", description = "Easily add and update dependencies to your Dart and Flutter project.", license = "MIT" }
 
 [evhub-coconut]
-src.manual = "2.1.1" # evhub.coconut
-fetch.url = "https://open-vsx.org/api/evhub/coconut/2.1.1/file/evhub.coconut-2.1.1.vsix" # evhub.coconut
+src.manual = "2.1.2" # evhub.coconut
+fetch.url = "https://open-vsx.org/api/evhub/coconut/2.1.2/file/evhub.coconut-2.1.2.vsix" # evhub.coconut
 passthru = { publisher = "evhub", name = "coconut", description = "Coconut language support for Visual Studio Code.", license = "GPL-3.0" }
 
 [chee-cheemaps]
@@ -2425,13 +2425,13 @@ fetch.url = "https://open-vsx.org/api/nanaian/vscode-star-rod/1.6.4/file/nanaian
 passthru = { publisher = "nanaian", name = "vscode-star-rod", description = "Language support for the Star Rod Paper Mario modding tool.", license = "MIT" }
 
 [vscode-pug]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.pug
-fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.d9fa2b12136/file/vscode.pug-1.64.0-next.d9fa2b12136.vsix" # vscode.pug
+src.manual = "1.64.0-next.68976705968" # vscode.pug
+fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.68976705968/file/vscode.pug-1.64.0-next.68976705968.vsix" # vscode.pug
 passthru = { publisher = "vscode", name = "pug", description = "Provides syntax highlighting and bracket matching in Pug files.", license = "MIT" }
 
 [vscode-perl]
-src.manual = "1.64.0-next.68976705968" # vscode.perl
-fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/vscode.perl-1.64.0-next.68976705968.vsix" # vscode.perl
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.perl
+fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.d9fa2b12136/file/vscode.perl-1.64.0-next.d9fa2b12136.vsix" # vscode.perl
 passthru = { publisher = "vscode", name = "perl", description = "Provides syntax highlighting and bracket matching in Perl files.", license = "MIT" }
 
 [vscode-theme-kimbie-dark]
@@ -2440,8 +2440,8 @@ fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.68976
 passthru = { publisher = "vscode", name = "theme-kimbie-dark", description = "Kimbie dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-abyss]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-abyss
-fetch.url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968/file/vscode.theme-abyss-1.64.0-next.68976705968.vsix" # vscode.theme-abyss
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-abyss
+fetch.url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.d9fa2b12136/file/vscode.theme-abyss-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-abyss
 passthru = { publisher = "vscode", name = "theme-abyss", description = "Abyss theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-red]
@@ -2480,8 +2480,8 @@ fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68
 passthru = { publisher = "vscode", name = "theme-solarized-dark", description = "Solarized dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-monokai-dimmed]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-monokai-dimmed
-fetch.url = "https://open-vsx.org/api/vscode/theme-monokai-dimmed/1.64.0-next.68976705968/file/vscode.theme-monokai-dimmed-1.64.0-next.68976705968.vsix" # vscode.theme-monokai-dimmed
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-monokai-dimmed
+fetch.url = "https://open-vsx.org/api/vscode/theme-monokai-dimmed/1.64.0-next.d9fa2b12136/file/vscode.theme-monokai-dimmed-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-monokai-dimmed
 passthru = { publisher = "vscode", name = "theme-monokai-dimmed", description = "Monokai dimmed theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-quietlight]
@@ -2505,8 +2505,8 @@ fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0
 passthru = { publisher = "vscode", name = "typescript-language-features", description = "Provides rich language support for JavaScript and TypeScript.", license = "MIT" }
 
 [vscode-merge-conflict]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.merge-conflict
-fetch.url = "https://open-vsx.org/api/vscode/merge-conflict/1.64.0-next.d9fa2b12136/file/vscode.merge-conflict-1.64.0-next.d9fa2b12136.vsix" # vscode.merge-conflict
+src.manual = "1.64.0-next.68976705968" # vscode.merge-conflict
+fetch.url = "https://open-vsx.org/api/vscode/merge-conflict/1.64.0-next.68976705968/file/vscode.merge-conflict-1.64.0-next.68976705968.vsix" # vscode.merge-conflict
 passthru = { publisher = "vscode", name = "merge-conflict", description = "Highlighting and commands for inline merge conflicts.", license = "MIT" }
 
 [johnsoncodehk-volar]
@@ -2515,8 +2515,8 @@ fetch.url = "https://open-vsx.org/api/johnsoncodehk/volar/0.30.1/file/johnsoncod
 passthru = { publisher = "johnsoncodehk", name = "volar", description = "Language support for Vue 3", license = "MIT" }
 
 [vscode-fsharp]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.fsharp
-fetch.url = "https://open-vsx.org/api/vscode/fsharp/1.64.0-next.d9fa2b12136/file/vscode.fsharp-1.64.0-next.d9fa2b12136.vsix" # vscode.fsharp
+src.manual = "1.64.0-next.68976705968" # vscode.fsharp
+fetch.url = "https://open-vsx.org/api/vscode/fsharp/1.64.0-next.68976705968/file/vscode.fsharp-1.64.0-next.68976705968.vsix" # vscode.fsharp
 passthru = { publisher = "vscode", name = "fsharp", description = "Provides snippets, syntax highlighting, bracket matching and folding in F# files.", license = "MIT" }
 
 [meganrogge-template-string-converter]
@@ -2550,8 +2550,8 @@ fetch.url = "https://open-vsx.org/api/vscode/jake/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "jake", description = "Extension to add Jake capabilities to VS Code.", license = "MIT" }
 
 [vscode-grunt]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.grunt
-fetch.url = "https://open-vsx.org/api/vscode/grunt/1.64.0-next.d9fa2b12136/file/vscode.grunt-1.64.0-next.d9fa2b12136.vsix" # vscode.grunt
+src.manual = "1.64.0-next.68976705968" # vscode.grunt
+fetch.url = "https://open-vsx.org/api/vscode/grunt/1.64.0-next.68976705968/file/vscode.grunt-1.64.0-next.68976705968.vsix" # vscode.grunt
 passthru = { publisher = "vscode", name = "grunt", description = "Extension to add Grunt capabilities to VS Code.", license = "MIT" }
 
 [vscode-gulp]
@@ -2600,8 +2600,8 @@ fetch.url = "https://open-vsx.org/api/vscode/go/1.64.0-next.68976705968/file/vsc
 passthru = { publisher = "vscode", name = "go", description = "Provides syntax highlighting and bracket matching in Go files.", license = "MIT" }
 
 [vscode-handlebars]
-src.manual = "1.64.0-next.68976705968" # vscode.handlebars
-fetch.url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.68976705968/file/vscode.handlebars-1.64.0-next.68976705968.vsix" # vscode.handlebars
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.handlebars
+fetch.url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.d9fa2b12136/file/vscode.handlebars-1.64.0-next.d9fa2b12136.vsix" # vscode.handlebars
 passthru = { publisher = "vscode", name = "handlebars", description = "Provides syntax highlighting and bracket matching in Handlebars files.", license = "MIT" }
 
 [vscode-less]
@@ -2615,13 +2615,13 @@ fetch.url = "https://open-vsx.org/api/vscode/make/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "make", description = "Provides syntax highlighting and bracket matching in Make files.", license = "MIT" }
 
 [vscode-debug-auto-launch]
-src.manual = "1.64.0-next.68976705968" # vscode.debug-auto-launch
-fetch.url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.68976705968/file/vscode.debug-auto-launch-1.64.0-next.68976705968.vsix" # vscode.debug-auto-launch
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.debug-auto-launch
+fetch.url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.d9fa2b12136/file/vscode.debug-auto-launch-1.64.0-next.d9fa2b12136.vsix" # vscode.debug-auto-launch
 passthru = { publisher = "vscode", name = "debug-auto-launch", description = "Helper for auto-attach feature when node-debug extensions are not active.", license = "MIT" }
 
 [vscode-shellscript]
-src.manual = "1.64.0-next.68976705968" # vscode.shellscript
-fetch.url = "https://open-vsx.org/api/vscode/shellscript/1.64.0-next.68976705968/file/vscode.shellscript-1.64.0-next.68976705968.vsix" # vscode.shellscript
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.shellscript
+fetch.url = "https://open-vsx.org/api/vscode/shellscript/1.64.0-next.d9fa2b12136/file/vscode.shellscript-1.64.0-next.d9fa2b12136.vsix" # vscode.shellscript
 passthru = { publisher = "vscode", name = "shellscript", description = "Provides syntax highlighting and bracket matching in Shell Script files.", license = "MIT" }
 
 [vscode-bat]
@@ -2630,8 +2630,8 @@ fetch.url = "https://open-vsx.org/api/vscode/bat/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "bat", description = "Provides snippets, syntax highlighting, bracket matching and folding in Windows batch files.", license = "MIT" }
 
 [vscode-configuration-editing]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.configuration-editing
-fetch.url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.d9fa2b12136/file/vscode.configuration-editing-1.64.0-next.d9fa2b12136.vsix" # vscode.configuration-editing
+src.manual = "1.64.0-next.68976705968" # vscode.configuration-editing
+fetch.url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.68976705968/file/vscode.configuration-editing-1.64.0-next.68976705968.vsix" # vscode.configuration-editing
 passthru = { publisher = "vscode", name = "configuration-editing", description = "Provides capabilities (advanced IntelliSense, auto-fixing) in configuration files like settings, launch, and extension recommendation files.", license = "MIT" }
 
 [zardoy-terminal-code-runner]
@@ -11192,4 +11192,10 @@ passthru = { publisher = "anweber", name = "swapf", description = "swap between 
 src.manual = "1.34.0" # auiworks.amvim
 fetch.url = "https://open-vsx.org/api/auiworks/amvim/1.34.0/file/auiworks.amvim-1.34.0.vsix" # auiworks.amvim
 passthru = { publisher = "auiworks", name = "amvim", description = "The Vim mode for Visual Studio Code that works as expected.", license = "ISC" }
+
+
+[lsaudon-l10nization]
+src.manual = "0.2.0" # lsaudon.l10nization
+fetch.url = "https://open-vsx.org/api/lsaudon/l10nization/0.2.0/file/lsaudon.l10nization-0.2.0.vsix" # lsaudon.l10nization
+passthru = { publisher = "lsaudon", name = "l10nization", description = "A tool for extracting text to arb files in a Flutter application.", license = "MIT" }
 
