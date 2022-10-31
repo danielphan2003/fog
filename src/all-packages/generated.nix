@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "4c9dadc41a5be9def6cacfe07c2b48a20b267508";
+    version = "17123ce9ee074b8c680b6093c0afd7089de69fd1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "4c9dadc41a5be9def6cacfe07c2b48a20b267508";
+      rev = "17123ce9ee074b8c680b6093c0afd7089de69fd1";
       fetchSubmodules = false;
-      sha256 = "sha256-1SNaGGFAQEpIiX5HxRykngbhiT0iNdOTX5Y5EbN/k2c=";
+      sha256 = "sha256-VE9/6JHEtSyB0Z8FM4TU7pza3bb3ml51ifRPRMXjA3E=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-4c9dadc41a5be9def6cacfe07c2b48a20b267508/Cargo.lock;
+      lockFile = ./rustdesk-17123ce9ee074b8c680b6093c0afd7089de69fd1/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3d8eda5b72858c131727b9c4d1c544b77bdbc3ef";
+    version = "d98305c5372189bbafd7a04dbd942a2ebf12ac06";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3d8eda5b72858c131727b9c4d1c544b77bdbc3ef";
+      rev = "d98305c5372189bbafd7a04dbd942a2ebf12ac06";
       fetchSubmodules = false;
-      sha256 = "sha256-tkIjmOzhgOEE+ncDTu99mxiUH/3I3T5Y0ON7MpXC/kk=";
+      sha256 = "sha256-Pb/dVrREkHqXeUmodAurNWRrfdDAAwwIEKCn9Udtwzo=";
     });
   };
   tailscale-systray = {
@@ -1360,13 +1360,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "0f9df54f0c72057684c49a7d2363988cd93abd60";
+    version = "7b6d9e241eb8778a02ffa18007f1fd8ddb038887";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "0f9df54f0c72057684c49a7d2363988cd93abd60";
+      rev = "7b6d9e241eb8778a02ffa18007f1fd8ddb038887";
       fetchSubmodules = false;
-      sha256 = "sha256-FBpNFBtKkRpf0Rg0C9Yy4Xr6Nnc3najT3tgtgn2Ne/A=";
+      sha256 = "sha256-lcjJ/C5JWUseKSXKPtyMUyhex7fKxZrBHvXeBsmxZPc=";
     });
   };
   widevine-cdm = {
