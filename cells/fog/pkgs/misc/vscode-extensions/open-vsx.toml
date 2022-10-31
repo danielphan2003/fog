@@ -1090,8 +1090,8 @@ fetch.url = "https://open-vsx.org/api/Ureakim/vscode-maybs-quit/1.0.0/file/Ureak
 passthru = { publisher = "Ureakim", name = "vscode-maybs-quit", description = "Maybs Quit for VS Code", license = "MIT" }
 
 [vscode-git-ui]
-src.manual = "1.64.0-next.68976705968" # vscode.git-ui
-fetch.url = "https://open-vsx.org/api/vscode/git/1.64.0-next.68976705968/file/vscode.git-1.64.0-next.68976705968.vsix" # vscode.git-ui
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.git-ui
+fetch.url = "https://open-vsx.org/api/vscode/git/1.64.0-next.d9fa2b12136/file/vscode.git-1.64.0-next.d9fa2b12136.vsix" # vscode.git-ui
 passthru = { publisher = "vscode", name = "git-ui", description = "Git SCM UI Integration", license = "MIT" }
 
 [webfreak-cute-theme]
@@ -2400,8 +2400,8 @@ fetch.url = "https://open-vsx.org/api/vscode/swift/1.64.0-next.68976705968/file/
 passthru = { publisher = "vscode", name = "swift", description = "Provides snippets, syntax highlighting and bracket matching in Swift files.", license = "MIT" }
 
 [vscode-vb]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.vb
-fetch.url = "https://open-vsx.org/api/vscode/vb/1.64.0-next.d9fa2b12136/file/vscode.vb-1.64.0-next.d9fa2b12136.vsix" # vscode.vb
+src.manual = "1.64.0-next.68976705968" # vscode.vb
+fetch.url = "https://open-vsx.org/api/vscode/vb/1.64.0-next.68976705968/file/vscode.vb-1.64.0-next.68976705968.vsix" # vscode.vb
 passthru = { publisher = "vscode", name = "vb", description = "Provides snippets, syntax highlighting, bracket matching and folding in Visual Basic files.", license = "MIT" }
 
 [vscode-objective-c]
@@ -2425,8 +2425,8 @@ fetch.url = "https://open-vsx.org/api/nanaian/vscode-star-rod/1.6.4/file/nanaian
 passthru = { publisher = "nanaian", name = "vscode-star-rod", description = "Language support for the Star Rod Paper Mario modding tool.", license = "MIT" }
 
 [vscode-pug]
-src.manual = "1.64.0-next.68976705968" # vscode.pug
-fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.68976705968/file/vscode.pug-1.64.0-next.68976705968.vsix" # vscode.pug
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.pug
+fetch.url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.d9fa2b12136/file/vscode.pug-1.64.0-next.d9fa2b12136.vsix" # vscode.pug
 passthru = { publisher = "vscode", name = "pug", description = "Provides syntax highlighting and bracket matching in Pug files.", license = "MIT" }
 
 [vscode-perl]
@@ -2435,8 +2435,8 @@ fetch.url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "perl", description = "Provides syntax highlighting and bracket matching in Perl files.", license = "MIT" }
 
 [vscode-theme-kimbie-dark]
-src.manual = "1.64.0-next.452e2c53030" # vscode.theme-kimbie-dark
-fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.452e2c53030/file/vscode.theme-kimbie-dark-1.64.0-next.452e2c53030.vsix" # vscode.theme-kimbie-dark
+src.manual = "1.64.0-next.68976705968" # vscode.theme-kimbie-dark
+fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.68976705968/file/vscode.theme-kimbie-dark-1.64.0-next.68976705968.vsix" # vscode.theme-kimbie-dark
 passthru = { publisher = "vscode", name = "theme-kimbie-dark", description = "Kimbie dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-abyss]
@@ -2525,13 +2525,13 @@ fetch.url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.9
 passthru = { publisher = "meganrogge", name = "template-string-converter", description = "Converts a string to a template string when '$'{ is typed", license = "MIT" }
 
 [vscode-hlsl]
-src.manual = "1.64.0-next.68976705968" # vscode.hlsl
-fetch.url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.68976705968/file/vscode.hlsl-1.64.0-next.68976705968.vsix" # vscode.hlsl
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.hlsl
+fetch.url = "https://open-vsx.org/api/vscode/hlsl/1.64.0-next.d9fa2b12136/file/vscode.hlsl-1.64.0-next.d9fa2b12136.vsix" # vscode.hlsl
 passthru = { publisher = "vscode", name = "hlsl", description = "Provides syntax highlighting and bracket matching in HLSL files.", license = "MIT" }
 
 [vscode-csharp]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.csharp
-fetch.url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.d9fa2b12136/file/vscode.csharp-1.64.0-next.d9fa2b12136.vsix" # vscode.csharp
+src.manual = "1.64.0-next.68976705968" # vscode.csharp
+fetch.url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.68976705968/file/vscode.csharp-1.64.0-next.68976705968.vsix" # vscode.csharp
 passthru = { publisher = "vscode", name = "csharp", description = "Provides snippets, syntax highlighting, bracket matching and folding in C# files.", license = "MIT" }
 
 [MyoHlaingWin-vscode-language-pack-mm-uni]
@@ -2540,8 +2540,8 @@ fetch.url = "https://open-vsx.org/api/MyoHlaingWin/vscode-language-pack-mm-uni/0
 passthru = { publisher = "MyoHlaingWin", name = "vscode-language-pack-mm-uni", description = "မြန်မာ(ဗမာ) ဘာသာပြန်", license = "MIT" }
 
 [vscode-ini]
-src.manual = "1.64.0-next.68976705968" # vscode.ini
-fetch.url = "https://open-vsx.org/api/vscode/ini/1.64.0-next.68976705968/file/vscode.ini-1.64.0-next.68976705968.vsix" # vscode.ini
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.ini
+fetch.url = "https://open-vsx.org/api/vscode/ini/1.64.0-next.d9fa2b12136/file/vscode.ini-1.64.0-next.d9fa2b12136.vsix" # vscode.ini
 passthru = { publisher = "vscode", name = "ini", description = "Provides syntax highlighting and bracket matching in Ini files.", license = "MIT" }
 
 [vscode-jake]
@@ -2595,8 +2595,8 @@ fetch.url = "https://open-vsx.org/api/vscode/clojure/1.64.0-next.68976705968/fil
 passthru = { publisher = "vscode", name = "clojure", description = "Provides syntax highlighting and bracket matching in Clojure files.", license = "MIT" }
 
 [vscode-go]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.go
-fetch.url = "https://open-vsx.org/api/vscode/go/1.64.0-next.d9fa2b12136/file/vscode.go-1.64.0-next.d9fa2b12136.vsix" # vscode.go
+src.manual = "1.64.0-next.68976705968" # vscode.go
+fetch.url = "https://open-vsx.org/api/vscode/go/1.64.0-next.68976705968/file/vscode.go-1.64.0-next.68976705968.vsix" # vscode.go
 passthru = { publisher = "vscode", name = "go", description = "Provides syntax highlighting and bracket matching in Go files.", license = "MIT" }
 
 [vscode-handlebars]
@@ -2605,13 +2605,13 @@ fetch.url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.68976705968/
 passthru = { publisher = "vscode", name = "handlebars", description = "Provides syntax highlighting and bracket matching in Handlebars files.", license = "MIT" }
 
 [vscode-less]
-src.manual = "1.64.0-next.68976705968" # vscode.less
-fetch.url = "https://open-vsx.org/api/vscode/less/1.64.0-next.68976705968/file/vscode.less-1.64.0-next.68976705968.vsix" # vscode.less
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.less
+fetch.url = "https://open-vsx.org/api/vscode/less/1.64.0-next.d9fa2b12136/file/vscode.less-1.64.0-next.d9fa2b12136.vsix" # vscode.less
 passthru = { publisher = "vscode", name = "less", description = "Provides syntax highlighting, bracket matching and folding in Less files.", license = "MIT" }
 
 [vscode-make]
-src.manual = "1.64.0-next.68976705968" # vscode.make
-fetch.url = "https://open-vsx.org/api/vscode/make/1.64.0-next.68976705968/file/vscode.make-1.64.0-next.68976705968.vsix" # vscode.make
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.make
+fetch.url = "https://open-vsx.org/api/vscode/make/1.64.0-next.d9fa2b12136/file/vscode.make-1.64.0-next.d9fa2b12136.vsix" # vscode.make
 passthru = { publisher = "vscode", name = "make", description = "Provides syntax highlighting and bracket matching in Make files.", license = "MIT" }
 
 [vscode-debug-auto-launch]
@@ -2630,8 +2630,8 @@ fetch.url = "https://open-vsx.org/api/vscode/bat/1.64.0-next.68976705968/file/vs
 passthru = { publisher = "vscode", name = "bat", description = "Provides snippets, syntax highlighting, bracket matching and folding in Windows batch files.", license = "MIT" }
 
 [vscode-configuration-editing]
-src.manual = "1.64.0-next.68976705968" # vscode.configuration-editing
-fetch.url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.68976705968/file/vscode.configuration-editing-1.64.0-next.68976705968.vsix" # vscode.configuration-editing
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.configuration-editing
+fetch.url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.d9fa2b12136/file/vscode.configuration-editing-1.64.0-next.d9fa2b12136.vsix" # vscode.configuration-editing
 passthru = { publisher = "vscode", name = "configuration-editing", description = "Provides capabilities (advanced IntelliSense, auto-fixing) in configuration files like settings, launch, and extension recommendation files.", license = "MIT" }
 
 [zardoy-terminal-code-runner]
@@ -2725,8 +2725,8 @@ fetch.url = "https://open-vsx.org/api/krishnaVamsi/todo-highlighter-plugin/1.0.1
 passthru = { publisher = "krishnaVamsi", name = "todo-highlighter-plugin", description = "", license = "none" }
 
 [vscode-cpp]
-src.manual = "1.64.0-next.68976705968" # vscode.cpp
-fetch.url = "https://open-vsx.org/api/vscode/cpp/1.64.0-next.68976705968/file/vscode.cpp-1.64.0-next.68976705968.vsix" # vscode.cpp
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.cpp
+fetch.url = "https://open-vsx.org/api/vscode/cpp/1.64.0-next.d9fa2b12136/file/vscode.cpp-1.64.0-next.d9fa2b12136.vsix" # vscode.cpp
 passthru = { publisher = "vscode", name = "cpp", description = "Provides snippets, syntax highlighting, bracket matching and folding in C/C++ files.", license = "MIT" }
 
 [bmo-test-bmo-hello-world]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.10.2909/file/Slin
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
-src.manual = "0.26.495" # pokey.cursorless
-fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.495/file/pokey.cursorless-0.26.495.vsix" # pokey.cursorless
+src.manual = "0.26.498" # pokey.cursorless
+fetch.url = "https://open-vsx.org/api/pokey/cursorless/0.26.498/file/pokey.cursorless-0.26.498.vsix" # pokey.cursorless
 passthru = { publisher = "pokey", name = "cursorless", description = "Structural voice coding at the speed of thought", license = "MIT" }
 
 [edukera-archetype]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.8.1/file/vadimcn.vsc
 passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [betterthantomorrow-calva]
-src.manual = "2.0.312" # betterthantomorrow.calva
-fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.312/file/betterthantomorrow.calva-2.0.312.vsix" # betterthantomorrow.calva
+src.manual = "2.0.313" # betterthantomorrow.calva
+fetch.url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.313/file/betterthantomorrow.calva-2.0.313.vsix" # betterthantomorrow.calva
 passthru = { publisher = "betterthantomorrow", name = "calva", description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.", license = "MIT" }
 
 [WakaTime-vscode-wakatime]
@@ -9984,8 +9984,8 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 
 
 [arm-embedded-debug]
-src.manual = "0.3.4" # arm.embedded-debug
-fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.3.4/file/arm.embedded-debug-0.3.4.vsix" # arm.embedded-debug
+src.manual = "0.3.5" # arm.embedded-debug
+fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.3.5/file/Arm.embedded-debug-0.3.5.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
 
 
@@ -10890,8 +10890,8 @@ fetch.url = "https://open-vsx.org/api/robertohuertasm/vscode-marketplace-preview
 passthru = { publisher = "robertohuertasm", name = "vscode-marketplace-preview", description = "Preview how the manifest of your extension will look in the Visual Studio Marketplace", license = "MIT" }
 
 [swils-markdown-scripture]
-src.manual = "0.1.0" # swils.markdown-scripture
-fetch.url = "https://open-vsx.org/api/swils/markdown-scripture/0.1.0/file/swils.markdown-scripture-0.1.0.vsix" # swils.markdown-scripture
+src.manual = "0.1.1" # swils.markdown-scripture
+fetch.url = "https://open-vsx.org/api/swils/markdown-scripture/0.1.1/file/swils.markdown-scripture-0.1.1.vsix" # swils.markdown-scripture
 passthru = { publisher = "swils", name = "markdown-scripture", description = "Allow your Markdown notes in VS Code to track references and include quotes from verse-based documents such as the Bible.", license = "MIT" }
 
 [StevenConaway-albacore-asm]
@@ -11152,8 +11152,8 @@ passthru = { publisher = "jeff-hykin", name = "better-prolog-syntax", descriptio
 
 
 [kyntrack-gitpod-plugin]
-src.manual = "0.0.9" # kyntrack.gitpod-plugin
-fetch.url = "https://open-vsx.org/api/kyntrack/gitpod-plugin/0.0.9/file/kyntrack.gitpod-plugin-0.0.9.vsix" # kyntrack.gitpod-plugin
+src.manual = "0.1.7" # kyntrack.gitpod-plugin
+fetch.url = "https://open-vsx.org/api/kyntrack/gitpod-plugin/0.1.7/file/kyntrack.gitpod-plugin-0.1.7.vsix" # kyntrack.gitpod-plugin
 passthru = { publisher = "kyntrack", name = "gitpod-plugin", description = "to track students activities", license = "MIT" }
 
 
@@ -11229,5 +11229,6 @@ passthru = { publisher = "curlconverter", name = "curlconverter", description = 
 src.manual = "3.3.1" # wso2.ballerina
 fetch.url = "https://open-vsx.org/api/wso2/ballerina/3.3.1/file/wso2.ballerina-3.3.1.vsix" # wso2.ballerina
 passthru = { publisher = "wso2", name = "ballerina", description = "Ballerina Language support, debugging, graphical visualization, AI-based data-mapping and many more.", license = "" }
+
 
 
