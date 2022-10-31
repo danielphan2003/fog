@@ -1833,11 +1833,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "1967fa38d47843292be092455b2baafe1b782a1b",
-            "sha256": "sha256-vcFvuER47LR0kdqfy1iz5BdSStZvHsJWtOXlW0QvJAg=",
+            "rev": "f86a4e9ff4d2a5a1e073d82b3e974298c9614f3a",
+            "sha256": "sha256-wwS/3NS9gcAXeYcOMraasENL4Ja0NEo1J7CUgZjq4PE=",
             "type": "github"
         },
-        "version": "1967fa38d47843292be092455b2baafe1b782a1b"
+        "version": "f86a4e9ff4d2a5a1e073d82b3e974298c9614f3a"
     },
     "spicetify-themes": {
         "cargoLocks": null,
