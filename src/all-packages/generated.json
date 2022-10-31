@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J/HiQ9s+xHWc7k6KT4ZOoS5802fHiMo3cwe3N3lY9O8=",
+            "sha256": "sha256-M2SshJjOS73zxt+uG6loDfaNaL4HbzCHSP7ptqHumC8=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.24-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.28-1_amd64.deb"
         },
-        "version": "107.0.1418.24"
+        "version": "107.0.1418.28"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "cb1b02a1c35b8c94a73d7f53c5853f35bc46d97a",
-            "sha256": "sha256-u1wyzxFE4yfKj4I+DN5OJgppUd/8rJLKZgWyoIu1InM=",
+            "rev": "8485233b084ffd0a063dc2f9d7fec5bafbdc76f4",
+            "sha256": "sha256-109FDjXV09DYl46t/QUcStqk/ti46ouVzUabup7hacc=",
             "type": "github"
         },
-        "version": "cb1b02a1c35b8c94a73d7f53c5853f35bc46d97a"
+        "version": "8485233b084ffd0a063dc2f9d7fec5bafbdc76f4"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "42f7ef631ebe55a49db54610d0476aadf3166627",
-            "sha256": "sha256-yzCvUY9z4tqebPe9rnZIR0bD5mCbuZFC0p5ays4Lzkg=",
+            "rev": "e2519813b1a3b4054a20b4c0533d34fb9715e65c",
+            "sha256": "sha256-cglktKJqCN5ECdxTyR5sozQPU0E1WH0CuexBlZXwiyI=",
             "type": "github"
         },
-        "version": "42f7ef631ebe55a49db54610d0476aadf3166627"
+        "version": "e2519813b1a3b4054a20b4c0533d34fb9715e65c"
     },
     "tailscale-systray": {
         "cargoLocks": null,
