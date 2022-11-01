@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "63023c5266a84cd1f45d7544e5dd3010d3421be3";
+    version = "6a907b15428e517b84717100e743d8200eda6d85";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "63023c5266a84cd1f45d7544e5dd3010d3421be3";
+      rev = "6a907b15428e517b84717100e743d8200eda6d85";
       fetchSubmodules = false;
-      sha256 = "sha256-O58mM9ZR6/jAgviPdQjoRjdXo3LLQmWlCwi38GKncSg=";
+      sha256 = "sha256-xO7dpP2dNcj8crENTXHJr4b1YCSvBKxOmMGxwGs3VqA=";
     });
   };
   cinny-bin = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "9b167588ac57c68a35c7aab108b6bf2fba2d95e5";
+    version = "c1c5858026eda8ed46b3028b1c7de617431357c5";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "9b167588ac57c68a35c7aab108b6bf2fba2d95e5";
+      rev = "c1c5858026eda8ed46b3028b1c7de617431357c5";
       fetchSubmodules = true;
-      sha256 = "sha256-rqwN4uX9KbuiSjfrie0JqNOL9ZB68R+Bu5EH1FbkuTY=";
+      sha256 = "sha256-QTFFOpFeQT0xLv3ptnrDrn/tqe/7pUSHNf/JrqcUv4U=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-9b167588ac57c68a35c7aab108b6bf2fba2d95e5/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-c1c5858026eda8ed46b3028b1c7de617431357c5/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.42.0";
+    version = "0.42.1";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.42.0.tar.gz";
-      sha256 = "sha256-R61iARoA5cVYu17xKXcr13nEfZFg5wR5l6YE8Do6oQc=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.42.1.tar.gz";
+      sha256 = "sha256-Km8TcO/q//AI74x8rO1XHqJuWO6q1Z6Cb6z++D01nOg=";
     };
   };
   nix-zsh-completions = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "5042a947e5e90011b09d834a3a17adacbb39a6de";
+    version = "094bf38abb810731d6a288e291d1c3229508cfd0";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "5042a947e5e90011b09d834a3a17adacbb39a6de";
+      rev = "094bf38abb810731d6a288e291d1c3229508cfd0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UVrCAmvs99yeQ8Ez71HRt97iWeQcmCTihQWkINAXmys=";
+      sha256 = "sha256-EHxvktq5c5qCLS2FCTAyUxfBQwL1aZDejUGnO2exqU4=";
     };
   };
   pure = {
