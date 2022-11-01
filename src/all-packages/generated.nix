@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.100.3";
+    version = "2.101.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.100.3/revanced-patches-2.100.3.jar";
-      sha256 = "sha256-JBoi5WXSveStwNKklLk/UXaylvzHaR6OXO+S2FSK3Jc=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.101.0/revanced-patches-2.101.0.jar";
+      sha256 = "sha256-bagL7eZ0NuTCSULdz2E7/Hixr2igiiCor5ovC4UdfOc=";
     };
   };
   rofi-wayland = {
@@ -1100,13 +1100,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "ea6a4228727f9cfa35f6a676959bc4b48d953fb5";
+    version = "97993f81bf8755f5230d644c2f8d32fa93ea9791";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "ea6a4228727f9cfa35f6a676959bc4b48d953fb5";
+      rev = "97993f81bf8755f5230d644c2f8d32fa93ea9791";
       fetchSubmodules = false;
-      sha256 = "sha256-Fa+5P3pXkje7ApSSxCqseaOCv11fIsV87zA+m+pzIcg=";
+      sha256 = "sha256-lcTAwWrO+NYGx3CQM8Ts+tdVYCTrfGz/wR45XvXdvrE=";
     });
   };
   spicetify-themes = {

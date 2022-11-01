@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JBoi5WXSveStwNKklLk/UXaylvzHaR6OXO+S2FSK3Jc=",
+            "sha256": "sha256-bagL7eZ0NuTCSULdz2E7/Hixr2igiiCor5ovC4UdfOc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.100.3/revanced-patches-2.100.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.101.0/revanced-patches-2.101.0.jar"
         },
-        "version": "2.100.3"
+        "version": "2.101.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1833,11 +1833,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "ea6a4228727f9cfa35f6a676959bc4b48d953fb5",
-            "sha256": "sha256-Fa+5P3pXkje7ApSSxCqseaOCv11fIsV87zA+m+pzIcg=",
+            "rev": "97993f81bf8755f5230d644c2f8d32fa93ea9791",
+            "sha256": "sha256-lcTAwWrO+NYGx3CQM8Ts+tdVYCTrfGz/wR45XvXdvrE=",
             "type": "github"
         },
-        "version": "ea6a4228727f9cfa35f6a676959bc4b48d953fb5"
+        "version": "97993f81bf8755f5230d644c2f8d32fa93ea9791"
     },
     "spicetify-themes": {
         "cargoLocks": null,
