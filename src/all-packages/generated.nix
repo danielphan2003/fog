@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6756";
+    version = "1.0.6757";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6756.tar.bz2";
-      sha256 = "sha256-PBhMbbD5v1E5HSEip3GWJ53vxevSnPEvu0PJT5Sdj/E=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6757.tar.bz2";
+      sha256 = "sha256-mLrzDgW77U/M8GjzDfCtzaf27e4hupp+d9cd7fKolPQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6756";
+    version = "1.0.6757";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6756-1_all.deb";
-      sha256 = "sha256-wcNHwyYMjoBvuiv4BwXn6Lo07mj1QIqmdiAjrk0Jbcc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6757-1_all.deb";
+      sha256 = "sha256-zWQz/f10wi5kYqVS1tqORcGE/zCec29pOGeadjHhfrM=";
     };
   };
   jitsi-videobridge2 = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.65.0";
+    version = "0.66.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.65.0/app-release-unsigned.apk";
-      sha256 = "sha256-5KuT0ClNbIw1reWQmpS3bzp2nZdfbGtM14up+oREcU0=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.66.0/app-release-unsigned.apk";
+      sha256 = "sha256-7uqQ5N9hI04TNHhbvGFlTebfUBkv7/ks4GpsbgvzCkU=";
     };
   };
   revanced-patches-jar = {
@@ -1100,13 +1100,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "97993f81bf8755f5230d644c2f8d32fa93ea9791";
+    version = "a6a560ccf3df59c0b0ab88592fb4c1cabffd170f";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "97993f81bf8755f5230d644c2f8d32fa93ea9791";
+      rev = "a6a560ccf3df59c0b0ab88592fb4c1cabffd170f";
       fetchSubmodules = false;
-      sha256 = "sha256-lcTAwWrO+NYGx3CQM8Ts+tdVYCTrfGz/wR45XvXdvrE=";
+      sha256 = "sha256-O2iNi+H6PHSh0JLloi/ZJynVHXxDvQWBuexWil2/oy4=";
     });
   };
   spicetify-themes = {
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f4ff26f5774f2bc4c6ec1eb981739fb3218152ff";
+    version = "a7f7e79245ccace24f5129397a075328ffea6ecb";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f4ff26f5774f2bc4c6ec1eb981739fb3218152ff";
+      rev = "a7f7e79245ccace24f5129397a075328ffea6ecb";
       fetchSubmodules = false;
-      sha256 = "sha256-IN8+KsscpqTFfwZ/SgZXy2FptarAybJFNIyS6OZmVYQ=";
+      sha256 = "sha256-Huq5bypE3P1hOIFYaZNZBciD0xAH3vSvlo1CBQG22kY=";
     });
   };
   tailscale-systray = {
