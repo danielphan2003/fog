@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-58-g98b0cc49";
+    version = "2.2-59-g81ef77d1";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-58-g98b0cc49-1_all.deb";
-      sha256 = "sha256-ro4IJ9O/SomPAvF+Ux8wqNsCZOTQDjsu07tIlIirYDs=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-59-g81ef77d1-1_all.deb";
+      sha256 = "sha256-SBD+SRfCuXPNDRzx3/udlVtSVWU0pznLlX29bBHKp2c=";
     };
   };
   layout-machi = {
@@ -792,18 +792,18 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "e986524ba9ac51e821a0bb3e363dcd1acd90b314";
+    version = "ef0f36f1a5f6975dd17acac22b0ac6a511f86596";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "e986524ba9ac51e821a0bb3e363dcd1acd90b314";
+      rev = "ef0f36f1a5f6975dd17acac22b0ac6a511f86596";
       fetchSubmodules = false;
-      sha256 = "sha256-Y7CFcPJ/lKYZ6VwKO6p/oWYw4YasjMecfRraiygcRSI=";
+      sha256 = "sha256-25j17LQn12Vm7Ybp0qKFN+nYQ9w3ys8RsM3ROy83V/w=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-e986524ba9ac51e821a0bb3e363dcd1acd90b314/Cargo.lock;
+      lockFile = ./playit-agent-ef0f36f1a5f6975dd17acac22b0ac6a511f86596/Cargo.lock;
       outputHashes = {
-        "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
+        
       };
     };
   };
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a7f7e79245ccace24f5129397a075328ffea6ecb";
+    version = "988c1f0ac7250dbe52adc0868aa82899c7589971";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a7f7e79245ccace24f5129397a075328ffea6ecb";
+      rev = "988c1f0ac7250dbe52adc0868aa82899c7589971";
       fetchSubmodules = false;
-      sha256 = "sha256-Huq5bypE3P1hOIFYaZNZBciD0xAH3vSvlo1CBQG22kY=";
+      sha256 = "sha256-+KFbxGQ8iaQwG9w+GRr+zFeSeDXe6XSctZU5ucF33zw=";
     });
   };
   tailscale-systray = {
