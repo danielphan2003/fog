@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "aeef3d6220c09caf2923d7bf38163194fd5f8e84";
+    version = "db1184c19de6f2f0b5590cf70bc85932edd29a3b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "aeef3d6220c09caf2923d7bf38163194fd5f8e84";
+      rev = "db1184c19de6f2f0b5590cf70bc85932edd29a3b";
       fetchSubmodules = false;
-      sha256 = "sha256-PNt4bsRDbo57FljXJxcz8/wehd8Zc6iK7NX8rExXTM0=";
+      sha256 = "sha256-an0D5RY5IhiWqjuwMls0VkQJUjr110RfP60R0VR9T50=";
     });
   };
   revanced-cli = {
@@ -1327,13 +1327,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "f5543df68651277042b156f19f5b3804c297f2a7";
+    version = "e074cf4f8d4a1dabd6767306fbf51d25de90ebc4";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "f5543df68651277042b156f19f5b3804c297f2a7";
+      rev = "e074cf4f8d4a1dabd6767306fbf51d25de90ebc4";
       fetchSubmodules = false;
-      sha256 = "sha256-soIvD98tbtZV8z1Go81yRtrGlW1WpMtvFreyvGaRhRk=";
+      sha256 = "sha256-A8ywHbhcL/oD6Vy3Jw4/RBvm6avHEBUufPc2ryFaNj8=";
     });
   };
   wgcf = {
