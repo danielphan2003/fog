@@ -7,11 +7,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lrESNqikR/yXhTBRGO1RqpQWFW9+udYIFD4lzzTGVJg=",
+            "sha256": "sha256-eqxE5cxfhOQLFvm2IUbphLoaQ0mRMs2ippvQN3qnFmg=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.19/AdGuardHome_darwin_amd64.zip"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.20/AdGuardHome_darwin_amd64.zip"
         },
-        "version": "0.108.0-b.19"
+        "version": "0.108.0-b.20"
     },
     "adguardhome-linux-386": {
         "cargoLocks": null,
@@ -21,11 +21,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-l3/dNkAX//FaPZdw//9fNNWrYuIyq6ao4uPajpWqPhY=",
+            "sha256": "sha256-CSZf8b+6efetNzAcNEkpPDGDbeg4P8INrB2T121+UwA=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.19/AdGuardHome_linux_386.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.20/AdGuardHome_linux_386.tar.gz"
         },
-        "version": "0.108.0-b.19"
+        "version": "0.108.0-b.20"
     },
     "adguardhome-linux-amd64": {
         "cargoLocks": null,
@@ -35,11 +35,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dxrCZsvfDnwJKX7IgzjCEECrL3F/m8aWT2p9rP0ymHg=",
+            "sha256": "sha256-8JL6PSWfNeND5GwxLGWnaBSgwxQnYaFaxEp1kHTX2Kg=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.19/AdGuardHome_linux_amd64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.20/AdGuardHome_linux_amd64.tar.gz"
         },
-        "version": "0.108.0-b.19"
+        "version": "0.108.0-b.20"
     },
     "adguardhome-linux-arm64": {
         "cargoLocks": null,
@@ -49,11 +49,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MaFxi8t8K8Mku4JZVxvx4hmZ09Jlt3q54XN4pskchxg=",
+            "sha256": "sha256-7CWh59aHxPWJbdx4oF8mkjXyd9tHyG2INBxlCC0PjaY=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.19/AdGuardHome_linux_arm64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.20/AdGuardHome_linux_arm64.tar.gz"
         },
-        "version": "0.108.0-b.19"
+        "version": "0.108.0-b.20"
     },
     "adl": {
         "cargoLocks": null,
@@ -2025,11 +2025,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "06b55ab50f54c67e4b9f06f8955286b34f39ad30",
-            "sha256": "sha256-Aynos9xz5Bn1dm9x2QYV+8JWbjH4fkEQ+jnAKjhv1Pw=",
+            "rev": "910db02652e8825b9829b57d5d89b39699896d92",
+            "sha256": "sha256-bp3EmAZonidGJeZ4OspE5jvCOAu+HhpPH+hY0qYv1PQ=",
             "type": "github"
         },
-        "version": "06b55ab50f54c67e4b9f06f8955286b34f39ad30"
+        "version": "910db02652e8825b9829b57d5d89b39699896d92"
     },
     "tailscale-systray": {
         "cargoLocks": null,
