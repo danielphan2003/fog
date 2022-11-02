@@ -2049,11 +2049,6 @@ src.manual = "1.4.0" # jonhue.vscode-cyp
 fetch.url = "https://open-vsx.org/api/jonhue/vscode-cyp/1.4.0/file/jonhue.vscode-cyp-1.4.0.vsix" # jonhue.vscode-cyp
 passthru = { publisher = "jonhue", name = "vscode-cyp", description = "cyp language package", license = "MIT" }
 
-[_9j-amvim]
-src.manual = "1.34.1-pre" # 9j.amvim
-fetch.url = "https://open-vsx.org/api/9j/amvim/1.34.1-pre/file/9j.amvim-1.34.1-pre.vsix" # 9j.amvim
-passthru = { publisher = "9j", name = "amvim", description = "The Vim mode for Visual Studio Code that works as expected.", license = "ISC" }
-
 [shoobah-pinkasheck]
 src.manual = "0.0.7" # shoobah.pinkasheck
 fetch.url = "https://open-vsx.org/api/shoobah/pinkasheck/0.0.7/file/shoobah.pinkasheck-0.0.7.vsix" # shoobah.pinkasheck
