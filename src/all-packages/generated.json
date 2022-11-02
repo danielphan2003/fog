@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "0d7176792b6ceed2ade337278f54e1112cdc957e",
-            "sha256": "sha256-SugnSkWSYyPIMwmm/R2ZN+3KifFbVPhw28j0J8C7aFI=",
+            "rev": "6ddfae0a077b2659179c4bb2fc1ae0691b984ccc",
+            "sha256": "sha256-Iuhn62v25PIb+ZkEvgiLfsTqMlU2B5ZeQtttRmXhVzU=",
             "type": "github"
         },
-        "version": "0d7176792b6ceed2ade337278f54e1112cdc957e"
+        "version": "6ddfae0a077b2659179c4bb2fc1ae0691b984ccc"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8aQWRx3E6EknpehRJwGk/rzP33T3rqG6y7gslt9l0Ck=",
+            "sha256": "sha256-i/83Jl2f4TxWwUzwOxToBIUReViG41m6Q8NyFmO7xqY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6761.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6762.tar.bz2"
         },
-        "version": "1.0.6761"
+        "version": "1.0.6762"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fRERa2MitudluDWu0ejA9eOtrPOjQJuYPG9jFPf3qKo=",
+            "sha256": "sha256-cpzanzd9rEIBGLzu/DKr1QUOltPnBq116X+lc8x5GSA=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6761-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6762-1_all.deb"
         },
-        "version": "1.0.6761"
+        "version": "1.0.6762"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1547,11 +1547,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "56ad3fa09139cfc18a22955b1cf6dfd68d779b0e",
-            "sha256": "sha256-FlKD1N1lZ2VXxLPvNs1Rr5CeDbNOI1GZv/kLnktL6ac=",
+            "rev": "7aa8c6bb11ea9502e15282222bd7e2f72e1f1dd6",
+            "sha256": "sha256-lgq6RCgRHkvI9iAZxx6HnCF0uZ2CpGzTG5aSOUU3aTY=",
             "type": "github"
         },
-        "version": "56ad3fa09139cfc18a22955b1cf6dfd68d779b0e"
+        "version": "7aa8c6bb11ea9502e15282222bd7e2f72e1f1dd6"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2025,11 +2025,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "e975cb6b053e24499309dac2de5b6c9d6f930dc5",
-            "sha256": "sha256-i1S7IafawupdOLuYYu3CaToqO4CcMBDRlcjZDrDIons=",
+            "rev": "18fa1a0ad7da3675ee1d6ae8af4bb166c42d1a84",
+            "sha256": "sha256-OXbLdRjuXemwwra3W3XyzA/phJMjo1a2LO2Bsd4/WF0=",
             "type": "github"
         },
-        "version": "e975cb6b053e24499309dac2de5b6c9d6f930dc5"
+        "version": "18fa1a0ad7da3675ee1d6ae8af4bb166c42d1a84"
     },
     "tailscale-systray": {
         "cargoLocks": null,
