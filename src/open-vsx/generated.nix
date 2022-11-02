@@ -147,10 +147,10 @@
   };
   ArmantGoldswain-seesharp-theme = {
     pname = "ArmantGoldswain-seesharp-theme";
-    version = "3.5.3";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/3.5.3/file/ArmantGoldswain.seesharp-theme-3.5.3.vsix";
-      sha256 = "sha256-AI92ch14jmCzusPTnkfeEL82Kv09aVvOIVJQzvHZnTo=";
+      url = "https://open-vsx.org/api/ArmantGoldswain/seesharp-theme/4.0.0/file/ArmantGoldswain.seesharp-theme-4.0.0.vsix";
+      sha256 = "sha256-mAAocyQVFWUU8eR37eBj3K6TuLFxUqplGVP46J7ajeI=";
     };
     license = "Apache-2.0";
     name = "seesharp-theme";
@@ -435,10 +435,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "1.4.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.4.0/file/BroadcomMFD.hlasm-language-support-1.4.0.vsix";
-      sha256 = "sha256-xt3zFT5aNqqdApigiVk35ZkC9wbLhlefg2z66I2z2YA=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.5.0/file/BroadcomMFD.hlasm-language-support-1.5.0.vsix";
+      sha256 = "sha256-uIm9rPHDxE9Cdj8RQB6UN91519v3ySGsmDo4N5Z1GIU=";
     };
     license = "EPL-2.0";
     name = "hlasm-language-support";
@@ -3327,10 +3327,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1566";
+    version = "31.0.1567";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1566/file/Prisma.prisma-insider-31.0.1566.vsix";
-      sha256 = "sha256-lj0baiF6+/Ni/2kuz8H998Sa5xE/BDDhT9KWrGFgyzo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1567/file/Prisma.prisma-insider-31.0.1567.vsix";
+      sha256 = "sha256-+co25AIfclv5XjtabLvEW0k0lu9V4UA/naVVoQ0J2KM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5871,10 +5871,10 @@
   };
   arm-cmsis-csolution = {
     pname = "arm-cmsis-csolution";
-    version = "0.5.5";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/cmsis-csolution/win32-x64/0.5.5/file/arm.cmsis-csolution-0.5.5@win32-x64.vsix";
-      sha256 = "sha256-q/8ydXnZWlSmSwEcPqwSwdBVhjtMuvDJCd5akf6JN1w=";
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/win32-x64/0.6.0/file/Arm.cmsis-csolution-0.6.0@win32-x64.vsix";
+      sha256 = "sha256-GQtuQlDXbD0K059UIZgp/qd5mkgbITFETgakiBbAUU8=";
     };
     license = "";
     name = "cmsis-csolution";
@@ -8355,10 +8355,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.23";
+    version = "0.13.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.23/file/d-biehl.robotcode-0.13.23.vsix";
-      sha256 = "sha256-Mjo0rdNdfopy+Qe3ApWFVYQI4Tfi1+wYHJtH+pQLoSI=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.27/file/d-biehl.robotcode-0.13.27.vsix";
+      sha256 = "sha256-XMkCF9pXLefZnGbbYwGVa/pcaovzOirI0zCESGuoiz0=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -13287,10 +13287,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.55";
+    version = "0.16.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.55/file/jroesch.lean-0.16.55.vsix";
-      sha256 = "sha256-vJ1BhbRw9HQobOTy/QGmRrNqGOc/jiRA+hdQGvVe5P8=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.56/file/jroesch.lean-0.16.56.vsix";
+      sha256 = "sha256-uiKWuB5oSFBf6M7zLLb6kPInchGjncbKYXm9MLIpIxQ=";
     };
     license = "Apache-2.0";
     name = "lean";
@@ -17259,10 +17259,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.24.0";
+    version = "17.24.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.24.0/file/nrwl.angular-console-17.24.0.vsix";
-      sha256 = "sha256-L/KZMIdMmeliT109f8fKmla6cKKZ69HLCBnEUm/SENY=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.24.1/file/nrwl.angular-console-17.24.1.vsix";
+      sha256 = "sha256-4ilRVXUkD4+jycW0k9E280zsnW870KgTBEsVxGPbN74=";
     };
     license = "MIT";
     name = "angular-console";
@@ -18399,10 +18399,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.501";
+    version = "0.26.503";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.501/file/pokey.cursorless-0.26.501.vsix";
-      sha256 = "sha256-fi0dWvF9D4ffNUCIeZvtOr+H+1mUiEdz2zrOnQvo1Mg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.503/file/pokey.cursorless-0.26.503.vsix";
+      sha256 = "sha256-8KgkhIlZDfmYZWwcnXK6xMTo0uMcD7RFlwbHcdjmL3w=";
     };
     license = "MIT";
     name = "cursorless";
@@ -20283,10 +20283,10 @@
   };
   scheiblingco-code-cmd-repeat = {
     pname = "scheiblingco-code-cmd-repeat";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scheiblingco/code-cmd-repeat/0.1.3/file/scheiblingco.code-cmd-repeat-0.1.3.vsix";
-      sha256 = "sha256-VA7OVIBW/mxtj695ONIORZgqU/D3UspU/NotbiHN/GM=";
+      url = "https://open-vsx.org/api/scheiblingco/code-cmd-repeat/0.1.4/file/scheiblingco.code-cmd-repeat-0.1.4.vsix";
+      sha256 = "sha256-BHm8k/ydqLMZ6KNoDwrM8fdvuoHZ3jjiOrVe54fwluM=";
     };
     license = "GPL-3.0";
     name = "code-cmd-repeat";
@@ -23463,10 +23463,10 @@
   };
   vscode-bat = {
     pname = "vscode-bat";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/bat/1.64.0-next.d9fa2b12136/file/vscode.bat-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-X7MJ9BmSaqcHby3DxpSpRHR891Y2O18bN8TOos8sDnU=";
+      url = "https://open-vsx.org/api/vscode/bat/1.64.0-next.68976705968/file/vscode.bat-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-Sv0DyM8IN5RV6Vu+s62OxMB2U7TOKbKH3PPs4bnRVSo=";
     };
     license = "MIT";
     name = "bat";
@@ -23499,10 +23499,10 @@
   };
   vscode-configuration-editing = {
     pname = "vscode-configuration-editing";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.68976705968/file/vscode.configuration-editing-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-Ny4vbcmK1md/PZCsH7S2wOowQN7HwnAQP9aUG6zKcf4=";
+      url = "https://open-vsx.org/api/vscode/configuration-editing/1.64.0-next.d9fa2b12136/file/vscode.configuration-editing-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-R7JiCqKN2eLfJkAMDbc6pdVjVsQCCdin8guOwT4Y5kY=";
     };
     license = "MIT";
     name = "configuration-editing";
@@ -23523,10 +23523,10 @@
   };
   vscode-csharp = {
     pname = "vscode-csharp";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.68976705968/file/vscode.csharp-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-pUjlk+TAGdkcPdWTtWaqd4oFb7VXWtp9pkH5kIzeZYE=";
+      url = "https://open-vsx.org/api/vscode/csharp/1.64.0-next.d9fa2b12136/file/vscode.csharp-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-stPmbILclR9O1VqQeK071JZDsM6nrLdrp1wRGquvFxU=";
     };
     license = "MIT";
     name = "csharp";
@@ -23691,10 +23691,10 @@
   };
   vscode-go = {
     pname = "vscode-go";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/go/1.64.0-next.d9fa2b12136/file/vscode.go-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-my6NOirSmQMBCRFe5525D8DHQgwMSmFVQqagWfk3rHI=";
+      url = "https://open-vsx.org/api/vscode/go/1.64.0-next.68976705968/file/vscode.go-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-4ENdVKpt2q640fs4lHzmwx13UreamKBXWU71N+t/3P4=";
     };
     license = "MIT";
     name = "go";
@@ -23715,10 +23715,10 @@
   };
   vscode-grunt = {
     pname = "vscode-grunt";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/grunt/1.64.0-next.68976705968/file/vscode.grunt-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-7TpGln0zkPKSROpp2iwy9fasycjgXHK+EC3WPYvaQ4Q=";
+      url = "https://open-vsx.org/api/vscode/grunt/1.64.0-next.d9fa2b12136/file/vscode.grunt-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-Joooxl0BP8zACIWqU7n+T13dIoMt3WRE33zbYeLCceQ=";
     };
     license = "MIT";
     name = "grunt";
@@ -23727,10 +23727,10 @@
   };
   vscode-gulp = {
     pname = "vscode-gulp";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/gulp/1.64.0-next.68976705968/file/vscode.gulp-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-m9XSVN2DoZVLb+79MF0Iexq0hjCvSqZrCcpV1fQ52YI=";
+      url = "https://open-vsx.org/api/vscode/gulp/1.64.0-next.d9fa2b12136/file/vscode.gulp-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-06OPwg2FfkcrjhpjIFMBu/IZjK/s7C9RH8wNpL8vp0g=";
     };
     license = "MIT";
     name = "gulp";
@@ -23739,10 +23739,10 @@
   };
   vscode-handlebars = {
     pname = "vscode-handlebars";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.68976705968/file/vscode.handlebars-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-dIIB/ig0qDX4lhn1eVdII0/RxEr807y1Gc40Zn093Zg=";
+      url = "https://open-vsx.org/api/vscode/handlebars/1.64.0-next.d9fa2b12136/file/vscode.handlebars-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-U/M8QX7jvpIK7UsBevkjwdpK+Sehl3fV2GkBVlzCvKQ=";
     };
     license = "MIT";
     name = "handlebars";
@@ -23811,10 +23811,10 @@
   };
   vscode-ini = {
     pname = "vscode-ini";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/ini/1.64.0-next.d9fa2b12136/file/vscode.ini-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-xFcS7VK9N7VSeRzbMW96X6F7SF7pdfeawMisWOEvciQ=";
+      url = "https://open-vsx.org/api/vscode/ini/1.64.0-next.68976705968/file/vscode.ini-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-sLXCFqCnsZEv6XwFUnECX3e6kySCme+qaEMZ6E3gVYA=";
     };
     license = "MIT";
     name = "ini";
@@ -24015,10 +24015,10 @@
   };
   vscode-perl = {
     pname = "vscode-perl";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.d9fa2b12136/file/vscode.perl-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-aQeFwEnmM2XyoL0niH574XdYNxVYoJ3VUuQ8fWBt4m0=";
+      url = "https://open-vsx.org/api/vscode/perl/1.64.0-next.68976705968/file/vscode.perl-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-FeVTL5fErHNdrNdzFaGuSLdRcOnxtZaAUJ3FKGap+b0=";
     };
     license = "MIT";
     name = "perl";
@@ -24039,10 +24039,10 @@
   };
   vscode-pug = {
     pname = "vscode-pug";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.d9fa2b12136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.68976705968/file/vscode.pug-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-tPEfX5NZR4Wx05a5zReiMokvhF3Wk8Hksi2bK8lTSrQ=";
+      url = "https://open-vsx.org/api/vscode/pug/1.64.0-next.d9fa2b12136/file/vscode.pug-1.64.0-next.d9fa2b12136.vsix";
+      sha256 = "sha256-bl5Goq4Rqq7VWrriL42p5z3RjB731q/PilarNppqeHw=";
     };
     license = "MIT";
     name = "pug";
@@ -24183,10 +24183,10 @@
   };
   vscode-theme-abyss = {
     pname = "vscode-theme-abyss";
-    version = "1.64.0-next.d9fa2b12136";
+    version = "1.64.0-next.68976705968";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.d9fa2b12136/file/vscode.theme-abyss-1.64.0-next.d9fa2b12136.vsix";
-      sha256 = "sha256-0qFkfPdgReAkzRVTODElnA8Lca3JCI6R1ayvoVIF/wc=";
+      url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968/file/vscode.theme-abyss-1.64.0-next.68976705968.vsix";
+      sha256 = "sha256-ojqdXX9o9pupOWeu+KPG7tplYeTwdfH4XEVrkXZOOeE=";
     };
     license = "MIT";
     name = "theme-abyss";
@@ -24207,10 +24207,10 @@
   };
   vscode-theme-kimbie-dark = {
     pname = "vscode-theme-kimbie-dark";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.452e2c53030";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.68976705968/file/vscode.theme-kimbie-dark-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-xxn6b9UgGvTGU4HOPQ/zJwo1915zuMSCsd1Mn3slKJ0=";
+      url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.64.0-next.452e2c53030/file/vscode.theme-kimbie-dark-1.64.0-next.452e2c53030.vsix";
+      sha256 = "sha256-i0P5RLc3b97//tNSEDABotQqJSF8pjn4rs+xqmBF7Pw=";
     };
     license = "MIT";
     name = "theme-kimbie-dark";
@@ -24267,10 +24267,10 @@
   };
   vscode-theme-solarized-light = {
     pname = "vscode-theme-solarized-light";
-    version = "1.64.0-next.68976705968";
+    version = "1.64.0-next.452e2c53030";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode/theme-solarized-light/1.64.0-next.68976705968/file/vscode.theme-solarized-light-1.64.0-next.68976705968.vsix";
-      sha256 = "sha256-4/OyUGBNeU2rcL55Cdf0OU+PLohn6judVWXKVVtu4Bc=";
+      url = "https://open-vsx.org/api/vscode/theme-solarized-light/1.64.0-next.452e2c53030/file/vscode.theme-solarized-light-1.64.0-next.452e2c53030.vsix";
+      sha256 = "sha256-pJFDLrgpGB1qxk7xOWg9u+zMBBfDM+IqPJ1oGci7Cow=";
     };
     license = "MIT";
     name = "theme-solarized-light";
