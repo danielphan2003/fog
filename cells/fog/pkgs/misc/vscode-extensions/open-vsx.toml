@@ -265,8 +265,8 @@ fetch.url = "https://open-vsx.org/api/DotJoshJohnson/xml/2.5.1/file/DotJoshJohns
 passthru = { publisher = "DotJoshJohnson", name = "xml", description = "XML Formatting, XQuery, and XPath Tools for Visual Studio Code", license = "MIT" }
 
 [vscode-github-browser]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.github-browser
-fetch.url = "https://open-vsx.org/api/vscode/github/1.64.0-next.d9fa2b12136/file/vscode.github-1.64.0-next.d9fa2b12136.vsix" # vscode.github-browser
+src.manual = "1.64.0-next.68976705968" # vscode.github-browser
+fetch.url = "https://open-vsx.org/api/vscode/github/1.64.0-next.68976705968/file/vscode.github-1.64.0-next.68976705968.vsix" # vscode.github-browser
 passthru = { publisher = "vscode", name = "github-browser", description = "Remotely browse a GitHub repository", license = "MIT" }
 
 [shevaua-phpcs]
@@ -1090,8 +1090,8 @@ fetch.url = "https://open-vsx.org/api/Ureakim/vscode-maybs-quit/1.0.0/file/Ureak
 passthru = { publisher = "Ureakim", name = "vscode-maybs-quit", description = "Maybs Quit for VS Code", license = "MIT" }
 
 [vscode-git-ui]
-src.manual = "1.64.0-next.68976705968" # vscode.git-ui
-fetch.url = "https://open-vsx.org/api/vscode/git/1.64.0-next.68976705968/file/vscode.git-1.64.0-next.68976705968.vsix" # vscode.git-ui
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.git-ui
+fetch.url = "https://open-vsx.org/api/vscode/git/1.64.0-next.d9fa2b12136/file/vscode.git-1.64.0-next.d9fa2b12136.vsix" # vscode.git-ui
 passthru = { publisher = "vscode", name = "git-ui", description = "Git SCM UI Integration", license = "MIT" }
 
 [webfreak-cute-theme]
@@ -2165,8 +2165,8 @@ fetch.url = "https://open-vsx.org/api/sbg-rabix/benten-cwl/2021.1.5/file/sbg-rab
 passthru = { publisher = "sbg-rabix", name = "benten-cwl", description = "Autocomplete, code validation and more for CWL documents", license = "Apache-2.0" }
 
 [vscode-github-authentication]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.github-authentication
-fetch.url = "https://open-vsx.org/api/vscode/github/1.64.0-next.d9fa2b12136/file/vscode.github-1.64.0-next.d9fa2b12136.vsix" # vscode.github-authentication
+src.manual = "1.64.0-next.68976705968" # vscode.github-authentication
+fetch.url = "https://open-vsx.org/api/vscode/github/1.64.0-next.68976705968/file/vscode.github-1.64.0-next.68976705968.vsix" # vscode.github-authentication
 passthru = { publisher = "vscode", name = "github-authentication", description = "GitHub Authentication Provider", license = "MIT" }
 
 [damc-textpad-color-theme]
@@ -2440,8 +2440,8 @@ fetch.url = "https://open-vsx.org/api/vscode/theme-abyss/1.64.0-next.68976705968
 passthru = { publisher = "vscode", name = "theme-abyss", description = "Abyss theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-red]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-red
-fetch.url = "https://open-vsx.org/api/vscode/theme-red/1.64.0-next.68976705968/file/vscode.theme-red-1.64.0-next.68976705968.vsix" # vscode.theme-red
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-red
+fetch.url = "https://open-vsx.org/api/vscode/theme-red/1.64.0-next.d9fa2b12136/file/vscode.theme-red-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-red
 passthru = { publisher = "vscode", name = "theme-red", description = "Red theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-tomorrow-night-blue]
@@ -2475,8 +2475,8 @@ fetch.url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.64.0-next.68
 passthru = { publisher = "vscode", name = "theme-solarized-dark", description = "Solarized dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-monokai-dimmed]
-src.manual = "1.64.0-next.68976705968" # vscode.theme-monokai-dimmed
-fetch.url = "https://open-vsx.org/api/vscode/theme-monokai-dimmed/1.64.0-next.68976705968/file/vscode.theme-monokai-dimmed-1.64.0-next.68976705968.vsix" # vscode.theme-monokai-dimmed
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.theme-monokai-dimmed
+fetch.url = "https://open-vsx.org/api/vscode/theme-monokai-dimmed/1.64.0-next.d9fa2b12136/file/vscode.theme-monokai-dimmed-1.64.0-next.d9fa2b12136.vsix" # vscode.theme-monokai-dimmed
 passthru = { publisher = "vscode", name = "theme-monokai-dimmed", description = "Monokai dimmed theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-quietlight]
@@ -2495,13 +2495,13 @@ fetch.url = "https://open-vsx.org/api/bringout/pdf-view/2.4.8/file/bringout.pdf-
 passthru = { publisher = "bringout", name = "pdf-view", description = "pdf view for eShell", license = "MIT" }
 
 [vscode-typescript-language-features]
-src.manual = "1.64.0-next.68976705968" # vscode.typescript-language-features
-fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.68976705968/file/vscode.typescript-language-features-1.64.0-next.68976705968.vsix" # vscode.typescript-language-features
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.typescript-language-features
+fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.64.0-next.d9fa2b12136/file/vscode.typescript-language-features-1.64.0-next.d9fa2b12136.vsix" # vscode.typescript-language-features
 passthru = { publisher = "vscode", name = "typescript-language-features", description = "Provides rich language support for JavaScript and TypeScript.", license = "MIT" }
 
 [vscode-merge-conflict]
-src.manual = "1.64.0-next.d9fa2b12136" # vscode.merge-conflict
-fetch.url = "https://open-vsx.org/api/vscode/merge-conflict/1.64.0-next.d9fa2b12136/file/vscode.merge-conflict-1.64.0-next.d9fa2b12136.vsix" # vscode.merge-conflict
+src.manual = "1.64.0-next.68976705968" # vscode.merge-conflict
+fetch.url = "https://open-vsx.org/api/vscode/merge-conflict/1.64.0-next.68976705968/file/vscode.merge-conflict-1.64.0-next.68976705968.vsix" # vscode.merge-conflict
 passthru = { publisher = "vscode", name = "merge-conflict", description = "Highlighting and commands for inline merge conflicts.", license = "MIT" }
 
 [johnsoncodehk-volar]
@@ -2590,8 +2590,8 @@ fetch.url = "https://open-vsx.org/api/vscode/clojure/1.64.0-next.68976705968/fil
 passthru = { publisher = "vscode", name = "clojure", description = "Provides syntax highlighting and bracket matching in Clojure files.", license = "MIT" }
 
 [vscode-go]
-src.manual = "1.64.0-next.68976705968" # vscode.go
-fetch.url = "https://open-vsx.org/api/vscode/go/1.64.0-next.68976705968/file/vscode.go-1.64.0-next.68976705968.vsix" # vscode.go
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.go
+fetch.url = "https://open-vsx.org/api/vscode/go/1.64.0-next.d9fa2b12136/file/vscode.go-1.64.0-next.d9fa2b12136.vsix" # vscode.go
 passthru = { publisher = "vscode", name = "go", description = "Provides syntax highlighting and bracket matching in Go files.", license = "MIT" }
 
 [vscode-handlebars]
@@ -2605,13 +2605,13 @@ fetch.url = "https://open-vsx.org/api/vscode/less/1.64.0-next.68976705968/file/v
 passthru = { publisher = "vscode", name = "less", description = "Provides syntax highlighting, bracket matching and folding in Less files.", license = "MIT" }
 
 [vscode-make]
-src.manual = "1.64.0-next.68976705968" # vscode.make
-fetch.url = "https://open-vsx.org/api/vscode/make/1.64.0-next.68976705968/file/vscode.make-1.64.0-next.68976705968.vsix" # vscode.make
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.make
+fetch.url = "https://open-vsx.org/api/vscode/make/1.64.0-next.d9fa2b12136/file/vscode.make-1.64.0-next.d9fa2b12136.vsix" # vscode.make
 passthru = { publisher = "vscode", name = "make", description = "Provides syntax highlighting and bracket matching in Make files.", license = "MIT" }
 
 [vscode-debug-auto-launch]
-src.manual = "1.64.0-next.68976705968" # vscode.debug-auto-launch
-fetch.url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.68976705968/file/vscode.debug-auto-launch-1.64.0-next.68976705968.vsix" # vscode.debug-auto-launch
+src.manual = "1.64.0-next.d9fa2b12136" # vscode.debug-auto-launch
+fetch.url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.64.0-next.d9fa2b12136/file/vscode.debug-auto-launch-1.64.0-next.d9fa2b12136.vsix" # vscode.debug-auto-launch
 passthru = { publisher = "vscode", name = "debug-auto-launch", description = "Helper for auto-attach feature when node-debug extensions are not active.", license = "MIT" }
 
 [vscode-shellscript]
@@ -4295,8 +4295,8 @@ fetch.url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.3/file/pomdtr
 passthru = { publisher = "pomdtr", name = "excalidraw-editor", description = "Draw schemas in VS Code using Excalidraw", license = "MIT" }
 
 [cloudstudio-browser-preview-lite]
-src.manual = "0.0.7" # cloudstudio.browser-preview-lite
-fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.7/file/CloudStudio.browser-preview-lite-0.0.7.vsix" # cloudstudio.browser-preview-lite
+src.manual = "0.0.8" # cloudstudio.browser-preview-lite
+fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.8/file/CloudStudio.browser-preview-lite-0.0.8.vsix" # cloudstudio.browser-preview-lite
 passthru = { publisher = "cloudstudio", name = "browser-preview-lite", description = "Browser preview extension", license = "MIT" }
 
 [cloudstudio-common]
@@ -9075,8 +9075,8 @@ fetch.url = "https://open-vsx.org/api/CodeStream/codestream/14.4.0/file/CodeStre
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
-src.manual = "0.0.18" # jeanp413.open-remote-ssh
-fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.18/file/jeanp413.open-remote-ssh-0.0.18.vsix" # jeanp413.open-remote-ssh
+src.manual = "0.0.19" # jeanp413.open-remote-ssh
+fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.19/file/jeanp413.open-remote-ssh-0.0.19.vsix" # jeanp413.open-remote-ssh
 passthru = { publisher = "jeanp413", name = "open-remote-ssh", description = "Use any remote machine with a SSH server as your development environment.", license = "MIT" }
 
 [oraichain-cosmwasm-ide]
@@ -9705,8 +9705,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.116.7" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/win32-x64/0.116.7/file/dendron.nightly-0.116.7@win32-x64.vsix" # dendron.nightly
+src.manual = "0.116.8" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/win32-x64/0.116.8/file/dendron.nightly-0.116.8@win32-x64.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -11147,8 +11147,8 @@ passthru = { publisher = "jeff-hykin", name = "better-prolog-syntax", descriptio
 
 
 [kyntrack-gitpod-plugin]
-src.manual = "0.1.7" # kyntrack.gitpod-plugin
-fetch.url = "https://open-vsx.org/api/kyntrack/gitpod-plugin/0.1.7/file/kyntrack.gitpod-plugin-0.1.7.vsix" # kyntrack.gitpod-plugin
+src.manual = "0.1.10" # kyntrack.gitpod-plugin
+fetch.url = "https://open-vsx.org/api/kyntrack/gitpod-plugin/0.1.10/file/kyntrack.gitpod-plugin-0.1.10.vsix" # kyntrack.gitpod-plugin
 passthru = { publisher = "kyntrack", name = "gitpod-plugin", description = "to track students activities", license = "MIT" }
 
 
@@ -11257,4 +11257,10 @@ passthru = { publisher = "urld", name = "nofrills", description = "no-frills syn
 src.manual = "0.0.7" # PierreBelmondo.wipeout
 fetch.url = "https://open-vsx.org/api/PierreBelmondo/wipeout/0.0.7/file/PierreBelmondo.wipeout-0.0.7.vsix" # PierreBelmondo.wipeout
 passthru = { publisher = "PierreBelmondo", name = "wipeout", description = "Wipeout Modding", license = "MIT" }
+
+
+[google-cloud-spanner-ecosystem-google-cloud-spanner-driver]
+src.manual = "0.4.1" # google-cloud-spanner-ecosystem.google-cloud-spanner-driver
+fetch.url = "https://open-vsx.org/api/google-cloud-spanner-ecosystem/google-cloud-spanner-driver/0.4.1/file/google-cloud-spanner-ecosystem.google-cloud-spanner-driver-0.4.1.vsix" # google-cloud-spanner-ecosystem.google-cloud-spanner-driver
+passthru = { publisher = "google-cloud-spanner-ecosystem", name = "google-cloud-spanner-driver", description = "Google Cloud Spanner Driver for SQLTools", license = "Apache" }
 
