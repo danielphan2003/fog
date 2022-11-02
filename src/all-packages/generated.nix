@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "e8e0a4dcc5055b24314c02a8b5371effb27e1026";
+    version = "ccdaaceb3311a0972c3c23a11c4a81fa7329518a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "e8e0a4dcc5055b24314c02a8b5371effb27e1026";
+      rev = "ccdaaceb3311a0972c3c23a11c4a81fa7329518a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Ao/VeO8vzAnsr3lterMakJYNP5XgW4QGjFZ3IU+Yejg=";
+      sha256 = "sha256-CdjhxOzIEadTsM8mjA/LAFb0e1sfOuKwO2w/5tMj3CE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-e8e0a4dcc5055b24314c02a8b5371effb27e1026/Cargo.lock;
+      lockFile = ./conduit-ccdaaceb3311a0972c3c23a11c4a81fa7329518a/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-HWwxkWq7/prZ1or5ofPZpH5w9Z9VbOsMK97eOHlZ7xk=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6760";
+    version = "1.0.6761";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6760.tar.bz2";
-      sha256 = "sha256-2uuvUc2ngynNzlGtiFCE0PMPnq0pj/RjrXYavBzdnkk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6761.tar.bz2";
+      sha256 = "sha256-8aQWRx3E6EknpehRJwGk/rzP33T3rqG6y7gslt9l0Ck=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6760";
+    version = "1.0.6761";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6760-1_all.deb";
-      sha256 = "sha256-klUPvRIaQcE9Sf4tG1MHjLqH0jSRm3OCkkYjjRbNPVs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6761-1_all.deb";
+      sha256 = "sha256-fRERa2MitudluDWu0ejA9eOtrPOjQJuYPG9jFPf3qKo=";
     };
   };
   jitsi-videobridge2 = {
@@ -792,16 +792,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "2979105e1b21985590df70e92d43f14a538f3083";
+    version = "185bfb0a75d3af75d915c84fa1bcd514653220f1";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "2979105e1b21985590df70e92d43f14a538f3083";
+      rev = "185bfb0a75d3af75d915c84fa1bcd514653220f1";
       fetchSubmodules = false;
-      sha256 = "sha256-mqJtbRS/ZTerbyrS16Q5KRiN71jOpVzCNuyzHslJoSg=";
+      sha256 = "sha256-7dC7aq79DCWudXt4YwCSPY6Xs6M62i6TJq3gBacKpHc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-2979105e1b21985590df70e92d43f14a538f3083/Cargo.lock;
+      lockFile = ./playit-agent-185bfb0a75d3af75d915c84fa1bcd514653220f1/Cargo.lock;
       outputHashes = {
         
       };
