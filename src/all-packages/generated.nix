@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "01649d7955f9a766cea2ffb5146af49040a5f374";
+    version = "0ffdf0790c488c1ba867152273956c48182a0b56";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "01649d7955f9a766cea2ffb5146af49040a5f374";
+      rev = "0ffdf0790c488c1ba867152273956c48182a0b56";
       fetchSubmodules = false;
-      sha256 = "sha256-4ujKVFINsDb8oHLXjqkhArojL5FEKSD9i2wkDZ2rmyA=";
+      sha256 = "sha256-vRBCvD3CtkdwK3oTfkfirVgGkOAKGEqAZyYhPZqyEvY=";
     });
   };
   revanced-cli = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3f8c7fd4f4076415d2c79c0cb6bfb0c52ac2d0eb";
+    version = "5b413bfde29b8ccd8f79a7af705a77f2583b110d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3f8c7fd4f4076415d2c79c0cb6bfb0c52ac2d0eb";
+      rev = "5b413bfde29b8ccd8f79a7af705a77f2583b110d";
       fetchSubmodules = false;
-      sha256 = "sha256-29sdflNBAybEASX32hTJcPGKHGZVdKif/Q/18iVH/hU=";
+      sha256 = "sha256-PrpeUsuwwPurCf7MgcqbMZaNUCRAMwbUckn+YiGPd4s=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3f8c7fd4f4076415d2c79c0cb6bfb0c52ac2d0eb/Cargo.lock;
+      lockFile = ./rustdesk-5b413bfde29b8ccd8f79a7af705a77f2583b110d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
