@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "107.0.1418.28";
+    version = "107.0.1418.35";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.28-1_amd64.deb";
-      sha256 = "sha256-M2SshJjOS73zxt+uG6loDfaNaL4HbzCHSP7ptqHumC8=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.35-1_amd64.deb";
+      sha256 = "sha256-jm7BMXeITBGgODqm8tB0QG2DcBeXhobakCRB1+Lqqes=";
     };
   };
   minecraft-wayland = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "91c7a736acdc9632e186685bb4d63acb8cad019b";
+    version = "8295c5bdee696e8cc0cdf9374f344827643065ea";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "91c7a736acdc9632e186685bb4d63acb8cad019b";
+      rev = "8295c5bdee696e8cc0cdf9374f344827643065ea";
       fetchSubmodules = false;
-      sha256 = "sha256-KOI9fKUTEKWHEUd08mpW4UNY4W4MsxoFjtNP2MvY8as=";
+      sha256 = "sha256-e2ENyZXEjKFHHwxLyhQes1s7HGTTvFl0gT3mVqRLIpU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-91c7a736acdc9632e186685bb4d63acb8cad019b/Cargo.lock;
+      lockFile = ./rustdesk-8295c5bdee696e8cc0cdf9374f344827643065ea/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

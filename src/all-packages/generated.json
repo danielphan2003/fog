@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-M2SshJjOS73zxt+uG6loDfaNaL4HbzCHSP7ptqHumC8=",
+            "sha256": "sha256-jm7BMXeITBGgODqm8tB0QG2DcBeXhobakCRB1+Lqqes=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.28-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.35-1_amd64.deb"
         },
-        "version": "107.0.1418.28"
+        "version": "107.0.1418.35"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1617,7 +1617,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-91c7a736acdc9632e186685bb4d63acb8cad019b/Cargo.lock",
+                "./rustdesk-8295c5bdee696e8cc0cdf9374f344827643065ea/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1648,11 +1648,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "91c7a736acdc9632e186685bb4d63acb8cad019b",
-            "sha256": "sha256-KOI9fKUTEKWHEUd08mpW4UNY4W4MsxoFjtNP2MvY8as=",
+            "rev": "8295c5bdee696e8cc0cdf9374f344827643065ea",
+            "sha256": "sha256-e2ENyZXEjKFHHwxLyhQes1s7HGTTvFl0gT3mVqRLIpU=",
             "type": "github"
         },
-        "version": "91c7a736acdc9632e186685bb4d63acb8cad019b"
+        "version": "8295c5bdee696e8cc0cdf9374f344827643065ea"
     },
     "rustdesk-server": {
         "cargoLocks": {
