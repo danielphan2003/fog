@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6765";
+    version = "1.0.6766";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6765.tar.bz2";
-      sha256 = "sha256-g/MXsPPHgjkySW4zZ6c1BxS5h9MeEIFL+QkYFwAXL28=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6766.tar.bz2";
+      sha256 = "sha256-foK9j+lvmrwYAWs6s8loA6kDczsyKwvZvfDL3gBf0I0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6765";
+    version = "1.0.6766";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6765-1_all.deb";
-      sha256 = "sha256-xtFRMoWjskuLx2Oxcspy1pHQ1pB2B6R0yA4Z2XSVEs4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6766-1_all.deb";
+      sha256 = "sha256-x7NPqZPA8J3VRFYRhM2VfjOgeW/AxUAihC8p59Thqw4=";
     };
   };
   jitsi-videobridge2 = {
@@ -643,13 +643,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "ac5180ed11e67ea9c1e6467941148b90dd122fb5";
+    version = "d582bc36841b5790303bc8f60aec10bb61085b64";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "ac5180ed11e67ea9c1e6467941148b90dd122fb5";
+      rev = "d582bc36841b5790303bc8f60aec10bb61085b64";
       fetchSubmodules = false;
-      sha256 = "sha256-U+/eFyrXQSHkY70+WvGsqCTFHIArhbolT+W93uBE3EA=";
+      sha256 = "sha256-gJ093wPP0ZniOP73ZrfZzqWXNowjo/Ire8DwlgHnM1A=";
     });
   };
   microsoft-edge-beta = {
