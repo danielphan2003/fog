@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "cd744a31e7e4da58b9c0cc8806a988d249a0acdc";
+    version = "d50fb9e73faab67d252f2bfa89afd4af70ccdc2f";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "cd744a31e7e4da58b9c0cc8806a988d249a0acdc";
+      rev = "d50fb9e73faab67d252f2bfa89afd4af70ccdc2f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Fmwkmf2zRk30ZkZe4uVFQFmyY0DHAEYRQvPFCklkUso=";
+      sha256 = "sha256-95Fh03RBwbDcQC8Mc111dzx4hduFtozYJEiZldaT0DY=";
     };
   };
   flyingfox = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6767";
+    version = "1.0.6768";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6767.tar.bz2";
-      sha256 = "sha256-Jv4IyluGqVwkJxOygfcotcFPv3egK4AipAt/y7xtPlQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6768.tar.bz2";
+      sha256 = "sha256-w8ekiS+jyHZ4PMNxUEN1BTjqd9v9Lp4xd7If/x4/tYM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6767";
+    version = "1.0.6768";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6767-1_all.deb";
-      sha256 = "sha256-/pNN31zfZRFxIGbcOUOi4ru1fajv/kR6LCnMpbwNJA8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6768-1_all.deb";
+      sha256 = "sha256-sshe6jqoyx0gIAZG+tZammISfNmQ26MmCVq6t6LDd3Y=";
     };
   };
   jitsi-videobridge2 = {
