@@ -909,11 +909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/Vj2FHxPa9J4dxTQevaLTZGLnUC8SgZ3WUovaJI91FM=",
+            "sha256": "sha256-fIFPoO0HcXMKI6v/CkcGzmuFZBwKFWZ53bD/jx9Ttks=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-952-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-953-1_all.deb"
         },
-        "version": "1.0-952"
+        "version": "1.0-953"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SBD+SRfCuXPNDRzx3/udlVtSVWU0pznLlX29bBHKp2c=",
+            "sha256": "sha256-3tmHxe/hUYN/l1qJLeXhSnnS3vzIQ/1aJx9eJ8MhsJg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-59-g81ef77d1-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-60-ga383706a-1_all.deb"
         },
-        "version": "2.2-59-g81ef77d1"
+        "version": "2.2-60-ga383706a"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1930,7 +1930,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-61311ed8266bd603a5fce4e810a6e6404eb73777/Cargo.lock",
+                "./supergfxctl-caa872f114be561f7c0c72c0a40b2aba3609e1eb/Cargo.lock",
                 {}
             ]
         },
@@ -1943,12 +1943,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "61311ed8266bd603a5fce4e810a6e6404eb73777",
-            "sha256": "sha256-xknaibIwUr06Q0hMGOCFQPEFqu6W7fvV3G4+6KOoT5k=",
+            "rev": "caa872f114be561f7c0c72c0a40b2aba3609e1eb",
+            "sha256": "sha256-IGs4uk0ATpEznkc2fc/4C7kujWJw9tqkZeLa4+NTz3Y=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "61311ed8266bd603a5fce4e810a6e6404eb73777"
+        "version": "caa872f114be561f7c0c72c0a40b2aba3609e1eb"
     },
     "sway-borders": {
         "cargoLocks": null,
@@ -2025,11 +2025,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "d57cba86557f3b780f8404ac4a9cd2ad82078c43",
-            "sha256": "sha256-mO9JllvLT6qSdSfS8xsqAywi8HD8AvXhl0EwVWr+tbI=",
+            "rev": "a413fa4f85564a62a28ed140b530d57cf8a63c1e",
+            "sha256": "sha256-WSsTeJPLBVP0d6CvpQXEWzRssw1rqv5UC9dIqdkerEE=",
             "type": "github"
         },
-        "version": "d57cba86557f3b780f8404ac4a9cd2ad82078c43"
+        "version": "a413fa4f85564a62a28ed140b530d57cf8a63c1e"
     },
     "tailscale-systray": {
         "cargoLocks": null,

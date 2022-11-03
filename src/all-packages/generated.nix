@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-952";
+    version = "1.0-953";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-952-1_all.deb";
-      sha256 = "sha256-/Vj2FHxPa9J4dxTQevaLTZGLnUC8SgZ3WUovaJI91FM=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-953-1_all.deb";
+      sha256 = "sha256-fIFPoO0HcXMKI6v/CkcGzmuFZBwKFWZ53bD/jx9Ttks=";
     };
   };
   jitsi-meet = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-59-g81ef77d1";
+    version = "2.2-60-ga383706a";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-59-g81ef77d1-1_all.deb";
-      sha256 = "sha256-SBD+SRfCuXPNDRzx3/udlVtSVWU0pznLlX29bBHKp2c=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-60-ga383706a-1_all.deb";
+      sha256 = "sha256-3tmHxe/hUYN/l1qJLeXhSnnS3vzIQ/1aJx9eJ8MhsJg=";
     };
   };
   layout-machi = {
@@ -1166,17 +1166,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "61311ed8266bd603a5fce4e810a6e6404eb73777";
+    version = "caa872f114be561f7c0c72c0a40b2aba3609e1eb";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "61311ed8266bd603a5fce4e810a6e6404eb73777";
+      rev = "caa872f114be561f7c0c72c0a40b2aba3609e1eb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xknaibIwUr06Q0hMGOCFQPEFqu6W7fvV3G4+6KOoT5k=";
+      sha256 = "sha256-IGs4uk0ATpEznkc2fc/4C7kujWJw9tqkZeLa4+NTz3Y=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-61311ed8266bd603a5fce4e810a6e6404eb73777/Cargo.lock;
+      lockFile = ./supergfxctl-caa872f114be561f7c0c72c0a40b2aba3609e1eb/Cargo.lock;
       outputHashes = {
         
       };
@@ -1223,13 +1223,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d57cba86557f3b780f8404ac4a9cd2ad82078c43";
+    version = "a413fa4f85564a62a28ed140b530d57cf8a63c1e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d57cba86557f3b780f8404ac4a9cd2ad82078c43";
+      rev = "a413fa4f85564a62a28ed140b530d57cf8a63c1e";
       fetchSubmodules = false;
-      sha256 = "sha256-mO9JllvLT6qSdSfS8xsqAywi8HD8AvXhl0EwVWr+tbI=";
+      sha256 = "sha256-WSsTeJPLBVP0d6CvpQXEWzRssw1rqv5UC9dIqdkerEE=";
     });
   };
   tailscale-systray = {
