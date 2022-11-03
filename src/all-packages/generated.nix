@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "764e4314158f2d4d785cb6513ed78548dab426b2";
+    version = "6c102df4457e87b187bc54a4809b74370d1ceb47";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "764e4314158f2d4d785cb6513ed78548dab426b2";
+      rev = "6c102df4457e87b187bc54a4809b74370d1ceb47";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-nJGpd2ElSaiMAUJu9CLlxPiDZyGkeha/1qD9P/i6kFE=";
+      sha256 = "sha256-EN/1vD66FOwnrIdOjjYsjW4i9rc7JBZqCH9o6p4kxN0=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c47581fc5aedcff172b76b658593a1e7c712e448";
+    version = "f978368a4ef65d5af3de5d2fc56b72085fb5a8b8";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c47581fc5aedcff172b76b658593a1e7c712e448";
+      rev = "f978368a4ef65d5af3de5d2fc56b72085fb5a8b8";
       fetchSubmodules = false;
-      sha256 = "sha256-UYjNF24PXWq0cRdMiyDxYG/E4bP+/oEyJ4c8OaZTtmo=";
+      sha256 = "sha256-fFuscYzmI4FgZda0NuvUM7tNg43RxxygdYl7WyQ07yU=";
     });
   };
   ibus = {
@@ -540,10 +540,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-139-g7ab9aa2";
+    version = "8.0-140-gccc7278";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-139-g7ab9aa2-1_all.deb";
-      sha256 = "sha256-14V5khp6S9T3SWiNfKyxn2WCzwhcXDCRDtATa15p01M=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-140-gccc7278-1_all.deb";
+      sha256 = "sha256-TiKCK41ar3X1aOrGitnNBr/iWru1HOjjGkwLBB76M1M=";
     };
   };
   jicofo = {

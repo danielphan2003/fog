@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "764e4314158f2d4d785cb6513ed78548dab426b2",
-            "sha256": "sha256-nJGpd2ElSaiMAUJu9CLlxPiDZyGkeha/1qD9P/i6kFE=",
+            "rev": "6c102df4457e87b187bc54a4809b74370d1ceb47",
+            "sha256": "sha256-EN/1vD66FOwnrIdOjjYsjW4i9rc7JBZqCH9o6p4kxN0=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "764e4314158f2d4d785cb6513ed78548dab426b2"
+        "version": "6c102df4457e87b187bc54a4809b74370d1ceb47"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "c47581fc5aedcff172b76b658593a1e7c712e448",
-            "sha256": "sha256-UYjNF24PXWq0cRdMiyDxYG/E4bP+/oEyJ4c8OaZTtmo=",
+            "rev": "f978368a4ef65d5af3de5d2fc56b72085fb5a8b8",
+            "sha256": "sha256-fFuscYzmI4FgZda0NuvUM7tNg43RxxygdYl7WyQ07yU=",
             "type": "github"
         },
-        "version": "c47581fc5aedcff172b76b658593a1e7c712e448"
+        "version": "f978368a4ef65d5af3de5d2fc56b72085fb5a8b8"
     },
     "ibus": {
         "cargoLocks": null,
@@ -895,11 +895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-14V5khp6S9T3SWiNfKyxn2WCzwhcXDCRDtATa15p01M=",
+            "sha256": "sha256-TiKCK41ar3X1aOrGitnNBr/iWru1HOjjGkwLBB76M1M=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jibri_8.0-139-g7ab9aa2-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jibri_8.0-140-gccc7278-1_all.deb"
         },
-        "version": "8.0-139-g7ab9aa2"
+        "version": "8.0-140-gccc7278"
     },
     "jicofo": {
         "cargoLocks": null,
