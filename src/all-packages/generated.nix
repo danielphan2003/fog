@@ -573,10 +573,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-60-ga383706a";
+    version = "2.2-61-g98c9f868";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-60-ga383706a-1_all.deb";
-      sha256 = "sha256-3tmHxe/hUYN/l1qJLeXhSnnS3vzIQ/1aJx9eJ8MhsJg=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-61-g98c9f868-1_all.deb";
+      sha256 = "sha256-NehGocskl+hwxEBh+v3dJMgBaVAfREqOqRuHSbnt2fY=";
     };
   };
   layout-machi = {
@@ -971,16 +971,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0a1e6bcb725f93f4122ed592530b30bcf6168f52";
+    version = "dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0a1e6bcb725f93f4122ed592530b30bcf6168f52";
+      rev = "dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9";
       fetchSubmodules = false;
-      sha256 = "sha256-XIXVqMRnOdlZPNCnjsx4hIkOPukALgNwDv0A1ychaj0=";
+      sha256 = "sha256-S2A9n9mBRgW/4jPPXnFfbG2gM6MGmELEIo0IClrIkKw=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0a1e6bcb725f93f4122ed592530b30bcf6168f52/Cargo.lock;
+      lockFile = ./rustdesk-dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

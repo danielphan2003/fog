@@ -952,11 +952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3tmHxe/hUYN/l1qJLeXhSnnS3vzIQ/1aJx9eJ8MhsJg=",
+            "sha256": "sha256-NehGocskl+hwxEBh+v3dJMgBaVAfREqOqRuHSbnt2fY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-60-ga383706a-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-61-g98c9f868-1_all.deb"
         },
-        "version": "2.2-60-ga383706a"
+        "version": "2.2-61-g98c9f868"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1618,7 +1618,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-0a1e6bcb725f93f4122ed592530b30bcf6168f52/Cargo.lock",
+                "./rustdesk-dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "0a1e6bcb725f93f4122ed592530b30bcf6168f52",
-            "sha256": "sha256-XIXVqMRnOdlZPNCnjsx4hIkOPukALgNwDv0A1ychaj0=",
+            "rev": "dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9",
+            "sha256": "sha256-S2A9n9mBRgW/4jPPXnFfbG2gM6MGmELEIo0IClrIkKw=",
             "type": "github"
         },
-        "version": "0a1e6bcb725f93f4122ed592530b30bcf6168f52"
+        "version": "dae91b7c7ed7a4bf8312afc1198a53e8622fcfe9"
     },
     "rustdesk-server": {
         "cargoLocks": {
