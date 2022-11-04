@@ -1590,11 +1590,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C3PoMG/om0G8o5pfI/hzCEgOcABXqBGly/aN7EY3dpU=",
+            "sha256": "sha256-fAM/sEOo1J6SqH84gzu/7+rFhbbFDf+za9Zyq9Y8iME=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.102.0/revanced-patches-2.102.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.102.1/revanced-patches-2.102.1.jar"
         },
-        "version": "2.102.0"
+        "version": "2.102.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
