@@ -424,14 +424,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "a5c375bf6bfe9235bd60d3fd756d3d7e796e1a0b";
+    version = "3a979a952470e1a73855861a7b4c36ef2b010c85";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "a5c375bf6bfe9235bd60d3fd756d3d7e796e1a0b";
+      rev = "3a979a952470e1a73855861a7b4c36ef2b010c85";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QzZaXyXGfexapn9MnDQo3+GETRVbNGfRuQ+u5gwTYu4=";
+      sha256 = "sha256-Wo7YW/z2V0f93A8XJ5tabmE1Mm5I6qkWjeE5ozODUPI=";
     };
   };
   flyingfox = {
@@ -497,13 +497,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e7961576721f1bd7cc976d14c6dccaddf6c1a69f";
+    version = "34ad837fd93a55c2a234381c9077fba1c2fd154c";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "e7961576721f1bd7cc976d14c6dccaddf6c1a69f";
+      rev = "34ad837fd93a55c2a234381c9077fba1c2fd154c";
       fetchSubmodules = false;
-      sha256 = "sha256-E7tcWMTL/CCxACgkRcoSQTW2NYvZm7FEJtDbAgSYqQA=";
+      sha256 = "sha256-StR+7yu1cj72OOPSAYbfWNKkBHTXRsbp743H3k3qm1Y=";
     });
   };
   ibus = {
@@ -971,16 +971,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "884a223449e71e828f8fa62507433320fd556a7d";
+    version = "eec5c168762d3af294fb66dd941cf9c1e96df08a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "884a223449e71e828f8fa62507433320fd556a7d";
+      rev = "eec5c168762d3af294fb66dd941cf9c1e96df08a";
       fetchSubmodules = false;
-      sha256 = "sha256-k9DglR5aK/XapMdiEq2ZKi8d/yUPzpWNJE3r27z8vko=";
+      sha256 = "sha256-5lDHGcTxJewp1n37CtaG9tlZY4yottu69PYSXvo8VG8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-884a223449e71e828f8fa62507433320fd556a7d/Cargo.lock;
+      lockFile = ./rustdesk-eec5c168762d3af294fb66dd941cf9c1e96df08a/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -988,7 +988,7 @@
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "x11-2.19.0" = "sha256-GDCeKzUtvaLeBDmPQdyr499EjEfT6y4diBMzZVEptzc=";
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
-        "impersonate_system-0.1.0" = "sha256-++0rTyH9psn3/pO/f3EKdponzVvMVaVYZ+mhBQmJAgM=";
+        "impersonate_system-0.1.0" = "sha256-qbaTw9gxMKDjX5pKdUrKlmIxCxWwb99YuWPDvD2A3kY=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-E5osGKmtvaTn3ntsdAWG2BTE05RWfPlmqqBQFoX4mlI=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
