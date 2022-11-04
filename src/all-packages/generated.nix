@@ -96,19 +96,20 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "ba1d3f045d0fca79f125c165fd3cf34da249b506";
+    version = "58ff566d65e85f36b19c9b9990f58bff94d77397";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "ba1d3f045d0fca79f125c165fd3cf34da249b506";
+      rev = "58ff566d65e85f36b19c9b9990f58bff94d77397";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9dVaS0cM/e0qyomRxYU7hxhHQAUA6vRbrc64Vi6xspE=";
+      sha256 = "sha256-0Xu/f3JhcY/w0N7KZMqScFW/nOp+Zi+jU76YxzCpGyg=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-ba1d3f045d0fca79f125c165fd3cf34da249b506/Cargo.lock;
+      lockFile = ./asusctl-58ff566d65e85f36b19c9b9990f58bff94d77397/Cargo.lock;
       outputHashes = {
-        "eframe-0.19.0" = "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8=";
+        "eframe-0.19.0" = "sha256-a6zcfzAngQUkrFuU+PwjrQ1cDh0Mqbjminz784enctk=";
+        "supergfxctl-5.0.2" = "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04=";
       };
     };
   };
@@ -1166,17 +1167,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "ddbd01361ece48ff5a415e8d20e7e44717313cb6";
+    version = "f8f9a5a843e6960a13a5fd2c02995c7c979cbfba";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "ddbd01361ece48ff5a415e8d20e7e44717313cb6";
+      rev = "f8f9a5a843e6960a13a5fd2c02995c7c979cbfba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-FzB+8ZZ6fa0SuudC2xv9f14uvADocTuMKPXpZ/NNfKw=";
+      sha256 = "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-ddbd01361ece48ff5a415e8d20e7e44717313cb6/Cargo.lock;
+      lockFile = ./supergfxctl-f8f9a5a843e6960a13a5fd2c02995c7c979cbfba/Cargo.lock;
       outputHashes = {
         
       };

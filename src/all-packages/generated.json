@@ -158,9 +158,10 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-ba1d3f045d0fca79f125c165fd3cf34da249b506/Cargo.lock",
+                "./asusctl-58ff566d65e85f36b19c9b9990f58bff94d77397/Cargo.lock",
                 {
-                    "eframe-0.19.0": "sha256-rdc5vbpt+WR8/r+xuIHogp+2WoPvChdMlJMIik0ZBb8="
+                    "eframe-0.19.0": "sha256-a6zcfzAngQUkrFuU+PwjrQ1cDh0Mqbjminz784enctk=",
+                    "supergfxctl-5.0.2": "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04="
                 }
             ]
         },
@@ -173,12 +174,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ba1d3f045d0fca79f125c165fd3cf34da249b506",
-            "sha256": "sha256-9dVaS0cM/e0qyomRxYU7hxhHQAUA6vRbrc64Vi6xspE=",
+            "rev": "58ff566d65e85f36b19c9b9990f58bff94d77397",
+            "sha256": "sha256-0Xu/f3JhcY/w0N7KZMqScFW/nOp+Zi+jU76YxzCpGyg=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "ba1d3f045d0fca79f125c165fd3cf34da249b506"
+        "version": "58ff566d65e85f36b19c9b9990f58bff94d77397"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1930,7 +1931,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-ddbd01361ece48ff5a415e8d20e7e44717313cb6/Cargo.lock",
+                "./supergfxctl-f8f9a5a843e6960a13a5fd2c02995c7c979cbfba/Cargo.lock",
                 {}
             ]
         },
@@ -1943,12 +1944,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ddbd01361ece48ff5a415e8d20e7e44717313cb6",
-            "sha256": "sha256-FzB+8ZZ6fa0SuudC2xv9f14uvADocTuMKPXpZ/NNfKw=",
+            "rev": "f8f9a5a843e6960a13a5fd2c02995c7c979cbfba",
+            "sha256": "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "ddbd01361ece48ff5a415e8d20e7e44717313cb6"
+        "version": "f8f9a5a843e6960a13a5fd2c02995c7c979cbfba"
     },
     "sway-borders": {
         "cargoLocks": null,
