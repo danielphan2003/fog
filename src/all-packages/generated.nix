@@ -497,13 +497,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "70aece85224dcca42e6fc596a4b68d688ad6c295";
+    version = "cfbab453e88336c4714868f40eb3c8b159cfa783";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "70aece85224dcca42e6fc596a4b68d688ad6c295";
+      rev = "cfbab453e88336c4714868f40eb3c8b159cfa783";
       fetchSubmodules = false;
-      sha256 = "sha256-NipRUi+DGyeNJO98u+ULf7Sd1UdsJ8JitZkKMPaMAF0=";
+      sha256 = "sha256-Ek5Rtf/MMlGML/uGHrB5nxGfTuoRPBHkqp33EtDgkio=";
     });
   };
   ibus = {
@@ -971,16 +971,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "96f2e61ca4e7e03bf33a5ebc8519112201cbf1db";
+    version = "e749089206d183b8e12693c751f1895c25d3567c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "96f2e61ca4e7e03bf33a5ebc8519112201cbf1db";
+      rev = "e749089206d183b8e12693c751f1895c25d3567c";
       fetchSubmodules = false;
-      sha256 = "sha256-hzzQmc4zfOBBYQYSWvKfaqvG5bPjmUkYmGk3EwxSTSA=";
+      sha256 = "sha256-keFuuv0Xms76ve155s0v+QiaH/Llv2gFVbNXNgSZNug=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-96f2e61ca4e7e03bf33a5ebc8519112201cbf1db/Cargo.lock;
+      lockFile = ./rustdesk-e749089206d183b8e12693c751f1895c25d3567c/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1078,14 +1078,14 @@
   };
   snui = {
     pname = "snui";
-    version = "9048c2a3efe5dfbefffebf0526d448451428528b";
+    version = "79ecdbec7b2af3141fbc34a926c70c37ecd77787";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "9048c2a3efe5dfbefffebf0526d448451428528b";
+      rev = "79ecdbec7b2af3141fbc34a926c70c37ecd77787";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-EmN+wWpMAX1bIJj4LW+ytx0uQ6GZEqXoVH+kk9XVBQ8=";
+      sha256 = "sha256-/3YKFadUMDzsDzZvzMF7tVAZAeZ47XQD09TzYCFpev0=";
     };
   };
   spicetify-cli = {
@@ -1262,13 +1262,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "acd590f9a70dd2484df0453170ac9ad7b0f25a4a";
+    version = "330f1bedeb58110c8575083c18838abf8851d907";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "acd590f9a70dd2484df0453170ac9ad7b0f25a4a";
+      rev = "330f1bedeb58110c8575083c18838abf8851d907";
       fetchSubmodules = false;
-      sha256 = "sha256-1arbE2aJy+Ugv/fvt+1tkkHId3l717rdEFqi79xFMWo=";
+      sha256 = "sha256-jkDgIrAcW6xb0cF2IxB4X1cKP/7ENQKjypKBE6DWkkc=";
     });
   };
   uniemoji = {
