@@ -1576,11 +1576,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7uqQ5N9hI04TNHhbvGFlTebfUBkv7/ks4GpsbgvzCkU=",
+            "sha256": "sha256-N1qT2aH/57yI5VX/5jsTp+esuKy9GWz1MH917oTdBCE=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.66.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.67.0/app-release-unsigned.apk"
         },
-        "version": "0.66.0"
+        "version": "0.67.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
