@@ -178,13 +178,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "317aedb97da52604d766572fbc5424b2da767b2f";
+    version = "1a6f71bd1ac40cdecf87201d02ca23b1c430582b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "317aedb97da52604d766572fbc5424b2da767b2f";
+      rev = "1a6f71bd1ac40cdecf87201d02ca23b1c430582b";
       fetchSubmodules = false;
-      sha256 = "sha256-unpSxchbcw6QNdVahC2hRMmmWIxGC28bOpVAgJPDuwM=";
+      sha256 = "sha256-DEKkQ1kmbyIKlcqhNjHLyMi3Gdb/ld1Jnt2Fg6vB6UI=";
     });
   };
   caddy = {
@@ -971,16 +971,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e749089206d183b8e12693c751f1895c25d3567c";
+    version = "ddeaf7fb92b230469e05267609a959498b638181";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e749089206d183b8e12693c751f1895c25d3567c";
+      rev = "ddeaf7fb92b230469e05267609a959498b638181";
       fetchSubmodules = false;
-      sha256 = "sha256-keFuuv0Xms76ve155s0v+QiaH/Llv2gFVbNXNgSZNug=";
+      sha256 = "sha256-N2XHtHNrsGBQAMcIHS3udpfoquXx2hp9syFKIlQYu7Q=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e749089206d183b8e12693c751f1895c25d3567c/Cargo.lock;
+      lockFile = ./rustdesk-ddeaf7fb92b230469e05267609a959498b638181/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1262,13 +1262,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "330f1bedeb58110c8575083c18838abf8851d907";
+    version = "63fc112d06eaa098f03f9f946587ee76fb677554";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "330f1bedeb58110c8575083c18838abf8851d907";
+      rev = "63fc112d06eaa098f03f9f946587ee76fb677554";
       fetchSubmodules = false;
-      sha256 = "sha256-jkDgIrAcW6xb0cF2IxB4X1cKP/7ENQKjypKBE6DWkkc=";
+      sha256 = "sha256-ts/fYQ0h97kGa0Uc4rOLXJou8RCMa6tSmC+k6Yar6mg=";
     });
   };
   uniemoji = {
