@@ -925,13 +925,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7a6c56e9470121c2a2efb0aeba7b896b308f4c47";
+    version = "b47fb0b80791a5df6189a1e43ef73636ed26de70";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7a6c56e9470121c2a2efb0aeba7b896b308f4c47";
+      rev = "b47fb0b80791a5df6189a1e43ef73636ed26de70";
       fetchSubmodules = false;
-      sha256 = "sha256-tFqshkJuv79Vnh2KtJNhsmAcWX6OBApT62ezHKzXoZI=";
+      sha256 = "sha256-v2EeGnBvz8YFVuZ6jeNWkdX1+pgi5SmQuq2yCgSPW4c=";
     });
   };
   revanced-cli = {
@@ -952,10 +952,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.102.1";
+    version = "2.103.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.102.1/revanced-patches-2.102.1.jar";
-      sha256 = "sha256-fAM/sEOo1J6SqH84gzu/7+rFhbbFDf+za9Zyq9Y8iME=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.103.0/revanced-patches-2.103.0.jar";
+      sha256 = "sha256-bWDu8Tq1LFGVCTR1jHwyDP1bj1lMADI7/wQI4xAgb/o=";
     };
   };
   rofi-wayland = {
@@ -1262,13 +1262,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "ec83a36994624ed21cb349fa7ed9b3a895bc2388";
+    version = "32591c3ee1b79b1c97d3df0b19e640a41c6b615f";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "ec83a36994624ed21cb349fa7ed9b3a895bc2388";
+      rev = "32591c3ee1b79b1c97d3df0b19e640a41c6b615f";
       fetchSubmodules = false;
-      sha256 = "sha256-46sJ99TYx91jVIHAJ0r7fdbmgmlrQb6vTuOc/XutnAk=";
+      sha256 = "sha256-ErPzWp52wH/Kcn5T3pwbzYb8k95RY2r8X37HqE2Da28=";
     });
   };
   uniemoji = {
