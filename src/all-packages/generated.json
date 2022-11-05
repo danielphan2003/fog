@@ -924,11 +924,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ud3xDyqY6HXPZs6owPSBP8SlUGTH3X29iHT+hIYNkv8=",
+            "sha256": "sha256-x04Z4QidN2nNhryvXS8bA+J7A6mRQv9D1N+3arVROlc=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6770.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6771.tar.bz2"
         },
-        "version": "1.0.6770"
+        "version": "1.0.6771"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -938,11 +938,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eW0VbR0hB2iSdiCMOylH6Tr9HjTCqKIKviSUThHgGGE=",
+            "sha256": "sha256-BMtyoGSLYoXD0tpx6xOIv3AZ3+X+/ZTv3E5c6vucKE0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6770-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6771-1_all.deb"
         },
-        "version": "1.0.6770"
+        "version": "1.0.6771"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2092,11 +2092,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "3ec7938b0ae7e64e67d45e28fe3920a8194bcf16",
-            "sha256": "sha256-hJdGpNAkLjkftj2AKPZzPvH7p4/C+sfPEkvsbjBWC8I=",
+            "rev": "ec83a36994624ed21cb349fa7ed9b3a895bc2388",
+            "sha256": "sha256-46sJ99TYx91jVIHAJ0r7fdbmgmlrQb6vTuOc/XutnAk=",
             "type": "github"
         },
-        "version": "3ec7938b0ae7e64e67d45e28fe3920a8194bcf16"
+        "version": "ec83a36994624ed21cb349fa7ed9b3a895bc2388"
     },
     "uniemoji": {
         "cargoLocks": null,
