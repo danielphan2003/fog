@@ -952,10 +952,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.103.0";
+    version = "2.104.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.103.0/revanced-patches-2.103.0.jar";
-      sha256 = "sha256-bWDu8Tq1LFGVCTR1jHwyDP1bj1lMADI7/wQI4xAgb/o=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.104.0/revanced-patches-2.104.0.jar";
+      sha256 = "sha256-585SpU7VCvLdAfUynXAtT4Zf9nJiOzFRfA2LoRP7wPE=";
     };
   };
   rofi-wayland = {
