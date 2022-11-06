@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-58ff566d65e85f36b19c9b9990f58bff94d77397/Cargo.lock",
+                "./asusctl-688e3a73587898a1df15ae0059a85acbb1e86789/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-a6zcfzAngQUkrFuU+PwjrQ1cDh0Mqbjminz784enctk=",
                     "supergfxctl-5.0.2": "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04="
@@ -174,12 +174,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "58ff566d65e85f36b19c9b9990f58bff94d77397",
-            "sha256": "sha256-0Xu/f3JhcY/w0N7KZMqScFW/nOp+Zi+jU76YxzCpGyg=",
+            "rev": "688e3a73587898a1df15ae0059a85acbb1e86789",
+            "sha256": "sha256-GBL3jwo8hV14gBJWFqcydpB9es71qlgWOWlOVVFSrBI=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "58ff566d65e85f36b19c9b9990f58bff94d77397"
+        "version": "688e3a73587898a1df15ae0059a85acbb1e86789"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1548,11 +1548,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "b47fb0b80791a5df6189a1e43ef73636ed26de70",
-            "sha256": "sha256-v2EeGnBvz8YFVuZ6jeNWkdX1+pgi5SmQuq2yCgSPW4c=",
+            "rev": "9796024f3dbcd9042c49965b4da4ec91b1cb1257",
+            "sha256": "sha256-wdooU5v9wmvIADk9S3sWH7w6bKxkMwFAl4pvD0bBP8I=",
             "type": "github"
         },
-        "version": "b47fb0b80791a5df6189a1e43ef73636ed26de70"
+        "version": "9796024f3dbcd9042c49965b4da4ec91b1cb1257"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "21ef7e5c35bb4f792884a76601111bf871215532",
-            "sha256": "sha256-zogRMH14kPSifgkElBbCWKQl6pMKtfEv05Fa7/pDIiw=",
+            "rev": "db2cc393af3c76c87b3b8dc5b39fedbd931087fa",
+            "sha256": "sha256-WaUeOBR3Z+JMGLapxh3PLB9HP9cZv+c3xLNyUk45WWE=",
             "type": "github"
         },
-        "version": "21ef7e5c35bb4f792884a76601111bf871215532"
+        "version": "db2cc393af3c76c87b3b8dc5b39fedbd931087fa"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2092,11 +2092,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "32591c3ee1b79b1c97d3df0b19e640a41c6b615f",
-            "sha256": "sha256-ErPzWp52wH/Kcn5T3pwbzYb8k95RY2r8X37HqE2Da28=",
+            "rev": "cc05f11fcab43fec606e5e7b5f8dab1d0ed15595",
+            "sha256": "sha256-2sdNgYzrF7PKGuilF7PrEcPR908IGvCbw4hkP8aXCbU=",
             "type": "github"
         },
-        "version": "32591c3ee1b79b1c97d3df0b19e640a41c6b615f"
+        "version": "cc05f11fcab43fec606e5e7b5f8dab1d0ed15595"
     },
     "uniemoji": {
         "cargoLocks": null,

@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "58ff566d65e85f36b19c9b9990f58bff94d77397";
+    version = "688e3a73587898a1df15ae0059a85acbb1e86789";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "58ff566d65e85f36b19c9b9990f58bff94d77397";
+      rev = "688e3a73587898a1df15ae0059a85acbb1e86789";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-0Xu/f3JhcY/w0N7KZMqScFW/nOp+Zi+jU76YxzCpGyg=";
+      sha256 = "sha256-GBL3jwo8hV14gBJWFqcydpB9es71qlgWOWlOVVFSrBI=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-58ff566d65e85f36b19c9b9990f58bff94d77397/Cargo.lock;
+      lockFile = ./asusctl-688e3a73587898a1df15ae0059a85acbb1e86789/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-a6zcfzAngQUkrFuU+PwjrQ1cDh0Mqbjminz784enctk=";
         "supergfxctl-5.0.2" = "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04=";
@@ -925,13 +925,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b47fb0b80791a5df6189a1e43ef73636ed26de70";
+    version = "9796024f3dbcd9042c49965b4da4ec91b1cb1257";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b47fb0b80791a5df6189a1e43ef73636ed26de70";
+      rev = "9796024f3dbcd9042c49965b4da4ec91b1cb1257";
       fetchSubmodules = false;
-      sha256 = "sha256-v2EeGnBvz8YFVuZ6jeNWkdX1+pgi5SmQuq2yCgSPW4c=";
+      sha256 = "sha256-wdooU5v9wmvIADk9S3sWH7w6bKxkMwFAl4pvD0bBP8I=";
     });
   };
   revanced-cli = {
@@ -1224,13 +1224,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "21ef7e5c35bb4f792884a76601111bf871215532";
+    version = "db2cc393af3c76c87b3b8dc5b39fedbd931087fa";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "21ef7e5c35bb4f792884a76601111bf871215532";
+      rev = "db2cc393af3c76c87b3b8dc5b39fedbd931087fa";
       fetchSubmodules = false;
-      sha256 = "sha256-zogRMH14kPSifgkElBbCWKQl6pMKtfEv05Fa7/pDIiw=";
+      sha256 = "sha256-WaUeOBR3Z+JMGLapxh3PLB9HP9cZv+c3xLNyUk45WWE=";
     });
   };
   tailscale-systray = {
@@ -1262,13 +1262,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "32591c3ee1b79b1c97d3df0b19e640a41c6b615f";
+    version = "cc05f11fcab43fec606e5e7b5f8dab1d0ed15595";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "32591c3ee1b79b1c97d3df0b19e640a41c6b615f";
+      rev = "cc05f11fcab43fec606e5e7b5f8dab1d0ed15595";
       fetchSubmodules = false;
-      sha256 = "sha256-ErPzWp52wH/Kcn5T3pwbzYb8k95RY2r8X37HqE2Da28=";
+      sha256 = "sha256-2sdNgYzrF7PKGuilF7PrEcPR908IGvCbw4hkP8aXCbU=";
     });
   };
   uniemoji = {
