@@ -96,19 +96,19 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "688e3a73587898a1df15ae0059a85acbb1e86789";
+    version = "cd5a85a843a42e13d4f51df08794513e361bd3bc";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "688e3a73587898a1df15ae0059a85acbb1e86789";
+      rev = "cd5a85a843a42e13d4f51df08794513e361bd3bc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-GBL3jwo8hV14gBJWFqcydpB9es71qlgWOWlOVVFSrBI=";
+      sha256 = "sha256-XQvtbqT9P5dBKfC7zCSmH9i7g//wIOUp9QtdfDQpUYY=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-688e3a73587898a1df15ae0059a85acbb1e86789/Cargo.lock;
+      lockFile = ./asusctl-cd5a85a843a42e13d4f51df08794513e361bd3bc/Cargo.lock;
       outputHashes = {
-        "eframe-0.19.0" = "sha256-a6zcfzAngQUkrFuU+PwjrQ1cDh0Mqbjminz784enctk=";
+        "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-M9U73/0yfnSRbzZdWzkYt2AmEyKORqUd20mcmKsri04=";
       };
     };
@@ -925,13 +925,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "9796024f3dbcd9042c49965b4da4ec91b1cb1257";
+    version = "6d34ef46f429ede6fe9a6d6713de6beaab6da294";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "9796024f3dbcd9042c49965b4da4ec91b1cb1257";
+      rev = "6d34ef46f429ede6fe9a6d6713de6beaab6da294";
       fetchSubmodules = false;
-      sha256 = "sha256-wdooU5v9wmvIADk9S3sWH7w6bKxkMwFAl4pvD0bBP8I=";
+      sha256 = "sha256-1+RqTQSwXwuHia1ezQm9UyRunY/TSq1R5CES6seWbv8=";
     });
   };
   revanced-cli = {
