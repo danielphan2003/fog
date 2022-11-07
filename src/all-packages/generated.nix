@@ -582,13 +582,13 @@
   };
   layout-machi = {
     pname = "layout-machi";
-    version = "d15b877fb5b0a5f90f010871c7dbfb163b874fe4";
+    version = "497d076903e6f5375c0456593f24adcca3db07e6";
     src = fetchFromGitHub ({
       owner = "xinhaoyuan";
       repo = "layout-machi";
-      rev = "d15b877fb5b0a5f90f010871c7dbfb163b874fe4";
+      rev = "497d076903e6f5375c0456593f24adcca3db07e6";
       fetchSubmodules = false;
-      sha256 = "sha256-3oC2DOqxp/Kpcrt2g+KxpfQkh9XSrTVSHZ7yxQblNeI=";
+      sha256 = "sha256-6bBtXEich+b+un+KGva+nL7AWx0fSsEgma5IMusbqNA=";
     });
   };
   leonflix = {
@@ -1425,10 +1425,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.12.2.4816";
+    version = "5.12.6.173";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.12.2.4816/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-kgjooMqeZurzqIn3ADcgFjlqaC58dQNuIAHLx4M0S9I=";
+      url = "https://cdn.zoom.us/prod/5.12.6.173/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-8/xH2Z9MbNx+/e2tWj5fv0A1cMn8h0bSbVJ+REk3YZo=";
     };
   };
 }

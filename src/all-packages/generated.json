@@ -972,11 +972,11 @@
             "name": null,
             "owner": "xinhaoyuan",
             "repo": "layout-machi",
-            "rev": "d15b877fb5b0a5f90f010871c7dbfb163b874fe4",
-            "sha256": "sha256-3oC2DOqxp/Kpcrt2g+KxpfQkh9XSrTVSHZ7yxQblNeI=",
+            "rev": "497d076903e6f5375c0456593f24adcca3db07e6",
+            "sha256": "sha256-6bBtXEich+b+un+KGva+nL7AWx0fSsEgma5IMusbqNA=",
             "type": "github"
         },
-        "version": "d15b877fb5b0a5f90f010871c7dbfb163b874fe4"
+        "version": "497d076903e6f5375c0456593f24adcca3db07e6"
     },
     "leonflix": {
         "cargoLocks": null,
@@ -2365,10 +2365,10 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kgjooMqeZurzqIn3ADcgFjlqaC58dQNuIAHLx4M0S9I=",
+            "sha256": "sha256-8/xH2Z9MbNx+/e2tWj5fv0A1cMn8h0bSbVJ+REk3YZo=",
             "type": "url",
-            "url": "https://cdn.zoom.us/prod/5.12.2.4816/zoom_x86_64.pkg.tar.xz"
+            "url": "https://cdn.zoom.us/prod/5.12.6.173/zoom_x86_64.pkg.tar.xz"
         },
-        "version": "5.12.2.4816"
+        "version": "5.12.6.173"
     }
 }
