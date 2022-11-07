@@ -242,16 +242,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "c1c5858026eda8ed46b3028b1c7de617431357c5";
+    version = "c5a0fa7ee5682921ae26ac3857c3c3bd6d6a8236";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "c1c5858026eda8ed46b3028b1c7de617431357c5";
+      rev = "c5a0fa7ee5682921ae26ac3857c3c3bd6d6a8236";
       fetchSubmodules = true;
-      sha256 = "sha256-QTFFOpFeQT0xLv3ptnrDrn/tqe/7pUSHNf/JrqcUv4U=";
+      sha256 = "sha256-mLr5ZPFMpXw60EbPvTYnC61o39p1f4fC6X5Hw/1yGqQ=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-c1c5858026eda8ed46b3028b1c7de617431357c5/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-c5a0fa7ee5682921ae26ac3857c3c3bd6d6a8236/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6771";
+    version = "1.0.6772";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6771.tar.bz2";
-      sha256 = "sha256-x04Z4QidN2nNhryvXS8bA+J7A6mRQv9D1N+3arVROlc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6772.tar.bz2";
+      sha256 = "sha256-8NKfUqMAxUSY+q6+YuWhO9nWmuc5JpJgyvaRNpvNfwI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6771";
+    version = "1.0.6772";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6771-1_all.deb";
-      sha256 = "sha256-BMtyoGSLYoXD0tpx6xOIv3AZ3+X+/ZTv3E5c6vucKE0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6772-1_all.deb";
+      sha256 = "sha256-milmQBbinQUsAxRPc46sDMtnxiMq0TNgNWvmKJnnDF4=";
     };
   };
   jitsi-videobridge2 = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "da6e560e729ba699bbb796ba2e1c49ea46058329";
+    version = "e3a25793b603c747f11fa7252128c7a5481a5e5e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "da6e560e729ba699bbb796ba2e1c49ea46058329";
+      rev = "e3a25793b603c747f11fa7252128c7a5481a5e5e";
       fetchSubmodules = false;
-      sha256 = "sha256-c7QZVxHgPhly7T+0xMJEkDG3jGIW0oESYZWtzKvTjIQ=";
+      sha256 = "sha256-geuUidKMTovDAvhPV82vUgpDoTGxFnfBoIJbugf3eUA=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d89c1d309365493323d5e07847c3c14cbcb47a52";
+    version = "da408ff82232d57d5dfc5551e18d59cf611ea9f3";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d89c1d309365493323d5e07847c3c14cbcb47a52";
+      rev = "da408ff82232d57d5dfc5551e18d59cf611ea9f3";
       fetchSubmodules = false;
-      sha256 = "sha256-p+zXbuSgJPKR6zryOQ68S4bEWWRsIuOgsfoN7O2VZIU=";
+      sha256 = "sha256-bbbpMs53V5Ov9k8ZMjNw0yGqreqWupPlP8/NZyB0+ZA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-d89c1d309365493323d5e07847c3c14cbcb47a52/Cargo.lock;
+      lockFile = ./rustdesk-da408ff82232d57d5dfc5551e18d59cf611ea9f3/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
