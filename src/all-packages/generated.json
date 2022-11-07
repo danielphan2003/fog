@@ -911,11 +911,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fIFPoO0HcXMKI6v/CkcGzmuFZBwKFWZ53bD/jx9Ttks=",
+            "sha256": "sha256-UxQKKDAVQ+BhGo6cOQ63d9ntL1i+wQ1Hfs59L5afUsQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-953-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-954-1_all.deb"
         },
-        "version": "1.0-953"
+        "version": "1.0-954"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1170,11 +1170,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Km8TcO/q//AI74x8rO1XHqJuWO6q1Z6Cb6z++D01nOg=",
+            "sha256": "sha256-ifHOruk00Xu/PzkT2N1XrO9f55QaFzekUjnlD8wE2kQ=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.42.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.43.0.tar.gz"
         },
-        "version": "0.42.1"
+        "version": "0.43.0"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c2d7940ec062af0302864ec33978bc1c4e67a73c",
-            "sha256": "sha256-fxcVeMHk2/MXghFdfOVlCDkTyzjpjd3arRjudmPI+e4=",
+            "rev": "be7556aece965fcb22b6c7d706d757a571d71271",
+            "sha256": "sha256-OL2NGB9P7Xx20kHDaBxKfjontLU+hJCVeKYLJ3OayIc=",
             "type": "github"
         },
-        "version": "c2d7940ec062af0302864ec33978bc1c4e67a73c"
+        "version": "be7556aece965fcb22b6c7d706d757a571d71271"
     },
     "tailscale-systray": {
         "cargoLocks": null,

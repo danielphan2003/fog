@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-953";
+    version = "1.0-954";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-953-1_all.deb";
-      sha256 = "sha256-fIFPoO0HcXMKI6v/CkcGzmuFZBwKFWZ53bD/jx9Ttks=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-954-1_all.deb";
+      sha256 = "sha256-UxQKKDAVQ+BhGo6cOQ63d9ntL1i+wQ1Hfs59L5afUsQ=";
     };
   };
   jitsi-meet = {
@@ -699,10 +699,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.42.1";
+    version = "0.43.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.42.1.tar.gz";
-      sha256 = "sha256-Km8TcO/q//AI74x8rO1XHqJuWO6q1Z6Cb6z++D01nOg=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.43.0.tar.gz";
+      sha256 = "sha256-ifHOruk00Xu/PzkT2N1XrO9f55QaFzekUjnlD8wE2kQ=";
     };
   };
   nix-zsh-completions = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c2d7940ec062af0302864ec33978bc1c4e67a73c";
+    version = "be7556aece965fcb22b6c7d706d757a571d71271";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c2d7940ec062af0302864ec33978bc1c4e67a73c";
+      rev = "be7556aece965fcb22b6c7d706d757a571d71271";
       fetchSubmodules = false;
-      sha256 = "sha256-fxcVeMHk2/MXghFdfOVlCDkTyzjpjd3arRjudmPI+e4=";
+      sha256 = "sha256-OL2NGB9P7Xx20kHDaBxKfjontLU+hJCVeKYLJ3OayIc=";
     });
   };
   tailscale-systray = {
