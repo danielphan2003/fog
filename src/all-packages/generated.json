@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-2cd1ee02eecbb64026f78bc895ae99ab952ecd23/Cargo.lock",
+                "./asusctl-aad31610f2e8ba82ce789648cb3f23a4a825d0d5/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=",
                     "notify-rust-4.5.11": "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=",
@@ -175,12 +175,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2cd1ee02eecbb64026f78bc895ae99ab952ecd23",
-            "sha256": "sha256-hkNVgMugTllDqnanVU1rdb7viRG4U1f588rLA55yCbY=",
+            "rev": "aad31610f2e8ba82ce789648cb3f23a4a825d0d5",
+            "sha256": "sha256-ms6xRxBQSaL6ni/LKvibOApxNAufwoVmYnofrQgzIBs=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "2cd1ee02eecbb64026f78bc895ae99ab952ecd23"
+        "version": "aad31610f2e8ba82ce789648cb3f23a4a825d0d5"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c9a00f824733e95b2615d76a31644ce18b91b2ed/Cargo.lock",
+                "./rustdesk-a0fc9d55399ab3c346a13faf24e13dd2110afdfc/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c9a00f824733e95b2615d76a31644ce18b91b2ed",
-            "sha256": "sha256-O6spVL/3G9rjoVwTfw8iHx2SdlFAQV1ki+cn63AYrQk=",
+            "rev": "a0fc9d55399ab3c346a13faf24e13dd2110afdfc",
+            "sha256": "sha256-GuAxyqkd6PAMuGt2bCzV47ya7mQd0cDF5IcRCqDHy5M=",
             "type": "github"
         },
-        "version": "c9a00f824733e95b2615d76a31644ce18b91b2ed"
+        "version": "a0fc9d55399ab3c346a13faf24e13dd2110afdfc"
     },
     "rustdesk-server": {
         "cargoLocks": {
