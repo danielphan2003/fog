@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6779";
+    version = "1.0.6780";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6779.tar.bz2";
-      sha256 = "sha256-B23dRkiLWX97zCYFcSXZhDjuCCzGP+kBaSwJNYRbSns=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6780.tar.bz2";
+      sha256 = "sha256-JDwzZqduSRdwH6HgYVA9esSyLXRXgou0WIaMkJfiVSQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6779";
+    version = "1.0.6780";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6779-1_all.deb";
-      sha256 = "sha256-oPvRvcZTDOOLxk3TE1+cjwBKigyFqxyi2irJyaQEVk8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6780-1_all.deb";
+      sha256 = "sha256-oWyhhI58F6ks/yaztEI39Mv1bjxT3WtSeS8NnqiLvOI=";
     };
   };
   jitsi-videobridge2 = {
@@ -945,18 +945,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.67.1";
+    version = "0.67.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.67.1/app-release-unsigned.apk";
-      sha256 = "sha256-44G2RqKNe6u9X/r2dkf/3NBIePWHcJbkRtKs/H07aQE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.67.2/app-release-unsigned.apk";
+      sha256 = "sha256-1y8HSbmi/CcoWePu5iMJ/uFUXHx13nXB/cR0pP0CFjc=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.104.1";
+    version = "2.104.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.104.1/revanced-patches-2.104.1.jar";
-      sha256 = "sha256-iE4XXcsO/upxII2xzxBO3VVf2KXkNi4jA2ouDvu/938=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.104.2/revanced-patches-2.104.2.jar";
+      sha256 = "sha256-REDmxKM6W8acrUhoDRQw+jNRO8JbeiqfE3WiqtGQIt4=";
     };
   };
   rofi-wayland = {
