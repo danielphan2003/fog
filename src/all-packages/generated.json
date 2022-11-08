@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-aad31610f2e8ba82ce789648cb3f23a4a825d0d5/Cargo.lock",
+                "./asusctl-3654da2ff82ae7c74fe2d141e43af6b912cc3441/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=",
                     "notify-rust-4.5.11": "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=",
@@ -175,12 +175,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aad31610f2e8ba82ce789648cb3f23a4a825d0d5",
-            "sha256": "sha256-ms6xRxBQSaL6ni/LKvibOApxNAufwoVmYnofrQgzIBs=",
+            "rev": "3654da2ff82ae7c74fe2d141e43af6b912cc3441",
+            "sha256": "sha256-VRBUxFBbGlTAJahFWda7TeWZ50gbXTLaxNU/SvVV8c4=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "aad31610f2e8ba82ce789648cb3f23a4a825d0d5"
+        "version": "3654da2ff82ae7c74fe2d141e43af6b912cc3441"
     },
     "avizo": {
         "cargoLocks": null,
@@ -304,11 +304,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "694b071878303777cf6be7850cae954f5a18b7d0",
-            "sha256": "sha256-QxHDBOSpciy0RjJc4J8bont/JK7R0z+PIiUzntCvGvs=",
+            "rev": "bdcdb5a9a1f6b780f250905e6b8ac9e95f98fd97",
+            "sha256": "sha256-kn3p4uXCxYdjxUfPEck5h9h7mrJruPWcsuRaKxKEp80=",
             "type": "github"
         },
-        "version": "694b071878303777cf6be7850cae954f5a18b7d0"
+        "version": "bdcdb5a9a1f6b780f250905e6b8ac9e95f98fd97"
     },
     "caddy": {
         "cargoLocks": null,
@@ -361,11 +361,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "6efd1b3bb1217841269e67930cba33992fb96930",
-            "sha256": "sha256-uVQovzaonYoASexJqFXH2ciY7d55XRxtb1bQA9t49nc=",
+            "rev": "33fdea8f261c306a47b07a6df2c3cb8fe2ad2d5d",
+            "sha256": "sha256-WZjmZjBYlMqTxxg4O92kdNn9BBwKpgVgZ8y8JyY0/LY=",
             "type": "github"
         },
-        "version": "6efd1b3bb1217841269e67930cba33992fb96930"
+        "version": "33fdea8f261c306a47b07a6df2c3cb8fe2ad2d5d"
     },
     "cinny": {
         "cargoLocks": null,
@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "54c6db692a9ff46aed5395d2a4aca5f535c78172",
-            "sha256": "sha256-yYEgXKPnv9j4t4KzPmbqFSvtcz40/YArpcKoz5ErQ/8=",
+            "rev": "c656c967c36e7ed4b876b4bd0c2da6b2dd25845e",
+            "sha256": "sha256-VMrYzfhQ3c5gzMkE+XZofc4F61pOxcLljF/T4kTS30Y=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "54c6db692a9ff46aed5395d2a4aca5f535c78172"
+        "version": "c656c967c36e7ed4b876b4bd0c2da6b2dd25845e"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "17992b633ddacae06dea9743e1464cb990ee596f",
-            "sha256": "sha256-aYZ9Rm5i4o7N7VHERQtchAa+ZA86K6Z6aMJFQXmtuYk=",
+            "rev": "1cf829c889ea50476ac0b45d9031e6c1a7da0f55",
+            "sha256": "sha256-gxNIDG1Edosd4MVQAmE/et/45UiLfzcbditwOGCGXQY=",
             "type": "github"
         },
-        "version": "17992b633ddacae06dea9743e1464cb990ee596f"
+        "version": "1cf829c889ea50476ac0b45d9031e6c1a7da0f55"
     },
     "ibus": {
         "cargoLocks": null,
@@ -925,11 +925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JDwzZqduSRdwH6HgYVA9esSyLXRXgou0WIaMkJfiVSQ=",
+            "sha256": "sha256-6wqKl3IPLD9OSEKBubdANFsJIu4kMqqJqT+ihc1wqZw=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6780.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6781.tar.bz2"
         },
-        "version": "1.0.6780"
+        "version": "1.0.6781"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -939,11 +939,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oWyhhI58F6ks/yaztEI39Mv1bjxT3WtSeS8NnqiLvOI=",
+            "sha256": "sha256-BYLnuw+X+0z9hkVyjXTDJ4XrpDvDEcymg07DmICuLKk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6780-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6781-1_all.deb"
         },
-        "version": "1.0.6780"
+        "version": "1.0.6781"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1109,11 +1109,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rdcggb/UGx4h3vJV/vodH0FyVZyF5sGNkIMOUt9jFO0=",
+            "sha256": "sha256-v2ztMA6IIhWDTIxe/dFGI/OTGc2WP6GVEUo0DgTPDbc=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_108.0.1462.10-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_109.0.1481.0-1_amd64.deb"
         },
-        "version": "108.0.1462.10"
+        "version": "109.0.1481.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "cba1312dab7382d701a7e356e75b2635a0b79109",
-            "sha256": "sha256-IAt/P8QOfDxnVC0C6w7c5wNa5ruyxPVvOs99d6g4YC0=",
+            "rev": "e85613aa2d9016bf50ab0192d528c6a9861cfea1",
+            "sha256": "sha256-RjoygXDEKqv9xI3Pd5kRF1WS8y5A+K7amo5rlJ5zY74=",
             "type": "github"
         },
-        "version": "cba1312dab7382d701a7e356e75b2635a0b79109"
+        "version": "e85613aa2d9016bf50ab0192d528c6a9861cfea1"
     },
     "tailscale-systray": {
         "cargoLocks": null,

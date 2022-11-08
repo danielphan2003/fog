@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "aad31610f2e8ba82ce789648cb3f23a4a825d0d5";
+    version = "3654da2ff82ae7c74fe2d141e43af6b912cc3441";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "aad31610f2e8ba82ce789648cb3f23a4a825d0d5";
+      rev = "3654da2ff82ae7c74fe2d141e43af6b912cc3441";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ms6xRxBQSaL6ni/LKvibOApxNAufwoVmYnofrQgzIBs=";
+      sha256 = "sha256-VRBUxFBbGlTAJahFWda7TeWZ50gbXTLaxNU/SvVV8c4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-aad31610f2e8ba82ce789648cb3f23a4a825d0d5/Cargo.lock;
+      lockFile = ./asusctl-3654da2ff82ae7c74fe2d141e43af6b912cc3441/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-0OamHfC3TdpI6z396kCv745Ov9ecv4qVnZTVp0eTXR8=";
@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "694b071878303777cf6be7850cae954f5a18b7d0";
+    version = "bdcdb5a9a1f6b780f250905e6b8ac9e95f98fd97";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "694b071878303777cf6be7850cae954f5a18b7d0";
+      rev = "bdcdb5a9a1f6b780f250905e6b8ac9e95f98fd97";
       fetchSubmodules = false;
-      sha256 = "sha256-QxHDBOSpciy0RjJc4J8bont/JK7R0z+PIiUzntCvGvs=";
+      sha256 = "sha256-kn3p4uXCxYdjxUfPEck5h9h7mrJruPWcsuRaKxKEp80=";
     });
   };
   caddy = {
@@ -212,13 +212,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "6efd1b3bb1217841269e67930cba33992fb96930";
+    version = "33fdea8f261c306a47b07a6df2c3cb8fe2ad2d5d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "6efd1b3bb1217841269e67930cba33992fb96930";
+      rev = "33fdea8f261c306a47b07a6df2c3cb8fe2ad2d5d";
       fetchSubmodules = false;
-      sha256 = "sha256-uVQovzaonYoASexJqFXH2ciY7d55XRxtb1bQA9t49nc=";
+      sha256 = "sha256-WZjmZjBYlMqTxxg4O92kdNn9BBwKpgVgZ8y8JyY0/LY=";
     });
   };
   cinny = {
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "54c6db692a9ff46aed5395d2a4aca5f535c78172";
+    version = "c656c967c36e7ed4b876b4bd0c2da6b2dd25845e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "54c6db692a9ff46aed5395d2a4aca5f535c78172";
+      rev = "c656c967c36e7ed4b876b4bd0c2da6b2dd25845e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-yYEgXKPnv9j4t4KzPmbqFSvtcz40/YArpcKoz5ErQ/8=";
+      sha256 = "sha256-VMrYzfhQ3c5gzMkE+XZofc4F61pOxcLljF/T4kTS30Y=";
     };
   };
   flyingfox = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "17992b633ddacae06dea9743e1464cb990ee596f";
+    version = "1cf829c889ea50476ac0b45d9031e6c1a7da0f55";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "17992b633ddacae06dea9743e1464cb990ee596f";
+      rev = "1cf829c889ea50476ac0b45d9031e6c1a7da0f55";
       fetchSubmodules = false;
-      sha256 = "sha256-aYZ9Rm5i4o7N7VHERQtchAa+ZA86K6Z6aMJFQXmtuYk=";
+      sha256 = "sha256-gxNIDG1Edosd4MVQAmE/et/45UiLfzcbditwOGCGXQY=";
     });
   };
   ibus = {
@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6780";
+    version = "1.0.6781";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6780.tar.bz2";
-      sha256 = "sha256-JDwzZqduSRdwH6HgYVA9esSyLXRXgou0WIaMkJfiVSQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6781.tar.bz2";
+      sha256 = "sha256-6wqKl3IPLD9OSEKBubdANFsJIu4kMqqJqT+ihc1wqZw=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6780";
+    version = "1.0.6781";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6780-1_all.deb";
-      sha256 = "sha256-oWyhhI58F6ks/yaztEI39Mv1bjxT3WtSeS8NnqiLvOI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6781-1_all.deb";
+      sha256 = "sha256-BYLnuw+X+0z9hkVyjXTDJ4XrpDvDEcymg07DmICuLKk=";
     };
   };
   jitsi-videobridge2 = {
@@ -664,10 +664,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "108.0.1462.10";
+    version = "109.0.1481.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_108.0.1462.10-1_amd64.deb";
-      sha256 = "sha256-rdcggb/UGx4h3vJV/vodH0FyVZyF5sGNkIMOUt9jFO0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_109.0.1481.0-1_amd64.deb";
+      sha256 = "sha256-v2ztMA6IIhWDTIxe/dFGI/OTGc2WP6GVEUo0DgTPDbc=";
     };
   };
   microsoft-edge-stable = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "cba1312dab7382d701a7e356e75b2635a0b79109";
+    version = "e85613aa2d9016bf50ab0192d528c6a9861cfea1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "cba1312dab7382d701a7e356e75b2635a0b79109";
+      rev = "e85613aa2d9016bf50ab0192d528c6a9861cfea1";
       fetchSubmodules = false;
-      sha256 = "sha256-IAt/P8QOfDxnVC0C6w7c5wNa5ruyxPVvOs99d6g4YC0=";
+      sha256 = "sha256-RjoygXDEKqv9xI3Pd5kRF1WS8y5A+K7amo5rlJ5zY74=";
     });
   };
   tailscale-systray = {
