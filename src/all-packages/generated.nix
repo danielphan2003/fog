@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "3654da2ff82ae7c74fe2d141e43af6b912cc3441";
+    version = "be40474f791699c97bb59d6ec4c76e800366c9ca";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "3654da2ff82ae7c74fe2d141e43af6b912cc3441";
+      rev = "be40474f791699c97bb59d6ec4c76e800366c9ca";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-VRBUxFBbGlTAJahFWda7TeWZ50gbXTLaxNU/SvVV8c4=";
+      sha256 = "sha256-aL0W6I1k4U8l/xlEolk5NXZslwmptMxvQ8XByaFCRJE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-3654da2ff82ae7c74fe2d141e43af6b912cc3441/Cargo.lock;
+      lockFile = ./asusctl-be40474f791699c97bb59d6ec4c76e800366c9ca/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-0OamHfC3TdpI6z396kCv745Ov9ecv4qVnZTVp0eTXR8=";
@@ -822,22 +822,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.48.0";
+    version = "1.49.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz";
-      sha256 = "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.49.0.tar.gz";
+      sha256 = "sha256-h1U3QoABGdDGxpIYIaihXTdj9CgqT3coAJApzrM+Eh4=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "397225667fd84c30e4063a3c8367bbf709ccd488";
+    version = "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "397225667fd84c30e4063a3c8367bbf709ccd488";
+      rev = "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-STcawJYUnUVgAG3YLIqPJ6gSe2u4R7QnhK1+ZKN/Ehc=";
+      sha256 = "sha256-TAFjp1Lit3RbVVkYoFsQt1SwgdDd9xHzaUjAttWknDM=";
     };
   };
   pure = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "565c758bd7e898dbaaa50f1170298c47b48b7241";
+    version = "2af6441495f7e51bf4b26b9b52b36111b659897c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "565c758bd7e898dbaaa50f1170298c47b48b7241";
+      rev = "2af6441495f7e51bf4b26b9b52b36111b659897c";
       fetchSubmodules = false;
-      sha256 = "sha256-1gQBQropqu30VLUub14kxbrJeH9QqPEnXo+tLsIakIs=";
+      sha256 = "sha256-8RRAqYMuPNpWf/cK/+gMZt2L0tTiswpGH5jhEJgc8ss=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-565c758bd7e898dbaaa50f1170298c47b48b7241/Cargo.lock;
+      lockFile = ./rustdesk-2af6441495f7e51bf4b26b9b52b36111b659897c/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

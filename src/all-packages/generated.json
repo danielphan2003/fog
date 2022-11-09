@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-3654da2ff82ae7c74fe2d141e43af6b912cc3441/Cargo.lock",
+                "./asusctl-be40474f791699c97bb59d6ec4c76e800366c9ca/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=",
                     "notify-rust-4.5.11": "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=",
@@ -175,12 +175,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3654da2ff82ae7c74fe2d141e43af6b912cc3441",
-            "sha256": "sha256-VRBUxFBbGlTAJahFWda7TeWZ50gbXTLaxNU/SvVV8c4=",
+            "rev": "be40474f791699c97bb59d6ec4c76e800366c9ca",
+            "sha256": "sha256-aL0W6I1k4U8l/xlEolk5NXZslwmptMxvQ8XByaFCRJE=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "3654da2ff82ae7c74fe2d141e43af6b912cc3441"
+        "version": "be40474f791699c97bb59d6ec4c76e800366c9ca"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4OUhqAkqgF6GQ9eDxjgiJGwz8AmNJFw9dd8/jAD3VtE=",
+            "sha256": "sha256-h1U3QoABGdDGxpIYIaihXTdj9CgqT3coAJApzrM+Eh4=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.48.0.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.49.0.tar.gz"
         },
-        "version": "1.48.0"
+        "version": "1.49.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "397225667fd84c30e4063a3c8367bbf709ccd488",
-            "sha256": "sha256-STcawJYUnUVgAG3YLIqPJ6gSe2u4R7QnhK1+ZKN/Ehc=",
+            "rev": "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6",
+            "sha256": "sha256-TAFjp1Lit3RbVVkYoFsQt1SwgdDd9xHzaUjAttWknDM=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "397225667fd84c30e4063a3c8367bbf709ccd488"
+        "version": "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6"
     },
     "pure": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-565c758bd7e898dbaaa50f1170298c47b48b7241/Cargo.lock",
+                "./rustdesk-2af6441495f7e51bf4b26b9b52b36111b659897c/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "565c758bd7e898dbaaa50f1170298c47b48b7241",
-            "sha256": "sha256-1gQBQropqu30VLUub14kxbrJeH9QqPEnXo+tLsIakIs=",
+            "rev": "2af6441495f7e51bf4b26b9b52b36111b659897c",
+            "sha256": "sha256-8RRAqYMuPNpWf/cK/+gMZt2L0tTiswpGH5jhEJgc8ss=",
             "type": "github"
         },
-        "version": "565c758bd7e898dbaaa50f1170298c47b48b7241"
+        "version": "2af6441495f7e51bf4b26b9b52b36111b659897c"
     },
     "rustdesk-server": {
         "cargoLocks": {
