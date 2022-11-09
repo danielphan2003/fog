@@ -223,13 +223,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "4fe4c8bb0360825e9df650e22e6d7da9a3ebd6c3";
+    version = "1531535151990189e62810ded48e758fdf19894a";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "4fe4c8bb0360825e9df650e22e6d7da9a3ebd6c3";
+      rev = "1531535151990189e62810ded48e758fdf19894a";
       fetchSubmodules = false;
-      sha256 = "sha256-R7XeU+5JVZirS7PC6f/nRe3AwIRA/fJu3NV1rJifA8A=";
+      sha256 = "sha256-IULdKCWwIe5azuRm+VbriQA94Yw6j6jxs6i6anpKg+E=";
     });
   };
   cinny-bin = {
@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6782";
+    version = "1.0.6783";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6782.tar.bz2";
-      sha256 = "sha256-t5jhEzlDNoYjZ4BUamOB6ETNEbQDxNQe4x42jwpJOew=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6783.tar.bz2";
+      sha256 = "sha256-dz2k/hgXtgj2+vMxfdqhCNOhG1wkGEuRcugMkZlqF6E=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6782";
+    version = "1.0.6783";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6782-1_all.deb";
-      sha256 = "sha256-0vCM1h8JKkPPNA5JjAwg/YFvPJp31jmBbRtK3zi/stQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6783-1_all.deb";
+      sha256 = "sha256-9gvGYMqc7FyikWARE8nC4hr/bPtA5wim476Q/Rg/RlY=";
     };
   };
   jitsi-videobridge2 = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.104.2";
+    version = "2.105.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.104.2/revanced-patches-2.104.2.jar";
-      sha256 = "sha256-REDmxKM6W8acrUhoDRQw+jNRO8JbeiqfE3WiqtGQIt4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.105.0/revanced-patches-2.105.0.jar";
+      sha256 = "sha256-B/mfQ1a6ejqErdw6o8mx2XYCcKOzYDB5TsLBjEg7Jfw=";
     };
   };
   rofi-wayland = {
