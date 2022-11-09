@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d0b3cdc835f8170feee8a18a64178496a852d6ae";
+    version = "7ff1fd9d6943ac6877da0523a95753ff9abb3cbd";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d0b3cdc835f8170feee8a18a64178496a852d6ae";
+      rev = "7ff1fd9d6943ac6877da0523a95753ff9abb3cbd";
       fetchSubmodules = false;
-      sha256 = "sha256-cL+U8r/4KgidaW2l/d4eOsvPfybWCC48amlCWCJsJUk=";
+      sha256 = "sha256-DiAaKl0fd0zIBEcSNg+gnxVZXOTxLVPm+pBxtDGsp/0=";
     });
   };
   ibus = {
@@ -1197,13 +1197,13 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "4b54b85d964243eef8d77ea0505eed728c62387f";
+    version = "b2736c5bef3add118183654305d05903c5947668";
     src = fetchFromGitHub ({
       owner = "jirutka";
       repo = "swaylock-effects";
-      rev = "4b54b85d964243eef8d77ea0505eed728c62387f";
+      rev = "b2736c5bef3add118183654305d05903c5947668";
       fetchSubmodules = false;
-      sha256 = "sha256-QvMnJ5/uL/DvBhP9kagZJh9vwXBF2sCw3HWkfI4FDH0=";
+      sha256 = "sha256-umxEwegKuJd/DUjaUQ88lbcQNxSY99yepBnQaFr3fDI=";
     });
   };
   swhkd = {
