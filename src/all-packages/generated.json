@@ -925,11 +925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3mIXRjgbOaLnqyi60A3HkE0fOCdu+vuSQep4coDrDAc=",
+            "sha256": "sha256-71dGWiYZaP8Mn7HL6xikGo2Q2PjpKfUMDkAAX8old40=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6790.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6792.tar.bz2"
         },
-        "version": "1.0.6790"
+        "version": "1.0.6792"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -939,11 +939,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VVtGk/ErVq41RYWYQ+GYxvWzwBWeB+ZYIHN8nsgp2Sw=",
+            "sha256": "sha256-Kz5HN5aCx5evT8f41UkibFmfi0XWxD/ThkGSnhuZBig=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6790-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6792-1_all.deb"
         },
-        "version": "1.0.6790"
+        "version": "1.0.6792"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1081,11 +1081,11 @@
             "name": null,
             "owner": "matrix-org",
             "repo": "matrix-appservice-discord",
-            "rev": "d582bc36841b5790303bc8f60aec10bb61085b64",
-            "sha256": "sha256-gJ093wPP0ZniOP73ZrfZzqWXNowjo/Ire8DwlgHnM1A=",
+            "rev": "ece29f4f5f613b259e7920f445d288b787ceb1d2",
+            "sha256": "sha256-g681w7RD96/xKP+WnIyY4bcVHVQhysgDPZo4TgCRiuY=",
             "type": "github"
         },
-        "version": "d582bc36841b5790303bc8f60aec10bb61085b64"
+        "version": "ece29f4f5f613b259e7920f445d288b787ceb1d2"
     },
     "microsoft-edge-beta": {
         "cargoLocks": null,
