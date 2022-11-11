@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "d59ec6a34ae7435e8d01d85412a5dfaf18f90f68";
+    version = "7d0d693ca7a4f07f94dbd66a1b22ddf29bd61c49";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "d59ec6a34ae7435e8d01d85412a5dfaf18f90f68";
+      rev = "7d0d693ca7a4f07f94dbd66a1b22ddf29bd61c49";
       fetchSubmodules = false;
-      sha256 = "sha256-CvSxeonV0pKvIyKQplnNFgDDlekN6LKGbhdwmOmwJTo=";
+      sha256 = "sha256-5QR4Gxc+Acat2J8f5twuMPccBNcV1b5U3K2Vt85wFmQ=";
     });
   };
   playit-agent = {
@@ -1022,13 +1022,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "fc24321541f6f65b7d1aac89cd82336ffd53e1a0";
+    version = "3277ce8e0d49ef524c40b9ea23043fcef145ddc3";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "fc24321541f6f65b7d1aac89cd82336ffd53e1a0";
+      rev = "3277ce8e0d49ef524c40b9ea23043fcef145ddc3";
       fetchSubmodules = false;
-      sha256 = "sha256-9v0BfU3j2Ogo2y4gZS8l+4QAA4/ynDJ0c0Mtho5Fqdw=";
+      sha256 = "sha256-VyDQh3nn31lT75fAwy3xW7MELggA9odeWkZIoUdt0eg=";
     });
   };
   sddm-chili = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d585cbf02a66337e70ac565f36d5ea74a44e3116";
+    version = "e0cd9e9decb4681f61be02014928c529229a724c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d585cbf02a66337e70ac565f36d5ea74a44e3116";
+      rev = "e0cd9e9decb4681f61be02014928c529229a724c";
       fetchSubmodules = false;
-      sha256 = "sha256-H3kS1og4uf10KwoieqQIISxufUPnN3tR2JH2W4XQ9uI=";
+      sha256 = "sha256-gOOUm2THiOd7JYlr79PfGdvLjj96ijYNL5izZd1EDl4=";
     });
   };
   tailscale-systray = {
@@ -1351,13 +1351,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "d5035a622f379fcb34dc267f93ec981a4c296f6c";
+    version = "6d03a649037399921e660a61b6d725555298cc55";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "d5035a622f379fcb34dc267f93ec981a4c296f6c";
+      rev = "6d03a649037399921e660a61b6d725555298cc55";
       fetchSubmodules = false;
-      sha256 = "sha256-WDRRjH2/wCztzbUrKArpLm0aXPqrjA89iQm6VEBDCGE=";
+      sha256 = "sha256-cQ8FkSMydf0j1XTZoxd2KAHqjo3gB+iHjMYi8ICbui4=";
     });
   };
   whitesur-icon-theme = {
