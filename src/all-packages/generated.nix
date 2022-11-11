@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3626a26523d80a513bb1ed0e5e9f46a010c7ef5c";
+    version = "77971a64e76c16f0669437c641d1ae97d2184e30";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3626a26523d80a513bb1ed0e5e9f46a010c7ef5c";
+      rev = "77971a64e76c16f0669437c641d1ae97d2184e30";
       fetchSubmodules = false;
-      sha256 = "sha256-mgpa3aj+uiw+IFVK2rKYE9QPFJpn5IRmdcCrSHTUJ90=";
+      sha256 = "sha256-Ade9IElHNu02mWS05XqclvLapYNjbom/OmVrpD58CGI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3626a26523d80a513bb1ed0e5e9f46a010c7ef5c/Cargo.lock;
+      lockFile = ./rustdesk-77971a64e76c16f0669437c641d1ae97d2184e30/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4c31183781df831c37d2c85f83587f717cc80fd9";
+    version = "d585cbf02a66337e70ac565f36d5ea74a44e3116";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4c31183781df831c37d2c85f83587f717cc80fd9";
+      rev = "d585cbf02a66337e70ac565f36d5ea74a44e3116";
       fetchSubmodules = false;
-      sha256 = "sha256-7GINE62eaA+lT+XbnsvBgORujsZ1doeQJBPo17hmQLc=";
+      sha256 = "sha256-H3kS1og4uf10KwoieqQIISxufUPnN3tR2JH2W4XQ9uI=";
     });
   };
   tailscale-systray = {
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "e074cf4f8d4a1dabd6767306fbf51d25de90ebc4";
+    version = "c71d3e781097885f035fafb77101a5c9f8f49f5a";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "e074cf4f8d4a1dabd6767306fbf51d25de90ebc4";
+      rev = "c71d3e781097885f035fafb77101a5c9f8f49f5a";
       fetchSubmodules = false;
-      sha256 = "sha256-A8ywHbhcL/oD6Vy3Jw4/RBvm6avHEBUufPc2ryFaNj8=";
+      sha256 = "sha256-NgElPYWKNGDD8/wlr4CPZmJOMNBldGKMoIM3AZib7nE=";
     });
   };
   wgcf = {
