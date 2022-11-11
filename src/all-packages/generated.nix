@@ -96,20 +96,20 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "20f8251dd30349b555d0587bb7d8c13e18f0078b";
+    version = "1211400d7b892abdfcabe11955308f6aac702bd7";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "20f8251dd30349b555d0587bb7d8c13e18f0078b";
+      rev = "1211400d7b892abdfcabe11955308f6aac702bd7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xRic4787JqLgCc/in+mbH+b4fz4lb0Q3u2ggM+KyZPE=";
+      sha256 = "sha256-LWPNmaq4VYqNd7FqFmRQom/ktGgjdW6LMhoXsNlhJJc=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-20f8251dd30349b555d0587bb7d8c13e18f0078b/Cargo.lock;
+      lockFile = ./asusctl-1211400d7b892abdfcabe11955308f6aac702bd7/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
-        "supergfxctl-5.0.2" = "sha256-0OamHfC3TdpI6z396kCv745Ov9ecv4qVnZTVp0eTXR8=";
+        "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
         "notify-rust-4.5.11" = "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=";
       };
     };
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a73e1beb1c36afebf8422ef3e740fb3ca17de83a";
+    version = "648b0ab7b7f8a63fc302f22be11c024fcdf6b998";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a73e1beb1c36afebf8422ef3e740fb3ca17de83a";
+      rev = "648b0ab7b7f8a63fc302f22be11c024fcdf6b998";
       fetchSubmodules = false;
-      sha256 = "sha256-urPhT78NXobkMjcR0lNyaVmzvMIzkArKd1qa+iKp8CA=";
+      sha256 = "sha256-1eWUHTVyFG/fiPz8fJgrVlYGzk+jcGn6kIspgqje/G0=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "03e7b48d6f2570082ee3022b5c1c04851d5d3e88";
+    version = "3626a26523d80a513bb1ed0e5e9f46a010c7ef5c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "03e7b48d6f2570082ee3022b5c1c04851d5d3e88";
+      rev = "3626a26523d80a513bb1ed0e5e9f46a010c7ef5c";
       fetchSubmodules = false;
-      sha256 = "sha256-hjazBxzyqPQGLPzG6BThcYT+zhK+gkLZjaCKzeLygxI=";
+      sha256 = "sha256-mgpa3aj+uiw+IFVK2rKYE9QPFJpn5IRmdcCrSHTUJ90=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-03e7b48d6f2570082ee3022b5c1c04851d5d3e88/Cargo.lock;
+      lockFile = ./rustdesk-3626a26523d80a513bb1ed0e5e9f46a010c7ef5c/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "329a0a8406939a36044dd0711d082cb36c5de9df";
+    version = "6cc0036b400b868c8937a4059d8d5c5b67f9ee2f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "329a0a8406939a36044dd0711d082cb36c5de9df";
+      rev = "6cc0036b400b868c8937a4059d8d5c5b67f9ee2f";
       fetchSubmodules = false;
-      sha256 = "sha256-+r3e6Dg3D8LRdBsHgheKufbTKIHRlWTncTGFEkWdMA4=";
+      sha256 = "sha256-cqQw2R/XUdcUZ4niQkBUe9zvLbOE1HBATGEnwooiRA0=";
     });
   };
   tailscale-systray = {

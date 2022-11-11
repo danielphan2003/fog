@@ -83,7 +83,7 @@ checksum = "23b62fc65de8e4e7f52534fb52b0f3ed04746ae267519eef2a83941e8085068b"
 
 [[package]]
 name = "asusctl"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "daemon",
  "gif",
@@ -116,22 +116,22 @@ version = "1.7.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e14485364214912d3b19cc3435dde4df66065127f05fa0d75c712f36f12c2f28"
 dependencies = [
- "concurrent-queue",
+ "concurrent-queue 1.2.4",
  "event-listener",
  "futures-core",
 ]
 
 [[package]]
 name = "async-executor"
-version = "1.4.1"
+version = "1.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "871f9bb5e0a22eeb7e8cf16641feb87c9dc67032ccf8ff49e772eb9941d3a965"
+checksum = "17adb73da160dfb475c183343c8cccd80721ea5a605d3eb57125f0a7b7a92d0b"
 dependencies = [
+ "async-lock",
  "async-task",
- "concurrent-queue",
+ "concurrent-queue 2.0.0",
  "fastrand",
  "futures-lite",
- "once_cell",
  "slab",
 ]
 
@@ -155,7 +155,7 @@ checksum = "e8121296a9f05be7f34aa4196b1747243b3b62e048bb7906f644f3fbfc490cf7"
 dependencies = [
  "async-lock",
  "autocfg",
- "concurrent-queue",
+ "concurrent-queue 1.2.4",
  "futures-lite",
  "libc",
  "log",
@@ -399,9 +399,9 @@ dependencies = [
 
 [[package]]
 name = "calloop"
-version = "0.10.1"
+version = "0.10.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a22a6a8f622f797120d452c630b0ab12e1331a1a753e2039ce7868d4ac77b4ee"
+checksum = "595eb0438b3c6d262395fe30e6de9a61beb57ea56290b00a07f227fe6e20cbf2"
 dependencies = [
  "log",
  "nix 0.24.2",
@@ -412,9 +412,9 @@ dependencies = [
 
 [[package]]
 name = "cc"
-version = "1.0.74"
+version = "1.0.76"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "581f5dba903aac52ea3feb5ec4810848460ee833876f1f9b0fdeab1f19091574"
+checksum = "76a284da2e6fe2092f2353e51713435363112dfd60030e22add80be333fb928f"
 
 [[package]]
 name = "cesu8"
@@ -533,6 +533,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "concurrent-queue"
+version = "2.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "bd7bef69dc86e3c610e4e7aed41035e2a7ed12e72dd7530f61327a6579a4390b"
+dependencies = [
+ "crossbeam-utils",
+]
+
+[[package]]
 name = "core-foundation"
 version = "0.9.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -604,6 +613,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "crossbeam-utils"
+version = "0.8.12"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "edbafec5fa1f196ca66527c1b12c2ec4745ca14b50f1ad8f9f6f720b55d11fac"
+dependencies = [
+ "cfg-if",
+]
+
+[[package]]
 name = "crossfont"
 version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -644,7 +662,7 @@ checksum = "b365fabc795046672053e29c954733ec3b05e4be654ab130fe8f1f94d7051f35"
 
 [[package]]
 name = "daemon"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "async-trait",
  "concat-idents",
@@ -668,7 +686,7 @@ dependencies = [
 
 [[package]]
 name = "daemon-user"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "dirs",
  "rog_anime",
@@ -1786,9 +1804,9 @@ checksum = "2dffe52ecf27772e601905b7522cb4ef790d2cc203488bbd0e2fe85fcb74566d"
 
 [[package]]
 name = "memmap2"
-version = "0.5.7"
+version = "0.5.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "95af15f345b17af2efc8ead6080fb8bc376f8cec1b35277b935637595fe77498"
+checksum = "4b182332558b18d807c4ce1ca8ca983b34c3ee32765e47b3f0f69b90355cc1dc"
 dependencies = [
  "libc",
 ]
@@ -2087,12 +2105,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "padlock"
-version = "0.2.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c10569378a1dacd9f30dbe7ae49e054d2c45dc2f8ee49899903e09c3924e8b6f"
-
-[[package]]
 name = "pango"
 version = "0.15.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2386,7 +2398,7 @@ dependencies = [
 
 [[package]]
 name = "rog-control-center"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "daemon",
  "dirs",
@@ -2411,13 +2423,12 @@ dependencies = [
  "tempfile",
  "tokio",
  "toml",
- "tray-item",
  "zbus",
 ]
 
 [[package]]
 name = "rog_anime"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "gif",
  "glam",
@@ -2433,7 +2444,7 @@ dependencies = [
 
 [[package]]
 name = "rog_aura"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "serde",
  "serde_derive",
@@ -2444,7 +2455,7 @@ dependencies = [
 
 [[package]]
 name = "rog_dbus"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "rog_anime",
  "rog_aura",
@@ -2457,7 +2468,7 @@ dependencies = [
 
 [[package]]
 name = "rog_platform"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "concat-idents",
  "inotify",
@@ -2474,7 +2485,7 @@ dependencies = [
 
 [[package]]
 name = "rog_profiles"
-version = "4.5.1"
+version = "4.5.1-RC1"
 dependencies = [
  "serde",
  "serde_derive",
@@ -2794,7 +2805,7 @@ dependencies = [
 [[package]]
 name = "supergfxctl"
 version = "5.0.2"
-source = "git+https://gitlab.com/asus-linux/supergfxctl.git#3ee8fdfaa1cc79d0fe116cbd67269603e4e7bafe"
+source = "git+https://gitlab.com/asus-linux/supergfxctl.git#fa022efb54b752a3672a64c640bd7aebeb842e05"
 dependencies = [
  "log",
  "logind-zbus",
@@ -3030,24 +3041,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "tray-item"
-version = "0.7.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0914b62e00e8f51241806cb9f9c4ea6b10c75d94cae02c89278de6f4b98c7d0f"
-dependencies = [
- "cocoa",
- "core-graphics",
- "gtk",
- "libappindicator",
- "libc",
- "objc",
- "objc-foundation",
- "objc_id",
- "padlock",
- "winapi",
-]
-
-[[package]]
 name = "ttf-parser"
 version = "0.17.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3138,9 +3131,9 @@ checksum = "f1bddf1187be692e79c5ffeab891132dfb0f236ed36a43c7ed39f1165ee20191"
 
 [[package]]
 name = "version-compare"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fe88247b92c1df6b6de80ddc290f3976dbdf2f5f5d3fd049a9fb598c6dd5ca73"
+checksum = "579a42fc0b8e0c63b76519a339be31bed574929511fa53c1a3acae26eb258f29"
 
 [[package]]
 name = "version_check"
@@ -3332,9 +3325,9 @@ dependencies = [
 
 [[package]]
 name = "webbrowser"
-version = "0.8.1"
+version = "0.8.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "8f7aa8c655ad0b020787afb0b8f0656b2cfbef3452d619ea930e6b1aa1c5c1e9"
+checksum = "2a0cc7962b5aaa0dfcebaeef0161eec6edf5f4606c12e6777fd7d392f52033a5"
 dependencies = [
  "jni",
  "ndk-context",
