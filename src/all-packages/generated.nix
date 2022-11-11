@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.106.0";
+    version = "2.106.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.106.0/revanced-patches-2.106.0.jar";
-      sha256 = "sha256-LRTpeB+frpExa3DBGrSxkXFe42pUJGXRtXt7IjWXMyk=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.106.1/revanced-patches-2.106.1.jar";
+      sha256 = "sha256-G65Lpz0DZJkRrBWnK3myfVVatxrIYsD8BqtpMWAJwI0=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6cc0036b400b868c8937a4059d8d5c5b67f9ee2f";
+    version = "ae18cd02c14078214e49df8d2932d0ea624fc49d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6cc0036b400b868c8937a4059d8d5c5b67f9ee2f";
+      rev = "ae18cd02c14078214e49df8d2932d0ea624fc49d";
       fetchSubmodules = false;
-      sha256 = "sha256-cqQw2R/XUdcUZ4niQkBUe9zvLbOE1HBATGEnwooiRA0=";
+      sha256 = "sha256-zIu5c4NSB7OzDb7XqhwOXbFACgXooh7v8oOXPiYu+bM=";
     });
   };
   tailscale-systray = {
@@ -1351,13 +1351,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "9442b7e4f58469d0c3156bd99477f6043b888e4c";
+    version = "d5035a622f379fcb34dc267f93ec981a4c296f6c";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "9442b7e4f58469d0c3156bd99477f6043b888e4c";
+      rev = "d5035a622f379fcb34dc267f93ec981a4c296f6c";
       fetchSubmodules = false;
-      sha256 = "sha256-ooa6bErqMbpWf+x4f3rPLlIGKaIutR376rbaVavVlak=";
+      sha256 = "sha256-WDRRjH2/wCztzbUrKArpLm0aXPqrjA89iQm6VEBDCGE=";
     });
   };
   whitesur-icon-theme = {
