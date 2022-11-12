@@ -729,13 +729,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "3fe6d7123455e69e36d4c3e532cfc3db7e296a08";
+    version = "2058f124fd1e38c113b6094b8f136153817e379a";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "3fe6d7123455e69e36d4c3e532cfc3db7e296a08";
+      rev = "2058f124fd1e38c113b6094b8f136153817e379a";
       fetchSubmodules = false;
-      sha256 = "sha256-qbA3UAVvxMwFxBHw56/CPBkddpWnXzesFtQ3H+pGEXo=";
+      sha256 = "sha256-Wqj+2hWwi7EoMlTQvNTBTMIoIGbqEF/zlmFFdfZxhnw=";
     });
   };
   ny-font = {
@@ -1351,13 +1351,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "5f29b1d4de70addbef4826351acdb22f64d0e82b";
+    version = "9eb675f8b461ae91534d469a99bc918a05bbe56b";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "5f29b1d4de70addbef4826351acdb22f64d0e82b";
+      rev = "9eb675f8b461ae91534d469a99bc918a05bbe56b";
       fetchSubmodules = false;
-      sha256 = "sha256-BrlaRBSwnh83jS4e5XCwuqDxtHv2Rf3y7fFXrsvNPV0=";
+      sha256 = "sha256-T4aG8xKaNV7lA2BfrQIimIPaA1Z3zdG+b48lJir8ubc=";
     });
   };
   whitesur-icon-theme = {
