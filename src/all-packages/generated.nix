@@ -830,14 +830,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6";
+    version = "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6";
+      rev = "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-TAFjp1Lit3RbVVkYoFsQt1SwgdDd9xHzaUjAttWknDM=";
+      sha256 = "sha256-5o/0ZcYFLopoHBrTxWWtDoRPGYeYkJ5Cwxj7tHkSJjU=";
     };
   };
   pure = {
@@ -1351,13 +1351,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "acbc7ce7ba0da2fc58f21c97fdf67e65862def4b";
+    version = "5f29b1d4de70addbef4826351acdb22f64d0e82b";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "acbc7ce7ba0da2fc58f21c97fdf67e65862def4b";
+      rev = "5f29b1d4de70addbef4826351acdb22f64d0e82b";
       fetchSubmodules = false;
-      sha256 = "sha256-0xGz1/CmduoOlaekaM91YDFHJC4aiY8dkVGEa22gV9A=";
+      sha256 = "sha256-BrlaRBSwnh83jS4e5XCwuqDxtHv2Rf3y7fFXrsvNPV0=";
     });
   };
   whitesur-icon-theme = {

@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6",
-            "sha256": "sha256-TAFjp1Lit3RbVVkYoFsQt1SwgdDd9xHzaUjAttWknDM=",
+            "rev": "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0",
+            "sha256": "sha256-5o/0ZcYFLopoHBrTxWWtDoRPGYeYkJ5Cwxj7tHkSJjU=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "6f45a5d5fb4da04a8e7bd24d2de22ed38373a1b6"
+        "version": "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0"
     },
     "pure": {
         "cargoLocks": null,
@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "acbc7ce7ba0da2fc58f21c97fdf67e65862def4b",
-            "sha256": "sha256-0xGz1/CmduoOlaekaM91YDFHJC4aiY8dkVGEa22gV9A=",
+            "rev": "5f29b1d4de70addbef4826351acdb22f64d0e82b",
+            "sha256": "sha256-BrlaRBSwnh83jS4e5XCwuqDxtHv2Rf3y7fFXrsvNPV0=",
             "type": "github"
         },
-        "version": "acbc7ce7ba0da2fc58f21c97fdf67e65862def4b"
+        "version": "5f29b1d4de70addbef4826351acdb22f64d0e82b"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
