@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "40d6c6f7393d5bb0e608632078b720b9eda7f84a";
+    version = "df11a2e80c1747500e0a18875808819c43bcd25c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "40d6c6f7393d5bb0e608632078b720b9eda7f84a";
+      rev = "df11a2e80c1747500e0a18875808819c43bcd25c";
       fetchSubmodules = false;
-      sha256 = "sha256-xyse3KoahM5z52EyYXrB/cbIt//aO/cSYcynWUxV/S8=";
+      sha256 = "sha256-bigrJtqx9iZURYojwxlGe7xSGWS13wSaGcrTTROP9J8=";
     });
   };
   caddy = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "106a6c268eaef29605353fe94f65beb6a5cb383d";
+    version = "e46e03094f2e4b7355f47e6ae83d0afe4ab6fe38";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "106a6c268eaef29605353fe94f65beb6a5cb383d";
+      rev = "e46e03094f2e4b7355f47e6ae83d0afe4ab6fe38";
       fetchSubmodules = false;
-      sha256 = "sha256-ftrkMum0iVxh3qkInpLm72BVJkkeYgZ8DoQLMAuECyc=";
+      sha256 = "sha256-WuirucXZgHiCId6Yea8sGqjJMJFyPqKBaDbzaBF9Gx4=";
     });
   };
   revanced-cli = {
@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.68.2";
+    version = "0.68.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.2/app-release-unsigned.apk";
-      sha256 = "sha256-VM3xJKzITf9aMmaM6+3V/dx/a+847uy5/5MS570hYNE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.3/app-release-unsigned.apk";
+      sha256 = "sha256-kECsrm9YAfn/1HkgrPvTeL1pndIFo5VBfR9l+yOI0vE=";
     };
   };
   revanced-patches-jar = {
