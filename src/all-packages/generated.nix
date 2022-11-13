@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "8a65c5a7bad0ec764d968b0941ebdf01bdcd2408";
+    version = "365e76bc9f2c9bf30509ce5f1aec6627ad84c84b";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "8a65c5a7bad0ec764d968b0941ebdf01bdcd2408";
+      rev = "365e76bc9f2c9bf30509ce5f1aec6627ad84c84b";
       fetchSubmodules = false;
-      sha256 = "sha256-WB9w/UoFqp/WyRhe87dNqwbMAXa8lmsK/QCeTzRWmj8=";
+      sha256 = "sha256-yBHOofhwXRDzuv/PeZ4J7LME42wt5Hb2+5LDd0aliYE=";
     });
   };
   asusctl = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "1e5cab1ee7a82d3381f55963a0ff768c30215602";
+    version = "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "1e5cab1ee7a82d3381f55963a0ff768c30215602";
+      rev = "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda";
       fetchSubmodules = false;
-      sha256 = "sha256-TKleBxMLaYTaCUc2PwYaoAqQ1AoGpW7Bb7lwi+lrKaE=";
+      sha256 = "sha256-A0iEpj09JCTyOIao/l9qANptAVdVjkpBgd52uJGZuZs=";
     });
   };
   ibus = {
