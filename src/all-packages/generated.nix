@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "1211400d7b892abdfcabe11955308f6aac702bd7";
+    version = "3a73e3a52697cd73f5cbb4294dddf23fa95b8b5c";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "1211400d7b892abdfcabe11955308f6aac702bd7";
+      rev = "3a73e3a52697cd73f5cbb4294dddf23fa95b8b5c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-LWPNmaq4VYqNd7FqFmRQom/ktGgjdW6LMhoXsNlhJJc=";
+      sha256 = "sha256-xuIZjgHOTwEHDTXR3cCifGGRMsauTszlqRV5AHhEXP0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-1211400d7b892abdfcabe11955308f6aac702bd7/Cargo.lock;
+      lockFile = ./asusctl-3a73e3a52697cd73f5cbb4294dddf23fa95b8b5c/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "2cdabf581e98c474f2fa602f8340d91b192df282";
+    version = "78a545112aa564f62e945fdd91ce3f33698bf9b1";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "2cdabf581e98c474f2fa602f8340d91b192df282";
+      rev = "78a545112aa564f62e945fdd91ce3f33698bf9b1";
       fetchSubmodules = false;
-      sha256 = "sha256-cVk0lGdJVMdXuRAaPefxnf2KNuFL+I/jbLOkKlt6ylk=";
+      sha256 = "sha256-lZO4wR3Owtg+FFtIQERhiVkYrXtrIJKtomsU9OZZSX0=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b6563f7b5dd72b046c410935b6875f7d12018c4f";
+    version = "6c05f4794cd65def19b38111409413046c598efd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b6563f7b5dd72b046c410935b6875f7d12018c4f";
+      rev = "6c05f4794cd65def19b38111409413046c598efd";
       fetchSubmodules = false;
-      sha256 = "sha256-Qcr4qS95m2r1x/oRXqvLElAm9HUqc4AEPhosB0H8oww=";
+      sha256 = "sha256-hU6tes2hRt55qzF7Jp9go72m3deLAEaarR5Gc8qpgdA=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.106.1";
+    version = "2.108.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.106.1/revanced-patches-2.106.1.jar";
-      sha256 = "sha256-G65Lpz0DZJkRrBWnK3myfVVatxrIYsD8BqtpMWAJwI0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.108.0/revanced-patches-2.108.0.jar";
+      sha256 = "sha256-XKbSSJefMcn78F2gW6FGPB/8U+zYdqTmb79PdniQJuI=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "082839ea91f84b895fcc4f2832ab100d968fb606";
+    version = "a9eb2854255f6a93408d84b255af2e1dced05829";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "082839ea91f84b895fcc4f2832ab100d968fb606";
+      rev = "a9eb2854255f6a93408d84b255af2e1dced05829";
       fetchSubmodules = false;
-      sha256 = "sha256-VXHkUOyVzVOs7woV2fCySKe2G/QeSKEP37zVIX/vbNg=";
+      sha256 = "sha256-r/ExSM3VZelSyIDkMCykTJXGW4YqGGcbXK0FQBng1fQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-082839ea91f84b895fcc4f2832ab100d968fb606/Cargo.lock;
+      lockFile = ./rustdesk-a9eb2854255f6a93408d84b255af2e1dced05829/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b5ac9172fd7749fe3dc9be79946ffdec4b6b1a8e";
+    version = "0544d6ed049ebc307d20a1146c3aeac58dbef2da";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b5ac9172fd7749fe3dc9be79946ffdec4b6b1a8e";
+      rev = "0544d6ed049ebc307d20a1146c3aeac58dbef2da";
       fetchSubmodules = false;
-      sha256 = "sha256-5PeZ+pUpSHc6Q/1/7OSBc0CEHqEqwKxybpBEAbAqR7A=";
+      sha256 = "sha256-8GmtBA+2DFW0gVw/TgLG07i0gWo0t/9jHOtw385WB+c=";
     });
   };
   tailscale-systray = {
