@@ -304,11 +304,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "361223bc6d1f1589ecb83bf16722e9a21da7a231",
-            "sha256": "sha256-9jphAA/BRdYM1H5k/IOq6O5VHzlBm1TxzbZ3BPrickE=",
+            "rev": "fbe9f20d224903d1b84b7e338735f88c08aca95c",
+            "sha256": "sha256-hYsyg/4BSg4o7OdkZASS4fhZ4jKyc/lURbZsRIvdZ5A=",
             "type": "github"
         },
-        "version": "361223bc6d1f1589ecb83bf16722e9a21da7a231"
+        "version": "fbe9f20d224903d1b84b7e338735f88c08aca95c"
     },
     "caddy": {
         "cargoLocks": null,
@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda",
-            "sha256": "sha256-A0iEpj09JCTyOIao/l9qANptAVdVjkpBgd52uJGZuZs=",
+            "rev": "0634abf168c2f4a6a418743cb1daa0d940271d59",
+            "sha256": "sha256-XHk8F8Rb/Sqt0EEmAms5GWC9keyrL84Qfl2CCGIsMO0=",
             "type": "github"
         },
-        "version": "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda"
+        "version": "0634abf168c2f4a6a418743cb1daa0d940271d59"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "86669d21e2c0cad19fd1e13e778364e20593e771",
-            "sha256": "sha256-0K94QmQwP9naOKSxJd865KbV4S84vmbnKHAOPNslKe4=",
+            "rev": "106a6c268eaef29605353fe94f65beb6a5cb383d",
+            "sha256": "sha256-ftrkMum0iVxh3qkInpLm72BVJkkeYgZ8DoQLMAuECyc=",
             "type": "github"
         },
-        "version": "86669d21e2c0cad19fd1e13e778364e20593e771"
+        "version": "106a6c268eaef29605353fe94f65beb6a5cb383d"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8oVP88718eSuvhMmHNOP2T4lRTT69CYPsSCAybLdtdo=",
+            "sha256": "sha256-VM3xJKzITf9aMmaM6+3V/dx/a+847uy5/5MS570hYNE=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.68.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.68.2/app-release-unsigned.apk"
         },
-        "version": "0.68.1"
+        "version": "0.68.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,

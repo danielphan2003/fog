@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "361223bc6d1f1589ecb83bf16722e9a21da7a231";
+    version = "fbe9f20d224903d1b84b7e338735f88c08aca95c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "361223bc6d1f1589ecb83bf16722e9a21da7a231";
+      rev = "fbe9f20d224903d1b84b7e338735f88c08aca95c";
       fetchSubmodules = false;
-      sha256 = "sha256-9jphAA/BRdYM1H5k/IOq6O5VHzlBm1TxzbZ3BPrickE=";
+      sha256 = "sha256-hYsyg/4BSg4o7OdkZASS4fhZ4jKyc/lURbZsRIvdZ5A=";
     });
   };
   caddy = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda";
+    version = "0634abf168c2f4a6a418743cb1daa0d940271d59";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "a7ed3a5e4718c5c3a84306bb190a3272e2bdecda";
+      rev = "0634abf168c2f4a6a418743cb1daa0d940271d59";
       fetchSubmodules = false;
-      sha256 = "sha256-A0iEpj09JCTyOIao/l9qANptAVdVjkpBgd52uJGZuZs=";
+      sha256 = "sha256-XHk8F8Rb/Sqt0EEmAms5GWC9keyrL84Qfl2CCGIsMO0=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "86669d21e2c0cad19fd1e13e778364e20593e771";
+    version = "106a6c268eaef29605353fe94f65beb6a5cb383d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "86669d21e2c0cad19fd1e13e778364e20593e771";
+      rev = "106a6c268eaef29605353fe94f65beb6a5cb383d";
       fetchSubmodules = false;
-      sha256 = "sha256-0K94QmQwP9naOKSxJd865KbV4S84vmbnKHAOPNslKe4=";
+      sha256 = "sha256-ftrkMum0iVxh3qkInpLm72BVJkkeYgZ8DoQLMAuECyc=";
     });
   };
   revanced-cli = {
@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.68.1";
+    version = "0.68.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.1/app-release-unsigned.apk";
-      sha256 = "sha256-8oVP88718eSuvhMmHNOP2T4lRTT69CYPsSCAybLdtdo=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.2/app-release-unsigned.apk";
+      sha256 = "sha256-VM3xJKzITf9aMmaM6+3V/dx/a+847uy5/5MS570hYNE=";
     };
   };
   revanced-patches-jar = {
