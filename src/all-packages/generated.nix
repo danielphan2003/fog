@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "0544d6ed049ebc307d20a1146c3aeac58dbef2da";
+    version = "8e85227059c68e8185b29e5f262a7f17574be9e1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "0544d6ed049ebc307d20a1146c3aeac58dbef2da";
+      rev = "8e85227059c68e8185b29e5f262a7f17574be9e1";
       fetchSubmodules = false;
-      sha256 = "sha256-8GmtBA+2DFW0gVw/TgLG07i0gWo0t/9jHOtw385WB+c=";
+      sha256 = "sha256-dsAMi/KO3sYxTaJTh523ul6XenKzynA55EgY6n7318s=";
     });
   };
   tailscale-systray = {
