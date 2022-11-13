@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.68.0";
+    version = "0.68.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.0/app-release-unsigned.apk";
-      sha256 = "sha256-E/UQ3g1X/85YvkL5jbLWz7h0XFw8GkCvPDIa9ROinfM=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.68.1/app-release-unsigned.apk";
+      sha256 = "sha256-8oVP88718eSuvhMmHNOP2T4lRTT69CYPsSCAybLdtdo=";
     };
   };
   revanced-patches-jar = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8e85227059c68e8185b29e5f262a7f17574be9e1";
+    version = "b87cb2c4a56450d1d53ec5c5f06bd30431516956";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8e85227059c68e8185b29e5f262a7f17574be9e1";
+      rev = "b87cb2c4a56450d1d53ec5c5f06bd30431516956";
       fetchSubmodules = false;
-      sha256 = "sha256-dsAMi/KO3sYxTaJTh523ul6XenKzynA55EgY6n7318s=";
+      sha256 = "sha256-ztI4I3tOEYo8LiJ4dYJNbtCH9ZFC5btWvcl9iWpWH38=";
     });
   };
   tailscale-systray = {
@@ -1351,13 +1351,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "49d0ead0e5c5c8cebe304de7f53e8930758a4ec6";
+    version = "bc2c9ba489efdec6cbe06011fc8ea46bb5d6bbf9";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "49d0ead0e5c5c8cebe304de7f53e8930758a4ec6";
+      rev = "bc2c9ba489efdec6cbe06011fc8ea46bb5d6bbf9";
       fetchSubmodules = false;
-      sha256 = "sha256-yVGEkXsOioJI5V+Z8iKC875QU7M4r4uTRP+RaSe34VA=";
+      sha256 = "sha256-lkytTH8CTbhlhSrl7DmbwQX6nb0+uBHr5YAMrM3QWvk=";
     });
   };
   whitesur-icon-theme = {
