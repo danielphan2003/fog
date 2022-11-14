@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "b04dc0f4c924b7f1620ebc629ff9aa2a1d3676f3";
+    version = "ffa65895de25524c4a805b0a040fd1a04403a012";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "b04dc0f4c924b7f1620ebc629ff9aa2a1d3676f3";
+      rev = "ffa65895de25524c4a805b0a040fd1a04403a012";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-SDgpeD6tCItiA0Q1yxRUDy/Wt4sJ7Vm4OnvBs+hLZY8=";
+      sha256 = "sha256-lRkF0nyXUTTR1KfIrJYWO3humD473BR5QQ/xbOAuuqY=";
     };
   };
   flyingfox = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e46e03094f2e4b7355f47e6ae83d0afe4ab6fe38";
+    version = "1ada87736ab60d0f80bae1e743212b5d94e8308c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e46e03094f2e4b7355f47e6ae83d0afe4ab6fe38";
+      rev = "1ada87736ab60d0f80bae1e743212b5d94e8308c";
       fetchSubmodules = false;
-      sha256 = "sha256-WuirucXZgHiCId6Yea8sGqjJMJFyPqKBaDbzaBF9Gx4=";
+      sha256 = "sha256-eruAGcmQvoLqvk64Mw7zodruJcKXKvQ9V+m66XJ2Wfc=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.108.0";
+    version = "2.109.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.108.0/revanced-patches-2.108.0.jar";
-      sha256 = "sha256-XKbSSJefMcn78F2gW6FGPB/8U+zYdqTmb79PdniQJuI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.109.0/revanced-patches-2.109.0.jar";
+      sha256 = "sha256-uqgOr8HdfGr1ZxjQ8IKFP2MNgCtbrSChCdpgJ97eXxA=";
     };
   };
   rofi-wayland = {
@@ -1102,13 +1102,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "9af449ff477a9614dcec9a1b7b6b1f843df4d22e";
+    version = "9cdf176522125b51d9fc42ab1c067110d50bcd4b";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "9af449ff477a9614dcec9a1b7b6b1f843df4d22e";
+      rev = "9cdf176522125b51d9fc42ab1c067110d50bcd4b";
       fetchSubmodules = false;
-      sha256 = "sha256-0TFuHXabZGcQTibUR0bw4q+Bvf8YIBAaNgdUBqyYd88=";
+      sha256 = "sha256-aipjYD66Gszj/H5gJPSZENpg5/dUZK250RnX+4ZXAyI=";
     });
   };
   spicetify-themes = {
