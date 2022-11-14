@@ -699,10 +699,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.43.0";
+    version = "0.43.1";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.43.0.tar.gz";
-      sha256 = "sha256-ifHOruk00Xu/PzkT2N1XrO9f55QaFzekUjnlD8wE2kQ=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.43.1.tar.gz";
+      sha256 = "sha256-5kEBjAQjGGG9moZ4S5CMqryrBv211F/q00Vv3buJ3x0=";
     };
   };
   nix-zsh-completions = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1ada87736ab60d0f80bae1e743212b5d94e8308c";
+    version = "cd2392c559b9e4a889329b9aed3a0755b074cfc7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1ada87736ab60d0f80bae1e743212b5d94e8308c";
+      rev = "cd2392c559b9e4a889329b9aed3a0755b074cfc7";
       fetchSubmodules = false;
-      sha256 = "sha256-eruAGcmQvoLqvk64Mw7zodruJcKXKvQ9V+m66XJ2Wfc=";
+      sha256 = "sha256-6sQdvhHdeR1hBSvcPECOChDdMoGArbja/NxsGX20IRI=";
     });
   };
   revanced-cli = {
