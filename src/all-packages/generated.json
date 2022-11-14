@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a9a53e3c68801a23391193647f2efc81d0f12892",
-            "sha256": "sha256-nknSCliep5nCWnZPMpA8mGAUguMh/f0y7m0Tnd6Z3DM=",
+            "rev": "eb3a9ce7e48366bb4df7f39bfc0800bd053d9a9e",
+            "sha256": "sha256-t32K2690y0KnBIG08wiV9CNbPL83126siNmDHDm56qI=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "a9a53e3c68801a23391193647f2efc81d0f12892"
+        "version": "eb3a9ce7e48366bb4df7f39bfc0800bd053d9a9e"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kECsrm9YAfn/1HkgrPvTeL1pndIFo5VBfR9l+yOI0vE=",
+            "sha256": "sha256-wcClCmYMveQC5hMMXwx0OoOiZD5s5EkSHxrr9h24DpI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.68.3/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.69.1/app-release-unsigned.apk"
         },
-        "version": "0.68.3"
+        "version": "0.69.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
