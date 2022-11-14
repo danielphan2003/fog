@@ -214,11 +214,11 @@
             "name": null,
             "owner": "awesomeWM",
             "repo": "awesome",
-            "rev": "17eee18d8bd500ac6dc4907701c5ccdb71174c0c",
-            "sha256": "sha256-DvegG6reL3Qaw08ZzWJS08GpeiILv0IyJXHxlbVpIus=",
+            "rev": "90460b47d3df1ca0364a4b5177dbbb1aae6cc003",
+            "sha256": "sha256-/b2H41yUATAsRkv44uZhgN90FJhC7RS4Q4ZKtX9lY3U=",
             "type": "github"
         },
-        "version": "17eee18d8bd500ac6dc4907701c5ccdb71174c0c"
+        "version": "90460b47d3df1ca0364a4b5177dbbb1aae6cc003"
     },
     "awestore": {
         "cargoLocks": null,
@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "f1765dad94b8aab725b62bdd02a9c17ad347d811",
-            "sha256": "sha256-qs154me6TWp5jXFLP4bScyyWTmNowlwRpElAFfp8aqs=",
+            "rev": "0ba45a0fcd6bed2b21e696754ed47b8f76c8fb9c",
+            "sha256": "sha256-t+TPOeTtbzZqAn7gxTmKdm+/JwVlWWbxlMFRgxvwxCY=",
             "type": "github"
         },
-        "version": "f1765dad94b8aab725b62bdd02a9c17ad347d811"
+        "version": "0ba45a0fcd6bed2b21e696754ed47b8f76c8fb9c"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
