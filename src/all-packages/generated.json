@@ -304,11 +304,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "6dc02256ea604e772724eb707482134801799612",
-            "sha256": "sha256-oUDs1micsUDqcjFonjKdEINiv2Ig7qUkwqGy/vnodJc=",
+            "rev": "b622a51fdb12b08d216e68b719eaffa9534f3cd1",
+            "sha256": "sha256-KmLz5QeLqSoKelMQmqapVp8x+gECWezUdKF/Kp8mkSE=",
             "type": "github"
         },
-        "version": "6dc02256ea604e772724eb707482134801799612"
+        "version": "b622a51fdb12b08d216e68b719eaffa9534f3cd1"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "030c3cba4468cf7b5aa027d4c6c1986e317d5eb1",
-            "sha256": "sha256-thATiS3d1+lTPE/iwHnDNcvfsgaAayXHcRPslT2f2/Q=",
+            "rev": "6ff82319fbc3f4cb57b3e523941196f1e1d46c55",
+            "sha256": "sha256-QtvObueGZ9SFzxzi4gb4wRhUEgGLiFW0lgU0nnlfNVw=",
             "type": "github"
         },
-        "version": "030c3cba4468cf7b5aa027d4c6c1986e317d5eb1"
+        "version": "6ff82319fbc3f4cb57b3e523941196f1e1d46c55"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gUGHQ7GEw3ZfOR4RZYvlz2QjYbJ0GZD7r/ouuHWJT1s=",
+            "sha256": "sha256-osoe2NLCTXOqrSHJVl7XP9nFolfWO4xrl7dIpeQONmw=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.69.2/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.70.0/app-release-unsigned.apk"
         },
-        "version": "0.69.2"
+        "version": "0.70.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1697,11 +1697,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "1d156897ab763d1442b0d6b0341c091f0c38b496",
-            "sha256": "sha256-nSNp82kmnUaKS5xBVXG3+2QgJ48QnuRihXK3mCw1LC8=",
+            "rev": "9a5c0eec69e5da18af95603442cfd1ad70f38ef8",
+            "sha256": "sha256-pSQDUhzyKfLmIr32jx4S1uLFo+1byhqvOLBmRFaz6PY=",
             "type": "github"
         },
-        "version": "1d156897ab763d1442b0d6b0341c091f0c38b496"
+        "version": "9a5c0eec69e5da18af95603442cfd1ad70f38ef8"
     },
     "sddm-chili": {
         "cargoLocks": null,
