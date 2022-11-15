@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6802";
+    version = "1.0.6803";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6802.tar.bz2";
-      sha256 = "sha256-3Hia5TY1QDJdzQ6QeSFTev+uva2/hsSateyOwEmK8lM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6803.tar.bz2";
+      sha256 = "sha256-AIbv9DMxBJHotIYQCaFJtgx9lR+4LLq9Ehe8buVoiT8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6802";
+    version = "1.0.6803";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6802-1_all.deb";
-      sha256 = "sha256-MlWqvX8xB9czey+WTVH4YBriWTLfoKUUn43aNdFekF8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6803-1_all.deb";
+      sha256 = "sha256-9odi19qweWYbvdrRIYj40KM00UxZzkXkEPwXU2qeono=";
     };
   };
   jitsi-videobridge2 = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "366e287113c6932a765b65afcf9d5cff18f40924";
+    version = "eb60ab0b79a5f2075bd06f35be7994f98f7d1249";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "366e287113c6932a765b65afcf9d5cff18f40924";
+      rev = "eb60ab0b79a5f2075bd06f35be7994f98f7d1249";
       fetchSubmodules = false;
-      sha256 = "sha256-bTNa0qRHmAmWV0W2y1axtSVTO9py9R6eORxWoNadStg=";
+      sha256 = "sha256-z7ET3x5nxg88EmcSeArB43Hhgx766chOL3hSaiWut9c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-366e287113c6932a765b65afcf9d5cff18f40924/Cargo.lock;
+      lockFile = ./rustdesk-eb60ab0b79a5f2075bd06f35be7994f98f7d1249/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
