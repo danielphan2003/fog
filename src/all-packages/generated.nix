@@ -945,18 +945,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.70.0";
+    version = "0.71.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.70.0/app-release-unsigned.apk";
-      sha256 = "sha256-osoe2NLCTXOqrSHJVl7XP9nFolfWO4xrl7dIpeQONmw=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.71.0/app-release-unsigned.apk";
+      sha256 = "sha256-9zyVArpPzhR4hxSKK1mv/sUE6GDDkorpMLc5L9QJSAQ=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.109.0";
+    version = "2.110.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.109.0/revanced-patches-2.109.0.jar";
-      sha256 = "sha256-uqgOr8HdfGr1ZxjQ8IKFP2MNgCtbrSChCdpgJ97eXxA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.110.0/revanced-patches-2.110.0.jar";
+      sha256 = "sha256-5A5+kBuIiU1aWJPcoSuak45MurnIA0G+yd+JioJNESk=";
     };
   };
   rofi-wayland = {
