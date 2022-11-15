@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "eb3a9ce7e48366bb4df7f39bfc0800bd053d9a9e",
-            "sha256": "sha256-t32K2690y0KnBIG08wiV9CNbPL83126siNmDHDm56qI=",
+            "rev": "7e6a424b3e8a191b5febf42a2d878a78ef974589",
+            "sha256": "sha256-lL9mtmacw2X+pvWfsgeyqwWsVSjmcNCbPiMsE0joHb4=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "eb3a9ce7e48366bb4df7f39bfc0800bd053d9a9e"
+        "version": "7e6a424b3e8a191b5febf42a2d878a78ef974589"
     },
     "flyingfox": {
         "cargoLocks": null,
