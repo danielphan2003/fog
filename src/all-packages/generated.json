@@ -380,11 +380,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "55d609c82bf75fc55b6a74d499458f5ac1afd021",
-            "sha256": "sha256-fclqXjCIhnY1M0PSGGccDaJeoACLaDoceYcC07/mKJk=",
+            "rev": "d22abe300b35e459eccdc6ef23e56c3737e9d2de",
+            "sha256": "sha256-wtqsKmPJtQ04nQCB7L7/0YOYKzD5RXN1KhAw1ra33NE=",
             "type": "github"
         },
-        "version": "55d609c82bf75fc55b6a74d499458f5ac1afd021"
+        "version": "d22abe300b35e459eccdc6ef23e56c3737e9d2de"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "d5eafe192649b290fd587b41f772887058f7418b",
-            "sha256": "sha256-IEPCbTcD3u8NYVwpx1GvyPExyhNTyxkhUs8Y3yGwYgg=",
+            "rev": "c02bfc3897137439596df4670cef2441d24c8367",
+            "sha256": "sha256-C5p+LpueYK9tI3F+7hKBVjYxn7gk2kW4kxe/jasIbuk=",
             "type": "github"
         },
-        "version": "d5eafe192649b290fd587b41f772887058f7418b"
+        "version": "c02bfc3897137439596df4670cef2441d24c8367"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1309,11 +1309,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "9d7cbe49f16cf33db378c73627a080c78182d5eb",
-            "sha256": "sha256-kJdpTMXhZAISlCnuiLEQG1IA5g3wuSLxfoSQ6cFk3Po=",
+            "rev": "7233601be3f1ba291d5fe2be3347c6f1003a6d0e",
+            "sha256": "sha256-Afzn7A29nRUJdQa8AvbC7XONz/Kr+fA9HefCYLdKS2o=",
             "type": "github"
         },
-        "version": "9d7cbe49f16cf33db378c73627a080c78182d5eb"
+        "version": "7233601be3f1ba291d5fe2be3347c6f1003a6d0e"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "0b71407b6298300149af9465c79f1997c29b08dd",
-            "sha256": "sha256-/DwvdKTYQbpN1cVstJfyHbOCmh6g7WxzvRkTV8Q2s48=",
+            "rev": "9e0c0865cdb0aea7f9194749635c5a0351d09259",
+            "sha256": "sha256-hC7sc2Qg0jzAU5HIXyW91K0zsSqbmZ5DYy6fNdUnRKg=",
             "type": "github"
         },
-        "version": "0b71407b6298300149af9465c79f1997c29b08dd"
+        "version": "9e0c0865cdb0aea7f9194749635c5a0351d09259"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-9e229211a1079cbab08f5d984c0f4447cee81d5f/Cargo.lock",
+                "./rustdesk-325351773cb9827a6d279841c1f51364e9c8b650/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "9e229211a1079cbab08f5d984c0f4447cee81d5f",
-            "sha256": "sha256-TRuOeUFyK33xJOGfk/clWb2abGbRy8eI4dCtRagEbW8=",
+            "rev": "325351773cb9827a6d279841c1f51364e9c8b650",
+            "sha256": "sha256-NLD0DXPEemEQ69Jazxw0Gb1S6ebvi2EBCAwDLlVWTM8=",
             "type": "github"
         },
-        "version": "9e229211a1079cbab08f5d984c0f4447cee81d5f"
+        "version": "325351773cb9827a6d279841c1f51364e9c8b650"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "2d653230ef6e597807c7529fe55245d048140720",
-            "sha256": "sha256-/xzwv3uo+23LFvXdAfI2bTt6ZcjsMndIn5UAxSXM2q8=",
+            "rev": "513780f4f8f5529d0643f4bb19cbc9b6f37d1c5c",
+            "sha256": "sha256-jvcUsCc+dDQu6OG5yiN8p3mcBQtQNBRdzjsqRnOwy9Q=",
             "type": "github"
         },
-        "version": "2d653230ef6e597807c7529fe55245d048140720"
+        "version": "513780f4f8f5529d0643f4bb19cbc9b6f37d1c5c"
     },
     "tailscale-systray": {
         "cargoLocks": null,
