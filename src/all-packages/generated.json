@@ -2275,11 +2275,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vsr6eymKqU2Y6HM4DPHnUfVkB2BQ1HSSWvk1tNhUA5Y=",
+            "sha256": "sha256-29C8D5UbUbBNF8thyjFlbu6Xm5XXcXyqhvNUKpOlQrI=",
             "type": "url",
-            "url": "https://dl.google.com/widevine-cdm/4.10.2449.0-linux-x64.zip"
+            "url": "https://dl.google.com/widevine-cdm/4.10.2557.0-linux-x64.zip"
         },
-        "version": "4.10.2449.0"
+        "version": "4.10.2557.0"
     },
     "wii-u-gc-adapter": {
         "cargoLocks": null,

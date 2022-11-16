@@ -1373,10 +1373,10 @@
   };
   widevine-cdm = {
     pname = "widevine-cdm";
-    version = "4.10.2449.0";
+    version = "4.10.2557.0";
     src = fetchurl {
-      url = "https://dl.google.com/widevine-cdm/4.10.2449.0-linux-x64.zip";
-      sha256 = "sha256-vsr6eymKqU2Y6HM4DPHnUfVkB2BQ1HSSWvk1tNhUA5Y=";
+      url = "https://dl.google.com/widevine-cdm/4.10.2557.0-linux-x64.zip";
+      sha256 = "sha256-29C8D5UbUbBNF8thyjFlbu6Xm5XXcXyqhvNUKpOlQrI=";
     };
   };
   wii-u-gc-adapter = {
