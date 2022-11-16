@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b622a51fdb12b08d216e68b719eaffa9534f3cd1";
+    version = "5322df788a2a5f55e77704b36aacabbc7f705618";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b622a51fdb12b08d216e68b719eaffa9534f3cd1";
+      rev = "5322df788a2a5f55e77704b36aacabbc7f705618";
       fetchSubmodules = false;
-      sha256 = "sha256-KmLz5QeLqSoKelMQmqapVp8x+gECWezUdKF/Kp8mkSE=";
+      sha256 = "sha256-h5QnldAnUSJg8BYSsMxLC+tyRLUGaKPzf8RAwm8mgz0=";
     });
   };
   caddy = {
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "7e6a424b3e8a191b5febf42a2d878a78ef974589";
+    version = "d40e51ac595df7f3e4205c3bd74ed61bc0b521d7";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "7e6a424b3e8a191b5febf42a2d878a78ef974589";
+      rev = "d40e51ac595df7f3e4205c3bd74ed61bc0b521d7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lL9mtmacw2X+pvWfsgeyqwWsVSjmcNCbPiMsE0joHb4=";
+      sha256 = "sha256-YQgSU/YlpBnDHGpfNnYmddE74Sr2nKu+apBJQydXrB8=";
     };
   };
   flyingfox = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "89a1c8b506b51456b3bf8f46037549c45e2ce2b2";
+    version = "9e229211a1079cbab08f5d984c0f4447cee81d5f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "89a1c8b506b51456b3bf8f46037549c45e2ce2b2";
+      rev = "9e229211a1079cbab08f5d984c0f4447cee81d5f";
       fetchSubmodules = false;
-      sha256 = "sha256-O4vuI6rxXvDtSv9jbB7NWMSSfCTMSnDiGJb2waRNjx0=";
+      sha256 = "sha256-TRuOeUFyK33xJOGfk/clWb2abGbRy8eI4dCtRagEbW8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-89a1c8b506b51456b3bf8f46037549c45e2ce2b2/Cargo.lock;
+      lockFile = ./rustdesk-9e229211a1079cbab08f5d984c0f4447cee81d5f/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6ea2d0162665af2f7022be18572d6bdd5a2f7208";
+    version = "2d653230ef6e597807c7529fe55245d048140720";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6ea2d0162665af2f7022be18572d6bdd5a2f7208";
+      rev = "2d653230ef6e597807c7529fe55245d048140720";
       fetchSubmodules = false;
-      sha256 = "sha256-XDByrD8GYhQHS9EdUFUHjIAw5tqhU0oDZ/LJdeOfSDE=";
+      sha256 = "sha256-/xzwv3uo+23LFvXdAfI2bTt6ZcjsMndIn5UAxSXM2q8=";
     });
   };
   tailscale-systray = {
