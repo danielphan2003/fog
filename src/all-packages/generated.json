@@ -304,11 +304,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "5322df788a2a5f55e77704b36aacabbc7f705618",
-            "sha256": "sha256-h5QnldAnUSJg8BYSsMxLC+tyRLUGaKPzf8RAwm8mgz0=",
+            "rev": "ed12460d08e0080e22ba0eb8c0a7483d409de4a6",
+            "sha256": "sha256-a7CpvOnHyTzmT4DOeguOHQLf80zQBx4wyrKpXBtfn9U=",
             "type": "github"
         },
-        "version": "5322df788a2a5f55e77704b36aacabbc7f705618"
+        "version": "ed12460d08e0080e22ba0eb8c0a7483d409de4a6"
     },
     "caddy": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "b3da5de10f3b1b259a24d07e4fc9f693dc500cf2",
-            "sha256": "sha256-dhjpYTzqRjuSF1pJc5L4GrlGn44JnGVvRsuE2oU9Gbk=",
+            "rev": "1de64e89cd5232f58d56b9f8261ac8da7f56f024",
+            "sha256": "sha256-b9c5b6ma0BMpgqNuCV7fzGGeakXAkvYF3GaARTk23Bw=",
             "type": "github"
         },
-        "version": "b3da5de10f3b1b259a24d07e4fc9f693dc500cf2"
+        "version": "1de64e89cd5232f58d56b9f8261ac8da7f56f024"
     },
     "tailscale-systray": {
         "cargoLocks": null,
