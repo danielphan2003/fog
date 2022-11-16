@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "73b1a7050ac11e49b7bafbbf63474719e28d264f";
+    version = "aad4dc909eb31cd129973062cae1fce9bdb8cd4b";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "73b1a7050ac11e49b7bafbbf63474719e28d264f";
+      rev = "aad4dc909eb31cd129973062cae1fce9bdb8cd4b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/sTUYvgniWyLM7OY/SiIJfBukGV/NpFGqKrz5oVdO74=";
+      sha256 = "sha256-5LlPDti7LRa1QiwNyln2GwX6JBN0XH4EZ9OpczLSU0g=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-73b1a7050ac11e49b7bafbbf63474719e28d264f/Cargo.lock;
+      lockFile = ./asusctl-aad4dc909eb31cd129973062cae1fce9bdb8cd4b/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -830,14 +830,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0";
+    version = "ed7b0273f5f50fa8cd5a8d38945bebdb8a8cf8a5";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "ab0aa7f956c0a76f455ac3d4ca055b9b360ebdc0";
+      rev = "ed7b0273f5f50fa8cd5a8d38945bebdb8a8cf8a5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5o/0ZcYFLopoHBrTxWWtDoRPGYeYkJ5Cwxj7tHkSJjU=";
+      sha256 = "sha256-v+p4d1mYopS3uX457jDC/v3GNTixQdBIPcA7IBgAJQQ=";
     };
   };
   pure = {
