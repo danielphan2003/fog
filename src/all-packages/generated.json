@@ -689,11 +689,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "d17eb53816bc572e161714b67de52daf1af23e86",
-            "sha256": "sha256-TRBw3RUUGX09o0agoaXGz/W39m/JEg1wl3TM8zJnpUI=",
+            "rev": "b4300d303d956794a5ae195100e9073a43d4f095",
+            "sha256": "sha256-R1n84mpTpnXYY9LvnzEo8P3MSeqX8mcX1ZnuCShvNnU=",
             "type": "github"
         },
-        "version": "d17eb53816bc572e161714b67de52daf1af23e86"
+        "version": "b4300d303d956794a5ae195100e9073a43d4f095"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-fb17d64f1a5503df5b039467fc522d9102ab8223/Cargo.lock",
+                "./rustdesk-dfdfc7e36df39fbb2915f0717f97336afd87f3c1/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "fb17d64f1a5503df5b039467fc522d9102ab8223",
-            "sha256": "sha256-wjJUqYtMbXBWGoYqdYurnlBHreayla/TKjIKC9K2ELk=",
+            "rev": "dfdfc7e36df39fbb2915f0717f97336afd87f3c1",
+            "sha256": "sha256-d3pfjm7mvRRosTk7WpmpV5WUba873hd3xrm5xL6Sr2g=",
             "type": "github"
         },
-        "version": "fb17d64f1a5503df5b039467fc522d9102ab8223"
+        "version": "dfdfc7e36df39fbb2915f0717f97336afd87f3c1"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1697,11 +1697,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "b1d8e3067b2ef05cd8f7e1b30610b482436a1418",
-            "sha256": "sha256-nY4sFSvFiDyqCcQ4MIKWXW+0m/QjW50h1baPfGCnoGE=",
+            "rev": "ebe6110bd2bb5047ca09d4446fe739da468086e1",
+            "sha256": "sha256-GxfqB+SMjgh+be+EK93NNe4gOemVtZTADiDpuuUkjtQ=",
             "type": "github"
         },
-        "version": "b1d8e3067b2ef05cd8f7e1b30610b482436a1418"
+        "version": "ebe6110bd2bb5047ca09d4446fe739da468086e1"
     },
     "sddm-chili": {
         "cargoLocks": null,
@@ -2166,11 +2166,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-15y05g+F+oEFYUUy7SE57GZ1RSHqdZnk2iOPsy1L0GI=",
+            "sha256": "sha256-NN36gg2rUZgAxyMoYhMc7IbWgQLrPvuWERDF7JVsFfw=",
             "type": "url",
-            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.81/ventoy-1.0.81-linux.tar.gz"
+            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.82/ventoy-1.0.82-linux.tar.gz"
         },
-        "version": "1.0.81"
+        "version": "1.0.82"
     },
     "vimPlugins-yuck": {
         "cargoLocks": null,

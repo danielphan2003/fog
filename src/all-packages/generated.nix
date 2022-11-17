@@ -414,13 +414,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d17eb53816bc572e161714b67de52daf1af23e86";
+    version = "b4300d303d956794a5ae195100e9073a43d4f095";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "d17eb53816bc572e161714b67de52daf1af23e86";
+      rev = "b4300d303d956794a5ae195100e9073a43d4f095";
       fetchSubmodules = false;
-      sha256 = "sha256-TRBw3RUUGX09o0agoaXGz/W39m/JEg1wl3TM8zJnpUI=";
+      sha256 = "sha256-R1n84mpTpnXYY9LvnzEo8P3MSeqX8mcX1ZnuCShvNnU=";
     });
   };
   fluffychat = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "fb17d64f1a5503df5b039467fc522d9102ab8223";
+    version = "dfdfc7e36df39fbb2915f0717f97336afd87f3c1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "fb17d64f1a5503df5b039467fc522d9102ab8223";
+      rev = "dfdfc7e36df39fbb2915f0717f97336afd87f3c1";
       fetchSubmodules = false;
-      sha256 = "sha256-wjJUqYtMbXBWGoYqdYurnlBHreayla/TKjIKC9K2ELk=";
+      sha256 = "sha256-d3pfjm7mvRRosTk7WpmpV5WUba873hd3xrm5xL6Sr2g=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-fb17d64f1a5503df5b039467fc522d9102ab8223/Cargo.lock;
+      lockFile = ./rustdesk-dfdfc7e36df39fbb2915f0717f97336afd87f3c1/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1022,13 +1022,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "b1d8e3067b2ef05cd8f7e1b30610b482436a1418";
+    version = "ebe6110bd2bb5047ca09d4446fe739da468086e1";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "b1d8e3067b2ef05cd8f7e1b30610b482436a1418";
+      rev = "ebe6110bd2bb5047ca09d4446fe739da468086e1";
       fetchSubmodules = false;
-      sha256 = "sha256-nY4sFSvFiDyqCcQ4MIKWXW+0m/QjW50h1baPfGCnoGE=";
+      sha256 = "sha256-GxfqB+SMjgh+be+EK93NNe4gOemVtZTADiDpuuUkjtQ=";
     });
   };
   sddm-chili = {
@@ -1310,10 +1310,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.81";
+    version = "1.0.82";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.81/ventoy-1.0.81-linux.tar.gz";
-      sha256 = "sha256-15y05g+F+oEFYUUy7SE57GZ1RSHqdZnk2iOPsy1L0GI=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.82/ventoy-1.0.82-linux.tar.gz";
+      sha256 = "sha256-NN36gg2rUZgAxyMoYhMc7IbWgQLrPvuWERDF7JVsFfw=";
     };
   };
   vimPlugins-yuck = {
