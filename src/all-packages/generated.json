@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-53197baf5ef4b3f22352cda657fc287b00cdfca2/Cargo.lock",
+                "./rustdesk-634a838dc967a82cab43c47f1ce9f2dacf667eed/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "53197baf5ef4b3f22352cda657fc287b00cdfca2",
-            "sha256": "sha256-opjRkcc9NANkrrQWx0wyBtIxgGlXZincRZeu+MYDa90=",
+            "rev": "634a838dc967a82cab43c47f1ce9f2dacf667eed",
+            "sha256": "sha256-c+PvIBsDkh0pb2XVWFoGNXqrUyHTE+HSDD1gtKtejmA=",
             "type": "github"
         },
-        "version": "53197baf5ef4b3f22352cda657fc287b00cdfca2"
+        "version": "634a838dc967a82cab43c47f1ce9f2dacf667eed"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ec1e67b1ab6876cfc3f18b0c427acf3e62c8ed93",
-            "sha256": "sha256-myedIaHNvPBldt6+9i0t41MtYYF2Gpyqka0gmeIhWto=",
+            "rev": "f3519f7b29e6f6cf024b86a8a3af063532e7c395",
+            "sha256": "sha256-1wz/Igqz/GtrcneAPuvRt07EyH0AlgoJe4BHtuQGEVQ=",
             "type": "github"
         },
-        "version": "ec1e67b1ab6876cfc3f18b0c427acf3e62c8ed93"
+        "version": "f3519f7b29e6f6cf024b86a8a3af063532e7c395"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2261,11 +2261,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-icon-theme",
-            "rev": "7b6d9e241eb8778a02ffa18007f1fd8ddb038887",
-            "sha256": "sha256-lcjJ/C5JWUseKSXKPtyMUyhex7fKxZrBHvXeBsmxZPc=",
+            "rev": "d20a1bb674f24f4b30731fe0c8f49c2c47acd102",
+            "sha256": "sha256-ZSV1VUp5SXS10dzD/SgIK04EqaFNWPsGvjd/haGEyZM=",
             "type": "github"
         },
-        "version": "7b6d9e241eb8778a02ffa18007f1fd8ddb038887"
+        "version": "d20a1bb674f24f4b30731fe0c8f49c2c47acd102"
     },
     "widevine-cdm": {
         "cargoLocks": null,
