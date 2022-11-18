@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "706acb78b7c5a1236fa727292e83baf3d7803d1b";
+    version = "ec02fc619c3e88633ad70a77f7aeadd5130b017c";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "706acb78b7c5a1236fa727292e83baf3d7803d1b";
+      rev = "ec02fc619c3e88633ad70a77f7aeadd5130b017c";
       fetchSubmodules = false;
-      sha256 = "sha256-QJFHVoSR9xnG6J2lwkviZbeWsHI+wVTZlsJJmWYh3Ow=";
+      sha256 = "sha256-2tiwHGaDe13U0U+d81guXjVvBFD0KT+/i4C5PLEMHVk=";
     });
   };
   playit-agent = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d3f39f77a01af65515369dccdaa5331f7816e160";
+    version = "16747e518683ef526e385d8506bda6876b41eefc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d3f39f77a01af65515369dccdaa5331f7816e160";
+      rev = "16747e518683ef526e385d8506bda6876b41eefc";
       fetchSubmodules = false;
-      sha256 = "sha256-O3qocUDFux0yoKn7MbYk/1i7dU39OergYiMOt4Ph0+c=";
+      sha256 = "sha256-P99OTxnfQcqhkRp3FMetBoIAsz0EyHN3T6vWno3R7f8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-d3f39f77a01af65515369dccdaa5331f7816e160/Cargo.lock;
+      lockFile = ./rustdesk-16747e518683ef526e385d8506bda6876b41eefc/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "c71d3e781097885f035fafb77101a5c9f8f49f5a";
+    version = "ba10a1665073ab396f23a2624ae16214524065d1";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "c71d3e781097885f035fafb77101a5c9f8f49f5a";
+      rev = "ba10a1665073ab396f23a2624ae16214524065d1";
       fetchSubmodules = false;
-      sha256 = "sha256-NgElPYWKNGDD8/wlr4CPZmJOMNBldGKMoIM3AZib7nE=";
+      sha256 = "sha256-2Og5gt18VJ1OH4zF9Aet1kIkZOEkQvWrUqHt93xr8Dc=";
     });
   };
   wgcf = {
