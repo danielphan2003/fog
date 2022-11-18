@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sYf0bLTa9GW11V7k7338j3ARActyxMqtr3T8nt6L1Sk=",
+            "sha256": "sha256-C9OehWdujfuS45eykTANXWd8lEIMUbkKHT6ozZLSHb0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.15.0/revanced-cli-2.15.0-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.15.1/revanced-cli-2.15.1-all.jar"
         },
-        "version": "2.15.0"
+        "version": "2.15.1"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yinwUhyYwXDtS4LrObprhsfEGrw6NYp57zrzr8TFiIE=",
+            "sha256": "sha256-6ZipaUQWd6v5mSl2VfnmaSZUiSaKpP65p2RSjo+jxuM=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.111.0/revanced-patches-2.111.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.111.1/revanced-patches-2.111.1.jar"
         },
-        "version": "2.111.0"
+        "version": "2.111.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-dfdfc7e36df39fbb2915f0717f97336afd87f3c1/Cargo.lock",
+                "./rustdesk-0a2627f06ade5c82b552654b93041d824aa8d91d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "dfdfc7e36df39fbb2915f0717f97336afd87f3c1",
-            "sha256": "sha256-d3pfjm7mvRRosTk7WpmpV5WUba873hd3xrm5xL6Sr2g=",
+            "rev": "0a2627f06ade5c82b552654b93041d824aa8d91d",
+            "sha256": "sha256-D387aPQPdjn9GrbpEmU59U0AxI0sRoh/9JVyUBAlGjY=",
             "type": "github"
         },
-        "version": "dfdfc7e36df39fbb2915f0717f97336afd87f3c1"
+        "version": "0a2627f06ade5c82b552654b93041d824aa8d91d"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1852,11 +1852,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-themes",
-            "rev": "eb6b818368d9c01ef92522623b37aa29200d0bc0",
-            "sha256": "sha256-Q/LBS+bjt2WP/s43LE8hDjYHxPVorT/RA71esPraLOM=",
+            "rev": "0c6961c39a277387dc79fdf3811e6eb75c4906a7",
+            "sha256": "sha256-MjniQirtSG/Q6Xwmp76hFiLq3g+Q6C9waj0ZK92+eOI=",
             "type": "github"
         },
-        "version": "eb6b818368d9c01ef92522623b37aa29200d0bc0"
+        "version": "0c6961c39a277387dc79fdf3811e6eb75c4906a7"
     },
     "spotify": {
         "cargoLocks": null,
@@ -2078,7 +2078,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "4f7f6195fd9e04b4b9fffc30391b8ba8af5d7f47"
+        "version": "7d69f70301eb97c3ad380fce6d53232f35dd9e9d"
     },
     "ulauncher": {
         "cargoLocks": null,

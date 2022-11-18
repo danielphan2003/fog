@@ -937,10 +937,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.15.0";
+    version = "2.15.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.15.0/revanced-cli-2.15.0-all.jar";
-      sha256 = "sha256-sYf0bLTa9GW11V7k7338j3ARActyxMqtr3T8nt6L1Sk=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.15.1/revanced-cli-2.15.1-all.jar";
+      sha256 = "sha256-C9OehWdujfuS45eykTANXWd8lEIMUbkKHT6ozZLSHb0=";
     };
   };
   revanced-integrations = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.111.0";
+    version = "2.111.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.111.0/revanced-patches-2.111.0.jar";
-      sha256 = "sha256-yinwUhyYwXDtS4LrObprhsfEGrw6NYp57zrzr8TFiIE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.111.1/revanced-patches-2.111.1.jar";
+      sha256 = "sha256-6ZipaUQWd6v5mSl2VfnmaSZUiSaKpP65p2RSjo+jxuM=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "dfdfc7e36df39fbb2915f0717f97336afd87f3c1";
+    version = "0a2627f06ade5c82b552654b93041d824aa8d91d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "dfdfc7e36df39fbb2915f0717f97336afd87f3c1";
+      rev = "0a2627f06ade5c82b552654b93041d824aa8d91d";
       fetchSubmodules = false;
-      sha256 = "sha256-d3pfjm7mvRRosTk7WpmpV5WUba873hd3xrm5xL6Sr2g=";
+      sha256 = "sha256-D387aPQPdjn9GrbpEmU59U0AxI0sRoh/9JVyUBAlGjY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-dfdfc7e36df39fbb2915f0717f97336afd87f3c1/Cargo.lock;
+      lockFile = ./rustdesk-0a2627f06ade5c82b552654b93041d824aa8d91d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1113,13 +1113,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "eb6b818368d9c01ef92522623b37aa29200d0bc0";
+    version = "0c6961c39a277387dc79fdf3811e6eb75c4906a7";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "eb6b818368d9c01ef92522623b37aa29200d0bc0";
+      rev = "0c6961c39a277387dc79fdf3811e6eb75c4906a7";
       fetchSubmodules = false;
-      sha256 = "sha256-Q/LBS+bjt2WP/s43LE8hDjYHxPVorT/RA71esPraLOM=";
+      sha256 = "sha256-MjniQirtSG/Q6Xwmp76hFiLq3g+Q6C9waj0ZK92+eOI=";
     });
   };
   spotify = {
@@ -1255,7 +1255,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "4f7f6195fd9e04b4b9fffc30391b8ba8af5d7f47";
+    version = "7d69f70301eb97c3ad380fce6d53232f35dd9e9d";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
