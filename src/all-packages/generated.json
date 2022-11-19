@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "ce9051f8d0e8111400de4eac19f4094449230626",
-            "sha256": "sha256-eEe0mM9gUWgEzoRH1Iuet20US9eXNtCVSBi2kX1njVw=",
+            "rev": "0c233bff4ebc1e3979bf616454c2e1a0153595e7",
+            "sha256": "sha256-6kEMcrBBUg/tjJktTFJ4VdstY78R0Q4WIlYtqyVngyc=",
             "type": "github"
         },
-        "version": "ce9051f8d0e8111400de4eac19f4094449230626"
+        "version": "0c233bff4ebc1e3979bf616454c2e1a0153595e7"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9zyVArpPzhR4hxSKK1mv/sUE6GDDkorpMLc5L9QJSAQ=",
+            "sha256": "sha256-Ti06t1KuKR1w3v7KvniQ+TEcLhiGPi4CNLm0+o3jV6Q=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.71.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.72.0/app-release-unsigned.apk"
         },
-        "version": "0.71.0"
+        "version": "0.72.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NcY8dvmLizQxepNsCLF7FmnjZUkXMXKlmj8slUYwFbA=",
+            "sha256": "sha256-cxrJ9nVCwY5AtmCjJWhZgFmv5t6ZAJ5NzLzqpfY4zyE=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.112.0/revanced-patches-2.112.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.113.0/revanced-patches-2.113.0.jar"
         },
-        "version": "2.112.0"
+        "version": "2.113.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "a26f23d94986fb304bebb4e6554b0ac9a85c4eca",
-            "sha256": "sha256-wBaY06VV5lp3UePamuMKGKAiBAHwqmgRv3Fo52tf4WQ=",
+            "rev": "039ea51ca687d9034eff4388753d68c7c28e8a0a",
+            "sha256": "sha256-3E8b2icocJtCQ3fM/xoq4TcANbNGoAnWXXprn6jRQnQ=",
             "type": "github"
         },
-        "version": "a26f23d94986fb304bebb4e6554b0ac9a85c4eca"
+        "version": "039ea51ca687d9034eff4388753d68c7c28e8a0a"
     },
     "tailscale-systray": {
         "cargoLocks": null,

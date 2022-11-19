@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ce9051f8d0e8111400de4eac19f4094449230626";
+    version = "0c233bff4ebc1e3979bf616454c2e1a0153595e7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ce9051f8d0e8111400de4eac19f4094449230626";
+      rev = "0c233bff4ebc1e3979bf616454c2e1a0153595e7";
       fetchSubmodules = false;
-      sha256 = "sha256-eEe0mM9gUWgEzoRH1Iuet20US9eXNtCVSBi2kX1njVw=";
+      sha256 = "sha256-6kEMcrBBUg/tjJktTFJ4VdstY78R0Q4WIlYtqyVngyc=";
     });
   };
   revanced-cli = {
@@ -945,18 +945,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.71.0";
+    version = "0.72.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.71.0/app-release-unsigned.apk";
-      sha256 = "sha256-9zyVArpPzhR4hxSKK1mv/sUE6GDDkorpMLc5L9QJSAQ=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.72.0/app-release-unsigned.apk";
+      sha256 = "sha256-Ti06t1KuKR1w3v7KvniQ+TEcLhiGPi4CNLm0+o3jV6Q=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.112.0";
+    version = "2.113.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.112.0/revanced-patches-2.112.0.jar";
-      sha256 = "sha256-NcY8dvmLizQxepNsCLF7FmnjZUkXMXKlmj8slUYwFbA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.113.0/revanced-patches-2.113.0.jar";
+      sha256 = "sha256-cxrJ9nVCwY5AtmCjJWhZgFmv5t6ZAJ5NzLzqpfY4zyE=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a26f23d94986fb304bebb4e6554b0ac9a85c4eca";
+    version = "039ea51ca687d9034eff4388753d68c7c28e8a0a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a26f23d94986fb304bebb4e6554b0ac9a85c4eca";
+      rev = "039ea51ca687d9034eff4388753d68c7c28e8a0a";
       fetchSubmodules = false;
-      sha256 = "sha256-wBaY06VV5lp3UePamuMKGKAiBAHwqmgRv3Fo52tf4WQ=";
+      sha256 = "sha256-3E8b2icocJtCQ3fM/xoq4TcANbNGoAnWXXprn6jRQnQ=";
     });
   };
   tailscale-systray = {
