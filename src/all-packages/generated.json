@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "1f7223729166aaafc6babfb1a398c81e5c176f8d",
-            "sha256": "sha256-LqoPn2vxEHzHrD/uT0vD6QXHaCOdoz17FnljaGOjj7o=",
+            "rev": "5530cf6e7939365ef6197a50c59bed20a64e3e11",
+            "sha256": "sha256-Lm9054CdFfOvHTLTtktSuOFri3k5wuEXb2LDDg44tb8=",
             "type": "github"
         },
-        "version": "1f7223729166aaafc6babfb1a398c81e5c176f8d"
+        "version": "5530cf6e7939365ef6197a50c59bed20a64e3e11"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "29dec965182973fd27d9d4d27684568203a8fd1f",
-            "sha256": "sha256-BW67pekXgXIb2u0GDLg0fRCSIlAiHySv2KaJ1QJcuQA=",
+            "rev": "a8d8b7ac420ca62ac1f82c209ccd99eb99e13137",
+            "sha256": "sha256-jDNtGVfjSZNSl54IkoXfk/3AotUheBzgivtDpORYIXA=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "29dec965182973fd27d9d4d27684568203a8fd1f"
+        "version": "a8d8b7ac420ca62ac1f82c209ccd99eb99e13137"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "92fa0313d061313623dd42dbcbdbe44e0dd89e9e",
-            "sha256": "sha256-Uv+RoGUwg4oyGyWp/Rf6k48bMPwJ78QhKp2/AzwEJYc=",
+            "rev": "063eeefdca01ac110a8ae0e76e90c70e6eb6d1fe",
+            "sha256": "sha256-kQie2aANTmojPS9NAXe5eI5PWT6A2oF+OAc0mje578M=",
             "type": "github"
         },
-        "version": "92fa0313d061313623dd42dbcbdbe44e0dd89e9e"
+        "version": "063eeefdca01ac110a8ae0e76e90c70e6eb6d1fe"
     },
     "tailscale-systray": {
         "cargoLocks": null,
