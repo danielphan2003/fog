@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-7b939a88f03bdd1dea4b64134c5532a80b5dc382/Cargo.lock",
+                "./rustdesk-8b202370962399df414bc8809249bfcb6da96504/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "7b939a88f03bdd1dea4b64134c5532a80b5dc382",
-            "sha256": "sha256-1XMDSuNEO+zOEJ3D37gFEcIBTYF1sjeLA35HcIhuhiA=",
+            "rev": "8b202370962399df414bc8809249bfcb6da96504",
+            "sha256": "sha256-1eNEZJWffzwa+eaXCQfydyl0Be3zm8v2HVY79+/BoBk=",
             "type": "github"
         },
-        "version": "7b939a88f03bdd1dea4b64134c5532a80b5dc382"
+        "version": "8b202370962399df414bc8809249bfcb6da96504"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1794,12 +1794,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "79ecdbec7b2af3141fbc34a926c70c37ecd77787",
-            "sha256": "sha256-/3YKFadUMDzsDzZvzMF7tVAZAeZ47XQD09TzYCFpev0=",
+            "rev": "29dec965182973fd27d9d4d27684568203a8fd1f",
+            "sha256": "sha256-BW67pekXgXIb2u0GDLg0fRCSIlAiHySv2KaJ1QJcuQA=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "79ecdbec7b2af3141fbc34a926c70c37ecd77787"
+        "version": "29dec965182973fd27d9d4d27684568203a8fd1f"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "2847dd2aef3ad05c1871b0b72ee7d1dca3f5dcbe",
-            "sha256": "sha256-qF6M28U9rGl6IpDv4VY/PZI1Ipy4tDSZVJSwEZSeT8I=",
+            "rev": "f52a6d1b8cf45e55f1d19303354b6f60eb7d151f",
+            "sha256": "sha256-Yoc5ps0AoFN+gDSpgFmo9zQ6BfbeLwyPPDzfPbxUfpI=",
             "type": "github"
         },
-        "version": "2847dd2aef3ad05c1871b0b72ee7d1dca3f5dcbe"
+        "version": "f52a6d1b8cf45e55f1d19303354b6f60eb7d151f"
     },
     "tailscale-systray": {
         "cargoLocks": null,
