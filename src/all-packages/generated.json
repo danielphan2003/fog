@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xx34i+WiaLynPHYvfdqck3deA1j1mn8GWHYMcfkZq2c=",
+            "sha256": "sha256-NcY8dvmLizQxepNsCLF7FmnjZUkXMXKlmj8slUYwFbA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.111.3/revanced-patches-2.111.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.112.0/revanced-patches-2.112.0.jar"
         },
-        "version": "2.111.3"
+        "version": "2.112.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "f52a6d1b8cf45e55f1d19303354b6f60eb7d151f",
-            "sha256": "sha256-Yoc5ps0AoFN+gDSpgFmo9zQ6BfbeLwyPPDzfPbxUfpI=",
+            "rev": "92fa0313d061313623dd42dbcbdbe44e0dd89e9e",
+            "sha256": "sha256-Uv+RoGUwg4oyGyWp/Rf6k48bMPwJ78QhKp2/AzwEJYc=",
             "type": "github"
         },
-        "version": "f52a6d1b8cf45e55f1d19303354b6f60eb7d151f"
+        "version": "92fa0313d061313623dd42dbcbdbe44e0dd89e9e"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2242,11 +2242,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "7545faad5b524be41931a47999a621a7462222ca",
-            "sha256": "sha256-2FJyI0i67wByaDiDvkECVpQbVUihMseB6qDJ/otvsIc=",
+            "rev": "a2fed1a987a975f85924009cbd8a1b7728e223e4",
+            "sha256": "sha256-P5ZyayfMj17U37xpcBMrZ6JbMug8P/ubPG4NYZ/SEUY=",
             "type": "github"
         },
-        "version": "7545faad5b524be41931a47999a621a7462222ca"
+        "version": "a2fed1a987a975f85924009cbd8a1b7728e223e4"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
