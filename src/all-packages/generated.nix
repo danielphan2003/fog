@@ -476,13 +476,13 @@
   };
   godu = {
     pname = "godu";
-    version = "86fcdd5978b17f884013413b431cef9163f8ddba";
+    version = "fcc4ddea7ba6d20d944931d4c5c07af1757d7422";
     src = fetchFromGitHub ({
       owner = "viktomas";
       repo = "godu";
-      rev = "86fcdd5978b17f884013413b431cef9163f8ddba";
+      rev = "fcc4ddea7ba6d20d944931d4c5c07af1757d7422";
       fetchSubmodules = false;
-      sha256 = "sha256-yPipUJiCaVQ2unQE9j1eygdGltybwfFXYimy4k1BuMU=";
+      sha256 = "sha256-fJeSUAuNELZZ1DcybNsYd2ZX93VYWsLum5tHp68ZVlo=";
     });
   };
   guiscrcpy = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c03e4c36b0796e5ab49768e28183a4aecb257bb5";
+    version = "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c03e4c36b0796e5ab49768e28183a4aecb257bb5";
+      rev = "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4";
       fetchSubmodules = false;
-      sha256 = "sha256-T6+vLjaU34xIb+Fc3sL0YrqHX/hBSndn327b1IlG6Xo=";
+      sha256 = "sha256-qAXy1zuvvfc4rJ9DalaBvmNa1LaTBUOriIhxWIQMjAE=";
     });
   };
   ibus = {
