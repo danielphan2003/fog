@@ -242,16 +242,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "781db4495983eec151cc612b80b737e0cefc0212";
+    version = "552f81774ea690566a03e5d296e0bd82be35b475";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "781db4495983eec151cc612b80b737e0cefc0212";
+      rev = "552f81774ea690566a03e5d296e0bd82be35b475";
       fetchSubmodules = true;
-      sha256 = "sha256-hGF4rNxo4f+d1RCth2LiZfF8mAEOXBosEbJ9iG2E5g8=";
+      sha256 = "sha256-yZXU87hcXTkOtEfWoA+VQY8obEtVIH8AwDl/UkX90HE=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-781db4495983eec151cc612b80b737e0cefc0212/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-552f81774ea690566a03e5d296e0bd82be35b475/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3377fd55ab8d44e5fa4f68f31d203358ffaca165";
+    version = "7275b826147519626771dec94ed0bc3dd538b3eb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3377fd55ab8d44e5fa4f68f31d203358ffaca165";
+      rev = "7275b826147519626771dec94ed0bc3dd538b3eb";
       fetchSubmodules = false;
-      sha256 = "sha256-3viznycbnRRZkBvRpjjcYF6d0Ar6U0pzhJRXxuLcJjY=";
+      sha256 = "sha256-0k67NDhSV6iBfEyfiNZXS7qn9fURqix0Z51/v6EXMzo=";
     });
   };
   revanced-cli = {
@@ -945,18 +945,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.73.0";
+    version = "0.74.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.73.0/app-release-unsigned.apk";
-      sha256 = "sha256-nLH/6UPkiK07RsdnUqwfBjgHXsMOHdVbLvnMnmgRiN8=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.74.0/app-release-unsigned.apk";
+      sha256 = "sha256-rxSLXW9iBt2hi91cVTk6LdOe45iZdgT3/Gmd8wgGlw4=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.113.0";
+    version = "2.114.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.113.0/revanced-patches-2.113.0.jar";
-      sha256 = "sha256-cxrJ9nVCwY5AtmCjJWhZgFmv5t6ZAJ5NzLzqpfY4zyE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.114.0/revanced-patches-2.114.0.jar";
+      sha256 = "sha256-61UM9iAaJc6WfJ9rYgfRomqw7ows75Ea2HJzZYtZnBI=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8b202370962399df414bc8809249bfcb6da96504";
+    version = "2952f151a006c51bf7120f7769c80b8813ead1ed";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8b202370962399df414bc8809249bfcb6da96504";
+      rev = "2952f151a006c51bf7120f7769c80b8813ead1ed";
       fetchSubmodules = false;
-      sha256 = "sha256-1eNEZJWffzwa+eaXCQfydyl0Be3zm8v2HVY79+/BoBk=";
+      sha256 = "sha256-hLYEbWjM5j/s3Fz1i5x5nP4QNT5pN9zL5z8/NeRzg54=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8b202370962399df414bc8809249bfcb6da96504/Cargo.lock;
+      lockFile = ./rustdesk-2952f151a006c51bf7120f7769c80b8813ead1ed/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
