@@ -937,18 +937,18 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.15.1";
+    version = "2.16.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.15.1/revanced-cli-2.15.1-all.jar";
-      sha256 = "sha256-C9OehWdujfuS45eykTANXWd8lEIMUbkKHT6ozZLSHb0=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.0/revanced-cli-2.16.0-all.jar";
+      sha256 = "sha256-ZY+4Tsou+pri2csSIvZQtyLdV/RJyTcYZVJz9AsddtI=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.72.0";
+    version = "0.73.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.72.0/app-release-unsigned.apk";
-      sha256 = "sha256-Ti06t1KuKR1w3v7KvniQ+TEcLhiGPi4CNLm0+o3jV6Q=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.73.0/app-release-unsigned.apk";
+      sha256 = "sha256-nLH/6UPkiK07RsdnUqwfBjgHXsMOHdVbLvnMnmgRiN8=";
     };
   };
   revanced-patches-jar = {

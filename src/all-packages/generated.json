@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C9OehWdujfuS45eykTANXWd8lEIMUbkKHT6ozZLSHb0=",
+            "sha256": "sha256-ZY+4Tsou+pri2csSIvZQtyLdV/RJyTcYZVJz9AsddtI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.15.1/revanced-cli-2.15.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.16.0/revanced-cli-2.16.0-all.jar"
         },
-        "version": "2.15.1"
+        "version": "2.16.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ti06t1KuKR1w3v7KvniQ+TEcLhiGPi4CNLm0+o3jV6Q=",
+            "sha256": "sha256-nLH/6UPkiK07RsdnUqwfBjgHXsMOHdVbLvnMnmgRiN8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.72.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.73.0/app-release-unsigned.apk"
         },
-        "version": "0.72.0"
+        "version": "0.73.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
