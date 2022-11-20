@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "eb1f6c83cebced4da65731cf33e81690025f8843";
+    version = "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "eb1f6c83cebced4da65731cf33e81690025f8843";
+      rev = "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-S8I4yc244wN9cLwUcyNEPl+c9dtPEw6yudRDA5KXqiU=";
+      sha256 = "sha256-8br51KNbt3E4O8E6CWyA1R2kkGzqWQnPJ3eXCQsod0I=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-eb1f6c83cebced4da65731cf33e81690025f8843/Cargo.lock;
+      lockFile = ./asusctl-17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d1e1c025b0b37521cb10bfb5a83af6f5e3682550";
+    version = "bdd8ce66920b4aaded3b08b46fa5890d9ba192ca";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d1e1c025b0b37521cb10bfb5a83af6f5e3682550";
+      rev = "bdd8ce66920b4aaded3b08b46fa5890d9ba192ca";
       fetchSubmodules = false;
-      sha256 = "sha256-zBiidBCwNNkGavw+16zQeO8+sJfKiDcuMhgyVKSBsRk=";
+      sha256 = "sha256-qTl7WHWst0QmJoF7I85YT6mfFN8c1vOCAx1atZ6hCC0=";
     });
   };
   tailscale-systray = {
