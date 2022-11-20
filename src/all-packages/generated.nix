@@ -830,14 +830,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "ed7b0273f5f50fa8cd5a8d38945bebdb8a8cf8a5";
+    version = "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "ed7b0273f5f50fa8cd5a8d38945bebdb8a8cf8a5";
+      rev = "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-v+p4d1mYopS3uX457jDC/v3GNTixQdBIPcA7IBgAJQQ=";
+      sha256 = "sha256-NyAYfGdyDrcIZftQ81qN7cORBNjoqVrRkMXu8H/n7b8=";
     };
   };
   pure = {
@@ -1003,16 +1003,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "fa2b42db7643a779398bdffe605e313c8e1085e3";
+    version = "011b31618372be19674ee8649e0d3dd0cb75c57d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "fa2b42db7643a779398bdffe605e313c8e1085e3";
+      rev = "011b31618372be19674ee8649e0d3dd0cb75c57d";
       fetchSubmodules = false;
-      sha256 = "sha256-KQhKHeL9jwhbEuz3IILFuIXB/Stt9gh4EJMdGMOh2Lw=";
+      sha256 = "sha256-du0bfxCyWwdYzCt3FUlov4tzQ5Ul1+dkpXYG1YR+kSE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-fa2b42db7643a779398bdffe605e313c8e1085e3/Cargo.lock;
+      lockFile = ./rustdesk-server-011b31618372be19674ee8649e0d3dd0cb75c57d/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
