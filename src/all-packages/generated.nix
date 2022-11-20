@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4";
+    version = "11e841580fdd630e8cfd32c2a7d89f71999cb67a";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4";
+      rev = "11e841580fdd630e8cfd32c2a7d89f71999cb67a";
       fetchSubmodules = false;
-      sha256 = "sha256-qAXy1zuvvfc4rJ9DalaBvmNa1LaTBUOriIhxWIQMjAE=";
+      sha256 = "sha256-ieFtyVWTjhPTblmYOAqIW1BC9iwmc2LcMNOcetYTQr4=";
     });
   };
   ibus = {
@@ -822,22 +822,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.49.0";
+    version = "1.50.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.49.0.tar.gz";
-      sha256 = "sha256-h1U3QoABGdDGxpIYIaihXTdj9CgqT3coAJApzrM+Eh4=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.50.0.tar.gz";
+      sha256 = "sha256-UtXUq+B3EMHS3CTqfzbyQK0gHgrFwcwQ6zTzw/EwIuA=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9";
+    version = "757d2a0bff6ddfc4c2936a5884121ecaa2186fc5";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9";
+      rev = "757d2a0bff6ddfc4c2936a5884121ecaa2186fc5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NyAYfGdyDrcIZftQ81qN7cORBNjoqVrRkMXu8H/n7b8=";
+      sha256 = "sha256-wuNsmc7FBk05VgH+E4uwMJeZRTlqAUe6kLvHqCLAwEY=";
     };
   };
   pure = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7275b826147519626771dec94ed0bc3dd538b3eb";
+    version = "43b6d5974082db1c6b44fc525730b36f4149a24c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7275b826147519626771dec94ed0bc3dd538b3eb";
+      rev = "43b6d5974082db1c6b44fc525730b36f4149a24c";
       fetchSubmodules = false;
-      sha256 = "sha256-0k67NDhSV6iBfEyfiNZXS7qn9fURqix0Z51/v6EXMzo=";
+      sha256 = "sha256-UMkW5cY1yqF2bstadHQ7bKEGEHtp1UC1r3K3bwAp1CQ=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.114.0";
+    version = "2.114.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.114.0/revanced-patches-2.114.0.jar";
-      sha256 = "sha256-61UM9iAaJc6WfJ9rYgfRomqw7ows75Ea2HJzZYtZnBI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.114.1/revanced-patches-2.114.1.jar";
+      sha256 = "sha256-lOyqIfoGT7EORAfo31wh4rJLkgqVY6w+xFHD36gBHv8=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "2952f151a006c51bf7120f7769c80b8813ead1ed";
+    version = "e02dd2940c2663c52f1bf93018a6a2ccbf0deab6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "2952f151a006c51bf7120f7769c80b8813ead1ed";
+      rev = "e02dd2940c2663c52f1bf93018a6a2ccbf0deab6";
       fetchSubmodules = false;
-      sha256 = "sha256-hLYEbWjM5j/s3Fz1i5x5nP4QNT5pN9zL5z8/NeRzg54=";
+      sha256 = "sha256-cu1FPlKkNlhpXwC0O3bQK3lv/7Rfz73+qGuMY1lHiRA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-2952f151a006c51bf7120f7769c80b8813ead1ed/Cargo.lock;
+      lockFile = ./rustdesk-e02dd2940c2663c52f1bf93018a6a2ccbf0deab6/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

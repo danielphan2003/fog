@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4",
-            "sha256": "sha256-qAXy1zuvvfc4rJ9DalaBvmNa1LaTBUOriIhxWIQMjAE=",
+            "rev": "11e841580fdd630e8cfd32c2a7d89f71999cb67a",
+            "sha256": "sha256-ieFtyVWTjhPTblmYOAqIW1BC9iwmc2LcMNOcetYTQr4=",
             "type": "github"
         },
-        "version": "f8b91383835bd2cfc03ad5e2337f3a25332f7cb4"
+        "version": "11e841580fdd630e8cfd32c2a7d89f71999cb67a"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1366,11 +1366,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-h1U3QoABGdDGxpIYIaihXTdj9CgqT3coAJApzrM+Eh4=",
+            "sha256": "sha256-UtXUq+B3EMHS3CTqfzbyQK0gHgrFwcwQ6zTzw/EwIuA=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.49.0.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.50.0.tar.gz"
         },
-        "version": "1.49.0"
+        "version": "1.50.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
@@ -1383,12 +1383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9",
-            "sha256": "sha256-NyAYfGdyDrcIZftQ81qN7cORBNjoqVrRkMXu8H/n7b8=",
+            "rev": "757d2a0bff6ddfc4c2936a5884121ecaa2186fc5",
+            "sha256": "sha256-wuNsmc7FBk05VgH+E4uwMJeZRTlqAUe6kLvHqCLAwEY=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "0f6c6238f9ab4b3eb01e8694309787af5b1c95e9"
+        "version": "757d2a0bff6ddfc4c2936a5884121ecaa2186fc5"
     },
     "pure": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "7275b826147519626771dec94ed0bc3dd538b3eb",
-            "sha256": "sha256-0k67NDhSV6iBfEyfiNZXS7qn9fURqix0Z51/v6EXMzo=",
+            "rev": "43b6d5974082db1c6b44fc525730b36f4149a24c",
+            "sha256": "sha256-UMkW5cY1yqF2bstadHQ7bKEGEHtp1UC1r3K3bwAp1CQ=",
             "type": "github"
         },
-        "version": "7275b826147519626771dec94ed0bc3dd538b3eb"
+        "version": "43b6d5974082db1c6b44fc525730b36f4149a24c"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-61UM9iAaJc6WfJ9rYgfRomqw7ows75Ea2HJzZYtZnBI=",
+            "sha256": "sha256-lOyqIfoGT7EORAfo31wh4rJLkgqVY6w+xFHD36gBHv8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.114.0/revanced-patches-2.114.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.114.1/revanced-patches-2.114.1.jar"
         },
-        "version": "2.114.0"
+        "version": "2.114.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-2952f151a006c51bf7120f7769c80b8813ead1ed/Cargo.lock",
+                "./rustdesk-e02dd2940c2663c52f1bf93018a6a2ccbf0deab6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "2952f151a006c51bf7120f7769c80b8813ead1ed",
-            "sha256": "sha256-hLYEbWjM5j/s3Fz1i5x5nP4QNT5pN9zL5z8/NeRzg54=",
+            "rev": "e02dd2940c2663c52f1bf93018a6a2ccbf0deab6",
+            "sha256": "sha256-cu1FPlKkNlhpXwC0O3bQK3lv/7Rfz73+qGuMY1lHiRA=",
             "type": "github"
         },
-        "version": "2952f151a006c51bf7120f7769c80b8813ead1ed"
+        "version": "e02dd2940c2663c52f1bf93018a6a2ccbf0deab6"
     },
     "rustdesk-server": {
         "cargoLocks": {
