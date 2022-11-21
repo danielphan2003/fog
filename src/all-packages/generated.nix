@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d504c1e5ab84bcbf7648350e867ccdda9b38b9c4";
+    version = "88874fcfe2f9e57171eb0641b5336ad09116ef55";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d504c1e5ab84bcbf7648350e867ccdda9b38b9c4";
+      rev = "88874fcfe2f9e57171eb0641b5336ad09116ef55";
       fetchSubmodules = false;
-      sha256 = "sha256-4xBCexof83T4eFR2EP6HGfpHGLPJf3x6hsWt8LlhIHU=";
+      sha256 = "sha256-WM/hvLuoL+CDNB5IQT4BWM7cbvMHzsMbbCvidpXy3Y4=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1c9d3ad0bfcffb0327f558387973fa4767d2392f";
+    version = "e3f5d324010b5f0dcec3cfcaab2b8d1d4640398d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1c9d3ad0bfcffb0327f558387973fa4767d2392f";
+      rev = "e3f5d324010b5f0dcec3cfcaab2b8d1d4640398d";
       fetchSubmodules = false;
-      sha256 = "sha256-90+piH+zwWQAIGugkiwq2SdUInHUTsgTN+BQXQwWUug=";
+      sha256 = "sha256-SRBCO1LzVSaEmdkXA1EAxsVk5he13zwerKBrJXjneac=";
     });
   };
   revanced-cli = {
@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.74.1";
+    version = "0.75.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.74.1/app-release-unsigned.apk";
-      sha256 = "sha256-QOS/0/xtWtczAmpEgCXTBU4F+f1TqjAxbkcmWEmnUN4=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.75.0/app-release-unsigned.apk";
+      sha256 = "sha256-Vuf6icoJnZT6gxkC0A/iANNS5fOY/OZVD6VWsdTbbHM=";
     };
   };
   revanced-patches-jar = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "bdd8ce66920b4aaded3b08b46fa5890d9ba192ca";
+    version = "41e1d336cc3e2c017322551ad0325f04b5d64b98";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "bdd8ce66920b4aaded3b08b46fa5890d9ba192ca";
+      rev = "41e1d336cc3e2c017322551ad0325f04b5d64b98";
       fetchSubmodules = false;
-      sha256 = "sha256-qTl7WHWst0QmJoF7I85YT6mfFN8c1vOCAx1atZ6hCC0=";
+      sha256 = "sha256-oMkNZDIyS+0nDQjUuU71CY5ojGr7AgGbodp1bMkydT4=";
     });
   };
   tailscale-systray = {
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "61d457d60fe466a8f2edb0f617a50910fddedd6e";
+    version = "a11d894d8ce6f31b8c469f0628743e88116eb919";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "61d457d60fe466a8f2edb0f617a50910fddedd6e";
+      rev = "a11d894d8ce6f31b8c469f0628743e88116eb919";
       fetchSubmodules = false;
-      sha256 = "sha256-Uf1cXJi5AHm62nIsZF79gyV/ohJiZLOas+XnwpW+cEw=";
+      sha256 = "sha256-AoYrjtgQKYbKFMyZEWHtJeSRtRs0kHEylbGwgZ1YeIE=";
     });
   };
   wgcf = {
