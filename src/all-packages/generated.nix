@@ -267,17 +267,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "cf993160828fe3041e2a179b24812cc105915630";
+    version = "396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "cf993160828fe3041e2a179b24812cc105915630";
+      rev = "396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7q306WF2Snd/6h4k4UGH/tFkmKnGZFlMG6mwi9yutC8=";
+      sha256 = "sha256-qof/apoiWXqhoaPeKCBpoNRjasqMvCLoByt0Ib23O7Q=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-cf993160828fe3041e2a179b24812cc105915630/Cargo.lock;
+      lockFile = ./conduit-396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ohf8AJRyZx6J9L9kyL1c1khZtbNi+Ag+JfpHNINWoA8=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6822";
+    version = "1.0.6823";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6822.tar.bz2";
-      sha256 = "sha256-PxQwnFVRGXVoKwgFrtFOVUJUPwWfcBt5laVSGMPqvqY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6823.tar.bz2";
+      sha256 = "sha256-sNc9NPofSnYrOkFtG4DyRAhhNohsoapx+pYqg22neCo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6822";
+    version = "1.0.6823";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6822-1_all.deb";
-      sha256 = "sha256-7lUEB1sTeoApzFxvzAZ2RBDI63/oZ5MC4Z1twuqtP6I=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6823-1_all.deb";
+      sha256 = "sha256-fGvtfJ1+BHvVCkswp24Xrn0+3rpek7FCxww95xojE58=";
     };
   };
   jitsi-videobridge2 = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8335e347f09ce5fee5adfb5701f47b83d6041e5f";
+    version = "1c9d3ad0bfcffb0327f558387973fa4767d2392f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8335e347f09ce5fee5adfb5701f47b83d6041e5f";
+      rev = "1c9d3ad0bfcffb0327f558387973fa4767d2392f";
       fetchSubmodules = false;
-      sha256 = "sha256-4h72EzmhKExYJfV4X5DBVfzeInIQKANOpq4THxonVzY=";
+      sha256 = "sha256-90+piH+zwWQAIGugkiwq2SdUInHUTsgTN+BQXQwWUug=";
     });
   };
   revanced-cli = {
