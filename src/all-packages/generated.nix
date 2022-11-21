@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ad185f4a95a7ef87d03b7bf0eccf9a0e2debcc64";
+    version = "4be055fa58054658c2aff03421a0ddca000e1922";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ad185f4a95a7ef87d03b7bf0eccf9a0e2debcc64";
+      rev = "4be055fa58054658c2aff03421a0ddca000e1922";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DA9vhSBl4obRmjkNBVq78NYadwiuzSyOTI7XH5/4Pk8=";
+      sha256 = "sha256-PHwcSPhuqswsKBP1oXJgMN8iAmJwJOUXZG/kNf9OnxU=";
     };
   };
   flyingfox = {
@@ -566,10 +566,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6821";
+    version = "1.0.6822";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6821-1_all.deb";
-      sha256 = "sha256-DmsZVMpSBWd+COAx21Z8BG77+2ab5tF6gQsI62l7qMQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6822-1_all.deb";
+      sha256 = "sha256-7lUEB1sTeoApzFxvzAZ2RBDI63/oZ5MC4Z1twuqtP6I=";
     };
   };
   jitsi-videobridge2 = {
@@ -1124,10 +1124,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.84.716.gc5f8b819";
+    version = "1.1.99.871.g887466fc";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_60.snap";
-      sha256 = "sha256-ho3WjGNjmHsERzC3FLgliuVSQWK2F5ec0ddQSfq6oyI=";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_61.snap";
+      sha256 = "sha256-bSdTqqegGbSaskJyj2gwxyjaz7tFF2T6U7dNasT0eYQ=";
     };
   };
   spotify-1_1_83_954_gd226dfe8 = {
