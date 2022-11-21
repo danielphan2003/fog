@@ -699,10 +699,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.43.1";
+    version = "0.44.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.43.1.tar.gz";
-      sha256 = "sha256-5kEBjAQjGGG9moZ4S5CMqryrBv211F/q00Vv3buJ3x0=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.44.0.tar.gz";
+      sha256 = "sha256-hG4NeJbd8p0CAC42B/xaguxTM6o59+WK4shoq/pyReY=";
     };
   };
   nix-zsh-completions = {
