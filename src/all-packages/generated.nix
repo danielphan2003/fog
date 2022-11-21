@@ -558,10 +558,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6821";
+    version = "1.0.6822";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6821.tar.bz2";
-      sha256 = "sha256-4pUejCUtoZnArzH7jy5Ih+CIpaKXz6fnQmlkoBs4zJ8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6822.tar.bz2";
+      sha256 = "sha256-PxQwnFVRGXVoKwgFrtFOVUJUPwWfcBt5laVSGMPqvqY=";
     };
   };
   jitsi-meet-prosody = {
@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "ec02fc619c3e88633ad70a77f7aeadd5130b017c";
+    version = "a9db7ab41eeaa8e1040550d23981a6edb0f71b61";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "ec02fc619c3e88633ad70a77f7aeadd5130b017c";
+      rev = "a9db7ab41eeaa8e1040550d23981a6edb0f71b61";
       fetchSubmodules = false;
-      sha256 = "sha256-2tiwHGaDe13U0U+d81guXjVvBFD0KT+/i4C5PLEMHVk=";
+      sha256 = "sha256-pWD6xlX+ytPVlrHID1muTGrIhcISNr4Z9lNY/7liZf8=";
     });
   };
   playit-agent = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6a098d37ac8b8725e50b94e6c9e74dfe7308f116";
+    version = "10a74657c35a7144b709208609b46e3b4ecee62d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6a098d37ac8b8725e50b94e6c9e74dfe7308f116";
+      rev = "10a74657c35a7144b709208609b46e3b4ecee62d";
       fetchSubmodules = false;
-      sha256 = "sha256-2Acj2K16U7g6E53hwCmI8MPGXQhRZWCF2GROVAzE4c4=";
+      sha256 = "sha256-G0aRPNAH6uYxB/RoIxP6x+ocU7nwbE+XIeKO5KZJ60o=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.116.0";
+    version = "2.117.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.116.0/revanced-patches-2.116.0.jar";
-      sha256 = "sha256-fo+qCB1jJX7UaV1+7IzElPBszlh+aWz1RDSg35k8TP4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.117.0/revanced-patches-2.117.0.jar";
+      sha256 = "sha256-pUa7N18ZUfqbOm8/sZQjSjKnyEw+4LRm1FsepMRmR3k=";
     };
   };
   rofi-wayland = {
