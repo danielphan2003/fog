@@ -403,13 +403,13 @@
   };
   firefox-sidebar = {
     pname = "firefox-sidebar";
-    version = "20d4029dceb1eadec2887cd5f0956476b512b258";
+    version = "a69205851f9edafe76e6933b562f43e5a0a82151";
     src = fetchFromGitHub ({
       owner = "drannex42";
       repo = "FirefoxSidebar";
-      rev = "20d4029dceb1eadec2887cd5f0956476b512b258";
+      rev = "a69205851f9edafe76e6933b562f43e5a0a82151";
       fetchSubmodules = false;
-      sha256 = "sha256-ARIqWBzrJqAU528kH5wIotVipWpiyG/1JeXJFb31gSM=";
+      sha256 = "sha256-U7nT9jUBXIdTaFMAwsCEccAJ26qipGtWYp9bR0G4lX0=";
     });
   };
   flameshot = {
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "4be055fa58054658c2aff03421a0ddca000e1922";
+    version = "0c38f6a20574ef031ff60b18270d38c202d054bf";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "4be055fa58054658c2aff03421a0ddca000e1922";
+      rev = "0c38f6a20574ef031ff60b18270d38c202d054bf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PHwcSPhuqswsKBP1oXJgMN8iAmJwJOUXZG/kNf9OnxU=";
+      sha256 = "sha256-sSbuB8KTvfnYHyKnLtEPab5qJzb7KFKwIhTNE/n4PhY=";
     };
   };
   flyingfox = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-956";
+    version = "1.0-957";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-956-1_all.deb";
-      sha256 = "sha256-OLD7TNuo8VBkTTpUjGKf7LEaiCcwO1bjWAe4h272M9k=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-957-1_all.deb";
+      sha256 = "sha256-hL9Y7Q0f8MSPUzCD1UATiUMhxzsQjEKdvSbaBA8YtkE=";
     };
   };
   jitsi-meet = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "10a74657c35a7144b709208609b46e3b4ecee62d";
+    version = "f21b878ed6550e3cb5c8a169de469aa475a62bea";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "10a74657c35a7144b709208609b46e3b4ecee62d";
+      rev = "f21b878ed6550e3cb5c8a169de469aa475a62bea";
       fetchSubmodules = false;
-      sha256 = "sha256-G0aRPNAH6uYxB/RoIxP6x+ocU7nwbE+XIeKO5KZJ60o=";
+      sha256 = "sha256-Oz2RVuCjsZuW2opv4aHQZ65LOOdT+ciNWv895vHVFAA=";
     });
   };
   revanced-cli = {
