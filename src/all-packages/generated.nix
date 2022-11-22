@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "cc0f05388f6c721c358e89372caac604f84fd0d9";
+    version = "5eaa8196e2bb77a8f126781c6f290af93d091070";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "cc0f05388f6c721c358e89372caac604f84fd0d9";
+      rev = "5eaa8196e2bb77a8f126781c6f290af93d091070";
       fetchSubmodules = false;
-      sha256 = "sha256-TZKoArzALuCNWNBq3un091eR3uRLAi59z/AZ64Xg3BQ=";
+      sha256 = "sha256-/IjT5L6b+H0KmlMdBm9UOHQPk8nCAuLOtdKOhYoudrk=";
     });
   };
   asusctl = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "0f7da5c7dc0ae30f02320ede18d20473ad7ca981";
+    version = "b45b94877668666746a5a90176620e6bb6c686c8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "0f7da5c7dc0ae30f02320ede18d20473ad7ca981";
+      rev = "b45b94877668666746a5a90176620e6bb6c686c8";
       fetchSubmodules = false;
-      sha256 = "sha256-c37TXMI9HdbQya3JuRwjIHGdosy1u3W9HiIYtXl/i/A=";
+      sha256 = "sha256-yXdn7NiiAC7to6Hx5HL0pmvL/dFD01F4gZODFcC+gHE=";
     });
   };
   tailscale-systray = {
