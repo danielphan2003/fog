@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1a87e1107b6d55782ce2e9bd9c47c08f9be7ebba";
+    version = "3e661ea42e07357e7e5acaf509514f4691cf15b7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1a87e1107b6d55782ce2e9bd9c47c08f9be7ebba";
+      rev = "3e661ea42e07357e7e5acaf509514f4691cf15b7";
       fetchSubmodules = false;
-      sha256 = "sha256-pEzR5rWWT9eoExhfCvNLl5ylNh0NspALErhm5KEGX3E=";
+      sha256 = "sha256-FnEmLOCN2Xqa0tCo/CD7j6kuFx5oeMUjOSKU5pETmpg=";
     });
   };
   revanced-cli = {
@@ -1186,13 +1186,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "01bf3988a6292563163163968a9eb71da6fd5f68";
+    version = "c3ab09150bb9d64d43b8733ff0ea3a6d116e1398";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "01bf3988a6292563163163968a9eb71da6fd5f68";
+      rev = "c3ab09150bb9d64d43b8733ff0ea3a6d116e1398";
       fetchSubmodules = false;
-      sha256 = "sha256-AkXIqfha2PidvpmKom4DYkyByvj6K4szstCVCULGXlU=";
+      sha256 = "sha256-ShWbbwuXQ9pTTuPhXof+v+tKXs7FLs+zMLKpLDYrjKE=";
     });
   };
   swaylock-effects = {
