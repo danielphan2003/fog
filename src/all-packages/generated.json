@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18/Cargo.lock",
+                "./asusctl-5728a9af6222a24535f67489417bc557aaa87505/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=",
                     "notify-rust-4.5.11": "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=",
@@ -175,12 +175,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18",
-            "sha256": "sha256-8br51KNbt3E4O8E6CWyA1R2kkGzqWQnPJ3eXCQsod0I=",
+            "rev": "5728a9af6222a24535f67489417bc557aaa87505",
+            "sha256": "sha256-Diso1n2IE8BXGZmrByfnCqB8/9GIJp0EmW1wNQ1858I=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18"
+        "version": "5728a9af6222a24535f67489417bc557aaa87505"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1866,11 +1866,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bSdTqqegGbSaskJyj2gwxyjaz7tFF2T6U7dNasT0eYQ=",
+            "sha256": "sha256-a0aGti+OK2vRzNCexJAvg/jpwxHRtAfysjLKMvEZTlk=",
             "type": "url",
-            "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_61.snap"
+            "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_62.snap"
         },
-        "version": "1.1.99.871.g887466fc"
+        "version": "1.1.99.878.g1e4ccc6e"
     },
     "spotify-1_1_83_954_gd226dfe8": {
         "cargoLocks": null,

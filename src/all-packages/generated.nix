@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18";
+    version = "5728a9af6222a24535f67489417bc557aaa87505";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18";
+      rev = "5728a9af6222a24535f67489417bc557aaa87505";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8br51KNbt3E4O8E6CWyA1R2kkGzqWQnPJ3eXCQsod0I=";
+      sha256 = "sha256-Diso1n2IE8BXGZmrByfnCqB8/9GIJp0EmW1wNQ1858I=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-17a880b2c5d0d0cf97ad7ba18ff27b565aa6de18/Cargo.lock;
+      lockFile = ./asusctl-5728a9af6222a24535f67489417bc557aaa87505/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -1124,10 +1124,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.99.871.g887466fc";
+    version = "1.1.99.878.g1e4ccc6e";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_61.snap";
-      sha256 = "sha256-bSdTqqegGbSaskJyj2gwxyjaz7tFF2T6U7dNasT0eYQ=";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_62.snap";
+      sha256 = "sha256-a0aGti+OK2vRzNCexJAvg/jpwxHRtAfysjLKMvEZTlk=";
     };
   };
   spotify-1_1_83_954_gd226dfe8 = {
