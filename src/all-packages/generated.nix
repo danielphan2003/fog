@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "88874fcfe2f9e57171eb0641b5336ad09116ef55";
+    version = "95047fb08327c5a9c38e5daa46cc3241a1b69cbe";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "88874fcfe2f9e57171eb0641b5336ad09116ef55";
+      rev = "95047fb08327c5a9c38e5daa46cc3241a1b69cbe";
       fetchSubmodules = false;
-      sha256 = "sha256-WM/hvLuoL+CDNB5IQT4BWM7cbvMHzsMbbCvidpXy3Y4=";
+      sha256 = "sha256-eMUTXk5WZLm2Afc7MicBgN9rLdhKa1bf3i3ZcJWNhjI=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e3f5d324010b5f0dcec3cfcaab2b8d1d4640398d";
+    version = "1a87e1107b6d55782ce2e9bd9c47c08f9be7ebba";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e3f5d324010b5f0dcec3cfcaab2b8d1d4640398d";
+      rev = "1a87e1107b6d55782ce2e9bd9c47c08f9be7ebba";
       fetchSubmodules = false;
-      sha256 = "sha256-SRBCO1LzVSaEmdkXA1EAxsVk5he13zwerKBrJXjneac=";
+      sha256 = "sha256-pEzR5rWWT9eoExhfCvNLl5ylNh0NspALErhm5KEGX3E=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3162c92333a044bf88857ad364e339aac6cc8342";
+    version = "fc1fa2b6154f17872bb8826873af4adc035f74c3";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3162c92333a044bf88857ad364e339aac6cc8342";
+      rev = "fc1fa2b6154f17872bb8826873af4adc035f74c3";
       fetchSubmodules = false;
-      sha256 = "sha256-qRuNSz3BZiCuUADD65cG00jWwXUi2TRDFzksmVDuoRY=";
+      sha256 = "sha256-BDJYFZ1zKUWO35Gz/FAMQuLIpBL18LMb1+3BfWzoY4Q=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3162c92333a044bf88857ad364e339aac6cc8342/Cargo.lock;
+      lockFile = ./rustdesk-fc1fa2b6154f17872bb8826873af4adc035f74c3/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a0ef51f57049f228d1d4e0bf54815ba88c26575a";
+    version = "b190c1667b3d3480215dbc4c1a061255ac4263d1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a0ef51f57049f228d1d4e0bf54815ba88c26575a";
+      rev = "b190c1667b3d3480215dbc4c1a061255ac4263d1";
       fetchSubmodules = false;
-      sha256 = "sha256-PbDMhCubl7iSIsZLewR7z8lDBW8XDb96m4TNRThjEXU=";
+      sha256 = "sha256-+tb/+6FTgTOqSy3GadrNapYIPsJdWlxSfqwLn19bhZo=";
     });
   };
   tailscale-systray = {
