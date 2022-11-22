@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "aa0ae2cd3e02025fa76dc8a239b16dd12c54e868",
-            "sha256": "sha256-7+oCKoaJwmbC0oZg7AGjgH7kunbFoL07aK3G9Y/vDig=",
+            "rev": "57acf1421ba3a5deedbc0f94d70e944cb908f03b",
+            "sha256": "sha256-Z54A/r+IJYxQciIj9BS7dCtrDelGcE1irxW8/QOp3fw=",
             "type": "github"
         },
-        "version": "aa0ae2cd3e02025fa76dc8a239b16dd12c54e868"
+        "version": "57acf1421ba3a5deedbc0f94d70e944cb908f03b"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "d4f6efa1dfb7974c5ee9a99bc14aa4735a8220eb",
-            "sha256": "sha256-CIM4z46OEir1vQm6j/3gynCjk1rwDIf+OBjUUfKmdFI=",
+            "rev": "300aba61a6bdd51256f2a3d9453e5e459ed4cfc6",
+            "sha256": "sha256-igIUhU8Rv/1xmZmbskwfUXXjM2jp7dGjtkgcO5qPtB4=",
             "type": "github"
         },
-        "version": "d4f6efa1dfb7974c5ee9a99bc14aa4735a8220eb"
+        "version": "300aba61a6bdd51256f2a3d9453e5e459ed4cfc6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
