@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "7e1265af8a926451ed1075c81e4ba453c76de3e4";
+    version = "a1bda3c07b11c28405a49353fcbdb792d05a6715";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "7e1265af8a926451ed1075c81e4ba453c76de3e4";
+      rev = "a1bda3c07b11c28405a49353fcbdb792d05a6715";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Hhduuku+T1WGq0O06vY2mmyMF3c1hI1oJoddiDKGoys=";
+      sha256 = "sha256-4hjupjA46zsroamgGleBWElez6pADN+8lZ8T0jJdXjY=";
     };
   };
   flyingfox = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "9bbe6992e2a32716fb77effa0d928b3292ea5282";
+    version = "16e0319e2e1c6535947e0a41e1946e770a1f9426";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "9bbe6992e2a32716fb77effa0d928b3292ea5282";
+      rev = "16e0319e2e1c6535947e0a41e1946e770a1f9426";
       fetchSubmodules = false;
-      sha256 = "sha256-7CLQeqgyX5rddaB990bQi9DYYwzzwn8nakNa9JmmtwU=";
+      sha256 = "sha256-DaqGmkFWc79PtsZW8IyfPtcm60X0hm22LMbzqvoOOL0=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c26e86288d3d6e0639b3238ca5b653ba2a7815ee";
+    version = "167bc4e6a199f4a3358680d296156c22af95bccc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c26e86288d3d6e0639b3238ca5b653ba2a7815ee";
+      rev = "167bc4e6a199f4a3358680d296156c22af95bccc";
       fetchSubmodules = false;
-      sha256 = "sha256-WVXX3lU1OCZReh0EKlZ57JB508IC+WeFEhDLSiGNfSk=";
+      sha256 = "sha256-+COggOZqDkvvh6c3WOoJuZGi+ULWxVnw3vNe4DsXuo0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c26e86288d3d6e0639b3238ca5b653ba2a7815ee/Cargo.lock;
+      lockFile = ./rustdesk-167bc4e6a199f4a3358680d296156c22af95bccc/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";

@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7e1265af8a926451ed1075c81e4ba453c76de3e4",
-            "sha256": "sha256-Hhduuku+T1WGq0O06vY2mmyMF3c1hI1oJoddiDKGoys=",
+            "rev": "a1bda3c07b11c28405a49353fcbdb792d05a6715",
+            "sha256": "sha256-4hjupjA46zsroamgGleBWElez6pADN+8lZ8T0jJdXjY=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "7e1265af8a926451ed1075c81e4ba453c76de3e4"
+        "version": "a1bda3c07b11c28405a49353fcbdb792d05a6715"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "9bbe6992e2a32716fb77effa0d928b3292ea5282",
-            "sha256": "sha256-7CLQeqgyX5rddaB990bQi9DYYwzzwn8nakNa9JmmtwU=",
+            "rev": "16e0319e2e1c6535947e0a41e1946e770a1f9426",
+            "sha256": "sha256-DaqGmkFWc79PtsZW8IyfPtcm60X0hm22LMbzqvoOOL0=",
             "type": "github"
         },
-        "version": "9bbe6992e2a32716fb77effa0d928b3292ea5282"
+        "version": "16e0319e2e1c6535947e0a41e1946e770a1f9426"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c26e86288d3d6e0639b3238ca5b653ba2a7815ee/Cargo.lock",
+                "./rustdesk-167bc4e6a199f4a3358680d296156c22af95bccc/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c26e86288d3d6e0639b3238ca5b653ba2a7815ee",
-            "sha256": "sha256-WVXX3lU1OCZReh0EKlZ57JB508IC+WeFEhDLSiGNfSk=",
+            "rev": "167bc4e6a199f4a3358680d296156c22af95bccc",
+            "sha256": "sha256-+COggOZqDkvvh6c3WOoJuZGi+ULWxVnw3vNe4DsXuo0=",
             "type": "github"
         },
-        "version": "c26e86288d3d6e0639b3238ca5b653ba2a7815ee"
+        "version": "167bc4e6a199f4a3358680d296156c22af95bccc"
     },
     "rustdesk-server": {
         "cargoLocks": {
