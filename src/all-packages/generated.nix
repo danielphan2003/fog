@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "750eb76df305bb9aa77b6d7281eb9032ce4bf9fa";
+    version = "f6067816fb2bbd7dc9a00da6391cc6dcf5991035";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "750eb76df305bb9aa77b6d7281eb9032ce4bf9fa";
+      rev = "f6067816fb2bbd7dc9a00da6391cc6dcf5991035";
       fetchSubmodules = false;
-      sha256 = "sha256-KOOLhgq2VHxs+lBDJUkRjZjdNjXIgcY+lF8/Hdlfo8Q=";
+      sha256 = "sha256-WHkIEIEKtLqV8ujwy47rzmq+P6RLZm5TzBu8INj2Gp0=";
     });
   };
   ibus = {
@@ -1140,16 +1140,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "1a1997c98f20e648e268f3aa405004f33c78c3e5";
+    version = "c22b8194c5f660f1447d300bbf1b4917df882fde";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "1a1997c98f20e648e268f3aa405004f33c78c3e5";
+      rev = "c22b8194c5f660f1447d300bbf1b4917df882fde";
       fetchSubmodules = false;
-      sha256 = "sha256-bjXs/U6sEPzoy6pN9lkMwDbD3ZOAWEenzylLa2li1po=";
+      sha256 = "sha256-K3y/Fc3q/q240XmoezYLziKfdEc2BIe3OTayZXusNcQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-1a1997c98f20e648e268f3aa405004f33c78c3e5/Cargo.lock;
+      lockFile = ./spotifyd-c22b8194c5f660f1447d300bbf1b4917df882fde/Cargo.lock;
       outputHashes = {
         
       };

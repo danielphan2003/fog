@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "750eb76df305bb9aa77b6d7281eb9032ce4bf9fa",
-            "sha256": "sha256-KOOLhgq2VHxs+lBDJUkRjZjdNjXIgcY+lF8/Hdlfo8Q=",
+            "rev": "f6067816fb2bbd7dc9a00da6391cc6dcf5991035",
+            "sha256": "sha256-WHkIEIEKtLqV8ujwy47rzmq+P6RLZm5TzBu8INj2Gp0=",
             "type": "github"
         },
-        "version": "750eb76df305bb9aa77b6d7281eb9032ce4bf9fa"
+        "version": "f6067816fb2bbd7dc9a00da6391cc6dcf5991035"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1889,7 +1889,7 @@
     "spotifyd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./spotifyd-1a1997c98f20e648e268f3aa405004f33c78c3e5/Cargo.lock",
+                "./spotifyd-c22b8194c5f660f1447d300bbf1b4917df882fde/Cargo.lock",
                 {}
             ]
         },
@@ -1904,11 +1904,11 @@
             "name": null,
             "owner": "Spotifyd",
             "repo": "spotifyd",
-            "rev": "1a1997c98f20e648e268f3aa405004f33c78c3e5",
-            "sha256": "sha256-bjXs/U6sEPzoy6pN9lkMwDbD3ZOAWEenzylLa2li1po=",
+            "rev": "c22b8194c5f660f1447d300bbf1b4917df882fde",
+            "sha256": "sha256-K3y/Fc3q/q240XmoezYLziKfdEc2BIe3OTayZXusNcQ=",
             "type": "github"
         },
-        "version": "1a1997c98f20e648e268f3aa405004f33c78c3e5"
+        "version": "c22b8194c5f660f1447d300bbf1b4917df882fde"
     },
     "steamcompmgr": {
         "cargoLocks": null,
