@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "a1bda3c07b11c28405a49353fcbdb792d05a6715";
+    version = "029ebdeab4e2dd6a94924a1d3eec389a0cb6d150";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "a1bda3c07b11c28405a49353fcbdb792d05a6715";
+      rev = "029ebdeab4e2dd6a94924a1d3eec389a0cb6d150";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4hjupjA46zsroamgGleBWElez6pADN+8lZ8T0jJdXjY=";
+      sha256 = "sha256-8UJKa/DFjejfzTHbGdlhTyWi1SqI9ezyddpPZN/g6Uw=";
     };
   };
   flyingfox = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.118.1";
+    version = "2.120.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.118.1/revanced-patches-2.118.1.jar";
-      sha256 = "sha256-s14dQso2b/k1jiuYd6iFKNctJG349HpbO2AEuyjTi+I=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.120.0/revanced-patches-2.120.0.jar";
+      sha256 = "sha256-PngIbaCw8RDKO5KL4cQnpTXORIKHKTnMapLh3S81Uf4=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "167bc4e6a199f4a3358680d296156c22af95bccc";
+    version = "78269ebd6dd676ef590f47193714fa895e235adb";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "167bc4e6a199f4a3358680d296156c22af95bccc";
+      rev = "78269ebd6dd676ef590f47193714fa895e235adb";
       fetchSubmodules = false;
-      sha256 = "sha256-+COggOZqDkvvh6c3WOoJuZGi+ULWxVnw3vNe4DsXuo0=";
+      sha256 = "sha256-6fvY4wrIomqsLihi6nUm/fFIdsKrLkpJ9Ftj/+j+U/Y=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-167bc4e6a199f4a3358680d296156c22af95bccc/Cargo.lock;
+      lockFile = ./rustdesk-78269ebd6dd676ef590f47193714fa895e235adb/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
