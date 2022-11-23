@@ -911,11 +911,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RSsQb8Beo+lrjKrdLs/lBDjXhSSHkmBaqyKFV9Hu4DQ=",
+            "sha256": "sha256-o0or0teKKaMtNeUB0khTWO+OKY+MDG8jCbil9YC3W4M=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-958-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-959-1_all.deb"
         },
-        "version": "1.0-958"
+        "version": "1.0-959"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "6e3f168c1ca903de310e66528a1543a81672623f",
-            "sha256": "sha256-qSdp17N8JcR97AWD+6DRgIY7kPHd5EYXjvJGmNhFqfM=",
+            "rev": "0cf1d86a3a6f0b9366893861f75a3a998a023bf6",
+            "sha256": "sha256-6w6L4kQxerxr4OF4xescWYaI8VmRgWwHt9Uf4nLfia0=",
             "type": "github"
         },
-        "version": "6e3f168c1ca903de310e66528a1543a81672623f"
+        "version": "0cf1d86a3a6f0b9366893861f75a3a998a023bf6"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ec790e58df296acd81cfe824e5869260b3acfa44",
-            "sha256": "sha256-3W08TjPhI+R8W3lPaAPc8WqjPluPMgwEypLcHNHNMY0=",
+            "rev": "5f6fec0ebaff3553159e09e5096deaad0948387d",
+            "sha256": "sha256-BUHZIw/bPW/3Hqx6XDe1HqoYpnGn3N8ERedtzHwrR9s=",
             "type": "github"
         },
-        "version": "ec790e58df296acd81cfe824e5869260b3acfa44"
+        "version": "5f6fec0ebaff3553159e09e5096deaad0948387d"
     },
     "tailscale-systray": {
         "cargoLocks": null,

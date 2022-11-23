@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-958";
+    version = "1.0-959";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-958-1_all.deb";
-      sha256 = "sha256-RSsQb8Beo+lrjKrdLs/lBDjXhSSHkmBaqyKFV9Hu4DQ=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-959-1_all.deb";
+      sha256 = "sha256-o0or0teKKaMtNeUB0khTWO+OKY+MDG8jCbil9YC3W4M=";
     };
   };
   jitsi-meet = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6e3f168c1ca903de310e66528a1543a81672623f";
+    version = "0cf1d86a3a6f0b9366893861f75a3a998a023bf6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6e3f168c1ca903de310e66528a1543a81672623f";
+      rev = "0cf1d86a3a6f0b9366893861f75a3a998a023bf6";
       fetchSubmodules = false;
-      sha256 = "sha256-qSdp17N8JcR97AWD+6DRgIY7kPHd5EYXjvJGmNhFqfM=";
+      sha256 = "sha256-6w6L4kQxerxr4OF4xescWYaI8VmRgWwHt9Uf4nLfia0=";
     });
   };
   revanced-cli = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "ec790e58df296acd81cfe824e5869260b3acfa44";
+    version = "5f6fec0ebaff3553159e09e5096deaad0948387d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "ec790e58df296acd81cfe824e5869260b3acfa44";
+      rev = "5f6fec0ebaff3553159e09e5096deaad0948387d";
       fetchSubmodules = false;
-      sha256 = "sha256-3W08TjPhI+R8W3lPaAPc8WqjPluPMgwEypLcHNHNMY0=";
+      sha256 = "sha256-BUHZIw/bPW/3Hqx6XDe1HqoYpnGn3N8ERedtzHwrR9s=";
     });
   };
   tailscale-systray = {
