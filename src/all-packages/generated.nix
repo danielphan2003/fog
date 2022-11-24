@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "029ebdeab4e2dd6a94924a1d3eec389a0cb6d150";
+    version = "56a7e1364c52ffdecfcca9ee32261adf8af880ea";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "029ebdeab4e2dd6a94924a1d3eec389a0cb6d150";
+      rev = "56a7e1364c52ffdecfcca9ee32261adf8af880ea";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8UJKa/DFjejfzTHbGdlhTyWi1SqI9ezyddpPZN/g6Uw=";
+      sha256 = "sha256-FJPXOHMZ57wOJIvvmm98IKFn+t7vAawdj/QBLNdtEDo=";
     };
   };
   flyingfox = {
@@ -1079,14 +1079,14 @@
   };
   snui = {
     pname = "snui";
-    version = "fa5975cd71818f9fd018533c82be8c38b221bc04";
+    version = "fb4d83d708cce5f15165995bfa317b9d65d32273";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "fa5975cd71818f9fd018533c82be8c38b221bc04";
+      rev = "fb4d83d708cce5f15165995bfa317b9d65d32273";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-tRWJuhfKGf9XetbShI7Qm5z81yVTAYw0KihjRGxVBpo=";
+      sha256 = "sha256-Z+/S0vf6a6gojpM91wNGdQhXC7C9xHieH6PDTJ93z9k=";
     };
   };
   spicetify-cli = {
