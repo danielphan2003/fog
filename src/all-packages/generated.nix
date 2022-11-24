@@ -748,16 +748,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "27c53f2db5f5ee65643234983d57a796d32fa81d";
+    version = "a4ced0fce2bdfcad1ecea295e14813364fe2e260";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "27c53f2db5f5ee65643234983d57a796d32fa81d";
+      rev = "a4ced0fce2bdfcad1ecea295e14813364fe2e260";
       fetchSubmodules = false;
-      sha256 = "sha256-XB0J7Qeru+FX5YprepglfTndS8b3zsAw1b9mc4n6EdA=";
+      sha256 = "sha256-9ZplrEZuXTcpTJieRZTVbimv7GTcQpYXCk5C5KevFFY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-27c53f2db5f5ee65643234983d57a796d32fa81d/Cargo.lock;
+      lockFile = ./ouch-a4ced0fce2bdfcad1ecea295e14813364fe2e260/Cargo.lock;
       outputHashes = {
         
       };
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "64f22ae2b2e6153154be02ed11c66084fcf4efc5";
+    version = "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "64f22ae2b2e6153154be02ed11c66084fcf4efc5";
+      rev = "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d";
       fetchSubmodules = false;
-      sha256 = "sha256-0fBY7QmQkKlThzQyrvaDK64gGV2Fl0j2+BWAYe3dUJQ=";
+      sha256 = "sha256-FomX8A87GgvXRR5dxDrT4IbLtO9AFCK7b/5h3LvB7uw=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c1af464203a472b439b648199e75a375ff52b194";
+    version = "90959eebff3118ce371cca4c4580e3326e187599";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c1af464203a472b439b648199e75a375ff52b194";
+      rev = "90959eebff3118ce371cca4c4580e3326e187599";
       fetchSubmodules = false;
-      sha256 = "sha256-gkGNeWNb3E3JO95p/GjyGYvOiVlY/ce+NQCLIQaIm5Y=";
+      sha256 = "sha256-IxsNs0pdk5sNS2zTBCqnnUt0jjB9UEOW2l5LgfVUFA8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c1af464203a472b439b648199e75a375ff52b194/Cargo.lock;
+      lockFile = ./rustdesk-90959eebff3118ce371cca4c4580e3326e187599/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "7bff7345cccb62f68b90e4ea66f98ddebf364800";
+    version = "b1441d004478ea931e007eeccacc5f86457f8e91";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "7bff7345cccb62f68b90e4ea66f98ddebf364800";
+      rev = "b1441d004478ea931e007eeccacc5f86457f8e91";
       fetchSubmodules = false;
-      sha256 = "sha256-LiJqlikekQKbC+EHtP2uPEzH7BkYGbu3p7R22OT3Ogo=";
+      sha256 = "sha256-DHnqYskBCbR+1+85uz+dK3/+e6Ts+2GBxG/qF0KMQ28=";
     });
   };
   tailscale-systray = {

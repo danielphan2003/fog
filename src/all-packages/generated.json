@@ -1250,7 +1250,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-27c53f2db5f5ee65643234983d57a796d32fa81d/Cargo.lock",
+                "./ouch-a4ced0fce2bdfcad1ecea295e14813364fe2e260/Cargo.lock",
                 {}
             ]
         },
@@ -1265,11 +1265,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "27c53f2db5f5ee65643234983d57a796d32fa81d",
-            "sha256": "sha256-XB0J7Qeru+FX5YprepglfTndS8b3zsAw1b9mc4n6EdA=",
+            "rev": "a4ced0fce2bdfcad1ecea295e14813364fe2e260",
+            "sha256": "sha256-9ZplrEZuXTcpTJieRZTVbimv7GTcQpYXCk5C5KevFFY=",
             "type": "github"
         },
-        "version": "27c53f2db5f5ee65643234983d57a796d32fa81d"
+        "version": "a4ced0fce2bdfcad1ecea295e14813364fe2e260"
     },
     "paper": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "64f22ae2b2e6153154be02ed11c66084fcf4efc5",
-            "sha256": "sha256-0fBY7QmQkKlThzQyrvaDK64gGV2Fl0j2+BWAYe3dUJQ=",
+            "rev": "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d",
+            "sha256": "sha256-FomX8A87GgvXRR5dxDrT4IbLtO9AFCK7b/5h3LvB7uw=",
             "type": "github"
         },
-        "version": "64f22ae2b2e6153154be02ed11c66084fcf4efc5"
+        "version": "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c1af464203a472b439b648199e75a375ff52b194/Cargo.lock",
+                "./rustdesk-90959eebff3118ce371cca4c4580e3326e187599/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c1af464203a472b439b648199e75a375ff52b194",
-            "sha256": "sha256-gkGNeWNb3E3JO95p/GjyGYvOiVlY/ce+NQCLIQaIm5Y=",
+            "rev": "90959eebff3118ce371cca4c4580e3326e187599",
+            "sha256": "sha256-IxsNs0pdk5sNS2zTBCqnnUt0jjB9UEOW2l5LgfVUFA8=",
             "type": "github"
         },
-        "version": "c1af464203a472b439b648199e75a375ff52b194"
+        "version": "90959eebff3118ce371cca4c4580e3326e187599"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "7bff7345cccb62f68b90e4ea66f98ddebf364800",
-            "sha256": "sha256-LiJqlikekQKbC+EHtP2uPEzH7BkYGbu3p7R22OT3Ogo=",
+            "rev": "b1441d004478ea931e007eeccacc5f86457f8e91",
+            "sha256": "sha256-DHnqYskBCbR+1+85uz+dK3/+e6Ts+2GBxG/qF0KMQ28=",
             "type": "github"
         },
-        "version": "7bff7345cccb62f68b90e4ea66f98ddebf364800"
+        "version": "b1441d004478ea931e007eeccacc5f86457f8e91"
     },
     "tailscale-systray": {
         "cargoLocks": null,
