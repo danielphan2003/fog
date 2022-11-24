@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6832";
+    version = "1.0.6833";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6832.tar.bz2";
-      sha256 = "sha256-yK8Xspk8GI1Vz44AhP2qrDJJm0IVtoapjrrI9yVMWhA=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6833.tar.bz2";
+      sha256 = "sha256-TVz53xwEbpVv6jFQKL2St1qHprhVoApbwz5NQhceZFA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6832";
+    version = "1.0.6833";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6832-1_all.deb";
-      sha256 = "sha256-dEdK8Pia8FjGEnhzD1VsWlaTvSnYo9MP8NY+jscL3vQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6833-1_all.deb";
+      sha256 = "sha256-cw5QwICBWgZm4tbHwO2pALegKirQ3HJO+I19HrP/+xU=";
     };
   };
   jitsi-videobridge2 = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d";
+    version = "88c1e276a3bef51ba3f76eb9a9fe5076714c5f3d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b403f5fc1fb78885c8898cf9b94f521dd4cfb70d";
+      rev = "88c1e276a3bef51ba3f76eb9a9fe5076714c5f3d";
       fetchSubmodules = false;
-      sha256 = "sha256-FomX8A87GgvXRR5dxDrT4IbLtO9AFCK7b/5h3LvB7uw=";
+      sha256 = "sha256-kf/PV8VrR0JgQl0hDoFec2lPSVcDF1kgQlO3248pkD8=";
     });
   };
   revanced-cli = {
@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.76.0";
+    version = "0.77.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.76.0/app-release-unsigned.apk";
-      sha256 = "sha256-PLf1s5MtKQa9yFRyRCAoL9HzBZuK5Ep+sfuuvoAx9uI=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.77.0/app-release-unsigned.apk";
+      sha256 = "sha256-gYDzEl3h/47IPdb22BgtqkSmGU2FEa3nYpg9cYZE4js=";
     };
   };
   revanced-patches-jar = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8edcedad8a0dcbee6885902672dad580c211c931";
+    version = "c63da06fb2d4893dd8d3bb83607d6553f6322bc8";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8edcedad8a0dcbee6885902672dad580c211c931";
+      rev = "c63da06fb2d4893dd8d3bb83607d6553f6322bc8";
       fetchSubmodules = false;
-      sha256 = "sha256-DJJ+6njJtQWphaeVKldELwdlLQ/lbTkUxM0F3txg1/s=";
+      sha256 = "sha256-eOQ5rZ5NWdo4izgV6E+lsq6xjuAAkPQszfmn7Hku0aU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8edcedad8a0dcbee6885902672dad580c211c931/Cargo.lock;
+      lockFile = ./rustdesk-c63da06fb2d4893dd8d3bb83607d6553f6322bc8/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "20b27df4d04ee4546ddb687483db2bc3168876f1";
+    version = "b68d008fee0622e1be57d77f36cf4ef3b693995f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "20b27df4d04ee4546ddb687483db2bc3168876f1";
+      rev = "b68d008fee0622e1be57d77f36cf4ef3b693995f";
       fetchSubmodules = false;
-      sha256 = "sha256-/DL2qe4Da+XqydEXLM5q4CTw4QPdivR08Bv7WrXpUnk=";
+      sha256 = "sha256-Wepqt4rwgAWw7Vy+oTCKj+fxY4gcYl6P8p5V6XvGnts=";
     });
   };
   tailscale-systray = {
