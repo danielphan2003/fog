@@ -267,17 +267,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe";
+    version = "249960b111be40ca9d886103c038dd2273ea8f3f";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe";
+      rev = "249960b111be40ca9d886103c038dd2273ea8f3f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-qof/apoiWXqhoaPeKCBpoNRjasqMvCLoByt0Ib23O7Q=";
+      sha256 = "sha256-Whz1f8WETua1EX2eUJN5LiP3heRk5G90z9vSoCsOl2o=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-396dac6d82c5feb92dad0f7a38e4895cc6b9e6fe/Cargo.lock;
+      lockFile = ./conduit-249960b111be40ca9d886103c038dd2273ea8f3f/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ohf8AJRyZx6J9L9kyL1c1khZtbNi+Ag+JfpHNINWoA8=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "29fd4c1b3a09e4b7ff907266f6c5f98c4795b248";
+    version = "b8eefbf0abcd61ba97ddc91c57eeed667e96a284";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "29fd4c1b3a09e4b7ff907266f6c5f98c4795b248";
+      rev = "b8eefbf0abcd61ba97ddc91c57eeed667e96a284";
       fetchSubmodules = false;
-      sha256 = "sha256-50QKB2ksu9zTJnW0GtquQrippMAUQ34PEqWcIWiUNcM=";
+      sha256 = "sha256-sL9YIx3n93ekuPE/CJP1VQczP2NOFIJS6LQh+196mmY=";
     });
   };
   revanced-cli = {
