@@ -1993,7 +1993,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-fdf5e10ae42b58d2b45b10016ad63ebec5e16dd0/Cargo.lock",
+                "./swhkd-59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea/Cargo.lock",
                 {}
             ]
         },
@@ -2008,11 +2008,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "fdf5e10ae42b58d2b45b10016ad63ebec5e16dd0",
-            "sha256": "sha256-mpE+//a44wwraCCpBTnWXslLROF2dSIcv/kdpxHLD4M=",
+            "rev": "59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea",
+            "sha256": "sha256-SfrJnX3HowwATvvlJDMEY9v4WCKOHTyvfMvnbajEIrQ=",
             "type": "github"
         },
-        "version": "fdf5e10ae42b58d2b45b10016ad63ebec5e16dd0"
+        "version": "59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea"
     },
     "tailscale": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c2580151654976b9dcbf7831723d8eae09d58078",
-            "sha256": "sha256-cESKH+YMd++037Pk7Y2sWjQu92EnZ+wl7tPRemWcAzw=",
+            "rev": "7e016c1d90790028289cddf3ec51ebfdeb777a0e",
+            "sha256": "sha256-TH5j75zDYrJ1Bjl8mZx7BOXJtOllDB1pInDQ+nJPtRY=",
             "type": "github"
         },
-        "version": "c2580151654976b9dcbf7831723d8eae09d58078"
+        "version": "7e016c1d90790028289cddf3ec51ebfdeb777a0e"
     },
     "tailscale-systray": {
         "cargoLocks": null,
