@@ -1250,7 +1250,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-a4ced0fce2bdfcad1ecea295e14813364fe2e260/Cargo.lock",
+                "./ouch-d4f181b40d063a26bdc1848c8e14db29a8e1bac1/Cargo.lock",
                 {}
             ]
         },
@@ -1265,11 +1265,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "a4ced0fce2bdfcad1ecea295e14813364fe2e260",
-            "sha256": "sha256-9ZplrEZuXTcpTJieRZTVbimv7GTcQpYXCk5C5KevFFY=",
+            "rev": "d4f181b40d063a26bdc1848c8e14db29a8e1bac1",
+            "sha256": "sha256-kIvJUiYD5gRyxBmuzvAfQk73FQdy9jEJW1bxLkBCwWo=",
             "type": "github"
         },
-        "version": "a4ced0fce2bdfcad1ecea295e14813364fe2e260"
+        "version": "d4f181b40d063a26bdc1848c8e14db29a8e1bac1"
     },
     "paper": {
         "cargoLocks": {
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "03e71e651f5410f38981cfd92bf221f7d248551b",
-            "sha256": "sha256-YNpUiX6btQRqd8KIdmnjfWw5PPXe34EGKBg+E5FFrNM=",
+            "rev": "29fd4c1b3a09e4b7ff907266f6c5f98c4795b248",
+            "sha256": "sha256-50QKB2ksu9zTJnW0GtquQrippMAUQ34PEqWcIWiUNcM=",
             "type": "github"
         },
-        "version": "03e71e651f5410f38981cfd92bf221f7d248551b"
+        "version": "29fd4c1b3a09e4b7ff907266f6c5f98c4795b248"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "250edeb3da820a50a93d1f7f8e22a44f3186f538",
-            "sha256": "sha256-D+L7HLa3Fmi64K62xio1EjwwQuDIe4hccu1xtsM69wo=",
+            "rev": "344abaf3d3844040cc961405d18db5416918fee7",
+            "sha256": "sha256-5YHOIZUYmAmbStpeQ677rU+kXrkrkWqW5glQ2vSrcLw=",
             "type": "github"
         },
-        "version": "250edeb3da820a50a93d1f7f8e22a44f3186f538"
+        "version": "344abaf3d3844040cc961405d18db5416918fee7"
     },
     "tailscale-systray": {
         "cargoLocks": null,
