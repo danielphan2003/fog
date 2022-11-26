@@ -473,11 +473,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WA8R9DblGQ03haKne7whCDzrxDW6idhHL7A/Z73O3+E=",
+            "sha256": "sha256-NNAvNWezsQmyYk1UWLipOFjyUUWlKwttUhJ2qG66reg=",
             "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.2/builds/295/downloads/paper-1.19.2-295.jar"
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.2/builds/296/downloads/paper-1.19.2-296.jar"
         },
-        "version": "295"
+        "version": "296"
     },
     "papermc-1_8_8": {
         "cargoLocks": null,
