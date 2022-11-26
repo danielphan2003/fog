@@ -35,13 +35,13 @@
   };
   adl = {
     pname = "adl";
-    version = "65f68e1dcae4c0caa52668d3a854269e7d226f7c";
+    version = "dd00b19940b69561cfaada0863760899b2c4ea24";
     src = fetchFromGitHub ({
       owner = "RaitaroH";
       repo = "adl";
-      rev = "65f68e1dcae4c0caa52668d3a854269e7d226f7c";
+      rev = "dd00b19940b69561cfaada0863760899b2c4ea24";
       fetchSubmodules = false;
-      sha256 = "sha256-huGpDtkWrhZyKDNKXat8T3qtAyMjBaq8HFd1w1ThUVk=";
+      sha256 = "sha256-shPQsFreHKiJ9wRMjYBAg0YupfuXjeQ1846aXsUHWV4=";
     });
   };
   age-plugin-yubikey = {
