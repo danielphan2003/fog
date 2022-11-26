@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "75b7e661e798b9a32ccb00e0c7e4362c540ff4a9";
+    version = "f45ec2497735851cd3d361278abaa7e58ec08b2a";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "75b7e661e798b9a32ccb00e0c7e4362c540ff4a9";
+      rev = "f45ec2497735851cd3d361278abaa7e58ec08b2a";
       fetchSubmodules = false;
-      sha256 = "sha256-UgntlasslxTA032h4tdaz9GVMoN4rGjvtTCwnIDZtMQ=";
+      sha256 = "sha256-5d6hfIs3Rxs2au79yI6JED0/nkqot8NLBgrrZLX+yVk=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b8eefbf0abcd61ba97ddc91c57eeed667e96a284";
+    version = "31e549ce9c563ab07f58c639045f854263dcc2b9";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b8eefbf0abcd61ba97ddc91c57eeed667e96a284";
+      rev = "31e549ce9c563ab07f58c639045f854263dcc2b9";
       fetchSubmodules = false;
-      sha256 = "sha256-sL9YIx3n93ekuPE/CJP1VQczP2NOFIJS6LQh+196mmY=";
+      sha256 = "sha256-OLlBYskqiCvFtNDEy9PinQaAXcrBNsMz9RK8ESp7GHs=";
     });
   };
   revanced-cli = {
@@ -1003,16 +1003,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "011b31618372be19674ee8649e0d3dd0cb75c57d";
+    version = "753c774380edb4ae641f9fbaa343e44aea844d7c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "011b31618372be19674ee8649e0d3dd0cb75c57d";
+      rev = "753c774380edb4ae641f9fbaa343e44aea844d7c";
       fetchSubmodules = false;
-      sha256 = "sha256-du0bfxCyWwdYzCt3FUlov4tzQ5Ul1+dkpXYG1YR+kSE=";
+      sha256 = "sha256-Bcl3PREvr76qIvuPC4wxd6HBXG9Xw4sJapaY3B/DGbY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-011b31618372be19674ee8649e0d3dd0cb75c57d/Cargo.lock;
+      lockFile = ./rustdesk-server-753c774380edb4ae641f9fbaa343e44aea844d7c/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
