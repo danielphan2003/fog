@@ -267,17 +267,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "249960b111be40ca9d886103c038dd2273ea8f3f";
+    version = "4b737b46acfe7cbfcbe293d6262b5c1b7c64dcb6";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "249960b111be40ca9d886103c038dd2273ea8f3f";
+      rev = "4b737b46acfe7cbfcbe293d6262b5c1b7c64dcb6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Whz1f8WETua1EX2eUJN5LiP3heRk5G90z9vSoCsOl2o=";
+      sha256 = "sha256-RZUb26Q+SXfjWac5KBOWVCdywp6FoS8/Rzv5iYWzz/8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-249960b111be40ca9d886103c038dd2273ea8f3f/Cargo.lock;
+      lockFile = ./conduit-4b737b46acfe7cbfcbe293d6262b5c1b7c64dcb6/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ohf8AJRyZx6J9L9kyL1c1khZtbNi+Ag+JfpHNINWoA8=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d03b77d4cff243ea35d686d79daf6a385bf15b75";
+    version = "7873378a988c11fe06e0d91cc60c2b64205d7180";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d03b77d4cff243ea35d686d79daf6a385bf15b75";
+      rev = "7873378a988c11fe06e0d91cc60c2b64205d7180";
       fetchSubmodules = false;
-      sha256 = "sha256-as7SFxPpCWCQsPifLme5iiso82FNQGWdw/QvJV8T3Is=";
+      sha256 = "sha256-OKrg4HOOZ8QsedUfwO2Kx8EMcvzaO9BCZ1YlQd8QDmA=";
     });
   };
   revanced-cli = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3b73727e39205c85612878a01c77a129da1992f7";
+    version = "8049053f86a0b7cc0eca2aef9e14032de8c28d35";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3b73727e39205c85612878a01c77a129da1992f7";
+      rev = "8049053f86a0b7cc0eca2aef9e14032de8c28d35";
       fetchSubmodules = false;
-      sha256 = "sha256-bzdrduck1PnoI0dARRhI32FLM2W8da8nDh3VsNk5cJ8=";
+      sha256 = "sha256-KA+9+B5DFK7+bM+Uhzvj9Feq8bZvSHRtHlqheeDPZ1w=";
     });
   };
   tailscale-systray = {
