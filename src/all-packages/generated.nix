@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "286a3d056f96fd2420c1d97379e90ed3a1c13119";
+    version = "a05416eba38d17f7e7e5fddb1056d23dc325d4cf";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "286a3d056f96fd2420c1d97379e90ed3a1c13119";
+      rev = "a05416eba38d17f7e7e5fddb1056d23dc325d4cf";
       fetchSubmodules = false;
-      sha256 = "sha256-p9LskJWztf9N8qg87yg5Tn6/WwCchqGN9Xbb0mVzS0o=";
+      sha256 = "sha256-Xt0zSfUj8cuLjnxSaXqa6162yeLEVL5MB1Qa/yLdM70=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-286a3d056f96fd2420c1d97379e90ed3a1c13119/Cargo.lock;
+      lockFile = ./rustdesk-a05416eba38d17f7e7e5fddb1056d23dc325d4cf/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5676d201d61f3fa4218cfcd064bd1d5a4d8d8e9c";
+    version = "3b73727e39205c85612878a01c77a129da1992f7";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5676d201d61f3fa4218cfcd064bd1d5a4d8d8e9c";
+      rev = "3b73727e39205c85612878a01c77a129da1992f7";
       fetchSubmodules = false;
-      sha256 = "sha256-o1SXVGYBKAeOUnf+ActvRRlOy7kw1r96RiYq4hhQWI8=";
+      sha256 = "sha256-bzdrduck1PnoI0dARRhI32FLM2W8da8nDh3VsNk5cJ8=";
     });
   };
   tailscale-systray = {
@@ -1263,13 +1263,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "c440028902c83583305daa9dc3236ca4d3420b0f";
+    version = "2116bd75d903b98f7312b42d8bb09c5093c29c68";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "c440028902c83583305daa9dc3236ca4d3420b0f";
+      rev = "2116bd75d903b98f7312b42d8bb09c5093c29c68";
       fetchSubmodules = false;
-      sha256 = "sha256-ZZc14AnJ8uRdRHHfaMflaoiJ5uIM7OcW7OZqc3G2Ar0=";
+      sha256 = "sha256-DhwqQ3Y/xT0k4gdMeVLl6fizNlaSlePEa0jHuqF1UFg=";
     });
   };
   uniemoji = {
