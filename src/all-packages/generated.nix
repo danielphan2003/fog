@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "0141bfb3a7424f365538c988dfb5b93d92a50d85";
+    version = "19a24ada9dcd4ff39d98fed900c32bb3533be697";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "0141bfb3a7424f365538c988dfb5b93d92a50d85";
+      rev = "19a24ada9dcd4ff39d98fed900c32bb3533be697";
       fetchSubmodules = false;
-      sha256 = "sha256-KNQXUVBlS5UrSftYgaWD6LCa/C/7RinGcwGfKO1y1bo=";
+      sha256 = "sha256-CI1Wwj57sK/sM414dXhpFrk4EPCBp3d4alwCo2j6hcA=";
     });
   };
   playit-agent = {
@@ -1197,13 +1197,13 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "b2736c5bef3add118183654305d05903c5947668";
+    version = "a1cf657b3c7ae7364789f776a664709a5ec635ee";
     src = fetchFromGitHub ({
       owner = "jirutka";
       repo = "swaylock-effects";
-      rev = "b2736c5bef3add118183654305d05903c5947668";
+      rev = "a1cf657b3c7ae7364789f776a664709a5ec635ee";
       fetchSubmodules = false;
-      sha256 = "sha256-umxEwegKuJd/DUjaUQ88lbcQNxSY99yepBnQaFr3fDI=";
+      sha256 = "sha256-3mz4wdhMbamsDghOeXS/prxYjdSIdKmQS//+pzufYpE=";
     });
   };
   swhkd = {
@@ -1263,13 +1263,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "2116bd75d903b98f7312b42d8bb09c5093c29c68";
+    version = "cd826659b4a8492a1f708ef0876f4b6ad4121d22";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "2116bd75d903b98f7312b42d8bb09c5093c29c68";
+      rev = "cd826659b4a8492a1f708ef0876f4b6ad4121d22";
       fetchSubmodules = false;
-      sha256 = "sha256-DhwqQ3Y/xT0k4gdMeVLl6fizNlaSlePEa0jHuqF1UFg=";
+      sha256 = "sha256-yLNjtEGmoUN5K+XSniVL1OPGTnjWLXbKLjn4v1iIx5w=";
     });
   };
   uniemoji = {
