@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.126.1";
+    version = "2.127.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.126.1/revanced-patches-2.126.1.jar";
-      sha256 = "sha256-CHsybf2l5TejZo/SeV7T62cSKVQq+HNASudtjaOSuU4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.127.0/revanced-patches-2.127.0.jar";
+      sha256 = "sha256-J0nUNNMQXIMmFM37teucXaKXvQFoGEN4AlzrfpmE/O0=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6e33d2da2b64ff9a2dce7b83e2147d2fb4f4ab47";
+    version = "6cc6c70d704fedb7ee5c99e2c8fd9c8946f90efe";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6e33d2da2b64ff9a2dce7b83e2147d2fb4f4ab47";
+      rev = "6cc6c70d704fedb7ee5c99e2c8fd9c8946f90efe";
       fetchSubmodules = false;
-      sha256 = "sha256-6pCH46Zz/nJDfeodiu80fwIJZKvwimoHquh9Kho3ono=";
+      sha256 = "sha256-4S/ceNThAB7KXySqBWHfNE3Jqmi+P4jBRtgS/shuBf8=";
     });
   };
   tailscale-systray = {
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "a11d894d8ce6f31b8c469f0628743e88116eb919";
+    version = "cd0a81cf28bfa990bb85d660c239a9e45bcb48a6";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "a11d894d8ce6f31b8c469f0628743e88116eb919";
+      rev = "cd0a81cf28bfa990bb85d660c239a9e45bcb48a6";
       fetchSubmodules = false;
-      sha256 = "sha256-AoYrjtgQKYbKFMyZEWHtJeSRtRs0kHEylbGwgZ1YeIE=";
+      sha256 = "sha256-lnlFnOF+GbDHRI3xfHlOaP8B5WGz3Wjc7qtu8OCjHZI=";
     });
   };
   wgcf = {
