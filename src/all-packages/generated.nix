@@ -375,16 +375,16 @@
   };
   eww = {
     pname = "eww";
-    version = "7a0e1b77f24ee89d627e552f9abc55eb636aaaa6";
+    version = "ec4c2d1a4f12e9c3664e9f53ad99007b4a10a16a";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "7a0e1b77f24ee89d627e552f9abc55eb636aaaa6";
+      rev = "ec4c2d1a4f12e9c3664e9f53ad99007b4a10a16a";
       fetchSubmodules = false;
-      sha256 = "sha256-VJx7GKkVmXCxsDfOXEDXGrAHZWyHN74Ax6GUXiir0Z8=";
+      sha256 = "sha256-39/l57QusriyNr426kXNqtub0ciZna+t20VKPYUAgsM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-7a0e1b77f24ee89d627e552f9abc55eb636aaaa6/Cargo.lock;
+      lockFile = ./eww-ec4c2d1a4f12e9c3664e9f53ad99007b4a10a16a/Cargo.lock;
       outputHashes = {
         
       };
@@ -403,13 +403,13 @@
   };
   firefox-sidebar = {
     pname = "firefox-sidebar";
-    version = "a69205851f9edafe76e6933b562f43e5a0a82151";
+    version = "95e38b8f6bff6b5bc8c36568c7c068162d134202";
     src = fetchFromGitHub ({
       owner = "drannex42";
       repo = "FirefoxSidebar";
-      rev = "a69205851f9edafe76e6933b562f43e5a0a82151";
+      rev = "95e38b8f6bff6b5bc8c36568c7c068162d134202";
       fetchSubmodules = false;
-      sha256 = "sha256-U7nT9jUBXIdTaFMAwsCEccAJ26qipGtWYp9bR0G4lX0=";
+      sha256 = "sha256-Sha+rJE6ZUeIy50061itCEPpUbiT2Yne2eYccpR/Ntk=";
     });
   };
   flameshot = {
