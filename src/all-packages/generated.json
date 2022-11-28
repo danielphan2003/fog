@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "47ce29d00d47509c4b442571fb093a19da083e7e",
-            "sha256": "sha256-EQWonLgEoozPdyEF6GgqMBUHoQ79ejfQ4ugG131pz7Q=",
+            "rev": "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6",
+            "sha256": "sha256-hqLEdUi/kRD8OwV0P3ASANptJqwRbI9xpKJWukX5Dws=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "47ce29d00d47509c4b442571fb093a19da083e7e"
+        "version": "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1170,11 +1170,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hG4NeJbd8p0CAC42B/xaguxTM6o59+WK4shoq/pyReY=",
+            "sha256": "sha256-cGIyXnNSDFAcyKrEspjewkcRCRILi7kuRC6TlLQ2XDs=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.44.0.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.45.0.tar.gz"
         },
-        "version": "0.44.0"
+        "version": "0.45.0"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,

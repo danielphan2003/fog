@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "47ce29d00d47509c4b442571fb093a19da083e7e";
+    version = "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "47ce29d00d47509c4b442571fb093a19da083e7e";
+      rev = "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-EQWonLgEoozPdyEF6GgqMBUHoQ79ejfQ4ugG131pz7Q=";
+      sha256 = "sha256-hqLEdUi/kRD8OwV0P3ASANptJqwRbI9xpKJWukX5Dws=";
     };
   };
   flyingfox = {
@@ -699,10 +699,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.44.0";
+    version = "0.45.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.44.0.tar.gz";
-      sha256 = "sha256-hG4NeJbd8p0CAC42B/xaguxTM6o59+WK4shoq/pyReY=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.45.0.tar.gz";
+      sha256 = "sha256-cGIyXnNSDFAcyKrEspjewkcRCRILi7kuRC6TlLQ2XDs=";
     };
   };
   nix-zsh-completions = {
