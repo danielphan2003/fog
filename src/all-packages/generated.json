@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "7dc13646a41f85b9330b706f8eb19e88a63ca888",
-            "sha256": "sha256-rQEdDx+8XE4hP3EiUcTFMuKX+j3GJVPoFuYfuTqfmxU=",
+            "rev": "3dd06b674a252c51937d20ffecfc0274ce63cfff",
+            "sha256": "sha256-mQyrkdQExuo65zJwQ8JoutU2j7oswbj3cb3RgnWv3xs=",
             "type": "github"
         },
-        "version": "7dc13646a41f85b9330b706f8eb19e88a63ca888"
+        "version": "3dd06b674a252c51937d20ffecfc0274ce63cfff"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1123,11 +1123,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C9VD1MYO0r6Ko8+5C0yhMIbKQVdg1X7JnNC6wXFSbpc=",
+            "sha256": "sha256-6V+pTY1Y75iRrVDW+TIcCgkHm4YyIONy4xWNDki5i84=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.56-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.62-1_amd64.deb"
         },
-        "version": "107.0.1418.56"
+        "version": "107.0.1418.62"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "02ab636d00ec94d9a55a1826d94b8f1f4babc6f6",
-            "sha256": "sha256-cY+P33312GBEx84iMnT8MLtcaHuHR673dGNaJVxGjFM=",
+            "rev": "68773becc61a8f684bdb496681a6203356c60948",
+            "sha256": "sha256-tF6L2DwpBIec8slKO4njiifsvjUNhMDy2fBkjWZVBsg=",
             "type": "github"
         },
-        "version": "02ab636d00ec94d9a55a1826d94b8f1f4babc6f6"
+        "version": "68773becc61a8f684bdb496681a6203356c60948"
     },
     "revanced-cli": {
         "cargoLocks": null,
