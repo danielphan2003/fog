@@ -925,11 +925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OKTSyowP/9IlFmS6bivh6NLsl3i64TX1IAeLaRDPsJY=",
+            "sha256": "sha256-QFgiuuMdRLeZw3bUI6wnKgZxjtxg72JmG1LEMDmt5c0=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6837.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6838.tar.bz2"
         },
-        "version": "1.0.6837"
+        "version": "1.0.6838"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -939,11 +939,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OvUITsyOL9Eile3R6Eh6fFUrI5X5HNAac7ukQjbhUnE=",
+            "sha256": "sha256-MFmdw4+z85A4cmKwITf/Fy7aArXseKEccyoCDhtWiC8=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6837-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6838-1_all.deb"
         },
-        "version": "1.0.6837"
+        "version": "1.0.6838"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1095,11 +1095,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6TW46CqGCxa/3SYoEE+fT+ht8oGz03X+4+rolxFw17M=",
+            "sha256": "sha256-7aXJBAc7DfgUj8ZlBdFLFjMkHtpBlZnhmPSkiDpzTF0=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.28-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.35-1_amd64.deb"
         },
-        "version": "108.0.1462.28"
+        "version": "108.0.1462.35"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
