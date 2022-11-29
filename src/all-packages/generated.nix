@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "68773becc61a8f684bdb496681a6203356c60948";
+    version = "68ee68bf7f8ce911bdeb50fb401f8e376c3cbb2d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "68773becc61a8f684bdb496681a6203356c60948";
+      rev = "68ee68bf7f8ce911bdeb50fb401f8e376c3cbb2d";
       fetchSubmodules = false;
-      sha256 = "sha256-tF6L2DwpBIec8slKO4njiifsvjUNhMDy2fBkjWZVBsg=";
+      sha256 = "sha256-m2nLid9yV+CM8Qh2SW+94wTz9qB19MFcBuzc8Z+6G04=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.127.0";
+    version = "2.130.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.127.0/revanced-patches-2.127.0.jar";
-      sha256 = "sha256-J0nUNNMQXIMmFM37teucXaKXvQFoGEN4AlzrfpmE/O0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.130.0/revanced-patches-2.130.0.jar";
+      sha256 = "sha256-+YX/MX1V6eaj0HR9+OBRtoUaaWwArvFHokxQFpaDwLQ=";
     };
   };
   rofi-wayland = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e047c0cfa300b281b3b2c9cfcb2fc4171bbac26c";
+    version = "03dbcdef905f6270eb0116466ef6273bbcff43b1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e047c0cfa300b281b3b2c9cfcb2fc4171bbac26c";
+      rev = "03dbcdef905f6270eb0116466ef6273bbcff43b1";
       fetchSubmodules = false;
-      sha256 = "sha256-1UcGRuWW+hvJDQC2ot4fy/IG17N8z1N6Sqpba9x6NFQ=";
+      sha256 = "sha256-muziZSJ6NrgeWnUYFI0SqZ17lWXG0Wtbj/LgxgsJu2s=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e047c0cfa300b281b3b2c9cfcb2fc4171bbac26c/Cargo.lock;
+      lockFile = ./rustdesk-03dbcdef905f6270eb0116466ef6273bbcff43b1/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6cc6c70d704fedb7ee5c99e2c8fd9c8946f90efe";
+    version = "2e5d08ec4f002f066cddb557687da089de201387";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6cc6c70d704fedb7ee5c99e2c8fd9c8946f90efe";
+      rev = "2e5d08ec4f002f066cddb557687da089de201387";
       fetchSubmodules = false;
-      sha256 = "sha256-4S/ceNThAB7KXySqBWHfNE3Jqmi+P4jBRtgS/shuBf8=";
+      sha256 = "sha256-0zyi8dhxn54N3EaBrcpukVN4oAGuv2j6mfl5wRUAyx8=";
     });
   };
   tailscale-systray = {
