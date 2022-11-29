@@ -1,10 +1,5 @@
 ## papermc
 
-[papermc-1_8_8]
-src.cmd = " fog papermc-updater 1.8.8 "
-fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/$ver/downloads/paper-1.8.8-$ver.jar"
-passthru = { mcVer = "1.8.8" }
-
 [papermc-1_9_4]
 src.cmd = " fog papermc-updater 1.9.4 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/$ver/downloads/paper-1.9.4-$ver.jar"
@@ -20,20 +15,10 @@ src.cmd = " fog papermc-updater 1.11.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/$ver/downloads/paper-1.11.2-$ver.jar"
 passthru = { mcVer = "1.11.2" }
 
-[papermc-1_12]
-src.cmd = " fog papermc-updater 1.12 "
-fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/$ver/downloads/paper-1.12-$ver.jar"
-passthru = { mcVer = "1.12" }
-
 [papermc-1_12_1]
 src.cmd = " fog papermc-updater 1.12.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/$ver/downloads/paper-1.12.1-$ver.jar"
 passthru = { mcVer = "1.12.1" }
-
-[papermc-1_12_2]
-src.cmd = " fog papermc-updater 1.12.2 "
-fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/$ver/downloads/paper-1.12.2-$ver.jar"
-passthru = { mcVer = "1.12.2" }
 
 [papermc-1_13-pre7]
 src.cmd = " fog papermc-updater 1.13-pre7 "

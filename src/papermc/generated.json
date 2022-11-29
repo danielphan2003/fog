@@ -31,22 +31,6 @@
         },
         "version": "1106"
     },
-    "papermc-1_12": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "papermc-1_12",
-        "passthru": {
-            "mcVer": "1.12"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-Hn6Iou1vK3D6P27GYRNzRYxdcrKocH5gkh32AceR5g4=",
-            "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/1169/downloads/paper-1.12-1169.jar"
-        },
-        "version": "1169"
-    },
     "papermc-1_12_1": {
         "cargoLocks": null,
         "extract": null,
@@ -62,22 +46,6 @@
             "url": "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/1204/downloads/paper-1.12.1-1204.jar"
         },
         "version": "1204"
-    },
-    "papermc-1_12_2": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "papermc-1_12_2",
-        "passthru": {
-            "mcVer": "1.12.2"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-OiBBgH9JLc3DTrsySih0FJRuPgXsPfb9A/W199mvwhA=",
-            "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar"
-        },
-        "version": "1620"
     },
     "papermc-1_13": {
         "cargoLocks": null,
@@ -478,22 +446,6 @@
             "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.2/builds/300/downloads/paper-1.19.2-300.jar"
         },
         "version": "300"
-    },
-    "papermc-1_8_8": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "papermc-1_8_8",
-        "passthru": {
-            "mcVer": "1.8.8"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-f/bSzsZx7w2Vs3I7XJKJARj7iC1zt/j6CizTHZfFX4Y=",
-            "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar"
-        },
-        "version": "445"
     },
     "papermc-1_9_4": {
         "cargoLocks": null,
