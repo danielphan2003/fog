@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6838";
+    version = "1.0.6839";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6838.tar.bz2";
-      sha256 = "sha256-QFgiuuMdRLeZw3bUI6wnKgZxjtxg72JmG1LEMDmt5c0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6839.tar.bz2";
+      sha256 = "sha256-ZAzZjtofqJbVm50fz8WM+uGs9lATpNwFj+UJg/WFikg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6838";
+    version = "1.0.6839";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6838-1_all.deb";
-      sha256 = "sha256-MFmdw4+z85A4cmKwITf/Fy7aArXseKEccyoCDhtWiC8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6839-1_all.deb";
+      sha256 = "sha256-wFLpZCWfgXXAngURfmyUCuCB98A8nBJvMooVuvf+ZlE=";
     };
   };
   jitsi-videobridge2 = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "da88d5c0b8dd4cf92160537b9be2a425be1b3ac9";
+    version = "ee29db888af26e109fcebcab12f18ef80527cb55";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "da88d5c0b8dd4cf92160537b9be2a425be1b3ac9";
+      rev = "ee29db888af26e109fcebcab12f18ef80527cb55";
       fetchSubmodules = false;
-      sha256 = "sha256-S6sNry2nGGBJFEnu8ZSzS+DUUyWzUzqd5s+SeBgppEU=";
+      sha256 = "sha256-0riPo3MJNAur+3Bjv6/p8iWtPGNJfgL3DVBFataXow8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-da88d5c0b8dd4cf92160537b9be2a425be1b3ac9/Cargo.lock;
+      lockFile = ./rustdesk-ee29db888af26e109fcebcab12f18ef80527cb55/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1102,13 +1102,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "348c79b00d704eb039e4937e04993a09b4792c7b";
+    version = "2fccf3a91a3ea535993e43051c963f54da63a69f";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "348c79b00d704eb039e4937e04993a09b4792c7b";
+      rev = "2fccf3a91a3ea535993e43051c963f54da63a69f";
       fetchSubmodules = false;
-      sha256 = "sha256-tdb3guaTI0C/Vt7FfMrRP41S6zacQuv2wiBN4R0X9TU=";
+      sha256 = "sha256-8lqybLbFVja1vjYoodnqDG++e8ux7cstcYYGhkgXojY=";
     });
   };
   spicetify-themes = {
