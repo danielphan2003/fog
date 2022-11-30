@@ -304,11 +304,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "7241bb9686f93ab931c9b03b152437b2641bb06b",
-            "sha256": "sha256-44dBG8/0Po3YNjaAW3bDzcgpJHu7x0vZKf3xjuYA0mU=",
+            "rev": "2c0fc55d582d1a9812e12b21f9faba521291054d",
+            "sha256": "sha256-Cwv7WseeeSCvNc1BUpsRF2UtCETbN0qYfj7lIQFUPaM=",
             "type": "github"
         },
-        "version": "7241bb9686f93ab931c9b03b152437b2641bb06b"
+        "version": "2c0fc55d582d1a9812e12b21f9faba521291054d"
     },
     "caddy": {
         "cargoLocks": null,
@@ -441,7 +441,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-bb9bc0a0010d3d7599141dddac700029792c807f/Cargo.lock",
+                "./conduit-5894d35eb234194b85ad8ed575159f56a3ab6529/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -458,12 +458,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bb9bc0a0010d3d7599141dddac700029792c807f",
-            "sha256": "sha256-vYqvqlsaF91LjHNmhDQzsB4vZzCXBrxja6asvjmKB9o=",
+            "rev": "5894d35eb234194b85ad8ed575159f56a3ab6529",
+            "sha256": "sha256-NPXaDffj9qHlhWhdPII1MSyAgbX0jnzJBuJ2cH5mkzw=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "bb9bc0a0010d3d7599141dddac700029792c807f"
+        "version": "5894d35eb234194b85ad8ed575159f56a3ab6529"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tcTQs/6qI0LZwFmvoDKoInMeXBVKgnIU7FEMs+0jwNg=",
+            "sha256": "sha256-PZwpV38+SHw8MCm6pJLaebnGMbahJH1+/EdtCP23nFc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.79.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.80.0/app-release-unsigned.apk"
         },
-        "version": "0.79.1"
+        "version": "0.80.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "a6dff4fb7460514aa46ab48b17a278f946da5b23",
-            "sha256": "sha256-6rzXEQyoYEAdxQFPF49ruHBrqUhMYofMLPlUzszgYww=",
+            "rev": "f1ab11e961a0fd4d52778b0cfcef922e85a78a60",
+            "sha256": "sha256-K21T0ZmxObg2ZRUtI0mGGpK92IERqewEsxH/9BkMC18=",
             "type": "github"
         },
-        "version": "a6dff4fb7460514aa46ab48b17a278f946da5b23"
+        "version": "f1ab11e961a0fd4d52778b0cfcef922e85a78a60"
     },
     "tailscale-systray": {
         "cargoLocks": null,

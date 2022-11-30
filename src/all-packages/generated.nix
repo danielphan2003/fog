@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "7241bb9686f93ab931c9b03b152437b2641bb06b";
+    version = "2c0fc55d582d1a9812e12b21f9faba521291054d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "7241bb9686f93ab931c9b03b152437b2641bb06b";
+      rev = "2c0fc55d582d1a9812e12b21f9faba521291054d";
       fetchSubmodules = false;
-      sha256 = "sha256-44dBG8/0Po3YNjaAW3bDzcgpJHu7x0vZKf3xjuYA0mU=";
+      sha256 = "sha256-Cwv7WseeeSCvNc1BUpsRF2UtCETbN0qYfj7lIQFUPaM=";
     });
   };
   caddy = {
@@ -267,17 +267,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "bb9bc0a0010d3d7599141dddac700029792c807f";
+    version = "5894d35eb234194b85ad8ed575159f56a3ab6529";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "bb9bc0a0010d3d7599141dddac700029792c807f";
+      rev = "5894d35eb234194b85ad8ed575159f56a3ab6529";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vYqvqlsaF91LjHNmhDQzsB4vZzCXBrxja6asvjmKB9o=";
+      sha256 = "sha256-NPXaDffj9qHlhWhdPII1MSyAgbX0jnzJBuJ2cH5mkzw=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-bb9bc0a0010d3d7599141dddac700029792c807f/Cargo.lock;
+      lockFile = ./conduit-5894d35eb234194b85ad8ed575159f56a3ab6529/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ohf8AJRyZx6J9L9kyL1c1khZtbNi+Ag+JfpHNINWoA8=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.79.1";
+    version = "0.80.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.79.1/app-release-unsigned.apk";
-      sha256 = "sha256-tcTQs/6qI0LZwFmvoDKoInMeXBVKgnIU7FEMs+0jwNg=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.80.0/app-release-unsigned.apk";
+      sha256 = "sha256-PZwpV38+SHw8MCm6pJLaebnGMbahJH1+/EdtCP23nFc=";
     };
   };
   revanced-patches-jar = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a6dff4fb7460514aa46ab48b17a278f946da5b23";
+    version = "f1ab11e961a0fd4d52778b0cfcef922e85a78a60";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a6dff4fb7460514aa46ab48b17a278f946da5b23";
+      rev = "f1ab11e961a0fd4d52778b0cfcef922e85a78a60";
       fetchSubmodules = false;
-      sha256 = "sha256-6rzXEQyoYEAdxQFPF49ruHBrqUhMYofMLPlUzszgYww=";
+      sha256 = "sha256-K21T0ZmxObg2ZRUtI0mGGpK92IERqewEsxH/9BkMC18=";
     });
   };
   tailscale-systray = {
