@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wszl7J6u68AJ6Dzo0wNn4SUhbB8qxOOtE1kPsay3osE=",
+            "sha256": "sha256-tcTQs/6qI0LZwFmvoDKoInMeXBVKgnIU7FEMs+0jwNg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.79.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.79.1/app-release-unsigned.apk"
         },
-        "version": "0.79.0"
+        "version": "0.79.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,

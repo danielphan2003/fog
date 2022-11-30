@@ -945,10 +945,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.79.0";
+    version = "0.79.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.79.0/app-release-unsigned.apk";
-      sha256 = "sha256-wszl7J6u68AJ6Dzo0wNn4SUhbB8qxOOtE1kPsay3osE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.79.1/app-release-unsigned.apk";
+      sha256 = "sha256-tcTQs/6qI0LZwFmvoDKoInMeXBVKgnIU7FEMs+0jwNg=";
     };
   };
   revanced-patches-jar = {
