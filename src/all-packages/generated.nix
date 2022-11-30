@@ -1208,16 +1208,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea";
+    version = "bb4225998a1134421bcca9036541fdf9a0a5afbc";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea";
+      rev = "bb4225998a1134421bcca9036541fdf9a0a5afbc";
       fetchSubmodules = false;
-      sha256 = "sha256-SfrJnX3HowwATvvlJDMEY9v4WCKOHTyvfMvnbajEIrQ=";
+      sha256 = "sha256-XoWIKGRXo5ub5w2uH0TKPj0QtnFulvGWBXEkii63ItM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-59fb5961fbb5adc1f8f5f31c3b1f602f03d257ea/Cargo.lock;
+      lockFile = ./swhkd-bb4225998a1134421bcca9036541fdf9a0a5afbc/Cargo.lock;
       outputHashes = {
         
       };
