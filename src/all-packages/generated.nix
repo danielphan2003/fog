@@ -691,10 +691,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.36.1";
+    version = "1.37.0";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.36.1.tar.gz";
-      sha256 = "sha256-mDSBDmSqANx5ELFf60kM8vPkx4fCGN6j0yrPGDRHnSg=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.37.0.tar.gz";
+      sha256 = "sha256-Bmb4Vj3lH92TAxTRkyhPfJuO725UYqKLj8juJAaPQ/k=";
     };
   };
   netdata-go-d-plugin = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d2a51f03cea485f9018a515d5b57a244f3680d93";
+    version = "74744b0a4c1a7d4303ae9346db16394c90512417";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d2a51f03cea485f9018a515d5b57a244f3680d93";
+      rev = "74744b0a4c1a7d4303ae9346db16394c90512417";
       fetchSubmodules = false;
-      sha256 = "sha256-4CBeKkdBoRodtnnedFKLND+pP3ipAVnXTSfWlXJEhss=";
+      sha256 = "sha256-3mAG2fZ36Sjp1M5uPZXI7hNs9Vqs2/4WB8HZfry1TpM=";
     });
   };
   tailscale-systray = {
