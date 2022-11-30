@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "8e937ddd6a2cff3cb0764d519f0dd9c1c62a1828",
-            "sha256": "sha256-S3CSPWpzL4Nc4Cgtnm9xoyjPtobkUhemYnsYVaZzdeg=",
+            "rev": "74d0dd16fb5729bfe254194cff637f57049b7a30",
+            "sha256": "sha256-4oJBmAJEnzKXKgS/aQpCI8J3tFocTsIQqK1H46+hP8s=",
             "type": "github"
         },
-        "version": "8e937ddd6a2cff3cb0764d519f0dd9c1c62a1828"
+        "version": "74d0dd16fb5729bfe254194cff637f57049b7a30"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EdvZSkqcTlD5AHZnsft1KRh7TLw6yLCGHk+Bbz7OjYc=",
+            "sha256": "sha256-4jW7TQ9ALI0BXW1mC+xAgBVQhVpEwP7si6F8+mSV0HA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.78.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.78.1/app-release-unsigned.apk"
         },
-        "version": "0.78.0"
+        "version": "0.78.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "adc302f4280437895c7bd548869c38546efb2a52",
-            "sha256": "sha256-GVI7NIPxt0WrnXjW0Ci70oWJK6jX5BGkEcPf1LYOcIM=",
+            "rev": "d2a51f03cea485f9018a515d5b57a244f3680d93",
+            "sha256": "sha256-4CBeKkdBoRodtnnedFKLND+pP3ipAVnXTSfWlXJEhss=",
             "type": "github"
         },
-        "version": "adc302f4280437895c7bd548869c38546efb2a52"
+        "version": "d2a51f03cea485f9018a515d5b57a244f3680d93"
     },
     "tailscale-systray": {
         "cargoLocks": null,
