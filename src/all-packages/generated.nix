@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "7198874fc9823dbad666c755bf8a648283f892b5";
+    version = "7612a9d1d534ad86bd5759579e4a317393810d96";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "7198874fc9823dbad666c755bf8a648283f892b5";
+      rev = "7612a9d1d534ad86bd5759579e4a317393810d96";
       fetchSubmodules = false;
-      sha256 = "sha256-SxC01Yl0OxMv2/ibhR9YINYtmysxdQadawRIYflP9X4=";
+      sha256 = "sha256-MdNSAIBCMzOV3da8E+7+RhuS8BK5Q69ZtQpU5yPXkzE=";
     });
   };
   playit-agent = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.131.0";
+    version = "2.133.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.131.0/revanced-patches-2.131.0.jar";
-      sha256 = "sha256-MuqOBdq+NPP0Ek57uSjxd7KiFAopQstxCBYxRcGuOo0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.133.0/revanced-patches-2.133.0.jar";
+      sha256 = "sha256-atBBQUGuuVHRosBTvYs0PlK1n2rMWNhDvOtsjqmZr9c=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "74b47eaad6b0b730320bb961c18a82b83cac1ead";
+    version = "d5b4d2e2768f7e6e4055f2506c7e67b5f9adee43";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "74b47eaad6b0b730320bb961c18a82b83cac1ead";
+      rev = "d5b4d2e2768f7e6e4055f2506c7e67b5f9adee43";
       fetchSubmodules = false;
-      sha256 = "sha256-vHCbEdJwDMob0IgGenYN6AiCcLZBaO5cW8pIrngjE6A=";
+      sha256 = "sha256-PU/N94/jspFcSlF3BAnfmBsCczG7rAdbVf2vO4WZA2A=";
     });
   };
   tailscale-systray = {
