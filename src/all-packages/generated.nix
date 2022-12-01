@@ -1302,10 +1302,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.10.2";
+    version = "2022.11.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.10.2/bw_web_v2022.10.2.tar.gz";
-      sha256 = "sha256-ubmh7k3CSPSN36N5is17o6OP34ZvMwC498wFyBzkCK0=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.11.1/bw_web_v2022.11.1.tar.gz";
+      sha256 = "sha256-nd32Q0uTsnrdVPDe1Yglvkg2QcwgLR+x0dFvKSD8o8I=";
     };
   };
   ventoy = {
