@@ -1309,11 +1309,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "7612a9d1d534ad86bd5759579e4a317393810d96",
-            "sha256": "sha256-MdNSAIBCMzOV3da8E+7+RhuS8BK5Q69ZtQpU5yPXkzE=",
+            "rev": "8143c07de62371e3e1580addf8214b7d8cf61972",
+            "sha256": "sha256-ZrJyhYwJMYa2qJyglHyX+a2z2UVXCFqJ6v9fL987XKk=",
             "type": "github"
         },
-        "version": "7612a9d1d534ad86bd5759579e4a317393810d96"
+        "version": "8143c07de62371e3e1580addf8214b7d8cf61972"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qmAVvQODg3NlQDA86E8pBS/xvDalnasGzVAcQV3xlhY=",
+            "sha256": "sha256-PwMpcUaLQrTQUrLp5TokAyyETBAwIsSswk7r46ZiGZ4=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.134.0/revanced-patches-2.134.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.134.1/revanced-patches-2.134.1.jar"
         },
-        "version": "2.134.0"
+        "version": "2.134.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
