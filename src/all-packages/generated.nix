@@ -96,21 +96,21 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "072a066f288a9da90572f8f0c99af5177c36831e";
+    version = "14bf07ba79ae86103d1caf06cd09c36e78b5a8e2";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "072a066f288a9da90572f8f0c99af5177c36831e";
+      rev = "14bf07ba79ae86103d1caf06cd09c36e78b5a8e2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Wl33bPJVbJqHg8DeidXQ18tys/c0guUdjwDqdc4YY0k=";
+      sha256 = "sha256-hrmH4DDNzc7iMa5YJUQEb3Ng4QekPG+CoGWoHtv9e58=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-072a066f288a9da90572f8f0c99af5177c36831e/Cargo.lock;
+      lockFile = ./asusctl-14bf07ba79ae86103d1caf06cd09c36e78b5a8e2/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
-        "notify-rust-4.5.11" = "sha256-ybjbKl/5326L4RKene8WrBd3k6KCbanx/UrFbUzoxpo=";
+        "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
   };
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.134.1";
+    version = "2.135.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.134.1/revanced-patches-2.134.1.jar";
-      sha256 = "sha256-PwMpcUaLQrTQUrLp5TokAyyETBAwIsSswk7r46ZiGZ4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.135.0/revanced-patches-2.135.0.jar";
+      sha256 = "sha256-zVp9AgBPlmPO5ulggG2fuyK4fpoHfCiBhJEoUAHLRW4=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d5b4d2e2768f7e6e4055f2506c7e67b5f9adee43";
+    version = "e1d7d072a3e512fd5d4d27bba56b9b319c2a93dc";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d5b4d2e2768f7e6e4055f2506c7e67b5f9adee43";
+      rev = "e1d7d072a3e512fd5d4d27bba56b9b319c2a93dc";
       fetchSubmodules = false;
-      sha256 = "sha256-PU/N94/jspFcSlF3BAnfmBsCczG7rAdbVf2vO4WZA2A=";
+      sha256 = "sha256-+ObWoiM8xYmddBdSUm0KpgkeJHEtvpDZQ4nZzHzZ5Cs=";
     });
   };
   tailscale-systray = {
