@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6843";
+    version = "1.0.6844";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6843.tar.bz2";
-      sha256 = "sha256-SaEADNo+zkVo8zAas0Slctxx6xvq+VZaq5zhZ4hyATA=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6844.tar.bz2";
+      sha256 = "sha256-ogmfQoM7wHzxaoHc1DjXcOmBcf0S/cJxruxeo4Y09qc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6843";
+    version = "1.0.6844";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6843-1_all.deb";
-      sha256 = "sha256-NaUjGuuFhupHhLkBBMV0PVpy7LaFPViu6INsjQ8Dtuo=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6844-1_all.deb";
+      sha256 = "sha256-RpbV5OPjW59w/KHg3ub4XcXg/dx5nAuHld0n56FO1cE=";
     };
   };
   jitsi-videobridge2 = {
@@ -783,13 +783,13 @@
   };
   picom = {
     pname = "picom";
-    version = "8143c07de62371e3e1580addf8214b7d8cf61972";
+    version = "0d2b14d0c3435c72ce8b3f75c627a0fa937809fa";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "8143c07de62371e3e1580addf8214b7d8cf61972";
+      rev = "0d2b14d0c3435c72ce8b3f75c627a0fa937809fa";
       fetchSubmodules = false;
-      sha256 = "sha256-ZrJyhYwJMYa2qJyglHyX+a2z2UVXCFqJ6v9fL987XKk=";
+      sha256 = "sha256-bZVcsgX52GjmiORAY6P6ZramZLaAO8rWQpNVpZRtTG4=";
     });
   };
   playit-agent = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5024809c858d2612bdc4864ce1b6ed7b3a7eddc4";
+    version = "37918604886bc2d2f89d1820e14ae95db8f81138";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5024809c858d2612bdc4864ce1b6ed7b3a7eddc4";
+      rev = "37918604886bc2d2f89d1820e14ae95db8f81138";
       fetchSubmodules = false;
-      sha256 = "sha256-9q2PciP2lMi+v1thcx0F1EcwKYrjyACTgx/FR5uxURM=";
+      sha256 = "sha256-ZgpqZdID/d6w0/E1i3KOmp3IK/d8v5Marfviuey7oOk=";
     });
   };
   revanced-cli = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5b8323509f0a842f2e2be76fda28d666265b5a13";
+    version = "b9dd3fa534055f303eb09576d33ee3ba6fd739bc";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5b8323509f0a842f2e2be76fda28d666265b5a13";
+      rev = "b9dd3fa534055f303eb09576d33ee3ba6fd739bc";
       fetchSubmodules = false;
-      sha256 = "sha256-gTrakolR+Q2p9SUleK05bl+eBZxHP/4bndbpJS5eleI=";
+      sha256 = "sha256-SpduObLSykfTjNiNQpNKWsU5RWfWnY9mTVfKwRtCF18=";
     });
   };
   tailscale-systray = {
