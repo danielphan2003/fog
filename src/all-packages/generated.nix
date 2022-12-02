@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "bf52545a9136bff63fdc2c2856f358197fb2c2c5";
+    version = "70d4fadc39954ce9712cf1504a32a990b87ff131";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "bf52545a9136bff63fdc2c2856f358197fb2c2c5";
+      rev = "70d4fadc39954ce9712cf1504a32a990b87ff131";
       fetchSubmodules = false;
-      sha256 = "sha256-15Z0bup25My/e6QdGNoT8yWWqu9CJJAIgH7dkqczUcY=";
+      sha256 = "sha256-tadd5GosX0q1l6SYvt5GzSa/MABriXVkf4nU74VTn9M=";
     });
   };
   ibus = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-961";
+    version = "1.0-962";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-961-1_all.deb";
-      sha256 = "sha256-LN9ZrckBgtWE58T+bi4rogtAIvXqM/moJv9GxfcDSa4=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-962-1_all.deb";
+      sha256 = "sha256-kfz6be710ZrY4SBfUKD53bSWyYDn4LrNpvnciEQj2qs=";
     };
   };
   jitsi-meet = {
@@ -656,10 +656,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "108.0.1462.35";
+    version = "108.0.1462.38";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.35-1_amd64.deb";
-      sha256 = "sha256-7aXJBAc7DfgUj8ZlBdFLFjMkHtpBlZnhmPSkiDpzTF0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.38-1_amd64.deb";
+      sha256 = "sha256-2lkzFATrPHW4DFIhIYdCvv34cKHrImNw8mjWn/IvvnA=";
     };
   };
   microsoft-edge-dev = {
