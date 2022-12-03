@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cb85eea261d7ee9994bcf8d3152b119e730270b9";
+    version = "056a45d035781a74ae80d5a5f0247f3338dca05d";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "cb85eea261d7ee9994bcf8d3152b119e730270b9";
+      rev = "056a45d035781a74ae80d5a5f0247f3338dca05d";
       fetchSubmodules = false;
-      sha256 = "sha256-wyTWWhsYNs6KfbNVPmAhhmWerK+LKhwJgIL388h7Pr0=";
+      sha256 = "sha256-7Iatqaqttd5j0Aei0vmcmrv2cRW0jtbTNhINRuDLAL0=";
     });
   };
   ibus = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9d062beb0ae314a456f80a4e5c4d3add242c8b97";
+    version = "9dc7b3b6ded69f50021fd866d031289f9f3b9e94";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9d062beb0ae314a456f80a4e5c4d3add242c8b97";
+      rev = "9dc7b3b6ded69f50021fd866d031289f9f3b9e94";
       fetchSubmodules = false;
-      sha256 = "sha256-ePIpmG+vT7RPTJb5uP98mh6zFmkys4LrnZB+b9jCtOI=";
+      sha256 = "sha256-XPXfndiiURqKxKfjCzawgdTgr1lY6/1xSF9J91lZ1as=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9d062beb0ae314a456f80a4e5c4d3add242c8b97/Cargo.lock;
+      lockFile = ./rustdesk-9dc7b3b6ded69f50021fd866d031289f9f3b9e94/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -993,7 +993,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-Vuw3QRoax/6P8GI7NVfowW7VNsmcPm21rPehdKNG3yA=";
         "mouce-0.2.1" = "sha256-DTmxOercPyra3F8IjnpW+UeY9i2E6wXZNhoSkQ4M+LY=";
-        "rdev-0.5.0-2" = "sha256-POdy4GIXqxDeuiUYbvp5Tm01QS7fdm4TmcjqbU8Jio4=";
+        "rdev-0.5.0-2" = "sha256-1+or11rc1D2QmJNQHk0ZXXexmsdIOFfEvFBINGmfXn0=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
