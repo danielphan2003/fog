@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6",
-            "sha256": "sha256-hqLEdUi/kRD8OwV0P3ASANptJqwRbI9xpKJWukX5Dws=",
+            "rev": "d6d0325e85fc38de055cc53f490034586308fb61",
+            "sha256": "sha256-ERdZpC99GbXKuZZB2oa/vYMfCDNr9icpo/23RjDTR9U=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6"
+        "version": "d6d0325e85fc38de055cc53f490034586308fb61"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PZwpV38+SHw8MCm6pJLaebnGMbahJH1+/EdtCP23nFc=",
+            "sha256": "sha256-dPFQBY2y5Tbn4siNjCNXt0y7ddizjkjGA0kUDKAX+hc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.80.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.81.0/app-release-unsigned.apk"
         },
-        "version": "0.80.0"
+        "version": "0.81.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-He5QJNu/J47A40EdxgdwKCwKe1u91y4aA1uDQDBy584=",
+            "sha256": "sha256-mPI+3+PchSsmP3GRYWUlHioi/STYzQYZuYLc1W1b7V8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.136.0/revanced-patches-2.136.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.137.0/revanced-patches-2.137.0.jar"
         },
-        "version": "2.136.0"
+        "version": "2.137.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,

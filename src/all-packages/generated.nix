@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6";
+    version = "d6d0325e85fc38de055cc53f490034586308fb61";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "371d41d1eade9ff7d1ca7a5f1d6a677e21c6abc6";
+      rev = "d6d0325e85fc38de055cc53f490034586308fb61";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-hqLEdUi/kRD8OwV0P3ASANptJqwRbI9xpKJWukX5Dws=";
+      sha256 = "sha256-ERdZpC99GbXKuZZB2oa/vYMfCDNr9icpo/23RjDTR9U=";
     };
   };
   flyingfox = {
@@ -945,18 +945,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.80.0";
+    version = "0.81.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.80.0/app-release-unsigned.apk";
-      sha256 = "sha256-PZwpV38+SHw8MCm6pJLaebnGMbahJH1+/EdtCP23nFc=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.81.0/app-release-unsigned.apk";
+      sha256 = "sha256-dPFQBY2y5Tbn4siNjCNXt0y7ddizjkjGA0kUDKAX+hc=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.136.0";
+    version = "2.137.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.136.0/revanced-patches-2.136.0.jar";
-      sha256 = "sha256-He5QJNu/J47A40EdxgdwKCwKe1u91y4aA1uDQDBy584=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.137.0/revanced-patches-2.137.0.jar";
+      sha256 = "sha256-mPI+3+PchSsmP3GRYWUlHioi/STYzQYZuYLc1W1b7V8=";
     };
   };
   rofi-wayland = {
