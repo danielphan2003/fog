@@ -214,11 +214,11 @@
             "name": null,
             "owner": "awesomeWM",
             "repo": "awesome",
-            "rev": "90460b47d3df1ca0364a4b5177dbbb1aae6cc003",
-            "sha256": "sha256-/b2H41yUATAsRkv44uZhgN90FJhC7RS4Q4ZKtX9lY3U=",
+            "rev": "e281fa3a3203334138a86179d0aa1ed118a05bc3",
+            "sha256": "sha256-1I4In+cRLlogxAHyto/Do+OaLNWL8jCy/m4UrInlJzY=",
             "type": "github"
         },
-        "version": "90460b47d3df1ca0364a4b5177dbbb1aae6cc003"
+        "version": "e281fa3a3203334138a86179d0aa1ed118a05bc3"
     },
     "awestore": {
         "cargoLocks": null,
