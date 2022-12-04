@@ -1102,13 +1102,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "67b3ca32bc80753f7c8bbd0c10f318b4d4bb4e80";
+    version = "4c44e4c358930ac068ade7164fcb73f503f1be2c";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "67b3ca32bc80753f7c8bbd0c10f318b4d4bb4e80";
+      rev = "4c44e4c358930ac068ade7164fcb73f503f1be2c";
       fetchSubmodules = false;
-      sha256 = "sha256-zYL/EiiX8kzpZitHhvTJFkGPDYR5ojMAqDqTwkCAYoY=";
+      sha256 = "sha256-mnugkGgm9NgvD3Fny/ADqlb/688/e3kyIN3LIKppIHw=";
     });
   };
   spicetify-themes = {
@@ -1310,10 +1310,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.82";
+    version = "1.0.83";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.82/ventoy-1.0.82-linux.tar.gz";
-      sha256 = "sha256-NN36gg2rUZgAxyMoYhMc7IbWgQLrPvuWERDF7JVsFfw=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.83/ventoy-1.0.83-linux.tar.gz";
+      sha256 = "sha256-3jzuM5Qrn6xkD8hLKIUOXhwf7xvH+PjpwoTcjyydqR8=";
     };
   };
   vimPlugins-yuck = {
