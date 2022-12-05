@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "616fb3aea6f695cf01bff62879148ae07362e7c1";
+    version = "559ddc9a22954736dd5b180de3e6ce5881c58855";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "616fb3aea6f695cf01bff62879148ae07362e7c1";
+      rev = "559ddc9a22954736dd5b180de3e6ce5881c58855";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vfi/0foDYnURVzXyHySCa1SaxbBh8/gwfKEijEsgw8Q=";
+      sha256 = "sha256-NMGfyXGfO5BoyUMSePzmVOMZV1XVtD053HCYOeSjKSA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-616fb3aea6f695cf01bff62879148ae07362e7c1/Cargo.lock;
+      lockFile = ./asusctl-559ddc9a22954736dd5b180de3e6ce5881c58855/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a22bac091c5b8e83b5aafc5bca5b7dda9e6ff24f";
+    version = "56fe3d6629dd016d63d394db0b5c115863d0688c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a22bac091c5b8e83b5aafc5bca5b7dda9e6ff24f";
+      rev = "56fe3d6629dd016d63d394db0b5c115863d0688c";
       fetchSubmodules = false;
-      sha256 = "sha256-qSDV05EsMaK1hmhdS6XlyYVJbXIk3OY3z6BU3tO9KGw=";
+      sha256 = "sha256-+LkBBaCdZeW7JhKau8roeF4pvY35FOB/uxL7E+rzlsk=";
     });
   };
   revanced-cli = {
@@ -956,7 +956,7 @@
     version = "2.140.0";
     src = fetchurl {
       url = "https://github.com/revanced/revanced-patches/releases/download/v2.140.0/revanced-patches-2.140.0.jar";
-      sha256 = "sha256-LSOQmg7bVW6pm+gDGHbToJy8Fnh/6mqCjrv6hi3ePjk=";
+      sha256 = "sha256-66J9hIjhnEW48qiKLKN4V7SoFvxMcZb8LJMHK4aIqDg=";
     };
   };
   rofi-wayland = {
