@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a11555a3f2a84064fc0883a3154c1159dc246bcd";
+    version = "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a11555a3f2a84064fc0883a3154c1159dc246bcd";
+      rev = "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4";
       fetchSubmodules = false;
-      sha256 = "sha256-g6dg10xBORlucc6UDnq+84TIEnUK1n6fXd5+8wi+DwA=";
+      sha256 = "sha256-paUu64izaLRf3rXGKU6kp1pCoM3Om1Guo+PK4tqocBo=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d";
+    version = "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d";
+      rev = "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24";
       fetchSubmodules = false;
-      sha256 = "sha256-arKi6HkniqBLyyQYUKdxaLp/PNrBcw0OditabffLnUw=";
+      sha256 = "sha256-xe3u9McEMpD20jK1/EvNSma974177AgL6eOFFXvwbpQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c3ea787aa8847c3b9045770b20f6c29cb5da5b7d/Cargo.lock;
+      lockFile = ./rustdesk-1145ea50c91d7ce2fd61312b2f7f72a93fd61a24/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1091,13 +1091,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "447f93b1c651c717346e66929d4294b349bef064";
+    version = "b2ee83524e2b0b133d556955b785c1951bd958e7";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "447f93b1c651c717346e66929d4294b349bef064";
+      rev = "b2ee83524e2b0b133d556955b785c1951bd958e7";
       fetchSubmodules = false;
-      sha256 = "sha256-PsIv4823byqF25/DMo0DH4d43ItspmitzNo8KfQfzZQ=";
+      sha256 = "sha256-L4C+v0oriYEBwDpHDybNxVtsbtPAhaSKP5eGx9qH9OQ=";
     });
   };
   spicetify-marketplace = {

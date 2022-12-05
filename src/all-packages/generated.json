@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "a11555a3f2a84064fc0883a3154c1159dc246bcd",
-            "sha256": "sha256-g6dg10xBORlucc6UDnq+84TIEnUK1n6fXd5+8wi+DwA=",
+            "rev": "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4",
+            "sha256": "sha256-paUu64izaLRf3rXGKU6kp1pCoM3Om1Guo+PK4tqocBo=",
             "type": "github"
         },
-        "version": "a11555a3f2a84064fc0883a3154c1159dc246bcd"
+        "version": "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c3ea787aa8847c3b9045770b20f6c29cb5da5b7d/Cargo.lock",
+                "./rustdesk-1145ea50c91d7ce2fd61312b2f7f72a93fd61a24/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d",
-            "sha256": "sha256-arKi6HkniqBLyyQYUKdxaLp/PNrBcw0OditabffLnUw=",
+            "rev": "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24",
+            "sha256": "sha256-xe3u9McEMpD20jK1/EvNSma974177AgL6eOFFXvwbpQ=",
             "type": "github"
         },
-        "version": "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d"
+        "version": "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1814,11 +1814,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "447f93b1c651c717346e66929d4294b349bef064",
-            "sha256": "sha256-PsIv4823byqF25/DMo0DH4d43ItspmitzNo8KfQfzZQ=",
+            "rev": "b2ee83524e2b0b133d556955b785c1951bd958e7",
+            "sha256": "sha256-L4C+v0oriYEBwDpHDybNxVtsbtPAhaSKP5eGx9qH9OQ=",
             "type": "github"
         },
-        "version": "447f93b1c651c717346e66929d4294b349bef064"
+        "version": "b2ee83524e2b0b133d556955b785c1951bd958e7"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
