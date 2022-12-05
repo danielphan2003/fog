@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f71f04db9e13950af4a97ae6c8cd31311f8cb6bd";
+    version = "20b91f58f8f8cc7cda7cca7e7683e4c5178f0479";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f71f04db9e13950af4a97ae6c8cd31311f8cb6bd";
+      rev = "20b91f58f8f8cc7cda7cca7e7683e4c5178f0479";
       fetchSubmodules = false;
-      sha256 = "sha256-/Mj5VQc5fQeY65XfCHHEBjMDCu1pNTeh8mpQz3D8Yvs=";
+      sha256 = "sha256-aHYSO5cs4Ve69k6+zaNy3+ZW/siN+8drHXtLWRo1YyY=";
     });
   };
   ibus = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-963";
+    version = "1.0-964";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-963-1_all.deb";
-      sha256 = "sha256-a/X48w4wD8hV17XWhlBjIAdrSDcBFepx2jiqOZBbvkI=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-964-1_all.deb";
+      sha256 = "sha256-Uz+XhzOHBIrx1yClYXRoSHtY8sWeJ4xs6S7RfvZcX/A=";
     };
   };
   jitsi-meet = {
@@ -691,10 +691,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.37.0";
+    version = "1.37.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.37.0.tar.gz";
-      sha256 = "sha256-Bmb4Vj3lH92TAxTRkyhPfJuO725UYqKLj8juJAaPQ/k=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.37.1.tar.gz";
+      sha256 = "sha256-7nHleiQ+01ARbERqAtb/KCo8g2whRuTFA/++CHPMt+A=";
     };
   };
   netdata-go-d-plugin = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2c42912185e5810b481313ee753af813367e32fb";
+    version = "a22bac091c5b8e83b5aafc5bca5b7dda9e6ff24f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2c42912185e5810b481313ee753af813367e32fb";
+      rev = "a22bac091c5b8e83b5aafc5bca5b7dda9e6ff24f";
       fetchSubmodules = false;
-      sha256 = "sha256-zgppsU/wn+mBn3iZtW5X4S5crioz1beP66wqQwUUK+I=";
+      sha256 = "sha256-qSDV05EsMaK1hmhdS6XlyYVJbXIk3OY3z6BU3tO9KGw=";
     });
   };
   revanced-cli = {
