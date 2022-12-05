@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-965";
+    version = "1.0-966";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-965-1_all.deb";
-      sha256 = "sha256-v8ilfCR86QrYANaMCYspQjeeoMyOZDYk8tM+64jMQyM=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-966-1_all.deb";
+      sha256 = "sha256-fAYcJ06NuMKwAVb8jU5NpYVaWdlG8eK5VTTK9O7o1Qs=";
     };
   };
   jitsi-meet = {
@@ -937,26 +937,26 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.16.1";
+    version = "2.16.2-dev.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.1/revanced-cli-2.16.1-all.jar";
-      sha256 = "sha256-9i2n6dHIuGT57eKaL3cR/x6NniAEsQ64zvghUnQFMkA=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.1/revanced-cli-2.16.2-dev.1-all.jar";
+      sha256 = "sha256-kSDa/u8ioFNiOlxZx77zTEyz/QRUtUcNoPMnZpAjJ3w=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.82.0";
+    version = "0.83.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.82.0/app-release-unsigned.apk";
-      sha256 = "sha256-WFm1hGxPqwc1AZdPXTnz/e9+MxRpBS/teGumGIhtCxQ=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.83.0/app-release-unsigned.apk";
+      sha256 = "sha256-ThABoeWBC2fl+znrNYImqR68pYzrOJu1FA5Q1dLxIl0=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.140.0";
+    version = "2.141.0-dev.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.140.0/revanced-patches-2.140.0.jar";
-      sha256 = "sha256-66J9hIjhnEW48qiKLKN4V7SoFvxMcZb8LJMHK4aIqDg=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.141.0-dev.2/revanced-patches-2.141.0-dev.2.jar";
+      sha256 = "sha256-K490V33CoQdnyFmV9VVJ7MFHrVWn8RUkP/O7e1gh3Hs=";
     };
   };
   rofi-wayland = {
