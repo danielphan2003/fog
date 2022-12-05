@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "6e6e0579959316c26eb109693c0eed45a491c9d4";
+    version = "616fb3aea6f695cf01bff62879148ae07362e7c1";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "6e6e0579959316c26eb109693c0eed45a491c9d4";
+      rev = "616fb3aea6f695cf01bff62879148ae07362e7c1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6kU6JDq5k/8DFASh/MAeFN/svOOfzgL1wVZicHNOdYo=";
+      sha256 = "sha256-vfi/0foDYnURVzXyHySCa1SaxbBh8/gwfKEijEsgw8Q=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-6e6e0579959316c26eb109693c0eed45a491c9d4/Cargo.lock;
+      lockFile = ./asusctl-616fb3aea6f695cf01bff62879148ae07362e7c1/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "d6d0325e85fc38de055cc53f490034586308fb61";
+    version = "4bddd4a77fcc48f1eda5b43d739811b2ab8f76a5";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "d6d0325e85fc38de055cc53f490034586308fb61";
+      rev = "4bddd4a77fcc48f1eda5b43d739811b2ab8f76a5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ERdZpC99GbXKuZZB2oa/vYMfCDNr9icpo/23RjDTR9U=";
+      sha256 = "sha256-Eq0Rte4B2N4+hXUVJHlbkgyxmoXAOxxqm07KnHniVGY=";
     };
   };
   flyingfox = {
@@ -822,22 +822,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.50.0";
+    version = "1.50.1";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.50.0.tar.gz";
-      sha256 = "sha256-UtXUq+B3EMHS3CTqfzbyQK0gHgrFwcwQ6zTzw/EwIuA=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.50.1.tar.gz";
+      sha256 = "sha256-2S3I3J3wmRkVSUshyQCUTuYgHLsDMnXZQHt7KySBzIY=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "bb5399d6d5c15a385d009e7bda9ac5c143bb4308";
+    version = "9d93d34b65363ec6bb32b6345ec9ed685e5f9602";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "bb5399d6d5c15a385d009e7bda9ac5c143bb4308";
+      rev = "9d93d34b65363ec6bb32b6345ec9ed685e5f9602";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7QNw7WDj6sJDy1fx6nwg5ssixQYi4RzCZKJs45Rwg7o=";
+      sha256 = "sha256-UkgCNob4nazFO8xXyosV+11Sj4yveYBfgh7aw+/6Rlg=";
     };
   };
   pure = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a472439db7646c8848b9e7a5d178182a519a0996";
+    version = "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a472439db7646c8848b9e7a5d178182a519a0996";
+      rev = "c3ea787aa8847c3b9045770b20f6c29cb5da5b7d";
       fetchSubmodules = false;
-      sha256 = "sha256-ilPy+Guohs2AAzFea1NkmgVRMKjHnajKFts2XsjaOZw=";
+      sha256 = "sha256-arKi6HkniqBLyyQYUKdxaLp/PNrBcw0OditabffLnUw=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a472439db7646c8848b9e7a5d178182a519a0996/Cargo.lock;
+      lockFile = ./rustdesk-c3ea787aa8847c3b9045770b20f6c29cb5da5b7d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
