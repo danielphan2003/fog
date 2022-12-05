@@ -925,11 +925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yuWMmBYpUucZdKMI+r9nXuegLAGics8+p+FowhfBe1w=",
+            "sha256": "sha256-3XXGFtJCQcV+bxXY/NCFZkRm8mh8lu5S9g5A7EYbKNE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6845.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6846.tar.bz2"
         },
-        "version": "1.0.6845"
+        "version": "1.0.6846"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4",
-            "sha256": "sha256-paUu64izaLRf3rXGKU6kp1pCoM3Om1Guo+PK4tqocBo=",
+            "rev": "fd59309fcdf2ec7d38ed1019a962d961f1ee5109",
+            "sha256": "sha256-gi+2DvcGOxz2BAgvSQejDxCzPnOBun45f2j4jPvwfmQ=",
             "type": "github"
         },
-        "version": "440c7a5ddfa66c3bbd48e4c32601867bd995f8f4"
+        "version": "fd59309fcdf2ec7d38ed1019a962d961f1ee5109"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P1/Y6An/6FS6KRvY8l/z3wpE9b+O5HZeS3G4BtBeM38=",
+            "sha256": "sha256-JYNaIFKXrkTQ0QqNnnS53xo5JqXMm8zDyMjbwvf53AQ=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.138.0/revanced-patches-2.138.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.139.0/revanced-patches-2.139.0.jar"
         },
-        "version": "2.138.0"
+        "version": "2.139.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1145ea50c91d7ce2fd61312b2f7f72a93fd61a24/Cargo.lock",
+                "./rustdesk-754d6eb9ba28c51072717e6fbbe546932df01dae/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24",
-            "sha256": "sha256-xe3u9McEMpD20jK1/EvNSma974177AgL6eOFFXvwbpQ=",
+            "rev": "754d6eb9ba28c51072717e6fbbe546932df01dae",
+            "sha256": "sha256-BFj1KHTBbDg9pZvCMgCQmWWCRq8nD6Flq4N0e5s70p4=",
             "type": "github"
         },
-        "version": "1145ea50c91d7ce2fd61312b2f7f72a93fd61a24"
+        "version": "754d6eb9ba28c51072717e6fbbe546932df01dae"
     },
     "rustdesk-server": {
         "cargoLocks": {
