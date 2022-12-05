@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "20b91f58f8f8cc7cda7cca7e7683e4c5178f0479",
-            "sha256": "sha256-aHYSO5cs4Ve69k6+zaNy3+ZW/siN+8drHXtLWRo1YyY=",
+            "rev": "9c67e08dbdf441cf3d51095eb598dcec52da7918",
+            "sha256": "sha256-pVTJzu7RdRPhcp713K0i23lepbmLoPk2onkZfBPo+W0=",
             "type": "github"
         },
-        "version": "20b91f58f8f8cc7cda7cca7e7683e4c5178f0479"
+        "version": "9c67e08dbdf441cf3d51095eb598dcec52da7918"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1095,11 +1095,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2lkzFATrPHW4DFIhIYdCvv34cKHrImNw8mjWn/IvvnA=",
+            "sha256": "sha256-D/Y+XfNDqxSV9t5yofcPQDECqDBUWpfoHerBT2GJyrM=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.38-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_108.0.1462.42-1_amd64.deb"
         },
-        "version": "108.0.1462.38"
+        "version": "108.0.1462.42"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1123,11 +1123,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6V+pTY1Y75iRrVDW+TIcCgkHm4YyIONy4xWNDki5i84=",
+            "sha256": "sha256-sdcSEB45C4I1iB75k1SZj5NI12hooI2vubfYmiqiuqM=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_107.0.1418.62-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_108.0.1462.42-1_amd64.deb"
         },
-        "version": "107.0.1418.62"
+        "version": "108.0.1462.42"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-754d6eb9ba28c51072717e6fbbe546932df01dae/Cargo.lock",
+                "./rustdesk-ab3d827b6b2a831c596a8a74c003f19d326181a3/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "754d6eb9ba28c51072717e6fbbe546932df01dae",
-            "sha256": "sha256-BFj1KHTBbDg9pZvCMgCQmWWCRq8nD6Flq4N0e5s70p4=",
+            "rev": "ab3d827b6b2a831c596a8a74c003f19d326181a3",
+            "sha256": "sha256-W9Bg4BuIlmLq7oC6cR+ckUD2dJLx+JjW+L6trdEfvsY=",
             "type": "github"
         },
-        "version": "754d6eb9ba28c51072717e6fbbe546932df01dae"
+        "version": "ab3d827b6b2a831c596a8a74c003f19d326181a3"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "964d723aba1057280399d37e6e3c4ac7ad5a217c",
-            "sha256": "sha256-R7GhQbNxkzlXQIxqHdPS1KlAnxdqMTTGu6iu9rLdNb4=",
+            "rev": "c933b8882c774d8868d973feca95308f2a574e9e",
+            "sha256": "sha256-WOusZHUgtjTDHBN1ibiwHnkYjCqKcyZD4MqtAKX47lA=",
             "type": "github"
         },
-        "version": "964d723aba1057280399d37e6e3c4ac7ad5a217c"
+        "version": "c933b8882c774d8868d973feca95308f2a574e9e"
     },
     "tailscale-systray": {
         "cargoLocks": null,
