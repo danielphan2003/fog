@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JYNaIFKXrkTQ0QqNnnS53xo5JqXMm8zDyMjbwvf53AQ=",
+            "sha256": "sha256-LSOQmg7bVW6pm+gDGHbToJy8Fnh/6mqCjrv6hi3ePjk=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.139.0/revanced-patches-2.139.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.140.0/revanced-patches-2.140.0.jar"
         },
-        "version": "2.139.0"
+        "version": "2.140.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9c773af04cb980dbfa709df236f7ae6290f36ce4",
-            "sha256": "sha256-ODwA9Pt9+pBesw1JlE7dyTFbYUCko/pR4RbdjEd8H50=",
+            "rev": "cb525a1aadb1cb1d1d55b0716ef6ef161b7c4068",
+            "sha256": "sha256-bL4QSfJWQ0aqC1dYbheT+aZngFHqLUZAt/2Yjb9crzo=",
             "type": "github"
         },
-        "version": "9c773af04cb980dbfa709df236f7ae6290f36ce4"
+        "version": "cb525a1aadb1cb1d1d55b0716ef6ef161b7c4068"
     },
     "tailscale-systray": {
         "cargoLocks": null,
