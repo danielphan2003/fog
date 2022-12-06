@@ -1109,11 +1109,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CZlAJ6msBuFfsfHC9eWeV1UOyCZjoEA71QP9gwixCbQ=",
+            "sha256": "sha256-LtDOwYtuhGikXLQSxzKB8yV5cbiqPh6PcOdCSvtphKg=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_109.0.1518.8-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_109.0.1518.12-1_amd64.deb"
         },
-        "version": "109.0.1518.8"
+        "version": "109.0.1518.12"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
