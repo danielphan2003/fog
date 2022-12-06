@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "559ddc9a22954736dd5b180de3e6ce5881c58855";
+    version = "b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "559ddc9a22954736dd5b180de3e6ce5881c58855";
+      rev = "b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NMGfyXGfO5BoyUMSePzmVOMZV1XVtD053HCYOeSjKSA=";
+      sha256 = "sha256-/fyAVcWN5OcpgDyRsjQq9XR9Wd2i9HEqYoaTA8+1+68=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-559ddc9a22954736dd5b180de3e6ce5881c58855/Cargo.lock;
+      lockFile = ./asusctl-b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -1091,13 +1091,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b2ee83524e2b0b133d556955b785c1951bd958e7";
+    version = "cbb4e60c1ae4124fb1ad9883313334f66520abd9";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "b2ee83524e2b0b133d556955b785c1951bd958e7";
+      rev = "cbb4e60c1ae4124fb1ad9883313334f66520abd9";
       fetchSubmodules = false;
-      sha256 = "sha256-L4C+v0oriYEBwDpHDybNxVtsbtPAhaSKP5eGx9qH9OQ=";
+      sha256 = "sha256-8sEvidylv5cF4ABQu26W2c5NUM/5O++IwhaP1RazZVY=";
     });
   };
   spicetify-marketplace = {
@@ -1157,13 +1157,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "02609a4772f1762c9d94172dc327781971b856ff";
+    version = "b6173dcd557424290130d92c02ae3d4276941e91";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "02609a4772f1762c9d94172dc327781971b856ff";
+      rev = "b6173dcd557424290130d92c02ae3d4276941e91";
       fetchSubmodules = false;
-      sha256 = "sha256-sFMSWLu7M+j4coK7Zca8GS+2u3rPINC+E26W/KoxKmA=";
+      sha256 = "sha256-vefULbcFNWfoVtrwaQUFy/A85qA0LaQJJO3oW3HZOKY=";
     });
   };
   supergfxctl = {
