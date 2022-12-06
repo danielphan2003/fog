@@ -96,19 +96,19 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06";
+    version = "28347e87eb3dd434c9824f355c92ca056805417f";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06";
+      rev = "28347e87eb3dd434c9824f355c92ca056805417f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/fyAVcWN5OcpgDyRsjQq9XR9Wd2i9HEqYoaTA8+1+68=";
+      sha256 = "sha256-EKtHqdVW571AAhnYIVa+1yhR46PcsJuGf5mI//lI1iI=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-b34cb672c3aadc0edbf4a02fcad94ac3ed7d7f06/Cargo.lock;
+      lockFile = ./asusctl-28347e87eb3dd434c9824f355c92ca056805417f/Cargo.lock;
       outputHashes = {
-        "eframe-0.19.0" = "sha256-HW7gfs8vXXhQbNTBPdl3KurqcjvZHANoF2t0DAB+QDI=";
+        "eframe-0.19.0" = "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
@@ -212,13 +212,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "fef9cb3e05ea071cdfd9ed1a6be5c8dcabf6603e";
+    version = "bfaf2a8201b83d7369772cb6f2439abe66d9342a";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "fef9cb3e05ea071cdfd9ed1a6be5c8dcabf6603e";
+      rev = "bfaf2a8201b83d7369772cb6f2439abe66d9342a";
       fetchSubmodules = false;
-      sha256 = "sha256-SoQaxylkZtsDMCAKGSf54TU2rBknTIaWDWIEEcjNuKg=";
+      sha256 = "sha256-wFEaW1z3/xVlPVEJW4HXsns8mjqVoMjenlWn5Huq/68=";
     });
   };
   cinny = {
