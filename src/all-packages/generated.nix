@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "a9cc218ce12127e31829d7c0a062edd17a0f0329";
+    version = "93d472fe7431389cac2e3c1b1e9e6f9177daacf3";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "a9cc218ce12127e31829d7c0a062edd17a0f0329";
+      rev = "93d472fe7431389cac2e3c1b1e9e6f9177daacf3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5ZcU3IYaaUV3xf0JdmG9kvy4bfZ1DJki3lyElWLtdHg=";
+      sha256 = "sha256-/NQBeEQ3pWEIhAPiruhvtw261ErXEQVtfxEIy9X+Y08=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-a9cc218ce12127e31829d7c0a062edd17a0f0329/Cargo.lock;
+      lockFile = ./asusctl-93d472fe7431389cac2e3c1b1e9e6f9177daacf3/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-966";
+    version = "1.0-967";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-966-1_all.deb";
-      sha256 = "sha256-fAYcJ06NuMKwAVb8jU5NpYVaWdlG8eK5VTTK9O7o1Qs=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-967-1_all.deb";
+      sha256 = "sha256-M9tuIbBHko9qkX8VtQJxJKGDdLWci1OnRmd78FOfesY=";
     };
   };
   jitsi-meet = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "35326085884ee00098b499ee562d9c72bfd4e9b6";
+    version = "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "35326085884ee00098b499ee562d9c72bfd4e9b6";
+      rev = "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5";
       fetchSubmodules = false;
-      sha256 = "sha256-F/tLCYgMRpofr/jI9t04RlZ0WCIYXNNIbapxMFzj+4Y=";
+      sha256 = "sha256-PKoYmJ2M0XzTg3JXATjMSK5E0T5qqsmTkL6Md7wIYuM=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7099b53fb95a758ade36f58f88f699a2e08fa3f7";
+    version = "3e713607de59f02910f3f3fe0e3b6a545d410274";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7099b53fb95a758ade36f58f88f699a2e08fa3f7";
+      rev = "3e713607de59f02910f3f3fe0e3b6a545d410274";
       fetchSubmodules = false;
-      sha256 = "sha256-WQG5Tr8ozKlKoa+uxCP4zeIakdN+WvEPYpGuogxzGhw=";
+      sha256 = "sha256-R7p837+ac4KG8nKPsGeOgg4ZqyFCeF22JUHkiI04tgs=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-7099b53fb95a758ade36f58f88f699a2e08fa3f7/Cargo.lock;
+      lockFile = ./rustdesk-3e713607de59f02910f3f3fe0e3b6a545d410274/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1102,13 +1102,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "e29c2bcf8d4510b67bfcf55de88443bbe22566aa";
+    version = "cb97d974aff23f9ab437228aeb3e38fc77b5f247";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "e29c2bcf8d4510b67bfcf55de88443bbe22566aa";
+      rev = "cb97d974aff23f9ab437228aeb3e38fc77b5f247";
       fetchSubmodules = false;
-      sha256 = "sha256-gBQzIugVpJWOFqEfggOjrXPuiOgzF/FU7ZNkOSWSzcU=";
+      sha256 = "sha256-NnvjPDGgqD813Q1o8AX8O6DE6bJzxVOh9ZwKOqmxVVM=";
     });
   };
   spicetify-themes = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c084c7d7edf425fa661e7543298c14a93f867c81";
+    version = "a887ca7efe123afd711b17a1c2b6c9d28ca99a14";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c084c7d7edf425fa661e7543298c14a93f867c81";
+      rev = "a887ca7efe123afd711b17a1c2b6c9d28ca99a14";
       fetchSubmodules = false;
-      sha256 = "sha256-Y4dJAcQVrfW7UaamQh/iGQ3fZ5yJU1PQYp+cs+7x5zA=";
+      sha256 = "sha256-5hALqsBjeAWv5IYZDCLS6KVjnU4gZa5BL46FxMwg+nk=";
     });
   };
   tailscale-systray = {

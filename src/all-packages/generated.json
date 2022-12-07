@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-a9cc218ce12127e31829d7c0a062edd17a0f0329/Cargo.lock",
+                "./asusctl-93d472fe7431389cac2e3c1b1e9e6f9177daacf3/Cargo.lock",
                 {
                     "eframe-0.19.0": "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
@@ -175,12 +175,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a9cc218ce12127e31829d7c0a062edd17a0f0329",
-            "sha256": "sha256-5ZcU3IYaaUV3xf0JdmG9kvy4bfZ1DJki3lyElWLtdHg=",
+            "rev": "93d472fe7431389cac2e3c1b1e9e6f9177daacf3",
+            "sha256": "sha256-/NQBeEQ3pWEIhAPiruhvtw261ErXEQVtfxEIy9X+Y08=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "a9cc218ce12127e31829d7c0a062edd17a0f0329"
+        "version": "93d472fe7431389cac2e3c1b1e9e6f9177daacf3"
     },
     "avizo": {
         "cargoLocks": null,
@@ -911,11 +911,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fAYcJ06NuMKwAVb8jU5NpYVaWdlG8eK5VTTK9O7o1Qs=",
+            "sha256": "sha256-M9tuIbBHko9qkX8VtQJxJKGDdLWci1OnRmd78FOfesY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-966-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-967-1_all.deb"
         },
-        "version": "1.0-966"
+        "version": "1.0-967"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "35326085884ee00098b499ee562d9c72bfd4e9b6",
-            "sha256": "sha256-F/tLCYgMRpofr/jI9t04RlZ0WCIYXNNIbapxMFzj+4Y=",
+            "rev": "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5",
+            "sha256": "sha256-PKoYmJ2M0XzTg3JXATjMSK5E0T5qqsmTkL6Md7wIYuM=",
             "type": "github"
         },
-        "version": "35326085884ee00098b499ee562d9c72bfd4e9b6"
+        "version": "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-7099b53fb95a758ade36f58f88f699a2e08fa3f7/Cargo.lock",
+                "./rustdesk-3e713607de59f02910f3f3fe0e3b6a545d410274/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1650,11 +1650,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "7099b53fb95a758ade36f58f88f699a2e08fa3f7",
-            "sha256": "sha256-WQG5Tr8ozKlKoa+uxCP4zeIakdN+WvEPYpGuogxzGhw=",
+            "rev": "3e713607de59f02910f3f3fe0e3b6a545d410274",
+            "sha256": "sha256-R7p837+ac4KG8nKPsGeOgg4ZqyFCeF22JUHkiI04tgs=",
             "type": "github"
         },
-        "version": "7099b53fb95a758ade36f58f88f699a2e08fa3f7"
+        "version": "3e713607de59f02910f3f3fe0e3b6a545d410274"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1833,11 +1833,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "e29c2bcf8d4510b67bfcf55de88443bbe22566aa",
-            "sha256": "sha256-gBQzIugVpJWOFqEfggOjrXPuiOgzF/FU7ZNkOSWSzcU=",
+            "rev": "cb97d974aff23f9ab437228aeb3e38fc77b5f247",
+            "sha256": "sha256-NnvjPDGgqD813Q1o8AX8O6DE6bJzxVOh9ZwKOqmxVVM=",
             "type": "github"
         },
-        "version": "e29c2bcf8d4510b67bfcf55de88443bbe22566aa"
+        "version": "cb97d974aff23f9ab437228aeb3e38fc77b5f247"
     },
     "spicetify-themes": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c084c7d7edf425fa661e7543298c14a93f867c81",
-            "sha256": "sha256-Y4dJAcQVrfW7UaamQh/iGQ3fZ5yJU1PQYp+cs+7x5zA=",
+            "rev": "a887ca7efe123afd711b17a1c2b6c9d28ca99a14",
+            "sha256": "sha256-5hALqsBjeAWv5IYZDCLS6KVjnU4gZa5BL46FxMwg+nk=",
             "type": "github"
         },
-        "version": "c084c7d7edf425fa661e7543298c14a93f867c81"
+        "version": "a887ca7efe123afd711b17a1c2b6c9d28ca99a14"
     },
     "tailscale-systray": {
         "cargoLocks": null,
