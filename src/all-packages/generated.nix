@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "93d472fe7431389cac2e3c1b1e9e6f9177daacf3";
+    version = "8e8681c190a48af7bb13b1d7eb1da07b6dac3200";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "93d472fe7431389cac2e3c1b1e9e6f9177daacf3";
+      rev = "8e8681c190a48af7bb13b1d7eb1da07b6dac3200";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/NQBeEQ3pWEIhAPiruhvtw261ErXEQVtfxEIy9X+Y08=";
+      sha256 = "sha256-EauqdvlyfOhN/fLGMU9GSfqAv5wHDs8AxJXwANjn42A=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-93d472fe7431389cac2e3c1b1e9e6f9177daacf3/Cargo.lock;
+      lockFile = ./asusctl-8e8681c190a48af7bb13b1d7eb1da07b6dac3200/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "527f073e4ad4a7a31553493310db7459eaf8a751";
+    version = "061a9fb06c0dc6f8c7f39d3e78a35e8d22ad7770";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "527f073e4ad4a7a31553493310db7459eaf8a751";
+      rev = "061a9fb06c0dc6f8c7f39d3e78a35e8d22ad7770";
       fetchSubmodules = false;
-      sha256 = "sha256-cAuW7ZtS89/FzswP02Mb1Q4lfF1GNiSReuxhT2S6tQg=";
+      sha256 = "sha256-FLMjeQO/iYOwoatK1hjrwunk21oWmTylmK2M8neZy2I=";
     });
   };
   wgcf = {
