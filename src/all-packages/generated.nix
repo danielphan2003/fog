@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5b7fec481bcd795a518667eb19864d663b1a47d6";
+    version = "e1d7a133334936be2ddd55754787dcdcf4a95515";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "5b7fec481bcd795a518667eb19864d663b1a47d6";
+      rev = "e1d7a133334936be2ddd55754787dcdcf4a95515";
       fetchSubmodules = false;
-      sha256 = "sha256-cY7fuLOeVQDq4D9thbfsfM+U3Od3lM6Us7Ftu4fzTYE=";
+      sha256 = "sha256-m1JjdqVcwM2CAytb4Avfx+F7CFdT65dq71h33uOaaIQ=";
     });
   };
   ibus = {
@@ -664,10 +664,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "109.0.1518.12";
+    version = "110.0.1543.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_109.0.1518.12-1_amd64.deb";
-      sha256 = "sha256-LtDOwYtuhGikXLQSxzKB8yV5cbiqPh6PcOdCSvtphKg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1543.0-1_amd64.deb";
+      sha256 = "sha256-/ncQMFClTGqJsNIIy1y79sSn6iM/yx6Rw9Ybi7EfCPo=";
     };
   };
   microsoft-edge-stable = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "98f21354c686db82f75dd713be97cc4b568d50a3";
+    version = "55e0512a057a9f9e400de76906d2b8019d5eda2f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "98f21354c686db82f75dd713be97cc4b568d50a3";
+      rev = "55e0512a057a9f9e400de76906d2b8019d5eda2f";
       fetchSubmodules = false;
-      sha256 = "sha256-Sbob4Tjst0V2pSXQFPEcVcQulV1UKCalQbCIsPpQ9dM=";
+      sha256 = "sha256-Ud1jWOsxrBR9kDDuOLLoTrJ4cAUIl1REDQxPDq5CzR8=";
     });
   };
   tailscale-systray = {
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "cd0a81cf28bfa990bb85d660c239a9e45bcb48a6";
+    version = "527f073e4ad4a7a31553493310db7459eaf8a751";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "cd0a81cf28bfa990bb85d660c239a9e45bcb48a6";
+      rev = "527f073e4ad4a7a31553493310db7459eaf8a751";
       fetchSubmodules = false;
-      sha256 = "sha256-lnlFnOF+GbDHRI3xfHlOaP8B5WGz3Wjc7qtu8OCjHZI=";
+      sha256 = "sha256-cAuW7ZtS89/FzswP02Mb1Q4lfF1GNiSReuxhT2S6tQg=";
     });
   };
   wgcf = {
