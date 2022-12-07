@@ -925,11 +925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AxNUmjxDbt0DFFEP37Zl6O6OD+PoZV7dXAWvlFZMIsE=",
+            "sha256": "sha256-BOGghB1drxe241+Zk1p/DHjEAuTNyiMEx8c3lDERwP4=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6852.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6854.tar.bz2"
         },
-        "version": "1.0.6852"
+        "version": "1.0.6854"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -939,11 +939,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Rj41HOpNy27dH5HDKgsMmZsgJKjd6NyTTePd7b56wM4=",
+            "sha256": "sha256-+NpFjxoOsqweOQ0Q69OWxjfbHoLxo/qMrwlt7WJzWwM=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6852-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6854-1_all.deb"
         },
-        "version": "1.0.6852"
+        "version": "1.0.6854"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2027,11 +2027,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "a887ca7efe123afd711b17a1c2b6c9d28ca99a14",
-            "sha256": "sha256-5hALqsBjeAWv5IYZDCLS6KVjnU4gZa5BL46FxMwg+nk=",
+            "rev": "367228ef8210b78990a56c73270472cf63cce523",
+            "sha256": "sha256-r+WIROy8ntSACjQo2LV9WmXp6d6Qear70plEN4rht/M=",
             "type": "github"
         },
-        "version": "a887ca7efe123afd711b17a1c2b6c9d28ca99a14"
+        "version": "367228ef8210b78990a56c73270472cf63cce523"
     },
     "tailscale-systray": {
         "cargoLocks": null,
