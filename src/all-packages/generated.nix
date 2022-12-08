@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6259202c0182fe3e7e36ab5b3010db567738375a";
+    version = "050693be2ed63d377c7d275810df947dd1a7d7ee";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "6259202c0182fe3e7e36ab5b3010db567738375a";
+      rev = "050693be2ed63d377c7d275810df947dd1a7d7ee";
       fetchSubmodules = false;
-      sha256 = "sha256-MRpWkpdfyTw14CLUWl+yTCeQ4LT6NrU4jxg1GT09VQE=";
+      sha256 = "sha256-sJqkJm+KkbvEEg5y7Iq2H4xWvclNa9/UV2I+KlU8qVQ=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5";
+    version = "7b09cb2de43446e2263dc13637e6a2abcf74c307";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2f7c29862c9ba7bbdb726caa1f7af2fbe6ce98b5";
+      rev = "7b09cb2de43446e2263dc13637e6a2abcf74c307";
       fetchSubmodules = false;
-      sha256 = "sha256-PKoYmJ2M0XzTg3JXATjMSK5E0T5qqsmTkL6Md7wIYuM=";
+      sha256 = "sha256-SgTOgxZFndrhvJztvGZ3YBKQlPHAeWAvySpWV3DbVB8=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "06510ffa2238d2130892d32b6cfd4feb58628836";
+    version = "22d071d2ef94fda47ea90527054397ef239aa050";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "06510ffa2238d2130892d32b6cfd4feb58628836";
+      rev = "22d071d2ef94fda47ea90527054397ef239aa050";
       fetchSubmodules = false;
-      sha256 = "sha256-yR5aQmo/lVOBMTAvTu73sQft0FqO6sGcOMr/8OgI2VA=";
+      sha256 = "sha256-M61fKrSMUrfPichq0oCRrt3xGJ0jDySwnfXaUbE0SQ8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-06510ffa2238d2130892d32b6cfd4feb58628836/Cargo.lock;
+      lockFile = ./rustdesk-22d071d2ef94fda47ea90527054397ef239aa050/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -993,7 +993,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-Vuw3QRoax/6P8GI7NVfowW7VNsmcPm21rPehdKNG3yA=";
         "mouce-0.2.1" = "sha256-DTmxOercPyra3F8IjnpW+UeY9i2E6wXZNhoSkQ4M+LY=";
-        "rdev-0.5.0-2" = "sha256-1+or11rc1D2QmJNQHk0ZXXexmsdIOFfEvFBINGmfXn0=";
+        "rdev-0.5.0-2" = "sha256-D4hZWKyL9bOinpa2C4ABvK7O+wn7eiTWKucNJKCG9UI=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
