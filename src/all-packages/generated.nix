@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "c7893b16f940693d0a9ff981807c4cf7639c33c0";
+    version = "07daa0df611e0e1a700defe5c168b1b4538a738f";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "c7893b16f940693d0a9ff981807c4cf7639c33c0";
+      rev = "07daa0df611e0e1a700defe5c168b1b4538a738f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-3R8TAhOxnwKfA/Nc+R9JrLGMkZu9vGqCLbXUa8QGadA=";
+      sha256 = "sha256-nGG+JR91+Fkj+wjNBJWL+zjEGM1UxbRGJ57bOryklN4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-c7893b16f940693d0a9ff981807c4cf7639c33c0/Cargo.lock;
+      lockFile = ./asusctl-07daa0df611e0e1a700defe5c168b1b4538a738f/Cargo.lock;
       outputHashes = {
         "eframe-0.19.0" = "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
@@ -1351,24 +1351,24 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "99514337311b6ea1e4eb912870bc13bf31a061fd";
+    version = "fd35a4d208a57074f774d89ef0281a14ac57bfb0";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "99514337311b6ea1e4eb912870bc13bf31a061fd";
+      rev = "fd35a4d208a57074f774d89ef0281a14ac57bfb0";
       fetchSubmodules = false;
-      sha256 = "sha256-Seo6KaM3iCmt8j4kinC8e2yE6cGjuVkLxycLaZnr5uw=";
+      sha256 = "sha256-urd162hRdP597XZAhSXhTbLuGjVWjqsyDGVmykSEJR4=";
     });
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "ba112790c54c3508ffa0a5db6d3c1400d3e7155c";
+    version = "141e246dc979b9c4761fc73bc68a17841cb7c490";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "ba112790c54c3508ffa0a5db6d3c1400d3e7155c";
+      rev = "141e246dc979b9c4761fc73bc68a17841cb7c490";
       fetchSubmodules = false;
-      sha256 = "sha256-db5pGj9DLm8fC+Tfx+F9IgktxdkoPA74z+HDyACxOzg=";
+      sha256 = "sha256-2WeVcMUK8INjiXTzYnsViS6cajSEsy/joU9F1HotzAk=";
     });
   };
   widevine-cdm = {
