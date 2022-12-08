@@ -158,9 +158,8 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-245c035dc9032f617799fbb8e689d1e4cb885a60/Cargo.lock",
+                "./asusctl-b1ee449b97a03d14cdd204c7edc7ba8870230261/Cargo.lock",
                 {
-                    "eframe-0.19.0": "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
                     "supergfxctl-5.0.2": "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ="
                 }
@@ -175,12 +174,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "245c035dc9032f617799fbb8e689d1e4cb885a60",
-            "sha256": "sha256-JvjbegXubaQyLLBr+CSqIu7KVw722umGLnbMub02qdE=",
+            "rev": "b1ee449b97a03d14cdd204c7edc7ba8870230261",
+            "sha256": "sha256-PNHUXJo4LMfj8DNqb+mTwctCTt0044JMTT789LgHBt4=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "245c035dc9032f617799fbb8e689d1e4cb885a60"
+        "version": "b1ee449b97a03d14cdd204c7edc7ba8870230261"
     },
     "avizo": {
         "cargoLocks": null,
@@ -304,11 +303,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "e63cf8520fc32f2830ebee165df13fd0ccd9088a",
-            "sha256": "sha256-0kniVDu3O/Na7BDYo+jev0sD/+iGh1CWv/SGG+b+eKM=",
+            "rev": "458576b41fd59b4578b4bcd9dcc530785bf3924b",
+            "sha256": "sha256-yuO3Dyc3mxomc82e6mU1VJ5adcJfzyMTMLR5y7HV/E8=",
             "type": "github"
         },
-        "version": "e63cf8520fc32f2830ebee165df13fd0ccd9088a"
+        "version": "458576b41fd59b4578b4bcd9dcc530785bf3924b"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1563,11 +1562,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kSDa/u8ioFNiOlxZx77zTEyz/QRUtUcNoPMnZpAjJ3w=",
+            "sha256": "sha256-ARbzZOgZrxe3/bWBGoWL4/JjF+wsPXbSd4gUCCG/uJA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.1/revanced-cli-2.16.2-dev.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.2/revanced-cli-2.16.2-dev.2-all.jar"
         },
-        "version": "2.16.2-dev.1"
+        "version": "2.16.2-dev.2"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1577,11 +1576,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oIlAbbfb2j1INnBVFYuJEo2ifHgJHgpPz1M++yecfBE=",
+            "sha256": "sha256-uakNxaQy5yVv4VEqd8oyNPkqC5cA6dVGGSjIre+Nm9k=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.83.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.84.0/app-release-unsigned.apk"
         },
-        "version": "0.83.1"
+        "version": "0.84.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -2027,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "2d271f3bd10eff96124388c0636428d35782f8c1",
-            "sha256": "sha256-tV2GyrXUkpCfE6FkormmGf7xquMJ6QeaXRTaRhI+oaE=",
+            "rev": "d1a5757639653ab88f1c5afef9223c3706ebd191",
+            "sha256": "sha256-emEVpw9TACkhkC/PNBtbXDsROQN8pxWcaFSnjxvMtJQ=",
             "type": "github"
         },
-        "version": "2d271f3bd10eff96124388c0636428d35782f8c1"
+        "version": "d1a5757639653ab88f1c5afef9223c3706ebd191"
     },
     "tailscale-systray": {
         "cargoLocks": null,

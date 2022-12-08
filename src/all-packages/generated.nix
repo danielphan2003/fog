@@ -96,19 +96,18 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "245c035dc9032f617799fbb8e689d1e4cb885a60";
+    version = "b1ee449b97a03d14cdd204c7edc7ba8870230261";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "245c035dc9032f617799fbb8e689d1e4cb885a60";
+      rev = "b1ee449b97a03d14cdd204c7edc7ba8870230261";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-JvjbegXubaQyLLBr+CSqIu7KVw722umGLnbMub02qdE=";
+      sha256 = "sha256-PNHUXJo4LMfj8DNqb+mTwctCTt0044JMTT789LgHBt4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-245c035dc9032f617799fbb8e689d1e4cb885a60/Cargo.lock;
+      lockFile = ./asusctl-b1ee449b97a03d14cdd204c7edc7ba8870230261/Cargo.lock;
       outputHashes = {
-        "eframe-0.19.0" = "sha256-VzxkTrIgGqOWIPLo1amuBeYdSSPM/DvWWAP2rQtxHnI=";
         "supergfxctl-5.0.2" = "sha256-N2k/vkv+bct+Lo3y5jzpwdEGBcoOAtX9SBI8inNQqGQ=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
@@ -179,13 +178,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "e63cf8520fc32f2830ebee165df13fd0ccd9088a";
+    version = "458576b41fd59b4578b4bcd9dcc530785bf3924b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "e63cf8520fc32f2830ebee165df13fd0ccd9088a";
+      rev = "458576b41fd59b4578b4bcd9dcc530785bf3924b";
       fetchSubmodules = false;
-      sha256 = "sha256-0kniVDu3O/Na7BDYo+jev0sD/+iGh1CWv/SGG+b+eKM=";
+      sha256 = "sha256-yuO3Dyc3mxomc82e6mU1VJ5adcJfzyMTMLR5y7HV/E8=";
     });
   };
   caddy = {
@@ -937,18 +936,18 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.16.2-dev.1";
+    version = "2.16.2-dev.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.1/revanced-cli-2.16.2-dev.1-all.jar";
-      sha256 = "sha256-kSDa/u8ioFNiOlxZx77zTEyz/QRUtUcNoPMnZpAjJ3w=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.2/revanced-cli-2.16.2-dev.2-all.jar";
+      sha256 = "sha256-ARbzZOgZrxe3/bWBGoWL4/JjF+wsPXbSd4gUCCG/uJA=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.83.1";
+    version = "0.84.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.83.1/app-release-unsigned.apk";
-      sha256 = "sha256-oIlAbbfb2j1INnBVFYuJEo2ifHgJHgpPz1M++yecfBE=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.84.0/app-release-unsigned.apk";
+      sha256 = "sha256-uakNxaQy5yVv4VEqd8oyNPkqC5cA6dVGGSjIre+Nm9k=";
     };
   };
   revanced-patches-jar = {
@@ -1225,13 +1224,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2d271f3bd10eff96124388c0636428d35782f8c1";
+    version = "d1a5757639653ab88f1c5afef9223c3706ebd191";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2d271f3bd10eff96124388c0636428d35782f8c1";
+      rev = "d1a5757639653ab88f1c5afef9223c3706ebd191";
       fetchSubmodules = false;
-      sha256 = "sha256-tV2GyrXUkpCfE6FkormmGf7xquMJ6QeaXRTaRhI+oaE=";
+      sha256 = "sha256-emEVpw9TACkhkC/PNBtbXDsROQN8pxWcaFSnjxvMtJQ=";
     });
   };
   tailscale-systray = {
