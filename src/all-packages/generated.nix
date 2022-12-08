@@ -178,13 +178,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "458576b41fd59b4578b4bcd9dcc530785bf3924b";
+    version = "f9c44242ff4df11c290180e86d2d260e2439dee0";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "458576b41fd59b4578b4bcd9dcc530785bf3924b";
+      rev = "f9c44242ff4df11c290180e86d2d260e2439dee0";
       fetchSubmodules = false;
-      sha256 = "sha256-yuO3Dyc3mxomc82e6mU1VJ5adcJfzyMTMLR5y7HV/E8=";
+      sha256 = "sha256-f8r36ImYbRT0AHLhMc9PS8AyswBV/N4K+XUCUUJv17Y=";
     });
   };
   caddy = {
@@ -497,13 +497,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "be6e1a33b1d37ce3639ceb5c40fce581c77fd54a";
+    version = "726732244a5d51a0da54219174c13f4428017b79";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "be6e1a33b1d37ce3639ceb5c40fce581c77fd54a";
+      rev = "726732244a5d51a0da54219174c13f4428017b79";
       fetchSubmodules = false;
-      sha256 = "sha256-YS6d6b8XBbKoY9uoSFSzP5Vm0nEOmvcxFwU4UJUEfAQ=";
+      sha256 = "sha256-YNPiXsaZSQvetwsnrHuRxQnm8t9p5y9Nd3lRW6bPVxM=";
     });
   };
   ibus = {
@@ -549,10 +549,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-968";
+    version = "1.0-969";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-968-1_all.deb";
-      sha256 = "sha256-TaIS+FpzjdAO2bqYN9beMNwJTOcGmQMy49pglKzz6fQ=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-969-1_all.deb";
+      sha256 = "sha256-0szyIlf/1NH3z/aa+UPwLBrbJ9jGDANfASgcuYJx470=";
     };
   };
   jitsi-meet = {
@@ -671,10 +671,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "108.0.1462.42";
+    version = "108.0.1462.46";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_108.0.1462.42-1_amd64.deb";
-      sha256 = "sha256-sdcSEB45C4I1iB75k1SZj5NI12hooI2vubfYmiqiuqM=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_108.0.1462.46-1_amd64.deb";
+      sha256 = "sha256-XLn0sGNHOl8FkiYBjutNV8GpsbAw1/R2fpS9viSzrRI=";
     };
   };
   minecraft-wayland = {
@@ -1224,13 +1224,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d1a5757639653ab88f1c5afef9223c3706ebd191";
+    version = "e27f4f022e1f264971004c85afa0bef348b17829";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d1a5757639653ab88f1c5afef9223c3706ebd191";
+      rev = "e27f4f022e1f264971004c85afa0bef348b17829";
       fetchSubmodules = false;
-      sha256 = "sha256-emEVpw9TACkhkC/PNBtbXDsROQN8pxWcaFSnjxvMtJQ=";
+      sha256 = "sha256-oZhn1yntY2hAC6byQbPBnishv5s0Iwr9Bto8ztJgS38=";
     });
   };
   tailscale-systray = {
