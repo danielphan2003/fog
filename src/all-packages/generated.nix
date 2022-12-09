@@ -497,13 +497,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b9812f8bc0f372875af8c332e4537fdbf2b99c23";
+    version = "d5352a5d1290bee221ef05f555405f14ee9997f5";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "b9812f8bc0f372875af8c332e4537fdbf2b99c23";
+      rev = "d5352a5d1290bee221ef05f555405f14ee9997f5";
       fetchSubmodules = false;
-      sha256 = "sha256-zMK3VZWTYKJHCA0bl8Xg0AFX5rnhDR18VCtS28Ur3tY=";
+      sha256 = "sha256-t+y+vcXlgBR8df0FfWsQpd4J8SKP4n4HhPrepEDpXwY=";
     });
   };
   ibus = {
@@ -573,10 +573,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-63-g252d14bc";
+    version = "2.2-64-gc5464143";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-63-g252d14bc-1_all.deb";
-      sha256 = "sha256-8MEy7km65pMXhbC7QhS8O+IcqCRLuleKwOuKJo/I7Yk=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-64-gc5464143-1_all.deb";
+      sha256 = "sha256-FqvI53iTvWHJi1YEfk3SdTjQU196wNP6GGoORZURQRY=";
     };
   };
   layout-machi = {
@@ -952,10 +952,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.141.0-dev.2";
+    version = "2.142.0-dev.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.141.0-dev.2/revanced-patches-2.141.0-dev.2.jar";
-      sha256 = "sha256-K490V33CoQdnyFmV9VVJ7MFHrVWn8RUkP/O7e1gh3Hs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.142.0-dev.1/revanced-patches-2.142.0-dev.1.jar";
+      sha256 = "sha256-HhqpDz9bRMIRxFQ4IC7Rag1VIIc6Wgacv+dE5R9lmEQ=";
     };
   };
   rofi-wayland = {

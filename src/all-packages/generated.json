@@ -825,11 +825,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "b9812f8bc0f372875af8c332e4537fdbf2b99c23",
-            "sha256": "sha256-zMK3VZWTYKJHCA0bl8Xg0AFX5rnhDR18VCtS28Ur3tY=",
+            "rev": "d5352a5d1290bee221ef05f555405f14ee9997f5",
+            "sha256": "sha256-t+y+vcXlgBR8df0FfWsQpd4J8SKP4n4HhPrepEDpXwY=",
             "type": "github"
         },
-        "version": "b9812f8bc0f372875af8c332e4537fdbf2b99c23"
+        "version": "d5352a5d1290bee221ef05f555405f14ee9997f5"
     },
     "ibus": {
         "cargoLocks": null,
@@ -952,11 +952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8MEy7km65pMXhbC7QhS8O+IcqCRLuleKwOuKJo/I7Yk=",
+            "sha256": "sha256-FqvI53iTvWHJi1YEfk3SdTjQU196wNP6GGoORZURQRY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-63-g252d14bc-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-64-gc5464143-1_all.deb"
         },
-        "version": "2.2-63-g252d14bc"
+        "version": "2.2-64-gc5464143"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1590,11 +1590,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K490V33CoQdnyFmV9VVJ7MFHrVWn8RUkP/O7e1gh3Hs=",
+            "sha256": "sha256-HhqpDz9bRMIRxFQ4IC7Rag1VIIc6Wgacv+dE5R9lmEQ=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.141.0-dev.2/revanced-patches-2.141.0-dev.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.142.0-dev.1/revanced-patches-2.142.0-dev.1.jar"
         },
-        "version": "2.141.0-dev.2"
+        "version": "2.142.0-dev.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
