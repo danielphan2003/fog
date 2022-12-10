@@ -1548,11 +1548,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3a817dd95643a494c9ee7bb6a02e766a6d63d253",
-            "sha256": "sha256-X07t0lY/VUMApnMcLJX4NCmFs/Ua9QkSgrxDcrgwDVM=",
+            "rev": "fc24410763695748de797e57d951f967c0726f7a",
+            "sha256": "sha256-R/hhEbF1J6vFyfdhpyy7/PupbnQcrKPiGjZaPsu0FDs=",
             "type": "github"
         },
-        "version": "3a817dd95643a494c9ee7bb6a02e766a6d63d253"
+        "version": "fc24410763695748de797e57d951f967c0726f7a"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1618,7 +1618,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-12390a66e82e5e58dd23987e4c9da8b39c978b96/Cargo.lock",
+                "./rustdesk-122a52d66a4552ca42223f1c39e2af503508fa9e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1649,11 +1649,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "12390a66e82e5e58dd23987e4c9da8b39c978b96",
-            "sha256": "sha256-TAttA/2iQJ4FNxz3okOuwew6MoS437rIotglou/sQFE=",
+            "rev": "122a52d66a4552ca42223f1c39e2af503508fa9e",
+            "sha256": "sha256-8TwFmIC9ItCkNL81+3d0k3BGB7FgrcfgRoHjCuN5+F4=",
             "type": "github"
         },
-        "version": "12390a66e82e5e58dd23987e4c9da8b39c978b96"
+        "version": "122a52d66a4552ca42223f1c39e2af503508fa9e"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2026,11 +2026,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ea5ee6f87c15fa6c069c5cb942adb6af0798e62b",
-            "sha256": "sha256-+upmrWrR+sw01F/yF6IGIHGe1m7gRe/JEEA/vrRS+xY=",
+            "rev": "ab4992e10d9c8db2b997ff0d5b413bff405880ad",
+            "sha256": "sha256-c9sw4EDHSO5EMovvoBPFmki8uZg2wMaSisqOxC0vAes=",
             "type": "github"
         },
-        "version": "ea5ee6f87c15fa6c069c5cb942adb6af0798e62b"
+        "version": "ab4992e10d9c8db2b997ff0d5b413bff405880ad"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2241,11 +2241,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "fd35a4d208a57074f774d89ef0281a14ac57bfb0",
-            "sha256": "sha256-urd162hRdP597XZAhSXhTbLuGjVWjqsyDGVmykSEJR4=",
+            "rev": "82a91234fbb48b2517f427dd8b728d1a70a0765a",
+            "sha256": "sha256-FD8cHiNKtKnaRqUnIa4NCZ6h3pkXiPTH+YVarmOjGUQ=",
             "type": "github"
         },
-        "version": "fd35a4d208a57074f774d89ef0281a14ac57bfb0"
+        "version": "82a91234fbb48b2517f427dd8b728d1a70a0765a"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
