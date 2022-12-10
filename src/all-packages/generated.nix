@@ -74,13 +74,13 @@
   };
   any-nix-shell = {
     pname = "any-nix-shell";
-    version = "a85f11bd7c071c21f57721bab84f8bfef8bb3845";
+    version = "a18e66bb092b189a77f9fae16ddca59b8a67625a";
     src = fetchFromGitHub ({
       owner = "haslersn";
       repo = "any-nix-shell";
-      rev = "a85f11bd7c071c21f57721bab84f8bfef8bb3845";
+      rev = "a18e66bb092b189a77f9fae16ddca59b8a67625a";
       fetchSubmodules = false;
-      sha256 = "sha256-/0jw7GBk7jK1HMZ8O8OvmC3sk/Y7tVBL68s7BSJZMs4=";
+      sha256 = "sha256-sJ4xq7CgRryywC8TOIKC20TRAJ0ZN2H+1UCvzUzqk8c=";
     });
   };
   arkenfox-userjs = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "09c763fd809e769531c474e429f58cb2b621b6e3";
+    version = "dcdcf62140ecf9937d9ce2cd8182d5bd0cb0b48b";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "09c763fd809e769531c474e429f58cb2b621b6e3";
+      rev = "dcdcf62140ecf9937d9ce2cd8182d5bd0cb0b48b";
       fetchSubmodules = false;
-      sha256 = "sha256-2Q/ihf8CV5YgtfxGVtd5s0DJHFzvW2PqEY9F50cgJco=";
+      sha256 = "sha256-CaMgGvElLaM5dXCfmUe5xKA0BEdjq501+eOOx4k5Uc4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-09c763fd809e769531c474e429f58cb2b621b6e3/Cargo.lock;
+      lockFile = ./rustdesk-dcdcf62140ecf9937d9ce2cd8182d5bd0cb0b48b/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
