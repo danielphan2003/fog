@@ -74,13 +74,13 @@
   };
   any-nix-shell = {
     pname = "any-nix-shell";
-    version = "6dc4b78be0fbc3c812aff9c57f05a3f487cc3f0b";
+    version = "a85f11bd7c071c21f57721bab84f8bfef8bb3845";
     src = fetchFromGitHub ({
       owner = "haslersn";
       repo = "any-nix-shell";
-      rev = "6dc4b78be0fbc3c812aff9c57f05a3f487cc3f0b";
+      rev = "a85f11bd7c071c21f57721bab84f8bfef8bb3845";
       fetchSubmodules = false;
-      sha256 = "sha256-RjbvInCjDjdhPK+BhsBoIK+lmBzFVzXR0bSN/q31dfs=";
+      sha256 = "sha256-/0jw7GBk7jK1HMZ8O8OvmC3sk/Y7tVBL68s7BSJZMs4=";
     });
   };
   arkenfox-userjs = {
