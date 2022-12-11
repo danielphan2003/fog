@@ -729,13 +729,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "d22609f403594024b314a0b4a9f05f57865d4635";
+    version = "c4629e0c28dc9baadc59d4c66f520b5c0774bfb0";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "d22609f403594024b314a0b4a9f05f57865d4635";
+      rev = "c4629e0c28dc9baadc59d4c66f520b5c0774bfb0";
       fetchSubmodules = false;
-      sha256 = "sha256-ZnLQlZsWOrmV2IqSlHwMWDlUxCZ9SLqrn51u349aRWU=";
+      sha256 = "sha256-guXuGRADobqUjsXmt+5rF86DCssUpEGWLUnOhjBDsUs=";
     });
   };
   ny-font = {
@@ -1113,13 +1113,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "0c6961c39a277387dc79fdf3811e6eb75c4906a7";
+    version = "e84ae3f7a64a2f849f4a219ec549715ec4d3f2c3";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "0c6961c39a277387dc79fdf3811e6eb75c4906a7";
+      rev = "e84ae3f7a64a2f849f4a219ec549715ec4d3f2c3";
       fetchSubmodules = false;
-      sha256 = "sha256-MjniQirtSG/Q6Xwmp76hFiLq3g+Q6C9waj0ZK92+eOI=";
+      sha256 = "sha256-nZ3Go3SpAVMz9IKquN2UeKCrxMCKT6W8bsMKZGG7cew=";
     });
   };
   spotify = {
