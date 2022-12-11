@@ -74,13 +74,13 @@
   };
   any-nix-shell = {
     pname = "any-nix-shell";
-    version = "b742be6b0031af84bcb88ebabea27bfc036c2db6";
+    version = "c8536fa43f0e8b506e9dd1a91e2f01ceccca0251";
     src = fetchFromGitHub ({
       owner = "haslersn";
       repo = "any-nix-shell";
-      rev = "b742be6b0031af84bcb88ebabea27bfc036c2db6";
+      rev = "c8536fa43f0e8b506e9dd1a91e2f01ceccca0251";
       fetchSubmodules = false;
-      sha256 = "sha256-zSZDlQ25QwAmFFkMWGAVnJ4egcV80r1M5lyG02EkkdY=";
+      sha256 = "sha256-dQd1/RYH/j3R7MgMoz3EZ2Nxf3XXYCTKxBvi+cvyV2g=";
     });
   };
   arkenfox-userjs = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e6421f6f8bfad33fe2fc52ef510d172a6025defe";
+    version = "844dfc9b60c2538045f32be5c9e4a5d9caadba0a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e6421f6f8bfad33fe2fc52ef510d172a6025defe";
+      rev = "844dfc9b60c2538045f32be5c9e4a5d9caadba0a";
       fetchSubmodules = false;
-      sha256 = "sha256-zRmJ5vGb/FJggQPbvG+4qiGPlupBXvXyG1mWTCeYN/4=";
+      sha256 = "sha256-0DCX3Zs6YCAy5GnAw37dv26FaYjQdtuy02zSbScpTFg=";
     });
   };
   revanced-cli = {
@@ -953,10 +953,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.142.0-dev.1";
+    version = "2.142.0-dev.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.142.0-dev.1/revanced-patches-2.142.0-dev.1.jar";
-      sha256 = "sha256-HhqpDz9bRMIRxFQ4IC7Rag1VIIc6Wgacv+dE5R9lmEQ=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.142.0-dev.2/revanced-patches-2.142.0-dev.2.jar";
+      sha256 = "sha256-Q5X32LdlQVHbLQfbwR4GwICABdC4dzULXC4118JB54I=";
     };
   };
   rofi-wayland = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9d335aabb28477f3f97adfebde7c37e9bfd8cdcf";
+    version = "5a523fdc7f895a9663cfb4a922227746aacb1c07";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9d335aabb28477f3f97adfebde7c37e9bfd8cdcf";
+      rev = "5a523fdc7f895a9663cfb4a922227746aacb1c07";
       fetchSubmodules = false;
-      sha256 = "sha256-fBAbDufSMUpSjMySYAg06Pehb0pGmUgBYLPsV52J1Y4=";
+      sha256 = "sha256-YKvYO4ZCxeAmqU1DPtlhN86G5ng9JjI5gI/I2Q1JC/o=";
     });
   };
   tailscale-systray = {
@@ -1255,7 +1255,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "7d69f70301eb97c3ad380fce6d53232f35dd9e9d";
+    version = "9cfc7d069dfe1e8daa8f703cd636c9c4dcb084ed";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
@@ -1329,13 +1329,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "38aebb39e4e6fb6c9766d4cd3a11f74d42c9d683";
+    version = "1be55b971dadcf952aeed25d7c84efc2b71d4c85";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "38aebb39e4e6fb6c9766d4cd3a11f74d42c9d683";
+      rev = "1be55b971dadcf952aeed25d7c84efc2b71d4c85";
       fetchSubmodules = false;
-      sha256 = "sha256-8ykFedM+v3Ju49mJdX+W0G+4rTUfuOalt4bO7PwLkL0=";
+      sha256 = "sha256-PFtCsOv8HkQk9Zho9J4+31BSSABOJI8QhW+kbkDNuL8=";
     });
   };
   wgcf = {
