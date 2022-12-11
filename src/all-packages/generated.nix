@@ -937,10 +937,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.16.2-dev.2";
+    version = "2.17.0-dev.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.16.2-dev.2/revanced-cli-2.16.2-dev.2-all.jar";
-      sha256 = "sha256-ARbzZOgZrxe3/bWBGoWL4/JjF+wsPXbSd4gUCCG/uJA=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.17.0-dev.1/revanced-cli-2.17.0-dev.1-all.jar";
+      sha256 = "sha256-pWdVk8w9s9o7JaZ4uB/Nk7PfnPKV6N+WccBa7g4NSaA=";
     };
   };
   revanced-integrations = {
