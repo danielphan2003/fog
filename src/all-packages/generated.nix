@@ -223,13 +223,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "5f9ea6c06a09c79c863505f8f0e26f7dbfbdc9a0";
+    version = "7b95546b80f0043d4f50d5d22743cbad89279975";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "5f9ea6c06a09c79c863505f8f0e26f7dbfbdc9a0";
+      rev = "7b95546b80f0043d4f50d5d22743cbad89279975";
       fetchSubmodules = false;
-      sha256 = "sha256-FMKKvYcSF8qdSxou8LxKFG5MxOFwrf4nDJjYRT43wVE=";
+      sha256 = "sha256-mn1BUzYVb2B6yW3qx8QGEZDbkMCV+pF+A9T/4dsKo4E=";
     });
   };
   cinny-bin = {
@@ -242,16 +242,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "99850091994c536fb6bfebfa3f2d0466958de73f";
+    version = "dc623efb484511f64202fcd9d2496e4af1cef8cb";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "99850091994c536fb6bfebfa3f2d0466958de73f";
+      rev = "dc623efb484511f64202fcd9d2496e4af1cef8cb";
       fetchSubmodules = true;
-      sha256 = "sha256-bXENOUt4xywksHjsGwPV9CyBHn9AT3orM6bJa57aVHU=";
+      sha256 = "sha256-PXlYzSgmx68UbuqAv4sWM2rSIBLjAxlFCNzINJZ9xdQ=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-99850091994c536fb6bfebfa3f2d0466958de73f/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-dc623efb484511f64202fcd9d2496e4af1cef8cb/src-tauri/Cargo.lock;
       outputHashes = {
         
       };

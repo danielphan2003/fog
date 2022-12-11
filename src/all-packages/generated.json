@@ -380,11 +380,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "5f9ea6c06a09c79c863505f8f0e26f7dbfbdc9a0",
-            "sha256": "sha256-FMKKvYcSF8qdSxou8LxKFG5MxOFwrf4nDJjYRT43wVE=",
+            "rev": "7b95546b80f0043d4f50d5d22743cbad89279975",
+            "sha256": "sha256-mn1BUzYVb2B6yW3qx8QGEZDbkMCV+pF+A9T/4dsKo4E=",
             "type": "github"
         },
-        "version": "5f9ea6c06a09c79c863505f8f0e26f7dbfbdc9a0"
+        "version": "7b95546b80f0043d4f50d5d22743cbad89279975"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -403,7 +403,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-99850091994c536fb6bfebfa3f2d0466958de73f/src-tauri/Cargo.lock",
+                "./cinny-desktop-dc623efb484511f64202fcd9d2496e4af1cef8cb/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -418,11 +418,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "99850091994c536fb6bfebfa3f2d0466958de73f",
-            "sha256": "sha256-bXENOUt4xywksHjsGwPV9CyBHn9AT3orM6bJa57aVHU=",
+            "rev": "dc623efb484511f64202fcd9d2496e4af1cef8cb",
+            "sha256": "sha256-PXlYzSgmx68UbuqAv4sWM2rSIBLjAxlFCNzINJZ9xdQ=",
             "type": "github"
         },
-        "version": "99850091994c536fb6bfebfa3f2d0466958de73f"
+        "version": "dc623efb484511f64202fcd9d2496e4af1cef8cb"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
