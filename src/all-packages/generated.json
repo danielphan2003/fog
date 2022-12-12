@@ -2261,11 +2261,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-icon-theme",
-            "rev": "4cbbaea75408c5b30681ae93f2a85e6640789c21",
-            "sha256": "sha256-POT8mgYt/NN4WABt0TrtmSxEtvYxeY+QQkFEbc4eaEM=",
+            "rev": "0ec21dccdfdbc098b5bff785612a5d45ce287811",
+            "sha256": "sha256-xfVPi2aciye63Rs7kFtUAHgfQ8eC3S+KZyy0pGXqDFU=",
             "type": "github"
         },
-        "version": "4cbbaea75408c5b30681ae93f2a85e6640789c21"
+        "version": "0ec21dccdfdbc098b5bff785612a5d45ce287811"
     },
     "widevine-cdm": {
         "cargoLocks": null,
