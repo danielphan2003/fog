@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "844dfc9b60c2538045f32be5c9e4a5d9caadba0a";
+    version = "b2d73c9bf25067d90de09f62dc989e36e061e9cf";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "844dfc9b60c2538045f32be5c9e4a5d9caadba0a";
+      rev = "b2d73c9bf25067d90de09f62dc989e36e061e9cf";
       fetchSubmodules = false;
-      sha256 = "sha256-0DCX3Zs6YCAy5GnAw37dv26FaYjQdtuy02zSbScpTFg=";
+      sha256 = "sha256-2zRX5bTMsM0CWo02j3dp2ERnd+m8eaNBGjAx5cA/aLU=";
     });
   };
   revanced-cli = {
@@ -972,16 +972,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a6135068a9905979b8b7c90b6c3e235c9dab2fe0";
+    version = "c5560b66b1ece513e7ac39957731665e67f4bb23";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a6135068a9905979b8b7c90b6c3e235c9dab2fe0";
+      rev = "c5560b66b1ece513e7ac39957731665e67f4bb23";
       fetchSubmodules = false;
-      sha256 = "sha256-T+Vq+bye6q5mqXIXzcS8GydgpDdGZFp5G9qEX1/IZhg=";
+      sha256 = "sha256-TjmGWLhhZTXk2Ffc70PGW2u/4STKYw9b5LHwvRm7b5E=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a6135068a9905979b8b7c90b6c3e235c9dab2fe0/Cargo.lock;
+      lockFile = ./rustdesk-c5560b66b1ece513e7ac39957731665e67f4bb23/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -991,9 +991,9 @@
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
         "impersonate_system-0.1.0" = "sha256-qbaTw9gxMKDjX5pKdUrKlmIxCxWwb99YuWPDvD2A3kY=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
-        "hwcodec-0.1.0" = "sha256-Vuw3QRoax/6P8GI7NVfowW7VNsmcPm21rPehdKNG3yA=";
-        "mouce-0.2.1" = "sha256-DTmxOercPyra3F8IjnpW+UeY9i2E6wXZNhoSkQ4M+LY=";
-        "rdev-0.5.0-2" = "sha256-D4hZWKyL9bOinpa2C4ABvK7O+wn7eiTWKucNJKCG9UI=";
+        "hwcodec-0.1.0" = "sha256-67WIksO47Rj53m63l7Sgrmr/E782eGz7CThWxI179yM=";
+        "mouce-0.2.1" = "sha256-3PtNEmVMXgqKV4r3KiKTkk4oyCt4BKynniJREE+RyFk=";
+        "rdev-0.5.0-2" = "sha256-mGTpJIZ8vuV493yszsws9X69iRoxvleoloWk4EAUpcc=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
