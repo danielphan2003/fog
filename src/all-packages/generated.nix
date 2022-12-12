@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f8a6799d4e41662f8a624da3e4eb3622161dd705";
+    version = "de9396d2a16d02b77d9a1cd95d0b023f4153f064";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f8a6799d4e41662f8a624da3e4eb3622161dd705";
+      rev = "de9396d2a16d02b77d9a1cd95d0b023f4153f064";
       fetchSubmodules = false;
-      sha256 = "sha256-X84BtB+ruHqb1qZ6dCyB1mbvTYh6o/D97Cx4ifbbPFM=";
+      sha256 = "sha256-F1pvaUHY09ymXqruwZZgs+4rHBLk+Nbap4jmio3dLNY=";
     });
   };
   ibus = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "47002d93a31e604e34a0b07c759d8b0f5ed2edd2";
+    version = "b2d4abf25a5911ec768f01e777f048eb79ec3ab2";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "47002d93a31e604e34a0b07c759d8b0f5ed2edd2";
+      rev = "b2d4abf25a5911ec768f01e777f048eb79ec3ab2";
       fetchSubmodules = false;
-      sha256 = "sha256-ZYqijbGxWxNrZGnT7iLFesvbquOe9cW3rmygRtFooxU=";
+      sha256 = "sha256-yQqNV/yDiLxav23I0QUMMGsFm/W+VM+DojDS3IKAAkY=";
     });
   };
   tailscale-systray = {
@@ -1302,10 +1302,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.11.1";
+    version = "2022.11.2";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.11.1/bw_web_v2022.11.1.tar.gz";
-      sha256 = "sha256-nd32Q0uTsnrdVPDe1Yglvkg2QcwgLR+x0dFvKSD8o8I=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.11.2/bw_web_v2022.11.2.tar.gz";
+      sha256 = "sha256-I/EqKSK6MPYfLPtPJm79as7til+5Bgengko6YAIu5sE=";
     };
   };
   ventoy = {
