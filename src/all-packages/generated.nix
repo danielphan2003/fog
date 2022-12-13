@@ -149,10 +149,10 @@
   };
   betterdiscord-installer = {
     pname = "betterdiscord-installer";
-    version = "1.1.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://github.com/BetterDiscord/Installer/releases/download/v1.1.2/BetterDiscord-Linux.AppImage";
-      sha256 = "sha256-fY5COUWrJPwTNL5dMj+Fg7ik6QsQSlTjL74Xrg/wYCo=";
+      url = "https://github.com/BetterDiscord/Installer/releases/download/v1.2.0/BetterDiscord-Linux.AppImage";
+      sha256 = "sha256-oXrx+bQgVf8Pf70M4saXR2Kb2QmSMIGKhBDrTsN/CKU=";
     };
   };
   betterdiscordctl = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ad89b0c655fc1d25adfcdf40268e95c5d0391111";
+    version = "de26e07062696b10cf89138cb26b65b6565e2d18";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ad89b0c655fc1d25adfcdf40268e95c5d0391111";
+      rev = "de26e07062696b10cf89138cb26b65b6565e2d18";
       fetchSubmodules = false;
-      sha256 = "sha256-oEENGehbzjJq1kTiz6gkXHMMe/rXjWPxxMoe4RqdqK4=";
+      sha256 = "sha256-5m9aPY/0UBGdFV7rs8RG7T9emkWZJn2x4nE/cBjUFjw=";
     });
   };
   revanced-cli = {
@@ -1113,13 +1113,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "e84ae3f7a64a2f849f4a219ec549715ec4d3f2c3";
+    version = "ad22edee6a3d7880302fe1f1ec3371f5c6eb4561";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "e84ae3f7a64a2f849f4a219ec549715ec4d3f2c3";
+      rev = "ad22edee6a3d7880302fe1f1ec3371f5c6eb4561";
       fetchSubmodules = false;
-      sha256 = "sha256-nZ3Go3SpAVMz9IKquN2UeKCrxMCKT6W8bsMKZGG7cew=";
+      sha256 = "sha256-dhWMtIylZ5QakObgFxEv3EPQbV4kIiVLaEa/URt+Qi0=";
     });
   };
   spotify = {
@@ -1225,13 +1225,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b2d4abf25a5911ec768f01e777f048eb79ec3ab2";
+    version = "bd2995c14b5b74215d16ab4ccc992e749b43fba0";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b2d4abf25a5911ec768f01e777f048eb79ec3ab2";
+      rev = "bd2995c14b5b74215d16ab4ccc992e749b43fba0";
       fetchSubmodules = false;
-      sha256 = "sha256-yQqNV/yDiLxav23I0QUMMGsFm/W+VM+DojDS3IKAAkY=";
+      sha256 = "sha256-sMAYfvQXS/pFS9LOObexnJVo8nT20WjUFdgdr77MprU=";
     });
   };
   tailscale-systray = {
@@ -1362,13 +1362,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "0ec21dccdfdbc098b5bff785612a5d45ce287811";
+    version = "d79e3c37dfc604f4dd21cb7e7698681230152423";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "0ec21dccdfdbc098b5bff785612a5d45ce287811";
+      rev = "d79e3c37dfc604f4dd21cb7e7698681230152423";
       fetchSubmodules = false;
-      sha256 = "sha256-xfVPi2aciye63Rs7kFtUAHgfQ8eC3S+KZyy0pGXqDFU=";
+      sha256 = "sha256-3Xfeb1wEK7uNewCJR/F07MfMLbLYnWiCKL1IYeqlpfs=";
     });
   };
   widevine-cdm = {
