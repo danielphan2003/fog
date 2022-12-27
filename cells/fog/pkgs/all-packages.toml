@@ -355,21 +355,6 @@ fetch.github = "minus7/redshift"
 src.git = "https://github.com/libretro/retroarch"
 fetch.github = "libretro/retroarch"
 
-[revanced-cli]
-src.github_tag = "revanced/revanced-cli"
-src.prefix = "v"
-fetch.url = "https://github.com/revanced/revanced-cli/releases/download/v$ver/revanced-cli-$ver-all.jar"
-
-[revanced-integrations]
-src.github_tag = "revanced/revanced-integrations"
-src.prefix = "v"
-fetch.url = "https://github.com/revanced/revanced-integrations/releases/download/v$ver/app-release-unsigned.apk"
-
-[revanced-patches-jar]
-src.github_tag = "revanced/revanced-patches"
-src.prefix = "v"
-fetch.url = "https://github.com/revanced/revanced-patches/releases/download/v$ver/revanced-patches-$ver.jar"
-
 [rofi-wayland]
 src.git = "https://github.com/lbonn/rofi"
 fetch.github = "lbonn/rofi"
