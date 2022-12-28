@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d64fc7d336a459f497df8f2e0aada989d4ed1e96";
+    version = "a6699ef30c0a7f66c4b1ff6e38ea836b8e898015";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d64fc7d336a459f497df8f2e0aada989d4ed1e96";
+      rev = "a6699ef30c0a7f66c4b1ff6e38ea836b8e898015";
       fetchSubmodules = false;
-      sha256 = "sha256-HB3UKHbhA914eqWbqFyNv48JBTuaELK8aWErRv6PEUU=";
+      sha256 = "sha256-xqAoDgopfv8y9q6xWu82LK4Pf9S3WOBar9+6VTlc6VM=";
     });
   };
   ibus = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "fefe8fb6257f0fce9cfa2758bc2791d672ff7335";
+    version = "cfaeb6ac0a51e7b015d80eb75f936e67fb2e4c04";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "fefe8fb6257f0fce9cfa2758bc2791d672ff7335";
+      rev = "cfaeb6ac0a51e7b015d80eb75f936e67fb2e4c04";
       fetchSubmodules = false;
-      sha256 = "sha256-jOj0bz8JAcRkqUvDY+R1X2iANtR5xrzeieveIjy24ps=";
+      sha256 = "sha256-RYC2aDAtD0kMJVW4yBCfypi5CZwSX861DKRuCupfD8U=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-fefe8fb6257f0fce9cfa2758bc2791d672ff7335/Cargo.lock;
+      lockFile = ./rustdesk-cfaeb6ac0a51e7b015d80eb75f936e67fb2e4c04/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
@@ -1379,13 +1379,13 @@
   };
   yubikey-agent = {
     pname = "yubikey-agent";
-    version = "6d9db9c29100daacbe83e74653c79c94acc5958d";
+    version = "7449ff99ee46c4d32e010aeb5a585ee01590d2d7";
     src = fetchFromGitHub ({
       owner = "FiloSottile";
       repo = "yubikey-agent";
-      rev = "6d9db9c29100daacbe83e74653c79c94acc5958d";
+      rev = "7449ff99ee46c4d32e010aeb5a585ee01590d2d7";
       fetchSubmodules = false;
-      sha256 = "sha256-mrdZcKD61S94ZkVH93SJhozmsXW/22ho08WMCrDEwhs=";
+      sha256 = "sha256-Knk1ipBOzjmjrS2OFUMuxi1TkyDcSYlVKezDWT//ERY=";
     });
   };
   yubikey-guide = {
