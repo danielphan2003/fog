@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "42b9e236025c5129c9e6f5ae2ab0c935caec66c1",
-            "sha256": "sha256-cQ2uBRxjSqWID0h01UOCY13GsSyEqditWpTmYndFBBw=",
+            "rev": "2cbb7953d4e71e59fec89b00411b2826fa5b6f03",
+            "sha256": "sha256-CRAuXc/gZXhgh+KlRsZ6CXGwKB4TnwcSgLEvv7j9wGM=",
             "type": "github"
         },
-        "version": "42b9e236025c5129c9e6f5ae2ab0c935caec66c1"
+        "version": "2cbb7953d4e71e59fec89b00411b2826fa5b6f03"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2051,11 +2051,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "1adf95e141cb80c7027f2109ea5f5f945ff5127c",
+            "rev": "d81879ea53bf856f472fce18c3e5c66c8d4d2e4b",
             "sha256": "sha256-NN40MYYh/ECECrGDNdakvmspuaj7iO876iSMkmcELCc=",
             "type": "github"
         },
-        "version": "1adf95e141cb80c7027f2109ea5f5f945ff5127c"
+        "version": "d81879ea53bf856f472fce18c3e5c66c8d4d2e4b"
     },
     "uniemoji": {
         "cargoLocks": null,
