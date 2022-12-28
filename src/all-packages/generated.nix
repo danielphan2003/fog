@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "c2aa81bfe3d5a60e27ab2f3736c5e7117783f906";
+    version = "067738b94f4547b1015e1327e9e35b12177df78d";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "c2aa81bfe3d5a60e27ab2f3736c5e7117783f906";
+      rev = "067738b94f4547b1015e1327e9e35b12177df78d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-43oAW7mP+ZKYNGthm305cAJblWDEJH5ApuUE7Bw/+6s=";
+      sha256 = "sha256-6AitRpyLIq5by9/rXdIC8AChMVKZmR1Eo5GTo+DtGhc=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-c2aa81bfe3d5a60e27ab2f3736c5e7117783f906/Cargo.lock;
+      lockFile = ./asusctl-067738b94f4547b1015e1327e9e35b12177df78d/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-zp92mWyWUEWUP4kEyHbiUyYTtp2kLv+gxkPzOu77fi8=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
