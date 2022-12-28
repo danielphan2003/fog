@@ -403,7 +403,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-783784cb253e216baac4b6fa461391a367b02181/src-tauri/Cargo.lock",
+                "./cinny-desktop-c2d9e49671a1ea924e51fdb63dfb841e18b702e9/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -418,11 +418,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "783784cb253e216baac4b6fa461391a367b02181",
-            "sha256": "sha256-f5jzQiQHhvkoznBkoQ6Xz6f1VLuuwpnew2Zu1sQa4q4=",
+            "rev": "c2d9e49671a1ea924e51fdb63dfb841e18b702e9",
+            "sha256": "sha256-8ACwbAQBbCll+NeCB0YheQxxjfk5QViNOuzw4Xx/26U=",
             "type": "github"
         },
-        "version": "783784cb253e216baac4b6fa461391a367b02181"
+        "version": "c2d9e49671a1ea924e51fdb63dfb841e18b702e9"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -1577,7 +1577,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-75f57cf0fc4fd9d2b770ab088aad78015da491d9/Cargo.lock",
+                "./rustdesk-08b8f403975a16f6eeeff2afeb6f11f32e29384d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1608,11 +1608,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "75f57cf0fc4fd9d2b770ab088aad78015da491d9",
-            "sha256": "sha256-DrKsEXUi5fk+8bJWKMs5bRKw3C3VA0d8aFr3+8DGuEo=",
+            "rev": "08b8f403975a16f6eeeff2afeb6f11f32e29384d",
+            "sha256": "sha256-vB70JUrooyNsoBM4Q6EMOJpug1vJ4bKMQljgWteAlOE=",
             "type": "github"
         },
-        "version": "75f57cf0fc4fd9d2b770ab088aad78015da491d9"
+        "version": "08b8f403975a16f6eeeff2afeb6f11f32e29384d"
     },
     "rustdesk-server": {
         "cargoLocks": {
