@@ -532,11 +532,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "e13b4842e84638575335b46bae5ddf2eafe6d1da",
-            "sha256": "sha256-VYkXzvGqMrunbik3kzcM67QGuJh57y4N0w6RK2gWkKI=",
+            "rev": "c883949a97b4eb2d779bee86559eec756aa7138b",
+            "sha256": "sha256-1NZac44Am0UPMkUv987pOUfOYqMn6BCAWKmisvrDjAg=",
             "type": "github"
         },
-        "version": "e13b4842e84638575335b46bae5ddf2eafe6d1da"
+        "version": "c883949a97b4eb2d779bee86559eec756aa7138b"
     },
     "doggo": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "7d81be1d4c71148c4a3d3e492b9032b504e8a32f",
-            "sha256": "sha256-KlnBEVdQ6WukViskBnmE74jzbMCcaSHRMVaSfuOM4zc=",
+            "rev": "76b3c09ea916114c1cd2e2cc30670a7049cef774",
+            "sha256": "sha256-KuHQE3ttbWBRmjFVTwrYVfU2MnC0rJmOpJEBpevqTSI=",
             "type": "github"
         },
-        "version": "7d81be1d4c71148c4a3d3e492b9032b504e8a32f"
+        "version": "76b3c09ea916114c1cd2e2cc30670a7049cef774"
     },
     "rofi-wayland": {
         "cargoLocks": null,

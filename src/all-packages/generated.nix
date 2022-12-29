@@ -320,13 +320,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "e13b4842e84638575335b46bae5ddf2eafe6d1da";
+    version = "c883949a97b4eb2d779bee86559eec756aa7138b";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "e13b4842e84638575335b46bae5ddf2eafe6d1da";
+      rev = "c883949a97b4eb2d779bee86559eec756aa7138b";
       fetchSubmodules = false;
-      sha256 = "sha256-VYkXzvGqMrunbik3kzcM67QGuJh57y4N0w6RK2gWkKI=";
+      sha256 = "sha256-1NZac44Am0UPMkUv987pOUfOYqMn6BCAWKmisvrDjAg=";
     });
   };
   doggo = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7d81be1d4c71148c4a3d3e492b9032b504e8a32f";
+    version = "76b3c09ea916114c1cd2e2cc30670a7049cef774";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7d81be1d4c71148c4a3d3e492b9032b504e8a32f";
+      rev = "76b3c09ea916114c1cd2e2cc30670a7049cef774";
       fetchSubmodules = false;
-      sha256 = "sha256-KlnBEVdQ6WukViskBnmE74jzbMCcaSHRMVaSfuOM4zc=";
+      sha256 = "sha256-KuHQE3ttbWBRmjFVTwrYVfU2MnC0rJmOpJEBpevqTSI=";
     });
   };
   rofi-wayland = {
