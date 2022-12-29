@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b/Cargo.lock",
+                "./age-plugin-yubikey-ed6273d781b3f21ca82607ab982ae8e313e42658/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b",
-            "sha256": "sha256-kOTBGTKjkwOdunn4QY+gQ6q4tk132gsE+SLCeZuiDUo=",
+            "rev": "ed6273d781b3f21ca82607ab982ae8e313e42658",
+            "sha256": "sha256-RqvlsOYUU41xf5ECeVRNfU+VwMuIi/6xm5OjvY+k5QE=",
             "type": "github"
         },
-        "version": "aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b"
+        "version": "ed6273d781b3f21ca82607ab982ae8e313e42658"
     },
     "anime-downloader": {
         "cargoLocks": null,
@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "220dda715aa039aa89625a830497a7add9091524",
-            "sha256": "sha256-e3UIK43eVs8y+IQci1GmMRNLcWCi9h+xN7ooRqscDe8=",
+            "rev": "7da70ebeba23110aa9e4a5eb867431d55f9d7863",
+            "sha256": "sha256-YV0fIeTrWEWLQC9XEiznAn1UQ9JaHCDRXs/WIcGcZ8A=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "220dda715aa039aa89625a830497a7add9091524"
+        "version": "7da70ebeba23110aa9e4a5eb867431d55f9d7863"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1577,7 +1577,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a/Cargo.lock",
+                "./rustdesk-12dd2dd7c06eb5cb869065e5c0bc514776a85c82/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1608,11 +1608,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a",
-            "sha256": "sha256-LVmgdsE27dtxewg+dQ7E4WT4LIdkJld1hLsZwnvuYoY=",
+            "rev": "12dd2dd7c06eb5cb869065e5c0bc514776a85c82",
+            "sha256": "sha256-3xn0bgOl/p4w0+qSyrhAnlgkrR0W2E5gO7JAoLfX0BY=",
             "type": "github"
         },
-        "version": "1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a"
+        "version": "12dd2dd7c06eb5cb869065e5c0bc514776a85c82"
     },
     "rustdesk-server": {
         "cargoLocks": {

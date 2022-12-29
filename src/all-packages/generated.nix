@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b";
+    version = "ed6273d781b3f21ca82607ab982ae8e313e42658";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b";
+      rev = "ed6273d781b3f21ca82607ab982ae8e313e42658";
       fetchSubmodules = false;
-      sha256 = "sha256-kOTBGTKjkwOdunn4QY+gQ6q4tk132gsE+SLCeZuiDUo=";
+      sha256 = "sha256-RqvlsOYUU41xf5ECeVRNfU+VwMuIi/6xm5OjvY+k5QE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./age-plugin-yubikey-aaa445c4ac9c8d7d45ba0c652e5cdefed0e7853b/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-ed6273d781b3f21ca82607ab982ae8e313e42658/Cargo.lock;
       outputHashes = {
         
       };
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "220dda715aa039aa89625a830497a7add9091524";
+    version = "7da70ebeba23110aa9e4a5eb867431d55f9d7863";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "220dda715aa039aa89625a830497a7add9091524";
+      rev = "7da70ebeba23110aa9e4a5eb867431d55f9d7863";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-e3UIK43eVs8y+IQci1GmMRNLcWCi9h+xN7ooRqscDe8=";
+      sha256 = "sha256-YV0fIeTrWEWLQC9XEiznAn1UQ9JaHCDRXs/WIcGcZ8A=";
     };
   };
   flyingfox = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a";
+    version = "12dd2dd7c06eb5cb869065e5c0bc514776a85c82";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a";
+      rev = "12dd2dd7c06eb5cb869065e5c0bc514776a85c82";
       fetchSubmodules = false;
-      sha256 = "sha256-LVmgdsE27dtxewg+dQ7E4WT4LIdkJld1hLsZwnvuYoY=";
+      sha256 = "sha256-3xn0bgOl/p4w0+qSyrhAnlgkrR0W2E5gO7JAoLfX0BY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-1651cef4f3cb25ecfdd80cb2a7693b4a8868c11a/Cargo.lock;
+      lockFile = ./rustdesk-12dd2dd7c06eb5cb869065e5c0bc514776a85c82/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-3CYvFmM0oXyJcX0/ceOIbNofDMbUlGD2Rzjhghb7o4g=";
