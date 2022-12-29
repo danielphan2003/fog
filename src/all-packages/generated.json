@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "a55db95a3b295adc5e89326349498c0955442b41",
-            "sha256": "sha256-ocqug01FNMOZ9NE8oYETKZx2phmwszAqzRLIqz23qtE=",
+            "rev": "3e2200ed90b1e4451955f8391bfdc8dcb3d8c887",
+            "sha256": "sha256-/F/MXlYOB8bACh5h4T6TYfwcyE2wZwdwfzMdbfHxE8E=",
             "type": "github"
         },
-        "version": "a55db95a3b295adc5e89326349498c0955442b41"
+        "version": "3e2200ed90b1e4451955f8391bfdc8dcb3d8c887"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2323,10 +2323,10 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BBbGMLj4lud6XJLFmHuTt/WBKafYJaEe9rO6r/+1xSs=",
+            "sha256": "sha256-r7tyNH+ikoIrhciqGIw9sIUJFrETkPqTizizwSN1aZ4=",
             "type": "url",
-            "url": "https://cdn.zoom.us/prod/5.13.0.599/zoom_x86_64.pkg.tar.xz"
+            "url": "https://cdn.zoom.us/prod/5.13.3.651/zoom_x86_64.pkg.tar.xz"
         },
-        "version": "5.13.0.599"
+        "version": "5.13.3.651"
     }
 }

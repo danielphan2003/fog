@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "a55db95a3b295adc5e89326349498c0955442b41";
+    version = "3e2200ed90b1e4451955f8391bfdc8dcb3d8c887";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "a55db95a3b295adc5e89326349498c0955442b41";
+      rev = "3e2200ed90b1e4451955f8391bfdc8dcb3d8c887";
       fetchSubmodules = false;
-      sha256 = "sha256-ocqug01FNMOZ9NE8oYETKZx2phmwszAqzRLIqz23qtE=";
+      sha256 = "sha256-/F/MXlYOB8bACh5h4T6TYfwcyE2wZwdwfzMdbfHxE8E=";
     });
   };
   ibus = {
@@ -1401,10 +1401,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.13.0.599";
+    version = "5.13.3.651";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.13.0.599/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-BBbGMLj4lud6XJLFmHuTt/WBKafYJaEe9rO6r/+1xSs=";
+      url = "https://cdn.zoom.us/prod/5.13.3.651/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-r7tyNH+ikoIrhciqGIw9sIUJFrETkPqTizizwSN1aZ4=";
     };
   };
 }
