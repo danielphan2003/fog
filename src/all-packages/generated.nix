@@ -35,13 +35,13 @@
   };
   adl = {
     pname = "adl";
-    version = "2f8f935ac511c0195b458426506ccbd1384a1ad6";
+    version = "44899a64f81e2a2ad557d1b833e57900949e64b0";
     src = fetchFromGitHub ({
       owner = "RaitaroH";
       repo = "adl";
-      rev = "2f8f935ac511c0195b458426506ccbd1384a1ad6";
+      rev = "44899a64f81e2a2ad557d1b833e57900949e64b0";
       fetchSubmodules = false;
-      sha256 = "sha256-Is421wHCMLg2RKkV9WPEMt6Ce/rp4hwQNycrIfCzr1w=";
+      sha256 = "sha256-d0oJFXNaM9jowY0JIy1cst7RMvSJWle7NNuLMLMvdI4=";
     });
   };
   age-plugin-yubikey = {
@@ -320,13 +320,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "c883949a97b4eb2d779bee86559eec756aa7138b";
+    version = "f21eca07648f8cd6e4d56bbf6af4b2fba065f7eb";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "c883949a97b4eb2d779bee86559eec756aa7138b";
+      rev = "f21eca07648f8cd6e4d56bbf6af4b2fba065f7eb";
       fetchSubmodules = false;
-      sha256 = "sha256-1NZac44Am0UPMkUv987pOUfOYqMn6BCAWKmisvrDjAg=";
+      sha256 = "sha256-tzIQmtoHuSpBvt0kp7h3r7EQwV+Of8B05LfSldaSH98=";
     });
   };
   doggo = {
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "abb99df27191a8ee207d53033ef20835b0d52b33";
+    version = "1e1e591d27a15147083b2570e084623165c4b372";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "abb99df27191a8ee207d53033ef20835b0d52b33";
+      rev = "1e1e591d27a15147083b2570e084623165c4b372";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-b0l26em+YBJQOktI11Arxkuabi61I07aFCIPE78OxOM=";
+      sha256 = "sha256-rx/RyskKeTnOqxcH3OiBqsl9X1A+ApH7i9ePtQKdJ34=";
     };
   };
   flyingfox = {
