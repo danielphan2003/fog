@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc/Cargo.lock",
+                "./age-plugin-yubikey-539111c30c41eed4e24abea130e85640985d8207/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc",
-            "sha256": "sha256-cqxB9n3+10hb8MUbNzq9LjRha0OfMeXgo9gUqVY7yq0=",
+            "rev": "539111c30c41eed4e24abea130e85640985d8207",
+            "sha256": "sha256-79Uj4cBrNlE47ICqr+6AP7d7VaWVrmq9pdCnpCX2GlA=",
             "type": "github"
         },
-        "version": "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc"
+        "version": "539111c30c41eed4e24abea130e85640985d8207"
     },
     "anime-downloader": {
         "cargoLocks": null,
@@ -1772,11 +1772,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "5d2384ae1b8ed2cacf30fc515dc06db6617493c4",
-            "sha256": "sha256-vO804XpQrViv0VzbGch0n1J3Fudw50kC3mCvOEMYH+I=",
+            "rev": "902aad69f2b58d294c129ceb3c2b8917eb4a58d8",
+            "sha256": "sha256-Ptq3VlXf7kgQk8FBdQpkXgkPkKyaIAZjx0JjuliwqpY=",
             "type": "github"
         },
-        "version": "5d2384ae1b8ed2cacf30fc515dc06db6617493c4"
+        "version": "902aad69f2b58d294c129ceb3c2b8917eb4a58d8"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
