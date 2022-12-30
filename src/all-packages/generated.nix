@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "5d6b618d5fd4fcb7243594901585f3472d4b660a";
+    version = "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "5d6b618d5fd4fcb7243594901585f3472d4b660a";
+      rev = "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc";
       fetchSubmodules = false;
-      sha256 = "sha256-yGDwGZiy+tw0D9U7XQGVELc76NfC38j3TODk5bLBqlM=";
+      sha256 = "sha256-cqxB9n3+10hb8MUbNzq9LjRha0OfMeXgo9gUqVY7yq0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./age-plugin-yubikey-5d6b618d5fd4fcb7243594901585f3472d4b660a/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc/Cargo.lock;
       outputHashes = {
         
       };
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "b3ad9a3a7025269091259570c394231114c5c543";
+    version = "ca203608fa2de4882ad90f4b99b8fd33493c754c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "b3ad9a3a7025269091259570c394231114c5c543";
+      rev = "ca203608fa2de4882ad90f4b99b8fd33493c754c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-WZZUXKumpKa7MbNnrFkwIGEv31ihR8zQCQgGR2+wdtM=";
+      sha256 = "sha256-N/yDiv1N/5OH0jRmYwdS5eQKyjCb1nT/3KNASIUyYBE=";
     };
   };
   flyingfox = {

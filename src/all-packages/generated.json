@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-5d6b618d5fd4fcb7243594901585f3472d4b660a/Cargo.lock",
+                "./age-plugin-yubikey-492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "5d6b618d5fd4fcb7243594901585f3472d4b660a",
-            "sha256": "sha256-yGDwGZiy+tw0D9U7XQGVELc76NfC38j3TODk5bLBqlM=",
+            "rev": "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc",
+            "sha256": "sha256-cqxB9n3+10hb8MUbNzq9LjRha0OfMeXgo9gUqVY7yq0=",
             "type": "github"
         },
-        "version": "5d6b618d5fd4fcb7243594901585f3472d4b660a"
+        "version": "492612fc8bcfbb5cdfa294d2c24a9eb9ada0d4cc"
     },
     "anime-downloader": {
         "cargoLocks": null,
@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b3ad9a3a7025269091259570c394231114c5c543",
-            "sha256": "sha256-WZZUXKumpKa7MbNnrFkwIGEv31ihR8zQCQgGR2+wdtM=",
+            "rev": "ca203608fa2de4882ad90f4b99b8fd33493c754c",
+            "sha256": "sha256-N/yDiv1N/5OH0jRmYwdS5eQKyjCb1nT/3KNASIUyYBE=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "b3ad9a3a7025269091259570c394231114c5c543"
+        "version": "ca203608fa2de4882ad90f4b99b8fd33493c754c"
     },
     "flyingfox": {
         "cargoLocks": null,
