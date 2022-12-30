@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-ed6273d781b3f21ca82607ab982ae8e313e42658/Cargo.lock",
+                "./age-plugin-yubikey-5d6b618d5fd4fcb7243594901585f3472d4b660a/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "ed6273d781b3f21ca82607ab982ae8e313e42658",
-            "sha256": "sha256-RqvlsOYUU41xf5ECeVRNfU+VwMuIi/6xm5OjvY+k5QE=",
+            "rev": "5d6b618d5fd4fcb7243594901585f3472d4b660a",
+            "sha256": "sha256-yGDwGZiy+tw0D9U7XQGVELc76NfC38j3TODk5bLBqlM=",
             "type": "github"
         },
-        "version": "ed6273d781b3f21ca82607ab982ae8e313e42658"
+        "version": "5d6b618d5fd4fcb7243594901585f3472d4b660a"
     },
     "anime-downloader": {
         "cargoLocks": null,
