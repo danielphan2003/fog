@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-d4f8993988820b7812ffbc5e2a9e50501bdcd456/Cargo.lock",
+                "./age-plugin-yubikey-4d4d8cc1839cf4d42cabcc27a183f68e472d52f9/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "d4f8993988820b7812ffbc5e2a9e50501bdcd456",
-            "sha256": "sha256-JiPUTikl+agCqT4HoMI0mxH06g+3iOO7NURb5w9oHWY=",
+            "rev": "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9",
+            "sha256": "sha256-fI6n9Dr5BGFy2sVpgJR8GtFh5BOsyn+bizj7lOSldqA=",
             "type": "github"
         },
-        "version": "d4f8993988820b7812ffbc5e2a9e50501bdcd456"
+        "version": "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9"
     },
     "anime-downloader": {
         "cargoLocks": null,
@@ -361,11 +361,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "b40548ff614a2b30773d6f609fd75e526b409994",
-            "sha256": "sha256-MviPYq9hgkZR+FEZTmcQZSFY03js+pB+ECX0o+CEs2c=",
+            "rev": "bd74f9449601b6d7dee1cb1db8b960ee1b811de3",
+            "sha256": "sha256-BNfo4UOFuYZXJSNWaIAyHhxZaaR34bdYZJdG2DT/zVc=",
             "type": "github"
         },
-        "version": "b40548ff614a2b30773d6f609fd75e526b409994"
+        "version": "bd74f9449601b6d7dee1cb1db8b960ee1b811de3"
     },
     "cinny": {
         "cargoLocks": null,
@@ -826,11 +826,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "228e630f40de2e84e5c02384352dc9a0f70257d9",
-            "sha256": "sha256-kFgrFnfLRUfDWP1W+HMiQJqZq0Hx8ZyGLK2aEJ+XN1U=",
+            "rev": "ddcae74e09ade4215da537791e10ee229e4e3f7d",
+            "sha256": "sha256-jMQi7n/YV+mTQCaXALV18JA4kwEa87dvKExw+CVe6vw=",
             "type": "github"
         },
-        "version": "228e630f40de2e84e5c02384352dc9a0f70257d9"
+        "version": "ddcae74e09ade4215da537791e10ee229e4e3f7d"
     },
     "ibus": {
         "cargoLocks": null,
