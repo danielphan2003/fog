@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9";
+    version = "87541510ad0a9b6ed84db4d137efe8013fb4c891";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9";
+      rev = "87541510ad0a9b6ed84db4d137efe8013fb4c891";
       fetchSubmodules = false;
-      sha256 = "sha256-fI6n9Dr5BGFy2sVpgJR8GtFh5BOsyn+bizj7lOSldqA=";
+      sha256 = "sha256-vkUXQx45W6zbaC7DDzTN3mezyvsMOlTE6Qv8zSp8cRk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./age-plugin-yubikey-4d4d8cc1839cf4d42cabcc27a183f68e472d52f9/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-87541510ad0a9b6ed84db4d137efe8013fb4c891/Cargo.lock;
       outputHashes = {
         
       };
@@ -1068,13 +1068,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "6bcf292098b559e1ab7ab63cb0cc8b4d375e988b";
+    version = "d8be8ece09433f01a65369417c6cea8a858bba84";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "6bcf292098b559e1ab7ab63cb0cc8b4d375e988b";
+      rev = "d8be8ece09433f01a65369417c6cea8a858bba84";
       fetchSubmodules = false;
-      sha256 = "sha256-aaDs3jfdeD8XsI/0Wq5lJd+tD/7lkYCp8nimnW80eoM=";
+      sha256 = "sha256-ybmjcEgvYtoPam4BUW5tH28fZ5ilDxNR4EHn4eXgQ7A=";
     });
   };
   spicetify-marketplace = {
@@ -1328,13 +1328,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "258882dd1a44d6c4ac332edfcce04e1c76fe6334";
+    version = "2916e5363c6a71c7a1174278e05c453940a3fd64";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "258882dd1a44d6c4ac332edfcce04e1c76fe6334";
+      rev = "2916e5363c6a71c7a1174278e05c453940a3fd64";
       fetchSubmodules = false;
-      sha256 = "sha256-A7EXhUOscxay3lUcRd1FiyUgBbq8VT7rztaJM4sRMPs=";
+      sha256 = "sha256-KeC0zxdRkrl1d6u0BSXjPtxGPxeVjg5tRxYu5g8s0B8=";
     });
   };
   whitesur-icon-theme = {

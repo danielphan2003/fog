@@ -77,7 +77,7 @@
     "age-plugin-yubikey": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./age-plugin-yubikey-4d4d8cc1839cf4d42cabcc27a183f68e472d52f9/Cargo.lock",
+                "./age-plugin-yubikey-87541510ad0a9b6ed84db4d137efe8013fb4c891/Cargo.lock",
                 {}
             ]
         },
@@ -92,11 +92,11 @@
             "name": null,
             "owner": "str4d",
             "repo": "age-plugin-yubikey",
-            "rev": "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9",
-            "sha256": "sha256-fI6n9Dr5BGFy2sVpgJR8GtFh5BOsyn+bizj7lOSldqA=",
+            "rev": "87541510ad0a9b6ed84db4d137efe8013fb4c891",
+            "sha256": "sha256-vkUXQx45W6zbaC7DDzTN3mezyvsMOlTE6Qv8zSp8cRk=",
             "type": "github"
         },
-        "version": "4d4d8cc1839cf4d42cabcc27a183f68e472d52f9"
+        "version": "87541510ad0a9b6ed84db4d137efe8013fb4c891"
     },
     "anime-downloader": {
         "cargoLocks": null,
@@ -1773,11 +1773,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "6bcf292098b559e1ab7ab63cb0cc8b4d375e988b",
-            "sha256": "sha256-aaDs3jfdeD8XsI/0Wq5lJd+tD/7lkYCp8nimnW80eoM=",
+            "rev": "d8be8ece09433f01a65369417c6cea8a858bba84",
+            "sha256": "sha256-ybmjcEgvYtoPam4BUW5tH28fZ5ilDxNR4EHn4eXgQ7A=",
             "type": "github"
         },
-        "version": "6bcf292098b559e1ab7ab63cb0cc8b4d375e988b"
+        "version": "d8be8ece09433f01a65369417c6cea8a858bba84"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2201,11 +2201,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "258882dd1a44d6c4ac332edfcce04e1c76fe6334",
-            "sha256": "sha256-A7EXhUOscxay3lUcRd1FiyUgBbq8VT7rztaJM4sRMPs=",
+            "rev": "2916e5363c6a71c7a1174278e05c453940a3fd64",
+            "sha256": "sha256-KeC0zxdRkrl1d6u0BSXjPtxGPxeVjg5tRxYu5g8s0B8=",
             "type": "github"
         },
-        "version": "258882dd1a44d6c4ac332edfcce04e1c76fe6334"
+        "version": "2916e5363c6a71c7a1174278e05c453940a3fd64"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
