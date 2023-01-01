@@ -242,16 +242,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "c2d9e49671a1ea924e51fdb63dfb841e18b702e9";
+    version = "6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "c2d9e49671a1ea924e51fdb63dfb841e18b702e9";
+      rev = "6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a";
       fetchSubmodules = true;
-      sha256 = "sha256-8ACwbAQBbCll+NeCB0YheQxxjfk5QViNOuzw4Xx/26U=";
+      sha256 = "sha256-V4rjCSbjtzGUui5YnLgsssxafksWu8OfHwZY6UMh26U=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-c2d9e49671a1ea924e51fdb63dfb841e18b702e9/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e";
+    version = "09a74bf3ee9a53e3ce53da7afa4bbb8ea509b094";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e";
+      rev = "09a74bf3ee9a53e3ce53da7afa4bbb8ea509b094";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-i3kG4dXGzeOsQM+ZDI3ENrV7NyXpJOC8M+pS77lwwac=";
+      sha256 = "sha256-kXSbYeRbuYVH7WfcCFaUPFchvGcyB7cBr3ebmH8wzUc=";
     };
   };
   flyingfox = {
@@ -487,13 +487,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "354fd7eecf6cdb9edd6e567500db7daede0c7819";
+    version = "332175e50b63d1503c08afc5d839fc3f3fc50aba";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "354fd7eecf6cdb9edd6e567500db7daede0c7819";
+      rev = "332175e50b63d1503c08afc5d839fc3f3fc50aba";
       fetchSubmodules = false;
-      sha256 = "sha256-gVoOATmoJM+lY6wXw2OYrG7mtUUfakpzsvHQ9qKNRDk=";
+      sha256 = "sha256-E8+uGQ4I/6wxhqoGY575J4tWWmBK/eorkmBBeia4TD4=";
     });
   };
   hyprland = {
@@ -1079,13 +1079,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "05fe60cd55ba32876e76bec0f6f50ca3ebbfc44f";
+    version = "ee7f52da31eb45dff667f888d808057313895fc3";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "05fe60cd55ba32876e76bec0f6f50ca3ebbfc44f";
+      rev = "ee7f52da31eb45dff667f888d808057313895fc3";
       fetchSubmodules = false;
-      sha256 = "sha256-d9cIyS8R86f/6qu9TdSVVwbgJxzvVcLYRUKCBw3yJAU=";
+      sha256 = "sha256-LopQ2UK1FfNViRIyIpiqJrhZAAbxXFcEiHGKgpJ2/Jo=";
     });
   };
   spicetify-themes = {
