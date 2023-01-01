@@ -706,12 +706,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cba5fa2daf36716d111886375e374f179a46a701",
-            "sha256": "sha256-Wyqjz4kwYlkTtn+ZiKjbtZd6DT9tMl9wahoCi719vfo=",
+            "rev": "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e",
+            "sha256": "sha256-i3kG4dXGzeOsQM+ZDI3ENrV7NyXpJOC8M+pS77lwwac=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "cba5fa2daf36716d111886375e374f179a46a701"
+        "version": "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -2291,11 +2291,11 @@
             "name": null,
             "owner": "FiloSottile",
             "repo": "yubikey-agent",
-            "rev": "7449ff99ee46c4d32e010aeb5a585ee01590d2d7",
-            "sha256": "sha256-Knk1ipBOzjmjrS2OFUMuxi1TkyDcSYlVKezDWT//ERY=",
+            "rev": "2e5376c5ec006250c12c1b6de65fa91de9afe687",
+            "sha256": "sha256-lEeISFOnihe89WLOwO24GqnhSA1DdidV9GmUYsa+lmQ=",
             "type": "github"
         },
-        "version": "7449ff99ee46c4d32e010aeb5a585ee01590d2d7"
+        "version": "2e5376c5ec006250c12c1b6de65fa91de9afe687"
     },
     "yubikey-guide": {
         "cargoLocks": null,

@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "cba5fa2daf36716d111886375e374f179a46a701";
+    version = "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "cba5fa2daf36716d111886375e374f179a46a701";
+      rev = "5df709e12bae9c2fe2ca2c70b91d8e5366803a2e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Wyqjz4kwYlkTtn+ZiKjbtZd6DT9tMl9wahoCi719vfo=";
+      sha256 = "sha256-i3kG4dXGzeOsQM+ZDI3ENrV7NyXpJOC8M+pS77lwwac=";
     };
   };
   flyingfox = {
@@ -1380,13 +1380,13 @@
   };
   yubikey-agent = {
     pname = "yubikey-agent";
-    version = "7449ff99ee46c4d32e010aeb5a585ee01590d2d7";
+    version = "2e5376c5ec006250c12c1b6de65fa91de9afe687";
     src = fetchFromGitHub ({
       owner = "FiloSottile";
       repo = "yubikey-agent";
-      rev = "7449ff99ee46c4d32e010aeb5a585ee01590d2d7";
+      rev = "2e5376c5ec006250c12c1b6de65fa91de9afe687";
       fetchSubmodules = false;
-      sha256 = "sha256-Knk1ipBOzjmjrS2OFUMuxi1TkyDcSYlVKezDWT//ERY=";
+      sha256 = "sha256-lEeISFOnihe89WLOwO24GqnhSA1DdidV9GmUYsa+lmQ=";
     });
   };
   yubikey-guide = {
