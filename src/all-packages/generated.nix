@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "3d1b255199db3ce9539befcd8547331b312a34e7";
+    version = "0e3547e0f6b4016aa308292a86c43cd47dd206fd";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "3d1b255199db3ce9539befcd8547331b312a34e7";
+      rev = "0e3547e0f6b4016aa308292a86c43cd47dd206fd";
       fetchSubmodules = false;
-      sha256 = "sha256-Ts8X7jBm+mV4srpL8uCa5dEwRqRV0Kwho0JqrKbHKyQ=";
+      sha256 = "sha256-2MKfXQ9f2GUYEt+Yht/Qp5JpkamRu5pqRGX0HVwe13Q=";
     });
   };
   ibus = {
@@ -558,18 +558,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6892";
+    version = "1.0.6893";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6892.tar.bz2";
-      sha256 = "sha256-OLmheSYUN1dOgXKOSgCht42+VKMuR+UbVVwYPrc3um4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6893.tar.bz2";
+      sha256 = "sha256-9mv/v/vb7OKfgSTZpGupk+ZBGXA5aK3Z/z1R8e9AnOg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6892";
+    version = "1.0.6893";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6892-1_all.deb";
-      sha256 = "sha256-345JhH5PRX8xce3ACSxfuxkaSuwbZcafna0G2sQCsdI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6893-1_all.deb";
+      sha256 = "sha256-Ot5ZqiRT1o+uPyixsShiKyU3jgr4wdPy5nGf8dWl42k=";
     };
   };
   jitsi-videobridge2 = {
@@ -1068,13 +1068,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "d8be8ece09433f01a65369417c6cea8a858bba84";
+    version = "b0ec178b133c182868c218e45f0ce9b9f4493c9a";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "d8be8ece09433f01a65369417c6cea8a858bba84";
+      rev = "b0ec178b133c182868c218e45f0ce9b9f4493c9a";
       fetchSubmodules = false;
-      sha256 = "sha256-ybmjcEgvYtoPam4BUW5tH28fZ5ilDxNR4EHn4eXgQ7A=";
+      sha256 = "sha256-rLDpP77E/jhO6hF7tTXyzJxLjTa41p7bFfk9vx5dSyg=";
     });
   };
   spicetify-marketplace = {
@@ -1202,13 +1202,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "aad6830df0b68362a5d006b1470e0ed3cd56fe73";
+    version = "467ace7d0c0655e69cc219ec380c0119d909f36b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "aad6830df0b68362a5d006b1470e0ed3cd56fe73";
+      rev = "467ace7d0c0655e69cc219ec380c0119d909f36b";
       fetchSubmodules = false;
-      sha256 = "sha256-8iZvLtcXp6jACP58jJkUb75g+uogCml0c2YWaCCPA08=";
+      sha256 = "sha256-GigrP9kH0Rk5U7fpfv4XzJ1I2sqHWl1IILBi0RKTYW0=";
     });
   };
   tailscale-systray = {
@@ -1306,13 +1306,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "54dbd9258fbd735f06758df4a08ef38d15b4d87d";
+    version = "3b3081af3da09ae93449f34cb16556ed84caad07";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "54dbd9258fbd735f06758df4a08ef38d15b4d87d";
+      rev = "3b3081af3da09ae93449f34cb16556ed84caad07";
       fetchSubmodules = false;
-      sha256 = "sha256-/MenO7nHjHxs46ZuVFAGwUsVLbZstX0rEBoFT/Ox7sk=";
+      sha256 = "sha256-tyNsobuvAG4V7F+MQrXKNlTLHglgXBWkwErjGx8eFJQ=";
     });
   };
   wgcf = {
