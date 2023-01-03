@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "37bf943ac789262c41d27bcb606c9477bf9af213";
+    version = "6b3252b6ad717288c9e896e06db62215e2e6bee0";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "37bf943ac789262c41d27bcb606c9477bf9af213";
+      rev = "6b3252b6ad717288c9e896e06db62215e2e6bee0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Yrs6YWScu94uQSt0XIOptgq6IuwnZ/Eox3l/s5/Ds2E=";
+      sha256 = "sha256-h1g9Axyk1pFZBkube+dqDMVgTn7/7wf7EAFOGuGaft0=";
     };
   };
   flyingfox = {
@@ -1202,13 +1202,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "467ace7d0c0655e69cc219ec380c0119d909f36b";
+    version = "91e64ca74ffb22cf5a32f5eeee60196b12aa1636";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "467ace7d0c0655e69cc219ec380c0119d909f36b";
+      rev = "91e64ca74ffb22cf5a32f5eeee60196b12aa1636";
       fetchSubmodules = false;
-      sha256 = "sha256-GigrP9kH0Rk5U7fpfv4XzJ1I2sqHWl1IILBi0RKTYW0=";
+      sha256 = "sha256-EeVtGoKfp+Cz39/u3P9SkEuz1ZB3GxXx4qdKDkTGvVI=";
     });
   };
   tailscale-systray = {
