@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "6b3252b6ad717288c9e896e06db62215e2e6bee0";
+    version = "20e26b3747bc465dc0c743a0d78321dffbdb41a6";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "6b3252b6ad717288c9e896e06db62215e2e6bee0";
+      rev = "20e26b3747bc465dc0c743a0d78321dffbdb41a6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-h1g9Axyk1pFZBkube+dqDMVgTn7/7wf7EAFOGuGaft0=";
+      sha256 = "sha256-Iq8SH9QI35NXDHjarQYRUTzcWtNRuM+4BaUNyEfPGb8=";
     };
   };
   flyingfox = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-972";
+    version = "1.0-973";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-972-1_all.deb";
-      sha256 = "sha256-I3K1IBLS0iQEGqkoTy/u/pe8p8wjP0e00H8wt1OwMnE=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-973-1_all.deb";
+      sha256 = "sha256-cwbw9kgzmaw/ZyZD2bvc7IZXhdVp9k5m8ms4nCOIVvg=";
     };
   };
   jitsi-meet = {
