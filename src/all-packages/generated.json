@@ -160,7 +160,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-067738b94f4547b1015e1327e9e35b12177df78d/Cargo.lock",
+                "./asusctl-ee0600d50d495ff3c6ba6ee5940931eec8750493/Cargo.lock",
                 {
                     "ecolor-0.20.0": "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
@@ -177,12 +177,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "067738b94f4547b1015e1327e9e35b12177df78d",
-            "sha256": "sha256-6AitRpyLIq5by9/rXdIC8AChMVKZmR1Eo5GTo+DtGhc=",
+            "rev": "ee0600d50d495ff3c6ba6ee5940931eec8750493",
+            "sha256": "sha256-BnvDznZkZ00cz/frmTy6Wyl6zA1gtg2aI+T0MzxIu/o=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "067738b94f4547b1015e1327e9e35b12177df78d"
+        "version": "ee0600d50d495ff3c6ba6ee5940931eec8750493"
     },
     "avizo": {
         "cargoLocks": null,
@@ -708,12 +708,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "fd152baa28bfeea9592452b27d0579c16c4c02ee",
-            "sha256": "sha256-hFF2liCKRgPbxYkbNEac1xcXpsxa+EMVvdcWaf62xSQ=",
+            "rev": "63abbf403a2da6d0648c4dc7899d2a37dbec900f",
+            "sha256": "sha256-9sdicX8zii+WwDKpZBqoWAa2+dStCpt19AboUy23rM8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "fd152baa28bfeea9592452b27d0579c16c4c02ee"
+        "version": "63abbf403a2da6d0648c4dc7899d2a37dbec900f"
     },
     "flyingfox": {
         "cargoLocks": null,
