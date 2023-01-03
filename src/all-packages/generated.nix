@@ -748,16 +748,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "6da32c497fc069c8878b6b80a446b28f27d4634a";
+    version = "68237a2d67c714bf9022c92b16ced724f120d66f";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "6da32c497fc069c8878b6b80a446b28f27d4634a";
+      rev = "68237a2d67c714bf9022c92b16ced724f120d66f";
       fetchSubmodules = false;
-      sha256 = "sha256-br4IZtQP3A8VAQjyba2ZZTUh19ZREQLdzF9rSp/N6SI=";
+      sha256 = "sha256-TAS2v5fYiJrYVDyIvoLMhAgPqBvUGUo8kDfNXRl0MWk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-6da32c497fc069c8878b6b80a446b28f27d4634a/Cargo.lock;
+      lockFile = ./ouch-68237a2d67c714bf9022c92b16ced724f120d66f/Cargo.lock;
       outputHashes = {
         
       };
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "68fda3499008f9029b4bc118fbcbaf6e461904ee";
+    version = "f92a6f50117eaf0efd60e648cec9296ca4c3efdb";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "68fda3499008f9029b4bc118fbcbaf6e461904ee";
+      rev = "f92a6f50117eaf0efd60e648cec9296ca4c3efdb";
       fetchSubmodules = false;
-      sha256 = "sha256-BGOhSA/VzDAkqBhhcLUfQ7SNkQRhGAiIJCwx1B4ZRSU=";
+      sha256 = "sha256-sFUKAwNNaDAoc2kaefLvkHpvJZdzBoPj8abQI8mn5VA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-68fda3499008f9029b4bc118fbcbaf6e461904ee/Cargo.lock;
+      lockFile = ./rustdesk-f92a6f50117eaf0efd60e648cec9296ca4c3efdb/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1202,13 +1202,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "692eac23adf62f979dddb5b9694d084142036f10";
+    version = "aad6830df0b68362a5d006b1470e0ed3cd56fe73";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "692eac23adf62f979dddb5b9694d084142036f10";
+      rev = "aad6830df0b68362a5d006b1470e0ed3cd56fe73";
       fetchSubmodules = false;
-      sha256 = "sha256-MYpqfWA39gXsMZCnGGD2LCYwvIJKF387vbH2w57vuCc=";
+      sha256 = "sha256-8iZvLtcXp6jACP58jJkUb75g+uogCml0c2YWaCCPA08=";
     });
   };
   tailscale-systray = {
