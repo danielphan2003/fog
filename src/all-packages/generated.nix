@@ -664,10 +664,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "110.0.1556.0";
+    version = "110.0.1587.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1556.0-1_amd64.deb";
-      sha256 = "sha256-4XK0X4HzxVuf9Lmr2jsfX1nlI0oXXEYwZGRAOniy0MQ=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1587.1-1_amd64.deb";
+      sha256 = "sha256-b6SfcMWRqgdhGkUDsAa4Dvpz4ZkO2CvXN0ssCxmladw=";
     };
   };
   microsoft-edge-stable = {

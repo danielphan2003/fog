@@ -1111,11 +1111,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4XK0X4HzxVuf9Lmr2jsfX1nlI0oXXEYwZGRAOniy0MQ=",
+            "sha256": "sha256-b6SfcMWRqgdhGkUDsAa4Dvpz4ZkO2CvXN0ssCxmladw=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1556.0-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1587.1-1_amd64.deb"
         },
-        "version": "110.0.1556.0"
+        "version": "110.0.1587.1"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
