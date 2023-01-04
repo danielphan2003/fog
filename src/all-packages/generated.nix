@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-973";
+    version = "1.0-974";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-973-1_all.deb";
-      sha256 = "sha256-cwbw9kgzmaw/ZyZD2bvc7IZXhdVp9k5m8ms4nCOIVvg=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-974-1_all.deb";
+      sha256 = "sha256-PlykjxdhjFBpfBb6QROxbPh0iAhDF6b58ucYno8/CIs=";
     };
   };
   jitsi-meet = {
@@ -1306,13 +1306,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "3b3081af3da09ae93449f34cb16556ed84caad07";
+    version = "fb92d3a016a956e8520e938b59f55bd0fe9c2deb";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "3b3081af3da09ae93449f34cb16556ed84caad07";
+      rev = "fb92d3a016a956e8520e938b59f55bd0fe9c2deb";
       fetchSubmodules = false;
-      sha256 = "sha256-tyNsobuvAG4V7F+MQrXKNlTLHglgXBWkwErjGx8eFJQ=";
+      sha256 = "sha256-mRHN2NTLAbU6gaq0xonwkq/SMxwiuNiMdkWW9ZWsEVY=";
     });
   };
   wgcf = {
