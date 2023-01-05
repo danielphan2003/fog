@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "cbce854d1b90877336eb7203ae70b4db19b539a3";
+    version = "54273cfb6075b0ed9d64a72848a8d332c87ab042";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "cbce854d1b90877336eb7203ae70b4db19b539a3";
+      rev = "54273cfb6075b0ed9d64a72848a8d332c87ab042";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-M4bzuWnPxEuGxkthmuOwOutHYA5BQyXMo8u/GRYdYH8=";
+      sha256 = "sha256-WGeSfBcLQWLSyXK93rG1RUDMWtQdo6f/55IpYYD0Ukw=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-cbce854d1b90877336eb7203ae70b4db19b539a3/Cargo.lock;
+      lockFile = ./asusctl-54273cfb6075b0ed9d64a72848a8d332c87ab042/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-zp92mWyWUEWUP4kEyHbiUyYTtp2kLv+gxkPzOu77fi8=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9117d6956c1186493a17a007b10427b47610aa45";
+    version = "66d50ef55cf61af8f48fa870ab1fc63be071ee1d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9117d6956c1186493a17a007b10427b47610aa45";
+      rev = "66d50ef55cf61af8f48fa870ab1fc63be071ee1d";
       fetchSubmodules = false;
-      sha256 = "sha256-Zb4lkJ3YodPyV5Z9mbesEYu5+btYb8zhWKl24OmoLbQ=";
+      sha256 = "sha256-KcKYLAWQW0+vaaZ0FTVzhbvKPLksWNB7Uw75XC4AUyg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9117d6956c1186493a17a007b10427b47610aa45/Cargo.lock;
+      lockFile = ./rustdesk-66d50ef55cf61af8f48fa870ab1fc63be071ee1d/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
