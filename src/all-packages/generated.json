@@ -1252,7 +1252,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-b66932b5fb501f650756dda24a9fc5a593779764/Cargo.lock",
+                "./ouch-262ca5d582496774a834270ea04036e01aa8dd55/Cargo.lock",
                 {}
             ]
         },
@@ -1267,11 +1267,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "b66932b5fb501f650756dda24a9fc5a593779764",
-            "sha256": "sha256-jY5Y+f9aP2xs14Iy13KCpCwcw+N0ImeJlvKRX+XiSPk=",
+            "rev": "262ca5d582496774a834270ea04036e01aa8dd55",
+            "sha256": "sha256-dEmIUrBInKT9azgGqO/29y2chyKFmavI9kwDRW+D80Q=",
             "type": "github"
         },
-        "version": "b66932b5fb501f650756dda24a9fc5a593779764"
+        "version": "262ca5d582496774a834270ea04036e01aa8dd55"
     },
     "paper": {
         "cargoLocks": {
@@ -1988,11 +1988,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "69c0b7e712baf96669027f9d93448181ef1dd0b5",
-            "sha256": "sha256-PB5GDYU590sgfwOy6GfiShUWAxcMOmRY/5b7FAQ5LD0=",
+            "rev": "ebbf5c57b32d60a6261aee1a3fe93bed11d884ae",
+            "sha256": "sha256-KoTPPKXFMcy4DeJ57gqXJJRYznkcaT417ch+HRWF4aA=",
             "type": "github"
         },
-        "version": "69c0b7e712baf96669027f9d93448181ef1dd0b5"
+        "version": "ebbf5c57b32d60a6261aee1a3fe93bed11d884ae"
     },
     "tailscale-systray": {
         "cargoLocks": null,
