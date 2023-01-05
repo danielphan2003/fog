@@ -1551,11 +1551,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "0c42e339e1afc5d6ac25d2e64d9cbf5085868d13",
-            "sha256": "sha256-m8SE6+cA5C4RsGMVnZmyukfrq3Tk6Lz5ZlhnUPgh88M=",
+            "rev": "860ffb2b6aa1327e7ff2b1ba336c8b2fa49d9076",
+            "sha256": "sha256-SJPGL9vJcm6N3BHlpUjycEhQo6YvV79b5M+qfEkKeMA=",
             "type": "github"
         },
-        "version": "0c42e339e1afc5d6ac25d2e64d9cbf5085868d13"
+        "version": "860ffb2b6aa1327e7ff2b1ba336c8b2fa49d9076"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1988,11 +1988,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "907f85cd675335bc4cc97440486ed542321805fd",
-            "sha256": "sha256-A7I3R2Jf5HPV4OksEudxR3j/aocxLb0z6y2CbHRHeBk=",
+            "rev": "8f2bc0708bf0146495b0fa5344422bd461fdb072",
+            "sha256": "sha256-qG1pldNoB9t5FVp7OGGj4dyn4tzNtuhPsTkndKm6OtQ=",
             "type": "github"
         },
-        "version": "907f85cd675335bc4cc97440486ed542321805fd"
+        "version": "8f2bc0708bf0146495b0fa5344422bd461fdb072"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2203,11 +2203,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "2916e5363c6a71c7a1174278e05c453940a3fd64",
-            "sha256": "sha256-KeC0zxdRkrl1d6u0BSXjPtxGPxeVjg5tRxYu5g8s0B8=",
+            "rev": "3261b7ad905213601f2409b846793c3b5eaa5ca6",
+            "sha256": "sha256-QHtk3JAkDGhfKdWhmcfnvwbKxf8Y2PAMJZIYUiuHDyI=",
             "type": "github"
         },
-        "version": "2916e5363c6a71c7a1174278e05c453940a3fd64"
+        "version": "3261b7ad905213601f2409b846793c3b5eaa5ca6"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
