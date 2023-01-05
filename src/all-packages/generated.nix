@@ -320,13 +320,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "f21eca07648f8cd6e4d56bbf6af4b2fba065f7eb";
+    version = "a868e2b3067e1546fd9a66a723cb314c69372432";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "f21eca07648f8cd6e4d56bbf6af4b2fba065f7eb";
+      rev = "a868e2b3067e1546fd9a66a723cb314c69372432";
       fetchSubmodules = false;
-      sha256 = "sha256-tzIQmtoHuSpBvt0kp7h3r7EQwV+Of8B05LfSldaSH98=";
+      sha256 = "sha256-WM++IbXNFr0MUM1eP6qgXI6qnD5xffXhIJXfvscHwdo=";
     });
   };
   doggo = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0f207bd38d4ccca70c7da81bbac0791fb4976acc";
+    version = "37f4e1218a62abec8e576ddf78d9559cbf8f53eb";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0f207bd38d4ccca70c7da81bbac0791fb4976acc";
+      rev = "37f4e1218a62abec8e576ddf78d9559cbf8f53eb";
       fetchSubmodules = false;
-      sha256 = "sha256-2PUz6NFJvEoCh4JNJgyc7U3diun4KNXYxPSAOB3PK1k=";
+      sha256 = "sha256-umqHLYp5h5q/n0NlP2bSaI6RMcmywyeOQFL/2dyfRX8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0f207bd38d4ccca70c7da81bbac0791fb4976acc/Cargo.lock;
+      lockFile = ./rustdesk-37f4e1218a62abec8e576ddf78d9559cbf8f53eb/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
