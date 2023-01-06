@@ -708,12 +708,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d000f6e5a7803ff0d5d75f56b46de98c5872ab0e",
-            "sha256": "sha256-c79+LBQwiCVWqFxtZWCO+w8tBC0T3RxzUEkvh+N2oYo=",
+            "rev": "ba885ca69e76677b9506591b5421b92d36f8e14f",
+            "sha256": "sha256-qpvc2PDEm1nzSdGs2HdcegMaL3A2UfiVpPkXX8P74xY=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "d000f6e5a7803ff0d5d75f56b46de98c5872ab0e"
+        "version": "ba885ca69e76677b9506591b5421b92d36f8e14f"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1579,7 +1579,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-6886a8948bb5b12951f85875bb1102a0e063df32/Cargo.lock",
+                "./rustdesk-5a91701d3d44f1312b68c8a575d28ae5e4563bf4/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1611,11 +1611,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "6886a8948bb5b12951f85875bb1102a0e063df32",
-            "sha256": "sha256-1AzeFxRyjRfPODz49FOI4dKfpowXJ24Q4Ql6FWtLoRQ=",
+            "rev": "5a91701d3d44f1312b68c8a575d28ae5e4563bf4",
+            "sha256": "sha256-eOHpd/J3eb/axagTGGz6BI6ggx4sVoPOvHy04eTvilc=",
             "type": "github"
         },
-        "version": "6886a8948bb5b12951f85875bb1102a0e063df32"
+        "version": "5a91701d3d44f1312b68c8a575d28ae5e4563bf4"
     },
     "rustdesk-server": {
         "cargoLocks": {
