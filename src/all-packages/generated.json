@@ -1988,11 +1988,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ebbf5c57b32d60a6261aee1a3fe93bed11d884ae",
-            "sha256": "sha256-KoTPPKXFMcy4DeJ57gqXJJRYznkcaT417ch+HRWF4aA=",
+            "rev": "be67b8e75b9bedb28fc8502c9295fb5f4b3fbb5f",
+            "sha256": "sha256-IHCB0HpInPuuCL2u2PblhIvErQb4UCo3zfuPQMh314A=",
             "type": "github"
         },
-        "version": "ebbf5c57b32d60a6261aee1a3fe93bed11d884ae"
+        "version": "be67b8e75b9bedb28fc8502c9295fb5f4b3fbb5f"
     },
     "tailscale-systray": {
         "cargoLocks": null,
