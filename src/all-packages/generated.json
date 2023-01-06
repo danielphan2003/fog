@@ -2165,11 +2165,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "1780c9488ccce1737928c68e86896455f2732d02",
-            "sha256": "sha256-6YbKlpFlB4o0nRVRw2jHYxwIXwAF2SOk06J3vQ+QtBU=",
+            "rev": "094a4d970ccefa2e6409c8147c1edbdaaa74df0f",
+            "sha256": "sha256-q4FeJUjHT2eMll3/HluMlxykCe8rM7MGLyXwzEz6v9k=",
             "type": "github"
         },
-        "version": "1780c9488ccce1737928c68e86896455f2732d02"
+        "version": "094a4d970ccefa2e6409c8147c1edbdaaa74df0f"
     },
     "wgcf": {
         "cargoLocks": null,
