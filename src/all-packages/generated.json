@@ -160,7 +160,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-8011ba300964762c703e15d36ce64289ee800f80/Cargo.lock",
+                "./asusctl-ea5e5db49009c52c496ce3649a73d8f6c5e8f986/Cargo.lock",
                 {
                     "ecolor-0.20.0": "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
@@ -177,12 +177,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8011ba300964762c703e15d36ce64289ee800f80",
-            "sha256": "sha256-msxthkgEnD75VY513qp5iTPJqiEYVNv7kbMjZAaITgI=",
+            "rev": "ea5e5db49009c52c496ce3649a73d8f6c5e8f986",
+            "sha256": "sha256-9FipAZOtMqDn7u7NHTC5LUu4wksbfxhneiN8zKLgihU=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "8011ba300964762c703e15d36ce64289ee800f80"
+        "version": "ea5e5db49009c52c496ce3649a73d8f6c5e8f986"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1893,7 +1893,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-cdd09a48ccc3264f8c09adda7880ca393a3133de/Cargo.lock",
+                "./supergfxctl-e59c026eb6c5d4ee32c3b576b6b63fc07f436ef6/Cargo.lock",
                 {}
             ]
         },
@@ -1906,12 +1906,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cdd09a48ccc3264f8c09adda7880ca393a3133de",
-            "sha256": "sha256-KOYWQmBW1o3w6KXlO4oszIq2f22IDPEZsSd3a7nOd30=",
+            "rev": "e59c026eb6c5d4ee32c3b576b6b63fc07f436ef6",
+            "sha256": "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "cdd09a48ccc3264f8c09adda7880ca393a3133de"
+        "version": "e59c026eb6c5d4ee32c3b576b6b63fc07f436ef6"
     },
     "sway-borders": {
         "cargoLocks": null,
