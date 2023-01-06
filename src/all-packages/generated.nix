@@ -212,13 +212,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "4e9ad50f6503a347e85b7030afa616a83f145394";
+    version = "e450a7377b00f7f2a99042ba8e440fed69072028";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "4e9ad50f6503a347e85b7030afa616a83f145394";
+      rev = "e450a7377b00f7f2a99042ba8e440fed69072028";
       fetchSubmodules = false;
-      sha256 = "sha256-UhOiQyVbDOnjlzwT/uadKmFS9hI8te9uplLI1bSV8Kc=";
+      sha256 = "sha256-L1IY3J89ui4vB66z6wktHXeFyZHOx8DOEggg2wUaCak=";
     });
   };
   cinny = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-976";
+    version = "1.0-977";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-976-1_all.deb";
-      sha256 = "sha256-APWzIB+DMisruUQf2ITATSYJmpdqrLWRWzGNhugJe8s=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-977-1_all.deb";
+      sha256 = "sha256-i/lqdKrpS075mPA2GMj2nvfxoH79QSQXKApVEwcW9n8=";
     };
   };
   jitsi-meet = {
@@ -656,10 +656,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "109.0.1518.26";
+    version = "109.0.1518.44";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.26-1_amd64.deb";
-      sha256 = "sha256-S560H57oTdorMeamiZFTz6oHJDmdBjoosuJJogowuZo=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.44-1_amd64.deb";
+      sha256 = "sha256-xD/P9SkqFrbY+pu2Iod4mx5Nas9k2rnfN3c+xEn4rHs=";
     };
   };
   microsoft-edge-dev = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "17121b361d68f67fb569131f2bf203d30db411e8";
+    version = "5ac8cc0b6a0652d6b27213ec13429d5252eb08c7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "17121b361d68f67fb569131f2bf203d30db411e8";
+      rev = "5ac8cc0b6a0652d6b27213ec13429d5252eb08c7";
       fetchSubmodules = false;
-      sha256 = "sha256-+FokQAMPuJobMGSjIcBJ6leepgGyOTPb8lNZdX96s1o=";
+      sha256 = "sha256-ACkn8geSJNNEvtqnhR9SLTdf0pFyElRg1dVJ4syWZaw=";
     });
   };
   rofi-wayland = {
@@ -980,16 +980,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "e70d82b30f3a3982f9772175f121d735969494e8";
+    version = "cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "e70d82b30f3a3982f9772175f121d735969494e8";
+      rev = "cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50";
       fetchSubmodules = false;
-      sha256 = "sha256-t2tobwDF5M3hRRASjSjVO4RJznIlg27PBc2D2T6/OBM=";
+      sha256 = "sha256-bBL4HDcDfGFqIMUZC2YP3Fye/20L0WwmGLmLMMfjoiM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-e70d82b30f3a3982f9772175f121d735969494e8/Cargo.lock;
+      lockFile = ./rustdesk-server-cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
@@ -1240,13 +1240,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "476f9329955853b5139e353c6c8218d8f76891d3";
+    version = "e773ff8fb685321d95f42160181c6dd168f42a94";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "476f9329955853b5139e353c6c8218d8f76891d3";
+      rev = "e773ff8fb685321d95f42160181c6dd168f42a94";
       fetchSubmodules = false;
-      sha256 = "sha256-/uRi6EvxvNgVR5VKjWmhh1GhYk5x5GdLdRPt1Dd/rtk=";
+      sha256 = "sha256-7etLlxmXLyOMLWrvv6ohNOheL3wCxnnmVbXqaAJdhCo=";
     });
   };
   uniemoji = {
