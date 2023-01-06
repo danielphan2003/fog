@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "461fab0f27e4913993c6321625b343537aba1bdf";
+    version = "98ce867104b855824ee218296f91664e1fd60545";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "461fab0f27e4913993c6321625b343537aba1bdf";
+      rev = "98ce867104b855824ee218296f91664e1fd60545";
       fetchSubmodules = false;
-      sha256 = "sha256-PbluwbDgrjxWEIhfOTJw3OEr1+Nr1Egw1JJ5QKtl0yk=";
+      sha256 = "sha256-m0adAod0AqjUtCU3OZoAo7S7nTm7zzp7c851xutw81M=";
     });
   };
   ibus = {
@@ -699,10 +699,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.48.0";
+    version = "0.49.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.48.0.tar.gz";
-      sha256 = "sha256-ForqaYThWKui1cQZ0ZjJh/hyQc8RcvsuPywG0v9dmxQ=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.0.tar.gz";
+      sha256 = "sha256-SoXiwZ9o/K7Ii7wWq9hR+l6q8opa5CaMAuPXZ31P0Io=";
     };
   };
   nix-zsh-completions = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "15512070fcae2a32fa02a3d83c0ede8ace8ce9cf";
+    version = "c1f983a952e8b94dd31f5c897f8c86e1390a8261";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "15512070fcae2a32fa02a3d83c0ede8ace8ce9cf";
+      rev = "c1f983a952e8b94dd31f5c897f8c86e1390a8261";
       fetchSubmodules = false;
-      sha256 = "sha256-RsduZvc9FIc2gWkgXHRJkAqM971V8MSA3hMf6hdAvXo=";
+      sha256 = "sha256-BRC3QZvIRFiazvfBIMyIEfiGjFax5CRKJhJffPxV3To=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-15512070fcae2a32fa02a3d83c0ede8ace8ce9cf/Cargo.lock;
+      lockFile = ./rustdesk-c1f983a952e8b94dd31f5c897f8c86e1390a8261/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
