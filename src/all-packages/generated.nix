@@ -116,13 +116,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "67af5fd55279c25546d79cebdb4cb73440093082";
+    version = "9cd5319503584e2e7e0e1ec1fe35c5b8c3e7262e";
     src = fetchFromGitHub ({
       owner = "misterdanb";
       repo = "avizo";
-      rev = "67af5fd55279c25546d79cebdb4cb73440093082";
+      rev = "9cd5319503584e2e7e0e1ec1fe35c5b8c3e7262e";
       fetchSubmodules = false;
-      sha256 = "sha256-bZE9uTAaKUFP3zw6pJB8xpZjN00vM7lntn5zG3+2CYc=";
+      sha256 = "sha256-fW4y6Ml63XS0uVF6dBDOL9uKkoHE3L3ylwiHs6immrk=";
     });
   };
   awesome = {
