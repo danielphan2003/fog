@@ -708,12 +708,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ba885ca69e76677b9506591b5421b92d36f8e14f",
-            "sha256": "sha256-qpvc2PDEm1nzSdGs2HdcegMaL3A2UfiVpPkXX8P74xY=",
+            "rev": "8513d74cc1f22f67f225df9abd1a5b3d3034b930",
+            "sha256": "sha256-ruDhBmQ4Nfy0I6wwaWbiAtIoIoTCPYCg7K+IjEri6A8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "ba885ca69e76677b9506591b5421b92d36f8e14f"
+        "version": "8513d74cc1f22f67f225df9abd1a5b3d3034b930"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1551,11 +1551,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "adee2dbe727f4a8a8733f2d9875d5ea4e0bb082a",
-            "sha256": "sha256-1jZdotXhoiX5tyXCeHe0lPniqfQPaMdOtd6FyIuH4og=",
+            "rev": "6199baff3aacd9e5373afa280df0ed0ca7ebcc94",
+            "sha256": "sha256-sMp6daCOHGP1BzDozOYUliq8dIYT4ciRStAvTfLhceI=",
             "type": "github"
         },
-        "version": "adee2dbe727f4a8a8733f2d9875d5ea4e0bb082a"
+        "version": "6199baff3aacd9e5373afa280df0ed0ca7ebcc94"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2127,11 +2127,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ksxXMA7GPlFrPi1oJa+Yg4my6qMGwVrhOL7pLruXiNA=",
+            "sha256": "sha256-0m7MXLtSuq8GdDFXzKeY86DIglgeQ6wyEtpOyB/thkc=",
             "type": "url",
-            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.86/ventoy-1.0.86-linux.tar.gz"
+            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.87/ventoy-1.0.87-linux.tar.gz"
         },
-        "version": "1.0.86"
+        "version": "1.0.87"
     },
     "vimPlugins-yuck": {
         "cargoLocks": null,

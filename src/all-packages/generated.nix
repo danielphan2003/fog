@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ba885ca69e76677b9506591b5421b92d36f8e14f";
+    version = "8513d74cc1f22f67f225df9abd1a5b3d3034b930";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ba885ca69e76677b9506591b5421b92d36f8e14f";
+      rev = "8513d74cc1f22f67f225df9abd1a5b3d3034b930";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-qpvc2PDEm1nzSdGs2HdcegMaL3A2UfiVpPkXX8P74xY=";
+      sha256 = "sha256-ruDhBmQ4Nfy0I6wwaWbiAtIoIoTCPYCg7K+IjEri6A8=";
     };
   };
   flyingfox = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "adee2dbe727f4a8a8733f2d9875d5ea4e0bb082a";
+    version = "6199baff3aacd9e5373afa280df0ed0ca7ebcc94";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "adee2dbe727f4a8a8733f2d9875d5ea4e0bb082a";
+      rev = "6199baff3aacd9e5373afa280df0ed0ca7ebcc94";
       fetchSubmodules = false;
-      sha256 = "sha256-1jZdotXhoiX5tyXCeHe0lPniqfQPaMdOtd6FyIuH4og=";
+      sha256 = "sha256-sMp6daCOHGP1BzDozOYUliq8dIYT4ciRStAvTfLhceI=";
     });
   };
   rofi-wayland = {
@@ -1287,10 +1287,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.86";
+    version = "1.0.87";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.86/ventoy-1.0.86-linux.tar.gz";
-      sha256 = "sha256-ksxXMA7GPlFrPi1oJa+Yg4my6qMGwVrhOL7pLruXiNA=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.87/ventoy-1.0.87-linux.tar.gz";
+      sha256 = "sha256-0m7MXLtSuq8GdDFXzKeY86DIglgeQ6wyEtpOyB/thkc=";
     };
   };
   vimPlugins-yuck = {
