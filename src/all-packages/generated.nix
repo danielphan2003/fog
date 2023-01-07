@@ -425,14 +425,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "1aa0ea2cea0b8bd3a56a70a06d731fc55e604ae3";
+    version = "9eee50dbaeae54d4cdfe63b19afd29d6d7cf4996";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "1aa0ea2cea0b8bd3a56a70a06d731fc55e604ae3";
+      rev = "9eee50dbaeae54d4cdfe63b19afd29d6d7cf4996";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UA/Zh10XzPvt+SDEp9/mW6et3ro9loumrvhOkOI8l6Q=";
+      sha256 = "sha256-KzJSbYDt4xaY/zKeAYctJsDkJUqctSfeip87Lp8/E9U=";
     };
   };
   flyingfox = {
@@ -1117,16 +1117,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "db25d12d7211bea9cd6a9b8ac51667771cc2cff9";
+    version = "946d81c6fc219efd6b4509167f71aa90b1cbd858";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "db25d12d7211bea9cd6a9b8ac51667771cc2cff9";
+      rev = "946d81c6fc219efd6b4509167f71aa90b1cbd858";
       fetchSubmodules = false;
-      sha256 = "sha256-9zwHBDrdvE2R/cdrWgjsfHlm3wEZ9SB2VNcqezB/Op0=";
+      sha256 = "sha256-EYsvOcXpfUqbEpexUlpT5ZYIUkB138E1mMlxfmmUEcI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-db25d12d7211bea9cd6a9b8ac51667771cc2cff9/Cargo.lock;
+      lockFile = ./spotifyd-946d81c6fc219efd6b4509167f71aa90b1cbd858/Cargo.lock;
       outputHashes = {
         
       };
