@@ -748,16 +748,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "986a6f6ccf6df858db4d50502f392b9eff8a3027";
+    version = "b557565ca6e3180a7b8f2d0b3609c078c65f536f";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "986a6f6ccf6df858db4d50502f392b9eff8a3027";
+      rev = "b557565ca6e3180a7b8f2d0b3609c078c65f536f";
       fetchSubmodules = false;
-      sha256 = "sha256-ha+Tudzc8ZjGs9N5kVrE27gfrRYtjaY1FnOgSMheoog=";
+      sha256 = "sha256-IxzO/tJp7H5Tc5ggBP34By943LyiNZDFeHiXE8GdcOs=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-986a6f6ccf6df858db4d50502f392b9eff8a3027/Cargo.lock;
+      lockFile = ./ouch-b557565ca6e3180a7b8f2d0b3609c078c65f536f/Cargo.lock;
       outputHashes = {
         
       };
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "42bcbc76d729db947a9dcd09f05746c905bf1ef7";
+    version = "3277d7b8fa5ff2aa44d9e8359832b28bb5e1a9b6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "42bcbc76d729db947a9dcd09f05746c905bf1ef7";
+      rev = "3277d7b8fa5ff2aa44d9e8359832b28bb5e1a9b6";
       fetchSubmodules = false;
-      sha256 = "sha256-BHbqLbnSGTbzO8zbFgZlnOBfUHEdpb5yWRwfz9Dl890=";
+      sha256 = "sha256-2Q3VX2OWL/tt7dQ9sHFm1lI6RJjg+pignMfOOGJa/1I=";
     });
   };
   rofi-wayland = {
@@ -980,16 +980,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50";
+    version = "605d0dd6c1173fc18793453709dd4505b721c16a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50";
+      rev = "605d0dd6c1173fc18793453709dd4505b721c16a";
       fetchSubmodules = false;
-      sha256 = "sha256-bBL4HDcDfGFqIMUZC2YP3Fye/20L0WwmGLmLMMfjoiM=";
+      sha256 = "sha256-edeq/T+uFIvNGYkZdsuwiQbauui1HDhafPhnR6nkzFE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-cd1a9885db1bd50046e7bd8dc7dba8cbb29aea50/Cargo.lock;
+      lockFile = ./rustdesk-server-605d0dd6c1173fc18793453709dd4505b721c16a/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
