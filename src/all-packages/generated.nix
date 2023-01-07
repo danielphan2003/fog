@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "464dd79246eedb0da00514b5b9c68a8969b47df0";
+    version = "2b248b25c8446621713766360d2e00bd927f5fdf";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "464dd79246eedb0da00514b5b9c68a8969b47df0";
+      rev = "2b248b25c8446621713766360d2e00bd927f5fdf";
       fetchSubmodules = false;
-      sha256 = "sha256-QSe18YuQHAlNVD1kExd4hnv+V4+xpRSQZt7xquCJU30=";
+      sha256 = "sha256-aTjZeW+6LRfHOBSrx/NmcQCYLyWMdYOzC8pKro7bua0=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ab27029f2bc0956a869cc6cf5ad89dfc555aa5e5";
+    version = "41b069462dde085c5057622451e0113fc541fe32";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ab27029f2bc0956a869cc6cf5ad89dfc555aa5e5";
+      rev = "41b069462dde085c5057622451e0113fc541fe32";
       fetchSubmodules = false;
-      sha256 = "sha256-bxy4RsB7xedW/nikHDDfeeUi+pKz9kj6Jef52KOCk4M=";
+      sha256 = "sha256-C6azetlRRnOUvGS9T1A43bQADoR1A7DASVITGdtlRUE=";
     });
   };
   rofi-wayland = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "aefbaf339843953aae399c56d2ac317ad4f7c861";
+    version = "e9e8620145fe67f140642d46886c3d0f8c1e2c44";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "aefbaf339843953aae399c56d2ac317ad4f7c861";
+      rev = "e9e8620145fe67f140642d46886c3d0f8c1e2c44";
       fetchSubmodules = false;
-      sha256 = "sha256-5KDxren35BtZUWS8pmhXo4r5m60wylx0XHT3jpVUE3w=";
+      sha256 = "sha256-YGmYJFam/xQE8Ti5NEdxYdzlQXRLFDPX61HkX+d9fdo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-aefbaf339843953aae399c56d2ac317ad4f7c861/Cargo.lock;
+      lockFile = ./rustdesk-e9e8620145fe67f140642d46886c3d0f8c1e2c44/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
