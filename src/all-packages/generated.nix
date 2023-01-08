@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b7ed61e6788143052dbefef722531bca370e729c";
+    version = "449cf545757fd71c65737897a0be58006cbd3029";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b7ed61e6788143052dbefef722531bca370e729c";
+      rev = "449cf545757fd71c65737897a0be58006cbd3029";
       fetchSubmodules = false;
-      sha256 = "sha256-l5vQAJ6bprsqSoOGl7qEJt5mNxze3uDYsi65QlWOmmw=";
+      sha256 = "sha256-pkhflFPf9jQUbr54P7fX0wa/QtRDRDnf5rC5wqtFNac=";
     });
   };
   caddy = {
@@ -320,13 +320,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "a868e2b3067e1546fd9a66a723cb314c69372432";
+    version = "5438eed2f43e0ac26cc3c441f680faecbaf4762d";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "a868e2b3067e1546fd9a66a723cb314c69372432";
+      rev = "5438eed2f43e0ac26cc3c441f680faecbaf4762d";
       fetchSubmodules = false;
-      sha256 = "sha256-WM++IbXNFr0MUM1eP6qgXI6qnD5xffXhIJXfvscHwdo=";
+      sha256 = "sha256-8GCU3a5qjCNEI8gcmzNesgvZEiyfiNfxewy6Yiy5oi8=";
     });
   };
   doggo = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e5dcbf73d881178c7f9c6306d287ed610d6efea1";
+    version = "c0c7c12bb907ea8cdc6e17653cddb3691102beac";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "e5dcbf73d881178c7f9c6306d287ed610d6efea1";
+      rev = "c0c7c12bb907ea8cdc6e17653cddb3691102beac";
       fetchSubmodules = false;
-      sha256 = "sha256-/K8c5hWU1Mk8nUR1FkvIiU4fBfYyylk2xosJ9JqVPtM=";
+      sha256 = "sha256-ctkdvKx0Fq9qOBZ0O32yM+FMCNbmaW/WA4Sg+QsSMJo=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ccfad9dc9d8f16822529ce95b31045eacb02ea9f";
+    version = "5d065e7efc1f9b59ddeed4bf07b45dfc0f9b222e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ccfad9dc9d8f16822529ce95b31045eacb02ea9f";
+      rev = "5d065e7efc1f9b59ddeed4bf07b45dfc0f9b222e";
       fetchSubmodules = false;
-      sha256 = "sha256-QBYfXnOevzpBeAj9xuJ+jSP5T4BIMqjB1298UFJKUok=";
+      sha256 = "sha256-QRYU9H3uCk6QHSUFINQ6QG1zZNm9Wse7M1soMpEjCWU=";
     });
   };
   rofi-wayland = {
@@ -1240,13 +1240,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "a6f9e023bb4c307432ba166e14d46a4bada5408d";
+    version = "8f6391fda09a078643c0c51f430100188c11d40a";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "a6f9e023bb4c307432ba166e14d46a4bada5408d";
+      rev = "8f6391fda09a078643c0c51f430100188c11d40a";
       fetchSubmodules = false;
-      sha256 = "sha256-lenWwBbZmprAXhBZjYtoYqSMnwLozgNjSnRvofaYRbQ=";
+      sha256 = "sha256-xFWo75HicSr7k1s77yx9WgA/4QGs8xwUYtOMCf0bVn8=";
     });
   };
   uniemoji = {

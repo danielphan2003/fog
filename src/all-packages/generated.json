@@ -306,11 +306,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "b7ed61e6788143052dbefef722531bca370e729c",
-            "sha256": "sha256-l5vQAJ6bprsqSoOGl7qEJt5mNxze3uDYsi65QlWOmmw=",
+            "rev": "449cf545757fd71c65737897a0be58006cbd3029",
+            "sha256": "sha256-pkhflFPf9jQUbr54P7fX0wa/QtRDRDnf5rC5wqtFNac=",
             "type": "github"
         },
-        "version": "b7ed61e6788143052dbefef722531bca370e729c"
+        "version": "449cf545757fd71c65737897a0be58006cbd3029"
     },
     "caddy": {
         "cargoLocks": null,
@@ -534,11 +534,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "a868e2b3067e1546fd9a66a723cb314c69372432",
-            "sha256": "sha256-WM++IbXNFr0MUM1eP6qgXI6qnD5xffXhIJXfvscHwdo=",
+            "rev": "5438eed2f43e0ac26cc3c441f680faecbaf4762d",
+            "sha256": "sha256-8GCU3a5qjCNEI8gcmzNesgvZEiyfiNfxewy6Yiy5oi8=",
             "type": "github"
         },
-        "version": "a868e2b3067e1546fd9a66a723cb314c69372432"
+        "version": "5438eed2f43e0ac26cc3c441f680faecbaf4762d"
     },
     "doggo": {
         "cargoLocks": null,
@@ -828,11 +828,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "e5dcbf73d881178c7f9c6306d287ed610d6efea1",
-            "sha256": "sha256-/K8c5hWU1Mk8nUR1FkvIiU4fBfYyylk2xosJ9JqVPtM=",
+            "rev": "c0c7c12bb907ea8cdc6e17653cddb3691102beac",
+            "sha256": "sha256-ctkdvKx0Fq9qOBZ0O32yM+FMCNbmaW/WA4Sg+QsSMJo=",
             "type": "github"
         },
-        "version": "e5dcbf73d881178c7f9c6306d287ed610d6efea1"
+        "version": "c0c7c12bb907ea8cdc6e17653cddb3691102beac"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1551,11 +1551,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "ccfad9dc9d8f16822529ce95b31045eacb02ea9f",
-            "sha256": "sha256-QBYfXnOevzpBeAj9xuJ+jSP5T4BIMqjB1298UFJKUok=",
+            "rev": "5d065e7efc1f9b59ddeed4bf07b45dfc0f9b222e",
+            "sha256": "sha256-QRYU9H3uCk6QHSUFINQ6QG1zZNm9Wse7M1soMpEjCWU=",
             "type": "github"
         },
-        "version": "ccfad9dc9d8f16822529ce95b31045eacb02ea9f"
+        "version": "5d065e7efc1f9b59ddeed4bf07b45dfc0f9b222e"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2054,11 +2054,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "a6f9e023bb4c307432ba166e14d46a4bada5408d",
-            "sha256": "sha256-lenWwBbZmprAXhBZjYtoYqSMnwLozgNjSnRvofaYRbQ=",
+            "rev": "8f6391fda09a078643c0c51f430100188c11d40a",
+            "sha256": "sha256-xFWo75HicSr7k1s77yx9WgA/4QGs8xwUYtOMCf0bVn8=",
             "type": "github"
         },
-        "version": "a6f9e023bb4c307432ba166e14d46a4bada5408d"
+        "version": "8f6391fda09a078643c0c51f430100188c11d40a"
     },
     "uniemoji": {
         "cargoLocks": null,
