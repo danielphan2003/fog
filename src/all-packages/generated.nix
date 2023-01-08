@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "ea5e5db49009c52c496ce3649a73d8f6c5e8f986";
+    version = "00839aaa6f12a56392ae709d515806c838d1ffba";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "ea5e5db49009c52c496ce3649a73d8f6c5e8f986";
+      rev = "00839aaa6f12a56392ae709d515806c838d1ffba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9FipAZOtMqDn7u7NHTC5LUu4wksbfxhneiN8zKLgihU=";
+      sha256 = "sha256-gKr8PSnv3TAkNb5ZAW73nyN/UIRmtlP322ht+klaYW8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-ea5e5db49009c52c496ce3649a73d8f6c5e8f986/Cargo.lock;
+      lockFile = ./asusctl-00839aaa6f12a56392ae709d515806c838d1ffba/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-zp92mWyWUEWUP4kEyHbiUyYTtp2kLv+gxkPzOu77fi8=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
@@ -926,11 +926,11 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "074f19ca907f03c189c1c3aaafb2e854e89279d7";
+    version = "8a3686df586114efb78f87cac86f650706afc6ae";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "074f19ca907f03c189c1c3aaafb2e854e89279d7";
+      rev = "8a3686df586114efb78f87cac86f650706afc6ae";
       fetchSubmodules = false;
       sha256 = "sha256-QBYfXnOevzpBeAj9xuJ+jSP5T4BIMqjB1298UFJKUok=";
     });
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e9e8620145fe67f140642d46886c3d0f8c1e2c44";
+    version = "f1243f4190bed2ba906e60ca0a8cebe3c1360bc2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e9e8620145fe67f140642d46886c3d0f8c1e2c44";
+      rev = "f1243f4190bed2ba906e60ca0a8cebe3c1360bc2";
       fetchSubmodules = false;
-      sha256 = "sha256-YGmYJFam/xQE8Ti5NEdxYdzlQXRLFDPX61HkX+d9fdo=";
+      sha256 = "sha256-3BQZZJVivaAZmjXGSJrcQJ12MTPpXxeW6G3ZCk46TW4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e9e8620145fe67f140642d46886c3d0f8c1e2c44/Cargo.lock;
+      lockFile = ./rustdesk-f1243f4190bed2ba906e60ca0a8cebe3c1360bc2/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
