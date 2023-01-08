@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "f5e54b4a709ca3d58e12e7524e71d3cd7f994515";
+    version = "be376afc1ef9ee6c1eb305768af1da4a3eb1ca1e";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "f5e54b4a709ca3d58e12e7524e71d3cd7f994515";
+      rev = "be376afc1ef9ee6c1eb305768af1da4a3eb1ca1e";
       fetchSubmodules = false;
-      sha256 = "sha256-7BSC3EZ4DHA+xpztIQd6Jm6GjEm5obSoBhrUZR8WlIw=";
+      sha256 = "sha256-ve8xHgSukZ9/a/wooyh4fYuohZoxh2Cyf3NXyUFMWQU=";
     });
   };
   asusctl = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "50e106f2e60785126331eaf2a9c43595a2a768d4";
+    version = "e5dcbf73d881178c7f9c6306d287ed610d6efea1";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "50e106f2e60785126331eaf2a9c43595a2a768d4";
+      rev = "e5dcbf73d881178c7f9c6306d287ed610d6efea1";
       fetchSubmodules = false;
-      sha256 = "sha256-OXzPpPfHPfRfI8WD6jP/IuYDXJEkXn585j+h2awiLXs=";
+      sha256 = "sha256-/K8c5hWU1Mk8nUR1FkvIiU4fBfYyylk2xosJ9JqVPtM=";
     });
   };
   ibus = {
@@ -1328,13 +1328,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "3261b7ad905213601f2409b846793c3b5eaa5ca6";
+    version = "91508b4de7544f13715c51f6d34456980a0490fe";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "3261b7ad905213601f2409b846793c3b5eaa5ca6";
+      rev = "91508b4de7544f13715c51f6d34456980a0490fe";
       fetchSubmodules = false;
-      sha256 = "sha256-QHtk3JAkDGhfKdWhmcfnvwbKxf8Y2PAMJZIYUiuHDyI=";
+      sha256 = "sha256-fbxfXqT7hGbDoZouJY26EmvnrfheKxSd9Jsjct8dCns=";
     });
   };
   whitesur-icon-theme = {
