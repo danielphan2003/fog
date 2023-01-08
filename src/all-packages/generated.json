@@ -1551,11 +1551,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "4e3d73ff495011fa8b150859ca9c08a74792c083",
-            "sha256": "sha256-5Ph3zzJ+6J57IC8vXwuYoynE1f6gRjzbcvtLjctzfGc=",
+            "rev": "2b0c86f1f52cd2fe79987c6aa7bed4dfaff607f4",
+            "sha256": "sha256-T9GMy43b6ACq/KKEAhXmWmWZrSmlVboAhrmLi7vTC7M=",
             "type": "github"
         },
-        "version": "4e3d73ff495011fa8b150859ca9c08a74792c083"
+        "version": "2b0c86f1f52cd2fe79987c6aa7bed4dfaff607f4"
     },
     "rofi-wayland": {
         "cargoLocks": null,
