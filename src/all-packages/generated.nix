@@ -267,17 +267,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "b3aec63d67f41416951c9e80d94ba1db276a1b7f";
+    version = "c6e3438e7639abeb23f6a3adf296a60efbf5bc57";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "b3aec63d67f41416951c9e80d94ba1db276a1b7f";
+      rev = "c6e3438e7639abeb23f6a3adf296a60efbf5bc57";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QJE1SXQxLCTk6C2L0vwHKGPu3jcAQ/OVXzpvIoazSjg=";
+      sha256 = "sha256-6T+9CSXjv+HR5DMOA3tIPV/7GSd4dtEhY5dha4oqfYI=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-b3aec63d67f41416951c9e80d94ba1db276a1b7f/Cargo.lock;
+      lockFile = ./conduit-c6e3438e7639abeb23f6a3adf296a60efbf5bc57/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ztobLdOXSGyK1YcPMMIycO3ZmnjxG5mLkHltf0Fbs8s=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -1328,13 +1328,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "91508b4de7544f13715c51f6d34456980a0490fe";
+    version = "455a15dff6a8303b6f3f8d940d41104105763c40";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "91508b4de7544f13715c51f6d34456980a0490fe";
+      rev = "455a15dff6a8303b6f3f8d940d41104105763c40";
       fetchSubmodules = false;
-      sha256 = "sha256-fbxfXqT7hGbDoZouJY26EmvnrfheKxSd9Jsjct8dCns=";
+      sha256 = "sha256-K9eMqhaoNj+qyF+Gbl24U0xdCJJNhgNT/Ashop/q/BQ=";
     });
   };
   whitesur-icon-theme = {
