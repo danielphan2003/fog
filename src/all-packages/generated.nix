@@ -212,13 +212,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e450a7377b00f7f2a99042ba8e440fed69072028";
+    version = "845bc4d50b437995d574819850206e4b3db4040d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e450a7377b00f7f2a99042ba8e440fed69072028";
+      rev = "845bc4d50b437995d574819850206e4b3db4040d";
       fetchSubmodules = false;
-      sha256 = "sha256-L1IY3J89ui4vB66z6wktHXeFyZHOx8DOEggg2wUaCak=";
+      sha256 = "sha256-PDR24mu8OGXlzczecW4AtOBE+NmS6SOXlRtxHrzuQc0=";
     });
   };
   cinny = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "20a4550cce4eae6195de365a35bc4888f1894383";
+    version = "3ac37b9686f8e0c57e5b6c46335ba8c583717186";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "20a4550cce4eae6195de365a35bc4888f1894383";
+      rev = "3ac37b9686f8e0c57e5b6c46335ba8c583717186";
       fetchSubmodules = false;
-      sha256 = "sha256-JhYrxMGvC47dEgN3CqoS5kSvKGP47Klxwi54VKU1HG8=";
+      sha256 = "sha256-8pGuTDkvIz/5yOp5aTKcBPx6EUz0IVNW2EcsBfYVqAI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-20a4550cce4eae6195de365a35bc4888f1894383/Cargo.lock;
+      lockFile = ./rustdesk-3ac37b9686f8e0c57e5b6c46335ba8c583717186/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -970,7 +970,7 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-67WIksO47Rj53m63l7Sgrmr/E782eGz7CThWxI179yM=";
         "mouce-0.2.1" = "sha256-3PtNEmVMXgqKV4r3KiKTkk4oyCt4BKynniJREE+RyFk=";
-        "rdev-0.5.0-2" = "sha256-pc4aDx+ALI3xAScuUr1R4wrBbhhnDHrzF/Y/4pztfPA=";
+        "rdev-0.5.0-2" = "sha256-mK65phXGO3GFsgSw7eJUnPIBOC/jefhjbBHC3g7hnvc=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-NWYobxN2X18f0l8GmLB9dULm+GZD04mI03EvRy05K10=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
@@ -980,16 +980,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "ebd73e1a096b5e68105be5fbcd44c89b7c6ab914";
+    version = "55fcf241c643d5b90e9ff5d83721c1a35d88d91a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "ebd73e1a096b5e68105be5fbcd44c89b7c6ab914";
+      rev = "55fcf241c643d5b90e9ff5d83721c1a35d88d91a";
       fetchSubmodules = false;
-      sha256 = "sha256-Oa/PGnnqCHpLjHWKE0u5UzaJctoimoFDOOVwgdb9jac=";
+      sha256 = "sha256-Wu8FBcNPNC+xspv3MQrlp+x63oARRts1tySXc1cAdM4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-ebd73e1a096b5e68105be5fbcd44c89b7c6ab914/Cargo.lock;
+      lockFile = ./rustdesk-server-55fcf241c643d5b90e9ff5d83721c1a35d88d91a/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
