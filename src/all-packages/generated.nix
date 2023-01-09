@@ -179,13 +179,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "485740d2dcb55b1611a63eea67ebfba5eb51ef82";
+    version = "8ccc0cb7ca3d15cfa8c911bcbc0b31f8b0d6be51";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "485740d2dcb55b1611a63eea67ebfba5eb51ef82";
+      rev = "8ccc0cb7ca3d15cfa8c911bcbc0b31f8b0d6be51";
       fetchSubmodules = false;
-      sha256 = "sha256-2UE6+O6WStl+NGSS5I3RzBY+1PjcQh/VAkgB0d2cYSA=";
+      sha256 = "sha256-c1rdsfitggjz5jyni3g2M2o+xvMsdwzcIUYE90xUnmQ=";
     });
   };
   caddy = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c0c7c12bb907ea8cdc6e17653cddb3691102beac";
+    version = "ff118834829dd0db37e3622480756776b368bd4a";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c0c7c12bb907ea8cdc6e17653cddb3691102beac";
+      rev = "ff118834829dd0db37e3622480756776b368bd4a";
       fetchSubmodules = false;
-      sha256 = "sha256-ctkdvKx0Fq9qOBZ0O32yM+FMCNbmaW/WA4Sg+QsSMJo=";
+      sha256 = "sha256-7aUBr6Ga/6mcrdp53X43CRnO7Dx1p0GFNB4UFlVHIoE=";
     });
   };
   ibus = {
@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "55aeba2f570aa28f8ca8d91a3976eb55281750b3";
+    version = "e10361ed529cd07651012f0437911e7f5d9f2bdd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "55aeba2f570aa28f8ca8d91a3976eb55281750b3";
+      rev = "e10361ed529cd07651012f0437911e7f5d9f2bdd";
       fetchSubmodules = false;
-      sha256 = "sha256-aH9xULpeEAr5uJFwrFEHE5HPxbwTX1Ecg2SLs4XyBSc=";
+      sha256 = "sha256-VP1vF9A/6dRuZY8eNLt/lu8PYSt/eTq3XbV4lsi0UIc=";
     });
   };
   rofi-wayland = {
@@ -1402,10 +1402,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.13.3.651";
+    version = "5.13.4.711";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.13.3.651/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-r7tyNH+ikoIrhciqGIw9sIUJFrETkPqTizizwSN1aZ4=";
+      url = "https://cdn.zoom.us/prod/5.13.4.711/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-sQk5fS/bS7e0T0IJ7+UB956XmCAbeMYfS8BVwncpoy0=";
     };
   };
 }
