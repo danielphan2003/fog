@@ -212,13 +212,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "845bc4d50b437995d574819850206e4b3db4040d";
+    version = "66ce0c5c635c4ff254ccb92123711534b6461b35";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "845bc4d50b437995d574819850206e4b3db4040d";
+      rev = "66ce0c5c635c4ff254ccb92123711534b6461b35";
       fetchSubmodules = false;
-      sha256 = "sha256-PDR24mu8OGXlzczecW4AtOBE+NmS6SOXlRtxHrzuQc0=";
+      sha256 = "sha256-85rHQrDXHpECJWvVxmtR0yUp33fFlq34zG0pPUN+XhQ=";
     });
   };
   cinny = {
@@ -498,13 +498,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ff118834829dd0db37e3622480756776b368bd4a";
+    version = "a572321f611d256f746366fbf16d36ed6a7de3e6";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ff118834829dd0db37e3622480756776b368bd4a";
+      rev = "a572321f611d256f746366fbf16d36ed6a7de3e6";
       fetchSubmodules = false;
-      sha256 = "sha256-7aUBr6Ga/6mcrdp53X43CRnO7Dx1p0GFNB4UFlVHIoE=";
+      sha256 = "sha256-yz1bJmo6OVdcJpBxVJMO0hFs3iUtlipbmJacw8TaJzo=";
     });
   };
   ibus = {
@@ -550,10 +550,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-977";
+    version = "1.0-978";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-977-1_all.deb";
-      sha256 = "sha256-i/lqdKrpS075mPA2GMj2nvfxoH79QSQXKApVEwcW9n8=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-978-1_all.deb";
+      sha256 = "sha256-BEb2FdGl8BqyCmclTt1A+a0YSw38GQ1QXJpMcjqpPzw=";
     };
   };
   jitsi-meet = {
@@ -1068,13 +1068,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b0ec178b133c182868c218e45f0ce9b9f4493c9a";
+    version = "50d95d93527b67f60d36ce9d46647a5aa4a4a12e";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "b0ec178b133c182868c218e45f0ce9b9f4493c9a";
+      rev = "50d95d93527b67f60d36ce9d46647a5aa4a4a12e";
       fetchSubmodules = false;
-      sha256 = "sha256-rLDpP77E/jhO6hF7tTXyzJxLjTa41p7bFfk9vx5dSyg=";
+      sha256 = "sha256-QRYfn/n3NYl7PrgNEoPSbBn9+FGFu74jKoJpqeZQYTM=";
     });
   };
   spicetify-marketplace = {
