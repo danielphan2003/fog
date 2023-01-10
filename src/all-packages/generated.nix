@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3fc686c3d6739df3df2b91f592d0916807b28557";
+    version = "0c8021d881b9dec19f4ae76c87b247ca36e41d82";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3fc686c3d6739df3df2b91f592d0916807b28557";
+      rev = "0c8021d881b9dec19f4ae76c87b247ca36e41d82";
       fetchSubmodules = false;
-      sha256 = "sha256-ObZ03HSFvnOfmSL6Sx9XCFSY37u+VHeuM07BaI2qmLM=";
+      sha256 = "sha256-ZSGVTY0mhm/eQqnyfbpCF7/lQIRD5s3XTz9bS+LFI9k=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3fc686c3d6739df3df2b91f592d0916807b28557/Cargo.lock;
+      lockFile = ./rustdesk-0c8021d881b9dec19f4ae76c87b247ca36e41d82/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -980,16 +980,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "55fcf241c643d5b90e9ff5d83721c1a35d88d91a";
+    version = "338af1af9dd97f69bd078b5c3099728c62a47531";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "55fcf241c643d5b90e9ff5d83721c1a35d88d91a";
+      rev = "338af1af9dd97f69bd078b5c3099728c62a47531";
       fetchSubmodules = false;
-      sha256 = "sha256-Wu8FBcNPNC+xspv3MQrlp+x63oARRts1tySXc1cAdM4=";
+      sha256 = "sha256-q+Wa60EE03K8RCjP/6NSQ075C5orSjhlWnYmMKfcFC4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-55fcf241c643d5b90e9ff5d83721c1a35d88d91a/Cargo.lock;
+      lockFile = ./rustdesk-server-338af1af9dd97f69bd078b5c3099728c62a47531/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
@@ -1328,13 +1328,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "455a15dff6a8303b6f3f8d940d41104105763c40";
+    version = "b1a9e41dfadcac7e18962aa78a08f16ea3487ca5";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "455a15dff6a8303b6f3f8d940d41104105763c40";
+      rev = "b1a9e41dfadcac7e18962aa78a08f16ea3487ca5";
       fetchSubmodules = false;
-      sha256 = "sha256-K9eMqhaoNj+qyF+Gbl24U0xdCJJNhgNT/Ashop/q/BQ=";
+      sha256 = "sha256-1SZ2ChqP9LUcGzOk8XaHG06GTjNJg+2IlYjH6l7hwJA=";
     });
   };
   whitesur-icon-theme = {
