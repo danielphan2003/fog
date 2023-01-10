@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-09",
+        "date": "2023-01-10",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "20a1a47e665da336a87caa3036682bd142aa02b8",
-            "sha256": "sha256-8x+awd811HWf3ipRq680WZhaU6UUjCjyJj8PgCEMgoo=",
+            "rev": "4ec034ad49d1f03ec4cd68ca0a09e2f781166b16",
+            "sha256": "sha256-8OctRcjx3ko4WfFYNPGppkkiLfThTWkYqORKtBhxoFM=",
             "type": "github"
         },
-        "version": "20a1a47e665da336a87caa3036682bd142aa02b8"
+        "version": "4ec034ad49d1f03ec4cd68ca0a09e2f781166b16"
     },
     "ibus": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ae1I1tNPBCr0xtRq/bIFfzrI/Xb+mmwYMcYoV/6v+mw=",
+            "sha256": "sha256-wVIfVcYbEdr3b4lQ8X2sZ8yN4K2tuzGn4dW4vV2nq9g=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6902-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6903-1_all.deb"
         },
-        "version": "1.0.6902"
+        "version": "1.0.6903"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
