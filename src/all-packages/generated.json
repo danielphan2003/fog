@@ -61,7 +61,7 @@
     },
     "adl": {
         "cargoLocks": null,
-        "date": "2022-12-30",
+        "date": "2023-01-10",
         "extract": null,
         "name": "adl",
         "passthru": null,
@@ -73,11 +73,11 @@
             "name": null,
             "owner": "RaitaroH",
             "repo": "adl",
-            "rev": "4e95346fbc215af40b68b81652685b6b321e79ab",
-            "sha256": "sha256-xlFxnX9of2V6uMMCY3/jOxbICH32tCeApVmYTRa5fcY=",
+            "rev": "dc22c6bf10583628c9b7f3638250deabd5656eae",
+            "sha256": "sha256-l2FomM17PPnScvP51ZIikOsQX72X9kcRdznYhqkDCvk=",
             "type": "github"
         },
-        "version": "4e95346fbc215af40b68b81652685b6b321e79ab"
+        "version": "dc22c6bf10583628c9b7f3638250deabd5656eae"
     },
     "age-plugin-yubikey": {
         "cargoLocks": {
