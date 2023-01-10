@@ -1275,15 +1275,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c684ca7a0cd02140177b0e02409348d646957742";
+    version = "237b1108b3b0b0bd5e2ee8704df1369b30e708ff";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c684ca7a0cd02140177b0e02409348d646957742";
+      rev = "237b1108b3b0b0bd5e2ee8704df1369b30e708ff";
       fetchSubmodules = false;
-      sha256 = "sha256-I4myDik+1xwdlOBtbf2nTweMMFpNEKBQCJ57McXFx4k=";
+      sha256 = "sha256-AR+U6A8yUsIahxUVWlYflnff0Pr/NL4svBpJBwBdqHo=";
     });
-    date = "2023-01-09";
+    date = "2023-01-10";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
@@ -1453,13 +1453,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "1a0792cbe4af151eafe9c16fd5fe03f2ecffba34";
+    version = "92e7032327898e29f9d95ad548c51d18b7b0c3fe";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "1a0792cbe4af151eafe9c16fd5fe03f2ecffba34";
+      rev = "92e7032327898e29f9d95ad548c51d18b7b0c3fe";
       fetchSubmodules = false;
-      sha256 = "sha256-vPG0C5NJiNBOvdepM4IzVJJ9OUnW6isQNOXGWpK1WtM=";
+      sha256 = "sha256-mR79iVh5BaxrNtwHoQeVYbVRrECm2K8tJ5cdfOz1M0M=";
     });
     date = "2023-01-11";
   };
