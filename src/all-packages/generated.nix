@@ -926,13 +926,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "975300a3208a2deca599a7d55c74a86e159fb45b";
+    version = "7213aada8d5fef72a93379a0d700bb1b678e4a70";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "975300a3208a2deca599a7d55c74a86e159fb45b";
+      rev = "7213aada8d5fef72a93379a0d700bb1b678e4a70";
       fetchSubmodules = false;
-      sha256 = "sha256-bh0e7DqB9rSUusIkVIHh4+obo3Ssao73oz8BF9xi/Lc=";
+      sha256 = "sha256-+t3QgGOfggSDIXH9feu3JO7AfSHWVuz1OvVlWDY7Q8U=";
     });
   };
   rofi-wayland = {
@@ -948,16 +948,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b8e68475d8de1e5473eef0ac54665c23abc6eb7e";
+    version = "367de991f6ddf9068c9b8d71ede2c18ac6892301";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b8e68475d8de1e5473eef0ac54665c23abc6eb7e";
+      rev = "367de991f6ddf9068c9b8d71ede2c18ac6892301";
       fetchSubmodules = false;
-      sha256 = "sha256-T9gpgHo4Yl+zjF1FhEWqdlhrHtVO2Flmxc9DNpYfqLw=";
+      sha256 = "sha256-WZ/EPe8DC/RayeQWW5Q1ZyNtJGdjlC9+iJqdggr3OkA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-b8e68475d8de1e5473eef0ac54665c23abc6eb7e/Cargo.lock;
+      lockFile = ./rustdesk-367de991f6ddf9068c9b8d71ede2c18ac6892301/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -968,7 +968,7 @@
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
         "impersonate_system-0.1.0" = "sha256-qbaTw9gxMKDjX5pKdUrKlmIxCxWwb99YuWPDvD2A3kY=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
-        "hwcodec-0.1.0" = "sha256-67WIksO47Rj53m63l7Sgrmr/E782eGz7CThWxI179yM=";
+        "hwcodec-0.1.0" = "sha256-d/u20YHGteK6ONHgIL+xrJ8UVUvwiK/DZ1F3MzRc8SU=";
         "mouce-0.2.1" = "sha256-3PtNEmVMXgqKV4r3KiKTkk4oyCt4BKynniJREE+RyFk=";
         "rdev-0.5.0-2" = "sha256-mK65phXGO3GFsgSw7eJUnPIBOC/jefhjbBHC3g7hnvc=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
