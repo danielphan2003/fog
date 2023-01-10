@@ -1,6 +1,7 @@
 {
     "papermc-1_10_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_10_2",
         "passthru": {
@@ -17,6 +18,7 @@
     },
     "papermc-1_11_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_11_2",
         "passthru": {
@@ -33,6 +35,7 @@
     },
     "papermc-1_12": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_12",
         "passthru": {
@@ -49,6 +52,7 @@
     },
     "papermc-1_12_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_12_1",
         "passthru": {
@@ -65,6 +69,7 @@
     },
     "papermc-1_12_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_12_2",
         "passthru": {
@@ -81,6 +86,7 @@
     },
     "papermc-1_13": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_13",
         "passthru": {
@@ -97,6 +103,7 @@
     },
     "papermc-1_13-pre7": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_13-pre7",
         "passthru": {
@@ -113,6 +120,7 @@
     },
     "papermc-1_13_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_13_1",
         "passthru": {
@@ -129,6 +137,7 @@
     },
     "papermc-1_13_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_13_2",
         "passthru": {
@@ -145,6 +154,7 @@
     },
     "papermc-1_14": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_14",
         "passthru": {
@@ -161,6 +171,7 @@
     },
     "papermc-1_14_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_14_1",
         "passthru": {
@@ -177,6 +188,7 @@
     },
     "papermc-1_14_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_14_2",
         "passthru": {
@@ -193,6 +205,7 @@
     },
     "papermc-1_14_3": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_14_3",
         "passthru": {
@@ -209,6 +222,7 @@
     },
     "papermc-1_14_4": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_14_4",
         "passthru": {
@@ -225,6 +239,7 @@
     },
     "papermc-1_15": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_15",
         "passthru": {
@@ -241,6 +256,7 @@
     },
     "papermc-1_15_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_15_1",
         "passthru": {
@@ -257,6 +273,7 @@
     },
     "papermc-1_15_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_15_2",
         "passthru": {
@@ -273,6 +290,7 @@
     },
     "papermc-1_16_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_16_1",
         "passthru": {
@@ -289,6 +307,7 @@
     },
     "papermc-1_16_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_16_2",
         "passthru": {
@@ -305,6 +324,7 @@
     },
     "papermc-1_16_3": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_16_3",
         "passthru": {
@@ -321,6 +341,7 @@
     },
     "papermc-1_16_4": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_16_4",
         "passthru": {
@@ -337,6 +358,7 @@
     },
     "papermc-1_16_5": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_16_5",
         "passthru": {
@@ -353,6 +375,7 @@
     },
     "papermc-1_17": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_17",
         "passthru": {
@@ -369,6 +392,7 @@
     },
     "papermc-1_17_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_17_1",
         "passthru": {
@@ -385,6 +409,7 @@
     },
     "papermc-1_18": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_18",
         "passthru": {
@@ -401,6 +426,7 @@
     },
     "papermc-1_18_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_18_1",
         "passthru": {
@@ -417,6 +443,7 @@
     },
     "papermc-1_18_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_18_2",
         "passthru": {
@@ -433,6 +460,7 @@
     },
     "papermc-1_19": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_19",
         "passthru": {
@@ -449,6 +477,7 @@
     },
     "papermc-1_19_1": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_19_1",
         "passthru": {
@@ -465,6 +494,7 @@
     },
     "papermc-1_19_2": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_19_2",
         "passthru": {
@@ -481,6 +511,7 @@
     },
     "papermc-1_19_3": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_19_3",
         "passthru": {
@@ -489,14 +520,15 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Pq/A0fbTbdHtbrYw58FIFrMSO9+HKtwBk4eNMHhA67Q=",
+            "sha256": "sha256-Av8whLArYbB3DgVPlv25pOqNe9zn643xitcBn/zkwzE=",
             "type": "url",
-            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.3/builds/373/downloads/paper-1.19.3-373.jar"
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19.3/builds/374/downloads/paper-1.19.3-374.jar"
         },
-        "version": "373"
+        "version": "374"
     },
     "papermc-1_8_8": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_8_8",
         "passthru": {
@@ -513,6 +545,7 @@
     },
     "papermc-1_9_4": {
         "cargoLocks": null,
+        "date": null,
         "extract": null,
         "name": "papermc-1_9_4",
         "passthru": {
