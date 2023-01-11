@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "57f9ed3d8438d62d04d7863d31a7bc31479792ff";
+    version = "8e3e8ab5bc0f72936975272df6cd58242bf3f3a4";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "57f9ed3d8438d62d04d7863d31a7bc31479792ff";
+      rev = "8e3e8ab5bc0f72936975272df6cd58242bf3f3a4";
       fetchSubmodules = false;
-      sha256 = "sha256-ByvTSrS6Iw0KTAyM0sBqmiAG6o9gaNcRYldEUvtFmas=";
+      sha256 = "sha256-WyFuoaWfJ+AvzrOr+IVNWlLu7ir1gzei18R9BPv7NqA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-57f9ed3d8438d62d04d7863d31a7bc31479792ff/Cargo.lock;
+      lockFile = ./rustdesk-8e3e8ab5bc0f72936975272df6cd58242bf3f3a4/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1035,27 +1035,27 @@
         "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-10";
+    date = "2023-01-11";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "32ee4748135b5819fb3ea3174e6a23c5f0892d31";
+    version = "f8936eff9377df95a7000142b1010fa8f63b301d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "32ee4748135b5819fb3ea3174e6a23c5f0892d31";
+      rev = "f8936eff9377df95a7000142b1010fa8f63b301d";
       fetchSubmodules = false;
-      sha256 = "sha256-O03hn53DaSksyz0aIKDZaqHg1Sj3M585uuext+lNS08=";
+      sha256 = "sha256-uwZCwH38D6ZIj+S8z4z9l+QoQrnG6/+cFv7qJtiVsPE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-32ee4748135b5819fb3ea3174e6a23c5f0892d31/Cargo.lock;
+      lockFile = ./rustdesk-server-f8936eff9377df95a7000142b1010fa8f63b301d/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
         "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
       };
     };
-    date = "2023-01-10";
+    date = "2023-01-11";
   };
   sddm = {
     pname = "sddm";
