@@ -35,15 +35,15 @@
   };
   adl = {
     pname = "adl";
-    version = "dc22c6bf10583628c9b7f3638250deabd5656eae";
+    version = "ef4fa753cdd798be6c35b6c8f6e34af91a554c50";
     src = fetchFromGitHub ({
       owner = "RaitaroH";
       repo = "adl";
-      rev = "dc22c6bf10583628c9b7f3638250deabd5656eae";
+      rev = "ef4fa753cdd798be6c35b6c8f6e34af91a554c50";
       fetchSubmodules = false;
-      sha256 = "sha256-l2FomM17PPnScvP51ZIikOsQX72X9kcRdznYhqkDCvk=";
+      sha256 = "sha256-H94kugRMxMoQyHGKLx018lsD2CX7QMq077BJlrFjJDE=";
     });
-    date = "2023-01-10";
+    date = "2023-01-11";
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6908";
+    version = "1.0.6909";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6908.tar.bz2";
-      sha256 = "sha256-SVzRIUNoQD1kWYK+ZUFa26uRju/6hDwBiXE1nqR3EPQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6909.tar.bz2";
+      sha256 = "sha256-h+aJ05S1/+RXX8UCYVIpl2nyuBYwxyzMrKZ7uXHDHj4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6908";
+    version = "1.0.6909";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6908-1_all.deb";
-      sha256 = "sha256-+lF7fdn5y19Bi56FeeoGJLCjyVngq6R1lvGxBPAXGrg=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6909-1_all.deb";
+      sha256 = "sha256-gSs0D6SYV1usNHuFC2DFfrsVge9pdM42bR06nOanYOk=";
     };
   };
   jitsi-videobridge2 = {
@@ -1275,15 +1275,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "22ebb25e833264f58d7c3f534a8b166894a89536";
+    version = "1e67947cfa4409c732247f502f2fb05103285537";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "22ebb25e833264f58d7c3f534a8b166894a89536";
+      rev = "1e67947cfa4409c732247f502f2fb05103285537";
       fetchSubmodules = false;
-      sha256 = "sha256-h5GDBYluAvNvuDeqRsPVhBHj3mklu5ltwt2IAZSpwrk=";
+      sha256 = "sha256-TN0nuKdNK9BSObDBrGBu3cdSf4QRpJ/15HAn72RCbdg=";
     });
-    date = "2023-01-10";
+    date = "2023-01-11";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
