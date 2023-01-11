@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BEb2FdGl8BqyCmclTt1A+a0YSw38GQ1QXJpMcjqpPzw=",
+            "sha256": "sha256-ztjGNF3TE8lZFraFZYBelzrQj4M2N+qOtHLDS+KTigI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-978-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-979-1_all.deb"
         },
-        "version": "1.0-978"
+        "version": "1.0-979"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1157,11 +1157,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xD/P9SkqFrbY+pu2Iod4mx5Nas9k2rnfN3c+xEn4rHs=",
+            "sha256": "sha256-H47XwhIq6qdlZzP5434MlTeg7tcdooS76T5T38jkeAI=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.44-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.49-1_amd64.deb"
         },
-        "version": "109.0.1518.44"
+        "version": "109.0.1518.49"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1872,11 +1872,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "d0bf5f277e7e31af052d8331ad09f96cce5d4a09",
-            "sha256": "sha256-jL2MiDQQ2wKZjYSw6+CVA9+B+Jz3fivVyJmWirLlo3o=",
+            "rev": "867cb40a0d706b4009661783492523d513e02caa",
+            "sha256": "sha256-WFO7qEzkF1jTx4kexN3rH2yIuUh3c6DUwpyBP2mco7o=",
             "type": "github"
         },
-        "version": "d0bf5f277e7e31af052d8331ad09f96cce5d4a09"
+        "version": "867cb40a0d706b4009661783492523d513e02caa"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,

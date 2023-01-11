@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-978";
+    version = "1.0-979";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-978-1_all.deb";
-      sha256 = "sha256-BEb2FdGl8BqyCmclTt1A+a0YSw38GQ1QXJpMcjqpPzw=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-979-1_all.deb";
+      sha256 = "sha256-ztjGNF3TE8lZFraFZYBelzrQj4M2N+qOtHLDS+KTigI=";
     };
   };
   jitsi-meet = {
@@ -696,10 +696,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "109.0.1518.44";
+    version = "109.0.1518.49";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.44-1_amd64.deb";
-      sha256 = "sha256-xD/P9SkqFrbY+pu2Iod4mx5Nas9k2rnfN3c+xEn4rHs=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.49-1_amd64.deb";
+      sha256 = "sha256-H47XwhIq6qdlZzP5434MlTeg7tcdooS76T5T38jkeAI=";
     };
   };
   microsoft-edge-dev = {
@@ -1132,13 +1132,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "d0bf5f277e7e31af052d8331ad09f96cce5d4a09";
+    version = "867cb40a0d706b4009661783492523d513e02caa";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "d0bf5f277e7e31af052d8331ad09f96cce5d4a09";
+      rev = "867cb40a0d706b4009661783492523d513e02caa";
       fetchSubmodules = false;
-      sha256 = "sha256-jL2MiDQQ2wKZjYSw6+CVA9+B+Jz3fivVyJmWirLlo3o=";
+      sha256 = "sha256-WFO7qEzkF1jTx4kexN3rH2yIuUh3c6DUwpyBP2mco7o=";
     });
     date = "2023-01-11";
   };
