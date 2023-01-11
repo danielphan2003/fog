@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "7afb7c85a74fe3beac634f124cba5a971cb54ca2",
-            "sha256": "sha256-uKX1rNIz9CKaYIBTgAos7N0DDqLwgLVWLTwcu1d969I=",
+            "rev": "c4e422644b82e04f5664661bd1b133476410a449",
+            "sha256": "sha256-9mPkCDcbkF1snDxfgPu27DP8EODHnlq8pel3cIrjFrw=",
             "type": "github"
         },
-        "version": "7afb7c85a74fe3beac634f124cba5a971cb54ca2"
+        "version": "c4e422644b82e04f5664661bd1b133476410a449"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-878111f32de47062d9b0ae7031f00292b1e71d6b/Cargo.lock",
+                "./rustdesk-388b107f9d634f9cb336c4656dc73e88e4f95119/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1687,7 +1687,7 @@
                 }
             ]
         },
-        "date": "2023-01-11",
+        "date": "2023-01-12",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1699,11 +1699,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "878111f32de47062d9b0ae7031f00292b1e71d6b",
-            "sha256": "sha256-Bo/UE2DOpzSoYIhwyomJhonInBoeZgKpzTdsbxjkzxs=",
+            "rev": "388b107f9d634f9cb336c4656dc73e88e4f95119",
+            "sha256": "sha256-eC8XKZjQl7db3s2YeinT6TKS3B1tP+LjTs8sqFFpU/M=",
             "type": "github"
         },
-        "version": "878111f32de47062d9b0ae7031f00292b1e71d6b"
+        "version": "388b107f9d634f9cb336c4656dc73e88e4f95119"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1872,11 +1872,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "bd43c6b4097600677adfb477cb6f9ee5343b8d3b",
-            "sha256": "sha256-6tM0N+GYToj+BFRaelpxwI72wWnwIuEW6UpGyOab8RE=",
+            "rev": "d0bf5f277e7e31af052d8331ad09f96cce5d4a09",
+            "sha256": "sha256-jL2MiDQQ2wKZjYSw6+CVA9+B+Jz3fivVyJmWirLlo3o=",
             "type": "github"
         },
-        "version": "bd43c6b4097600677adfb477cb6f9ee5343b8d3b"
+        "version": "d0bf5f277e7e31af052d8331ad09f96cce5d4a09"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,

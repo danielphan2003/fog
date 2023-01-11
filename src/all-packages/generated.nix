@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7afb7c85a74fe3beac634f124cba5a971cb54ca2";
+    version = "c4e422644b82e04f5664661bd1b133476410a449";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "7afb7c85a74fe3beac634f124cba5a971cb54ca2";
+      rev = "c4e422644b82e04f5664661bd1b133476410a449";
       fetchSubmodules = false;
-      sha256 = "sha256-uKX1rNIz9CKaYIBTgAos7N0DDqLwgLVWLTwcu1d969I=";
+      sha256 = "sha256-9mPkCDcbkF1snDxfgPu27DP8EODHnlq8pel3cIrjFrw=";
     });
     date = "2023-01-11";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "878111f32de47062d9b0ae7031f00292b1e71d6b";
+    version = "388b107f9d634f9cb336c4656dc73e88e4f95119";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "878111f32de47062d9b0ae7031f00292b1e71d6b";
+      rev = "388b107f9d634f9cb336c4656dc73e88e4f95119";
       fetchSubmodules = false;
-      sha256 = "sha256-Bo/UE2DOpzSoYIhwyomJhonInBoeZgKpzTdsbxjkzxs=";
+      sha256 = "sha256-eC8XKZjQl7db3s2YeinT6TKS3B1tP+LjTs8sqFFpU/M=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-878111f32de47062d9b0ae7031f00292b1e71d6b/Cargo.lock;
+      lockFile = ./rustdesk-388b107f9d634f9cb336c4656dc73e88e4f95119/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1035,7 +1035,7 @@
         "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-11";
+    date = "2023-01-12";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1132,13 +1132,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "bd43c6b4097600677adfb477cb6f9ee5343b8d3b";
+    version = "d0bf5f277e7e31af052d8331ad09f96cce5d4a09";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "bd43c6b4097600677adfb477cb6f9ee5343b8d3b";
+      rev = "d0bf5f277e7e31af052d8331ad09f96cce5d4a09";
       fetchSubmodules = false;
-      sha256 = "sha256-6tM0N+GYToj+BFRaelpxwI72wWnwIuEW6UpGyOab8RE=";
+      sha256 = "sha256-jL2MiDQQ2wKZjYSw6+CVA9+B+Jz3fivVyJmWirLlo3o=";
     });
     date = "2023-01-11";
   };
