@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-10",
+        "date": "2023-01-11",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "4ec034ad49d1f03ec4cd68ca0a09e2f781166b16",
-            "sha256": "sha256-8OctRcjx3ko4WfFYNPGppkkiLfThTWkYqORKtBhxoFM=",
+            "rev": "b24f066c4799ac66cc86c0962447c690519df8ef",
+            "sha256": "sha256-mdmi7dKQGyf5POFA5i40jt1BmTLWmaTw73R6K+JRJ9Q=",
             "type": "github"
         },
-        "version": "4ec034ad49d1f03ec4cd68ca0a09e2f781166b16"
+        "version": "b24f066c4799ac66cc86c0962447c690519df8ef"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2398,11 +2398,11 @@
             "name": null,
             "owner": "ReimuNotMoe",
             "repo": "ydotool",
-            "rev": "92e7032327898e29f9d95ad548c51d18b7b0c3fe",
-            "sha256": "sha256-mR79iVh5BaxrNtwHoQeVYbVRrECm2K8tJ5cdfOz1M0M=",
+            "rev": "ff01b95deaadf31565d9ee8da72b98272e698558",
+            "sha256": "sha256-RcPHQFXD3YgfF11OFpcnSowPlEjxy2c2RWhGYr30GhI=",
             "type": "github"
         },
-        "version": "92e7032327898e29f9d95ad548c51d18b7b0c3fe"
+        "version": "ff01b95deaadf31565d9ee8da72b98272e698558"
     },
     "yubikey-agent": {
         "cargoLocks": null,
