@@ -1245,15 +1245,15 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "a1cf657b3c7ae7364789f776a664709a5ec635ee";
+    version = "cd07dd1082a2fc1093f1e6f2541811e446f4d114";
     src = fetchFromGitHub ({
       owner = "jirutka";
       repo = "swaylock-effects";
-      rev = "a1cf657b3c7ae7364789f776a664709a5ec635ee";
+      rev = "cd07dd1082a2fc1093f1e6f2541811e446f4d114";
       fetchSubmodules = false;
-      sha256 = "sha256-3mz4wdhMbamsDghOeXS/prxYjdSIdKmQS//+pzufYpE=";
+      sha256 = "sha256-aK/PvFjZoF8R0llXO+P650vHYLSoGS6dYSk5Pw8DBNY=";
     });
-    date = "2022-11-27";
+    date = "2023-01-11";
   };
   swhkd = {
     pname = "swhkd";

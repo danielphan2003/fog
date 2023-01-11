@@ -2039,7 +2039,7 @@
     },
     "swaylock-effects": {
         "cargoLocks": null,
-        "date": "2022-11-27",
+        "date": "2023-01-11",
         "extract": null,
         "name": "swaylock-effects",
         "passthru": null,
@@ -2051,11 +2051,11 @@
             "name": null,
             "owner": "jirutka",
             "repo": "swaylock-effects",
-            "rev": "a1cf657b3c7ae7364789f776a664709a5ec635ee",
-            "sha256": "sha256-3mz4wdhMbamsDghOeXS/prxYjdSIdKmQS//+pzufYpE=",
+            "rev": "cd07dd1082a2fc1093f1e6f2541811e446f4d114",
+            "sha256": "sha256-aK/PvFjZoF8R0llXO+P650vHYLSoGS6dYSk5Pw8DBNY=",
             "type": "github"
         },
-        "version": "a1cf657b3c7ae7364789f776a664709a5ec635ee"
+        "version": "cd07dd1082a2fc1093f1e6f2541811e446f4d114"
     },
     "swhkd": {
         "cargoLocks": {
