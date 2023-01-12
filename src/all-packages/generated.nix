@@ -712,10 +712,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "108.0.1462.76";
+    version = "109.0.1518.49";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_108.0.1462.76-1_amd64.deb";
-      sha256 = "sha256-u6Fcq6PXsjwf4VZ5B8zXjM66qISiWMERaHLuaIvpt7Y=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.49-1_amd64.deb";
+      sha256 = "sha256-VSUjgASU/nEDsneLyMpgEUjmaiXRk8G6Qei2ZWi/Wa8=";
     };
   };
   minecraft-wayland = {
