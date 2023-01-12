@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6917";
+    version = "1.0.6918";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6917.tar.bz2";
-      sha256 = "sha256-dAv5KMkctj2fZyug0MYSkOXAjnagfko5nOPvopbVqyY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6918.tar.bz2";
+      sha256 = "sha256-NhaAuHzs512Si6Mv3Y3Hi8/5qRUHj/+0GkXzEioXQ4c=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6917";
+    version = "1.0.6918";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6917-1_all.deb";
-      sha256 = "sha256-45j1d7HeNkdt0M+lf89ia4qZ1tS6uMjrmG9juoH8IZw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6918-1_all.deb";
+      sha256 = "sha256-3ODFz5IQjKo2hm7XKUgWJBSnbV0vxAyFAPm4lwJnpbY=";
     };
   };
   jitsi-videobridge2 = {
@@ -772,15 +772,15 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "8ff2d5c89c1afb2beaf0b2e53c5f770c263f84dc";
+    version = "0e5d38907f9f904e878d1adb800d5a907dbb28bf";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "8ff2d5c89c1afb2beaf0b2e53c5f770c263f84dc";
+      rev = "0e5d38907f9f904e878d1adb800d5a907dbb28bf";
       fetchSubmodules = false;
-      sha256 = "sha256-Q2qLpmAorkrGGdH6Nrj/B3cGGzqw8wu4KVxekzv2x9A=";
+      sha256 = "sha256-OcOF43SOlseb6UGTxLtGH0MRokZob0x+cczpdJc8Hq4=";
     });
-    date = "2022-12-15";
+    date = "2023-01-12";
   };
   ny-font = {
     pname = "ny-font";
@@ -1316,15 +1316,15 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "8d9e98705adf56c0e33d11e082b88c4f156c4b11";
+    version = "3b3e2058257ec4e911e1ca4bfde71c177374ab7b";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "8d9e98705adf56c0e33d11e082b88c4f156c4b11";
+      rev = "3b3e2058257ec4e911e1ca4bfde71c177374ab7b";
       fetchSubmodules = false;
-      sha256 = "sha256-scp2N4P3YJQvzO9FgnrCVuBPC2toAdkE7aMeBl+gENI=";
+      sha256 = "sha256-uncHsbcwbCYdZ3ClER//VRDn6BzJ4z59vT1J7cIEnZ0=";
     });
-    date = "2023-01-10";
+    date = "2023-01-12";
   };
   uniemoji = {
     pname = "uniemoji";
