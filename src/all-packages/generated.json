@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-29ngW2ApsA+YhcZcxp/k95OVTyQhTshKJP8z/LQAUS0=",
+            "sha256": "sha256-dAv5KMkctj2fZyug0MYSkOXAjnagfko5nOPvopbVqyY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6916.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6917.tar.bz2"
         },
-        "version": "1.0.6916"
+        "version": "1.0.6917"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3rW4VBOH2N5UeqNju0LiNhBHzntLDOOOcF/7ZJeCc3M=",
+            "sha256": "sha256-45j1d7HeNkdt0M+lf89ia4qZ1tS6uMjrmG9juoH8IZw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6916-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6917-1_all.deb"
         },
-        "version": "1.0.6916"
+        "version": "1.0.6917"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2228,11 +2228,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QC3/aqIF2NdJPHmwUbvJR62wsUGBrgsHJCyqBJ/0gMc=",
+            "sha256": "sha256-9jXYoowD9ZftgTVM9xqgJk0Fq/P+xBM3ss9IefOz9vw=",
             "type": "url",
-            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.12.0/bw_web_v2022.12.0.tar.gz"
+            "url": "https://github.com/dani-garcia/bw_web_builds/releases/download/v2023.1.0/bw_web_v2023.1.0.tar.gz"
         },
-        "version": "2022.12.0"
+        "version": "2023.1.0"
     },
     "ventoy": {
         "cargoLocks": null,
