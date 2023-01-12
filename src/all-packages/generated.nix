@@ -946,15 +946,15 @@
   };
   quibble = {
     pname = "quibble";
-    version = "2f31b447fcc76a9bba22bc36077cc89148a113e8";
+    version = "dbb3f131afb04c84d141734d9a2ef67498677f72";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "quibble";
-      rev = "2f31b447fcc76a9bba22bc36077cc89148a113e8";
+      rev = "dbb3f131afb04c84d141734d9a2ef67498677f72";
       fetchSubmodules = false;
-      sha256 = "sha256-Z/ZpCNDHkJFoGoplydIIOuaGvch2sW3zTRo7luBBWJY=";
+      sha256 = "sha256-4qJJTOzTZU2s25l6unX3UBDJVC7h/V30PMrLt1UdHCk=";
     });
-    date = "2022-12-20";
+    date = "2023-01-12";
   };
   rainfox = {
     pname = "rainfox";
@@ -1385,13 +1385,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "27b99dd5c8cc79f792bf3c7f71d0088600c56546";
+    version = "e87b848b9b2acaa4952eb92e339e575d25281d3a";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "27b99dd5c8cc79f792bf3c7f71d0088600c56546";
+      rev = "e87b848b9b2acaa4952eb92e339e575d25281d3a";
       fetchSubmodules = false;
-      sha256 = "sha256-da/W++Y5RLGmgo0Iouj4awHmAZQdgLPpzc1IiM2jUoI=";
+      sha256 = "sha256-dbFvM7YW159shDNTYb2KCmvZY+I0rW+76mR343cKSPs=";
     });
     date = "2023-01-12";
   };
