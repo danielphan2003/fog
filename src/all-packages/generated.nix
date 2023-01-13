@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "52f34ee78f176672558f719c2a942ad04a2ace80";
+    version = "2f1a03523ba854aa65d3b27023826c80657ec250";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "52f34ee78f176672558f719c2a942ad04a2ace80";
+      rev = "2f1a03523ba854aa65d3b27023826c80657ec250";
       fetchSubmodules = false;
-      sha256 = "sha256-VoVAsWO1EDPVbWFJy01tmUQdnNV9ZJ6uJ9Fev6ei01M=";
+      sha256 = "sha256-EXhbebWjXJncSVALEhWk5V0E0EWEqSYogiT7uydg0CY=";
     });
     date = "2023-01-13";
   };
@@ -1409,15 +1409,15 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "b1a9e41dfadcac7e18962aa78a08f16ea3487ca5";
+    version = "42273d8b04082cc338e74a964b977ee8d2b94a35";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "b1a9e41dfadcac7e18962aa78a08f16ea3487ca5";
+      rev = "42273d8b04082cc338e74a964b977ee8d2b94a35";
       fetchSubmodules = false;
-      sha256 = "sha256-1SZ2ChqP9LUcGzOk8XaHG06GTjNJg+2IlYjH6l7hwJA=";
+      sha256 = "sha256-7wf1/Q4F/eDom5Q0Ln2WYen7MmvierYDmzvahjz1zFo=";
     });
-    date = "2023-01-10";
+    date = "2023-01-13";
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
