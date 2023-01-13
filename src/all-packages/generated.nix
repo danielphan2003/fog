@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "570f1f482ca476bbd0edb33ddf998a1c046dd1b1";
+    version = "8c5addc5c52a737bdccd3c4d8fe9d02bdf7ddc3e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "570f1f482ca476bbd0edb33ddf998a1c046dd1b1";
+      rev = "8c5addc5c52a737bdccd3c4d8fe9d02bdf7ddc3e";
       fetchSubmodules = false;
-      sha256 = "sha256-JZsBRSWhxAsOLu48nvTdPSxpl32xk2ug5uvUGIhCRtM=";
+      sha256 = "sha256-p3zS6bMhlt7XVPI8UkYczLlh4Bt0Z2cnvglGTuHrXWI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-570f1f482ca476bbd0edb33ddf998a1c046dd1b1/Cargo.lock;
+      lockFile = ./rustdesk-8c5addc5c52a737bdccd3c4d8fe9d02bdf7ddc3e/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1035,7 +1035,7 @@
         "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-12";
+    date = "2023-01-13";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
