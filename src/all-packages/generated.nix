@@ -190,15 +190,15 @@
   };
   bottles = {
     pname = "bottles";
-    version = "31c794e78745dd358290d42a8283d7bf5d6b0599";
+    version = "4908351d9bdca7e8d305d9181ed39f5a28103598";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "31c794e78745dd358290d42a8283d7bf5d6b0599";
+      rev = "4908351d9bdca7e8d305d9181ed39f5a28103598";
       fetchSubmodules = false;
-      sha256 = "sha256-82q9pwTShmbBSDKeHzd0GTzzxFHGYKmh0DtDYSXJwa8=";
+      sha256 = "sha256-AJ3Tbc+/7BOUN5RH6nRNpHwBkMV+g5L5Ks4IkBZbZ1Q=";
     });
-    date = "2023-01-12";
+    date = "2023-01-13";
   };
   caddy = {
     pname = "caddy";
@@ -696,10 +696,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "109.0.1518.49";
+    version = "109.0.1518.52";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.49-1_amd64.deb";
-      sha256 = "sha256-H47XwhIq6qdlZzP5434MlTeg7tcdooS76T5T38jkeAI=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.52-1_amd64.deb";
+      sha256 = "sha256-AaJFrG6EMdseMU+GyQK9y3p2jBH5KozSgqCW0vlMjPM=";
     };
   };
   microsoft-edge-dev = {

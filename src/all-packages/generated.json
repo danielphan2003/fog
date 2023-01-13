@@ -311,7 +311,7 @@
     },
     "bottles": {
         "cargoLocks": null,
-        "date": "2023-01-12",
+        "date": "2023-01-13",
         "extract": null,
         "name": "bottles",
         "passthru": null,
@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "31c794e78745dd358290d42a8283d7bf5d6b0599",
-            "sha256": "sha256-82q9pwTShmbBSDKeHzd0GTzzxFHGYKmh0DtDYSXJwa8=",
+            "rev": "4908351d9bdca7e8d305d9181ed39f5a28103598",
+            "sha256": "sha256-AJ3Tbc+/7BOUN5RH6nRNpHwBkMV+g5L5Ks4IkBZbZ1Q=",
             "type": "github"
         },
-        "version": "31c794e78745dd358290d42a8283d7bf5d6b0599"
+        "version": "4908351d9bdca7e8d305d9181ed39f5a28103598"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1157,11 +1157,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-H47XwhIq6qdlZzP5434MlTeg7tcdooS76T5T38jkeAI=",
+            "sha256": "sha256-AaJFrG6EMdseMU+GyQK9y3p2jBH5KozSgqCW0vlMjPM=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.49-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_109.0.1518.52-1_amd64.deb"
         },
-        "version": "109.0.1518.49"
+        "version": "109.0.1518.52"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
