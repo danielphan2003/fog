@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6919";
+    version = "1.0.6920";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6919.tar.bz2";
-      sha256 = "sha256-in2h1QjWaD4fXMb0W/+4zuwqNWWAWLQjDF9JOel7njA=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6920.tar.bz2";
+      sha256 = "sha256-aQ5oACHF6OQETxuQ5CD+kN5qLodBqpSRlkBXGbqStLk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6919";
+    version = "1.0.6920";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6919-1_all.deb";
-      sha256 = "sha256-NkFfdt9bX8FLYBE55Z2g+L0ODoJ8puc0/iJX2/rfKnc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6920-1_all.deb";
+      sha256 = "sha256-o/PHEXnRQ1DC3F2Icaruw+vKWfmYJ2P6EnO655C1fB0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1365,10 +1365,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.87";
+    version = "1.0.88";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.87/ventoy-1.0.87-linux.tar.gz";
-      sha256 = "sha256-0m7MXLtSuq8GdDFXzKeY86DIglgeQ6wyEtpOyB/thkc=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.88/ventoy-1.0.88-linux.tar.gz";
+      sha256 = "sha256-mg1dzXREIhO9LsoCEauuBR9ESGHM3RvoFN+5vHU0HDA=";
     };
   };
   vimPlugins-yuck = {
