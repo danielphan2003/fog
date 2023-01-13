@@ -1409,13 +1409,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "42273d8b04082cc338e74a964b977ee8d2b94a35";
+    version = "1d876a8ce7431e5dfdb7866709d285b72f8acb08";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "42273d8b04082cc338e74a964b977ee8d2b94a35";
+      rev = "1d876a8ce7431e5dfdb7866709d285b72f8acb08";
       fetchSubmodules = false;
-      sha256 = "sha256-7wf1/Q4F/eDom5Q0Ln2WYen7MmvierYDmzvahjz1zFo=";
+      sha256 = "sha256-v51qGy0JXDp178OrwM/oeZJcl6M5GYkh7uWCZAARhIU=";
     });
     date = "2023-01-13";
   };
