@@ -190,15 +190,15 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4908351d9bdca7e8d305d9181ed39f5a28103598";
+    version = "b3f378ad885ae35cac41c56868d782a86591d3c5";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4908351d9bdca7e8d305d9181ed39f5a28103598";
+      rev = "b3f378ad885ae35cac41c56868d782a86591d3c5";
       fetchSubmodules = false;
-      sha256 = "sha256-AJ3Tbc+/7BOUN5RH6nRNpHwBkMV+g5L5Ks4IkBZbZ1Q=";
+      sha256 = "sha256-78uTDsQdirtLonQLWMucwJOKEkWdwqwxf6rBODx2c08=";
     });
-    date = "2023-01-13";
+    date = "2023-01-14";
   };
   caddy = {
     pname = "caddy";
@@ -236,15 +236,15 @@
   };
   cinny = {
     pname = "cinny";
-    version = "899a89cb3ba4d9749e0b4264bf22aece34554794";
+    version = "e5e3f5f0a3542ce9b0c0205d176b4e05adc602e1";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "899a89cb3ba4d9749e0b4264bf22aece34554794";
+      rev = "e5e3f5f0a3542ce9b0c0205d176b4e05adc602e1";
       fetchSubmodules = false;
-      sha256 = "sha256-JKSfJ9O+jyvOPU0jyv5dQgbNLEfbXUhKy8iuUZtWTvY=";
+      sha256 = "sha256-yNWSIg739PPmSCh7jEpeWsRbeXgImQfShCsggKRL044=";
     });
-    date = "2022-12-20";
+    date = "2023-01-14";
   };
   cinny-bin = {
     pname = "cinny-bin";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "95c662f3bcdffc892baaf56ae470a785710eec5f";
+    version = "b466bb013f4e3094ad9253b348004e7d850f65e0";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "95c662f3bcdffc892baaf56ae470a785710eec5f";
+      rev = "b466bb013f4e3094ad9253b348004e7d850f65e0";
       fetchSubmodules = false;
-      sha256 = "sha256-T6cjM8SUCCa0sXdVJyvkUYP9WtSr/MIKik2Qyx4Gltw=";
+      sha256 = "sha256-rUYyH28J5SbSrv5EzZnhSJqt6if1CbRKZ1XfItgtnOM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-95c662f3bcdffc892baaf56ae470a785710eec5f/Cargo.lock;
+      lockFile = ./rustdesk-b466bb013f4e3094ad9253b348004e7d850f65e0/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
