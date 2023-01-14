@@ -282,24 +282,24 @@
   };
   conduit = {
     pname = "conduit";
-    version = "c6e3438e7639abeb23f6a3adf296a60efbf5bc57";
+    version = "815db0d962efa3f3a0aac268ad777f5217cb552e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "c6e3438e7639abeb23f6a3adf296a60efbf5bc57";
+      rev = "815db0d962efa3f3a0aac268ad777f5217cb552e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6T+9CSXjv+HR5DMOA3tIPV/7GSd4dtEhY5dha4oqfYI=";
+      sha256 = "sha256-w3ZxT9qfX8aHNzUE2mWs2/i47gbzXNNPO8Ri0DuYMD0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-c6e3438e7639abeb23f6a3adf296a60efbf5bc57/Cargo.lock;
+      lockFile = ./conduit-815db0d962efa3f3a0aac268ad777f5217cb552e/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ztobLdOXSGyK1YcPMMIycO3ZmnjxG5mLkHltf0Fbs8s=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
-    date = "2023-01-09";
+    date = "2023-01-14";
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "639d367773609d4e44764243e3652b5193495ebe";
+    version = "3e599d04d3a58bc1ace0363fd8167f804e5f180b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "639d367773609d4e44764243e3652b5193495ebe";
+      rev = "3e599d04d3a58bc1ace0363fd8167f804e5f180b";
       fetchSubmodules = false;
-      sha256 = "sha256-V5cJycIaSF7W7eZvt+l0ZEBr0xjnfVdwb0ICyglYJis=";
+      sha256 = "sha256-eeBwhhFoG5e0APfD+u8mBKlSKgHe47FyT5xyR1cPGIA=";
     });
     date = "2023-01-14";
   };
@@ -1275,13 +1275,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c1a2e2c3802568be16480e13f549b1aaab59f1f4";
+    version = "6d85a94767ece276495033de55e9337e89aeb207";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c1a2e2c3802568be16480e13f549b1aaab59f1f4";
+      rev = "6d85a94767ece276495033de55e9337e89aeb207";
       fetchSubmodules = false;
-      sha256 = "sha256-6BTFgF4cYuleZOXLVV9jHCmWujrz7PIA/LkZ7c5SX4E=";
+      sha256 = "sha256-2yQIs7jrSULWkhwlc/FSkB1/c6ni/NUX7d03EP5Gck4=";
     });
     date = "2023-01-14";
   };
@@ -1316,13 +1316,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "3cc6b181ffa5a4db6a9fe024e43c7a2f0d1455a1";
+    version = "7f1fb4a3b9be97d4a1e23596961e1035cd6cf97d";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "3cc6b181ffa5a4db6a9fe024e43c7a2f0d1455a1";
+      rev = "7f1fb4a3b9be97d4a1e23596961e1035cd6cf97d";
       fetchSubmodules = false;
-      sha256 = "sha256-I47e3sKSVMp11ltwPtIWJthC4vQ40qniVYeaVJnImf4=";
+      sha256 = "sha256-b2McOEAukSew/7f02N3uCHyYQ2yGi3Fn4yJWjng/Mv4=";
     });
     date = "2023-01-14";
   };
