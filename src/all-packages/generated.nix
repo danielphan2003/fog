@@ -256,21 +256,21 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a";
+    version = "ffc8f01b29c503681dead999d8a86087ee8fd110";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a";
+      rev = "ffc8f01b29c503681dead999d8a86087ee8fd110";
       fetchSubmodules = true;
-      sha256 = "sha256-V4rjCSbjtzGUui5YnLgsssxafksWu8OfHwZY6UMh26U=";
+      sha256 = "sha256-g/hhTPWJYFrPXB0eZxzS9O8tk2fs7HfdckgcQG0yZwA=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-6b42bc027f22c4c3c4cc5be2d5eb9e3e74d02b9a/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-ffc8f01b29c503681dead999d8a86087ee8fd110/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-01";
+    date = "2023-01-14";
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
@@ -1421,15 +1421,15 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "968ef5d9bdc521bef86b17f85ddda245d5d8d34d";
+    version = "380f753e3665a6d3bc80b61e88ac75733eafe457";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "968ef5d9bdc521bef86b17f85ddda245d5d8d34d";
+      rev = "380f753e3665a6d3bc80b61e88ac75733eafe457";
       fetchSubmodules = false;
-      sha256 = "sha256-S1ovsUz3KLZfh0xZeSjETUwBEVXsNtnpcgE71kpmPW8=";
+      sha256 = "sha256-ib/SH9tdbcG88N4MSZJwckNxpN5+q4KTyieqF/NVyJw=";
     });
-    date = "2023-01-10";
+    date = "2023-01-14";
   };
   widevine-cdm = {
     pname = "widevine-cdm";
