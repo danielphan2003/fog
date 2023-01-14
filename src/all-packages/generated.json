@@ -543,11 +543,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TF+7SnCTsbh+Z8AeEESEFVLSpD3c5HOAwpU1UBuB1BU=",
+            "sha256": "sha256-5GiG+RGqwHUdIeSVWpbaIw3sTuZbvIQeetXSEvSqTls=",
             "type": "url",
-            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.145/discord-canary-0.0.145.tar.gz"
+            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.146/discord-canary-0.0.146.tar.gz"
         },
-        "version": "0.0.145"
+        "version": "0.0.146"
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
@@ -1187,11 +1187,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VSUjgASU/nEDsneLyMpgEUjmaiXRk8G6Qei2ZWi/Wa8=",
+            "sha256": "sha256-G9ecUa4vVtSjztO3jhHqvVigy5oOTL03qW4crCU9k/g=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.49-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.52-1_amd64.deb"
         },
-        "version": "109.0.1518.49"
+        "version": "109.0.1518.52"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-13",
+        "date": "2023-01-14",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3b6aef23e191cd45bf6372f2a1dac9c74f5326de",
-            "sha256": "sha256-FWuQJmwXzUjGPOpb6IaGGWR8JaQym9UbqfSvwYyAl3M=",
+            "rev": "2ae8a34cfbe5cc43d0fab78bf2169f7eba6bbb05",
+            "sha256": "sha256-VH7jeVtUqZO2rsJk3LZ+LsDDpl6SIT9u6Tmb5K6VwN8=",
             "type": "github"
         },
-        "version": "3b6aef23e191cd45bf6372f2a1dac9c74f5326de"
+        "version": "2ae8a34cfbe5cc43d0fab78bf2169f7eba6bbb05"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2096,11 +2096,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "11ce5b7e57bbf67ed89f404e9e5b3a8ac14c7723",
-            "sha256": "sha256-kbkuaZT6uB+o5QiC7tt6fKVyoeBZegdhorZItvwsh5c=",
+            "rev": "67f82e62a15a73af7e5d9801ab580e2d552b58e7",
+            "sha256": "sha256-D8B+luwotNhM7VClYRIslvAGN2u2yTHvTICbG41hFy0=",
             "type": "github"
         },
-        "version": "11ce5b7e57bbf67ed89f404e9e5b3a8ac14c7723"
+        "version": "67f82e62a15a73af7e5d9801ab580e2d552b58e7"
     },
     "tailscale-systray": {
         "cargoLocks": null,
