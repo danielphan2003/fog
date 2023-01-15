@@ -101,24 +101,24 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "048a7afa5583631f11818f8f8f2cc0bb7a5356a7";
+    version = "a811417f5d862ea59f3865c4c74756af9344758b";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "048a7afa5583631f11818f8f8f2cc0bb7a5356a7";
+      rev = "a811417f5d862ea59f3865c4c74756af9344758b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gu6oNdnuvI2bRGut8qOTScWz7L4jQgSs9tTg+qQq/lE=";
+      sha256 = "sha256-TwuIM3dkHmzRDFMInDSY/opx8AWOMg1NXW42j4qjzE0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-048a7afa5583631f11818f8f8f2cc0bb7a5356a7/Cargo.lock;
+      lockFile = ./asusctl-a811417f5d862ea59f3865c4c74756af9344758b/Cargo.lock;
       outputHashes = {
-        "supergfxctl-5.0.2" = "sha256-zp92mWyWUEWUP4kEyHbiUyYTtp2kLv+gxkPzOu77fi8=";
+        "supergfxctl-5.0.2" = "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
-    date = "2023-01-09";
+    date = "2023-01-15";
   };
   avizo = {
     pname = "avizo";
@@ -256,16 +256,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "7007d3ba7c99fc1567ee0ef5e5b2154a690e4e1f";
+    version = "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "7007d3ba7c99fc1567ee0ef5e5b2154a690e4e1f";
+      rev = "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d";
       fetchSubmodules = true;
-      sha256 = "sha256-v02hXpcdRQ+oUvRT3mTUGWLmr5SENO/fqpdjHHGs890=";
+      sha256 = "sha256-6hyHjJJU5TP7m1PZ2YF/RwgZcZwDfP9lJqYTUcWMQqM=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-7007d3ba7c99fc1567ee0ef5e5b2154a690e4e1f/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-5a2206fa1b12dc4b5baf181c09b2a23b46f3704d/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -277,7 +277,7 @@
     version = "2.2.3";
     src = fetchurl {
       url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.3/Cinny_desktop-x86_64.AppImage";
-      sha256 = "sha256-wh7SjglWgCsmVX/+0/QuuXveYjvdrkM2EDjFd5MyWPM=";
+      sha256 = "sha256-xIRKTXGqsqip46adc3v8vWQoYgcDPw801cF10/UwGSs=";
     };
   };
   conduit = {
@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ddb7cc841bc9fc020335b00a7934cc12e0dbb092";
+    version = "bf084f1ccc5567b16374110b54daded44dcd33cd";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ddb7cc841bc9fc020335b00a7934cc12e0dbb092";
+      rev = "bf084f1ccc5567b16374110b54daded44dcd33cd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-3/rVpOLTDddx7p30CW2waRdlRd2VnDV9+IUsHpk3ztw=";
+      sha256 = "sha256-cgg0h8It6vrrs3JlaQtEz8IOsJBd8Umrg9nboAp0Z3k=";
     };
-    date = "2023-01-14";
+    date = "2023-01-15";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -1316,15 +1316,15 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "7f1fb4a3b9be97d4a1e23596961e1035cd6cf97d";
+    version = "8fed3f418afd21abbd258722303a04f306f71c4c";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "7f1fb4a3b9be97d4a1e23596961e1035cd6cf97d";
+      rev = "8fed3f418afd21abbd258722303a04f306f71c4c";
       fetchSubmodules = false;
-      sha256 = "sha256-b2McOEAukSew/7f02N3uCHyYQ2yGi3Fn4yJWjng/Mv4=";
+      sha256 = "sha256-8HdLWdQLC2L/V/47zrz+MBw4vy2C3qEANf+vrG/Q+Dc=";
     });
-    date = "2023-01-14";
+    date = "2023-01-15";
   };
   uniemoji = {
     pname = "uniemoji";
