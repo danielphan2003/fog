@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "f8e94861b29c4e56942b10434d346765734fbb0c",
-            "sha256": "sha256-HRNMObPDbObNfpToOkrrgelrExQXkqreUPil8YJ+fDU=",
+            "rev": "25afdcdcc890d553cfb7aaaf86e845b8c8b72296",
+            "sha256": "sha256-y8lOybRvwAuSlxrmVIDgiIghgiy9BvxnswxSE+43CNM=",
             "type": "github"
         },
-        "version": "f8e94861b29c4e56942b10434d346765734fbb0c"
+        "version": "25afdcdcc890d553cfb7aaaf86e845b8c8b72296"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2084,7 +2084,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-14",
+        "date": "2023-01-15",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2096,11 +2096,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "72cc70ebfc6e425a3eca077b4850dbd7916cbfb2",
-            "sha256": "sha256-0/3mqxIKLFWbuojCMOib2Yj/TFPVlSeI1AFl+5IftH8=",
+            "rev": "5f96d6211a040b7d5cd843b589411be91b3ba6fc",
+            "sha256": "sha256-ho6INGIGqmm9gh+mo3T69b3jlaNk1CrdLqvdiMsrx0E=",
             "type": "github"
         },
-        "version": "72cc70ebfc6e425a3eca077b4850dbd7916cbfb2"
+        "version": "5f96d6211a040b7d5cd843b589411be91b3ba6fc"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2271,7 +2271,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-12",
+        "date": "2023-01-15",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2283,11 +2283,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "e87b848b9b2acaa4952eb92e339e575d25281d3a",
-            "sha256": "sha256-dbFvM7YW159shDNTYb2KCmvZY+I0rW+76mR343cKSPs=",
+            "rev": "8f6570b82007b1ca79af4db19412eb258e7b3a2f",
+            "sha256": "sha256-D6kuwMdwV0keJzwpS/xhcTmdDf2oWO0TD1JykW6oD6k=",
             "type": "github"
         },
-        "version": "e87b848b9b2acaa4952eb92e339e575d25281d3a"
+        "version": "8f6570b82007b1ca79af4db19412eb258e7b3a2f"
     },
     "wgcf": {
         "cargoLocks": null,
