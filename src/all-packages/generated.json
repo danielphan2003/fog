@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "75768ea55f555514e7c2bf7e51dc56b87a402c0f",
-            "sha256": "sha256-ryeL/t5wJEGzMwzlPODWx9ei7lQjEpeIcHXJ3Hu3Hio=",
+            "rev": "0be5c46aad1984151c7244387631ad4f12a1a6cd",
+            "sha256": "sha256-BPTbu3JKuyuoKQx6c1lXWlSBKQK3WO9CETIgFv0I0Jg=",
             "type": "github"
         },
-        "version": "75768ea55f555514e7c2bf7e51dc56b87a402c0f"
+        "version": "0be5c46aad1984151c7244387631ad4f12a1a6cd"
     },
     "caddy": {
         "cargoLocks": null,
@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-15",
+        "date": "2023-01-16",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "040e99fd174e46614e9dc37a77bad67b930ac5e9",
-            "sha256": "sha256-dzaXvah1Qm8OeopF2lbS8ohhIGbGBx6kVY/W657qJdk=",
+            "rev": "589046ecf74965a8e22a9891290f4b289c60a334",
+            "sha256": "sha256-DvS8CLz4nPx23tBYJfJtxTiP5fRV3Urhw74pwVdSYCU=",
             "type": "github"
         },
-        "version": "040e99fd174e46614e9dc37a77bad67b930ac5e9"
+        "version": "589046ecf74965a8e22a9891290f4b289c60a334"
     },
     "ibus": {
         "cargoLocks": null,
