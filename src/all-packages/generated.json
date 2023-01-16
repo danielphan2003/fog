@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fxZftWPdWobs7YrGgtXj4NRDph2JBfp9rugY1jN5v6o=",
+            "sha256": "sha256-9/2QMJdz9gtq5nEzTzwFBHB3Q4HlBAP1+nTvfgJeR4Q=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6922.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6923.tar.bz2"
         },
-        "version": "1.0.6922"
+        "version": "1.0.6923"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
