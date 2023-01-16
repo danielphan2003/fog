@@ -101,24 +101,24 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "b5b77990186c0bedf78ce2c7d9779c633b3e5727";
+    version = "1ec45a644992147b3de636a059843e3b092b8ab7";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "b5b77990186c0bedf78ce2c7d9779c633b3e5727";
+      rev = "1ec45a644992147b3de636a059843e3b092b8ab7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Hl+Tuv4sUeSmnQTuHX+VGHEW9i9Qh1Pxg6sJZqaPaPU=";
+      sha256 = "sha256-lyCGjsdUt5WXea/onH7o8BO+/Jup5XLUt+b2nxLlEs0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-b5b77990186c0bedf78ce2c7d9779c633b3e5727/Cargo.lock;
+      lockFile = ./asusctl-1ec45a644992147b3de636a059843e3b092b8ab7/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
-    date = "2023-01-15";
+    date = "2023-01-16";
   };
   avizo = {
     pname = "avizo";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b466bb013f4e3094ad9253b348004e7d850f65e0";
+    version = "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b466bb013f4e3094ad9253b348004e7d850f65e0";
+      rev = "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2";
       fetchSubmodules = false;
-      sha256 = "sha256-rUYyH28J5SbSrv5EzZnhSJqt6if1CbRKZ1XfItgtnOM=";
+      sha256 = "sha256-6aRisflujfKTZi/EgPU6FqOK/CzvxqPxNUowpbLNF8k=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-b466bb013f4e3094ad9253b348004e7d850f65e0/Cargo.lock;
+      lockFile = ./rustdesk-2a7f8d5367e13a3db287ef60e7afdb3e681c86d2/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1035,7 +1035,7 @@
         "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-14";
+    date = "2023-01-16";
   };
   rustdesk-server = {
     pname = "rustdesk-server";

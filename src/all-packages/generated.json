@@ -169,7 +169,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-b5b77990186c0bedf78ce2c7d9779c633b3e5727/Cargo.lock",
+                "./asusctl-1ec45a644992147b3de636a059843e3b092b8ab7/Cargo.lock",
                 {
                     "ecolor-0.20.0": "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
@@ -177,7 +177,7 @@
                 }
             ]
         },
-        "date": "2023-01-15",
+        "date": "2023-01-16",
         "extract": null,
         "name": "asusctl",
         "passthru": null,
@@ -187,12 +187,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b5b77990186c0bedf78ce2c7d9779c633b3e5727",
-            "sha256": "sha256-Hl+Tuv4sUeSmnQTuHX+VGHEW9i9Qh1Pxg6sJZqaPaPU=",
+            "rev": "1ec45a644992147b3de636a059843e3b092b8ab7",
+            "sha256": "sha256-lyCGjsdUt5WXea/onH7o8BO+/Jup5XLUt+b2nxLlEs0=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "b5b77990186c0bedf78ce2c7d9779c633b3e5727"
+        "version": "1ec45a644992147b3de636a059843e3b092b8ab7"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-b466bb013f4e3094ad9253b348004e7d850f65e0/Cargo.lock",
+                "./rustdesk-2a7f8d5367e13a3db287ef60e7afdb3e681c86d2/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1687,7 +1687,7 @@
                 }
             ]
         },
-        "date": "2023-01-14",
+        "date": "2023-01-16",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1699,11 +1699,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "b466bb013f4e3094ad9253b348004e7d850f65e0",
-            "sha256": "sha256-rUYyH28J5SbSrv5EzZnhSJqt6if1CbRKZ1XfItgtnOM=",
+            "rev": "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2",
+            "sha256": "sha256-6aRisflujfKTZi/EgPU6FqOK/CzvxqPxNUowpbLNF8k=",
             "type": "github"
         },
-        "version": "b466bb013f4e3094ad9253b348004e7d850f65e0"
+        "version": "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2"
     },
     "rustdesk-server": {
         "cargoLocks": {
