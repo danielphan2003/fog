@@ -740,10 +740,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.49.0";
+    version = "0.49.1";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.0.tar.gz";
-      sha256 = "sha256-SoXiwZ9o/K7Ii7wWq9hR+l6q8opa5CaMAuPXZ31P0Io=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.1.tar.gz";
+      sha256 = "sha256-iyyAJAqCnTl+1csG/f3CgpOno8HGSiOnWIbf+tF9Hu4=";
     };
   };
   nix-zsh-completions = {
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2";
+    version = "5b595ee7293ea718509d50d844a4bf6519f1e1de";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "2a7f8d5367e13a3db287ef60e7afdb3e681c86d2";
+      rev = "5b595ee7293ea718509d50d844a4bf6519f1e1de";
       fetchSubmodules = false;
-      sha256 = "sha256-6aRisflujfKTZi/EgPU6FqOK/CzvxqPxNUowpbLNF8k=";
+      sha256 = "sha256-4FDdUBd4FIiftvubNH9pKrizgNINfY+jOl7WNbXSTfo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-2a7f8d5367e13a3db287ef60e7afdb3e681c86d2/Cargo.lock;
+      lockFile = ./rustdesk-5b595ee7293ea718509d50d844a4bf6519f1e1de/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1144,15 +1144,15 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "ee7f52da31eb45dff667f888d808057313895fc3";
+    version = "661478742e1ba10266225162d49164bd5d8cfa12";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "ee7f52da31eb45dff667f888d808057313895fc3";
+      rev = "661478742e1ba10266225162d49164bd5d8cfa12";
       fetchSubmodules = false;
-      sha256 = "sha256-LopQ2UK1FfNViRIyIpiqJrhZAAbxXFcEiHGKgpJ2/Jo=";
+      sha256 = "sha256-rj/XwuC3NRrJbgutZayOv7EaP/jpatJNRxoYW8UPfgY=";
     });
-    date = "2023-01-01";
+    date = "2023-01-16";
   };
   spicetify-themes = {
     pname = "spicetify-themes";
