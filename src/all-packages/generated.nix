@@ -1385,15 +1385,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "85843da557ef552bfb2b1e1fc32cd8424933407a";
+    version = "b910c891740026aeba2cd6a86f93ca87ef57e3c6";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "85843da557ef552bfb2b1e1fc32cd8424933407a";
+      rev = "b910c891740026aeba2cd6a86f93ca87ef57e3c6";
       fetchSubmodules = false;
-      sha256 = "sha256-3FiubcMDOJgLmb5vY23cYDYxsDuM4gqwRgpScAbvI7c=";
+      sha256 = "sha256-5X7oOuJAoWP6HDGe34uIGsW1g8jobCwypKBWctck65U=";
     });
-    date = "2023-01-15";
+    date = "2023-01-16";
   };
   wgcf = {
     pname = "wgcf";
@@ -1489,10 +1489,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.13.4.711";
+    version = "5.13.5.431";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.13.4.711/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-sQk5fS/bS7e0T0IJ7+UB956XmCAbeMYfS8BVwncpoy0=";
+      url = "https://cdn.zoom.us/prod/5.13.5.431/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-R0IMV/+R7AGFy/ZvNyyvIBv10t1x1U1X6jdHoo6UHKY=";
     };
   };
 }

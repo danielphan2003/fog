@@ -2271,7 +2271,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-15",
+        "date": "2023-01-16",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2283,11 +2283,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "85843da557ef552bfb2b1e1fc32cd8424933407a",
-            "sha256": "sha256-3FiubcMDOJgLmb5vY23cYDYxsDuM4gqwRgpScAbvI7c=",
+            "rev": "b910c891740026aeba2cd6a86f93ca87ef57e3c6",
+            "sha256": "sha256-5X7oOuJAoWP6HDGe34uIGsW1g8jobCwypKBWctck65U=",
             "type": "github"
         },
-        "version": "85843da557ef552bfb2b1e1fc32cd8424933407a"
+        "version": "b910c891740026aeba2cd6a86f93ca87ef57e3c6"
     },
     "wgcf": {
         "cargoLocks": null,
@@ -2453,10 +2453,10 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sQk5fS/bS7e0T0IJ7+UB956XmCAbeMYfS8BVwncpoy0=",
+            "sha256": "sha256-R0IMV/+R7AGFy/ZvNyyvIBv10t1x1U1X6jdHoo6UHKY=",
             "type": "url",
-            "url": "https://cdn.zoom.us/prod/5.13.4.711/zoom_x86_64.pkg.tar.xz"
+            "url": "https://cdn.zoom.us/prod/5.13.5.431/zoom_x86_64.pkg.tar.xz"
         },
-        "version": "5.13.4.711"
+        "version": "5.13.5.431"
     }
 }
