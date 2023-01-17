@@ -101,24 +101,24 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "1ec45a644992147b3de636a059843e3b092b8ab7";
+    version = "aad6f6350b77da0b97a0398642aac9e3f0063a28";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "1ec45a644992147b3de636a059843e3b092b8ab7";
+      rev = "aad6f6350b77da0b97a0398642aac9e3f0063a28";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lyCGjsdUt5WXea/onH7o8BO+/Jup5XLUt+b2nxLlEs0=";
+      sha256 = "sha256-42Dmjmtw2wRGFuyPqj9BStf2a26lzJyTWFU0z8VpQHk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-1ec45a644992147b3de636a059843e3b092b8ab7/Cargo.lock;
+      lockFile = ./asusctl-aad6f6350b77da0b97a0398642aac9e3f0063a28/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
-    date = "2023-01-16";
+    date = "2023-01-17";
   };
   avizo = {
     pname = "avizo";
@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-980";
+    version = "1.0-981";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-980-1_all.deb";
-      sha256 = "sha256-i8qR0LXNDo5thA77lahMo/I+Od030R4uEd+r9GiXjC4=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-981-1_all.deb";
+      sha256 = "sha256-tuHV2qEEqS9yAhYU9Fl4J5jnKwZvskT42KDsCJkUu6o=";
     };
   };
   jitsi-meet = {
@@ -1275,13 +1275,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9";
+    version = "3eb986fe05836648cd09f91715b5fb33779a28c3";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9";
+      rev = "3eb986fe05836648cd09f91715b5fb33779a28c3";
       fetchSubmodules = false;
-      sha256 = "sha256-Y4otkOHYipK6+ES+9DZf/aLSpuG84d1PjvGvyiVdKkE=";
+      sha256 = "sha256-UBicV8MBR2kfN/nkxLcx388WV37uHzpMvyNu2KzkfC0=";
     });
     date = "2023-01-17";
   };
