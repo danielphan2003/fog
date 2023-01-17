@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "23d54bcec0b731763086da4d828f4a08a98daf7c",
-            "sha256": "sha256-T7vjz5bEMr5vh3KdSYQXGchsM0sf9HBClBnenKqe69M=",
+            "rev": "abbe7e2edc4cbaef1c17a0489a8adc133635b315",
+            "sha256": "sha256-udoOF4STh87Oi90SQKGy2PUt9IyYHZkJPgluh1rxk7Q=",
             "type": "github"
         },
-        "version": "23d54bcec0b731763086da4d828f4a08a98daf7c"
+        "version": "abbe7e2edc4cbaef1c17a0489a8adc133635b315"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1860,7 +1860,7 @@
     },
     "spicetify-cli": {
         "cargoLocks": null,
-        "date": "2023-01-15",
+        "date": "2023-01-17",
         "extract": null,
         "name": "spicetify-cli",
         "passthru": null,
@@ -1872,11 +1872,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "8ff372c7856a10ffa0fcccb73d782ea7fad5b746",
-            "sha256": "sha256-BjJ86WzbA+nj54toiS/Abjn5uFwXsUrcFB+zDCO/+bc=",
+            "rev": "2db05780c2317ae8e49b2887205364d7089d741d",
+            "sha256": "sha256-OsnzcbhWgH1RYzkkRq7ovtaRs66knjxbNCd0EAnNZGA=",
             "type": "github"
         },
-        "version": "8ff372c7856a10ffa0fcccb73d782ea7fad5b746"
+        "version": "2db05780c2317ae8e49b2887205364d7089d741d"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2084,7 +2084,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-15",
+        "date": "2023-01-17",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2096,11 +2096,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "b657187a69a34993999cc9fa48e4d28dd914c266",
-            "sha256": "sha256-a3Gk9M6wjknxQtIuHSR1ah+H9K6bnDsQPEgWj/+uA0o=",
+            "rev": "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9",
+            "sha256": "sha256-Y4otkOHYipK6+ES+9DZf/aLSpuG84d1PjvGvyiVdKkE=",
             "type": "github"
         },
-        "version": "b657187a69a34993999cc9fa48e4d28dd914c266"
+        "version": "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9"
     },
     "tailscale-systray": {
         "cargoLocks": null,

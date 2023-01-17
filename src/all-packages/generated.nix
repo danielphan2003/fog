@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "23d54bcec0b731763086da4d828f4a08a98daf7c";
+    version = "abbe7e2edc4cbaef1c17a0489a8adc133635b315";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "23d54bcec0b731763086da4d828f4a08a98daf7c";
+      rev = "abbe7e2edc4cbaef1c17a0489a8adc133635b315";
       fetchSubmodules = false;
-      sha256 = "sha256-T7vjz5bEMr5vh3KdSYQXGchsM0sf9HBClBnenKqe69M=";
+      sha256 = "sha256-udoOF4STh87Oi90SQKGy2PUt9IyYHZkJPgluh1rxk7Q=";
     });
     date = "2023-01-17";
   };
@@ -1132,15 +1132,15 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "8ff372c7856a10ffa0fcccb73d782ea7fad5b746";
+    version = "2db05780c2317ae8e49b2887205364d7089d741d";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "8ff372c7856a10ffa0fcccb73d782ea7fad5b746";
+      rev = "2db05780c2317ae8e49b2887205364d7089d741d";
       fetchSubmodules = false;
-      sha256 = "sha256-BjJ86WzbA+nj54toiS/Abjn5uFwXsUrcFB+zDCO/+bc=";
+      sha256 = "sha256-OsnzcbhWgH1RYzkkRq7ovtaRs66knjxbNCd0EAnNZGA=";
     });
-    date = "2023-01-15";
+    date = "2023-01-17";
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
@@ -1275,15 +1275,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b657187a69a34993999cc9fa48e4d28dd914c266";
+    version = "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b657187a69a34993999cc9fa48e4d28dd914c266";
+      rev = "ee6d18e35f139cd9db5aa6c1a02d277ac495f1b9";
       fetchSubmodules = false;
-      sha256 = "sha256-a3Gk9M6wjknxQtIuHSR1ah+H9K6bnDsQPEgWj/+uA0o=";
+      sha256 = "sha256-Y4otkOHYipK6+ES+9DZf/aLSpuG84d1PjvGvyiVdKkE=";
     });
-    date = "2023-01-15";
+    date = "2023-01-17";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
