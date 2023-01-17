@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-16",
+        "date": "2023-01-17",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "6a56d1e4d035824ea5dc94180994017346c5c067",
-            "sha256": "sha256-pcN714A7TjPJ8bBpEoyMVs0TCs2JoMYKETqjuC8v37w=",
+            "rev": "f14e8088478bf1e80e02a213a23c528fe32d3b91",
+            "sha256": "sha256-C0AnzNLRVJ7ljgtWUtn9foD/3XyvoCSNjbPMVCFojp0=",
             "type": "github"
         },
-        "version": "6a56d1e4d035824ea5dc94180994017346c5c067"
+        "version": "f14e8088478bf1e80e02a213a23c528fe32d3b91"
     },
     "ibus": {
         "cargoLocks": null,
