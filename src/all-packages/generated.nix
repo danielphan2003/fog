@@ -190,15 +190,15 @@
   };
   bottles = {
     pname = "bottles";
-    version = "81354eefb65f0518d9a7050cd3d5928581ed7983";
+    version = "83bff365de3cb3aed1044af969d37bcb7c656c45";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "81354eefb65f0518d9a7050cd3d5928581ed7983";
+      rev = "83bff365de3cb3aed1044af969d37bcb7c656c45";
       fetchSubmodules = false;
-      sha256 = "sha256-bqYBEa1cCV5G1vH5Nlhm784FWLJXYTtds3OpY74wtjk=";
+      sha256 = "sha256-Ig7B8XoTCFtb84JUZZV3egiCckdZuxXa2L3Nx9s2ZIQ=";
     });
-    date = "2023-01-16";
+    date = "2023-01-17";
   };
   caddy = {
     pname = "caddy";
@@ -1385,15 +1385,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "b910c891740026aeba2cd6a86f93ca87ef57e3c6";
+    version = "e9d3d01bef8f7021667fe3e4b3fb3c518f3e8b10";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "b910c891740026aeba2cd6a86f93ca87ef57e3c6";
+      rev = "e9d3d01bef8f7021667fe3e4b3fb3c518f3e8b10";
       fetchSubmodules = false;
-      sha256 = "sha256-5X7oOuJAoWP6HDGe34uIGsW1g8jobCwypKBWctck65U=";
+      sha256 = "sha256-zAvikf7DOZjQgIq9YGwcZXiHTQtSjfHYR6X7HzPjQag=";
     });
-    date = "2023-01-16";
+    date = "2023-01-17";
   };
   wgcf = {
     pname = "wgcf";
