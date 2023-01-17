@@ -946,15 +946,15 @@
   };
   quibble = {
     pname = "quibble";
-    version = "dbb3f131afb04c84d141734d9a2ef67498677f72";
+    version = "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "quibble";
-      rev = "dbb3f131afb04c84d141734d9a2ef67498677f72";
+      rev = "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6";
       fetchSubmodules = false;
-      sha256 = "sha256-4qJJTOzTZU2s25l6unX3UBDJVC7h/V30PMrLt1UdHCk=";
+      sha256 = "sha256-76lMLevywoKWdVTxi9nwNmNA9Itvg0G1SMF7mQgnJ2Y=";
     });
-    date = "2023-01-12";
+    date = "2023-01-17";
   };
   rainfox = {
     pname = "rainfox";
