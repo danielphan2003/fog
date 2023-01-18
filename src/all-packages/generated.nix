@@ -190,13 +190,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "83bff365de3cb3aed1044af969d37bcb7c656c45";
+    version = "9de2c7bc31bbcdfdb00f9cfa62050c5c4aa75179";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "83bff365de3cb3aed1044af969d37bcb7c656c45";
+      rev = "9de2c7bc31bbcdfdb00f9cfa62050c5c4aa75179";
       fetchSubmodules = false;
-      sha256 = "sha256-Ig7B8XoTCFtb84JUZZV3egiCckdZuxXa2L3Nx9s2ZIQ=";
+      sha256 = "sha256-JZjxPefgxGvg0UdQ0T09a/uOMF4/yyzHNS2jS/TPeOs=";
     });
     date = "2023-01-17";
   };
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "abbe7e2edc4cbaef1c17a0489a8adc133635b315";
+    version = "ba5c29702ed37250c26c4173a87877d1ccd12961";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "abbe7e2edc4cbaef1c17a0489a8adc133635b315";
+      rev = "ba5c29702ed37250c26c4173a87877d1ccd12961";
       fetchSubmodules = false;
-      sha256 = "sha256-udoOF4STh87Oi90SQKGy2PUt9IyYHZkJPgluh1rxk7Q=";
+      sha256 = "sha256-NI3WDgl2hiA2zdeEBS3cvzV/d8iVuDmZlq2q5ER9k7Q=";
     });
-    date = "2023-01-17";
+    date = "2023-01-18";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a81492071ab924a95960551190ea77a4df15ebb0";
+    version = "5dcc77cf7bf8062f41dbeeedbe30856edc30d922";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a81492071ab924a95960551190ea77a4df15ebb0";
+      rev = "5dcc77cf7bf8062f41dbeeedbe30856edc30d922";
       fetchSubmodules = false;
       sha256 = "sha256-Ra/z9VCMVNLE/6hqzDUbF5PDnvAvMT5PbSjCtUirnt0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a81492071ab924a95960551190ea77a4df15ebb0/Cargo.lock;
+      lockFile = ./rustdesk-5dcc77cf7bf8062f41dbeeedbe30856edc30d922/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1035,7 +1035,7 @@
         "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-17";
+    date = "2023-01-18";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1132,15 +1132,15 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "2db05780c2317ae8e49b2887205364d7089d741d";
+    version = "6e7953438f348675e4432c92530b6210b2a15826";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "2db05780c2317ae8e49b2887205364d7089d741d";
+      rev = "6e7953438f348675e4432c92530b6210b2a15826";
       fetchSubmodules = false;
-      sha256 = "sha256-OsnzcbhWgH1RYzkkRq7ovtaRs66knjxbNCd0EAnNZGA=";
+      sha256 = "sha256-POnnFD4+G0SQPSSLwz+m8sKwZTvFm1g8LWCoRhEyo3c=";
     });
-    date = "2023-01-17";
+    date = "2023-01-18";
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
@@ -1275,13 +1275,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3eb986fe05836648cd09f91715b5fb33779a28c3";
+    version = "2df38b1febd4d8eb646eb63d5ea5ba899c9b5a1e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3eb986fe05836648cd09f91715b5fb33779a28c3";
+      rev = "2df38b1febd4d8eb646eb63d5ea5ba899c9b5a1e";
       fetchSubmodules = false;
-      sha256 = "sha256-UBicV8MBR2kfN/nkxLcx388WV37uHzpMvyNu2KzkfC0=";
+      sha256 = "sha256-bW4MQVp5m9Li6TDHvLC3ByZFixTr3nzKCoQiPI/aqZY=";
     });
     date = "2023-01-17";
   };
@@ -1316,15 +1316,15 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "8fed3f418afd21abbd258722303a04f306f71c4c";
+    version = "bd588d88b7cefc9d3bb6e414dcb79de3e3f67ff9";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "8fed3f418afd21abbd258722303a04f306f71c4c";
+      rev = "bd588d88b7cefc9d3bb6e414dcb79de3e3f67ff9";
       fetchSubmodules = false;
-      sha256 = "sha256-8HdLWdQLC2L/V/47zrz+MBw4vy2C3qEANf+vrG/Q+Dc=";
+      sha256 = "sha256-Vjg3vkWGdircp/0f7q5MOGWtHSXP0kTzCxp4AH6K1kw=";
     });
-    date = "2023-01-15";
+    date = "2023-01-18";
   };
   uniemoji = {
     pname = "uniemoji";
