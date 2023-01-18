@@ -1007,11 +1007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1a6MW9g4OPWXAZSih3YNkOlYBwgqaWrPoDUtkZo3KDU=",
+            "sha256": "sha256-+5fcxUiCMy45CdDuORU5Xo//f4iAAJEzt1gO+fKU43c=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-67-gc7f2b2d5-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-69-gad606ca2-1_all.deb"
         },
-        "version": "2.2-67-gc7f2b2d5"
+        "version": "2.2-69-gad606ca2"
     },
     "layout-machi": {
         "cargoLocks": null,

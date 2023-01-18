@@ -609,10 +609,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-67-gc7f2b2d5";
+    version = "2.2-69-gad606ca2";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-67-gc7f2b2d5-1_all.deb";
-      sha256 = "sha256-1a6MW9g4OPWXAZSih3YNkOlYBwgqaWrPoDUtkZo3KDU=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-69-gad606ca2-1_all.deb";
+      sha256 = "sha256-+5fcxUiCMy45CdDuORU5Xo//f4iAAJEzt1gO+fKU43c=";
     };
   };
   layout-machi = {
