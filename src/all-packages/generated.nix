@@ -101,24 +101,24 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "aad6f6350b77da0b97a0398642aac9e3f0063a28";
+    version = "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "aad6f6350b77da0b97a0398642aac9e3f0063a28";
+      rev = "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-42Dmjmtw2wRGFuyPqj9BStf2a26lzJyTWFU0z8VpQHk=";
+      sha256 = "sha256-A0i2nHraQ9/Pw6hT75AUe0h8O+7chedMGEKVacNFKCs=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-aad6f6350b77da0b97a0398642aac9e3f0063a28/Cargo.lock;
+      lockFile = ./asusctl-cb5856c4dcae2bb5b62b242b823c76d0abeb9e43/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
-    date = "2023-01-17";
+    date = "2023-01-18";
   };
   avizo = {
     pname = "avizo";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5dcc77cf7bf8062f41dbeeedbe30856edc30d922";
+    version = "91f1c5541862b2dd19fa8cd2f01eb62005c70fb6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5dcc77cf7bf8062f41dbeeedbe30856edc30d922";
+      rev = "91f1c5541862b2dd19fa8cd2f01eb62005c70fb6";
       fetchSubmodules = false;
-      sha256 = "sha256-Ra/z9VCMVNLE/6hqzDUbF5PDnvAvMT5PbSjCtUirnt0=";
+      sha256 = "sha256-G1K1KYDgvDrYVcaN6tiO2WqxvlRlJEG1hV9ZDIaO5bU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-5dcc77cf7bf8062f41dbeeedbe30856edc30d922/Cargo.lock;
+      lockFile = ./rustdesk-91f1c5541862b2dd19fa8cd2f01eb62005c70fb6/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1132,13 +1132,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "6e7953438f348675e4432c92530b6210b2a15826";
+    version = "bc45e487c241462f06b1330414c844bb27dca179";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "6e7953438f348675e4432c92530b6210b2a15826";
+      rev = "bc45e487c241462f06b1330414c844bb27dca179";
       fetchSubmodules = false;
-      sha256 = "sha256-POnnFD4+G0SQPSSLwz+m8sKwZTvFm1g8LWCoRhEyo3c=";
+      sha256 = "sha256-simZefJ9pykAYxgUuP+e13yEUz6MQYFZm/9gYAFl39M=";
     });
     date = "2023-01-18";
   };

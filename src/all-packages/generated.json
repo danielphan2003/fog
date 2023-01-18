@@ -169,7 +169,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-aad6f6350b77da0b97a0398642aac9e3f0063a28/Cargo.lock",
+                "./asusctl-cb5856c4dcae2bb5b62b242b823c76d0abeb9e43/Cargo.lock",
                 {
                     "ecolor-0.20.0": "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=",
                     "notify-rust-4.6.0": "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=",
@@ -177,7 +177,7 @@
                 }
             ]
         },
-        "date": "2023-01-17",
+        "date": "2023-01-18",
         "extract": null,
         "name": "asusctl",
         "passthru": null,
@@ -187,12 +187,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aad6f6350b77da0b97a0398642aac9e3f0063a28",
-            "sha256": "sha256-42Dmjmtw2wRGFuyPqj9BStf2a26lzJyTWFU0z8VpQHk=",
+            "rev": "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43",
+            "sha256": "sha256-A0i2nHraQ9/Pw6hT75AUe0h8O+7chedMGEKVacNFKCs=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "aad6f6350b77da0b97a0398642aac9e3f0063a28"
+        "version": "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-5dcc77cf7bf8062f41dbeeedbe30856edc30d922/Cargo.lock",
+                "./rustdesk-91f1c5541862b2dd19fa8cd2f01eb62005c70fb6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1699,11 +1699,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "5dcc77cf7bf8062f41dbeeedbe30856edc30d922",
-            "sha256": "sha256-Ra/z9VCMVNLE/6hqzDUbF5PDnvAvMT5PbSjCtUirnt0=",
+            "rev": "91f1c5541862b2dd19fa8cd2f01eb62005c70fb6",
+            "sha256": "sha256-G1K1KYDgvDrYVcaN6tiO2WqxvlRlJEG1hV9ZDIaO5bU=",
             "type": "github"
         },
-        "version": "5dcc77cf7bf8062f41dbeeedbe30856edc30d922"
+        "version": "91f1c5541862b2dd19fa8cd2f01eb62005c70fb6"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1872,11 +1872,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "6e7953438f348675e4432c92530b6210b2a15826",
-            "sha256": "sha256-POnnFD4+G0SQPSSLwz+m8sKwZTvFm1g8LWCoRhEyo3c=",
+            "rev": "bc45e487c241462f06b1330414c844bb27dca179",
+            "sha256": "sha256-simZefJ9pykAYxgUuP+e13yEUz6MQYFZm/9gYAFl39M=",
             "type": "github"
         },
-        "version": "6e7953438f348675e4432c92530b6210b2a15826"
+        "version": "bc45e487c241462f06b1330414c844bb27dca179"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
