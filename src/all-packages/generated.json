@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tuHV2qEEqS9yAhYU9Fl4J5jnKwZvskT42KDsCJkUu6o=",
+            "sha256": "sha256-zfvjGCkowLhN0TAgP/JyV8QBV/tk/iOl1zrBkYBJstQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-981-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-982-1_all.deb"
         },
-        "version": "1.0-981"
+        "version": "1.0-982"
     },
     "jitsi-meet": {
         "cargoLocks": null,
