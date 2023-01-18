@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "85d3a11030573ce4818dbf266ccf3b428ec0b6af";
+    version = "1eca7c9b07326cd116f12344ba77b220b1a8904c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "85d3a11030573ce4818dbf266ccf3b428ec0b6af";
+      rev = "1eca7c9b07326cd116f12344ba77b220b1a8904c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4Fb5aFyzLs9VDMDY7+UGAPl9jfge1vnBcGD5ijuOpO4=";
+      sha256 = "sha256-m08VDG9M+sLTEVNL5Ctvj3RW9MNEoN24a27qYZS3+Ro=";
     };
-    date = "2023-01-16";
+    date = "2023-01-18";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -1385,15 +1385,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "e9d3d01bef8f7021667fe3e4b3fb3c518f3e8b10";
+    version = "7ef2b4fc0a7abe46aceca7d66f93eaf68f7fc241";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "e9d3d01bef8f7021667fe3e4b3fb3c518f3e8b10";
+      rev = "7ef2b4fc0a7abe46aceca7d66f93eaf68f7fc241";
       fetchSubmodules = false;
-      sha256 = "sha256-zAvikf7DOZjQgIq9YGwcZXiHTQtSjfHYR6X7HzPjQag=";
+      sha256 = "sha256-ebijFCMwZXUhbCCoUheHBb3FzyhfGRnzTnMjqUVoxo0=";
     });
-    date = "2023-01-17";
+    date = "2023-01-18";
   };
   wgcf = {
     pname = "wgcf";
