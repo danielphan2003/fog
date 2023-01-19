@@ -178,15 +178,15 @@
   };
   bling = {
     pname = "bling";
-    version = "e6de047ced41051236a390b081105f598cb0ad8b";
+    version = "14196af7b5f2161242f522ddaa4c39c582a5c6d0";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "e6de047ced41051236a390b081105f598cb0ad8b";
+      rev = "14196af7b5f2161242f522ddaa4c39c582a5c6d0";
       fetchSubmodules = false;
-      sha256 = "sha256-ehFUAhLUEOfqB/2Dung7fBPTCvuXepZB6oVLUv+rkTk=";
+      sha256 = "sha256-qVl/6Fd4LjxNq5nomE3eaI00S3VrwiZbqHo8fglsOGw=";
     });
-    date = "2022-11-20";
+    date = "2023-01-19";
   };
   bottles = {
     pname = "bottles";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "655e2f1969de1047163bc8c927340675b056b2e5";
+    version = "d689a84581c02e7ec76a05eace0723f5ddd5b791";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "655e2f1969de1047163bc8c927340675b056b2e5";
+      rev = "d689a84581c02e7ec76a05eace0723f5ddd5b791";
       fetchSubmodules = false;
-      sha256 = "sha256-qEouLtaYLZiFE67ZeXjrLZEmSvRC1CR+4Bj5r9M9LNc=";
+      sha256 = "sha256-u6SlRT79ee71JZW2+Sll3xtWWOO+GZYj+5xTKVVRHQM=";
     });
     date = "2023-01-19";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f54d72e900bbc32197f612b761a50f40b0220ed8";
+    version = "7c834a6001011f401595a9d49c006344c4bcff40";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f54d72e900bbc32197f612b761a50f40b0220ed8";
+      rev = "7c834a6001011f401595a9d49c006344c4bcff40";
       fetchSubmodules = false;
-      sha256 = "sha256-FpD8y3Phe5RV6KK+kFvUH8J8MWFCH3BLnoXe2L5B9WI=";
+      sha256 = "sha256-1j4vMYq0u7F/PfISAkl6or3SK5aRIxxQy8NTO4/KTOI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f54d72e900bbc32197f612b761a50f40b0220ed8/Cargo.lock;
+      lockFile = ./rustdesk-7c834a6001011f401595a9d49c006344c4bcff40/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
