@@ -190,15 +190,15 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8650f993d484647205ebb68b1b692df13dcf353f";
+    version = "60d6e1e28b9c6fd302be376af2a6b646d320ae38";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8650f993d484647205ebb68b1b692df13dcf353f";
+      rev = "60d6e1e28b9c6fd302be376af2a6b646d320ae38";
       fetchSubmodules = false;
-      sha256 = "sha256-lYXKPtjVCgHp2Wa1t1AVvX9Ng9YS37x5J88xPEe3N1k=";
+      sha256 = "sha256-r73zK1W+uduGFihdyAGsiy3pdieFo6ia/16snyBYKuA=";
     });
-    date = "2023-01-18";
+    date = "2023-01-19";
   };
   caddy = {
     pname = "caddy";
@@ -282,24 +282,24 @@
   };
   conduit = {
     pname = "conduit";
-    version = "815db0d962efa3f3a0aac268ad777f5217cb552e";
+    version = "1e773733329c810401bc2fd68b0c40ac21b46140";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "815db0d962efa3f3a0aac268ad777f5217cb552e";
+      rev = "1e773733329c810401bc2fd68b0c40ac21b46140";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-w3ZxT9qfX8aHNzUE2mWs2/i47gbzXNNPO8Ri0DuYMD0=";
+      sha256 = "sha256-ve2ikYELlO3fUNlUZAhciyotz4D/C5/xoT9/gqrzyXk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-815db0d962efa3f3a0aac268ad777f5217cb552e/Cargo.lock;
+      lockFile = ./conduit-1e773733329c810401bc2fd68b0c40ac21b46140/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ztobLdOXSGyK1YcPMMIycO3ZmnjxG5mLkHltf0Fbs8s=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
-    date = "2023-01-14";
+    date = "2023-01-19";
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
