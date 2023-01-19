@@ -712,10 +712,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "109.0.1518.52";
+    version = "109.0.1518.61";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.52-1_amd64.deb";
-      sha256 = "sha256-G9ecUa4vVtSjztO3jhHqvVigy5oOTL03qW4crCU9k/g=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.61-1_amd64.deb";
+      sha256 = "sha256-Xh0SpghSIG47BZXXl+GK5ZmXxUSyWZsP0h3/PIP2mZQ=";
     };
   };
   minecraft-wayland = {
@@ -1245,15 +1245,15 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "cd07dd1082a2fc1093f1e6f2541811e446f4d114";
+    version = "a7691b86dabe5241c7292c7b8d0551d579ba1848";
     src = fetchFromGitHub ({
       owner = "jirutka";
       repo = "swaylock-effects";
-      rev = "cd07dd1082a2fc1093f1e6f2541811e446f4d114";
+      rev = "a7691b86dabe5241c7292c7b8d0551d579ba1848";
       fetchSubmodules = false;
-      sha256 = "sha256-aK/PvFjZoF8R0llXO+P650vHYLSoGS6dYSk5Pw8DBNY=";
+      sha256 = "sha256-MKmWVYssO9HAcP5uqwpy9kDa6/kfZyV2NI7ibozt7Ug=";
     });
-    date = "2023-01-11";
+    date = "2023-01-19";
   };
   swhkd = {
     pname = "swhkd";
@@ -1275,13 +1275,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c129bf1da117b514ec0c4d173acf83ef3660dc32";
+    version = "6edf357b96b28ee1be659a70232c0135b2ffedfd";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c129bf1da117b514ec0c4d173acf83ef3660dc32";
+      rev = "6edf357b96b28ee1be659a70232c0135b2ffedfd";
       fetchSubmodules = false;
-      sha256 = "sha256-tInlaQw5ZLwq7OzooG6mAlLOO/ya9uUpKNkQDw0YByY=";
+      sha256 = "sha256-oAPptIHBFAE4xKGkyWydHy29wxxP3u/n0nCVECtl5AI=";
     });
     date = "2023-01-19";
   };
