@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-18",
+        "date": "2023-01-19",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "ba5c29702ed37250c26c4173a87877d1ccd12961",
-            "sha256": "sha256-NI3WDgl2hiA2zdeEBS3cvzV/d8iVuDmZlq2q5ER9k7Q=",
+            "rev": "655e2f1969de1047163bc8c927340675b056b2e5",
+            "sha256": "sha256-qEouLtaYLZiFE67ZeXjrLZEmSvRC1CR+4Bj5r9M9LNc=",
             "type": "github"
         },
-        "version": "ba5c29702ed37250c26c4173a87877d1ccd12961"
+        "version": "655e2f1969de1047163bc8c927340675b056b2e5"
     },
     "rofi-wayland": {
         "cargoLocks": null,
