@@ -190,13 +190,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "13cffe2c0f71903257661aa4bf47632d6b980a06";
+    version = "86f098cadcb37725cd2e57807663b5e21e22e220";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "13cffe2c0f71903257661aa4bf47632d6b980a06";
+      rev = "86f098cadcb37725cd2e57807663b5e21e22e220";
       fetchSubmodules = false;
-      sha256 = "sha256-5/IIhs4yisjoLXws7dIuS+G2fF4/dIRVYkSwBAnPfF4=";
+      sha256 = "sha256-aRPcSTSPWT/LYbyEtzAjcGM1SMgVHo0xtmxEd5Y1cro=";
     });
     date = "2023-01-20";
   };
@@ -451,14 +451,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "ce889e2c231369643b29bf16155973e8d25d1a9a";
+    version = "972df73dd9caff79b73d3d71586deebe487695b3";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "ce889e2c231369643b29bf16155973e8d25d1a9a";
+      rev = "972df73dd9caff79b73d3d71586deebe487695b3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-0UF9vgtc4BPeW86yJK+beczkSsRmxie/l2a6EAr0r5w=";
+      sha256 = "sha256-/Iuo46KJWk98eM2nlIC2YM3yhwX9VdmMD8ovVM3oB00=";
     };
     date = "2023-01-20";
   };
@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "3436486575043a942d4733a019870713efbabcac";
+    version = "d5913a23acd36eeaa46a99380afe8b2a78492f2e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "3436486575043a942d4733a019870713efbabcac";
+      rev = "d5913a23acd36eeaa46a99380afe8b2a78492f2e";
       fetchSubmodules = false;
-      sha256 = "sha256-mUYrq7W32o+hwb69m8C24HJcIlN/+P34KOq2/QUVdUA=";
+      sha256 = "sha256-cKEi71FVCPKcjU48YD9Hpw+sBR6UMltCQiDo6lJp554=";
     });
     date = "2023-01-20";
   };
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "321a215c47e76af4c16c992546a1247e14a53014";
+    version = "4cf17c538b976f139dc5edcb97a1467312984deb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "321a215c47e76af4c16c992546a1247e14a53014";
+      rev = "4cf17c538b976f139dc5edcb97a1467312984deb";
       fetchSubmodules = false;
-      sha256 = "sha256-3B705Did6PtJbrzjJJV6xPdn8miEZPBD6sAnS+sGBR4=";
+      sha256 = "sha256-rhU34MSWR/RAAxDmM5Qt7b07ZzC4dcqqey3SS9IvO1M=";
     });
     date = "2023-01-20";
   };
