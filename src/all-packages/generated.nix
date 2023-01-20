@@ -190,13 +190,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f79c2672436b8b11d7e01ec84ac1ed6114e8149d";
+    version = "13cffe2c0f71903257661aa4bf47632d6b980a06";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f79c2672436b8b11d7e01ec84ac1ed6114e8149d";
+      rev = "13cffe2c0f71903257661aa4bf47632d6b980a06";
       fetchSubmodules = false;
-      sha256 = "sha256-c88P5C5crUF7d5XfVMgFB3pIAUUL7TPHEJJtRwvz840=";
+      sha256 = "sha256-5/IIhs4yisjoLXws7dIuS+G2fF4/dIRVYkSwBAnPfF4=";
     });
     date = "2023-01-20";
   };
@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "1eca7c9b07326cd116f12344ba77b220b1a8904c";
+    version = "ce889e2c231369643b29bf16155973e8d25d1a9a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "1eca7c9b07326cd116f12344ba77b220b1a8904c";
+      rev = "ce889e2c231369643b29bf16155973e8d25d1a9a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-m08VDG9M+sLTEVNL5Ctvj3RW9MNEoN24a27qYZS3+Ro=";
+      sha256 = "sha256-0UF9vgtc4BPeW86yJK+beczkSsRmxie/l2a6EAr0r5w=";
     };
-    date = "2023-01-18";
+    date = "2023-01-20";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5112056fdbda989191310364444f328240bbf6f1";
+    version = "3436486575043a942d4733a019870713efbabcac";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "5112056fdbda989191310364444f328240bbf6f1";
+      rev = "3436486575043a942d4733a019870713efbabcac";
       fetchSubmodules = false;
-      sha256 = "sha256-CfP6ZYjxLeC1Q6W4f+RCd2sokIX8RnyTA8wYzYmx9XE=";
+      sha256 = "sha256-mUYrq7W32o+hwb69m8C24HJcIlN/+P34KOq2/QUVdUA=";
     });
-    date = "2023-01-19";
+    date = "2023-01-20";
   };
   ibus = {
     pname = "ibus";
@@ -740,10 +740,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.49.1";
+    version = "0.49.2";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.1.tar.gz";
-      sha256 = "sha256-iyyAJAqCnTl+1csG/f3CgpOno8HGSiOnWIbf+tF9Hu4=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.2.tar.gz";
+      sha256 = "sha256-57RKgch8MKKTT+71UCtasn5ZE8G765keTxnK1fvNprI=";
     };
   };
   nix-zsh-completions = {
@@ -879,16 +879,16 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "9d93d34b65363ec6bb32b6345ec9ed685e5f9602";
+    version = "faccbdc2eb346ee495d4bedb103e3645352c78df";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "9d93d34b65363ec6bb32b6345ec9ed685e5f9602";
+      rev = "faccbdc2eb346ee495d4bedb103e3645352c78df";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UkgCNob4nazFO8xXyosV+11Sj4yveYBfgh7aw+/6Rlg=";
+      sha256 = "sha256-WFIEErV6bF7eG6n4LotXxboiQozg4EI74v8Cnz4o3Do=";
     };
-    date = "2022-12-05";
+    date = "2023-01-20";
   };
   pure = {
     pname = "pure";

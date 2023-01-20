@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "f79c2672436b8b11d7e01ec84ac1ed6114e8149d",
-            "sha256": "sha256-c88P5C5crUF7d5XfVMgFB3pIAUUL7TPHEJJtRwvz840=",
+            "rev": "13cffe2c0f71903257661aa4bf47632d6b980a06",
+            "sha256": "sha256-5/IIhs4yisjoLXws7dIuS+G2fF4/dIRVYkSwBAnPfF4=",
             "type": "github"
         },
-        "version": "f79c2672436b8b11d7e01ec84ac1ed6114e8149d"
+        "version": "13cffe2c0f71903257661aa4bf47632d6b980a06"
     },
     "caddy": {
         "cargoLocks": null,
@@ -736,7 +736,7 @@
     },
     "fluffychat": {
         "cargoLocks": null,
-        "date": "2023-01-18",
+        "date": "2023-01-20",
         "extract": null,
         "name": "fluffychat",
         "passthru": null,
@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1eca7c9b07326cd116f12344ba77b220b1a8904c",
-            "sha256": "sha256-m08VDG9M+sLTEVNL5Ctvj3RW9MNEoN24a27qYZS3+Ro=",
+            "rev": "ce889e2c231369643b29bf16155973e8d25d1a9a",
+            "sha256": "sha256-0UF9vgtc4BPeW86yJK+beczkSsRmxie/l2a6EAr0r5w=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "1eca7c9b07326cd116f12344ba77b220b1a8904c"
+        "version": "ce889e2c231369643b29bf16155973e8d25d1a9a"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-19",
+        "date": "2023-01-20",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "5112056fdbda989191310364444f328240bbf6f1",
-            "sha256": "sha256-CfP6ZYjxLeC1Q6W4f+RCd2sokIX8RnyTA8wYzYmx9XE=",
+            "rev": "3436486575043a942d4733a019870713efbabcac",
+            "sha256": "sha256-mUYrq7W32o+hwb69m8C24HJcIlN/+P34KOq2/QUVdUA=",
             "type": "github"
         },
-        "version": "5112056fdbda989191310364444f328240bbf6f1"
+        "version": "3436486575043a942d4733a019870713efbabcac"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1237,11 +1237,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iyyAJAqCnTl+1csG/f3CgpOno8HGSiOnWIbf+tF9Hu4=",
+            "sha256": "sha256-57RKgch8MKKTT+71UCtasn5ZE8G765keTxnK1fvNprI=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.2.tar.gz"
         },
-        "version": "0.49.1"
+        "version": "0.49.2"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -1451,7 +1451,7 @@
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
-        "date": "2022-12-05",
+        "date": "2023-01-20",
         "extract": null,
         "name": "pmbootstrap-test",
         "passthru": null,
@@ -1461,12 +1461,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9d93d34b65363ec6bb32b6345ec9ed685e5f9602",
-            "sha256": "sha256-UkgCNob4nazFO8xXyosV+11Sj4yveYBfgh7aw+/6Rlg=",
+            "rev": "faccbdc2eb346ee495d4bedb103e3645352c78df",
+            "sha256": "sha256-WFIEErV6bF7eG6n4LotXxboiQozg4EI74v8Cnz4o3Do=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "9d93d34b65363ec6bb32b6345ec9ed685e5f9602"
+        "version": "faccbdc2eb346ee495d4bedb103e3645352c78df"
     },
     "pure": {
         "cargoLocks": null,
