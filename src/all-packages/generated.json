@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CPyMcJlQxepHl8I5R0oy8jHys3PZzOkA4WxZ1lqgrv0=",
+            "sha256": "sha256-nKLzxiB6L89GmoDmrpjuOcO7dveEPMnoCVdgU9dNpbc=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6926.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6927.tar.bz2"
         },
-        "version": "1.0.6926"
+        "version": "1.0.6927"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rdWEzsX4b6MhalvU/2wtqAJ/yQf8HgxuaTwa86++SDE=",
+            "sha256": "sha256-ufGeckUuGo3BrnjTwzGms2+HvyYyi2zS1H31IIt0Ouo=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6926-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6927-1_all.deb"
         },
-        "version": "1.0.6926"
+        "version": "1.0.6927"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2283,11 +2283,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "91b3e7047fea6e5b1b1fd2322bc1c663440afe96",
-            "sha256": "sha256-WiQ+Opwi1NeW+FFqYUsNclFvfHPLIt7/OrZPB5eUgPE=",
+            "rev": "35190fd1b2d2c48c02eaac6313661de5cc6a55cf",
+            "sha256": "sha256-8wHa2gEI8DYjE1pbHn8S3TXqyALnsWc7zt17wE2SJJ4=",
             "type": "github"
         },
-        "version": "91b3e7047fea6e5b1b1fd2322bc1c663440afe96"
+        "version": "35190fd1b2d2c48c02eaac6313661de5cc6a55cf"
     },
     "wgcf": {
         "cargoLocks": null,

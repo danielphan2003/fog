@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6926";
+    version = "1.0.6927";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6926.tar.bz2";
-      sha256 = "sha256-CPyMcJlQxepHl8I5R0oy8jHys3PZzOkA4WxZ1lqgrv0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6927.tar.bz2";
+      sha256 = "sha256-nKLzxiB6L89GmoDmrpjuOcO7dveEPMnoCVdgU9dNpbc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6926";
+    version = "1.0.6927";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6926-1_all.deb";
-      sha256 = "sha256-rdWEzsX4b6MhalvU/2wtqAJ/yQf8HgxuaTwa86++SDE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6927-1_all.deb";
+      sha256 = "sha256-ufGeckUuGo3BrnjTwzGms2+HvyYyi2zS1H31IIt0Ouo=";
     };
   };
   jitsi-videobridge2 = {
@@ -1385,13 +1385,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "91b3e7047fea6e5b1b1fd2322bc1c663440afe96";
+    version = "35190fd1b2d2c48c02eaac6313661de5cc6a55cf";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "91b3e7047fea6e5b1b1fd2322bc1c663440afe96";
+      rev = "35190fd1b2d2c48c02eaac6313661de5cc6a55cf";
       fetchSubmodules = false;
-      sha256 = "sha256-WiQ+Opwi1NeW+FFqYUsNclFvfHPLIt7/OrZPB5eUgPE=";
+      sha256 = "sha256-8wHa2gEI8DYjE1pbHn8S3TXqyALnsWc7zt17wE2SJJ4=";
     });
     date = "2023-01-20";
   };
