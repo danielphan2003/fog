@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d345804cd51aa5757f93dfcf7ff32f209be3f27b";
+    version = "60b880d9312574c3115d973fd532f2e15d1eafff";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d345804cd51aa5757f93dfcf7ff32f209be3f27b";
+      rev = "60b880d9312574c3115d973fd532f2e15d1eafff";
       fetchSubmodules = false;
-      sha256 = "sha256-2X86U85xMSoJTInrSJzsjgta1EstE2RvF/cMWcOBafc=";
+      sha256 = "sha256-IVl9wohLWRDJnC++l+BjhBU2XLpgCiFQyffeKKIWy8k=";
     });
     date = "2023-01-20";
   };
@@ -704,10 +704,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "110.0.1587.15";
+    version = "111.0.1619.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1587.15-1_amd64.deb";
-      sha256 = "sha256-SvOyHVWaNJhn9TDGYAV38YtJf+m66KvPMDoKBlVmb34=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1619.2-1_amd64.deb";
+      sha256 = "sha256-a5YKJlyD+QBXuj9LxJcnZR28U39TsIewVo0mUIVz+/Y=";
     };
   };
   microsoft-edge-stable = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3d654cbed4d46b91af1ceb7f3663ded62e990bfd";
+    version = "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3d654cbed4d46b91af1ceb7f3663ded62e990bfd";
+      rev = "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b";
       fetchSubmodules = false;
-      sha256 = "sha256-eJm1FWd7Dv15mUFAluEaTtxHYo3bdDN/Sg2DEZFjTnU=";
+      sha256 = "sha256-Gl/8L0mUfHKipOHRLoZ/WVI4fvJkituOyKzRcHQryG4=";
     });
     date = "2023-01-20";
   };
@@ -1275,13 +1275,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6793685bba9b6295aa1a6a862047e0c5a49f7858";
+    version = "4471e403aaee9981f4e7f091c7e29956a9aa17bf";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6793685bba9b6295aa1a6a862047e0c5a49f7858";
+      rev = "4471e403aaee9981f4e7f091c7e29956a9aa17bf";
       fetchSubmodules = false;
-      sha256 = "sha256-6tT+OYmtH/HZb/bOtj7aknv5oEGf+t6Y2uI7U+HKWAg=";
+      sha256 = "sha256-ln5XkQMY0KN6h7uc0puJ37NsqCGI4Oa4tD8H3OCdpeI=";
     });
     date = "2023-01-20";
   };

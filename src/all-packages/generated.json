@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "d345804cd51aa5757f93dfcf7ff32f209be3f27b",
-            "sha256": "sha256-2X86U85xMSoJTInrSJzsjgta1EstE2RvF/cMWcOBafc=",
+            "rev": "60b880d9312574c3115d973fd532f2e15d1eafff",
+            "sha256": "sha256-IVl9wohLWRDJnC++l+BjhBU2XLpgCiFQyffeKKIWy8k=",
             "type": "github"
         },
-        "version": "d345804cd51aa5757f93dfcf7ff32f209be3f27b"
+        "version": "60b880d9312574c3115d973fd532f2e15d1eafff"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1172,11 +1172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SvOyHVWaNJhn9TDGYAV38YtJf+m66KvPMDoKBlVmb34=",
+            "sha256": "sha256-a5YKJlyD+QBXuj9LxJcnZR28U39TsIewVo0mUIVz+/Y=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_110.0.1587.15-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1619.2-1_amd64.deb"
         },
-        "version": "110.0.1587.15"
+        "version": "111.0.1619.2"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3d654cbed4d46b91af1ceb7f3663ded62e990bfd",
-            "sha256": "sha256-eJm1FWd7Dv15mUFAluEaTtxHYo3bdDN/Sg2DEZFjTnU=",
+            "rev": "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b",
+            "sha256": "sha256-Gl/8L0mUfHKipOHRLoZ/WVI4fvJkituOyKzRcHQryG4=",
             "type": "github"
         },
-        "version": "3d654cbed4d46b91af1ceb7f3663ded62e990bfd"
+        "version": "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2096,11 +2096,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "6793685bba9b6295aa1a6a862047e0c5a49f7858",
-            "sha256": "sha256-6tT+OYmtH/HZb/bOtj7aknv5oEGf+t6Y2uI7U+HKWAg=",
+            "rev": "4471e403aaee9981f4e7f091c7e29956a9aa17bf",
+            "sha256": "sha256-ln5XkQMY0KN6h7uc0puJ37NsqCGI4Oa4tD8H3OCdpeI=",
             "type": "github"
         },
-        "version": "6793685bba9b6295aa1a6a862047e0c5a49f7858"
+        "version": "4471e403aaee9981f4e7f091c7e29956a9aa17bf"
     },
     "tailscale-systray": {
         "cargoLocks": null,
