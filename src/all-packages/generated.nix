@@ -224,15 +224,15 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c38a040e85a7d277299acaab39bdad171bc45675";
+    version = "8d6870fd068aa3ea472a46f34d219f41703e2ddb";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c38a040e85a7d277299acaab39bdad171bc45675";
+      rev = "8d6870fd068aa3ea472a46f34d219f41703e2ddb";
       fetchSubmodules = false;
-      sha256 = "sha256-wNLw6YmCM1DCHjyM7YNRZJWTXYU8dIb17tQCBdEeV/g=";
+      sha256 = "sha256-Kl0v88qCG265FGilDbnrZZBZnp6kxkJJJZIZNZRB1SE=";
     });
-    date = "2023-01-18";
+    date = "2023-01-21";
   };
   cinny = {
     pname = "cinny";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3b129e60987edd0d1021c121505e6e1fce6b0057";
+    version = "becf623bf09a1d02f4f96c6e7c7b670ca64d5304";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3b129e60987edd0d1021c121505e6e1fce6b0057";
+      rev = "becf623bf09a1d02f4f96c6e7c7b670ca64d5304";
       fetchSubmodules = false;
-      sha256 = "sha256-BJ7nLoEcRTBag6sz4NgxxUU7uCyJ72XOBNeI/nj9LoA=";
+      sha256 = "sha256-fhi8sNynmlCEFJ1gAp0523khE+yGWXpkptuV6ToWnZI=";
     });
     date = "2023-01-21";
   };
@@ -1315,15 +1315,15 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "bd588d88b7cefc9d3bb6e414dcb79de3e3f67ff9";
+    version = "47e72fc4c0a689a85a9f3186b4b4222aa45e54d8";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "bd588d88b7cefc9d3bb6e414dcb79de3e3f67ff9";
+      rev = "47e72fc4c0a689a85a9f3186b4b4222aa45e54d8";
       fetchSubmodules = false;
-      sha256 = "sha256-Vjg3vkWGdircp/0f7q5MOGWtHSXP0kTzCxp4AH6K1kw=";
+      sha256 = "sha256-exJczwtDSnTm6LVFdcN5tw3WWrpE/MoWra0+AeOS6H8=";
     });
-    date = "2023-01-18";
+    date = "2023-01-21";
   };
   uniemoji = {
     pname = "uniemoji";
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "35190fd1b2d2c48c02eaac6313661de5cc6a55cf";
+    version = "2393c7a530a5d87d04a824a0db036a48365b9063";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "35190fd1b2d2c48c02eaac6313661de5cc6a55cf";
+      rev = "2393c7a530a5d87d04a824a0db036a48365b9063";
       fetchSubmodules = false;
-      sha256 = "sha256-8wHa2gEI8DYjE1pbHn8S3TXqyALnsWc7zt17wE2SJJ4=";
+      sha256 = "sha256-5w2IWPwfa8iEgF5hqDE7WBOIyOuF1TXbGniet5T+lPM=";
     });
-    date = "2023-01-20";
+    date = "2023-01-21";
   };
   wgcf = {
     pname = "wgcf";
