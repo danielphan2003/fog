@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c3fe980a1df742f6beb148e9b3a04d54137f0eb3";
+    version = "01c3684b1070b8e0998c5ce17cc7bda05c7e836d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c3fe980a1df742f6beb148e9b3a04d54137f0eb3";
+      rev = "01c3684b1070b8e0998c5ce17cc7bda05c7e836d";
       fetchSubmodules = false;
-      sha256 = "sha256-0KmkvU2kD2MIEJ8yMtwsSBphjkZoYDxllrLz7QvhTbQ=";
+      sha256 = "sha256-ahPgLUbJvjEDhTiE8g8iyxT1SllRI04ankBjcYNdx1M=";
     });
     date = "2023-01-21";
   };
@@ -1155,15 +1155,15 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "e552c2c3a55978b79b1878b3274fa74cfe7a728b";
+    version = "0b5b78b4b32404d2ae346606a14c3b6565ec6081";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "e552c2c3a55978b79b1878b3274fa74cfe7a728b";
+      rev = "0b5b78b4b32404d2ae346606a14c3b6565ec6081";
       fetchSubmodules = false;
-      sha256 = "sha256-6+gOaj6AJ44WtBiF5XATOsvoSr6x3ZsUTdr9FNiYRoQ=";
+      sha256 = "sha256-gr7mGI86tmaUK7wj+epUxEGM5ZRuEUaTY/ySvuNg5VU=";
     });
-    date = "2022-12-23";
+    date = "2023-01-22";
   };
   spotify = {
     pname = "spotify";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d5100e09102727228dce0e62a39cae853161ff40";
+    version = "fd92fbd69efb40747aee7902bc7ca96222d7e5d3";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d5100e09102727228dce0e62a39cae853161ff40";
+      rev = "fd92fbd69efb40747aee7902bc7ca96222d7e5d3";
       fetchSubmodules = false;
-      sha256 = "sha256-5+rEhqhLjKeezDWQkq3ZuCe+leKQluDks/+fYZ9z3QM=";
+      sha256 = "sha256-dq5AdoxYOLpK9vI9rKGRRO/yA/NP4W/nkhCyBjvYC3o=";
     });
     date = "2023-01-21";
   };
