@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-20",
+        "date": "2023-01-21",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "434719611d4295f7fab72f969d40ac32cbd7865a",
-            "sha256": "sha256-2YSvxxcnEcldS6UHCGAIQ4D2WIF7MM75Uuf5AhwkD+k=",
+            "rev": "e8113946038f59be9b6762ac428c9f648cdd38c5",
+            "sha256": "sha256-qNbiugXVGrhCXnkToNs7jiCSb3m3pW3SBLMiYmiPOKk=",
             "type": "github"
         },
-        "version": "434719611d4295f7fab72f969d40ac32cbd7865a"
+        "version": "e8113946038f59be9b6762ac428c9f648cdd38c5"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-20",
+        "date": "2023-01-21",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b",
-            "sha256": "sha256-Gl/8L0mUfHKipOHRLoZ/WVI4fvJkituOyKzRcHQryG4=",
+            "rev": "f42119497438f4e135b6afcf80ef781fd254312e",
+            "sha256": "sha256-ziek4vd319sfO+8QMPwnZ0DdmBNYx3N281OHdqA4vPE=",
             "type": "github"
         },
-        "version": "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b"
+        "version": "f42119497438f4e135b6afcf80ef781fd254312e"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,12 +1666,11 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-30278d12d3e057f56a61a3a9b400c68b6054146e/Cargo.lock",
+                "./rustdesk-5e799c241c410cbd759d2404135b281d434f243a/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
-                    "flutter_rust_bridge-1.32.0": "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=",
                     "hwcodec-0.1.0": "sha256-d/u20YHGteK6ONHgIL+xrJ8UVUvwiK/DZ1F3MzRc8SU=",
                     "impersonate_system-0.1.0": "sha256-qbaTw9gxMKDjX5pKdUrKlmIxCxWwb99YuWPDvD2A3kY=",
                     "magnum-opus-0.4.0": "sha256-NWYobxN2X18f0l8GmLB9dULm+GZD04mI03EvRy05K10=",
@@ -1687,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-01-20",
+        "date": "2023-01-21",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1699,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "30278d12d3e057f56a61a3a9b400c68b6054146e",
-            "sha256": "sha256-8XxRFEa++J8LimK57rcLN1fQENVay/9rvjb3ig1iWT0=",
+            "rev": "5e799c241c410cbd759d2404135b281d434f243a",
+            "sha256": "sha256-ME5UZ0eASrWh2Mlu9O32YGRa2MYkoS/Q3C/5nZNYFcQ=",
             "type": "github"
         },
-        "version": "30278d12d3e057f56a61a3a9b400c68b6054146e"
+        "version": "5e799c241c410cbd759d2404135b281d434f243a"
     },
     "rustdesk-server": {
         "cargoLocks": {

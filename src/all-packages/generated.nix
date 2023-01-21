@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "434719611d4295f7fab72f969d40ac32cbd7865a";
+    version = "e8113946038f59be9b6762ac428c9f648cdd38c5";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "434719611d4295f7fab72f969d40ac32cbd7865a";
+      rev = "e8113946038f59be9b6762ac428c9f648cdd38c5";
       fetchSubmodules = false;
-      sha256 = "sha256-2YSvxxcnEcldS6UHCGAIQ4D2WIF7MM75Uuf5AhwkD+k=";
+      sha256 = "sha256-qNbiugXVGrhCXnkToNs7jiCSb3m3pW3SBLMiYmiPOKk=";
     });
-    date = "2023-01-20";
+    date = "2023-01-21";
   };
   ibus = {
     pname = "ibus";
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b";
+    version = "f42119497438f4e135b6afcf80ef781fd254312e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3abd6f12f3aefcb7a95fad6097e9b2a08d64926b";
+      rev = "f42119497438f4e135b6afcf80ef781fd254312e";
       fetchSubmodules = false;
-      sha256 = "sha256-Gl/8L0mUfHKipOHRLoZ/WVI4fvJkituOyKzRcHQryG4=";
+      sha256 = "sha256-ziek4vd319sfO+8QMPwnZ0DdmBNYx3N281OHdqA4vPE=";
     });
-    date = "2023-01-20";
+    date = "2023-01-21";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "30278d12d3e057f56a61a3a9b400c68b6054146e";
+    version = "5e799c241c410cbd759d2404135b281d434f243a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "30278d12d3e057f56a61a3a9b400c68b6054146e";
+      rev = "5e799c241c410cbd759d2404135b281d434f243a";
       fetchSubmodules = false;
-      sha256 = "sha256-8XxRFEa++J8LimK57rcLN1fQENVay/9rvjb3ig1iWT0=";
+      sha256 = "sha256-ME5UZ0eASrWh2Mlu9O32YGRa2MYkoS/Q3C/5nZNYFcQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-30278d12d3e057f56a61a3a9b400c68b6054146e/Cargo.lock;
+      lockFile = ./rustdesk-5e799c241c410cbd759d2404135b281d434f243a/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1032,10 +1032,9 @@
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-NWYobxN2X18f0l8GmLB9dULm+GZD04mI03EvRy05K10=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
-        "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
       };
     };
-    date = "2023-01-20";
+    date = "2023-01-21";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
