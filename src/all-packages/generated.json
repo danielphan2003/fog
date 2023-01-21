@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "0bb66aa328e7914a90c248826797d077dd56af90",
-            "sha256": "sha256-5wosnJkoEcc/XUX6NQPt30v25uA8PCSblNbhA448q1M=",
+            "rev": "6954b8ad74f6ea68a5545fbe7d169f9f447760fb",
+            "sha256": "sha256-TCD+ZrYfHmP5en8egQB4IyzY5zacnQRtU0m2+e5Him4=",
             "type": "github"
         },
-        "version": "0bb66aa328e7914a90c248826797d077dd56af90"
+        "version": "6954b8ad74f6ea68a5545fbe7d169f9f447760fb"
     },
     "caddy": {
         "cargoLocks": null,
@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "8d6870fd068aa3ea472a46f34d219f41703e2ddb",
-            "sha256": "sha256-Kl0v88qCG265FGilDbnrZZBZnp6kxkJJJZIZNZRB1SE=",
+            "rev": "d6d7511699f6a35e3246918023af5ba3bc2cbc67",
+            "sha256": "sha256-ZdoiNzwPnHocGLmc2XSWQlpr42GGBdm1jwXYCnxza5I=",
             "type": "github"
         },
-        "version": "8d6870fd068aa3ea472a46f34d219f41703e2ddb"
+        "version": "d6d7511699f6a35e3246918023af5ba3bc2cbc67"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "becf623bf09a1d02f4f96c6e7c7b670ca64d5304",
-            "sha256": "sha256-fhi8sNynmlCEFJ1gAp0523khE+yGWXpkptuV6ToWnZI=",
+            "rev": "c3fe980a1df742f6beb148e9b3a04d54137f0eb3",
+            "sha256": "sha256-0KmkvU2kD2MIEJ8yMtwsSBphjkZoYDxllrLz7QvhTbQ=",
             "type": "github"
         },
-        "version": "becf623bf09a1d02f4f96c6e7c7b670ca64d5304"
+        "version": "c3fe980a1df742f6beb148e9b3a04d54137f0eb3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-20",
+        "date": "2023-01-21",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ba5aa2c48655f1388ee2779200da10434bfd774b",
-            "sha256": "sha256-kVCyWrvT5/zc+FtFpQwHaCE4W544yzswrrs2Q/d9XMo=",
+            "rev": "d5100e09102727228dce0e62a39cae853161ff40",
+            "sha256": "sha256-5+rEhqhLjKeezDWQkq3ZuCe+leKQluDks/+fYZ9z3QM=",
             "type": "github"
         },
-        "version": "ba5aa2c48655f1388ee2779200da10434bfd774b"
+        "version": "d5100e09102727228dce0e62a39cae853161ff40"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2165,11 +2165,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "47e72fc4c0a689a85a9f3186b4b4222aa45e54d8",
-            "sha256": "sha256-exJczwtDSnTm6LVFdcN5tw3WWrpE/MoWra0+AeOS6H8=",
+            "rev": "91cf95f0c5a8b7be2b5eb3f1b104a4a0ef27756a",
+            "sha256": "sha256-4WMUtGF+cUA5nwk145Q+ZOCn0OV1/5Jye++Fk3iyKZc=",
             "type": "github"
         },
-        "version": "47e72fc4c0a689a85a9f3186b4b4222aa45e54d8"
+        "version": "91cf95f0c5a8b7be2b5eb3f1b104a4a0ef27756a"
     },
     "uniemoji": {
         "cargoLocks": null,
