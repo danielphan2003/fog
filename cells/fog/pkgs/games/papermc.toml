@@ -50,11 +50,6 @@ src.cmd = " fog papermc-updater 1.13.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.1/builds/$ver/downloads/paper-1.13.1-$ver.jar"
 passthru = { mcVer = "1.13.1" }
 
-[papermc-1_13_2]
-src.cmd = " fog papermc-updater 1.13.2 "
-fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/$ver/downloads/paper-1.13.2-$ver.jar"
-passthru = { mcVer = "1.13.2" }
-
 [papermc-1_14]
 src.cmd = " fog papermc-updater 1.14 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14/builds/$ver/downloads/paper-1.14-$ver.jar"
