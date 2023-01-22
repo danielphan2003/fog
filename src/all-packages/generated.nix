@@ -772,15 +772,15 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "0e5d38907f9f904e878d1adb800d5a907dbb28bf";
+    version = "820848d9845592da785fae466742091d8e42767b";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "0e5d38907f9f904e878d1adb800d5a907dbb28bf";
+      rev = "820848d9845592da785fae466742091d8e42767b";
       fetchSubmodules = false;
-      sha256 = "sha256-OcOF43SOlseb6UGTxLtGH0MRokZob0x+cczpdJc8Hq4=";
+      sha256 = "sha256-34C0JmsPuDqR3QGmGf14naGOu9xPtPbpdWUvkbilkqs=";
     });
-    date = "2023-01-12";
+    date = "2023-01-22";
   };
   ny-font = {
     pname = "ny-font";
@@ -1155,15 +1155,15 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "0b5b78b4b32404d2ae346606a14c3b6565ec6081";
+    version = "f8c91b681feb3389b3c12c6a70424aba84b3afd2";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "0b5b78b4b32404d2ae346606a14c3b6565ec6081";
+      rev = "f8c91b681feb3389b3c12c6a70424aba84b3afd2";
       fetchSubmodules = false;
-      sha256 = "sha256-gr7mGI86tmaUK7wj+epUxEGM5ZRuEUaTY/ySvuNg5VU=";
+      sha256 = "sha256-ZuwaQhJ6dCuhw0bW5kB3vxH3GfDPM7y3l//5F6xRyV0=";
     });
-    date = "2023-01-22";
+    date = "2023-01-23";
   };
   spotify = {
     pname = "spotify";
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "fd92fbd69efb40747aee7902bc7ca96222d7e5d3";
+    version = "64547b2b86f3ed10e6f0c6daf22fb9fc63c30581";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "fd92fbd69efb40747aee7902bc7ca96222d7e5d3";
+      rev = "64547b2b86f3ed10e6f0c6daf22fb9fc63c30581";
       fetchSubmodules = false;
-      sha256 = "sha256-dq5AdoxYOLpK9vI9rKGRRO/yA/NP4W/nkhCyBjvYC3o=";
+      sha256 = "sha256-q8gNA+BSB4TPRJKSV/zQNYKRWRDn7vBJIrrpdTOkFMM=";
     });
-    date = "2023-01-21";
+    date = "2023-01-22";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
