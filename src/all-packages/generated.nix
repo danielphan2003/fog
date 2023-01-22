@@ -178,15 +178,15 @@
   };
   bling = {
     pname = "bling";
-    version = "14196af7b5f2161242f522ddaa4c39c582a5c6d0";
+    version = "d670537bea77e70e17f57845e3a3545b53291945";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "14196af7b5f2161242f522ddaa4c39c582a5c6d0";
+      rev = "d670537bea77e70e17f57845e3a3545b53291945";
       fetchSubmodules = false;
-      sha256 = "sha256-qVl/6Fd4LjxNq5nomE3eaI00S3VrwiZbqHo8fglsOGw=";
+      sha256 = "sha256-KFGWxrd1x35GJAKoFKMyc0qXPnydzub3Pj86o869H+I=";
     });
-    date = "2023-01-19";
+    date = "2023-01-22";
   };
   bottles = {
     pname = "bottles";
@@ -439,15 +439,15 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "685d0ee84bfa53b414be4d72627eca5600c6f954";
+    version = "03a20fbf8ad42f2e2e00295af3d3530c63593174";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "685d0ee84bfa53b414be4d72627eca5600c6f954";
+      rev = "03a20fbf8ad42f2e2e00295af3d3530c63593174";
       fetchSubmodules = false;
-      sha256 = "sha256-TCWQO8TRetV69IxXN9CCobf1VcfJ2/q2hTXuFuud1sY=";
+      sha256 = "sha256-bLojM7Zh/to+a0edTBmwl1Wufjnwzyo3VdV9r0nflzo=";
     });
-    date = "2022-12-20";
+    date = "2023-01-22";
   };
   fluffychat = {
     pname = "fluffychat";
@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fcbfd193930dd146b141531a9cf5301d55f26907";
+    version = "cb98242ea7faff04dad3ae166aff7126184f17c5";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fcbfd193930dd146b141531a9cf5301d55f26907";
+      rev = "cb98242ea7faff04dad3ae166aff7126184f17c5";
       fetchSubmodules = false;
-      sha256 = "sha256-jUvjOqKGuEk1XfZNPXU3hcPtIJKkSNzwUm5yN1EFYZA=";
+      sha256 = "sha256-FPOER3tINOEI+oWQGeiWLkpCudVJC3V8wk5cvP9857s=";
     });
-    date = "2023-01-21";
+    date = "2023-01-22";
   };
   ibus = {
     pname = "ibus";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f";
+    version = "a8c43daef6f9a448e694987f3eedde7052524163";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f";
+      rev = "a8c43daef6f9a448e694987f3eedde7052524163";
       fetchSubmodules = false;
-      sha256 = "sha256-wpzbXWv7U3owRL1+8+Rk4xtmF8BFJSmRTgNjIZiOrWc=";
+      sha256 = "sha256-QxDEpeWbj9tDWs1XS5L//TycA9eqwjlp3hxto+/cyGk=";
     });
     date = "2023-01-22";
   };
