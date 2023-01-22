@@ -190,13 +190,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "e247addd6f420ee1353c45f57b9dced213885326";
+    version = "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "e247addd6f420ee1353c45f57b9dced213885326";
+      rev = "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89";
       fetchSubmodules = false;
-      sha256 = "sha256-uNpuHq5Kz39kDlPFKf0ebV6lsbhp6VjgKHV8DTktPOk=";
+      sha256 = "sha256-AD+oECHGstYhfIiqV1p+v6GmBsg7sRwxzfKIiGEr3ds=";
     });
     date = "2023-01-22";
   };
@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "972df73dd9caff79b73d3d71586deebe487695b3";
+    version = "1d1710302acb9b3f4eb465ee66e60e4058f816ba";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "972df73dd9caff79b73d3d71586deebe487695b3";
+      rev = "1d1710302acb9b3f4eb465ee66e60e4058f816ba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/Iuo46KJWk98eM2nlIC2YM3yhwX9VdmMD8ovVM3oB00=";
+      sha256 = "sha256-LbVKr8s+qybZGQiSFOKym8c66Hg7HBxozqXx+N8iZ/8=";
     };
-    date = "2023-01-20";
+    date = "2023-01-22";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -879,16 +879,16 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "faccbdc2eb346ee495d4bedb103e3645352c78df";
+    version = "9975d373b09e13fff84c316c92f211c00985c14c";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "faccbdc2eb346ee495d4bedb103e3645352c78df";
+      rev = "9975d373b09e13fff84c316c92f211c00985c14c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-WFIEErV6bF7eG6n4LotXxboiQozg4EI74v8Cnz4o3Do=";
+      sha256 = "sha256-g+zGpEFE5q3l/qzM6zJ5FQ+IVt50+rSu8Vh3IB9MICE=";
     };
-    date = "2023-01-20";
+    date = "2023-01-22";
   };
   pure = {
     pname = "pure";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b23eaba217ebe161569a6702e47d8c3103311dbc";
+    version = "61c986ddfa07daa5aced70e6916a7db764e5f5e0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b23eaba217ebe161569a6702e47d8c3103311dbc";
+      rev = "61c986ddfa07daa5aced70e6916a7db764e5f5e0";
       fetchSubmodules = false;
-      sha256 = "sha256-bOcVaoPocaXd8PQOShZeNx6q0rYbZNRv+nbiInogi8Q=";
+      sha256 = "sha256-2gxbwGgdrRNzlJCEESEkkIuwy1+fqaNZTsYmn6iLbzs=";
     });
     date = "2023-01-22";
   };
@@ -1384,13 +1384,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "556d281233a640a4f8c1a3c7c2bd28aefd512210";
+    version = "f4506ffd957502bc93ed56ed9b49fc65f3e486bb";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "556d281233a640a4f8c1a3c7c2bd28aefd512210";
+      rev = "f4506ffd957502bc93ed56ed9b49fc65f3e486bb";
       fetchSubmodules = false;
-      sha256 = "sha256-GnkRcu/hED24D0wCRG/wpfv5wM4f6U+Qtd+Cft1L5UM=";
+      sha256 = "sha256-X5J885DZF6SYneOKjMhWx1HmcvH50FzWbrQ82rsHiTY=";
     });
     date = "2023-01-22";
   };

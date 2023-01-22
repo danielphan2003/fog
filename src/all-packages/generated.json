@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "e247addd6f420ee1353c45f57b9dced213885326",
-            "sha256": "sha256-uNpuHq5Kz39kDlPFKf0ebV6lsbhp6VjgKHV8DTktPOk=",
+            "rev": "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89",
+            "sha256": "sha256-AD+oECHGstYhfIiqV1p+v6GmBsg7sRwxzfKIiGEr3ds=",
             "type": "github"
         },
-        "version": "e247addd6f420ee1353c45f57b9dced213885326"
+        "version": "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89"
     },
     "caddy": {
         "cargoLocks": null,
@@ -736,7 +736,7 @@
     },
     "fluffychat": {
         "cargoLocks": null,
-        "date": "2023-01-20",
+        "date": "2023-01-22",
         "extract": null,
         "name": "fluffychat",
         "passthru": null,
@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "972df73dd9caff79b73d3d71586deebe487695b3",
-            "sha256": "sha256-/Iuo46KJWk98eM2nlIC2YM3yhwX9VdmMD8ovVM3oB00=",
+            "rev": "1d1710302acb9b3f4eb465ee66e60e4058f816ba",
+            "sha256": "sha256-LbVKr8s+qybZGQiSFOKym8c66Hg7HBxozqXx+N8iZ/8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "972df73dd9caff79b73d3d71586deebe487695b3"
+        "version": "1d1710302acb9b3f4eb465ee66e60e4058f816ba"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1451,7 +1451,7 @@
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
-        "date": "2023-01-20",
+        "date": "2023-01-22",
         "extract": null,
         "name": "pmbootstrap-test",
         "passthru": null,
@@ -1461,12 +1461,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "faccbdc2eb346ee495d4bedb103e3645352c78df",
-            "sha256": "sha256-WFIEErV6bF7eG6n4LotXxboiQozg4EI74v8Cnz4o3Do=",
+            "rev": "9975d373b09e13fff84c316c92f211c00985c14c",
+            "sha256": "sha256-g+zGpEFE5q3l/qzM6zJ5FQ+IVt50+rSu8Vh3IB9MICE=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "faccbdc2eb346ee495d4bedb103e3645352c78df"
+        "version": "9975d373b09e13fff84c316c92f211c00985c14c"
     },
     "pure": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "b23eaba217ebe161569a6702e47d8c3103311dbc",
-            "sha256": "sha256-bOcVaoPocaXd8PQOShZeNx6q0rYbZNRv+nbiInogi8Q=",
+            "rev": "61c986ddfa07daa5aced70e6916a7db764e5f5e0",
+            "sha256": "sha256-2gxbwGgdrRNzlJCEESEkkIuwy1+fqaNZTsYmn6iLbzs=",
             "type": "github"
         },
-        "version": "b23eaba217ebe161569a6702e47d8c3103311dbc"
+        "version": "61c986ddfa07daa5aced70e6916a7db764e5f5e0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "556d281233a640a4f8c1a3c7c2bd28aefd512210",
-            "sha256": "sha256-GnkRcu/hED24D0wCRG/wpfv5wM4f6U+Qtd+Cft1L5UM=",
+            "rev": "f4506ffd957502bc93ed56ed9b49fc65f3e486bb",
+            "sha256": "sha256-X5J885DZF6SYneOKjMhWx1HmcvH50FzWbrQ82rsHiTY=",
             "type": "github"
         },
-        "version": "556d281233a640a4f8c1a3c7c2bd28aefd512210"
+        "version": "f4506ffd957502bc93ed56ed9b49fc65f3e486bb"
     },
     "wgcf": {
         "cargoLocks": null,
