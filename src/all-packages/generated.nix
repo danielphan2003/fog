@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "de717a50d36386c7b395c0d2ab2d485f192f037a";
+    version = "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "de717a50d36386c7b395c0d2ab2d485f192f037a";
+      rev = "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f";
       fetchSubmodules = false;
-      sha256 = "sha256-hOlbc7QMj2DCJQ+2HVtDqyyiLaDWP8Nngy45JQ89fig=";
+      sha256 = "sha256-wpzbXWv7U3owRL1+8+Rk4xtmF8BFJSmRTgNjIZiOrWc=";
     });
     date = "2023-01-22";
   };
@@ -1315,13 +1315,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "50b2fc29ef0ebf408dfe76b6dbe9f364ea8a3f58";
+    version = "285714ae2cffa3c7c87e58d0965b354b813ec0b0";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "50b2fc29ef0ebf408dfe76b6dbe9f364ea8a3f58";
+      rev = "285714ae2cffa3c7c87e58d0965b354b813ec0b0";
       fetchSubmodules = false;
-      sha256 = "sha256-vh64T5WN59hJlBkwBGLwDr2O33O6BDe6nn4vtZVLfwk=";
+      sha256 = "sha256-H+c/L7qe3ZUIyYJAkG46wTsvaU6BN9IyV9yHjafQCBg=";
     });
     date = "2023-01-22";
   };
@@ -1384,13 +1384,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "5dbaef56a19ed1bfcd78e21d75443eadefe67f00";
+    version = "556d281233a640a4f8c1a3c7c2bd28aefd512210";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "5dbaef56a19ed1bfcd78e21d75443eadefe67f00";
+      rev = "556d281233a640a4f8c1a3c7c2bd28aefd512210";
       fetchSubmodules = false;
-      sha256 = "sha256-dt78NVSz+aR4ACJv1D+3Ha3uddAvlQZm9HwOpTegbeU=";
+      sha256 = "sha256-GnkRcu/hED24D0wCRG/wpfv5wM4f6U+Qtd+Cft1L5UM=";
     });
     date = "2023-01-22";
   };
@@ -1408,15 +1408,15 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "d4cdd970a64d1e971bd035645e6d55bff7b83d51";
+    version = "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "d4cdd970a64d1e971bd035645e6d55bff7b83d51";
+      rev = "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1";
       fetchSubmodules = false;
-      sha256 = "sha256-758x/PmOGb2FRTVguVA38V7AuACaVoZSp6tskaWi7SQ=";
+      sha256 = "sha256-qNCpXNzzCeoIjKKJ9750BKvljMT+rniH7xlyltXM4dw=";
     });
-    date = "2023-01-13";
+    date = "2023-01-23";
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";

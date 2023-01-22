@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "de717a50d36386c7b395c0d2ab2d485f192f037a",
-            "sha256": "sha256-hOlbc7QMj2DCJQ+2HVtDqyyiLaDWP8Nngy45JQ89fig=",
+            "rev": "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f",
+            "sha256": "sha256-wpzbXWv7U3owRL1+8+Rk4xtmF8BFJSmRTgNjIZiOrWc=",
             "type": "github"
         },
-        "version": "de717a50d36386c7b395c0d2ab2d485f192f037a"
+        "version": "9fbd62d7b8430a3445fc97c3d987fa2e12554c7f"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2165,11 +2165,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "50b2fc29ef0ebf408dfe76b6dbe9f364ea8a3f58",
-            "sha256": "sha256-vh64T5WN59hJlBkwBGLwDr2O33O6BDe6nn4vtZVLfwk=",
+            "rev": "285714ae2cffa3c7c87e58d0965b354b813ec0b0",
+            "sha256": "sha256-H+c/L7qe3ZUIyYJAkG46wTsvaU6BN9IyV9yHjafQCBg=",
             "type": "github"
         },
-        "version": "50b2fc29ef0ebf408dfe76b6dbe9f364ea8a3f58"
+        "version": "285714ae2cffa3c7c87e58d0965b354b813ec0b0"
     },
     "uniemoji": {
         "cargoLocks": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "5dbaef56a19ed1bfcd78e21d75443eadefe67f00",
-            "sha256": "sha256-dt78NVSz+aR4ACJv1D+3Ha3uddAvlQZm9HwOpTegbeU=",
+            "rev": "556d281233a640a4f8c1a3c7c2bd28aefd512210",
+            "sha256": "sha256-GnkRcu/hED24D0wCRG/wpfv5wM4f6U+Qtd+Cft1L5UM=",
             "type": "github"
         },
-        "version": "5dbaef56a19ed1bfcd78e21d75443eadefe67f00"
+        "version": "556d281233a640a4f8c1a3c7c2bd28aefd512210"
     },
     "wgcf": {
         "cargoLocks": null,
@@ -2310,7 +2310,7 @@
     },
     "whitesur-gtk-theme": {
         "cargoLocks": null,
-        "date": "2023-01-13",
+        "date": "2023-01-23",
         "extract": null,
         "name": "whitesur-gtk-theme",
         "passthru": null,
@@ -2322,11 +2322,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "d4cdd970a64d1e971bd035645e6d55bff7b83d51",
-            "sha256": "sha256-758x/PmOGb2FRTVguVA38V7AuACaVoZSp6tskaWi7SQ=",
+            "rev": "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1",
+            "sha256": "sha256-qNCpXNzzCeoIjKKJ9750BKvljMT+rniH7xlyltXM4dw=",
             "type": "github"
         },
-        "version": "d4cdd970a64d1e971bd035645e6d55bff7b83d51"
+        "version": "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
