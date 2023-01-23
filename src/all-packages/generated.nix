@@ -1143,15 +1143,15 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "661478742e1ba10266225162d49164bd5d8cfa12";
+    version = "2c8216205c8a9973628bf9e413a55e1ec856d34c";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "661478742e1ba10266225162d49164bd5d8cfa12";
+      rev = "2c8216205c8a9973628bf9e413a55e1ec856d34c";
       fetchSubmodules = false;
-      sha256 = "sha256-rj/XwuC3NRrJbgutZayOv7EaP/jpatJNRxoYW8UPfgY=";
+      sha256 = "sha256-K9qZHwyPfy04r2cQJMwwa+0gXI+h6WFqKuX/lPeDMao=";
     });
-    date = "2023-01-16";
+    date = "2023-01-23";
   };
   spicetify-themes = {
     pname = "spicetify-themes";
@@ -1408,13 +1408,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1";
+    version = "c64c88eec5aabb3487538b78342a170c4bb33f90";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1";
+      rev = "c64c88eec5aabb3487538b78342a170c4bb33f90";
       fetchSubmodules = false;
-      sha256 = "sha256-qNCpXNzzCeoIjKKJ9750BKvljMT+rniH7xlyltXM4dw=";
+      sha256 = "sha256-+arq4wquPiG9ZOcKruI1ApuxjHJVcO/mlx9RWqL3UFY=";
     });
     date = "2023-01-23";
   };

@@ -1879,7 +1879,7 @@
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
-        "date": "2023-01-16",
+        "date": "2023-01-23",
         "extract": null,
         "name": "spicetify-marketplace",
         "passthru": null,
@@ -1891,11 +1891,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "661478742e1ba10266225162d49164bd5d8cfa12",
-            "sha256": "sha256-rj/XwuC3NRrJbgutZayOv7EaP/jpatJNRxoYW8UPfgY=",
+            "rev": "2c8216205c8a9973628bf9e413a55e1ec856d34c",
+            "sha256": "sha256-K9qZHwyPfy04r2cQJMwwa+0gXI+h6WFqKuX/lPeDMao=",
             "type": "github"
         },
-        "version": "661478742e1ba10266225162d49164bd5d8cfa12"
+        "version": "2c8216205c8a9973628bf9e413a55e1ec856d34c"
     },
     "spicetify-themes": {
         "cargoLocks": null,
@@ -2322,11 +2322,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1",
-            "sha256": "sha256-qNCpXNzzCeoIjKKJ9750BKvljMT+rniH7xlyltXM4dw=",
+            "rev": "c64c88eec5aabb3487538b78342a170c4bb33f90",
+            "sha256": "sha256-+arq4wquPiG9ZOcKruI1ApuxjHJVcO/mlx9RWqL3UFY=",
             "type": "github"
         },
-        "version": "cc723085fbcdc9c1cc124e333ad5fd91899f4ec1"
+        "version": "c64c88eec5aabb3487538b78342a170c4bb33f90"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
