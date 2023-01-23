@@ -101,24 +101,24 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43";
+    version = "2e1aeb2eab8e540719258fe5096adfe666f39a66";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "cb5856c4dcae2bb5b62b242b823c76d0abeb9e43";
+      rev = "2e1aeb2eab8e540719258fe5096adfe666f39a66";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-A0i2nHraQ9/Pw6hT75AUe0h8O+7chedMGEKVacNFKCs=";
+      sha256 = "sha256-4Ufgnf7EE2qW6lBROKHzVlAcPwmnsOFXEFkOAfqLSW4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-cb5856c4dcae2bb5b62b242b823c76d0abeb9e43/Cargo.lock;
+      lockFile = ./asusctl-2e1aeb2eab8e540719258fe5096adfe666f39a66/Cargo.lock;
       outputHashes = {
         "supergfxctl-5.0.2" = "sha256-oyOi6DLMtShY0V81l96zii1ibYCueNgHle+FGHmNv+M=";
         "ecolor-0.20.0" = "sha256-tnjFkaCWmCPGw3huQN9VOAeiH+zk3Zk9xYoRKmg2WQg=";
         "notify-rust-4.6.0" = "sha256-jhCgisA9f6AI9e9JQUYRtEt47gQnDv5WsdRKFoKvHJs=";
       };
     };
-    date = "2023-01-18";
+    date = "2023-01-24";
   };
   avizo = {
     pname = "avizo";
@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cb6e36d8046aaaede76be4eff2e51e3d35ba3b30";
+    version = "70b5c1b119bd1c350b0bdc9058298146827d669f";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "cb6e36d8046aaaede76be4eff2e51e3d35ba3b30";
+      rev = "70b5c1b119bd1c350b0bdc9058298146827d669f";
       fetchSubmodules = false;
-      sha256 = "sha256-1Xp0WFInAFA35wTYYEe59G/M/nciXZgjshYpBVXJ3rY=";
+      sha256 = "sha256-OpBVvPcoZqHy5hmbks7W9WAXb4HzfpSy0wFrD5F56Q4=";
     });
     date = "2023-01-23";
   };
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b6aa1c1f22218770a89033ff012c57283f3ce3e7";
+    version = "06fff461dc9a2eef798ea1f408eaf20d44905f0c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b6aa1c1f22218770a89033ff012c57283f3ce3e7";
+      rev = "06fff461dc9a2eef798ea1f408eaf20d44905f0c";
       fetchSubmodules = false;
-      sha256 = "sha256-jbA/ObjaPw5/MUlFdyzLF3blZGp0gs97VaF/xDqn/zU=";
+      sha256 = "sha256-iljVgKVgxF5fc/Z+FtaPuKurOAFx8JEv6mKe3Dix9Rw=";
     });
     date = "2023-01-23";
   };
