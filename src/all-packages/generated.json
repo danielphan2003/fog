@@ -291,7 +291,7 @@
     },
     "bling": {
         "cargoLocks": null,
-        "date": "2023-01-22",
+        "date": "2023-01-23",
         "extract": null,
         "name": "bling",
         "passthru": null,
@@ -303,11 +303,11 @@
             "name": null,
             "owner": "BlingCorp",
             "repo": "bling",
-            "rev": "d670537bea77e70e17f57845e3a3545b53291945",
-            "sha256": "sha256-KFGWxrd1x35GJAKoFKMyc0qXPnydzub3Pj86o869H+I=",
+            "rev": "af90ae42a91d825b17e129659522ff1643ce4908",
+            "sha256": "sha256-mGm4Ydq1K4y2TLgqdYsjsSprk0KHRjSnQtYjqZ+mh2w=",
             "type": "github"
         },
-        "version": "d670537bea77e70e17f57845e3a3545b53291945"
+        "version": "af90ae42a91d825b17e129659522ff1643ce4908"
     },
     "bottles": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kwvkJ5egRZ7XnV9h1S7hO4fbaKwPUKDD6uyX0vklj3Q=",
+            "sha256": "sha256-WpUziSN463VjWvvoNomsj6A5eFWZOOMuOHzbDSvofRA=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6929.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6930.tar.bz2"
         },
-        "version": "1.0.6929"
+        "version": "1.0.6930"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ft+wkljNu4aNLl+jid0CAJpJqW9+TCGMr2Ab8Rk+XQs=",
+            "sha256": "sha256-y7NW0AaoLnK+NsDHMjIJIJHwOdPj45/Oq/PKlHCAKy0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6929-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6930-1_all.deb"
         },
-        "version": "1.0.6929"
+        "version": "1.0.6930"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-22",
+        "date": "2023-01-23",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "64547b2b86f3ed10e6f0c6daf22fb9fc63c30581",
-            "sha256": "sha256-q8gNA+BSB4TPRJKSV/zQNYKRWRDn7vBJIrrpdTOkFMM=",
+            "rev": "65c9ce5a1bbdc03f80a47e0f66397a67a8af1262",
+            "sha256": "sha256-3TlMaPqxpsvjHE5OHNQqLv1yJ9QVSyCfk/cEbhulmzE=",
             "type": "github"
         },
-        "version": "64547b2b86f3ed10e6f0c6daf22fb9fc63c30581"
+        "version": "65c9ce5a1bbdc03f80a47e0f66397a67a8af1262"
     },
     "tailscale-systray": {
         "cargoLocks": null,
