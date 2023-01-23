@@ -530,27 +530,27 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cb98242ea7faff04dad3ae166aff7126184f17c5";
+    version = "c074f260a16587a502f67a28818656346e8a1631";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "cb98242ea7faff04dad3ae166aff7126184f17c5";
+      rev = "c074f260a16587a502f67a28818656346e8a1631";
       fetchSubmodules = false;
-      sha256 = "sha256-FPOER3tINOEI+oWQGeiWLkpCudVJC3V8wk5cvP9857s=";
+      sha256 = "sha256-b3MzouYnWp4M9ApcpRpJuvl4UK3NbRdsk+Ct0EoBFZo=";
     });
-    date = "2023-01-22";
+    date = "2023-01-23";
   };
   ibus = {
     pname = "ibus";
-    version = "d190bc32fe0fe780b66100e5461326973ac7a804";
+    version = "bd24be4582f67e278fc85e843d39b81629bf7d9b";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "d190bc32fe0fe780b66100e5461326973ac7a804";
+      rev = "bd24be4582f67e278fc85e843d39b81629bf7d9b";
       fetchSubmodules = false;
-      sha256 = "sha256-PcXTNuZTdnnjDW7PPyoTwhkUTxNf1P9fh1W/anAWnLs=";
+      sha256 = "sha256-5JjB/6+uZakcJphOy0qJEikqPyusNRxLz6p3GJikgQc=";
     });
-    date = "2023-01-12";
+    date = "2023-01-23";
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
