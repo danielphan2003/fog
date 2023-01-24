@@ -593,10 +593,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6932";
+    version = "1.0.6933";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6932.tar.bz2";
-      sha256 = "sha256-7skDOJWlKqPGpoTvBeKhSmBxdS7Wh6rP6D2LvE3qBXo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6933.tar.bz2";
+      sha256 = "sha256-/ewwiK2yZh0JCygQs4wL8Y0oFAHpilLE1AtRfpX/rTg=";
     };
   };
   jitsi-meet-prosody = {
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e8b695626ee203827cfb59124a5c1c2be4989414";
+    version = "586a88c710f74fd755618e13474a18ea7539fa2b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e8b695626ee203827cfb59124a5c1c2be4989414";
+      rev = "586a88c710f74fd755618e13474a18ea7539fa2b";
       fetchSubmodules = false;
-      sha256 = "sha256-lXoeXJyWC7SPNNldB52Fdxehqst1jVDjYt+/It77/x0=";
+      sha256 = "sha256-mLK4wh6XkYBaEpZ2yKlF9WQgxe7JXt9f9jt2vykoE2E=";
     });
     date = "2023-01-24";
   };
