@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-985";
+    version = "1.0-986";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-985-1_all.deb";
-      sha256 = "sha256-Vk/E+2O6BYZhjjR/SAG7Sx57AvjxegO78Q6xB1oBu4Y=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-986-1_all.deb";
+      sha256 = "sha256-GUtdXDMA2PQ9I9Wy/AlrAaUhSvLhHQRVEN2i9C2h0co=";
     };
   };
   jitsi-meet = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "64bee66ba976a8eacc7517b6437bed5593d4cc7d";
+    version = "087e3ec974164d46faa1f5099c54b0c5581f844e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "64bee66ba976a8eacc7517b6437bed5593d4cc7d";
+      rev = "087e3ec974164d46faa1f5099c54b0c5581f844e";
       fetchSubmodules = false;
-      sha256 = "sha256-BF/479Ujr+t8cCkkgqhxsbIv9HiXj7QSukUoVXSYzuE=";
+      sha256 = "sha256-uG3VmfSySrPzyx/VykQf9U8cjrb7L8OwkJ5nqKjdHbw=";
     });
     date = "2023-01-24";
   };
