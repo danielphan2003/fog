@@ -467,7 +467,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-1e773733329c810401bc2fd68b0c40ac21b46140/Cargo.lock",
+                "./conduit-f95dd4521caaa8dcbeadc463f535eb34186d6ed7/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -475,7 +475,7 @@
                 }
             ]
         },
-        "date": "2023-01-19",
+        "date": "2023-01-24",
         "extract": null,
         "name": "conduit",
         "passthru": null,
@@ -485,12 +485,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1e773733329c810401bc2fd68b0c40ac21b46140",
-            "sha256": "sha256-ve2ikYELlO3fUNlUZAhciyotz4D/C5/xoT9/gqrzyXk=",
+            "rev": "f95dd4521caaa8dcbeadc463f535eb34186d6ed7",
+            "sha256": "sha256-6kwN1DX3vj7fRI8JM6YSQUjp/3j41sNai0MbSGCrkF8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "1e773733329c810401bc2fd68b0c40ac21b46140"
+        "version": "f95dd4521caaa8dcbeadc463f535eb34186d6ed7"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-24",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "70b5c1b119bd1c350b0bdc9058298146827d669f",
-            "sha256": "sha256-OpBVvPcoZqHy5hmbks7W9WAXb4HzfpSy0wFrD5F56Q4=",
+            "rev": "63babcba36f5506b4da6ee7f92f2491c6e1ff726",
+            "sha256": "sha256-WEgDCE7JTtXyx1/Kpk9SK6YTkoc92Q7GuTAc+pn7DBU=",
             "type": "github"
         },
-        "version": "70b5c1b119bd1c350b0bdc9058298146827d669f"
+        "version": "63babcba36f5506b4da6ee7f92f2491c6e1ff726"
     },
     "ibus": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WpUziSN463VjWvvoNomsj6A5eFWZOOMuOHzbDSvofRA=",
+            "sha256": "sha256-7skDOJWlKqPGpoTvBeKhSmBxdS7Wh6rP6D2LvE3qBXo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6930.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6932.tar.bz2"
         },
-        "version": "1.0.6930"
+        "version": "1.0.6932"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-y7NW0AaoLnK+NsDHMjIJIJHwOdPj45/Oq/PKlHCAKy0=",
+            "sha256": "sha256-tVrXkIp6rhBvMqrtGt6Lcz+BlCDoOOhGcspafFvNjvg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6930-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6933-1_all.deb"
         },
-        "version": "1.0.6930"
+        "version": "1.0.6933"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
