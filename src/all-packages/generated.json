@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "e273717a27008e7bd6378bc8abe59b0dca3d9fef",
-            "sha256": "sha256-Xw9T4S7xXbmKwYLESb8feJTgnjo5qRAl8ea0bAd5LeE=",
+            "rev": "84954f376f14cc24fe55c373e21c794f7f1ef579",
+            "sha256": "sha256-HwR2rAjZ7Xiwsbf3LvQS/kHB8ryitBaeqUl9kW/cVco=",
             "type": "github"
         },
-        "version": "e273717a27008e7bd6378bc8abe59b0dca3d9fef"
+        "version": "84954f376f14cc24fe55c373e21c794f7f1ef579"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "e272edc8c0421c666d7cbaabffbc9233281d7a14",
-            "sha256": "sha256-7jf0jE2c0H2yOPyAUzLHD3qam89LhEwqiVIhqt/71hg=",
+            "rev": "e30793b06f75faa235ce1769a79ae6916a24acb7",
+            "sha256": "sha256-YeC/cofcbCO0+UPc1fl2FVf6pA6nJqwvGOPzGULPiog=",
             "type": "github"
         },
-        "version": "e272edc8c0421c666d7cbaabffbc9233281d7a14"
+        "version": "e30793b06f75faa235ce1769a79ae6916a24acb7"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-24",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "1e1d5755e3f46a0ff228cd11df8cc3979b2e99a9",
-            "sha256": "sha256-oUUGQDOJEqKBNoTTTZuNP1LeLCfU5rdmlGA0c2i5qxE=",
+            "rev": "21607bbefb2ec7cb04771ad6892a7b20f63f963e",
+            "sha256": "sha256-1aybnLgnrKX0duuEjK5Kc/MsvFbOqkTwamyxsqyZkiA=",
             "type": "github"
         },
-        "version": "1e1d5755e3f46a0ff228cd11df8cc3979b2e99a9"
+        "version": "21607bbefb2ec7cb04771ad6892a7b20f63f963e"
     },
     "wgcf": {
         "cargoLocks": null,
