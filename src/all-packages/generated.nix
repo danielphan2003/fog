@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "a2ae37396fd92482534579a5344c0a0594026a33";
+    version = "e273717a27008e7bd6378bc8abe59b0dca3d9fef";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "a2ae37396fd92482534579a5344c0a0594026a33";
+      rev = "e273717a27008e7bd6378bc8abe59b0dca3d9fef";
       fetchSubmodules = false;
-      sha256 = "sha256-fE+WUKFHlOpFzcqkLfD39k9fFh4RAF2raQMFP4Z0GIY=";
+      sha256 = "sha256-Xw9T4S7xXbmKwYLESb8feJTgnjo5qRAl8ea0bAd5LeE=";
     });
     date = "2023-01-24";
   };
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6935";
+    version = "1.0.6936";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6935.tar.bz2";
-      sha256 = "sha256-ifIheMx+8MA9F7Fo/I+J3jYL+GZ3IE5qhdDqNEl2lYI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6936.tar.bz2";
+      sha256 = "sha256-LnEG40pc7j/oWF2qe6mIg+wTS9Ov8J2t9SJnoKjBou4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6935";
+    version = "1.0.6936";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6935-1_all.deb";
-      sha256 = "sha256-IiCbbzX0fCF8QTNmKCW23M/pRBMManP6Se6WfEDTsLE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6936-1_all.deb";
+      sha256 = "sha256-Z3r2XHVDkg5bIjo2bwoXAUaohARU/suOF7O8ZevG6a4=";
     };
   };
   jitsi-videobridge2 = {
@@ -696,10 +696,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "110.0.1587.17";
+    version = "110.0.1587.22";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.17-1_amd64.deb";
-      sha256 = "sha256-vEC5WlQN8qGlHkuVExM7ayEQGfMjm+EF4OniKaC+Ru4=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.22-1_amd64.deb";
+      sha256 = "sha256-S7pLDbmFvmkEZ8ZMvfBEmI8J5UMJghH3hPE56E2UHTI=";
     };
   };
   microsoft-edge-dev = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "087e3ec974164d46faa1f5099c54b0c5581f844e";
+    version = "582ed9e9e8aecbb400d1722d8950687b9b5f94c3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "087e3ec974164d46faa1f5099c54b0c5581f844e";
+      rev = "582ed9e9e8aecbb400d1722d8950687b9b5f94c3";
       fetchSubmodules = false;
-      sha256 = "sha256-uG3VmfSySrPzyx/VykQf9U8cjrb7L8OwkJ5nqKjdHbw=";
+      sha256 = "sha256-tkASph0hOqUdVn8DJRNsm7fpA1eWrdZF+/zwXBDkLKg=";
     });
     date = "2023-01-24";
   };
@@ -1356,10 +1356,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2023.1.0";
+    version = "2023.1.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2023.1.0/bw_web_v2023.1.0.tar.gz";
-      sha256 = "sha256-9jXYoowD9ZftgTVM9xqgJk0Fq/P+xBM3ss9IefOz9vw=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2023.1.1/bw_web_v2023.1.1.tar.gz";
+      sha256 = "sha256-P6ujENub+BjMPb90gXM1dWd1PlTg0RTSIW3/dXTNx1E=";
     };
   };
   ventoy = {
