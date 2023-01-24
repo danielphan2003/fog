@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a60f1823e828737399042214b0ddb526ec055deb";
+    version = "154b0e1d16ef3b86b90668a1962684f7ba829b9b";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a60f1823e828737399042214b0ddb526ec055deb";
+      rev = "154b0e1d16ef3b86b90668a1962684f7ba829b9b";
       fetchSubmodules = false;
-      sha256 = "sha256-jLQT0GhQ0IA+hAgsboS4ofw4lUYSHnttQwUq3AlqFBk=";
+      sha256 = "sha256-9E3TKjOc/+2oR8OldXDTa+teLrZVRj0+/iwnAhysMS0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a60f1823e828737399042214b0ddb526ec055deb/Cargo.lock;
+      lockFile = ./rustdesk-154b0e1d16ef3b86b90668a1962684f7ba829b9b/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1131,15 +1131,15 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "995acb01ab45366ff0c35ccfbb5056f87874920c";
+    version = "835743028291c5cba07960b6e7a370aafe4c81d3";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "995acb01ab45366ff0c35ccfbb5056f87874920c";
+      rev = "835743028291c5cba07960b6e7a370aafe4c81d3";
       fetchSubmodules = false;
-      sha256 = "sha256-J6EzrZliW99Bjena8IUiA6zL8j2N1hD2dPZdl1lotCk=";
+      sha256 = "sha256-1sVMpWnS4/8tnj0uRPsemDc6MhvaabkBQk4XzBEB19o=";
     });
-    date = "2023-01-23";
+    date = "2023-01-24";
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6e5faff51ec0230fa170d629c09ffc45aaa0c951";
+    version = "c1daa42c247ed4a5518ebfe37a19167fb4b52520";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6e5faff51ec0230fa170d629c09ffc45aaa0c951";
+      rev = "c1daa42c247ed4a5518ebfe37a19167fb4b52520";
       fetchSubmodules = false;
-      sha256 = "sha256-Dfx4KNUNZENBoAh7xGkX++VtZjOgfANjGD0wjb3uSn4=";
+      sha256 = "sha256-hG1WK5UU9dNbuFVT/nCWT1PJwCs9nR2r7plMamLuxLQ=";
     });
-    date = "2023-01-23";
+    date = "2023-01-24";
   };
   tailscale-systray = {
     pname = "tailscale-systray";

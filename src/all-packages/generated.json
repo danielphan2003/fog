@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-a60f1823e828737399042214b0ddb526ec055deb/Cargo.lock",
+                "./rustdesk-154b0e1d16ef3b86b90668a1962684f7ba829b9b/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "a60f1823e828737399042214b0ddb526ec055deb",
-            "sha256": "sha256-jLQT0GhQ0IA+hAgsboS4ofw4lUYSHnttQwUq3AlqFBk=",
+            "rev": "154b0e1d16ef3b86b90668a1962684f7ba829b9b",
+            "sha256": "sha256-9E3TKjOc/+2oR8OldXDTa+teLrZVRj0+/iwnAhysMS0=",
             "type": "github"
         },
-        "version": "a60f1823e828737399042214b0ddb526ec055deb"
+        "version": "154b0e1d16ef3b86b90668a1962684f7ba829b9b"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1859,7 +1859,7 @@
     },
     "spicetify-cli": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-24",
         "extract": null,
         "name": "spicetify-cli",
         "passthru": null,
@@ -1871,11 +1871,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "995acb01ab45366ff0c35ccfbb5056f87874920c",
-            "sha256": "sha256-J6EzrZliW99Bjena8IUiA6zL8j2N1hD2dPZdl1lotCk=",
+            "rev": "835743028291c5cba07960b6e7a370aafe4c81d3",
+            "sha256": "sha256-1sVMpWnS4/8tnj0uRPsemDc6MhvaabkBQk4XzBEB19o=",
             "type": "github"
         },
-        "version": "995acb01ab45366ff0c35ccfbb5056f87874920c"
+        "version": "835743028291c5cba07960b6e7a370aafe4c81d3"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-24",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "6e5faff51ec0230fa170d629c09ffc45aaa0c951",
-            "sha256": "sha256-Dfx4KNUNZENBoAh7xGkX++VtZjOgfANjGD0wjb3uSn4=",
+            "rev": "c1daa42c247ed4a5518ebfe37a19167fb4b52520",
+            "sha256": "sha256-hG1WK5UU9dNbuFVT/nCWT1PJwCs9nR2r7plMamLuxLQ=",
             "type": "github"
         },
-        "version": "6e5faff51ec0230fa170d629c09ffc45aaa0c951"
+        "version": "c1daa42c247ed4a5518ebfe37a19167fb4b52520"
     },
     "tailscale-systray": {
         "cargoLocks": null,
