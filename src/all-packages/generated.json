@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "eb9fa8460fb613bc701816e7087cc3667e43bb51",
-            "sha256": "sha256-haogn8bniYUP6pV9FZDVl4gqM3UuXhbFZW9FsLB2/S0=",
+            "rev": "a2ae37396fd92482534579a5344c0a0594026a33",
+            "sha256": "sha256-fE+WUKFHlOpFzcqkLfD39k9fFh4RAF2raQMFP4Z0GIY=",
             "type": "github"
         },
-        "version": "eb9fa8460fb613bc701816e7087cc3667e43bb51"
+        "version": "a2ae37396fd92482534579a5344c0a0594026a33"
     },
     "ibus": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/s3hFvJ8D72fDnQvgs3H5yY8O2ALc2xa/6TWFeCmKqA=",
+            "sha256": "sha256-ifIheMx+8MA9F7Fo/I+J3jYL+GZ3IE5qhdDqNEl2lYI=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6934.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6935.tar.bz2"
         },
-        "version": "1.0.6934"
+        "version": "1.0.6935"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ddRUZd2Z2SKj0qo/4mq7lypEmkzqGEdwot8BwNft79o=",
+            "sha256": "sha256-IiCbbzX0fCF8QTNmKCW23M/pRBMManP6Se6WfEDTsLE=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6934-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6935-1_all.deb"
         },
-        "version": "1.0.6934"
+        "version": "1.0.6935"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1172,11 +1172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a5YKJlyD+QBXuj9LxJcnZR28U39TsIewVo0mUIVz+/Y=",
+            "sha256": "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1619.2-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb"
         },
-        "version": "111.0.1619.2"
+        "version": "111.0.1633.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
