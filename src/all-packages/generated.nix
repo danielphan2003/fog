@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e";
+    version = "fc89e70a1fb74429ad0f772d399325f69e65b357";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e";
+      rev = "fc89e70a1fb74429ad0f772d399325f69e65b357";
       fetchSubmodules = false;
-      sha256 = "sha256-yhSiPmT3fmOaV2dLBNCsGGpN4t2Ucs6Q3dGygBH34sc=";
+      sha256 = "sha256-iFFUngau5KHjsKScLhovpb7kCMjJvw/mXXOj6I62sVM=";
     });
-    date = "2023-01-24";
+    date = "2023-01-25";
   };
   ibus = {
     pname = "ibus";
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6938";
+    version = "1.0.6939";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6938.tar.bz2";
-      sha256 = "sha256-VItN45hvtVzqaRLkuVkAPmMqgqZpIwX/PwhqIwH5+vY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6939.tar.bz2";
+      sha256 = "sha256-CsscLC+Oz45I3OXrEsqCgNXUEIER8070bILazmEUcnE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6938";
+    version = "1.0.6939";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6938-1_all.deb";
-      sha256 = "sha256-Wogg0N0E9UgkzA+Wta+srADYmGk63sSVX+tjD/i2AEs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6939-1_all.deb";
+      sha256 = "sha256-MXsHIJrVRSIKd2xW31v/waqbWesUHArJwhGAV2PxxTU=";
     };
   };
   jitsi-videobridge2 = {
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "21607bbefb2ec7cb04771ad6892a7b20f63f963e";
+    version = "204403056e6c8adc14406be5e64c4f1996e185bc";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "21607bbefb2ec7cb04771ad6892a7b20f63f963e";
+      rev = "204403056e6c8adc14406be5e64c4f1996e185bc";
       fetchSubmodules = false;
-      sha256 = "sha256-1aybnLgnrKX0duuEjK5Kc/MsvFbOqkTwamyxsqyZkiA=";
+      sha256 = "sha256-J70D/urAnQe+NiRBOB+gO4kDkPPOWnMKMfftMfsBjDE=";
     });
-    date = "2023-01-24";
+    date = "2023-01-25";
   };
   wgcf = {
     pname = "wgcf";

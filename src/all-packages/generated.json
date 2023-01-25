@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-24",
+        "date": "2023-01-25",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e",
-            "sha256": "sha256-yhSiPmT3fmOaV2dLBNCsGGpN4t2Ucs6Q3dGygBH34sc=",
+            "rev": "fc89e70a1fb74429ad0f772d399325f69e65b357",
+            "sha256": "sha256-iFFUngau5KHjsKScLhovpb7kCMjJvw/mXXOj6I62sVM=",
             "type": "github"
         },
-        "version": "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e"
+        "version": "fc89e70a1fb74429ad0f772d399325f69e65b357"
     },
     "ibus": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VItN45hvtVzqaRLkuVkAPmMqgqZpIwX/PwhqIwH5+vY=",
+            "sha256": "sha256-CsscLC+Oz45I3OXrEsqCgNXUEIER8070bILazmEUcnE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6938.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6939.tar.bz2"
         },
-        "version": "1.0.6938"
+        "version": "1.0.6939"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Wogg0N0E9UgkzA+Wta+srADYmGk63sSVX+tjD/i2AEs=",
+            "sha256": "sha256-MXsHIJrVRSIKd2xW31v/waqbWesUHArJwhGAV2PxxTU=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6938-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6939-1_all.deb"
         },
-        "version": "1.0.6938"
+        "version": "1.0.6939"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-24",
+        "date": "2023-01-25",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "21607bbefb2ec7cb04771ad6892a7b20f63f963e",
-            "sha256": "sha256-1aybnLgnrKX0duuEjK5Kc/MsvFbOqkTwamyxsqyZkiA=",
+            "rev": "204403056e6c8adc14406be5e64c4f1996e185bc",
+            "sha256": "sha256-J70D/urAnQe+NiRBOB+gO4kDkPPOWnMKMfftMfsBjDE=",
             "type": "github"
         },
-        "version": "21607bbefb2ec7cb04771ad6892a7b20f63f963e"
+        "version": "204403056e6c8adc14406be5e64c4f1996e185bc"
     },
     "wgcf": {
         "cargoLocks": null,
