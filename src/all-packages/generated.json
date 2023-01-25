@@ -1565,7 +1565,7 @@
     },
     "quibble": {
         "cargoLocks": null,
-        "date": "2023-01-17",
+        "date": "2023-01-25",
         "extract": null,
         "name": "quibble",
         "passthru": null,
@@ -1577,11 +1577,11 @@
             "name": null,
             "owner": "maharmstone",
             "repo": "quibble",
-            "rev": "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6",
-            "sha256": "sha256-76lMLevywoKWdVTxi9nwNmNA9Itvg0G1SMF7mQgnJ2Y=",
+            "rev": "3efc4f8670fdf9bdb82b58391b107699b537458f",
+            "sha256": "sha256-IGfVLeOA7puojDchfOsFDz+r1Y8j5kJkvScVZ2EdENI=",
             "type": "github"
         },
-        "version": "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6"
+        "version": "3efc4f8670fdf9bdb82b58391b107699b537458f"
     },
     "rainfox": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-154b0e1d16ef3b86b90668a1962684f7ba829b9b/Cargo.lock",
+                "./rustdesk-e124cfb8cd4d90dfd7c03b1a8303924211905207/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-01-24",
+        "date": "2023-01-25",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "154b0e1d16ef3b86b90668a1962684f7ba829b9b",
-            "sha256": "sha256-9E3TKjOc/+2oR8OldXDTa+teLrZVRj0+/iwnAhysMS0=",
+            "rev": "e124cfb8cd4d90dfd7c03b1a8303924211905207",
+            "sha256": "sha256-gT8bMein3bVT/KsYl5RXW69IVbpc4X/N4KnyvAHQbv4=",
             "type": "github"
         },
-        "version": "154b0e1d16ef3b86b90668a1962684f7ba829b9b"
+        "version": "e124cfb8cd4d90dfd7c03b1a8303924211905207"
     },
     "rustdesk-server": {
         "cargoLocks": {

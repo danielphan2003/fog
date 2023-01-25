@@ -946,15 +946,15 @@
   };
   quibble = {
     pname = "quibble";
-    version = "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6";
+    version = "3efc4f8670fdf9bdb82b58391b107699b537458f";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "quibble";
-      rev = "3e61b4b5ce29dab7f0e114a12e17c58604a10aa6";
+      rev = "3efc4f8670fdf9bdb82b58391b107699b537458f";
       fetchSubmodules = false;
-      sha256 = "sha256-76lMLevywoKWdVTxi9nwNmNA9Itvg0G1SMF7mQgnJ2Y=";
+      sha256 = "sha256-IGfVLeOA7puojDchfOsFDz+r1Y8j5kJkvScVZ2EdENI=";
     });
-    date = "2023-01-17";
+    date = "2023-01-25";
   };
   rainfox = {
     pname = "rainfox";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "154b0e1d16ef3b86b90668a1962684f7ba829b9b";
+    version = "e124cfb8cd4d90dfd7c03b1a8303924211905207";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "154b0e1d16ef3b86b90668a1962684f7ba829b9b";
+      rev = "e124cfb8cd4d90dfd7c03b1a8303924211905207";
       fetchSubmodules = false;
-      sha256 = "sha256-9E3TKjOc/+2oR8OldXDTa+teLrZVRj0+/iwnAhysMS0=";
+      sha256 = "sha256-gT8bMein3bVT/KsYl5RXW69IVbpc4X/N4KnyvAHQbv4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-154b0e1d16ef3b86b90668a1962684f7ba829b9b/Cargo.lock;
+      lockFile = ./rustdesk-e124cfb8cd4d90dfd7c03b1a8303924211905207/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,7 +1034,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-01-24";
+    date = "2023-01-25";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
