@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "962310204f088a74719a48fa2dc76e76934dfa09",
-            "sha256": "sha256-jB3JS7uxB5CKweaESqzSNmZ0g7HME2bRp5hpMh3WNo0=",
+            "rev": "e9d95ab29f6cbf24fd3f7f7fd439ab31e2797f93",
+            "sha256": "sha256-O3v4TFydAM9zXBneRS3kiEQtvuxW2X7OfDF0Hi1y82M=",
             "type": "github"
         },
-        "version": "962310204f088a74719a48fa2dc76e76934dfa09"
+        "version": "e9d95ab29f6cbf24fd3f7f7fd439ab31e2797f93"
     },
     "cinny": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rU2Ed/tVJptyuSkwiAwgQFNx5/8gDRfVRsWAKQp2vZU=",
+            "sha256": "sha256-VItN45hvtVzqaRLkuVkAPmMqgqZpIwX/PwhqIwH5+vY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6937.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6938.tar.bz2"
         },
-        "version": "1.0.6937"
+        "version": "1.0.6938"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-itJsCGHRWXQKfkTAM5bB68m0QU//X7Y8tq49IBPI6GE=",
+            "sha256": "sha256-Wogg0N0E9UgkzA+Wta+srADYmGk63sSVX+tjD/i2AEs=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6937-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6938-1_all.deb"
         },
-        "version": "1.0.6937"
+        "version": "1.0.6938"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "13ceea0dfe48d4c932504023bfe4bef2df20c386",
-            "sha256": "sha256-7fynG0jzAmOAz+Fh32rI+XkHoldkJiKB/10bGEAoIRA=",
+            "rev": "0ec1a6acfdcd63e7b55d5371e22e7251fba28460",
+            "sha256": "sha256-h8orcqdgX6wuND8BGQMGgQxjj5wbb30VK1t/tvdS/xo=",
             "type": "github"
         },
-        "version": "13ceea0dfe48d4c932504023bfe4bef2df20c386"
+        "version": "0ec1a6acfdcd63e7b55d5371e22e7251fba28460"
     },
     "rofi-wayland": {
         "cargoLocks": null,
