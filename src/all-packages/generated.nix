@@ -224,15 +224,15 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "5805b3ca11492c2673180e707a643b24100a9e4a";
+    version = "98867ac3468b33c012ae75a14c8d923117629dc2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "5805b3ca11492c2673180e707a643b24100a9e4a";
+      rev = "98867ac3468b33c012ae75a14c8d923117629dc2";
       fetchSubmodules = false;
-      sha256 = "sha256-ecDsksE98XC8U5jfrGXBKYte3CjfDByVznGIRLVZab4=";
+      sha256 = "sha256-TAafGIY2ayfSkogNkmYl1hur6hK07EeHbPsbopfDapI=";
     });
-    date = "2023-01-21";
+    date = "2023-01-24";
   };
   cinny = {
     pname = "cinny";
@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "da23ec847ebdc9beb66f2845ff2cd4e227ade3fa";
+    version = "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "da23ec847ebdc9beb66f2845ff2cd4e227ade3fa";
+      rev = "12e293e3092b03dbb9d82e7a749f482ef2b7ea6e";
       fetchSubmodules = false;
-      sha256 = "sha256-WCMAMtJt6o746XSfVL9FlOao7oZy+KqXd/LOXqVw48A=";
+      sha256 = "sha256-yhSiPmT3fmOaV2dLBNCsGGpN4t2Ucs6Q3dGygBH34sc=";
     });
     date = "2023-01-24";
   };
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "4ad9c7e020f59e69f3d5ab7083635acde15dbeef";
+    version = "960204b5eb7e799770815ed84d8facb94c3a3e6b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "4ad9c7e020f59e69f3d5ab7083635acde15dbeef";
+      rev = "960204b5eb7e799770815ed84d8facb94c3a3e6b";
       fetchSubmodules = false;
-      sha256 = "sha256-IU4tTM8s8sjWuQeEcP2QpG4ns7+xAAyzqke7L/Jausc=";
+      sha256 = "sha256-hK2/yav3iufkbPtWvqmmi7IQWzLnJaKjphlAd2KSWas=";
     });
-    date = "2023-01-24";
+    date = "2023-01-25";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "44d73ce932d24e59df29546635b4952990ae540d";
+    version = "9af7e8a0ffe480c07f6f013ce42f9ae3336ef9aa";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "44d73ce932d24e59df29546635b4952990ae540d";
+      rev = "9af7e8a0ffe480c07f6f013ce42f9ae3336ef9aa";
       fetchSubmodules = false;
-      sha256 = "sha256-RJo1y84zPU/VG715E+Gp/OfO5U3Jp0o1kDrot8vQmXU=";
+      sha256 = "sha256-1oyncYcFkHOjs6FI/hcKB1xJAf4Put8rIIerX69ewio=";
     });
     date = "2023-01-24";
   };
