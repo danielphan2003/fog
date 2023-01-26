@@ -716,7 +716,7 @@
     },
     "flameshot": {
         "cargoLocks": null,
-        "date": "2023-01-22",
+        "date": "2023-01-26",
         "extract": null,
         "name": "flameshot",
         "passthru": null,
@@ -728,11 +728,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "c4d4fc1590889640817b41eb6d8c4befa633c8a8",
-            "sha256": "sha256-3G+A2hSqEe5g6p5vQEvYfKFDkcfaKy3Ik/ytiiCqRbM=",
+            "rev": "05c3b8746aedbc296e0c6271c131f8e2e0183b1a",
+            "sha256": "sha256-t2YQvxEEc80UyOjUmsttrEwOrZHUlIL2fR7dT00yQFg=",
             "type": "github"
         },
-        "version": "c4d4fc1590889640817b41eb6d8c4befa633c8a8"
+        "version": "05c3b8746aedbc296e0c6271c131f8e2e0183b1a"
     },
     "fluffychat": {
         "cargoLocks": null,
