@@ -1007,11 +1007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+5fcxUiCMy45CdDuORU5Xo//f4iAAJEzt1gO+fKU43c=",
+            "sha256": "sha256-albvyMvD5+DrYAZWQ2idNfxhuGD2faqHfuQU6v4Q+MQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-69-gad606ca2-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-70-g0aa0b1f6-1_all.deb"
         },
-        "version": "2.2-69-gad606ca2"
+        "version": "2.2-70-g0aa0b1f6"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-25",
+        "date": "2023-01-26",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "204403056e6c8adc14406be5e64c4f1996e185bc",
-            "sha256": "sha256-J70D/urAnQe+NiRBOB+gO4kDkPPOWnMKMfftMfsBjDE=",
+            "rev": "a6e58f9e24d89d66960375b6776fdbeb63294eaf",
+            "sha256": "sha256-KnxmCMWtivFOqAEDSfpQYympTQeDfER9wBWlXzQncqo=",
             "type": "github"
         },
-        "version": "204403056e6c8adc14406be5e64c4f1996e185bc"
+        "version": "a6e58f9e24d89d66960375b6776fdbeb63294eaf"
     },
     "wgcf": {
         "cargoLocks": null,

@@ -609,10 +609,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-69-gad606ca2";
+    version = "2.2-70-g0aa0b1f6";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-69-gad606ca2-1_all.deb";
-      sha256 = "sha256-+5fcxUiCMy45CdDuORU5Xo//f4iAAJEzt1gO+fKU43c=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-70-g0aa0b1f6-1_all.deb";
+      sha256 = "sha256-albvyMvD5+DrYAZWQ2idNfxhuGD2faqHfuQU6v4Q+MQ=";
     };
   };
   layout-machi = {
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "204403056e6c8adc14406be5e64c4f1996e185bc";
+    version = "a6e58f9e24d89d66960375b6776fdbeb63294eaf";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "204403056e6c8adc14406be5e64c4f1996e185bc";
+      rev = "a6e58f9e24d89d66960375b6776fdbeb63294eaf";
       fetchSubmodules = false;
-      sha256 = "sha256-J70D/urAnQe+NiRBOB+gO4kDkPPOWnMKMfftMfsBjDE=";
+      sha256 = "sha256-KnxmCMWtivFOqAEDSfpQYympTQeDfER9wBWlXzQncqo=";
     });
-    date = "2023-01-25";
+    date = "2023-01-26";
   };
   wgcf = {
     pname = "wgcf";
