@@ -190,15 +190,15 @@
   };
   bottles = {
     pname = "bottles";
-    version = "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89";
+    version = "297e4115fbce7b0e1e3b25b9454dee72177c4741";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "ef71b34ec1b3fed75e7448e5188fe411e8bc1e89";
+      rev = "297e4115fbce7b0e1e3b25b9454dee72177c4741";
       fetchSubmodules = false;
-      sha256 = "sha256-AD+oECHGstYhfIiqV1p+v6GmBsg7sRwxzfKIiGEr3ds=";
+      sha256 = "sha256-448B95yYvz1qD6ukTecrUbbCSN5CadhokFpQBhswKTE=";
     });
-    date = "2023-01-22";
+    date = "2023-01-26";
   };
   caddy = {
     pname = "caddy";
@@ -712,10 +712,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "109.0.1518.61";
+    version = "109.0.1518.70";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.61-1_amd64.deb";
-      sha256 = "sha256-Xh0SpghSIG47BZXXl+GK5ZmXxUSyWZsP0h3/PIP2mZQ=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.70-1_amd64.deb";
+      sha256 = "sha256-PCoFb+neyIq7KyQWLynGrkqpxFFd+iz/ER1LpYcpBY4=";
     };
   };
   minecraft-wayland = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "22c39e7b92f082077f16a3609141982bcf2662af";
+    version = "1bd3e32ad75496c5c12775dc261c0e909e10c6cb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "22c39e7b92f082077f16a3609141982bcf2662af";
+      rev = "1bd3e32ad75496c5c12775dc261c0e909e10c6cb";
       fetchSubmodules = false;
-      sha256 = "sha256-aXQ1ql/77lC6M4yNF+qYH8FgNAzWJtOe9Qc+Sif+M1I=";
+      sha256 = "sha256-J4y1JxK4cfmsu9fej43RBhneplHfQ+cGefiDi6caL7s=";
     });
     date = "2023-01-26";
   };
