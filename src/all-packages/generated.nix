@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "06b17db22776e613a714e7e936618c16c3f47eaa";
+    version = "94b7b6b58475a0e802e390591f95e04c70aa676d";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "06b17db22776e613a714e7e936618c16c3f47eaa";
+      rev = "94b7b6b58475a0e802e390591f95e04c70aa676d";
       fetchSubmodules = false;
-      sha256 = "sha256-15ukCRGhgDd7T60QBbc3PEeMpOkNVgwduT+u93zmyZM=";
+      sha256 = "sha256-BPUlICIlToJYKJSALLzFBsvuYrJ/7JnsW/dQioRkoZ8=";
     });
     date = "2023-01-26";
   };
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6942";
+    version = "1.0.6943";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6942.tar.bz2";
-      sha256 = "sha256-oK7sA67xy7uOGB+Gy/b5ttzRBARiBI2AepgEwVigzBM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6943.tar.bz2";
+      sha256 = "sha256-4swWsCo6PmMzvSVY6vS5n2HH8o6pU+Ak37ng18BLqIk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6942";
+    version = "1.0.6943";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6942-1_all.deb";
-      sha256 = "sha256-AZM52i1FuCRZxcJ4ddP1gE7l6PfgDvr2VaQguqn9N5o=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6943-1_all.deb";
+      sha256 = "sha256-MrLRA0XdaDWD7frh4XDXLTcjsAYWal5qwT5C6cq4MKc=";
     };
   };
   jitsi-videobridge2 = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "951f5a76a5795ca67fe5cba88eeee43b9d2d3552";
+    version = "940ad64d418aefb5b5f465d3d09ed0628d7f30a4";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "951f5a76a5795ca67fe5cba88eeee43b9d2d3552";
+      rev = "940ad64d418aefb5b5f465d3d09ed0628d7f30a4";
       fetchSubmodules = false;
-      sha256 = "sha256-oQVRXezu+S7taFwa3+6WKM/Qzjy+pXAJi5+EFZ32PfE=";
+      sha256 = "sha256-7o9cq/CEJKOwfCor3OJiluIIcoRRzcarln5lNqvJ0J0=";
     });
     date = "2023-01-26";
   };
