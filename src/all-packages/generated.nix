@@ -282,24 +282,24 @@
   };
   conduit = {
     pname = "conduit";
-    version = "f95dd4521caaa8dcbeadc463f535eb34186d6ed7";
+    version = "d68dad580b49c447e2c8cbcd5202e7781faffaea";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "f95dd4521caaa8dcbeadc463f535eb34186d6ed7";
+      rev = "d68dad580b49c447e2c8cbcd5202e7781faffaea";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6kwN1DX3vj7fRI8JM6YSQUjp/3j41sNai0MbSGCrkF8=";
+      sha256 = "sha256-S2hRhzUIqLwRTgq7if5vtRfpwRVRsJr2E//rgYhyxF8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-f95dd4521caaa8dcbeadc463f535eb34186d6ed7/Cargo.lock;
+      lockFile = ./conduit-d68dad580b49c447e2c8cbcd5202e7781faffaea/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ztobLdOXSGyK1YcPMMIycO3ZmnjxG5mLkHltf0Fbs8s=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
-    date = "2023-01-24";
+    date = "2023-01-27";
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8c03a31d1004c47a63aa4a458835e51f9c47b53f";
+    version = "4a869048bf0ed15a292b23d3cd776b4ef96ca451";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8c03a31d1004c47a63aa4a458835e51f9c47b53f";
+      rev = "4a869048bf0ed15a292b23d3cd776b4ef96ca451";
       fetchSubmodules = false;
-      sha256 = "sha256-pcD7rBUQkPFUxQNk6te+kuStECtjN3oQG7RgrHqERFA=";
+      sha256 = "sha256-kLOiBlaLSs64O9h18TnSKfpWXwnj1q9VJmbVfBmfzhg=";
     });
     date = "2023-01-27";
   };
@@ -1384,13 +1384,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "72aa95b191fa72055a57c57cc79a68c3a6ebec4b";
+    version = "574405d056f08aae90769c7515d8cccf78b1fec9";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "72aa95b191fa72055a57c57cc79a68c3a6ebec4b";
+      rev = "574405d056f08aae90769c7515d8cccf78b1fec9";
       fetchSubmodules = false;
-      sha256 = "sha256-DDSHdzJmQLhzYh590ozsOeKvJUr9J7iEYBQ+OOenWP4=";
+      sha256 = "sha256-Icj9NdL4NIS39pA7czxeY3MrraXGXNXyJ4jzrh3IEz0=";
     });
     date = "2023-01-27";
   };

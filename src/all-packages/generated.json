@@ -467,7 +467,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-f95dd4521caaa8dcbeadc463f535eb34186d6ed7/Cargo.lock",
+                "./conduit-d68dad580b49c447e2c8cbcd5202e7781faffaea/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -475,7 +475,7 @@
                 }
             ]
         },
-        "date": "2023-01-24",
+        "date": "2023-01-27",
         "extract": null,
         "name": "conduit",
         "passthru": null,
@@ -485,12 +485,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f95dd4521caaa8dcbeadc463f535eb34186d6ed7",
-            "sha256": "sha256-6kwN1DX3vj7fRI8JM6YSQUjp/3j41sNai0MbSGCrkF8=",
+            "rev": "d68dad580b49c447e2c8cbcd5202e7781faffaea",
+            "sha256": "sha256-S2hRhzUIqLwRTgq7if5vtRfpwRVRsJr2E//rgYhyxF8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "f95dd4521caaa8dcbeadc463f535eb34186d6ed7"
+        "version": "d68dad580b49c447e2c8cbcd5202e7781faffaea"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "8c03a31d1004c47a63aa4a458835e51f9c47b53f",
-            "sha256": "sha256-pcD7rBUQkPFUxQNk6te+kuStECtjN3oQG7RgrHqERFA=",
+            "rev": "4a869048bf0ed15a292b23d3cd776b4ef96ca451",
+            "sha256": "sha256-kLOiBlaLSs64O9h18TnSKfpWXwnj1q9VJmbVfBmfzhg=",
             "type": "github"
         },
-        "version": "8c03a31d1004c47a63aa4a458835e51f9c47b53f"
+        "version": "4a869048bf0ed15a292b23d3cd776b4ef96ca451"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "72aa95b191fa72055a57c57cc79a68c3a6ebec4b",
-            "sha256": "sha256-DDSHdzJmQLhzYh590ozsOeKvJUr9J7iEYBQ+OOenWP4=",
+            "rev": "574405d056f08aae90769c7515d8cccf78b1fec9",
+            "sha256": "sha256-Icj9NdL4NIS39pA7czxeY3MrraXGXNXyJ4jzrh3IEz0=",
             "type": "github"
         },
-        "version": "72aa95b191fa72055a57c57cc79a68c3a6ebec4b"
+        "version": "574405d056f08aae90769c7515d8cccf78b1fec9"
     },
     "wgcf": {
         "cargoLocks": null,
