@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-67029f20248696f099a594a9f0091d62bfc3f09a/Cargo.lock",
+                "./rustdesk-8243d3413f64db0c1f811873a77fbfe715adcebe/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "67029f20248696f099a594a9f0091d62bfc3f09a",
-            "sha256": "sha256-TB/++fx2DjUSCUUwl5+ujWg0+dGSI+dKHr2N44QEDzs=",
+            "rev": "8243d3413f64db0c1f811873a77fbfe715adcebe",
+            "sha256": "sha256-fhBKEltlzoqjEjaeWdkoIgZHRxBuNm0riv/+egbXVEE=",
             "type": "github"
         },
-        "version": "67029f20248696f099a594a9f0091d62bfc3f09a"
+        "version": "8243d3413f64db0c1f811873a77fbfe715adcebe"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "b937804ecdbe1839cc4dae232c4cbf430c4262f1",
-            "sha256": "sha256-A+HrPfinvWsEdYhSAQayDdts4Snw1M9N7HZsZqdz+Hw=",
+            "rev": "e757fdc6a5b7e75117ead1a108fccaace1352bbb",
+            "sha256": "sha256-py36z+7YvAatvKTOoclml4edhSjjKLF6IxRUPaM9UxE=",
             "type": "github"
         },
-        "version": "b937804ecdbe1839cc4dae232c4cbf430c4262f1"
+        "version": "e757fdc6a5b7e75117ead1a108fccaace1352bbb"
     },
     "wgcf": {
         "cargoLocks": null,

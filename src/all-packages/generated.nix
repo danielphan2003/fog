@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "67029f20248696f099a594a9f0091d62bfc3f09a";
+    version = "8243d3413f64db0c1f811873a77fbfe715adcebe";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "67029f20248696f099a594a9f0091d62bfc3f09a";
+      rev = "8243d3413f64db0c1f811873a77fbfe715adcebe";
       fetchSubmodules = false;
-      sha256 = "sha256-TB/++fx2DjUSCUUwl5+ujWg0+dGSI+dKHr2N44QEDzs=";
+      sha256 = "sha256-fhBKEltlzoqjEjaeWdkoIgZHRxBuNm0riv/+egbXVEE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-67029f20248696f099a594a9f0091d62bfc3f09a/Cargo.lock;
+      lockFile = ./rustdesk-8243d3413f64db0c1f811873a77fbfe715adcebe/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1384,13 +1384,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "b937804ecdbe1839cc4dae232c4cbf430c4262f1";
+    version = "e757fdc6a5b7e75117ead1a108fccaace1352bbb";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "b937804ecdbe1839cc4dae232c4cbf430c4262f1";
+      rev = "e757fdc6a5b7e75117ead1a108fccaace1352bbb";
       fetchSubmodules = false;
-      sha256 = "sha256-A+HrPfinvWsEdYhSAQayDdts4Snw1M9N7HZsZqdz+Hw=";
+      sha256 = "sha256-py36z+7YvAatvKTOoclml4edhSjjKLF6IxRUPaM9UxE=";
     });
     date = "2023-01-27";
   };
