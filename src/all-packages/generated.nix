@@ -224,15 +224,15 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e9d95ab29f6cbf24fd3f7f7fd439ab31e2797f93";
+    version = "7f2a93e6c36ceec9e007baeedeb594ab0dc43a71";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e9d95ab29f6cbf24fd3f7f7fd439ab31e2797f93";
+      rev = "7f2a93e6c36ceec9e007baeedeb594ab0dc43a71";
       fetchSubmodules = false;
-      sha256 = "sha256-O3v4TFydAM9zXBneRS3kiEQtvuxW2X7OfDF0Hi1y82M=";
+      sha256 = "sha256-CrH/mWyQGWIHDV8v3ZhIbggpUAtV+WjW8kS+9SttOb8=";
     });
-    date = "2023-01-25";
+    date = "2023-01-27";
   };
   cinny = {
     pname = "cinny";
@@ -1327,15 +1327,15 @@
   };
   uniemoji = {
     pname = "uniemoji";
-    version = "c9d758fd40b74ba043b1ef89a11b858fc08f65b1";
+    version = "7972b04a0fb9caeb180244011c8b7ebbb72bff60";
     src = fetchFromGitHub ({
       owner = "salty-horse";
       repo = "ibus-uniemoji";
-      rev = "c9d758fd40b74ba043b1ef89a11b858fc08f65b1";
+      rev = "7972b04a0fb9caeb180244011c8b7ebbb72bff60";
       fetchSubmodules = false;
-      sha256 = "sha256-Yr4hr2GDJOKnYuorOfT99fYqtFvtO2MHnEJpFhZoRbU=";
+      sha256 = "sha256-MX1kGj0eXfUEtDEOFVrK+wHZUhUY2KiHhHrNZwAocLE=";
     });
-    date = "2022-09-14";
+    date = "2022-11-04";
   };
   vaultwarden = {
     pname = "vaultwarden";
