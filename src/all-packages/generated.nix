@@ -792,21 +792,21 @@
   };
   ouch = {
     pname = "ouch";
-    version = "ba7d1189da64efce683fccf6b8b2e54af91503da";
+    version = "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "ba7d1189da64efce683fccf6b8b2e54af91503da";
+      rev = "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4";
       fetchSubmodules = false;
-      sha256 = "sha256-V/JpEVIPU1UQnKvx18ja7CtqP+NOLQ0Wcl0GU5kua+A=";
+      sha256 = "sha256-/o/U9jpm8gb0ljb6d1psUdAb6AZJkaEOmp4XsXwidYk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-ba7d1189da64efce683fccf6b8b2e54af91503da/Cargo.lock;
+      lockFile = ./ouch-30bf657e5e907a06c7ad0cd92d823c7b6077a5e4/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-10";
+    date = "2023-01-28";
   };
   paper = {
     pname = "paper";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7583e3d903942e1f7442df67d8b6a0a95a6476e9";
+    version = "8edbf51323777704da165ea62774254e9c562f7f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7583e3d903942e1f7442df67d8b6a0a95a6476e9";
+      rev = "8edbf51323777704da165ea62774254e9c562f7f";
       fetchSubmodules = false;
-      sha256 = "sha256-uCWiE0aTUNJ293iJS/DJRhVdfEMfOMpUsaVjBW3xe54=";
+      sha256 = "sha256-sekZuMCcTuaH3e405RRAkhiZAbfIBsIyXRv4k6ygXY8=";
     });
     date = "2023-01-28";
   };
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "574405d056f08aae90769c7515d8cccf78b1fec9";
+    version = "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "574405d056f08aae90769c7515d8cccf78b1fec9";
+      rev = "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e";
       fetchSubmodules = false;
-      sha256 = "sha256-Icj9NdL4NIS39pA7czxeY3MrraXGXNXyJ4jzrh3IEz0=";
+      sha256 = "sha256-47Z/ajlPuVe85dvfJ3NVNxlISpqQfOtWIsisn/GRwvw=";
     });
-    date = "2023-01-27";
+    date = "2023-01-28";
   };
   wgcf = {
     pname = "wgcf";
