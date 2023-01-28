@@ -291,7 +291,7 @@
     },
     "bling": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-28",
         "extract": null,
         "name": "bling",
         "passthru": null,
@@ -303,11 +303,11 @@
             "name": null,
             "owner": "BlingCorp",
             "repo": "bling",
-            "rev": "af90ae42a91d825b17e129659522ff1643ce4908",
-            "sha256": "sha256-mGm4Ydq1K4y2TLgqdYsjsSprk0KHRjSnQtYjqZ+mh2w=",
+            "rev": "57786e08f403d855a6ffa4ed34995cba155da23a",
+            "sha256": "sha256-QJxoQ7axFigulFOrvSjICgK7nrwSILNwZV1f/g0pwfk=",
             "type": "github"
         },
-        "version": "af90ae42a91d825b17e129659522ff1643ce4908"
+        "version": "57786e08f403d855a6ffa4ed34995cba155da23a"
     },
     "bottles": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-927872be0ae1617b915d7e4534a5af1163b37703/Cargo.lock",
+                "./rustdesk-b83b0e79deed01171eb48e2fa9d944d2c8c2046e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "927872be0ae1617b915d7e4534a5af1163b37703",
-            "sha256": "sha256-Uj7Ht1OxnX2aUIWw9IZBACUP/BroAl796twJ6DNCH74=",
+            "rev": "b83b0e79deed01171eb48e2fa9d944d2c8c2046e",
+            "sha256": "sha256-rLurdCp08QNQKIu6tbC3vwqbYN00m0vPjgRCVIvDiSE=",
             "type": "github"
         },
-        "version": "927872be0ae1617b915d7e4534a5af1163b37703"
+        "version": "b83b0e79deed01171eb48e2fa9d944d2c8c2046e"
     },
     "rustdesk-server": {
         "cargoLocks": {
