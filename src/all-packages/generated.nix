@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "88f30174ce4ec9a5bcffe2acdb9f5371e8043d1a";
+    version = "482c8ccf3573c39220b9b5415be046bc3cb16839";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "88f30174ce4ec9a5bcffe2acdb9f5371e8043d1a";
+      rev = "482c8ccf3573c39220b9b5415be046bc3cb16839";
       fetchSubmodules = false;
-      sha256 = "sha256-+qd1nJ9Yh8WwbCINOGpXxJuhmcsh7faDPsMH0XNFKTo=";
+      sha256 = "sha256-q/uikRapHU6dqd/RbKrOV3VpLQRD0ULAdyk/smxhZjA=";
     });
     date = "2023-01-28";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a529b14f2dc994d4e615c5333cb9f01d100ed1e1";
+    version = "83b7e5761b3e7766fad0ed289c64b61f5a39d586";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a529b14f2dc994d4e615c5333cb9f01d100ed1e1";
+      rev = "83b7e5761b3e7766fad0ed289c64b61f5a39d586";
       fetchSubmodules = false;
-      sha256 = "sha256-dfnACKkWknuSpPHNL8tfof+xRXHUyy2YlgSI1fnPcdo=";
+      sha256 = "sha256-8I14EGCFJK0lDD+2umtAxzGyGRS2qb8mhhys1vuSKf0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a529b14f2dc994d4e615c5333cb9f01d100ed1e1/Cargo.lock;
+      lockFile = ./rustdesk-83b7e5761b3e7766fad0ed289c64b61f5a39d586/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1028,13 +1028,13 @@
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-d/u20YHGteK6ONHgIL+xrJ8UVUvwiK/DZ1F3MzRc8SU=";
         "mouce-0.2.1" = "sha256-3PtNEmVMXgqKV4r3KiKTkk4oyCt4BKynniJREE+RyFk=";
-        "rdev-0.5.0-2" = "sha256-mK65phXGO3GFsgSw7eJUnPIBOC/jefhjbBHC3g7hnvc=";
+        "rdev-0.5.0-2" = "sha256-duALF6cQgwA0vYS7/GsF8ei0W8gmIBEo30EeWa3bhu4=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-NWYobxN2X18f0l8GmLB9dULm+GZD04mI03EvRy05K10=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-01-27";
+    date = "2023-01-28";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f991288ceb3047c65aa96581ea04d5ca68dc7b36";
+    version = "4950e6117e3ef772734f63fb8b7ad06012557160";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f991288ceb3047c65aa96581ea04d5ca68dc7b36";
+      rev = "4950e6117e3ef772734f63fb8b7ad06012557160";
       fetchSubmodules = false;
-      sha256 = "sha256-FygVD7grd8VA54AuJqN3nDFk3jb0ujE+ZIPLjY2j3Vw=";
+      sha256 = "sha256-Z33YZJ0Et/JcLfzsGnnf73/YJOC8pjZHbxxVhiN1hxk=";
     });
     date = "2023-01-27";
   };
