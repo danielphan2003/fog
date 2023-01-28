@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "7f2a93e6c36ceec9e007baeedeb594ab0dc43a71",
-            "sha256": "sha256-CrH/mWyQGWIHDV8v3ZhIbggpUAtV+WjW8kS+9SttOb8=",
+            "rev": "d73660f7c338cf4d12ba82c07e14df7f53593ea5",
+            "sha256": "sha256-eZ/rjTEAAHT6d6Tc2v/cS01YTZeiLyN0RhcbNulUAUo=",
             "type": "github"
         },
-        "version": "7f2a93e6c36ceec9e007baeedeb594ab0dc43a71"
+        "version": "d73660f7c338cf4d12ba82c07e14df7f53593ea5"
     },
     "cinny": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "0dc9cbc9ab546119c86f440d2efd9fe6d540d72c",
-            "sha256": "sha256-PNSgu8SBLArukIaNNrJjscDEpbDM7Kf9zEtwGSf2saM=",
+            "rev": "7921198c055e416b326ab8468727828b9de09e1d",
+            "sha256": "sha256-vM5m13QeJCwzbDlYikI6JkzkBN9dqN5V5sLY7sn8+2w=",
             "type": "github"
         },
-        "version": "0dc9cbc9ab546119c86f440d2efd9fe6d540d72c"
+        "version": "7921198c055e416b326ab8468727828b9de09e1d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
