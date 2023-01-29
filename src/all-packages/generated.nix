@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b1b7fb56a95daeae90ae00398128337941aeb0bd";
+    version = "f7f700318a875f352fa6bcba7ff56b62b3f1be2c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b1b7fb56a95daeae90ae00398128337941aeb0bd";
+      rev = "f7f700318a875f352fa6bcba7ff56b62b3f1be2c";
       fetchSubmodules = false;
-      sha256 = "sha256-X65m+yaxZzu1ttJZ1REDBCFeIZuD6Rke3IjrR6oTFSE=";
+      sha256 = "sha256-mEGaQ0PdvzVh8TiX2wU0lEa6DxEqVV/OEYA+QDvuBUg=";
     });
     date = "2023-01-29";
   };
@@ -1452,15 +1452,15 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "724799af1cf64758f35cf677e5d27cd0881d03db";
+    version = "43b1a11fe3aff3a50673db8096f87355c4b16525";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "724799af1cf64758f35cf677e5d27cd0881d03db";
+      rev = "43b1a11fe3aff3a50673db8096f87355c4b16525";
       fetchSubmodules = false;
-      sha256 = "sha256-sluGcbVgMZCyOroZ5qvrUIKhVh2m9v0sbd3pGpUaynI=";
+      sha256 = "sha256-9e+JT0TgVwjQaQiR9Q3cwlxghVP949rq76Ux/XSP/1A=";
     });
-    date = "2023-01-15";
+    date = "2023-01-30";
   };
   yubikey-agent = {
     pname = "yubikey-agent";
