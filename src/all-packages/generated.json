@@ -1371,7 +1371,7 @@
     },
     "picom": {
         "cargoLocks": null,
-        "date": "2023-01-17",
+        "date": "2023-01-29",
         "extract": null,
         "name": "picom",
         "passthru": null,
@@ -1383,11 +1383,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "364463feaf89fa0b7ad82f15af6576400b6daec4",
-            "sha256": "sha256-ukYfi86muqe05IEeteaWTdINT7Bq+PTvt64Jq+j1ed0=",
+            "rev": "102a0bc5e0dc4cbe7ef1b326b77c3701710d375a",
+            "sha256": "sha256-jdCy2N5ely5xG5c3lGGB5VxG/uT9EpTUG9Y5tRP3w5w=",
             "type": "github"
         },
-        "version": "364463feaf89fa0b7ad82f15af6576400b6daec4"
+        "version": "102a0bc5e0dc4cbe7ef1b326b77c3701710d375a"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-3040997c452bc01f65bff09cfecf17aa91d04a1c/Cargo.lock",
+                "./rustdesk-d2c5ba058d13997594b88afbb82528e10b4e2eee/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "3040997c452bc01f65bff09cfecf17aa91d04a1c",
-            "sha256": "sha256-SicnjHt2+Jfewz+xIEkGjKfgQbU2Q7JVxxpEq8tnJRs=",
+            "rev": "d2c5ba058d13997594b88afbb82528e10b4e2eee",
+            "sha256": "sha256-b0utHHavo/hDCSvqaBSV+yaHZGSik64Lh4wF6ZXVdg0=",
             "type": "github"
         },
-        "version": "3040997c452bc01f65bff09cfecf17aa91d04a1c"
+        "version": "d2c5ba058d13997594b88afbb82528e10b4e2eee"
     },
     "rustdesk-server": {
         "cargoLocks": {
