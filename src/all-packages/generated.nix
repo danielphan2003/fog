@@ -47,21 +47,21 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "f34c534e8479e4c50095a98f48941d079bd179a3";
+    version = "84830103936b3a59085381e7155480a86575ceca";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "f34c534e8479e4c50095a98f48941d079bd179a3";
+      rev = "84830103936b3a59085381e7155480a86575ceca";
       fetchSubmodules = false;
-      sha256 = "sha256-lV8Cw3W3MSThZIhtaUMId50hZswEIIxMUmUiVIUfYFE=";
+      sha256 = "sha256-2g8WkId7Sy98QjMD4n9h2xTCUQTjk/rnoTba8nU/3bE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./age-plugin-yubikey-f34c534e8479e4c50095a98f48941d079bd179a3/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-84830103936b3a59085381e7155480a86575ceca/Cargo.lock;
       outputHashes = {
         "yubikey-0.7.0" = "sha256-H8qFvbsArqnJbFUww3X3aUg7cvH0dEJrPs3a+s6y8QE=";
       };
     };
-    date = "2023-01-03";
+    date = "2023-01-29";
   };
   anime-downloader = {
     pname = "anime-downloader";
@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "3d83a0bc5f537b8909da1df1f0ec67809067959b";
+    version = "b2314aa33ad31ce3f0d8ecaef5bd20ec9fc7f8ac";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "3d83a0bc5f537b8909da1df1f0ec67809067959b";
+      rev = "b2314aa33ad31ce3f0d8ecaef5bd20ec9fc7f8ac";
       fetchSubmodules = false;
-      sha256 = "sha256-hCEzyH+62+HHjMtatZkjQyQH8DRI34p70LVBSUkiP7w=";
+      sha256 = "sha256-O4+Od0GGaSJ84zWMtzWBJ1KJX4v8v/xRpfWOHldrm08=";
     });
     date = "2023-01-29";
   };
@@ -829,13 +829,13 @@
   };
   picom = {
     pname = "picom";
-    version = "102a0bc5e0dc4cbe7ef1b326b77c3701710d375a";
+    version = "317275abf6ab5f2977ba0e980364a2b2711df1eb";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "102a0bc5e0dc4cbe7ef1b326b77c3701710d375a";
+      rev = "317275abf6ab5f2977ba0e980364a2b2711df1eb";
       fetchSubmodules = false;
-      sha256 = "sha256-jdCy2N5ely5xG5c3lGGB5VxG/uT9EpTUG9Y5tRP3w5w=";
+      sha256 = "sha256-jr7vxBfs98HXYI5yH0Ob1lnv5Zs2VQHpcfdx2ejL+IQ=";
     });
     date = "2023-01-29";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f6f49519f7c0d7701c064772ba1fc31f0034a89e";
+    version = "92748f7ef4d49112f1512b57879bb735034e870d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f6f49519f7c0d7701c064772ba1fc31f0034a89e";
+      rev = "92748f7ef4d49112f1512b57879bb735034e870d";
       fetchSubmodules = false;
-      sha256 = "sha256-N4IPhlr/nqc/crs6JHYmqJIfMxkeulHitrFfn2YhV3A=";
+      sha256 = "sha256-f73vgLin4CLSD2Ess/+4no6j+/GRxfCoebldOAEJIxs=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f6f49519f7c0d7701c064772ba1fc31f0034a89e/Cargo.lock;
+      lockFile = ./rustdesk-92748f7ef4d49112f1512b57879bb735034e870d/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1131,15 +1131,15 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "5fed7a25663b292718555ff4e6cd20713392ac46";
+    version = "93893021694d441a22f9dbf01dc91ae50ae14458";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "5fed7a25663b292718555ff4e6cd20713392ac46";
+      rev = "93893021694d441a22f9dbf01dc91ae50ae14458";
       fetchSubmodules = false;
-      sha256 = "sha256-NerZQPP+eqSSOpCyd1ELnizpUZK4CsXM5naS2MvWvqI=";
+      sha256 = "sha256-s8bZj7R80xl/Oq5B2qQp/dP6/u7kn8srMn/UD3a9r4U=";
     });
-    date = "2023-01-27";
+    date = "2023-01-29";
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
