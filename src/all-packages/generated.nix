@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b2314aa33ad31ce3f0d8ecaef5bd20ec9fc7f8ac";
+    version = "32381fe6c4e33232401d7a74f587ee7296a61fcf";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "b2314aa33ad31ce3f0d8ecaef5bd20ec9fc7f8ac";
+      rev = "32381fe6c4e33232401d7a74f587ee7296a61fcf";
       fetchSubmodules = false;
-      sha256 = "sha256-O4+Od0GGaSJ84zWMtzWBJ1KJX4v8v/xRpfWOHldrm08=";
+      sha256 = "sha256-kMQxMitimccnW5DW8xVjxmtCGKPcx8z15UQ4qS8d6u0=";
     });
     date = "2023-01-29";
   };
@@ -829,13 +829,13 @@
   };
   picom = {
     pname = "picom";
-    version = "317275abf6ab5f2977ba0e980364a2b2711df1eb";
+    version = "cee12875625465292bc11bf09dc8ab117cae75f4";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "317275abf6ab5f2977ba0e980364a2b2711df1eb";
+      rev = "cee12875625465292bc11bf09dc8ab117cae75f4";
       fetchSubmodules = false;
-      sha256 = "sha256-jr7vxBfs98HXYI5yH0Ob1lnv5Zs2VQHpcfdx2ejL+IQ=";
+      sha256 = "sha256-lVwBwOvzn4ro1jInRuNvn1vQuwUHUp4MYrDaFRmW9pc=";
     });
     date = "2023-01-29";
   };
