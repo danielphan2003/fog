@@ -736,7 +736,7 @@
     },
     "fluffychat": {
         "cargoLocks": null,
-        "date": "2023-01-27",
+        "date": "2023-01-29",
         "extract": null,
         "name": "fluffychat",
         "passthru": null,
@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "215e78f3d5624e12e63d7af4602368b434ad7bb2",
-            "sha256": "sha256-SMKT+bHO3zt+5fi1YQaHPnZgEGk1Bme7Jf4+jl4iCtU=",
+            "rev": "b493f18e54b071790b9a9c3a93ce0ee8b0eeefec",
+            "sha256": "sha256-PwUD2NFgsovtKlCQ06FkpG22jsvMzNojfHmuGqubOTA=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "215e78f3d5624e12e63d7af4602368b434ad7bb2"
+        "version": "b493f18e54b071790b9a9c3a93ce0ee8b0eeefec"
     },
     "flyingfox": {
         "cargoLocks": null,
