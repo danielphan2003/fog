@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "b493f18e54b071790b9a9c3a93ce0ee8b0eeefec";
+    version = "ecd549cd9e9b7254ef3ba1f8e2b8f3d84c645680";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "b493f18e54b071790b9a9c3a93ce0ee8b0eeefec";
+      rev = "ecd549cd9e9b7254ef3ba1f8e2b8f3d84c645680";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PwUD2NFgsovtKlCQ06FkpG22jsvMzNojfHmuGqubOTA=";
+      sha256 = "sha256-jP7i+evtoRvAOlQl046+bVeLLRHusb5GdIAPmG9NWjU=";
     };
-    date = "2023-01-29";
+    date = "2023-01-30";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -735,7 +735,7 @@
     version = "1.37.1";
     src = fetchurl {
       url = "https://github.com/netdata/netdata/archive/refs/tags/v1.37.1.tar.gz";
-      sha256 = "sha256-7nHleiQ+01ARbERqAtb/KCo8g2whRuTFA/++CHPMt+A=";
+      sha256 = "sha256-A8+NihzXntCBugjVJAShL7irqhdN8kbypF1x9OXvxR8=";
     };
   };
   netdata-go-d-plugin = {
@@ -743,7 +743,7 @@
     version = "0.49.2";
     src = fetchurl {
       url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.2.tar.gz";
-      sha256 = "sha256-57RKgch8MKKTT+71UCtasn5ZE8G765keTxnK1fvNprI=";
+      sha256 = "sha256-9O4gzGWXUXuCeItrNUIwkJGwEVdGncNDzJC/0mTYH/Q=";
     };
   };
   nix-zsh-completions = {
@@ -907,7 +907,7 @@
     version = "e510962c608382bcef5de75033d60cc98cb9561d";
     src = fetchurl {
       url = "https://github.com/Anorov/cloudflare-scrape/archive/master.tar.gz";
-      sha256 = "sha256-+pFN1Ts23Ggm6YZueyLdQaMJCfox/CRmMelzGvWRtEw=";
+      sha256 = "sha256-Mw6iDefZdseFhZpbuWIWNkOJMNWKkmZt+vqNeLQhkJE=";
     };
     date = "2020-03-23";
   };
@@ -932,7 +932,7 @@
     version = "b93df794e1e60017c42d9520ac097b6fd38c2e8b";
     src = fetchurl {
       url = "https://github.com/iTaybb/pySmartDL/archive/master.tar.gz";
-      sha256 = "sha256-26TGmz9eIXm6epKUnvNDQymRBOC3TcpxCXFbhuVfVto=";
+      sha256 = "sha256-C2W99RKsoQRbUGdJcVd/v9WruIu5t1hcdlNW7bAPWeM=";
     };
     date = "2020-09-19";
   };
@@ -1309,7 +1309,7 @@
     version = "cac51d8d7bae2b173ebede6570922b01281236d9";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
-      sha256 = "sha256-Hm+YS3dMICoRT/oZbWV1gDu2+HkNx5LWMtjX0I99iwk=";
+      sha256 = "sha256-8o2A9n3v391wT2+qmA7U4NxcfvXkUU0TIcD+G4RGYQE=";
     };
     date = "2023-01-16";
   };
