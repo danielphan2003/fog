@@ -403,11 +403,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "374d2d1962c92cb75c747c7cfa1d86f2fd7ef736",
-            "sha256": "sha256-smy1moE/TQdmZAHf0tjwR+LlngbYZUIQ8Lq8k+D3xac=",
+            "rev": "44318d1ecd19700f010079d0836db7955fc23005",
+            "sha256": "sha256-pD8NlrcCHdNmznOQTMmFAlb18V+/ERvlqzfX9nyuIa0=",
             "type": "github"
         },
-        "version": "374d2d1962c92cb75c747c7cfa1d86f2fd7ef736"
+        "version": "44318d1ecd19700f010079d0836db7955fc23005"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -418,20 +418,20 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q6f24LRYCxdgAguUVl7jf7srkd2L1IptiBgHJQq2dHE=",
+            "sha256": "sha256-BqxEZgI9uxoUpl/CJ2jSWjNIpfP2N392C4h/muBlhZY=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.2.3/cinny-v2.2.3.tar.gz"
+            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.2.4/cinny-v2.2.4.tar.gz"
         },
-        "version": "2.2.3"
+        "version": "2.2.4"
     },
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-5a2206fa1b12dc4b5baf181c09b2a23b46f3704d/src-tauri/Cargo.lock",
+                "./cinny-desktop-1c9e9ed1fa498e6f3bda82f78b6ff44806121619/src-tauri/Cargo.lock",
                 {}
             ]
         },
-        "date": "2023-01-15",
+        "date": "2023-01-30",
         "extract": null,
         "name": "cinny-desktop",
         "passthru": null,
@@ -443,11 +443,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d",
-            "sha256": "sha256-6hyHjJJU5TP7m1PZ2YF/RwgZcZwDfP9lJqYTUcWMQqM=",
+            "rev": "1c9e9ed1fa498e6f3bda82f78b6ff44806121619",
+            "sha256": "sha256-oqUiEkCl175ZT+wdJ63j9D8TGq6TSDY+bUh2UGhgP1Q=",
             "type": "github"
         },
-        "version": "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d"
+        "version": "1c9e9ed1fa498e6f3bda82f78b6ff44806121619"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -458,11 +458,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xIRKTXGqsqip46adc3v8vWQoYgcDPw801cF10/UwGSs=",
+            "sha256": "sha256-2Bv/I9qy8ZGAvtK1kblAxU8NaP0NRZF67mJiSuh7WY4=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.3/Cinny_desktop-x86_64.AppImage"
+            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.4/Cinny_desktop-x86_64.AppImage"
         },
-        "version": "2.2.3"
+        "version": "2.2.4"
     },
     "conduit": {
         "cargoLocks": {

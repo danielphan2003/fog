@@ -236,48 +236,48 @@
   };
   cinny = {
     pname = "cinny";
-    version = "374d2d1962c92cb75c747c7cfa1d86f2fd7ef736";
+    version = "44318d1ecd19700f010079d0836db7955fc23005";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "374d2d1962c92cb75c747c7cfa1d86f2fd7ef736";
+      rev = "44318d1ecd19700f010079d0836db7955fc23005";
       fetchSubmodules = false;
-      sha256 = "sha256-smy1moE/TQdmZAHf0tjwR+LlngbYZUIQ8Lq8k+D3xac=";
+      sha256 = "sha256-pD8NlrcCHdNmznOQTMmFAlb18V+/ERvlqzfX9nyuIa0=";
     });
     date = "2023-01-30";
   };
   cinny-bin = {
     pname = "cinny-bin";
-    version = "2.2.3";
+    version = "2.2.4";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny/releases/download/v2.2.3/cinny-v2.2.3.tar.gz";
-      sha256 = "sha256-Q6f24LRYCxdgAguUVl7jf7srkd2L1IptiBgHJQq2dHE=";
+      url = "https://github.com/cinnyapp/cinny/releases/download/v2.2.4/cinny-v2.2.4.tar.gz";
+      sha256 = "sha256-BqxEZgI9uxoUpl/CJ2jSWjNIpfP2N392C4h/muBlhZY=";
     };
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d";
+    version = "1c9e9ed1fa498e6f3bda82f78b6ff44806121619";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "5a2206fa1b12dc4b5baf181c09b2a23b46f3704d";
+      rev = "1c9e9ed1fa498e6f3bda82f78b6ff44806121619";
       fetchSubmodules = true;
-      sha256 = "sha256-6hyHjJJU5TP7m1PZ2YF/RwgZcZwDfP9lJqYTUcWMQqM=";
+      sha256 = "sha256-oqUiEkCl175ZT+wdJ63j9D8TGq6TSDY+bUh2UGhgP1Q=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-5a2206fa1b12dc4b5baf181c09b2a23b46f3704d/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-1c9e9ed1fa498e6f3bda82f78b6ff44806121619/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-15";
+    date = "2023-01-30";
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
-    version = "2.2.3";
+    version = "2.2.4";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.3/Cinny_desktop-x86_64.AppImage";
-      sha256 = "sha256-xIRKTXGqsqip46adc3v8vWQoYgcDPw801cF10/UwGSs=";
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.4/Cinny_desktop-x86_64.AppImage";
+      sha256 = "sha256-2Bv/I9qy8ZGAvtK1kblAxU8NaP0NRZF67mJiSuh7WY4=";
     };
   };
   conduit = {
