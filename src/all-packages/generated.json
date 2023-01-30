@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SsjqOmk92ptnYyMALPF5z1a1ba7h11Fvv7JwVbeAKeg=",
+            "sha256": "sha256-EEXjEyiH5zKIFF6y3aHRMLYmn0pzThh7dUZl4A485ls=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6946.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6947.tar.bz2"
         },
-        "version": "1.0.6946"
+        "version": "1.0.6947"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NkuCAF5JSLAefk6mVCqSF07z2NTrq7jhtIAiJk4uQLM=",
+            "sha256": "sha256-qEdpMXz4WmGquFTNmDxX77RCnXJ4csKZcIsc8ArkVhY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6946-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6947-1_all.deb"
         },
-        "version": "1.0.6946"
+        "version": "1.0.6947"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1859,7 +1859,7 @@
     },
     "spicetify-cli": {
         "cargoLocks": null,
-        "date": "2023-01-29",
+        "date": "2023-01-30",
         "extract": null,
         "name": "spicetify-cli",
         "passthru": null,
@@ -1871,11 +1871,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "93893021694d441a22f9dbf01dc91ae50ae14458",
-            "sha256": "sha256-s8bZj7R80xl/Oq5B2qQp/dP6/u7kn8srMn/UD3a9r4U=",
+            "rev": "b2aecb88ffc2a8803354cccaf6761e06fe7caaf7",
+            "sha256": "sha256-po02126M1xSQ8faWLTS9a4djCENODVQ70niPutTefEI=",
             "type": "github"
         },
-        "version": "93893021694d441a22f9dbf01dc91ae50ae14458"
+        "version": "b2aecb88ffc2a8803354cccaf6761e06fe7caaf7"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
