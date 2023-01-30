@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "32381fe6c4e33232401d7a74f587ee7296a61fcf";
+    version = "d4e2a0fd1635d90043e38d47931e7132ebcde559";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "32381fe6c4e33232401d7a74f587ee7296a61fcf";
+      rev = "d4e2a0fd1635d90043e38d47931e7132ebcde559";
       fetchSubmodules = false;
-      sha256 = "sha256-kMQxMitimccnW5DW8xVjxmtCGKPcx8z15UQ4qS8d6u0=";
+      sha256 = "sha256-JiVm+duHppxumf5n/2b2uoQTQlQTHvSxxEE0cg+0ZYs=";
     });
-    date = "2023-01-29";
+    date = "2023-01-30";
   };
   ibus = {
     pname = "ibus";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "87de9eb726418d208f77dfc5bb5dcc96c0993655";
+    version = "99bf4e939c14b1a26d586ed9e5bf2a3991c8739e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "87de9eb726418d208f77dfc5bb5dcc96c0993655";
+      rev = "99bf4e939c14b1a26d586ed9e5bf2a3991c8739e";
       fetchSubmodules = false;
-      sha256 = "sha256-8oCx5P7uLd9xZKl5NXD+Q9guuS+Ws1uGspwFIr4u5P4=";
+      sha256 = "sha256-31LSoou3SbALkmWqwrC3pAWYAUtrCjuA/7Yd6Sa7HlQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-87de9eb726418d208f77dfc5bb5dcc96c0993655/Cargo.lock;
+      lockFile = ./rustdesk-99bf4e939c14b1a26d586ed9e5bf2a3991c8739e/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
