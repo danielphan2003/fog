@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "99bf4e939c14b1a26d586ed9e5bf2a3991c8739e";
+    version = "4e69b4f2f443fad25d88ed70f936058a2e04ec40";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "99bf4e939c14b1a26d586ed9e5bf2a3991c8739e";
+      rev = "4e69b4f2f443fad25d88ed70f936058a2e04ec40";
       fetchSubmodules = false;
-      sha256 = "sha256-31LSoou3SbALkmWqwrC3pAWYAUtrCjuA/7Yd6Sa7HlQ=";
+      sha256 = "sha256-KEeDH2TF7+APcLT9w8fz0YO7e4tNcfE5MFkxJTbwIpU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-99bf4e939c14b1a26d586ed9e5bf2a3991c8739e/Cargo.lock;
+      lockFile = ./rustdesk-4e69b4f2f443fad25d88ed70f936058a2e04ec40/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1058,15 +1058,15 @@
   };
   sddm = {
     pname = "sddm";
-    version = "3e486499b9300ce8f9c62bd102e5119b27a2fad1";
+    version = "2d7f1f735fcda5aec880f45ad1f824272bbc35e1";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "3e486499b9300ce8f9c62bd102e5119b27a2fad1";
+      rev = "2d7f1f735fcda5aec880f45ad1f824272bbc35e1";
       fetchSubmodules = false;
-      sha256 = "sha256-Y9WPm0MLWl/s0e0aoKKk0SSojqBrI/RdyxkgOz2Tk38=";
+      sha256 = "sha256-gIDHyhLkbF9nM3fRNO75YSCKwTxP2kgmfsocB7cVBpw=";
     });
-    date = "2022-11-23";
+    date = "2023-01-30";
   };
   sddm-chili = {
     pname = "sddm-chili";
