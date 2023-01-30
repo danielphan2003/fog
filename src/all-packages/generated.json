@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "4441609d8f140518ac8b38c0cbdf4bc38a6332c2",
-            "sha256": "sha256-/l/dlNLewcshnfDxKpCKAr/qgMs7KaWsS+cbtw675O4=",
+            "rev": "5bba65e978c6064278cee3f5d88f02f30791fa80",
+            "sha256": "sha256-ASm3mHphLm8XwBrWp2cC/Itipa+sakZ1ukdDQi+Jg6Y=",
             "type": "github"
         },
-        "version": "4441609d8f140518ac8b38c0cbdf4bc38a6332c2"
+        "version": "5bba65e978c6064278cee3f5d88f02f30791fa80"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-29",
+        "date": "2023-01-30",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "f12914e3bc08ba4a9e39dca30d19c98aeba79f62",
-            "sha256": "sha256-PDd6xyI/R5HCfWHhjp3IGBrxuLiX/TcznSZNywWe3ew=",
+            "rev": "807341e11081fff4ace066e56f716d1c4471591c",
+            "sha256": "sha256-iXxlVgpZWqzvIN5pjK7U8xOKBTyfLXTOJeT7gOGpma8=",
             "type": "github"
         },
-        "version": "f12914e3bc08ba4a9e39dca30d19c98aeba79f62"
+        "version": "807341e11081fff4ace066e56f716d1c4471591c"
     },
     "wgcf": {
         "cargoLocks": null,
