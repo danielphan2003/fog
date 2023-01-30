@@ -696,10 +696,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "110.0.1587.22";
+    version = "110.0.1587.30";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.22-1_amd64.deb";
-      sha256 = "sha256-S7pLDbmFvmkEZ8ZMvfBEmI8J5UMJghH3hPE56E2UHTI=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.30-1_amd64.deb";
+      sha256 = "sha256-DRuzgOjB6fwUrpTfcT2l/+Z4Tdv6DwUfHTmQuzcAUvY=";
     };
   };
   microsoft-edge-dev = {
@@ -740,10 +740,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.49.2";
+    version = "0.50.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.2.tar.gz";
-      sha256 = "sha256-9O4gzGWXUXuCeItrNUIwkJGwEVdGncNDzJC/0mTYH/Q=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.50.0.tar.gz";
+      sha256 = "sha256-QGX8uzuuLigIor+PN9e+C2G77PITwr4HmH/sbhSQdJY=";
     };
   };
   nix-zsh-completions = {
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "fede3cd7047a6c622e67931b071970de809939d3";
+    version = "4441609d8f140518ac8b38c0cbdf4bc38a6332c2";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "fede3cd7047a6c622e67931b071970de809939d3";
+      rev = "4441609d8f140518ac8b38c0cbdf4bc38a6332c2";
       fetchSubmodules = false;
-      sha256 = "sha256-RUcJ8qTiMqRns4H6n6YZE8LC+keIMw13nispJk4Pq5s=";
+      sha256 = "sha256-/l/dlNLewcshnfDxKpCKAr/qgMs7KaWsS+cbtw675O4=";
     });
-    date = "2023-01-28";
+    date = "2023-01-30";
   };
   tailscale-systray = {
     pname = "tailscale-systray";

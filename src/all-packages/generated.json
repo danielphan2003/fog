@@ -1157,11 +1157,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S7pLDbmFvmkEZ8ZMvfBEmI8J5UMJghH3hPE56E2UHTI=",
+            "sha256": "sha256-DRuzgOjB6fwUrpTfcT2l/+Z4Tdv6DwUfHTmQuzcAUvY=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.22-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.30-1_amd64.deb"
         },
-        "version": "110.0.1587.22"
+        "version": "110.0.1587.30"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1237,11 +1237,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9O4gzGWXUXuCeItrNUIwkJGwEVdGncNDzJC/0mTYH/Q=",
+            "sha256": "sha256-QGX8uzuuLigIor+PN9e+C2G77PITwr4HmH/sbhSQdJY=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.49.2.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.50.0.tar.gz"
         },
-        "version": "0.49.2"
+        "version": "0.50.0"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-01-28",
+        "date": "2023-01-30",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "fede3cd7047a6c622e67931b071970de809939d3",
-            "sha256": "sha256-RUcJ8qTiMqRns4H6n6YZE8LC+keIMw13nispJk4Pq5s=",
+            "rev": "4441609d8f140518ac8b38c0cbdf4bc38a6332c2",
+            "sha256": "sha256-/l/dlNLewcshnfDxKpCKAr/qgMs7KaWsS+cbtw675O4=",
             "type": "github"
         },
-        "version": "fede3cd7047a6c622e67931b071970de809939d3"
+        "version": "4441609d8f140518ac8b38c0cbdf4bc38a6332c2"
     },
     "tailscale-systray": {
         "cargoLocks": null,
