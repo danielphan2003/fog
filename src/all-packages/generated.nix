@@ -748,15 +748,15 @@
   };
   nix-zsh-completions = {
     pname = "nix-zsh-completions";
-    version = "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f";
+    version = "6a1bfc024481bdba568f2ced65e02f3a359a7692";
     src = fetchFromGitHub ({
       owner = "spwhitt";
       repo = "nix-zsh-completions";
-      rev = "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f";
+      rev = "6a1bfc024481bdba568f2ced65e02f3a359a7692";
       fetchSubmodules = false;
-      sha256 = "sha256-TWgo56l+FBXssOYWlAfJ5j4pOHNmontOEolcGdihIJs=";
+      sha256 = "sha256-aXetjkl5nPuYHHyuX59ywXF+4Xg+PUCV6Y2u+g18gEk=";
     });
-    date = "2021-02-22";
+    date = "2023-01-29";
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f7f700318a875f352fa6bcba7ff56b62b3f1be2c";
+    version = "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f7f700318a875f352fa6bcba7ff56b62b3f1be2c";
+      rev = "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85";
       fetchSubmodules = false;
-      sha256 = "sha256-mEGaQ0PdvzVh8TiX2wU0lEa6DxEqVV/OEYA+QDvuBUg=";
+      sha256 = "sha256-1Y6EqYImbxS3jay88+cOJp508b0YzddTNg24rnxCiZ8=";
     });
-    date = "2023-01-29";
+    date = "2023-01-30";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "92748f7ef4d49112f1512b57879bb735034e870d";
+    version = "32760ba00c598e7d13eeeee916b4d6e6088015e6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "92748f7ef4d49112f1512b57879bb735034e870d";
+      rev = "32760ba00c598e7d13eeeee916b4d6e6088015e6";
       fetchSubmodules = false;
-      sha256 = "sha256-f73vgLin4CLSD2Ess/+4no6j+/GRxfCoebldOAEJIxs=";
+      sha256 = "sha256-bHbAojPr0eZRkpk1fl+Q1nARBpWSwtEjNf1asLqCEYY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-92748f7ef4d49112f1512b57879bb735034e870d/Cargo.lock;
+      lockFile = ./rustdesk-32760ba00c598e7d13eeeee916b4d6e6088015e6/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,7 +1034,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-01-29";
+    date = "2023-01-30";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e";
+    version = "f12914e3bc08ba4a9e39dca30d19c98aeba79f62";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e";
+      rev = "f12914e3bc08ba4a9e39dca30d19c98aeba79f62";
       fetchSubmodules = false;
-      sha256 = "sha256-47Z/ajlPuVe85dvfJ3NVNxlISpqQfOtWIsisn/GRwvw=";
+      sha256 = "sha256-PDd6xyI/R5HCfWHhjp3IGBrxuLiX/TcznSZNywWe3ew=";
     });
-    date = "2023-01-28";
+    date = "2023-01-29";
   };
   wgcf = {
     pname = "wgcf";

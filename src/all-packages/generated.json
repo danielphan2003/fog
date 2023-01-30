@@ -1245,7 +1245,7 @@
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
-        "date": "2021-02-22",
+        "date": "2023-01-29",
         "extract": null,
         "name": "nix-zsh-completions",
         "passthru": null,
@@ -1257,11 +1257,11 @@
             "name": null,
             "owner": "spwhitt",
             "repo": "nix-zsh-completions",
-            "rev": "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f",
-            "sha256": "sha256-TWgo56l+FBXssOYWlAfJ5j4pOHNmontOEolcGdihIJs=",
+            "rev": "6a1bfc024481bdba568f2ced65e02f3a359a7692",
+            "sha256": "sha256-aXetjkl5nPuYHHyuX59ywXF+4Xg+PUCV6Y2u+g18gEk=",
             "type": "github"
         },
-        "version": "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f"
+        "version": "6a1bfc024481bdba568f2ced65e02f3a359a7692"
     },
     "ntfs2btrfs": {
         "cargoLocks": null,
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-29",
+        "date": "2023-01-30",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "f7f700318a875f352fa6bcba7ff56b62b3f1be2c",
-            "sha256": "sha256-mEGaQ0PdvzVh8TiX2wU0lEa6DxEqVV/OEYA+QDvuBUg=",
+            "rev": "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85",
+            "sha256": "sha256-1Y6EqYImbxS3jay88+cOJp508b0YzddTNg24rnxCiZ8=",
             "type": "github"
         },
-        "version": "f7f700318a875f352fa6bcba7ff56b62b3f1be2c"
+        "version": "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-92748f7ef4d49112f1512b57879bb735034e870d/Cargo.lock",
+                "./rustdesk-32760ba00c598e7d13eeeee916b4d6e6088015e6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-01-29",
+        "date": "2023-01-30",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "92748f7ef4d49112f1512b57879bb735034e870d",
-            "sha256": "sha256-f73vgLin4CLSD2Ess/+4no6j+/GRxfCoebldOAEJIxs=",
+            "rev": "32760ba00c598e7d13eeeee916b4d6e6088015e6",
+            "sha256": "sha256-bHbAojPr0eZRkpk1fl+Q1nARBpWSwtEjNf1asLqCEYY=",
             "type": "github"
         },
-        "version": "92748f7ef4d49112f1512b57879bb735034e870d"
+        "version": "32760ba00c598e7d13eeeee916b4d6e6088015e6"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-28",
+        "date": "2023-01-29",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e",
-            "sha256": "sha256-47Z/ajlPuVe85dvfJ3NVNxlISpqQfOtWIsisn/GRwvw=",
+            "rev": "f12914e3bc08ba4a9e39dca30d19c98aeba79f62",
+            "sha256": "sha256-PDd6xyI/R5HCfWHhjp3IGBrxuLiX/TcznSZNywWe3ew=",
             "type": "github"
         },
-        "version": "a8a93fdc7d40eac2bf60caca3ff81f52f5add92e"
+        "version": "f12914e3bc08ba4a9e39dca30d19c98aeba79f62"
     },
     "wgcf": {
         "cargoLocks": null,
