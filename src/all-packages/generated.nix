@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6949";
+    version = "1.0.6950";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6949.tar.bz2";
-      sha256 = "sha256-IVoP1b9oJWNDIO3/QIi6zCVHhTwLPu/sKCNSkH4hECI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6950.tar.bz2";
+      sha256 = "sha256-I9EbnyXrzEBSI66B5vRnP77JRJRpD3eEbnQFq0Nxna8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6949";
+    version = "1.0.6950";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6949-1_all.deb";
-      sha256 = "sha256-pOAPQ6bsAdFscY5iZ/mdOnAOechIujGo3Ugb6Uhl4y4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6950-1_all.deb";
+      sha256 = "sha256-nweSoz2+IQHV2GH6WP8whqOPCMiBmA7wEhe/flmQrjI=";
     };
   };
   jitsi-videobridge2 = {
@@ -1131,13 +1131,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b2aecb88ffc2a8803354cccaf6761e06fe7caaf7";
+    version = "a582ddc7a2843e5b78aeb54f0f67566c4010acaa";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "b2aecb88ffc2a8803354cccaf6761e06fe7caaf7";
+      rev = "a582ddc7a2843e5b78aeb54f0f67566c4010acaa";
       fetchSubmodules = false;
-      sha256 = "sha256-po02126M1xSQ8faWLTS9a4djCENODVQ70niPutTefEI=";
+      sha256 = "sha256-Pq8HjmWSfBgieSJejrlw+FiRdq9NxryYPcw++Pdjsuk=";
     });
     date = "2023-01-30";
   };
@@ -1452,13 +1452,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "43b1a11fe3aff3a50673db8096f87355c4b16525";
+    version = "57ba7d0af525e82da2de0e275d169477f293b197";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "43b1a11fe3aff3a50673db8096f87355c4b16525";
+      rev = "57ba7d0af525e82da2de0e275d169477f293b197";
       fetchSubmodules = false;
-      sha256 = "sha256-9e+JT0TgVwjQaQiR9Q3cwlxghVP949rq76Ux/XSP/1A=";
+      sha256 = "sha256-MtanR+cxz6FsbNBngqLE+ITKPZFHmWGsD1mBDk0OVng=";
     });
     date = "2023-01-30";
   };
