@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "8c0b49bf039bc0b6ab72b44ef0e1e6587c76ad2b",
-            "sha256": "sha256-qdYBfmDLHUo5ebYzztkBgPCHdrULVh2LiyVYrLnndjs=",
+            "rev": "94b8d56096b2581d6739b057655e7b895c8fd3bb",
+            "sha256": "sha256-/TuL8w2O9Ys2LbH8yw4qJdniMy9Utb5QJ72PIXnvsC0=",
             "type": "github"
         },
-        "version": "8c0b49bf039bc0b6ab72b44ef0e1e6587c76ad2b"
+        "version": "94b8d56096b2581d6739b057655e7b895c8fd3bb"
     },
     "cinny": {
         "cargoLocks": null,
