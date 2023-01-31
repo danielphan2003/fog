@@ -1172,11 +1172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=",
+            "sha256": "sha256-GI9s/Cx240rVUwDqoj9oFf3kCuQ84Zz/fhFzlK3G0xI=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1652.0-1_amd64.deb"
         },
-        "version": "111.0.1633.0"
+        "version": "111.0.1652.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1321,7 +1321,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-5639df79cbdb2464d81bf2219965fabbce278183/Cargo.lock",
+                "./ouch-bc78e647390ce5b0927d69992e212ef221c69943/Cargo.lock",
                 {}
             ]
         },
@@ -1337,11 +1337,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "5639df79cbdb2464d81bf2219965fabbce278183",
-            "sha256": "sha256-PvQsDS9hit45NAXFP6MBdpzhr+oagpO0kNq1FZD2+bA=",
+            "rev": "bc78e647390ce5b0927d69992e212ef221c69943",
+            "sha256": "sha256-+wxOxdv8qD1+Q+UCbpUH6hQUYEVAnVnfbfOV5s6B+4Y=",
             "type": "github"
         },
-        "version": "5639df79cbdb2464d81bf2219965fabbce278183"
+        "version": "bc78e647390ce5b0927d69992e212ef221c69943"
     },
     "paper": {
         "cargoLocks": {
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "003999335929f6ea59cb565778bf95d28e0c136c",
-            "sha256": "sha256-Xpg99baXBDKBPs+X8iOM1ecfAQ12860BND0IGuf5fwE=",
+            "rev": "4136f27f35ce35460d3dcf29da9aa0d253c5c704",
+            "sha256": "sha256-NY4hU+IhWbQCIXGZZml6cscaUiJl3TUlj7xHfmqEojk=",
             "type": "github"
         },
-        "version": "003999335929f6ea59cb565778bf95d28e0c136c"
+        "version": "4136f27f35ce35460d3dcf29da9aa0d253c5c704"
     },
     "tailscale-systray": {
         "cargoLocks": null,
