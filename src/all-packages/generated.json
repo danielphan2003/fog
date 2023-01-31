@@ -2310,7 +2310,7 @@
     },
     "whitesur-gtk-theme": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-01-31",
         "extract": null,
         "name": "whitesur-gtk-theme",
         "passthru": null,
@@ -2322,11 +2322,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "c64c88eec5aabb3487538b78342a170c4bb33f90",
-            "sha256": "sha256-+arq4wquPiG9ZOcKruI1ApuxjHJVcO/mlx9RWqL3UFY=",
+            "rev": "f9d368e813b6e893feff62c0d783f688b27f3e21",
+            "sha256": "sha256-Koq0REUX4LNPPCl0fKHv5ErY2t+ExtUnSjYIwXa3Hsk=",
             "type": "github"
         },
-        "version": "c64c88eec5aabb3487538b78342a170c4bb33f90"
+        "version": "f9d368e813b6e893feff62c0d783f688b27f3e21"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
