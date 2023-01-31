@@ -860,7 +860,7 @@
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-01-31",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "d4e2a0fd1635d90043e38d47931e7132ebcde559",
-            "sha256": "sha256-JiVm+duHppxumf5n/2b2uoQTQlQTHvSxxEE0cg+0ZYs=",
+            "rev": "11234529dbc5f85fc46df479f563c2c563afe9c2",
+            "sha256": "sha256-dez2Fr+rKxFfj2OLtKEJdfQQz7oy90FnV3y/hic8Gv0=",
             "type": "github"
         },
-        "version": "d4e2a0fd1635d90043e38d47931e7132ebcde559"
+        "version": "11234529dbc5f85fc46df479f563c2c563afe9c2"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1222,7 +1222,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A8+NihzXntCBugjVJAShL7irqhdN8kbypF1x9OXvxR8=",
+            "sha256": "sha256-7nHleiQ+01ARbERqAtb/KCo8g2whRuTFA/++CHPMt+A=",
             "type": "url",
             "url": "https://github.com/netdata/netdata/archive/refs/tags/v1.37.1.tar.gz"
         },
@@ -1237,7 +1237,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QGX8uzuuLigIor+PN9e+C2G77PITwr4HmH/sbhSQdJY=",
+            "sha256": "sha256-IKAHiMCi+fnCEovz7BzbZPcUte8AY56qBh1/R7IeUhE=",
             "type": "url",
             "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.50.0.tar.gz"
         },
@@ -1321,11 +1321,11 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-30bf657e5e907a06c7ad0cd92d823c7b6077a5e4/Cargo.lock",
+                "./ouch-bef3e9e2faa3702c930a1c7e34c97998961fd730/Cargo.lock",
                 {}
             ]
         },
-        "date": "2023-01-28",
+        "date": "2023-01-30",
         "extract": null,
         "name": "ouch",
         "passthru": null,
@@ -1337,11 +1337,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4",
-            "sha256": "sha256-/o/U9jpm8gb0ljb6d1psUdAb6AZJkaEOmp4XsXwidYk=",
+            "rev": "bef3e9e2faa3702c930a1c7e34c97998961fd730",
+            "sha256": "sha256-j3TAEeoNdwhlpzkQAN1GSvePKg+Jjf556fEoBGcLX5s=",
             "type": "github"
         },
-        "version": "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4"
+        "version": "bef3e9e2faa3702c930a1c7e34c97998961fd730"
     },
     "paper": {
         "cargoLocks": {
@@ -1497,7 +1497,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Mw6iDefZdseFhZpbuWIWNkOJMNWKkmZt+vqNeLQhkJE=",
+            "sha256": "sha256-+pFN1Ts23Ggm6YZueyLdQaMJCfox/CRmMelzGvWRtEw=",
             "type": "url",
             "url": "https://github.com/Anorov/cloudflare-scrape/archive/master.tar.gz"
         },
@@ -1542,7 +1542,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C2W99RKsoQRbUGdJcVd/v9WruIu5t1hcdlNW7bAPWeM=",
+            "sha256": "sha256-26TGmz9eIXm6epKUnvNDQymRBOC3TcpxCXFbhuVfVto=",
             "type": "url",
             "url": "https://github.com/iTaybb/pySmartDL/archive/master.tar.gz"
         },
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-01-31",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85",
-            "sha256": "sha256-1Y6EqYImbxS3jay88+cOJp508b0YzddTNg24rnxCiZ8=",
+            "rev": "8f12f968442600a4dce2f55a1f5873c8a45b250c",
+            "sha256": "sha256-4M6lffw6VvO7yjDA+iJw4toB20OH+HFhRuZ2AICa6ag=",
             "type": "github"
         },
-        "version": "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85"
+        "version": "8f12f968442600a4dce2f55a1f5873c8a45b250c"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-4e69b4f2f443fad25d88ed70f936058a2e04ec40/Cargo.lock",
+                "./rustdesk-1a3dcbd275ef39ac768d1be6da86b24da1893a16/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-01-30",
+        "date": "2023-01-31",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "4e69b4f2f443fad25d88ed70f936058a2e04ec40",
-            "sha256": "sha256-KEeDH2TF7+APcLT9w8fz0YO7e4tNcfE5MFkxJTbwIpU=",
+            "rev": "1a3dcbd275ef39ac768d1be6da86b24da1893a16",
+            "sha256": "sha256-h6MSZ1bNKCgrpCzMS5Bgsqp97DLiUSjyZOPeZxWbges=",
             "type": "github"
         },
-        "version": "4e69b4f2f443fad25d88ed70f936058a2e04ec40"
+        "version": "1a3dcbd275ef39ac768d1be6da86b24da1893a16"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "5bba65e978c6064278cee3f5d88f02f30791fa80",
-            "sha256": "sha256-ASm3mHphLm8XwBrWp2cC/Itipa+sakZ1ukdDQi+Jg6Y=",
+            "rev": "04b57a371e52dfc86315703bd7f2c7d1f7666c75",
+            "sha256": "sha256-IeRpt1nMNkSh7dMttx0kFI+hdKF4LlKYIMs8TGNDqAM=",
             "type": "github"
         },
-        "version": "5bba65e978c6064278cee3f5d88f02f30791fa80"
+        "version": "04b57a371e52dfc86315703bd7f2c7d1f7666c75"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2145,7 +2145,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8o2A9n3v391wT2+qmA7U4NxcfvXkUU0TIcD+G4RGYQE=",
+            "sha256": "sha256-Hm+YS3dMICoRT/oZbWV1gDu2+HkNx5LWMtjX0I99iwk=",
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },

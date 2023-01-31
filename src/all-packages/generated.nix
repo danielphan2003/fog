@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d4e2a0fd1635d90043e38d47931e7132ebcde559";
+    version = "11234529dbc5f85fc46df479f563c2c563afe9c2";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d4e2a0fd1635d90043e38d47931e7132ebcde559";
+      rev = "11234529dbc5f85fc46df479f563c2c563afe9c2";
       fetchSubmodules = false;
-      sha256 = "sha256-JiVm+duHppxumf5n/2b2uoQTQlQTHvSxxEE0cg+0ZYs=";
+      sha256 = "sha256-dez2Fr+rKxFfj2OLtKEJdfQQz7oy90FnV3y/hic8Gv0=";
     });
-    date = "2023-01-30";
+    date = "2023-01-31";
   };
   ibus = {
     pname = "ibus";
@@ -735,7 +735,7 @@
     version = "1.37.1";
     src = fetchurl {
       url = "https://github.com/netdata/netdata/archive/refs/tags/v1.37.1.tar.gz";
-      sha256 = "sha256-A8+NihzXntCBugjVJAShL7irqhdN8kbypF1x9OXvxR8=";
+      sha256 = "sha256-7nHleiQ+01ARbERqAtb/KCo8g2whRuTFA/++CHPMt+A=";
     };
   };
   netdata-go-d-plugin = {
@@ -743,7 +743,7 @@
     version = "0.50.0";
     src = fetchurl {
       url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.50.0.tar.gz";
-      sha256 = "sha256-QGX8uzuuLigIor+PN9e+C2G77PITwr4HmH/sbhSQdJY=";
+      sha256 = "sha256-IKAHiMCi+fnCEovz7BzbZPcUte8AY56qBh1/R7IeUhE=";
     };
   };
   nix-zsh-completions = {
@@ -792,21 +792,21 @@
   };
   ouch = {
     pname = "ouch";
-    version = "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4";
+    version = "bef3e9e2faa3702c930a1c7e34c97998961fd730";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "30bf657e5e907a06c7ad0cd92d823c7b6077a5e4";
+      rev = "bef3e9e2faa3702c930a1c7e34c97998961fd730";
       fetchSubmodules = false;
-      sha256 = "sha256-/o/U9jpm8gb0ljb6d1psUdAb6AZJkaEOmp4XsXwidYk=";
+      sha256 = "sha256-j3TAEeoNdwhlpzkQAN1GSvePKg+Jjf556fEoBGcLX5s=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-30bf657e5e907a06c7ad0cd92d823c7b6077a5e4/Cargo.lock;
+      lockFile = ./ouch-bef3e9e2faa3702c930a1c7e34c97998961fd730/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-28";
+    date = "2023-01-30";
   };
   paper = {
     pname = "paper";
@@ -907,7 +907,7 @@
     version = "e510962c608382bcef5de75033d60cc98cb9561d";
     src = fetchurl {
       url = "https://github.com/Anorov/cloudflare-scrape/archive/master.tar.gz";
-      sha256 = "sha256-Mw6iDefZdseFhZpbuWIWNkOJMNWKkmZt+vqNeLQhkJE=";
+      sha256 = "sha256-+pFN1Ts23Ggm6YZueyLdQaMJCfox/CRmMelzGvWRtEw=";
     };
     date = "2020-03-23";
   };
@@ -932,7 +932,7 @@
     version = "b93df794e1e60017c42d9520ac097b6fd38c2e8b";
     src = fetchurl {
       url = "https://github.com/iTaybb/pySmartDL/archive/master.tar.gz";
-      sha256 = "sha256-C2W99RKsoQRbUGdJcVd/v9WruIu5t1hcdlNW7bAPWeM=";
+      sha256 = "sha256-26TGmz9eIXm6epKUnvNDQymRBOC3TcpxCXFbhuVfVto=";
     };
     date = "2020-09-19";
   };
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85";
+    version = "8f12f968442600a4dce2f55a1f5873c8a45b250c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5a7ac3d06b32d87d7a4e17f09b65560eb4681b85";
+      rev = "8f12f968442600a4dce2f55a1f5873c8a45b250c";
       fetchSubmodules = false;
-      sha256 = "sha256-1Y6EqYImbxS3jay88+cOJp508b0YzddTNg24rnxCiZ8=";
+      sha256 = "sha256-4M6lffw6VvO7yjDA+iJw4toB20OH+HFhRuZ2AICa6ag=";
     });
-    date = "2023-01-30";
+    date = "2023-01-31";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "4e69b4f2f443fad25d88ed70f936058a2e04ec40";
+    version = "1a3dcbd275ef39ac768d1be6da86b24da1893a16";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "4e69b4f2f443fad25d88ed70f936058a2e04ec40";
+      rev = "1a3dcbd275ef39ac768d1be6da86b24da1893a16";
       fetchSubmodules = false;
-      sha256 = "sha256-KEeDH2TF7+APcLT9w8fz0YO7e4tNcfE5MFkxJTbwIpU=";
+      sha256 = "sha256-h6MSZ1bNKCgrpCzMS5Bgsqp97DLiUSjyZOPeZxWbges=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-4e69b4f2f443fad25d88ed70f936058a2e04ec40/Cargo.lock;
+      lockFile = ./rustdesk-1a3dcbd275ef39ac768d1be6da86b24da1893a16/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,7 +1034,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-01-30";
+    date = "2023-01-31";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5bba65e978c6064278cee3f5d88f02f30791fa80";
+    version = "04b57a371e52dfc86315703bd7f2c7d1f7666c75";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5bba65e978c6064278cee3f5d88f02f30791fa80";
+      rev = "04b57a371e52dfc86315703bd7f2c7d1f7666c75";
       fetchSubmodules = false;
-      sha256 = "sha256-ASm3mHphLm8XwBrWp2cC/Itipa+sakZ1ukdDQi+Jg6Y=";
+      sha256 = "sha256-IeRpt1nMNkSh7dMttx0kFI+hdKF4LlKYIMs8TGNDqAM=";
     });
     date = "2023-01-30";
   };
@@ -1309,7 +1309,7 @@
     version = "cac51d8d7bae2b173ebede6570922b01281236d9";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
-      sha256 = "sha256-8o2A9n3v391wT2+qmA7U4NxcfvXkUU0TIcD+G4RGYQE=";
+      sha256 = "sha256-Hm+YS3dMICoRT/oZbWV1gDu2+HkNx5LWMtjX0I99iwk=";
     };
     date = "2023-01-16";
   };
