@@ -1058,13 +1058,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "b042f69ff3ada1e5d94156450621db7a9246645a";
+    version = "3ee57e99836fe051c97e0f301962120466d220f7";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "b042f69ff3ada1e5d94156450621db7a9246645a";
+      rev = "3ee57e99836fe051c97e0f301962120466d220f7";
       fetchSubmodules = false;
-      sha256 = "sha256-hEUjurXE+QYUXM9Bqf2b8yeAtsYwyULFsvr/N8oaSTo=";
+      sha256 = "sha256-ZLVgEEpXWihdcAw2Ws9Yc36rZAfP0wjvBgaE3c4E3Z0=";
     });
     date = "2023-02-01";
   };
