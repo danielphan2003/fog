@@ -8,11 +8,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x6nH5Tli+kkGs0I1eGRP+EFURHzLYq65z6f433tcQCg=",
+            "sha256": "sha256-z6StE1mSFFqK+Uz1RH6LwC6Gq7fy6yZ+1Xfc5IF8p7o=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.25/AdGuardHome_darwin_amd64.zip"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.26/AdGuardHome_darwin_amd64.zip"
         },
-        "version": "0.108.0-b.25"
+        "version": "0.108.0-b.26"
     },
     "adguardhome-linux-386": {
         "cargoLocks": null,
@@ -23,11 +23,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EHbzkgneiYkabymcdNDeF7QSnr3M7tw6NpBoSINL6SY=",
+            "sha256": "sha256-iHh/DUTJCcrvN5uzuvf72eMwTcpkToj/4bqlL2BGCo0=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.25/AdGuardHome_linux_386.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.26/AdGuardHome_linux_386.tar.gz"
         },
-        "version": "0.108.0-b.25"
+        "version": "0.108.0-b.26"
     },
     "adguardhome-linux-amd64": {
         "cargoLocks": null,
@@ -38,11 +38,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Mhvjk87m7NrOrGSkzsmyfjEgpOR2PsyD0OpyI8hQzmU=",
+            "sha256": "sha256-uu3S5SIZ2CYNEvBVImz6MZb+j7a2mjoIrsIW+h4GIh0=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.25/AdGuardHome_linux_amd64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.26/AdGuardHome_linux_amd64.tar.gz"
         },
-        "version": "0.108.0-b.25"
+        "version": "0.108.0-b.26"
     },
     "adguardhome-linux-arm64": {
         "cargoLocks": null,
@@ -53,11 +53,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NC4p08lB3mGeTfUpi066wE3jvEFWx5EZvRMYR16b7hY=",
+            "sha256": "sha256-Tg8jyNYzrtp/gQ+5NaSEguvqb+Y83kwQ6yuxbcq2rv8=",
             "type": "url",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.25/AdGuardHome_linux_arm64.tar.gz"
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.26/AdGuardHome_linux_arm64.tar.gz"
         },
-        "version": "0.108.0-b.25"
+        "version": "0.108.0-b.26"
     },
     "adl": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-f3fWYjAEnBdbSuB5ErmNgtHlpH/RzpHJf2Zz2dSaxeI=",
+            "sha256": "sha256-SB/6ovWu/ggoND0zNi03zHb/F3ILDBoCVyNmpjpxIlQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6952.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6953.tar.bz2"
         },
-        "version": "1.0.6952"
+        "version": "1.0.6953"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tebusxJ9KBYLptAuwDMarQi+FyEpHdB/oJJvVhM2DiQ=",
+            "sha256": "sha256-hgnGszdxl3C3NZvWYpZ517aBy9XPH5MBOoSZTWadsAc=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6952-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6953-1_all.deb"
         },
-        "version": "1.0.6952"
+        "version": "1.0.6953"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-2e53580caaf069e4e044b03d45331ab6ddfe2ce6/Cargo.lock",
+                "./rustdesk-68cc667f475ee66c445fe66380c98c4ef9f9d934/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "2e53580caaf069e4e044b03d45331ab6ddfe2ce6",
-            "sha256": "sha256-D/SAoPpdRQPoZbOBPi88+ixKRPlQ2N2axql4LaCRs5g=",
+            "rev": "68cc667f475ee66c445fe66380c98c4ef9f9d934",
+            "sha256": "sha256-dFVBM+pSig3i21a0XPKvOtLQbJ4Wp1ZfzBh1V2P+LR0=",
             "type": "github"
         },
-        "version": "2e53580caaf069e4e044b03d45331ab6ddfe2ce6"
+        "version": "68cc667f475ee66c445fe66380c98c4ef9f9d934"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1735,7 +1735,7 @@
     },
     "sddm": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-02-01",
         "extract": null,
         "name": "sddm",
         "passthru": null,
@@ -1747,11 +1747,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "2d7f1f735fcda5aec880f45ad1f824272bbc35e1",
-            "sha256": "sha256-gIDHyhLkbF9nM3fRNO75YSCKwTxP2kgmfsocB7cVBpw=",
+            "rev": "0ff45c0f8398b189fe06b023a69f33ec05c51ec5",
+            "sha256": "sha256-1y9p/NWpZYKkbpk6DElmBe5YbrPuGNren4z3vdZtyG0=",
             "type": "github"
         },
-        "version": "2d7f1f735fcda5aec880f45ad1f824272bbc35e1"
+        "version": "0ff45c0f8398b189fe06b023a69f33ec05c51ec5"
     },
     "sddm-chili": {
         "cargoLocks": null,
@@ -1879,7 +1879,7 @@
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-02-01",
         "extract": null,
         "name": "spicetify-marketplace",
         "passthru": null,
@@ -1891,11 +1891,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "2c8216205c8a9973628bf9e413a55e1ec856d34c",
-            "sha256": "sha256-K9qZHwyPfy04r2cQJMwwa+0gXI+h6WFqKuX/lPeDMao=",
+            "rev": "9b6f71be7c0b01817d6975dbfaaed2de9f14d178",
+            "sha256": "sha256-M8R9HpnEQPmuy0xW+kU/6LLTxfZdzxhAbxk4fbHKD/s=",
             "type": "github"
         },
-        "version": "2c8216205c8a9973628bf9e413a55e1ec856d34c"
+        "version": "9b6f71be7c0b01817d6975dbfaaed2de9f14d178"
     },
     "spicetify-themes": {
         "cargoLocks": null,
