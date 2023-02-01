@@ -1172,11 +1172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=",
+            "sha256": "sha256-GI9s/Cx240rVUwDqoj9oFf3kCuQ84Zz/fhFzlK3G0xI=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1652.0-1_amd64.deb"
         },
-        "version": "111.0.1633.0"
+        "version": "111.0.1652.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-bd5ed0d671bf3979bb03fca4424c5864f5430474/Cargo.lock",
+                "./rustdesk-ec1da900ec6bfa35b7f1302c34871f58604d5e5e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-01-31",
+        "date": "2023-02-01",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,16 +1698,16 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "bd5ed0d671bf3979bb03fca4424c5864f5430474",
-            "sha256": "sha256-EzkDXLnfwY0TneDWpuRMur9yOJNlhPjCsGnij+nEV7M=",
+            "rev": "ec1da900ec6bfa35b7f1302c34871f58604d5e5e",
+            "sha256": "sha256-VFoaVMJjyYUpPFX6qWe+HM6H/YFAvWxZK9qrXCv3FRQ=",
             "type": "github"
         },
-        "version": "bd5ed0d671bf3979bb03fca4424c5864f5430474"
+        "version": "ec1da900ec6bfa35b7f1302c34871f58604d5e5e"
     },
     "rustdesk-server": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-server-2830be95a75e8cdd59c65697d2e77762982e305b/Cargo.lock",
+                "./rustdesk-server-fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2/Cargo.lock",
                 {
                     "async-speed-limit-0.3.1": "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=",
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
@@ -1715,7 +1715,7 @@
                 }
             ]
         },
-        "date": "2023-01-27",
+        "date": "2023-02-01",
         "extract": null,
         "name": "rustdesk-server",
         "passthru": null,
@@ -1727,11 +1727,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk-server",
-            "rev": "2830be95a75e8cdd59c65697d2e77762982e305b",
-            "sha256": "sha256-QSHj5gk3XH4Ixwlh9h2fJYoph4HawJPMewQbd8WLKQA=",
+            "rev": "fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2",
+            "sha256": "sha256-sGn84hgKEu3cP8aSWxXlQv2LiwqmtkJHN396g4EgeMU=",
             "type": "github"
         },
-        "version": "2830be95a75e8cdd59c65697d2e77762982e305b"
+        "version": "fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2"
     },
     "sddm": {
         "cargoLocks": null,
@@ -1899,7 +1899,7 @@
     },
     "spicetify-themes": {
         "cargoLocks": null,
-        "date": "2023-01-23",
+        "date": "2023-02-01",
         "extract": null,
         "name": "spicetify-themes",
         "passthru": null,
@@ -1911,11 +1911,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-themes",
-            "rev": "f8c91b681feb3389b3c12c6a70424aba84b3afd2",
-            "sha256": "sha256-ZuwaQhJ6dCuhw0bW5kB3vxH3GfDPM7y3l//5F6xRyV0=",
+            "rev": "5d5eca15aee706a9d4b115e44fba428326eba980",
+            "sha256": "sha256-cJH7hQerXPktMKbk72c2zC9Dibs4WQI0+bD76R7j/44=",
             "type": "github"
         },
-        "version": "f8c91b681feb3389b3c12c6a70424aba84b3afd2"
+        "version": "5d5eca15aee706a9d4b115e44fba428326eba980"
     },
     "spotify": {
         "cargoLocks": null,

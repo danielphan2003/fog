@@ -704,10 +704,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "111.0.1633.0";
+    version = "111.0.1652.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb";
-      sha256 = "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1652.0-1_amd64.deb";
+      sha256 = "sha256-GI9s/Cx240rVUwDqoj9oFf3kCuQ84Zz/fhFzlK3G0xI=";
     };
   };
   microsoft-edge-stable = {
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "bd5ed0d671bf3979bb03fca4424c5864f5430474";
+    version = "ec1da900ec6bfa35b7f1302c34871f58604d5e5e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "bd5ed0d671bf3979bb03fca4424c5864f5430474";
+      rev = "ec1da900ec6bfa35b7f1302c34871f58604d5e5e";
       fetchSubmodules = false;
-      sha256 = "sha256-EzkDXLnfwY0TneDWpuRMur9yOJNlhPjCsGnij+nEV7M=";
+      sha256 = "sha256-VFoaVMJjyYUpPFX6qWe+HM6H/YFAvWxZK9qrXCv3FRQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-bd5ed0d671bf3979bb03fca4424c5864f5430474/Cargo.lock;
+      lockFile = ./rustdesk-ec1da900ec6bfa35b7f1302c34871f58604d5e5e/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,27 +1034,27 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-01-31";
+    date = "2023-02-01";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "2830be95a75e8cdd59c65697d2e77762982e305b";
+    version = "fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "2830be95a75e8cdd59c65697d2e77762982e305b";
+      rev = "fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2";
       fetchSubmodules = false;
-      sha256 = "sha256-QSHj5gk3XH4Ixwlh9h2fJYoph4HawJPMewQbd8WLKQA=";
+      sha256 = "sha256-sGn84hgKEu3cP8aSWxXlQv2LiwqmtkJHN396g4EgeMU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-2830be95a75e8cdd59c65697d2e77762982e305b/Cargo.lock;
+      lockFile = ./rustdesk-server-fe3b42809ab1f50ee0529c997c0d5ad122b0e6f2/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
         "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
       };
     };
-    date = "2023-01-27";
+    date = "2023-02-01";
   };
   sddm = {
     pname = "sddm";
@@ -1155,15 +1155,15 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "f8c91b681feb3389b3c12c6a70424aba84b3afd2";
+    version = "5d5eca15aee706a9d4b115e44fba428326eba980";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "f8c91b681feb3389b3c12c6a70424aba84b3afd2";
+      rev = "5d5eca15aee706a9d4b115e44fba428326eba980";
       fetchSubmodules = false;
-      sha256 = "sha256-ZuwaQhJ6dCuhw0bW5kB3vxH3GfDPM7y3l//5F6xRyV0=";
+      sha256 = "sha256-cJH7hQerXPktMKbk72c2zC9Dibs4WQI0+bD76R7j/44=";
     });
-    date = "2023-01-23";
+    date = "2023-02-01";
   };
   spotify = {
     pname = "spotify";
