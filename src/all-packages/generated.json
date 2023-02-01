@@ -1172,11 +1172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GI9s/Cx240rVUwDqoj9oFf3kCuQ84Zz/fhFzlK3G0xI=",
+            "sha256": "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1652.0-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb"
         },
-        "version": "111.0.1652.0"
+        "version": "111.0.1633.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1321,7 +1321,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-bc78e647390ce5b0927d69992e212ef221c69943/Cargo.lock",
+                "./ouch-ab675e8dbb9f101eceea6ca7eeb874955adeb20e/Cargo.lock",
                 {}
             ]
         },
@@ -1337,11 +1337,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "bc78e647390ce5b0927d69992e212ef221c69943",
-            "sha256": "sha256-+wxOxdv8qD1+Q+UCbpUH6hQUYEVAnVnfbfOV5s6B+4Y=",
+            "rev": "ab675e8dbb9f101eceea6ca7eeb874955adeb20e",
+            "sha256": "sha256-ltKIj0APCG+525UC+9ivoBg7vJZcsL0V//gBa2+5vmY=",
             "type": "github"
         },
-        "version": "bc78e647390ce5b0927d69992e212ef221c69943"
+        "version": "ab675e8dbb9f101eceea6ca7eeb874955adeb20e"
     },
     "paper": {
         "cargoLocks": {
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-01-31",
+        "date": "2023-02-01",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "c27e73e736467a29c85e8b73212238a4b52388d0",
-            "sha256": "sha256-RYRfhczgzs1FcONVmDiX6uWlcxi6hyC5Ty33RJUKtMI=",
+            "rev": "66507d86a73d3d8337f4dd27d9c8ee8350d08875",
+            "sha256": "sha256-U71T4xhWlmVbUPicdoX5iWRpr1j1X58GpdPHI7oKESM=",
             "type": "github"
         },
-        "version": "c27e73e736467a29c85e8b73212238a4b52388d0"
+        "version": "66507d86a73d3d8337f4dd27d9c8ee8350d08875"
     },
     "rofi-wayland": {
         "cargoLocks": null,

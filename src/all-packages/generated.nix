@@ -704,10 +704,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "111.0.1652.0";
+    version = "111.0.1633.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1652.0-1_amd64.deb";
-      sha256 = "sha256-GI9s/Cx240rVUwDqoj9oFf3kCuQ84Zz/fhFzlK3G0xI=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_111.0.1633.0-1_amd64.deb";
+      sha256 = "sha256-R9wjwIKEc+ZwbRnAnBMftKpFUzrtdc2oLITRahFrI6A=";
     };
   };
   microsoft-edge-stable = {
@@ -792,16 +792,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "bc78e647390ce5b0927d69992e212ef221c69943";
+    version = "ab675e8dbb9f101eceea6ca7eeb874955adeb20e";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "bc78e647390ce5b0927d69992e212ef221c69943";
+      rev = "ab675e8dbb9f101eceea6ca7eeb874955adeb20e";
       fetchSubmodules = false;
-      sha256 = "sha256-+wxOxdv8qD1+Q+UCbpUH6hQUYEVAnVnfbfOV5s6B+4Y=";
+      sha256 = "sha256-ltKIj0APCG+525UC+9ivoBg7vJZcsL0V//gBa2+5vmY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-bc78e647390ce5b0927d69992e212ef221c69943/Cargo.lock;
+      lockFile = ./ouch-ab675e8dbb9f101eceea6ca7eeb874955adeb20e/Cargo.lock;
       outputHashes = {
         
       };
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c27e73e736467a29c85e8b73212238a4b52388d0";
+    version = "66507d86a73d3d8337f4dd27d9c8ee8350d08875";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c27e73e736467a29c85e8b73212238a4b52388d0";
+      rev = "66507d86a73d3d8337f4dd27d9c8ee8350d08875";
       fetchSubmodules = false;
-      sha256 = "sha256-RYRfhczgzs1FcONVmDiX6uWlcxi6hyC5Ty33RJUKtMI=";
+      sha256 = "sha256-U71T4xhWlmVbUPicdoX5iWRpr1j1X58GpdPHI7oKESM=";
     });
-    date = "2023-01-31";
+    date = "2023-02-01";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
