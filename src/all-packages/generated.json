@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "51e1ab5560d14dfb3d743715ac9fe39628db198a",
-            "sha256": "sha256-lw1QIfwrD+FsgOAt5mYv/FdCbEf4GUn4B16u5t+IGVg=",
+            "rev": "623176ebc925261eeb3e631a092f1f283c013233",
+            "sha256": "sha256-cTqSxqTUhtjWDwC6PCKNeJsyGdaZzMgkIqm12TdW2hI=",
             "type": "github"
         },
-        "version": "51e1ab5560d14dfb3d743715ac9fe39628db198a"
+        "version": "623176ebc925261eeb3e631a092f1f283c013233"
     },
     "tailscale-systray": {
         "cargoLocks": null,
