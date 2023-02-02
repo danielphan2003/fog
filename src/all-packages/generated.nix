@@ -337,15 +337,15 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "5438eed2f43e0ac26cc3c441f680faecbaf4762d";
+    version = "11e824bd13a03ad092dc2a8675752ba2f1ad3662";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "5438eed2f43e0ac26cc3c441f680faecbaf4762d";
+      rev = "11e824bd13a03ad092dc2a8675752ba2f1ad3662";
       fetchSubmodules = false;
-      sha256 = "sha256-8GCU3a5qjCNEI8gcmzNesgvZEiyfiNfxewy6Yiy5oi8=";
+      sha256 = "sha256-YUFghZRmPFCSqIB+yJbkb45GalBwppJlWXGRVcJWWOw=";
     });
-    date = "2023-01-08";
+    date = "2023-02-02";
   };
   doggo = {
     pname = "doggo";
@@ -451,14 +451,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "538715843bdae16df25d568ec3b31e1f66c6d573";
+    version = "44ea0a9da57459903a567b8b04cd3b5a1c581ede";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "538715843bdae16df25d568ec3b31e1f66c6d573";
+      rev = "44ea0a9da57459903a567b8b04cd3b5a1c581ede";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xS0Uxjjmus6YxYvUcAXIj9hCKtB0s5XVzxVo0ocELhU=";
+      sha256 = "sha256-SprA4l2lVzOC+G0ID2EgH0g/4mE+onihrwAr7IlNwNc=";
     };
     date = "2023-02-02";
   };
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6955";
+    version = "1.0.6956";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6955.tar.bz2";
-      sha256 = "sha256-6W9y1EkLuy3St8uaWgFctpYRGMiNei9/8Kxl2EwY/MQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6956.tar.bz2";
+      sha256 = "sha256-Un5etII1MRy1sZWXh2LlSYC9NG+GAp3g2j0HJSM8+jw=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6955";
+    version = "1.0.6956";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6955-1_all.deb";
-      sha256 = "sha256-+rc0EfsR1CMu/IFZEMwml2/7FX9rUNEB1FpJNCc2dZU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6956-1_all.deb";
+      sha256 = "sha256-Ndcz2AT1iaJ67mksGp5QdBuBrdXnteIE+i6151a5zL4=";
     };
   };
   jitsi-videobridge2 = {
