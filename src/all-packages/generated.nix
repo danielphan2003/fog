@@ -337,13 +337,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "11e824bd13a03ad092dc2a8675752ba2f1ad3662";
+    version = "f7df72eafabeb465af25849bd9425ece5ef5ff4e";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "11e824bd13a03ad092dc2a8675752ba2f1ad3662";
+      rev = "f7df72eafabeb465af25849bd9425ece5ef5ff4e";
       fetchSubmodules = false;
-      sha256 = "sha256-YUFghZRmPFCSqIB+yJbkb45GalBwppJlWXGRVcJWWOw=";
+      sha256 = "sha256-iJPX72TJWqj4xup/Y7TXoOhJ9khG61H28bZzXeydJ5I=";
     });
     date = "2023-02-02";
   };
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5ba25438288d62bbd5319d5d900de51d34d22b77";
+    version = "2dc3dc21a8076e350cb1cee7e03d6e21aaa6f7a3";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5ba25438288d62bbd5319d5d900de51d34d22b77";
+      rev = "2dc3dc21a8076e350cb1cee7e03d6e21aaa6f7a3";
       fetchSubmodules = false;
-      sha256 = "sha256-5fEQfcD87SMqKNIa36jViVljm/qItPrqFPEn75psZC8=";
+      sha256 = "sha256-gLAFSjiGdsUVv2xQib3dXoo95Pvz1ZdhVDd1x9SFzSw=";
     });
     date = "2023-02-02";
   };
