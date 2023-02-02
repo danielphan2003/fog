@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-40zzMc7f0joRzxjX90G2L9gP2MCLDI7yYcRMrNbnp9E=",
+            "sha256": "sha256-aJFwM3Y/eZTL646CeFE6hTcixyH6qRsqB7RLeJ37KFI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-988-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-989-1_all.deb"
         },
-        "version": "1.0-988"
+        "version": "1.0-989"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-naeEB731Fr9+ABEkXNsdrI2/BJcIIosOUBlme8NTCDE=",
+            "sha256": "sha256-5TcqSNfJzTV5yi8OL/WVY+bhWrISZ2kU11qS4JZFYJQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6957.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6958.tar.bz2"
         },
-        "version": "1.0.6957"
+        "version": "1.0.6958"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y8pWYPF8DophOVl5yNf6+hybajRFP9yWveUovfvY+8U=",
+            "sha256": "sha256-qRcDvn7uiu1cz/CFscfS+YNK8QjlY03DEEG9o0p0hWw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6957-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6958-1_all.deb"
         },
-        "version": "1.0.6957"
+        "version": "1.0.6958"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-02-01",
+        "date": "2023-02-02",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "2755f3843c6f5d91d3f54e57091c531bd18170d5",
-            "sha256": "sha256-pPHGAMjqvrgs9RKW2n/MGLIHZ+ZT8wtzSmZ1uhVNuHI=",
+            "rev": "c4eb857405098332ac87d8a42eb491aafd944bef",
+            "sha256": "sha256-lM5ZfwStXWSwsu5CCRuAEPL30AInGu+UT8E4dL+n1V0=",
             "type": "github"
         },
-        "version": "2755f3843c6f5d91d3f54e57091c531bd18170d5"
+        "version": "c4eb857405098332ac87d8a42eb491aafd944bef"
     },
     "tailscale-systray": {
         "cargoLocks": null,

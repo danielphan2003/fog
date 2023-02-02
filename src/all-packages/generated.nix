@@ -585,26 +585,26 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-988";
+    version = "1.0-989";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-988-1_all.deb";
-      sha256 = "sha256-40zzMc7f0joRzxjX90G2L9gP2MCLDI7yYcRMrNbnp9E=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-989-1_all.deb";
+      sha256 = "sha256-aJFwM3Y/eZTL646CeFE6hTcixyH6qRsqB7RLeJ37KFI=";
     };
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6957";
+    version = "1.0.6958";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6957.tar.bz2";
-      sha256 = "sha256-naeEB731Fr9+ABEkXNsdrI2/BJcIIosOUBlme8NTCDE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6958.tar.bz2";
+      sha256 = "sha256-5TcqSNfJzTV5yi8OL/WVY+bhWrISZ2kU11qS4JZFYJQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6957";
+    version = "1.0.6958";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6957-1_all.deb";
-      sha256 = "sha256-Y8pWYPF8DophOVl5yNf6+hybajRFP9yWveUovfvY+8U=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6958-1_all.deb";
+      sha256 = "sha256-qRcDvn7uiu1cz/CFscfS+YNK8QjlY03DEEG9o0p0hWw=";
     };
   };
   jitsi-videobridge2 = {
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2755f3843c6f5d91d3f54e57091c531bd18170d5";
+    version = "c4eb857405098332ac87d8a42eb491aafd944bef";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2755f3843c6f5d91d3f54e57091c531bd18170d5";
+      rev = "c4eb857405098332ac87d8a42eb491aafd944bef";
       fetchSubmodules = false;
-      sha256 = "sha256-pPHGAMjqvrgs9RKW2n/MGLIHZ+ZT8wtzSmZ1uhVNuHI=";
+      sha256 = "sha256-lM5ZfwStXWSwsu5CCRuAEPL30AInGu+UT8E4dL+n1V0=";
     });
-    date = "2023-02-01";
+    date = "2023-02-02";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
