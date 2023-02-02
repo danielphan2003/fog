@@ -337,13 +337,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "f7df72eafabeb465af25849bd9425ece5ef5ff4e";
+    version = "8694753866cf878bef271e49bc3c72522ef1f783";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "f7df72eafabeb465af25849bd9425ece5ef5ff4e";
+      rev = "8694753866cf878bef271e49bc3c72522ef1f783";
       fetchSubmodules = false;
-      sha256 = "sha256-iJPX72TJWqj4xup/Y7TXoOhJ9khG61H28bZzXeydJ5I=";
+      sha256 = "sha256-5wfxjx8SxynY6DpPIvOLwSsBdM/0zSzfaVDQTI/RUD0=";
     });
     date = "2023-02-02";
   };
@@ -712,10 +712,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "109.0.1518.70";
+    version = "109.0.1518.78";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.70-1_amd64.deb";
-      sha256 = "sha256-PCoFb+neyIq7KyQWLynGrkqpxFFd+iz/ER1LpYcpBY4=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_109.0.1518.78-1_amd64.deb";
+      sha256 = "sha256-/1NNoCDUMWCRpsicZujGxPLgrlMWTySFIVMA8XCLhck=";
     };
   };
   minecraft-wayland = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa";
+    version = "23976e9b4410000a02b81f398a8a7f0e139fc8ad";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa";
+      rev = "23976e9b4410000a02b81f398a8a7f0e139fc8ad";
       fetchSubmodules = false;
-      sha256 = "sha256-nmsQAuABQujGImbD59t0yeWUbonyqS8vGaaLT+vUicU=";
+      sha256 = "sha256-l38DGT18L4KJW+A0s8GXjDHyiXZFZG8hW16Hdh3QuHA=";
     });
     date = "2023-02-02";
   };
