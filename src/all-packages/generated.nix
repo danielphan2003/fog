@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "66507d86a73d3d8337f4dd27d9c8ee8350d08875";
+    version = "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "66507d86a73d3d8337f4dd27d9c8ee8350d08875";
+      rev = "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa";
       fetchSubmodules = false;
-      sha256 = "sha256-U71T4xhWlmVbUPicdoX5iWRpr1j1X58GpdPHI7oKESM=";
+      sha256 = "sha256-nmsQAuABQujGImbD59t0yeWUbonyqS8vGaaLT+vUicU=";
     });
-    date = "2023-02-01";
+    date = "2023-02-02";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1183,21 +1183,21 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "946d81c6fc219efd6b4509167f71aa90b1cbd858";
+    version = "0c4f6f92beab55f6cb98e076ea07ae65fcda8da2";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "946d81c6fc219efd6b4509167f71aa90b1cbd858";
+      rev = "0c4f6f92beab55f6cb98e076ea07ae65fcda8da2";
       fetchSubmodules = false;
-      sha256 = "sha256-EYsvOcXpfUqbEpexUlpT5ZYIUkB138E1mMlxfmmUEcI=";
+      sha256 = "sha256-pA/0TAXl6O5gmh3GQaRC/wFOdfw5tFKljz+ybQBKLOU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-946d81c6fc219efd6b4509167f71aa90b1cbd858/Cargo.lock;
+      lockFile = ./spotifyd-0c4f6f92beab55f6cb98e076ea07ae65fcda8da2/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-08";
+    date = "2023-02-01";
   };
   steamcompmgr = {
     pname = "steamcompmgr";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "623176ebc925261eeb3e631a092f1f283c013233";
+    version = "b1248442c3e40371c34fdf5bd90138b3ece615a7";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "623176ebc925261eeb3e631a092f1f283c013233";
+      rev = "b1248442c3e40371c34fdf5bd90138b3ece615a7";
       fetchSubmodules = false;
-      sha256 = "sha256-cTqSxqTUhtjWDwC6PCKNeJsyGdaZzMgkIqm12TdW2hI=";
+      sha256 = "sha256-1mMJPjgkNt42Gyy1kyrZVSwqeCk3WgrbN64YG+HWQY4=";
     });
     date = "2023-02-01";
   };

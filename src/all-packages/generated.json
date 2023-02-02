@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-02-01",
+        "date": "2023-02-02",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "66507d86a73d3d8337f4dd27d9c8ee8350d08875",
-            "sha256": "sha256-U71T4xhWlmVbUPicdoX5iWRpr1j1X58GpdPHI7oKESM=",
+            "rev": "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa",
+            "sha256": "sha256-nmsQAuABQujGImbD59t0yeWUbonyqS8vGaaLT+vUicU=",
             "type": "github"
         },
-        "version": "66507d86a73d3d8337f4dd27d9c8ee8350d08875"
+        "version": "f2ee255698ecd61f1b19e3c2a3f3b165a948bffa"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1950,11 +1950,11 @@
     "spotifyd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./spotifyd-946d81c6fc219efd6b4509167f71aa90b1cbd858/Cargo.lock",
+                "./spotifyd-0c4f6f92beab55f6cb98e076ea07ae65fcda8da2/Cargo.lock",
                 {}
             ]
         },
-        "date": "2023-01-08",
+        "date": "2023-02-01",
         "extract": null,
         "name": "spotifyd",
         "passthru": null,
@@ -1966,11 +1966,11 @@
             "name": null,
             "owner": "Spotifyd",
             "repo": "spotifyd",
-            "rev": "946d81c6fc219efd6b4509167f71aa90b1cbd858",
-            "sha256": "sha256-EYsvOcXpfUqbEpexUlpT5ZYIUkB138E1mMlxfmmUEcI=",
+            "rev": "0c4f6f92beab55f6cb98e076ea07ae65fcda8da2",
+            "sha256": "sha256-pA/0TAXl6O5gmh3GQaRC/wFOdfw5tFKljz+ybQBKLOU=",
             "type": "github"
         },
-        "version": "946d81c6fc219efd6b4509167f71aa90b1cbd858"
+        "version": "0c4f6f92beab55f6cb98e076ea07ae65fcda8da2"
     },
     "steamcompmgr": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "623176ebc925261eeb3e631a092f1f283c013233",
-            "sha256": "sha256-cTqSxqTUhtjWDwC6PCKNeJsyGdaZzMgkIqm12TdW2hI=",
+            "rev": "b1248442c3e40371c34fdf5bd90138b3ece615a7",
+            "sha256": "sha256-1mMJPjgkNt42Gyy1kyrZVSwqeCk3WgrbN64YG+HWQY4=",
             "type": "github"
         },
-        "version": "623176ebc925261eeb3e631a092f1f283c013233"
+        "version": "b1248442c3e40371c34fdf5bd90138b3ece615a7"
     },
     "tailscale-systray": {
         "cargoLocks": null,
