@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "44ea0a9da57459903a567b8b04cd3b5a1c581ede",
-            "sha256": "sha256-SprA4l2lVzOC+G0ID2EgH0g/4mE+onihrwAr7IlNwNc=",
+            "rev": "8eba2b2a1f48faf662dd56afc540fd6e83398434",
+            "sha256": "sha256-DjdUQ7khkMFbiKA2xzFgRYgrI+lokdX2KiHbGPM0ivI=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "44ea0a9da57459903a567b8b04cd3b5a1c581ede"
+        "version": "8eba2b2a1f48faf662dd56afc540fd6e83398434"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aJFwM3Y/eZTL646CeFE6hTcixyH6qRsqB7RLeJ37KFI=",
+            "sha256": "sha256-438PGGYXbn9EtRKb3GU19+uCAxa4ypzPSCdU89pq+9c=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-989-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-990-1_all.deb"
         },
-        "version": "1.0-989"
+        "version": "1.0-990"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1735,7 +1735,7 @@
     },
     "sddm": {
         "cargoLocks": null,
-        "date": "2023-02-01",
+        "date": "2023-02-02",
         "extract": null,
         "name": "sddm",
         "passthru": null,
@@ -1747,11 +1747,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "3ee57e99836fe051c97e0f301962120466d220f7",
-            "sha256": "sha256-ZLVgEEpXWihdcAw2Ws9Yc36rZAfP0wjvBgaE3c4E3Z0=",
+            "rev": "9896dea10339ec478574f6ef7f9809854a0a8986",
+            "sha256": "sha256-h9vTmfVM0A/h+25M2PjOrPqYnKf6LBOx9BUD0pZ+LnQ=",
             "type": "github"
         },
-        "version": "3ee57e99836fe051c97e0f301962120466d220f7"
+        "version": "9896dea10339ec478574f6ef7f9809854a0a8986"
     },
     "sddm-chili": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c4eb857405098332ac87d8a42eb491aafd944bef",
-            "sha256": "sha256-lM5ZfwStXWSwsu5CCRuAEPL30AInGu+UT8E4dL+n1V0=",
+            "rev": "5ba25438288d62bbd5319d5d900de51d34d22b77",
+            "sha256": "sha256-5fEQfcD87SMqKNIa36jViVljm/qItPrqFPEn75psZC8=",
             "type": "github"
         },
-        "version": "c4eb857405098332ac87d8a42eb491aafd944bef"
+        "version": "5ba25438288d62bbd5319d5d900de51d34d22b77"
     },
     "tailscale-systray": {
         "cargoLocks": null,
