@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fd3a1cd086d077c39c5634ff6c9be9893857dc55";
+    version = "d81f45e54a423cf3af522ca901a2f356d63100c0";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fd3a1cd086d077c39c5634ff6c9be9893857dc55";
+      rev = "d81f45e54a423cf3af522ca901a2f356d63100c0";
       fetchSubmodules = false;
-      sha256 = "sha256-WpR1RqbJlNmcuRWXjbZ5MBgr1xx5f/SbWomexmishkc=";
+      sha256 = "sha256-hH1ZfuzAnhsGoMmFC2RMGHkWj9G/X0H0om6mhBOoT0A=";
     });
     date = "2023-02-03";
   };
@@ -1143,13 +1143,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "09930460c02a06ef376478b6698681ce99ab8170";
+    version = "ca620e410931c563fe1b908e10bdc256416cad88";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "09930460c02a06ef376478b6698681ce99ab8170";
+      rev = "ca620e410931c563fe1b908e10bdc256416cad88";
       fetchSubmodules = false;
-      sha256 = "sha256-ZbeqM2HGBas7sgd+BGwYghK+abznxnv/MBJAUiAaMQU=";
+      sha256 = "sha256-NrC6So/LNV4dYNQ2ytHBx7vLOB05DdB/nOT7YciFvVQ=";
     });
     date = "2023-02-03";
   };
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "0aa7b495d5a6a4ebfae6a700df832366185718e5";
+    version = "880a41bfccd4460de553d122b16c1f4996117bf1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "0aa7b495d5a6a4ebfae6a700df832366185718e5";
+      rev = "880a41bfccd4460de553d122b16c1f4996117bf1";
       fetchSubmodules = false;
-      sha256 = "sha256-2KH0e6UymOLv51Lf5JURDZNNcWWJCr0Y82Lq/vqvL5M=";
+      sha256 = "sha256-jH/AesxAkqroap25ZgwjpsCp9GjKB62QDEESQ0dKLt8=";
     });
-    date = "2023-02-02";
+    date = "2023-02-03";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
