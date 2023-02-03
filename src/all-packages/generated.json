@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-02-02",
+        "date": "2023-02-03",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "23976e9b4410000a02b81f398a8a7f0e139fc8ad",
-            "sha256": "sha256-l38DGT18L4KJW+A0s8GXjDHyiXZFZG8hW16Hdh3QuHA=",
+            "rev": "3b5f774d390144e578c0b5dacdd0e9d5ae9d01f3",
+            "sha256": "sha256-vS5EmTlRqFD0g3a5V6s0lvK/MT7+lWtP8Xqv0cpruok=",
             "type": "github"
         },
-        "version": "23976e9b4410000a02b81f398a8a7f0e139fc8ad"
+        "version": "3b5f774d390144e578c0b5dacdd0e9d5ae9d01f3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-5fb32efff094a916eb9674dbd3b2e90d946c7615/Cargo.lock",
+                "./rustdesk-29133e074dd6f1ef85d369cc3b986b9e89252a0e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-02-02",
+        "date": "2023-02-03",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "5fb32efff094a916eb9674dbd3b2e90d946c7615",
-            "sha256": "sha256-G6AeuZnYGFiliYHekev9qfx6DXF0rWZN8n4sPpGJoHQ=",
+            "rev": "29133e074dd6f1ef85d369cc3b986b9e89252a0e",
+            "sha256": "sha256-0TvV+LQYKZzwyd6X2ngAITX3exd7Vrvwlak7Gxsvco0=",
             "type": "github"
         },
-        "version": "5fb32efff094a916eb9674dbd3b2e90d946c7615"
+        "version": "29133e074dd6f1ef85d369cc3b986b9e89252a0e"
     },
     "rustdesk-server": {
         "cargoLocks": {
