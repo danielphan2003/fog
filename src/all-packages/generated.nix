@@ -451,14 +451,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "0f69a1fefb1d12d559ea7b1cbf90c7387736e18a";
+    version = "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "0f69a1fefb1d12d559ea7b1cbf90c7387736e18a";
+      rev = "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-GeCdV+mz3vpIobDM8fjoywpJTE21eD3SpAmZ1L2OC7g=";
+      sha256 = "sha256-QImgSa4zQfSMRwQTy3vwArTtodhubtWfTFtwxH/5dGQ=";
     };
     date = "2023-02-03";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "50c8855d2816897527fb65c4cd01c8e1f7f16c6a";
+    version = "a2c3c8ef91bcf9c3d2e84e0d6225081c2e0139ea";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "50c8855d2816897527fb65c4cd01c8e1f7f16c6a";
+      rev = "a2c3c8ef91bcf9c3d2e84e0d6225081c2e0139ea";
       fetchSubmodules = false;
-      sha256 = "sha256-W3Befvs4AxxPxqSLoGBDScoFrZ0FsXChw8qerlTbAMU=";
+      sha256 = "sha256-CBu0KsonS31d1hijDbs54c36+9kYwziADHg2FiDzE84=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-50c8855d2816897527fb65c4cd01c8e1f7f16c6a/Cargo.lock;
+      lockFile = ./rustdesk-a2c3c8ef91bcf9c3d2e84e0d6225081c2e0139ea/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
