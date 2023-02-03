@@ -551,7 +551,7 @@
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
-        "date": "2023-02-02",
+        "date": "2023-02-03",
         "extract": null,
         "name": "dnscrypt-proxy2",
         "passthru": null,
@@ -563,11 +563,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "8694753866cf878bef271e49bc3c72522ef1f783",
-            "sha256": "sha256-5wfxjx8SxynY6DpPIvOLwSsBdM/0zSzfaVDQTI/RUD0=",
+            "rev": "3517dec376c71201e9ce5e253ff889ed29faceb9",
+            "sha256": "sha256-O7aGyS6L+NwQ3GK1r4GatqAnBipVmyez3o5dEpLSXY0=",
             "type": "github"
         },
-        "version": "8694753866cf878bef271e49bc3c72522ef1f783"
+        "version": "3517dec376c71201e9ce5e253ff889ed29faceb9"
     },
     "doggo": {
         "cargoLocks": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "494103b521ceda64d40d7847979e5a2c2f6ca201",
-            "sha256": "sha256-LT1lGW+tFlo1rQyMJs6BBIRelrrZNySFnfHeaehGDQs=",
+            "rev": "fd3a1cd086d077c39c5634ff6c9be9893857dc55",
+            "sha256": "sha256-WpR1RqbJlNmcuRWXjbZ5MBgr1xx5f/SbWomexmishkc=",
             "type": "github"
         },
-        "version": "494103b521ceda64d40d7847979e5a2c2f6ca201"
+        "version": "fd3a1cd086d077c39c5634ff6c9be9893857dc55"
     },
     "ibus": {
         "cargoLocks": null,
@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t+jlevItmt0Dw4KczgV5L4IYp8KWp0jpBvBuU4Ye+U0=",
+            "sha256": "sha256-LbabvZ9V0QPydi+hbZMVuTtip9jrkwRlVPE5Bzyrfeo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6962.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6963.tar.bz2"
         },
-        "version": "1.0.6962"
+        "version": "1.0.6963"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/K+ZxFbggFtUEOGwp8T87rE//pu/CkgKHU/dWzwwX/Y=",
+            "sha256": "sha256-hGYJNl7UpNYG6eHzaouW2oSnrtXkPgpWc4PTIWFC1NY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6962-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6963-1_all.deb"
         },
-        "version": "1.0.6962"
+        "version": "1.0.6963"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-a9b5739221eb220883d87e2d58c1cc2b4917530b/Cargo.lock",
+                "./rustdesk-a7f0b63623b5bac5eb2e7ba94671a38aa54eeb13/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "a9b5739221eb220883d87e2d58c1cc2b4917530b",
-            "sha256": "sha256-pA9VcVQfV6Y7MxHnEDn1u7Swynryb9KfrXg3LCfqUF8=",
+            "rev": "a7f0b63623b5bac5eb2e7ba94671a38aa54eeb13",
+            "sha256": "sha256-C95QkKSFoUDjt/vYpIPF/Dmd2zW3CVKwpJ8IxcLKYHs=",
             "type": "github"
         },
-        "version": "a9b5739221eb220883d87e2d58c1cc2b4917530b"
+        "version": "a7f0b63623b5bac5eb2e7ba94671a38aa54eeb13"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1879,7 +1879,7 @@
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
-        "date": "2023-02-01",
+        "date": "2023-02-03",
         "extract": null,
         "name": "spicetify-marketplace",
         "passthru": null,
@@ -1891,11 +1891,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "9b6f71be7c0b01817d6975dbfaaed2de9f14d178",
-            "sha256": "sha256-M8R9HpnEQPmuy0xW+kU/6LLTxfZdzxhAbxk4fbHKD/s=",
+            "rev": "09930460c02a06ef376478b6698681ce99ab8170",
+            "sha256": "sha256-ZbeqM2HGBas7sgd+BGwYghK+abznxnv/MBJAUiAaMQU=",
             "type": "github"
         },
-        "version": "9b6f71be7c0b01817d6975dbfaaed2de9f14d178"
+        "version": "09930460c02a06ef376478b6698681ce99ab8170"
     },
     "spicetify-themes": {
         "cargoLocks": null,
