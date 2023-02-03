@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d81f45e54a423cf3af522ca901a2f356d63100c0";
+    version = "a0bc0e4998f464656e74cbc683986204189ebefb";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d81f45e54a423cf3af522ca901a2f356d63100c0";
+      rev = "a0bc0e4998f464656e74cbc683986204189ebefb";
       fetchSubmodules = false;
-      sha256 = "sha256-hH1ZfuzAnhsGoMmFC2RMGHkWj9G/X0H0om6mhBOoT0A=";
+      sha256 = "sha256-j+U1KwSOfUgJawy4/9xEX2zKWOegNkvuSaQGZo06fnw=";
     });
     date = "2023-02-03";
   };
@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6963";
+    version = "1.0.6964";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6963.tar.bz2";
-      sha256 = "sha256-LbabvZ9V0QPydi+hbZMVuTtip9jrkwRlVPE5Bzyrfeo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6964.tar.bz2";
+      sha256 = "sha256-w8erjsLpUkWGmIndAB6Tg/5PcSkbtt9dKthnRrD0SuI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6963";
+    version = "1.0.6964";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6963-1_all.deb";
-      sha256 = "sha256-hGYJNl7UpNYG6eHzaouW2oSnrtXkPgpWc4PTIWFC1NY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6964-1_all.deb";
+      sha256 = "sha256-tLuxAvlaKYyh9178FT9LfdcrvUNeirUOhmQmSMOmeJc=";
     };
   };
   jitsi-videobridge2 = {
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "880a41bfccd4460de553d122b16c1f4996117bf1";
+    version = "38b32be92684e8cc20d1f1465db291966d8df7a7";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "880a41bfccd4460de553d122b16c1f4996117bf1";
+      rev = "38b32be92684e8cc20d1f1465db291966d8df7a7";
       fetchSubmodules = false;
-      sha256 = "sha256-jH/AesxAkqroap25ZgwjpsCp9GjKB62QDEESQ0dKLt8=";
+      sha256 = "sha256-4/FIY0bLRppKq3s8r9OBZhG5fQtE9M6GkQtEcHIeQhs=";
     });
     date = "2023-02-03";
   };
