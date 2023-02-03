@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "8eba2b2a1f48faf662dd56afc540fd6e83398434";
+    version = "0f69a1fefb1d12d559ea7b1cbf90c7387736e18a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "8eba2b2a1f48faf662dd56afc540fd6e83398434";
+      rev = "0f69a1fefb1d12d559ea7b1cbf90c7387736e18a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DjdUQ7khkMFbiKA2xzFgRYgrI+lokdX2KiHbGPM0ivI=";
+      sha256 = "sha256-GeCdV+mz3vpIobDM8fjoywpJTE21eD3SpAmZ1L2OC7g=";
     };
-    date = "2023-02-02";
+    date = "2023-02-03";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "02f0a829edf5e3659be6a1191f2872e6b1050c11";
+    version = "338430d1ec451dd2d974e7f7c206ed1fa017aa07";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "02f0a829edf5e3659be6a1191f2872e6b1050c11";
+      rev = "338430d1ec451dd2d974e7f7c206ed1fa017aa07";
       fetchSubmodules = false;
-      sha256 = "sha256-9SfC2DbjzD0FMxR0EmSbmq+3yFfhB0/o5O7n4TbUjxI=";
+      sha256 = "sha256-hsJZWsTDtzQiYRD/ud+MGMmboNj9o2SdFOIlo50AYGg=";
     });
     date = "2023-02-03";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "29133e074dd6f1ef85d369cc3b986b9e89252a0e";
+    version = "dbb5eb0c8ec2918940d086972103c4d1246f6e0e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "29133e074dd6f1ef85d369cc3b986b9e89252a0e";
+      rev = "dbb5eb0c8ec2918940d086972103c4d1246f6e0e";
       fetchSubmodules = false;
-      sha256 = "sha256-0TvV+LQYKZzwyd6X2ngAITX3exd7Vrvwlak7Gxsvco0=";
+      sha256 = "sha256-ne3bpFtbQ26HsM35e1HT20xAWKKtkOGMO3A5G6QbaC8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-29133e074dd6f1ef85d369cc3b986b9e89252a0e/Cargo.lock;
+      lockFile = ./rustdesk-dbb5eb0c8ec2918940d086972103c4d1246f6e0e/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
