@@ -337,15 +337,15 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "3517dec376c71201e9ce5e253ff889ed29faceb9";
+    version = "84184bbad85a0a3e95fffc9a572595abe68a5aa4";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "3517dec376c71201e9ce5e253ff889ed29faceb9";
+      rev = "84184bbad85a0a3e95fffc9a572595abe68a5aa4";
       fetchSubmodules = false;
-      sha256 = "sha256-O7aGyS6L+NwQ3GK1r4GatqAnBipVmyez3o5dEpLSXY0=";
+      sha256 = "sha256-10resWz/Wyi5JOIW0Tq6mqfNADTD/EaEg6GRu+uvNP0=";
     });
-    date = "2023-02-03";
+    date = "2023-02-04";
   };
   doggo = {
     pname = "doggo";
@@ -451,14 +451,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "72767f0716c79ca88465c85309dba8e39fd9736d";
+    version = "ca03042ff81cd4b2489d783690b38deed510cd8d";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "72767f0716c79ca88465c85309dba8e39fd9736d";
+      rev = "ca03042ff81cd4b2489d783690b38deed510cd8d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-r1OJS6LjDWgyOhHkYrpRZXzioJ3PBknD4Pt4zqV3zcQ=";
+      sha256 = "sha256-jObuQ4yJpYVSrnYwbPCxgsogYr2ARZEYKX4Y6TE6oBo=";
     };
     date = "2023-02-04";
   };
@@ -1058,15 +1058,15 @@
   };
   sddm = {
     pname = "sddm";
-    version = "7df16ceeb742251cba7d9ce6b44488b731e33c38";
+    version = "883787f2dcc5afe904ff8dd76638b81871ea0224";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "7df16ceeb742251cba7d9ce6b44488b731e33c38";
+      rev = "883787f2dcc5afe904ff8dd76638b81871ea0224";
       fetchSubmodules = false;
-      sha256 = "sha256-tUziMtQ6NG0t2n8qpmM//NMayGcOZNNr43iggWngubM=";
+      sha256 = "sha256-0AvjiaNMvzmItea3hO5dq12z8LSvz4MUgdmnzcoHJCA=";
     });
-    date = "2023-02-03";
+    date = "2023-02-04";
   };
   sddm-chili = {
     pname = "sddm-chili";
