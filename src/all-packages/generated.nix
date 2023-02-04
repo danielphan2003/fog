@@ -337,13 +337,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "84184bbad85a0a3e95fffc9a572595abe68a5aa4";
+    version = "3f31c4d3e2106932afce1ab9497a70a9bcec786f";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "84184bbad85a0a3e95fffc9a572595abe68a5aa4";
+      rev = "3f31c4d3e2106932afce1ab9497a70a9bcec786f";
       fetchSubmodules = false;
-      sha256 = "sha256-10resWz/Wyi5JOIW0Tq6mqfNADTD/EaEg6GRu+uvNP0=";
+      sha256 = "sha256-4aqTSHOVlhHRB6hmwzItiuKPq/VQfmH4BizWfyfKaiE=";
     });
     date = "2023-02-04";
   };
@@ -792,21 +792,21 @@
   };
   ouch = {
     pname = "ouch";
-    version = "ab675e8dbb9f101eceea6ca7eeb874955adeb20e";
+    version = "77caa739080343bcd0c72ab924e3dd09287bc75d";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "ab675e8dbb9f101eceea6ca7eeb874955adeb20e";
+      rev = "77caa739080343bcd0c72ab924e3dd09287bc75d";
       fetchSubmodules = false;
-      sha256 = "sha256-ltKIj0APCG+525UC+9ivoBg7vJZcsL0V//gBa2+5vmY=";
+      sha256 = "sha256-f8GeEKSd7osNSsUjA1y9yTGN5DpC6GCvdHki5QNIpp8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-ab675e8dbb9f101eceea6ca7eeb874955adeb20e/Cargo.lock;
+      lockFile = ./ouch-77caa739080343bcd0c72ab924e3dd09287bc75d/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-31";
+    date = "2023-02-04";
   };
   paper = {
     pname = "paper";
@@ -1058,13 +1058,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "883787f2dcc5afe904ff8dd76638b81871ea0224";
+    version = "eaf7c51ddc0fe5890cb188d8ca65e5f0fb7b4cd5";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "883787f2dcc5afe904ff8dd76638b81871ea0224";
+      rev = "eaf7c51ddc0fe5890cb188d8ca65e5f0fb7b4cd5";
       fetchSubmodules = false;
-      sha256 = "sha256-0AvjiaNMvzmItea3hO5dq12z8LSvz4MUgdmnzcoHJCA=";
+      sha256 = "sha256-IYx2mjj5F7FNfEmq/7ynZxV4Wwj3J2kSD2sgyGcrxeY=";
     });
     date = "2023-02-04";
   };
