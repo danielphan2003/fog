@@ -792,16 +792,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "77caa739080343bcd0c72ab924e3dd09287bc75d";
+    version = "52ea0fa18b72608557c4139adacaf827a68c2051";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "77caa739080343bcd0c72ab924e3dd09287bc75d";
+      rev = "52ea0fa18b72608557c4139adacaf827a68c2051";
       fetchSubmodules = false;
-      sha256 = "sha256-f8GeEKSd7osNSsUjA1y9yTGN5DpC6GCvdHki5QNIpp8=";
+      sha256 = "sha256-mD1USfaDRmZ3UJIbRaFOC+iCdyxtdjfOZMZuBDpcEoY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-77caa739080343bcd0c72ab924e3dd09287bc75d/Cargo.lock;
+      lockFile = ./ouch-52ea0fa18b72608557c4139adacaf827a68c2051/Cargo.lock;
       outputHashes = {
         
       };
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4daba23cd4e688f14479369c81f64bfd12607242";
+    version = "1acdcff63ee2fe0512d12c6bccd8ac0e4aefa640";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4daba23cd4e688f14479369c81f64bfd12607242";
+      rev = "1acdcff63ee2fe0512d12c6bccd8ac0e4aefa640";
       fetchSubmodules = false;
-      sha256 = "sha256-36ol/ZCDJ4dSSuQ1PFkut4xJHFbCLCwqG018rEHrqzw=";
+      sha256 = "sha256-SqFvwY68VE3i59K2TpxJqFJAmAfB8MG/lZhF+DYxTzc=";
     });
-    date = "2023-02-03";
+    date = "2023-02-04";
   };
   tailscale-systray = {
     pname = "tailscale-systray";

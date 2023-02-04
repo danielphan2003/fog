@@ -1321,7 +1321,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-77caa739080343bcd0c72ab924e3dd09287bc75d/Cargo.lock",
+                "./ouch-52ea0fa18b72608557c4139adacaf827a68c2051/Cargo.lock",
                 {}
             ]
         },
@@ -1337,11 +1337,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "77caa739080343bcd0c72ab924e3dd09287bc75d",
-            "sha256": "sha256-f8GeEKSd7osNSsUjA1y9yTGN5DpC6GCvdHki5QNIpp8=",
+            "rev": "52ea0fa18b72608557c4139adacaf827a68c2051",
+            "sha256": "sha256-mD1USfaDRmZ3UJIbRaFOC+iCdyxtdjfOZMZuBDpcEoY=",
             "type": "github"
         },
-        "version": "77caa739080343bcd0c72ab924e3dd09287bc75d"
+        "version": "52ea0fa18b72608557c4139adacaf827a68c2051"
     },
     "paper": {
         "cargoLocks": {
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-02-03",
+        "date": "2023-02-04",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "4daba23cd4e688f14479369c81f64bfd12607242",
-            "sha256": "sha256-36ol/ZCDJ4dSSuQ1PFkut4xJHFbCLCwqG018rEHrqzw=",
+            "rev": "1acdcff63ee2fe0512d12c6bccd8ac0e4aefa640",
+            "sha256": "sha256-SqFvwY68VE3i59K2TpxJqFJAmAfB8MG/lZhF+DYxTzc=",
             "type": "github"
         },
-        "version": "4daba23cd4e688f14479369c81f64bfd12607242"
+        "version": "1acdcff63ee2fe0512d12c6bccd8ac0e4aefa640"
     },
     "tailscale-systray": {
         "cargoLocks": null,
