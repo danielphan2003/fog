@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "92fa8e1ca5bc7f77bcec01d685c372033cee79e4",
-            "sha256": "sha256-xsQLwkK+ryuIOv7cjRxNDqDbD8zea17fDWxeTMZuyU8=",
+            "rev": "90482009fc330ce5819cfdef14242fc2e92ce424",
+            "sha256": "sha256-bCpm35eM7h4F9MVTKgPgoQ72utpQ5RT+lJ62TwYbGIY=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "92fa8e1ca5bc7f77bcec01d685c372033cee79e4"
+        "version": "90482009fc330ce5819cfdef14242fc2e92ce424"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "a431c1b01c08cdc1c2f030bebf052aa4f534d12a",
-            "sha256": "sha256-tJwd+nHtmmfoFvl4vx0YZmFAu/QUM7SXUi8XNEIBDU4=",
+            "rev": "760b37f71d200643d3e267472e5cc290d38d1a53",
+            "sha256": "sha256-PcC5DqF2+P2kOewPCg9KM1S/+aS2msrs8ofeJWB68GU=",
             "type": "github"
         },
-        "version": "a431c1b01c08cdc1c2f030bebf052aa4f534d12a"
+        "version": "760b37f71d200643d3e267472e5cc290d38d1a53"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "39e5dde97395dd867981284059e7b902c2b43cca",
-            "sha256": "sha256-nWaPNEC2W7bdlO/BP/UZsrfcQcIOqknUAoudk/OkRGg=",
+            "rev": "1134b895a2f3d4695bce8261b881a402b4245015",
+            "sha256": "sha256-kk9fRzCjDABQSrz3NU3MZpVjxKTvNh+9O0Ygs/jNy6Y=",
             "type": "github"
         },
-        "version": "39e5dde97395dd867981284059e7b902c2b43cca"
+        "version": "1134b895a2f3d4695bce8261b881a402b4245015"
     },
     "rofi-wayland": {
         "cargoLocks": null,
