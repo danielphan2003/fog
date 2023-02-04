@@ -451,16 +451,16 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57";
+    version = "92fa8e1ca5bc7f77bcec01d685c372033cee79e4";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57";
+      rev = "92fa8e1ca5bc7f77bcec01d685c372033cee79e4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QImgSa4zQfSMRwQTy3vwArTtodhubtWfTFtwxH/5dGQ=";
+      sha256 = "sha256-xsQLwkK+ryuIOv7cjRxNDqDbD8zea17fDWxeTMZuyU8=";
     };
-    date = "2023-02-03";
+    date = "2023-02-04";
   };
   flyingfox = {
     pname = "flyingfox";
@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "bd2245d642f700ac736cd8349352917ef5340dbc";
+    version = "a431c1b01c08cdc1c2f030bebf052aa4f534d12a";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "bd2245d642f700ac736cd8349352917ef5340dbc";
+      rev = "a431c1b01c08cdc1c2f030bebf052aa4f534d12a";
       fetchSubmodules = false;
-      sha256 = "sha256-7IkfY+Oe46WWWVAli+IzR2uvgByPffGZGyoM5gty+Ps=";
+      sha256 = "sha256-tJwd+nHtmmfoFvl4vx0YZmFAu/QUM7SXUi8XNEIBDU4=";
     });
     date = "2023-02-04";
   };
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "12fb608c54b5e9f9f2471e1e93c50f9d0e008de3";
+    version = "39e5dde97395dd867981284059e7b902c2b43cca";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "12fb608c54b5e9f9f2471e1e93c50f9d0e008de3";
+      rev = "39e5dde97395dd867981284059e7b902c2b43cca";
       fetchSubmodules = false;
-      sha256 = "sha256-tyKku2vAoO1slHODNUFkSM9yEWyKXL57QsSLYXKMWUg=";
+      sha256 = "sha256-nWaPNEC2W7bdlO/BP/UZsrfcQcIOqknUAoudk/OkRGg=";
     });
     date = "2023-02-04";
   };
@@ -1408,15 +1408,15 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "f9d368e813b6e893feff62c0d783f688b27f3e21";
+    version = "b69e763ad6668ac2abbd2d956441cb6e760381aa";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "f9d368e813b6e893feff62c0d783f688b27f3e21";
+      rev = "b69e763ad6668ac2abbd2d956441cb6e760381aa";
       fetchSubmodules = false;
-      sha256 = "sha256-Koq0REUX4LNPPCl0fKHv5ErY2t+ExtUnSjYIwXa3Hsk=";
+      sha256 = "sha256-YLHMTsjKqm0pHlFBssiYFy6Xjql71MU7f8mF/g6ZWi8=";
     });
-    date = "2023-01-31";
+    date = "2023-02-04";
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";

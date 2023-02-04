@@ -736,7 +736,7 @@
     },
     "fluffychat": {
         "cargoLocks": null,
-        "date": "2023-02-03",
+        "date": "2023-02-04",
         "extract": null,
         "name": "fluffychat",
         "passthru": null,
@@ -746,12 +746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57",
-            "sha256": "sha256-QImgSa4zQfSMRwQTy3vwArTtodhubtWfTFtwxH/5dGQ=",
+            "rev": "92fa8e1ca5bc7f77bcec01d685c372033cee79e4",
+            "sha256": "sha256-xsQLwkK+ryuIOv7cjRxNDqDbD8zea17fDWxeTMZuyU8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "2cab1fb03b8aaab3d14e35dc1d09c7232c818e57"
+        "version": "92fa8e1ca5bc7f77bcec01d685c372033cee79e4"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -872,11 +872,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "bd2245d642f700ac736cd8349352917ef5340dbc",
-            "sha256": "sha256-7IkfY+Oe46WWWVAli+IzR2uvgByPffGZGyoM5gty+Ps=",
+            "rev": "a431c1b01c08cdc1c2f030bebf052aa4f534d12a",
+            "sha256": "sha256-tJwd+nHtmmfoFvl4vx0YZmFAu/QUM7SXUi8XNEIBDU4=",
             "type": "github"
         },
-        "version": "bd2245d642f700ac736cd8349352917ef5340dbc"
+        "version": "a431c1b01c08cdc1c2f030bebf052aa4f534d12a"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "12fb608c54b5e9f9f2471e1e93c50f9d0e008de3",
-            "sha256": "sha256-tyKku2vAoO1slHODNUFkSM9yEWyKXL57QsSLYXKMWUg=",
+            "rev": "39e5dde97395dd867981284059e7b902c2b43cca",
+            "sha256": "sha256-nWaPNEC2W7bdlO/BP/UZsrfcQcIOqknUAoudk/OkRGg=",
             "type": "github"
         },
-        "version": "12fb608c54b5e9f9f2471e1e93c50f9d0e008de3"
+        "version": "39e5dde97395dd867981284059e7b902c2b43cca"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2310,7 +2310,7 @@
     },
     "whitesur-gtk-theme": {
         "cargoLocks": null,
-        "date": "2023-01-31",
+        "date": "2023-02-04",
         "extract": null,
         "name": "whitesur-gtk-theme",
         "passthru": null,
@@ -2322,11 +2322,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "f9d368e813b6e893feff62c0d783f688b27f3e21",
-            "sha256": "sha256-Koq0REUX4LNPPCl0fKHv5ErY2t+ExtUnSjYIwXa3Hsk=",
+            "rev": "b69e763ad6668ac2abbd2d956441cb6e760381aa",
+            "sha256": "sha256-YLHMTsjKqm0pHlFBssiYFy6Xjql71MU7f8mF/g6ZWi8=",
             "type": "github"
         },
-        "version": "f9d368e813b6e893feff62c0d783f688b27f3e21"
+        "version": "b69e763ad6668ac2abbd2d956441cb6e760381aa"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
