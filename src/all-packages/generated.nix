@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8197f47d1b43be68a823d3e7a8ddf2a46652080e";
+    version = "4b5724fa7638255028971f43d811c95a9dd89074";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8197f47d1b43be68a823d3e7a8ddf2a46652080e";
+      rev = "4b5724fa7638255028971f43d811c95a9dd89074";
       fetchSubmodules = false;
-      sha256 = "sha256-GShCcr0rQoOGununABag6hvWlBrDvQoe5i7xu9kjowo=";
+      sha256 = "sha256-0XF50rHU0jCwJbAC8+NLSa21fnyAGRq4nc93Ntn55og=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8197f47d1b43be68a823d3e7a8ddf2a46652080e/Cargo.lock;
+      lockFile = ./rustdesk-4b5724fa7638255028971f43d811c95a9dd89074/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,27 +1034,27 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-02-04";
+    date = "2023-02-05";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "d88e4b5151f86a6c5ae0884520841495d46fbe3e";
+    version = "6a83ffea6296dc83e735edb664cd0a950ca66f69";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "d88e4b5151f86a6c5ae0884520841495d46fbe3e";
+      rev = "6a83ffea6296dc83e735edb664cd0a950ca66f69";
       fetchSubmodules = false;
-      sha256 = "sha256-SAnbrpeQn3AzmesW0tRr5NKY+fOW3oG3wGhYFXUfR/E=";
+      sha256 = "sha256-BK2GNvPTxt6TPlFCLUODb29TeuQ0wsrzYRlXX2FPZd8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-d88e4b5151f86a6c5ae0884520841495d46fbe3e/Cargo.lock;
+      lockFile = ./rustdesk-server-6a83ffea6296dc83e735edb664cd0a950ca66f69/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
         "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
       };
     };
-    date = "2023-02-01";
+    date = "2023-02-05";
   };
   sddm = {
     pname = "sddm";
