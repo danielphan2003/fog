@@ -1891,11 +1891,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "a40e087754e2d2505a390f0237eaffc2c551773e",
-            "sha256": "sha256-GVUISl6FACm29lEX9D+tH52B1gdFA89W+mvv2+ZMzro=",
+            "rev": "00987eb7deee5b0ab962a6b2db3b12633daacc7f",
+            "sha256": "sha256-VmfOzLAPnETRrcKfRuSd1dZwxqaNS1upakio8TQLvlY=",
             "type": "github"
         },
-        "version": "a40e087754e2d2505a390f0237eaffc2c551773e"
+        "version": "00987eb7deee5b0ab962a6b2db3b12633daacc7f"
     },
     "spicetify-themes": {
         "cargoLocks": null,
@@ -2270,7 +2270,7 @@
     },
     "waydroid": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-02-05",
         "extract": null,
         "name": "waydroid",
         "passthru": null,
@@ -2282,11 +2282,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "807341e11081fff4ace066e56f716d1c4471591c",
-            "sha256": "sha256-iXxlVgpZWqzvIN5pjK7U8xOKBTyfLXTOJeT7gOGpma8=",
+            "rev": "ea43140a1c6dedeece9e3addafcb8e5bf28cf710",
+            "sha256": "sha256-ey4pgu2pttrys7E9DA/VjbPolqjN7Wj5xbAnpxNXKe4=",
             "type": "github"
         },
-        "version": "807341e11081fff4ace066e56f716d1c4471591c"
+        "version": "ea43140a1c6dedeece9e3addafcb8e5bf28cf710"
     },
     "wgcf": {
         "cargoLocks": null,

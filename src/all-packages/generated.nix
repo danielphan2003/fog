@@ -1143,13 +1143,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "a40e087754e2d2505a390f0237eaffc2c551773e";
+    version = "00987eb7deee5b0ab962a6b2db3b12633daacc7f";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "a40e087754e2d2505a390f0237eaffc2c551773e";
+      rev = "00987eb7deee5b0ab962a6b2db3b12633daacc7f";
       fetchSubmodules = false;
-      sha256 = "sha256-GVUISl6FACm29lEX9D+tH52B1gdFA89W+mvv2+ZMzro=";
+      sha256 = "sha256-VmfOzLAPnETRrcKfRuSd1dZwxqaNS1upakio8TQLvlY=";
     });
     date = "2023-02-05";
   };
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "807341e11081fff4ace066e56f716d1c4471591c";
+    version = "ea43140a1c6dedeece9e3addafcb8e5bf28cf710";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "807341e11081fff4ace066e56f716d1c4471591c";
+      rev = "ea43140a1c6dedeece9e3addafcb8e5bf28cf710";
       fetchSubmodules = false;
-      sha256 = "sha256-iXxlVgpZWqzvIN5pjK7U8xOKBTyfLXTOJeT7gOGpma8=";
+      sha256 = "sha256-ey4pgu2pttrys7E9DA/VjbPolqjN7Wj5xbAnpxNXKe4=";
     });
-    date = "2023-01-30";
+    date = "2023-02-05";
   };
   wgcf = {
     pname = "wgcf";
