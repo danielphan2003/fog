@@ -224,13 +224,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e62b5fb58619364051551a7ee614fb9949cfe69a";
+    version = "ac83b7e218e3c3eb4ef26922196759434b130786";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e62b5fb58619364051551a7ee614fb9949cfe69a";
+      rev = "ac83b7e218e3c3eb4ef26922196759434b130786";
       fetchSubmodules = false;
-      sha256 = "sha256-PmTxV9w72/MfNfNcTENXPCA7woissfkoNQZBf2e4SpQ=";
+      sha256 = "sha256-KU84RiEqDWc0QAKex0IV8UpLOzFa9wCP8P3cp4JR3KY=";
     });
     date = "2023-02-06";
   };
@@ -1420,13 +1420,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "b387acc6f8d8f0855d78a1f0a2e0a0299a1d2df5";
+    version = "46e9952fb7a41bb8c6838f1f24c56d8a169d3913";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "b387acc6f8d8f0855d78a1f0a2e0a0299a1d2df5";
+      rev = "46e9952fb7a41bb8c6838f1f24c56d8a169d3913";
       fetchSubmodules = false;
-      sha256 = "sha256-2+O+fPhuZ5AjCSUfORFkXOu4b5JO4sbi2XEp1ALs+b8=";
+      sha256 = "sha256-z8t/U+Du9ymgeSVx40QqwYAKbitUsI/rj3SSuo+bC+g=";
     });
     date = "2023-02-07";
   };

@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "e62b5fb58619364051551a7ee614fb9949cfe69a",
-            "sha256": "sha256-PmTxV9w72/MfNfNcTENXPCA7woissfkoNQZBf2e4SpQ=",
+            "rev": "ac83b7e218e3c3eb4ef26922196759434b130786",
+            "sha256": "sha256-KU84RiEqDWc0QAKex0IV8UpLOzFa9wCP8P3cp4JR3KY=",
             "type": "github"
         },
-        "version": "e62b5fb58619364051551a7ee614fb9949cfe69a"
+        "version": "ac83b7e218e3c3eb4ef26922196759434b130786"
     },
     "cinny": {
         "cargoLocks": null,
@@ -2342,11 +2342,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-icon-theme",
-            "rev": "b387acc6f8d8f0855d78a1f0a2e0a0299a1d2df5",
-            "sha256": "sha256-2+O+fPhuZ5AjCSUfORFkXOu4b5JO4sbi2XEp1ALs+b8=",
+            "rev": "46e9952fb7a41bb8c6838f1f24c56d8a169d3913",
+            "sha256": "sha256-z8t/U+Du9ymgeSVx40QqwYAKbitUsI/rj3SSuo+bC+g=",
             "type": "github"
         },
-        "version": "b387acc6f8d8f0855d78a1f0a2e0a0299a1d2df5"
+        "version": "46e9952fb7a41bb8c6838f1f24c56d8a169d3913"
     },
     "widevine-cdm": {
         "cargoLocks": null,
