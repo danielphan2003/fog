@@ -1285,7 +1285,7 @@
     },
     "nwg-drawer": {
         "cargoLocks": null,
-        "date": "2023-01-22",
+        "date": "2023-02-06",
         "extract": null,
         "name": "nwg-drawer",
         "passthru": null,
@@ -1297,11 +1297,11 @@
             "name": null,
             "owner": "nwg-piotr",
             "repo": "nwg-drawer",
-            "rev": "820848d9845592da785fae466742091d8e42767b",
-            "sha256": "sha256-34C0JmsPuDqR3QGmGf14naGOu9xPtPbpdWUvkbilkqs=",
+            "rev": "e383f7a4703f0ea89ab8cd3a2da8a6e3d94b257c",
+            "sha256": "sha256-nqw+EfllDmZRnV+Bn7pYEZchVfOdr+mS1dR0567x7D8=",
             "type": "github"
         },
-        "version": "820848d9845592da785fae466742091d8e42767b"
+        "version": "e383f7a4703f0ea89ab8cd3a2da8a6e3d94b257c"
     },
     "ny-font": {
         "cargoLocks": null,
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-02-05",
+        "date": "2023-02-06",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "a77ada403ebdc48ac45f4da48b498d26b4df6436",
-            "sha256": "sha256-npgFioUxHuib4uJl257ddKa63BWIkk9flfPal+4ldxA=",
+            "rev": "c92213bc9d8c7ba13ce5856f96623f2f2222ba32",
+            "sha256": "sha256-JWAyL2b0QQfFCjD7ZM4GWRosoLnGzBIQRK79SuS+plM=",
             "type": "github"
         },
-        "version": "a77ada403ebdc48ac45f4da48b498d26b4df6436"
+        "version": "c92213bc9d8c7ba13ce5856f96623f2f2222ba32"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-133fba573bea02d9a29b64e879d522f13d331069/Cargo.lock",
+                "./rustdesk-c94081ce131998a34bed363ff66e9efb2ad7c722/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-02-05",
+        "date": "2023-02-06",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "133fba573bea02d9a29b64e879d522f13d331069",
-            "sha256": "sha256-p8pxq43WgHx6y46W6XyzT8L9R4XYONd/N0vyYPNykoE=",
+            "rev": "c94081ce131998a34bed363ff66e9efb2ad7c722",
+            "sha256": "sha256-8H+HJ6SGcKvhhpnQKmoagAqxCsZ1WOcogBmUaC34OFk=",
             "type": "github"
         },
-        "version": "133fba573bea02d9a29b64e879d522f13d331069"
+        "version": "c94081ce131998a34bed363ff66e9efb2ad7c722"
     },
     "rustdesk-server": {
         "cargoLocks": {

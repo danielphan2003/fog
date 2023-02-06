@@ -772,15 +772,15 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "820848d9845592da785fae466742091d8e42767b";
+    version = "e383f7a4703f0ea89ab8cd3a2da8a6e3d94b257c";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "820848d9845592da785fae466742091d8e42767b";
+      rev = "e383f7a4703f0ea89ab8cd3a2da8a6e3d94b257c";
       fetchSubmodules = false;
-      sha256 = "sha256-34C0JmsPuDqR3QGmGf14naGOu9xPtPbpdWUvkbilkqs=";
+      sha256 = "sha256-nqw+EfllDmZRnV+Bn7pYEZchVfOdr+mS1dR0567x7D8=";
     });
-    date = "2023-01-22";
+    date = "2023-02-06";
   };
   ny-font = {
     pname = "ny-font";
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a77ada403ebdc48ac45f4da48b498d26b4df6436";
+    version = "c92213bc9d8c7ba13ce5856f96623f2f2222ba32";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a77ada403ebdc48ac45f4da48b498d26b4df6436";
+      rev = "c92213bc9d8c7ba13ce5856f96623f2f2222ba32";
       fetchSubmodules = false;
-      sha256 = "sha256-npgFioUxHuib4uJl257ddKa63BWIkk9flfPal+4ldxA=";
+      sha256 = "sha256-JWAyL2b0QQfFCjD7ZM4GWRosoLnGzBIQRK79SuS+plM=";
     });
-    date = "2023-02-05";
+    date = "2023-02-06";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "133fba573bea02d9a29b64e879d522f13d331069";
+    version = "c94081ce131998a34bed363ff66e9efb2ad7c722";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "133fba573bea02d9a29b64e879d522f13d331069";
+      rev = "c94081ce131998a34bed363ff66e9efb2ad7c722";
       fetchSubmodules = false;
-      sha256 = "sha256-p8pxq43WgHx6y46W6XyzT8L9R4XYONd/N0vyYPNykoE=";
+      sha256 = "sha256-8H+HJ6SGcKvhhpnQKmoagAqxCsZ1WOcogBmUaC34OFk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-133fba573bea02d9a29b64e879d522f13d331069/Cargo.lock;
+      lockFile = ./rustdesk-c94081ce131998a34bed363ff66e9efb2ad7c722/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,7 +1034,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-02-05";
+    date = "2023-02-06";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
