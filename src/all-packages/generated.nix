@@ -1058,15 +1058,15 @@
   };
   sddm = {
     pname = "sddm";
-    version = "eaf7c51ddc0fe5890cb188d8ca65e5f0fb7b4cd5";
+    version = "a0066e4d17e1463b9fef68483833b6b2ef6d5aef";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "eaf7c51ddc0fe5890cb188d8ca65e5f0fb7b4cd5";
+      rev = "a0066e4d17e1463b9fef68483833b6b2ef6d5aef";
       fetchSubmodules = false;
-      sha256 = "sha256-IYx2mjj5F7FNfEmq/7ynZxV4Wwj3J2kSD2sgyGcrxeY=";
+      sha256 = "sha256-0c+5cT5ryHdUG4rL+FHGie3ZaylqARBjC5ETGuh+gF4=";
     });
-    date = "2023-02-04";
+    date = "2023-02-06";
   };
   sddm-chili = {
     pname = "sddm-chili";
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "ea43140a1c6dedeece9e3addafcb8e5bf28cf710";
+    version = "cde76d770c5237d605a991c7f1240cb04697a4e4";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "ea43140a1c6dedeece9e3addafcb8e5bf28cf710";
+      rev = "cde76d770c5237d605a991c7f1240cb04697a4e4";
       fetchSubmodules = false;
-      sha256 = "sha256-ey4pgu2pttrys7E9DA/VjbPolqjN7Wj5xbAnpxNXKe4=";
+      sha256 = "sha256-/mCJVqQluuSWgEvFd1HHCg8symcZErAVVXM5OA35+4E=";
     });
-    date = "2023-02-05";
+    date = "2023-02-06";
   };
   wgcf = {
     pname = "wgcf";
@@ -1488,10 +1488,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.13.5.431";
+    version = "5.13.7.683";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.13.5.431/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-R0IMV/+R7AGFy/ZvNyyvIBv10t1x1U1X6jdHoo6UHKY=";
+      url = "https://cdn.zoom.us/prod/5.13.7.683/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-1aA3W9eXYhjxr39PoTSAVG7mToFInF7uz8MCiJhk/10=";
     };
   };
 }
