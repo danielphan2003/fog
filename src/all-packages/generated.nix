@@ -224,13 +224,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "ac83b7e218e3c3eb4ef26922196759434b130786";
+    version = "12bcbe2c4924ecbf6730fc340a7a4250bddcc9be";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "ac83b7e218e3c3eb4ef26922196759434b130786";
+      rev = "12bcbe2c4924ecbf6730fc340a7a4250bddcc9be";
       fetchSubmodules = false;
-      sha256 = "sha256-KU84RiEqDWc0QAKex0IV8UpLOzFa9wCP8P3cp4JR3KY=";
+      sha256 = "sha256-qs8yHe0wvT252GKbwE5aoFD5eE5DXXHfrlems6XCqx8=";
     });
     date = "2023-02-06";
   };
@@ -792,21 +792,21 @@
   };
   ouch = {
     pname = "ouch";
-    version = "52ea0fa18b72608557c4139adacaf827a68c2051";
+    version = "e78fee0d48e4bb68f15cb8b1bab60d1a146678c5";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "52ea0fa18b72608557c4139adacaf827a68c2051";
+      rev = "e78fee0d48e4bb68f15cb8b1bab60d1a146678c5";
       fetchSubmodules = false;
-      sha256 = "sha256-mD1USfaDRmZ3UJIbRaFOC+iCdyxtdjfOZMZuBDpcEoY=";
+      sha256 = "sha256-4nD7XFwmWsb1OysCaqQcveA/5u7I3ZXsk6ZlaMGN8xg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-52ea0fa18b72608557c4139adacaf827a68c2051/Cargo.lock;
+      lockFile = ./ouch-e78fee0d48e4bb68f15cb8b1bab60d1a146678c5/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-02-04";
+    date = "2023-02-06";
   };
   paper = {
     pname = "paper";

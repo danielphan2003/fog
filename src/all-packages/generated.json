@@ -383,11 +383,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "ac83b7e218e3c3eb4ef26922196759434b130786",
-            "sha256": "sha256-KU84RiEqDWc0QAKex0IV8UpLOzFa9wCP8P3cp4JR3KY=",
+            "rev": "12bcbe2c4924ecbf6730fc340a7a4250bddcc9be",
+            "sha256": "sha256-qs8yHe0wvT252GKbwE5aoFD5eE5DXXHfrlems6XCqx8=",
             "type": "github"
         },
-        "version": "ac83b7e218e3c3eb4ef26922196759434b130786"
+        "version": "12bcbe2c4924ecbf6730fc340a7a4250bddcc9be"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1321,11 +1321,11 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-52ea0fa18b72608557c4139adacaf827a68c2051/Cargo.lock",
+                "./ouch-e78fee0d48e4bb68f15cb8b1bab60d1a146678c5/Cargo.lock",
                 {}
             ]
         },
-        "date": "2023-02-04",
+        "date": "2023-02-06",
         "extract": null,
         "name": "ouch",
         "passthru": null,
@@ -1337,11 +1337,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "52ea0fa18b72608557c4139adacaf827a68c2051",
-            "sha256": "sha256-mD1USfaDRmZ3UJIbRaFOC+iCdyxtdjfOZMZuBDpcEoY=",
+            "rev": "e78fee0d48e4bb68f15cb8b1bab60d1a146678c5",
+            "sha256": "sha256-4nD7XFwmWsb1OysCaqQcveA/5u7I3ZXsk6ZlaMGN8xg=",
             "type": "github"
         },
-        "version": "52ea0fa18b72608557c4139adacaf827a68c2051"
+        "version": "e78fee0d48e4bb68f15cb8b1bab60d1a146678c5"
     },
     "paper": {
         "cargoLocks": {
