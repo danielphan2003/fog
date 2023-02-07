@@ -467,7 +467,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-06df04f61c86c856cb7308b012a2d27695585862/Cargo.lock",
+                "./conduit-4223288cdfea2897c414f76acb157adbcc3f76bb/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -475,7 +475,7 @@
                 }
             ]
         },
-        "date": "2023-01-27",
+        "date": "2023-02-07",
         "extract": null,
         "name": "conduit",
         "passthru": null,
@@ -485,12 +485,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "06df04f61c86c856cb7308b012a2d27695585862",
-            "sha256": "sha256-pgXAb3ZFh0cPVLED2DkuDxGxMEPRlnMWl5gJG8MOG2c=",
+            "rev": "4223288cdfea2897c414f76acb157adbcc3f76bb",
+            "sha256": "sha256-zoSIBK0b4Hs5mAdtv4OrVVshxVKRaVpkM8I2el2bcmc=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "06df04f61c86c856cb7308b012a2d27695585862"
+        "version": "4223288cdfea2897c414f76acb157adbcc3f76bb"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-438PGGYXbn9EtRKb3GU19+uCAxa4ypzPSCdU89pq+9c=",
+            "sha256": "sha256-HwINBcZ35grPUB97nNoGwO+SStMualqSzjXdLjuWaxE=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-990-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-991-1_all.deb"
         },
-        "version": "1.0-990"
+        "version": "1.0-991"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1007,11 +1007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-albvyMvD5+DrYAZWQ2idNfxhuGD2faqHfuQU6v4Q+MQ=",
+            "sha256": "sha256-G+PrxMvfnHhExvOfQQF+p6oFGrcfciUbD5FeiUdSE+0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-70-g0aa0b1f6-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-71-g17578462-1_all.deb"
         },
-        "version": "2.2-70-g0aa0b1f6"
+        "version": "2.2-71-g17578462"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1747,11 +1747,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "c42bb38036eae02c1fe274a37c5a9b4915146004",
-            "sha256": "sha256-h9XPVCYb7RB+XqyV19klqEhR60HKCTThIOJtbroRmcQ=",
+            "rev": "1198395c9ffc6275721a89df71bdc905b22937d6",
+            "sha256": "sha256-SOWpCQodLWzm+tH3JkvBNX3Go4btlcr/KNl1Zq6C4+Y=",
             "type": "github"
         },
-        "version": "c42bb38036eae02c1fe274a37c5a9b4915146004"
+        "version": "1198395c9ffc6275721a89df71bdc905b22937d6"
     },
     "sddm-chili": {
         "cargoLocks": null,
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-02-06",
+        "date": "2023-02-07",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "59c254579ea63c669ffb3b5031e51288422c5194",
-            "sha256": "sha256-/oU/60kTAZQYXHgcu/+5cE4kF+xjs6AITOUwZyRqy1E=",
+            "rev": "cab2b2b59ec9d97edf5f7f67ea2811ec34429858",
+            "sha256": "sha256-hnq4Bhb93JrolAyI/Vy4+isUjFwEe+l5kkqX7V24TY4=",
             "type": "github"
         },
-        "version": "59c254579ea63c669ffb3b5031e51288422c5194"
+        "version": "cab2b2b59ec9d97edf5f7f67ea2811ec34429858"
     },
     "tailscale-systray": {
         "cargoLocks": null,

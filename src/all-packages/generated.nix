@@ -282,24 +282,24 @@
   };
   conduit = {
     pname = "conduit";
-    version = "06df04f61c86c856cb7308b012a2d27695585862";
+    version = "4223288cdfea2897c414f76acb157adbcc3f76bb";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "06df04f61c86c856cb7308b012a2d27695585862";
+      rev = "4223288cdfea2897c414f76acb157adbcc3f76bb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pgXAb3ZFh0cPVLED2DkuDxGxMEPRlnMWl5gJG8MOG2c=";
+      sha256 = "sha256-zoSIBK0b4Hs5mAdtv4OrVVshxVKRaVpkM8I2el2bcmc=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-06df04f61c86c856cb7308b012a2d27695585862/Cargo.lock;
+      lockFile = ./conduit-4223288cdfea2897c414f76acb157adbcc3f76bb/Cargo.lock;
       outputHashes = {
         "ruma-0.7.4" = "sha256-ztobLdOXSGyK1YcPMMIycO3ZmnjxG5mLkHltf0Fbs8s=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
-    date = "2023-01-27";
+    date = "2023-02-07";
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-990";
+    version = "1.0-991";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-990-1_all.deb";
-      sha256 = "sha256-438PGGYXbn9EtRKb3GU19+uCAxa4ypzPSCdU89pq+9c=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-991-1_all.deb";
+      sha256 = "sha256-HwINBcZ35grPUB97nNoGwO+SStMualqSzjXdLjuWaxE=";
     };
   };
   jitsi-meet = {
@@ -609,10 +609,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-70-g0aa0b1f6";
+    version = "2.2-71-g17578462";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-70-g0aa0b1f6-1_all.deb";
-      sha256 = "sha256-albvyMvD5+DrYAZWQ2idNfxhuGD2faqHfuQU6v4Q+MQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-71-g17578462-1_all.deb";
+      sha256 = "sha256-G+PrxMvfnHhExvOfQQF+p6oFGrcfciUbD5FeiUdSE+0=";
     };
   };
   layout-machi = {
@@ -1058,13 +1058,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "c42bb38036eae02c1fe274a37c5a9b4915146004";
+    version = "1198395c9ffc6275721a89df71bdc905b22937d6";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "c42bb38036eae02c1fe274a37c5a9b4915146004";
+      rev = "1198395c9ffc6275721a89df71bdc905b22937d6";
       fetchSubmodules = false;
-      sha256 = "sha256-h9XPVCYb7RB+XqyV19klqEhR60HKCTThIOJtbroRmcQ=";
+      sha256 = "sha256-SOWpCQodLWzm+tH3JkvBNX3Go4btlcr/KNl1Zq6C4+Y=";
     });
     date = "2023-02-07";
   };
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "59c254579ea63c669ffb3b5031e51288422c5194";
+    version = "cab2b2b59ec9d97edf5f7f67ea2811ec34429858";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "59c254579ea63c669ffb3b5031e51288422c5194";
+      rev = "cab2b2b59ec9d97edf5f7f67ea2811ec34429858";
       fetchSubmodules = false;
-      sha256 = "sha256-/oU/60kTAZQYXHgcu/+5cE4kF+xjs6AITOUwZyRqy1E=";
+      sha256 = "sha256-hnq4Bhb93JrolAyI/Vy4+isUjFwEe+l5kkqX7V24TY4=";
     });
-    date = "2023-02-06";
+    date = "2023-02-07";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
