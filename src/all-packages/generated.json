@@ -977,11 +977,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AsA6i2JGGlEkEcwPSTyf7tMoqFfySYuWiKuX3u2xAk8=",
+            "sha256": "sha256-dgOO/1PtwEQ4tqokYHDzi2PfwYQOOje6WjxuN+zYp0A=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6968.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6970.tar.bz2"
         },
-        "version": "1.0.6968"
+        "version": "1.0.6970"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -992,11 +992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wu4pdAH7GXcHGI/SewbgYHRdop8M6ZgIIHXFENlrIXM=",
+            "sha256": "sha256-qaQF8uwFpKSa7/lJeXgW2ZlHY+K/qg4O4eCIOOwA1BM=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6968-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6970-1_all.deb"
         },
-        "version": "1.0.6968"
+        "version": "1.0.6970"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1735,7 +1735,7 @@
     },
     "sddm": {
         "cargoLocks": null,
-        "date": "2023-02-06",
+        "date": "2023-02-07",
         "extract": null,
         "name": "sddm",
         "passthru": null,
@@ -1747,11 +1747,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "58d5c256911490eabbda429226565728040fab82",
-            "sha256": "sha256-qF/pASM/kpel9A1zqU+kCoaQlGnIVshSDG++eklYREI=",
+            "rev": "c42bb38036eae02c1fe274a37c5a9b4915146004",
+            "sha256": "sha256-h9XPVCYb7RB+XqyV19klqEhR60HKCTThIOJtbroRmcQ=",
             "type": "github"
         },
-        "version": "58d5c256911490eabbda429226565728040fab82"
+        "version": "c42bb38036eae02c1fe274a37c5a9b4915146004"
     },
     "sddm-chili": {
         "cargoLocks": null,
@@ -2322,11 +2322,11 @@
             "name": null,
             "owner": "vinceliuice",
             "repo": "whitesur-gtk-theme",
-            "rev": "06243fa0f00f87fa22bea47c4897a16d8e1211f3",
-            "sha256": "sha256-RGYD2+ZTUTPyFbaHvXU9VD3W6WTNeg3ifY+DAR3MmtI=",
+            "rev": "9bef0f15d8ba62451814725651fa64f98da3466f",
+            "sha256": "sha256-MXIceaDfcWs2xtdINGX6J2f0pMLNFwYzqFu03tKpR00=",
             "type": "github"
         },
-        "version": "06243fa0f00f87fa22bea47c4897a16d8e1211f3"
+        "version": "9bef0f15d8ba62451814725651fa64f98da3466f"
     },
     "whitesur-icon-theme": {
         "cargoLocks": null,
