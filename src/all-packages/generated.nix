@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-991";
+    version = "1.0-992";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-991-1_all.deb";
-      sha256 = "sha256-HwINBcZ35grPUB97nNoGwO+SStMualqSzjXdLjuWaxE=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-992-1_all.deb";
+      sha256 = "sha256-/Mrrmy2XqmBjAFj+5hgPuAiDlqvcWownOUzpLSmdPLc=";
     };
   };
   jitsi-meet = {
@@ -609,10 +609,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-71-g17578462";
+    version = "2.2-73-gd8a8b24e";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-71-g17578462-1_all.deb";
-      sha256 = "sha256-G+PrxMvfnHhExvOfQQF+p6oFGrcfciUbD5FeiUdSE+0=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-73-gd8a8b24e-1_all.deb";
+      sha256 = "sha256-YKfInbNQXxELelPhl+b7BIO5Z4ogl/gZJP/oQJx12a8=";
     };
   };
   layout-machi = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf";
+    version = "3d9c60be7cd7643134827f5e9a0945fe74d25789";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf";
+      rev = "3d9c60be7cd7643134827f5e9a0945fe74d25789";
       fetchSubmodules = false;
-      sha256 = "sha256-pmhX/Zr0m9UxOPdlJZ6NgJmrNVDpTkSmxA4lp8LsahU=";
+      sha256 = "sha256-7HkMwH8x87vIS09+fFU9JG1CjHNmi5ypRy/OYUzt/aU=";
     });
     date = "2023-02-07";
   };
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "cab2b2b59ec9d97edf5f7f67ea2811ec34429858";
+    version = "9be47f789ceb548e4502237aaa6af1736cf96e7d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "cab2b2b59ec9d97edf5f7f67ea2811ec34429858";
+      rev = "9be47f789ceb548e4502237aaa6af1736cf96e7d";
       fetchSubmodules = false;
-      sha256 = "sha256-hnq4Bhb93JrolAyI/Vy4+isUjFwEe+l5kkqX7V24TY4=";
+      sha256 = "sha256-NdwoXIKdf3CwOJ8YGerMeU0aDIUTK1Y5B99ucV72qqo=";
     });
     date = "2023-02-07";
   };

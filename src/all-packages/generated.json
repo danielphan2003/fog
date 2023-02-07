@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HwINBcZ35grPUB97nNoGwO+SStMualqSzjXdLjuWaxE=",
+            "sha256": "sha256-/Mrrmy2XqmBjAFj+5hgPuAiDlqvcWownOUzpLSmdPLc=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-991-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-992-1_all.deb"
         },
-        "version": "1.0-991"
+        "version": "1.0-992"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1007,11 +1007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G+PrxMvfnHhExvOfQQF+p6oFGrcfciUbD5FeiUdSE+0=",
+            "sha256": "sha256-YKfInbNQXxELelPhl+b7BIO5Z4ogl/gZJP/oQJx12a8=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-71-g17578462-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-73-gd8a8b24e-1_all.deb"
         },
-        "version": "2.2-71-g17578462"
+        "version": "2.2-73-gd8a8b24e"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf",
-            "sha256": "sha256-pmhX/Zr0m9UxOPdlJZ6NgJmrNVDpTkSmxA4lp8LsahU=",
+            "rev": "3d9c60be7cd7643134827f5e9a0945fe74d25789",
+            "sha256": "sha256-7HkMwH8x87vIS09+fFU9JG1CjHNmi5ypRy/OYUzt/aU=",
             "type": "github"
         },
-        "version": "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf"
+        "version": "3d9c60be7cd7643134827f5e9a0945fe74d25789"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "cab2b2b59ec9d97edf5f7f67ea2811ec34429858",
-            "sha256": "sha256-hnq4Bhb93JrolAyI/Vy4+isUjFwEe+l5kkqX7V24TY4=",
+            "rev": "9be47f789ceb548e4502237aaa6af1736cf96e7d",
+            "sha256": "sha256-NdwoXIKdf3CwOJ8YGerMeU0aDIUTK1Y5B99ucV72qqo=",
             "type": "github"
         },
-        "version": "cab2b2b59ec9d97edf5f7f67ea2811ec34429858"
+        "version": "9be47f789ceb548e4502237aaa6af1736cf96e7d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
