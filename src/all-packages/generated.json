@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-02-04",
+        "date": "2023-02-06",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "99b9d7a621c8f094f83bf56b716e6d29dbebbc01",
-            "sha256": "sha256-ejI3FLDiT/ixCJRxzcKItsUDTlw2zcQQb5tcUm8BEF0=",
+            "rev": "6d84f3409bfb36ceed207563fac01e7b68423c58",
+            "sha256": "sha256-XSN7XdIHO+0N/MRPA8pUM8ZsU4A0eiEXkBolFgBbiio=",
             "type": "github"
         },
-        "version": "99b9d7a621c8f094f83bf56b716e6d29dbebbc01"
+        "version": "6d84f3409bfb36ceed207563fac01e7b68423c58"
     },
     "tailscale-systray": {
         "cargoLocks": null,
