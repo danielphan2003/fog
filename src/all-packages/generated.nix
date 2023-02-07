@@ -89,15 +89,15 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "82591911670943e629f5bc0a83adb95b2e5909ed";
+    version = "73884850632ffe284f76881786f7d5903b917f58";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "82591911670943e629f5bc0a83adb95b2e5909ed";
+      rev = "73884850632ffe284f76881786f7d5903b917f58";
       fetchSubmodules = false;
-      sha256 = "sha256-HXbtTBEpmxTXuqUyzqfMwAYqCoTYzzPEbJqv59x+ITc=";
+      sha256 = "sha256-ebSx6DaXoGKcCoK6UcDnWvdAW6J2X6pJRPD1Pw7UNOw=";
     });
-    date = "2023-02-05";
+    date = "2023-02-07";
   };
   asusctl = {
     pname = "asusctl";
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c92213bc9d8c7ba13ce5856f96623f2f2222ba32";
+    version = "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c92213bc9d8c7ba13ce5856f96623f2f2222ba32";
+      rev = "3a540f687c4abacfd6713c350ac2c13ae7ac8bdf";
       fetchSubmodules = false;
-      sha256 = "sha256-JWAyL2b0QQfFCjD7ZM4GWRosoLnGzBIQRK79SuS+plM=";
+      sha256 = "sha256-pmhX/Zr0m9UxOPdlJZ6NgJmrNVDpTkSmxA4lp8LsahU=";
     });
-    date = "2023-02-06";
+    date = "2023-02-07";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b2afde4b27e82944250143304529210e6d6ad5aa";
+    version = "086bef41f4aa58cb01d0615ab85af635ebf572e9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b2afde4b27e82944250143304529210e6d6ad5aa";
+      rev = "086bef41f4aa58cb01d0615ab85af635ebf572e9";
       fetchSubmodules = false;
-      sha256 = "sha256-HF1SLoaSzrHcm2p9OnuUfzv2td2VK/gRecusrsHRils=";
+      sha256 = "sha256-vi6/FysalKn+MOrajfV6vSavGq+qx5y6tUI1kCV3us8=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-b2afde4b27e82944250143304529210e6d6ad5aa/Cargo.lock;
+      lockFile = ./rustdesk-086bef41f4aa58cb01d0615ab85af635ebf572e9/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
