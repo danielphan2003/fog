@@ -311,7 +311,7 @@
     },
     "bottles": {
         "cargoLocks": null,
-        "date": "2023-02-04",
+        "date": "2023-02-08",
         "extract": null,
         "name": "bottles",
         "passthru": null,
@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "cde89f07e0281b5277ad2879e2ea1f5afcb3828c",
-            "sha256": "sha256-rBKDj0gpv2BTCEl94HJcXIUTTlWsO0J4oeFb7364mwM=",
+            "rev": "5f17132ef62f75418c34acdedd4f3b0209ba68ad",
+            "sha256": "sha256-VINcxcuDasUe5KVjj4q2WEh9J6LtARk5qhgyVjTgauA=",
             "type": "github"
         },
-        "version": "cde89f07e0281b5277ad2879e2ea1f5afcb3828c"
+        "version": "5f17132ef62f75418c34acdedd4f3b0209ba68ad"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1007,11 +1007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YKfInbNQXxELelPhl+b7BIO5Z4ogl/gZJP/oQJx12a8=",
+            "sha256": "sha256-VXM51Ky7DtdfBURBVz/zg4IxSAZfWWOdNgpmtP6yFds=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-73-gd8a8b24e-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-74-ge3a2ae20-1_all.deb"
         },
-        "version": "2.2-73-gd8a8b24e"
+        "version": "2.2-74-ge3a2ae20"
     },
     "layout-machi": {
         "cargoLocks": null,
