@@ -202,13 +202,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "v2.6.2";
+    version = "v2.6.3";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "v2.6.2";
+      rev = "v2.6.3";
       fetchSubmodules = false;
-      sha256 = "sha256-Tbf6RB3106OEZGc/Wx7vk+I82Z8/Q3WqnID4f8uZ6z0=";
+      sha256 = "sha256-YH+lo6gKqmhu1/3HZdWXnxTXaUwC8To+OCmGpji6i3k=";
     });
   };
   caddy-dist = {
@@ -696,10 +696,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "110.0.1587.35";
+    version = "110.0.1587.40";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.35-1_amd64.deb";
-      sha256 = "sha256-svYGtOmLtVW/Zb6UYCMkCgt4BVP5HaLPeNerD2/heRE=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_110.0.1587.40-1_amd64.deb";
+      sha256 = "sha256-seFunfGPva/Qvp7B9i+Z7Owegsn5+RuWzy/CxcNXHww=";
     };
   };
   microsoft-edge-dev = {
@@ -1057,13 +1057,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c";
+    version = "ecada673716d89bcc9649196d4455e028b619c47";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c";
+      rev = "ecada673716d89bcc9649196d4455e028b619c47";
       fetchSubmodules = false;
-      sha256 = "sha256-fxNSICeugulAMz/RtRlbDIUVy2OiVTZrwuwVqn4Ni+4=";
+      sha256 = "sha256-zHsnjbo/pIHEmTaDFgi56kcrpbbBRUqVqPgopkY6w9g=";
     });
     date = "2023-02-08";
   };
