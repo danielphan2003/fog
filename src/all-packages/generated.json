@@ -391,7 +391,7 @@
     },
     "cinny": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-02-08",
         "extract": null,
         "name": "cinny",
         "passthru": null,
@@ -403,11 +403,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "44318d1ecd19700f010079d0836db7955fc23005",
-            "sha256": "sha256-pD8NlrcCHdNmznOQTMmFAlb18V+/ERvlqzfX9nyuIa0=",
+            "rev": "78951a3bc4fe499e68b2d709cdfb46e23b187e01",
+            "sha256": "sha256-brwbkHB8Kph296L5NN9/4HjHbsu1g/QLc3LhTpPDe90=",
             "type": "github"
         },
-        "version": "44318d1ecd19700f010079d0836db7955fc23005"
+        "version": "78951a3bc4fe499e68b2d709cdfb46e23b187e01"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -427,11 +427,11 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-1c9e9ed1fa498e6f3bda82f78b6ff44806121619/src-tauri/Cargo.lock",
+                "./cinny-desktop-23a74aaa7a3949eb0de69051960bde7e1299e0ce/src-tauri/Cargo.lock",
                 {}
             ]
         },
-        "date": "2023-01-30",
+        "date": "2023-02-08",
         "extract": null,
         "name": "cinny-desktop",
         "passthru": null,
@@ -443,11 +443,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "1c9e9ed1fa498e6f3bda82f78b6ff44806121619",
-            "sha256": "sha256-oqUiEkCl175ZT+wdJ63j9D8TGq6TSDY+bUh2UGhgP1Q=",
+            "rev": "23a74aaa7a3949eb0de69051960bde7e1299e0ce",
+            "sha256": "sha256-bH5Jee5RhbQpOp6OV7M2fC1mREiyyx+yCF5FWLdYQfI=",
             "type": "github"
         },
-        "version": "1c9e9ed1fa498e6f3bda82f78b6ff44806121619"
+        "version": "23a74aaa7a3949eb0de69051960bde7e1299e0ce"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9be47f789ceb548e4502237aaa6af1736cf96e7d",
-            "sha256": "sha256-NdwoXIKdf3CwOJ8YGerMeU0aDIUTK1Y5B99ucV72qqo=",
+            "rev": "f0f2b2e22bf13e6f27d437468839471e90cc0417",
+            "sha256": "sha256-cK500Oyp9LGWpPmq+K3TURvuJOvC1MAlQ8bgF/jO0+g=",
             "type": "github"
         },
-        "version": "9be47f789ceb548e4502237aaa6af1736cf96e7d"
+        "version": "f0f2b2e22bf13e6f27d437468839471e90cc0417"
     },
     "tailscale-systray": {
         "cargoLocks": null,

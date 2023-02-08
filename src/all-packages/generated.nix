@@ -236,15 +236,15 @@
   };
   cinny = {
     pname = "cinny";
-    version = "44318d1ecd19700f010079d0836db7955fc23005";
+    version = "78951a3bc4fe499e68b2d709cdfb46e23b187e01";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "44318d1ecd19700f010079d0836db7955fc23005";
+      rev = "78951a3bc4fe499e68b2d709cdfb46e23b187e01";
       fetchSubmodules = false;
-      sha256 = "sha256-pD8NlrcCHdNmznOQTMmFAlb18V+/ERvlqzfX9nyuIa0=";
+      sha256 = "sha256-brwbkHB8Kph296L5NN9/4HjHbsu1g/QLc3LhTpPDe90=";
     });
-    date = "2023-01-30";
+    date = "2023-02-08";
   };
   cinny-bin = {
     pname = "cinny-bin";
@@ -256,21 +256,21 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "1c9e9ed1fa498e6f3bda82f78b6ff44806121619";
+    version = "23a74aaa7a3949eb0de69051960bde7e1299e0ce";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "1c9e9ed1fa498e6f3bda82f78b6ff44806121619";
+      rev = "23a74aaa7a3949eb0de69051960bde7e1299e0ce";
       fetchSubmodules = true;
-      sha256 = "sha256-oqUiEkCl175ZT+wdJ63j9D8TGq6TSDY+bUh2UGhgP1Q=";
+      sha256 = "sha256-bH5Jee5RhbQpOp6OV7M2fC1mREiyyx+yCF5FWLdYQfI=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-1c9e9ed1fa498e6f3bda82f78b6ff44806121619/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-23a74aaa7a3949eb0de69051960bde7e1299e0ce/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
     };
-    date = "2023-01-30";
+    date = "2023-02-08";
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9be47f789ceb548e4502237aaa6af1736cf96e7d";
+    version = "f0f2b2e22bf13e6f27d437468839471e90cc0417";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9be47f789ceb548e4502237aaa6af1736cf96e7d";
+      rev = "f0f2b2e22bf13e6f27d437468839471e90cc0417";
       fetchSubmodules = false;
-      sha256 = "sha256-NdwoXIKdf3CwOJ8YGerMeU0aDIUTK1Y5B99ucV72qqo=";
+      sha256 = "sha256-cK500Oyp9LGWpPmq+K3TURvuJOvC1MAlQ8bgF/jO0+g=";
     });
     date = "2023-02-07";
   };
