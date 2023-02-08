@@ -1666,10 +1666,9 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce/Cargo.lock",
+                "./rustdesk-563225e9d7763927e5b42563b1876872f80df194/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
-                    "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
                     "hwcodec-0.1.0": "sha256-d/u20YHGteK6ONHgIL+xrJ8UVUvwiK/DZ1F3MzRc8SU=",
                     "impersonate_system-0.1.0": "sha256-qbaTw9gxMKDjX5pKdUrKlmIxCxWwb99YuWPDvD2A3kY=",
@@ -1698,11 +1697,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce",
-            "sha256": "sha256-m2t8KR7fsnjuarEBy6NkdNQeWuEr2qWff1M8hnO4QJI=",
+            "rev": "563225e9d7763927e5b42563b1876872f80df194",
+            "sha256": "sha256-vqwTkCVD3VZy/bFb9vnMyHS57Wekk1SMekaT6q/C/bY=",
             "type": "github"
         },
-        "version": "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce"
+        "version": "563225e9d7763927e5b42563b1876872f80df194"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1735,7 +1734,7 @@
     },
     "sddm": {
         "cargoLocks": null,
-        "date": "2023-02-07",
+        "date": "2023-02-08",
         "extract": null,
         "name": "sddm",
         "passthru": null,
@@ -1747,11 +1746,11 @@
             "name": null,
             "owner": "sddm",
             "repo": "sddm",
-            "rev": "1198395c9ffc6275721a89df71bdc905b22937d6",
-            "sha256": "sha256-SOWpCQodLWzm+tH3JkvBNX3Go4btlcr/KNl1Zq6C4+Y=",
+            "rev": "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c",
+            "sha256": "sha256-fxNSICeugulAMz/RtRlbDIUVy2OiVTZrwuwVqn4Ni+4=",
             "type": "github"
         },
-        "version": "1198395c9ffc6275721a89df71bdc905b22937d6"
+        "version": "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c"
     },
     "sddm-chili": {
         "cargoLocks": null,

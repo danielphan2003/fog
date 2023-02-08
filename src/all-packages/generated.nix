@@ -1006,18 +1006,17 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce";
+    version = "563225e9d7763927e5b42563b1876872f80df194";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce";
+      rev = "563225e9d7763927e5b42563b1876872f80df194";
       fetchSubmodules = false;
-      sha256 = "sha256-m2t8KR7fsnjuarEBy6NkdNQeWuEr2qWff1M8hnO4QJI=";
+      sha256 = "sha256-vqwTkCVD3VZy/bFb9vnMyHS57Wekk1SMekaT6q/C/bY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce/Cargo.lock;
+      lockFile = ./rustdesk-563225e9d7763927e5b42563b1876872f80df194/Cargo.lock;
       outputHashes = {
-        "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-Laah+4iRf0pN13TZaNJKXj8ty28o75mD5VNhVn05el4=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1058,15 +1057,15 @@
   };
   sddm = {
     pname = "sddm";
-    version = "1198395c9ffc6275721a89df71bdc905b22937d6";
+    version = "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "1198395c9ffc6275721a89df71bdc905b22937d6";
+      rev = "eb4a7d564cd9385d089ec9ff4ce68042d31ee93c";
       fetchSubmodules = false;
-      sha256 = "sha256-SOWpCQodLWzm+tH3JkvBNX3Go4btlcr/KNl1Zq6C4+Y=";
+      sha256 = "sha256-fxNSICeugulAMz/RtRlbDIUVy2OiVTZrwuwVqn4Ni+4=";
     });
-    date = "2023-02-07";
+    date = "2023-02-08";
   };
   sddm-chili = {
     pname = "sddm-chili";
