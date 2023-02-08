@@ -224,15 +224,15 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c77a6bea66b30ea88cd991671bf67669c80ffcdd";
+    version = "536c28d4dc4b048d710bd37903857f0de15ab3c5";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c77a6bea66b30ea88cd991671bf67669c80ffcdd";
+      rev = "536c28d4dc4b048d710bd37903857f0de15ab3c5";
       fetchSubmodules = false;
-      sha256 = "sha256-b6/p44coGlXmT4r+hzh3xNQojsdhfTm4DKXtEiXwiDs=";
+      sha256 = "sha256-3GVqgTRod2i7sg66eanat1O9rJouugOcU/Ej3gdBpcw=";
     });
-    date = "2023-02-06";
+    date = "2023-02-08";
   };
   cinny = {
     pname = "cinny";
@@ -1383,15 +1383,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "ca5edc76bd970073a486fc1bc02d15cfd43682b4";
+    version = "865e041af854e3f63eb8f72eb7aa4f5075e0b866";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "ca5edc76bd970073a486fc1bc02d15cfd43682b4";
+      rev = "865e041af854e3f63eb8f72eb7aa4f5075e0b866";
       fetchSubmodules = false;
-      sha256 = "sha256-QBx8OHXQv4QelsTAefdZnPVE5U3ldRZyQoEs4CA1DGU=";
+      sha256 = "sha256-zm5CIJd4FBWHRVNT4ObuznI6+8+ACqunQ1g35OcESno=";
     });
-    date = "2023-02-07";
+    date = "2023-02-08";
   };
   wgcf = {
     pname = "wgcf";
