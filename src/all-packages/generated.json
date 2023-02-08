@@ -543,11 +543,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5GiG+RGqwHUdIeSVWpbaIw3sTuZbvIQeetXSEvSqTls=",
+            "sha256": "sha256-+JNg7AgGatGaE+c37yl4C+jF8+Ckx0QhGOuvEn6j1bE=",
             "type": "url",
-            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.146/discord-canary-0.0.146.tar.gz"
+            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.147/discord-canary-0.0.147.tar.gz"
         },
-        "version": "0.0.146"
+        "version": "0.0.147"
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
@@ -800,7 +800,7 @@
     },
     "fx_cast": {
         "cargoLocks": null,
-        "date": "2023-01-07",
+        "date": "2023-02-08",
         "extract": null,
         "name": "fx_cast",
         "passthru": null,
@@ -812,11 +812,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "1e4575790fef9b8af220908aec5aa327071d8623",
-            "sha256": "sha256-/+Tqkb8ERWZlVsBmEsjQNIO0uOFRkJStqD9qTBxjwE8=",
+            "rev": "2ee580afef2a72565610b3f4455a795b22f69b1c",
+            "sha256": "sha256-QGx8tVlc8SHmfp0gYnaHw2CbH80/mLUf5XZd8t5bOPA=",
             "type": "github"
         },
-        "version": "1e4575790fef9b8af220908aec5aa327071d8623"
+        "version": "2ee580afef2a72565610b3f4455a795b22f69b1c"
     },
     "godu": {
         "cargoLocks": null,
@@ -1625,7 +1625,7 @@
     },
     "retroarch": {
         "cargoLocks": null,
-        "date": "2023-02-07",
+        "date": "2023-02-08",
         "extract": null,
         "name": "retroarch",
         "passthru": null,
@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3d9c60be7cd7643134827f5e9a0945fe74d25789",
-            "sha256": "sha256-7HkMwH8x87vIS09+fFU9JG1CjHNmi5ypRy/OYUzt/aU=",
+            "rev": "e1eb0af45a10933b38b93370d376f855fb3cc3cb",
+            "sha256": "sha256-okm72BiwHP94ragwRGwxgHbBKmPOiQCcMybQ+jOKNvs=",
             "type": "github"
         },
-        "version": "3d9c60be7cd7643134827f5e9a0945fe74d25789"
+        "version": "e1eb0af45a10933b38b93370d376f855fb3cc3cb"
     },
     "rofi-wayland": {
         "cargoLocks": null,

@@ -329,10 +329,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.146";
+    version = "0.0.147";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.146/discord-canary-0.0.146.tar.gz";
-      sha256 = "sha256-5GiG+RGqwHUdIeSVWpbaIw3sTuZbvIQeetXSEvSqTls=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.147/discord-canary-0.0.147.tar.gz";
+      sha256 = "sha256-+JNg7AgGatGaE+c37yl4C+jF8+Ckx0QhGOuvEn6j1bE=";
     };
   };
   dnscrypt-proxy2 = {
@@ -494,15 +494,15 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "1e4575790fef9b8af220908aec5aa327071d8623";
+    version = "2ee580afef2a72565610b3f4455a795b22f69b1c";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "1e4575790fef9b8af220908aec5aa327071d8623";
+      rev = "2ee580afef2a72565610b3f4455a795b22f69b1c";
       fetchSubmodules = false;
-      sha256 = "sha256-/+Tqkb8ERWZlVsBmEsjQNIO0uOFRkJStqD9qTBxjwE8=";
+      sha256 = "sha256-QGx8tVlc8SHmfp0gYnaHw2CbH80/mLUf5XZd8t5bOPA=";
     });
-    date = "2023-01-07";
+    date = "2023-02-08";
   };
   godu = {
     pname = "godu";
@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3d9c60be7cd7643134827f5e9a0945fe74d25789";
+    version = "e1eb0af45a10933b38b93370d376f855fb3cc3cb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3d9c60be7cd7643134827f5e9a0945fe74d25789";
+      rev = "e1eb0af45a10933b38b93370d376f855fb3cc3cb";
       fetchSubmodules = false;
-      sha256 = "sha256-7HkMwH8x87vIS09+fFU9JG1CjHNmi5ypRy/OYUzt/aU=";
+      sha256 = "sha256-okm72BiwHP94ragwRGwxgHbBKmPOiQCcMybQ+jOKNvs=";
     });
-    date = "2023-02-07";
+    date = "2023-02-08";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
