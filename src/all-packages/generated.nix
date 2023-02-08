@@ -1037,16 +1037,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "7e307a5a1cc8cad6eaf2449309c0afbaa687024c";
+    version = "6ec46cb95faf4cf6d9e142290d36c3935e7cfd8a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "7e307a5a1cc8cad6eaf2449309c0afbaa687024c";
+      rev = "6ec46cb95faf4cf6d9e142290d36c3935e7cfd8a";
       fetchSubmodules = false;
-      sha256 = "sha256-C8oZjIG/8pcdtlhP+OF+hMiZY/CPnkYI9gDFOxAA+rk=";
+      sha256 = "sha256-RVLNui4+vHagq0XkKVEjXeHdGMeugFBTAv0nIn1vFGk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-7e307a5a1cc8cad6eaf2449309c0afbaa687024c/Cargo.lock;
+      lockFile = ./rustdesk-server-6ec46cb95faf4cf6d9e142290d36c3935e7cfd8a/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
@@ -1419,15 +1419,15 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "46e9952fb7a41bb8c6838f1f24c56d8a169d3913";
+    version = "b8acec9dd708689a76504d79307e102228e78fdb";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "46e9952fb7a41bb8c6838f1f24c56d8a169d3913";
+      rev = "b8acec9dd708689a76504d79307e102228e78fdb";
       fetchSubmodules = false;
-      sha256 = "sha256-z8t/U+Du9ymgeSVx40QqwYAKbitUsI/rj3SSuo+bC+g=";
+      sha256 = "sha256-bGFxp48yk1DfJ7DMsSe3oeZfUekh/I51nSPBdG1bLc0=";
     });
-    date = "2023-02-07";
+    date = "2023-02-08";
   };
   widevine-cdm = {
     pname = "widevine-cdm";
