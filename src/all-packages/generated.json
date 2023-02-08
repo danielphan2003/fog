@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c79eca281fab43b4557db5d850fa81f9f2c3fe53/Cargo.lock",
+                "./rustdesk-ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "default-net-0.11.0": "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=",
@@ -1686,7 +1686,7 @@
                 }
             ]
         },
-        "date": "2023-02-07",
+        "date": "2023-02-08",
         "extract": null,
         "name": "rustdesk",
         "passthru": null,
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c79eca281fab43b4557db5d850fa81f9f2c3fe53",
-            "sha256": "sha256-5eXB9cx40JzgNRWCX/cOYrLuEfRwHhnZIrSivcFo5Po=",
+            "rev": "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce",
+            "sha256": "sha256-m2t8KR7fsnjuarEBy6NkdNQeWuEr2qWff1M8hnO4QJI=",
             "type": "github"
         },
-        "version": "c79eca281fab43b4557db5d850fa81f9f2c3fe53"
+        "version": "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1859,7 +1859,7 @@
     },
     "spicetify-cli": {
         "cargoLocks": null,
-        "date": "2023-01-30",
+        "date": "2023-02-08",
         "extract": null,
         "name": "spicetify-cli",
         "passthru": null,
@@ -1871,11 +1871,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "a582ddc7a2843e5b78aeb54f0f67566c4010acaa",
-            "sha256": "sha256-Pq8HjmWSfBgieSJejrlw+FiRdq9NxryYPcw++Pdjsuk=",
+            "rev": "d5cc68f1147b7ce80150fa039b2d8f44d39fc948",
+            "sha256": "sha256-9wh+fgiq9eYraEtLQOku9TlXP6wd7uV8Bs1kcraiYhA=",
             "type": "github"
         },
-        "version": "a582ddc7a2843e5b78aeb54f0f67566c4010acaa"
+        "version": "d5cc68f1147b7ce80150fa039b2d8f44d39fc948"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,

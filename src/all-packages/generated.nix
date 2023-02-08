@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c79eca281fab43b4557db5d850fa81f9f2c3fe53";
+    version = "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c79eca281fab43b4557db5d850fa81f9f2c3fe53";
+      rev = "ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce";
       fetchSubmodules = false;
-      sha256 = "sha256-5eXB9cx40JzgNRWCX/cOYrLuEfRwHhnZIrSivcFo5Po=";
+      sha256 = "sha256-m2t8KR7fsnjuarEBy6NkdNQeWuEr2qWff1M8hnO4QJI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c79eca281fab43b4557db5d850fa81f9f2c3fe53/Cargo.lock;
+      lockFile = ./rustdesk-ae8956eaeb8442fcaf9d407fe7aa83677c5b92ce/Cargo.lock;
       outputHashes = {
         "default-net-0.11.0" = "sha256-Hjc5Abd/D8k/SQjjyVr0u+Gf1WpxjIc2r7tmcHshm7M=";
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
@@ -1034,7 +1034,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-02-07";
+    date = "2023-02-08";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1131,15 +1131,15 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "a582ddc7a2843e5b78aeb54f0f67566c4010acaa";
+    version = "d5cc68f1147b7ce80150fa039b2d8f44d39fc948";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "a582ddc7a2843e5b78aeb54f0f67566c4010acaa";
+      rev = "d5cc68f1147b7ce80150fa039b2d8f44d39fc948";
       fetchSubmodules = false;
-      sha256 = "sha256-Pq8HjmWSfBgieSJejrlw+FiRdq9NxryYPcw++Pdjsuk=";
+      sha256 = "sha256-9wh+fgiq9eYraEtLQOku9TlXP6wd7uV8Bs1kcraiYhA=";
     });
-    date = "2023-01-30";
+    date = "2023-02-08";
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
