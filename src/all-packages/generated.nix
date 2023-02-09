@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "4ea4efb871997a245539cae9d966ec8f07d3e907";
+    version = "68f56130baeff33707fc44d4fc21c5f334ef7e41";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "4ea4efb871997a245539cae9d966ec8f07d3e907";
+      rev = "68f56130baeff33707fc44d4fc21c5f334ef7e41";
       fetchSubmodules = false;
-      sha256 = "sha256-acvcQqPl0khHjIDfpmy+jrnj/CMQWgvrVlAB50yD6q8=";
+      sha256 = "sha256-WzPWzQxBbSWN0vZoYwtIf7pdprGne2X7ANTgLmYJo8I=";
     });
     date = "2023-02-09";
   };
@@ -593,26 +593,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6974";
+    version = "1.0.6975";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6974.tar.bz2";
-      sha256 = "sha256-pZyEXRzmQidUAQ4YiLm8j2wpx401Z15o7ESbcskNUds=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6975.tar.bz2";
+      sha256 = "sha256-uwfIpx2/MI4J63jAjAus5x76379sOyMo/9YDwiNfiV0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6974";
+    version = "1.0.6975";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6974-1_all.deb";
-      sha256 = "sha256-6yiFqLEx8I1zjqkd7zzxN1VKPL3Qnx4KkfaL6Y6XCsk=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6975-1_all.deb";
+      sha256 = "sha256-d+FnXsDsTG+uyrck2hZ8gEZ1US8BbQyUmUX2dB4p8U8=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-74-ge3a2ae20";
+    version = "2.2-75-gef54a156";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-74-ge3a2ae20-1_all.deb";
-      sha256 = "sha256-VXM51Ky7DtdfBURBVz/zg4IxSAZfWWOdNgpmtP6yFds=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-75-gef54a156-1_all.deb";
+      sha256 = "sha256-Mee+lYns0xYJz2yB/LxOL8EVP9OdNFr8LHzjqOjw5pE=";
     };
   };
   layout-machi = {
