@@ -593,18 +593,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6972";
+    version = "1.0.6974";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6972.tar.bz2";
-      sha256 = "sha256-P7Q82n3YuGWWEnMz55uvkNb5sWBhNB/d4n+BLJIHIRg=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6974.tar.bz2";
+      sha256 = "sha256-pZyEXRzmQidUAQ4YiLm8j2wpx401Z15o7ESbcskNUds=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6972";
+    version = "1.0.6974";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6972-1_all.deb";
-      sha256 = "sha256-wE28PIJS1/Ia9SNRBo48zybfaVZsg2Xxp1BnN2s0e50=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6974-1_all.deb";
+      sha256 = "sha256-6yiFqLEx8I1zjqkd7zzxN1VKPL3Qnx4KkfaL6Y6XCsk=";
     };
   };
   jitsi-videobridge2 = {
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "fcd1f9b4a3758112098108e563f429a7897576d8";
+    version = "f7643077d339accf11896d9be4e1d876e0c88f99";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "fcd1f9b4a3758112098108e563f429a7897576d8";
+      rev = "f7643077d339accf11896d9be4e1d876e0c88f99";
       fetchSubmodules = false;
-      sha256 = "sha256-iPgfpU8PT9ISyQGA7mQqO+ix/gF+5ZAUlPtXC6RMEiI=";
+      sha256 = "sha256-34bFeYDDa24qXl0/q0l329vopUWXbFHG2rzXv9e+78M=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-fcd1f9b4a3758112098108e563f429a7897576d8/Cargo.lock;
+      lockFile = ./rustdesk-f7643077d339accf11896d9be4e1d876e0c88f99/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-Laah+4iRf0pN13TZaNJKXj8ty28o75mD5VNhVn05el4=";
@@ -1028,6 +1028,7 @@
         "hwcodec-0.1.0" = "sha256-d/u20YHGteK6ONHgIL+xrJ8UVUvwiK/DZ1F3MzRc8SU=";
         "mouce-0.2.1" = "sha256-3PtNEmVMXgqKV4r3KiKTkk4oyCt4BKynniJREE+RyFk=";
         "rdev-0.5.0-2" = "sha256-iBdPeVTuU3QNpI//C35BIzyNr6QmYVEOYX7kVLbi2sQ=";
+        "tao-0.17.0" = "sha256-hjIy6qhyCeW0Uge2/LlHZrw7Glc7CSmK1dFS7BlJhJU=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-NWYobxN2X18f0l8GmLB9dULm+GZD04mI03EvRy05K10=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
