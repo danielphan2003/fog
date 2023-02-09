@@ -593,10 +593,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6970";
+    version = "1.0.6971";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6970.tar.bz2";
-      sha256 = "sha256-dgOO/1PtwEQ4tqokYHDzi2PfwYQOOje6WjxuN+zYp0A=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6971.tar.bz2";
+      sha256 = "sha256-cHmjmB4h+IpUU2Lor+hlfyP8z6AOOccmLeSH+YP5Uag=";
     };
   };
   jitsi-meet-prosody = {
@@ -1057,15 +1057,15 @@
   };
   sddm = {
     pname = "sddm";
-    version = "ecada673716d89bcc9649196d4455e028b619c47";
+    version = "0a54d3abbb896d652bac7a495ed98b0617306a6c";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "ecada673716d89bcc9649196d4455e028b619c47";
+      rev = "0a54d3abbb896d652bac7a495ed98b0617306a6c";
       fetchSubmodules = false;
-      sha256 = "sha256-zHsnjbo/pIHEmTaDFgi56kcrpbbBRUqVqPgopkY6w9g=";
+      sha256 = "sha256-sS9HK/u78AFdPXjcybN3qA+koAN/fd1oLW7VkqqrvVQ=";
     });
-    date = "2023-02-08";
+    date = "2023-02-09";
   };
   sddm-chili = {
     pname = "sddm-chili";
