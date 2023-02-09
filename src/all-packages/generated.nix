@@ -530,15 +530,15 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "859d6b9b8a961669c814632bbc7a1a9d94556551";
+    version = "48c86ad863017226503e02ceb2113415beb69c81";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "859d6b9b8a961669c814632bbc7a1a9d94556551";
+      rev = "48c86ad863017226503e02ceb2113415beb69c81";
       fetchSubmodules = false;
-      sha256 = "sha256-jsLMiTuOlTwkXM7RK4zyNo6Z7VnAE0qer13imaGEIxQ=";
+      sha256 = "sha256-QEqA4nIJ23QByp5yy83E1x3/a8EgorqTnrzfjSCjyaI=";
     });
-    date = "2023-02-08";
+    date = "2023-02-09";
   };
   ibus = {
     pname = "ibus";
@@ -601,10 +601,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6970";
+    version = "1.0.6971";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6970-1_all.deb";
-      sha256 = "sha256-qaQF8uwFpKSa7/lJeXgW2ZlHY+K/qg4O4eCIOOwA1BM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6971-1_all.deb";
+      sha256 = "sha256-10+brCfKiDe/tAd1dqIQ/9/xNur4Ts0HrjEl5bcMJ80=";
     };
   };
   jitsi-videobridge2 = {
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "ea7748a25d9dee1ea72537218f8b432c04397514";
+    version = "4f25b03a10a41adf3220a35944b99cfc6ff6ea61";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "ea7748a25d9dee1ea72537218f8b432c04397514";
+      rev = "4f25b03a10a41adf3220a35944b99cfc6ff6ea61";
       fetchSubmodules = false;
-      sha256 = "sha256-IifFrb6NOHRTBZldpXVh04Rrz317fOy6OvIn9QG83ug=";
+      sha256 = "sha256-UPbAB4SlUW9xeTlmLSgpnG3bHbSUnhIOUj0fdK67/As=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-ea7748a25d9dee1ea72537218f8b432c04397514/Cargo.lock;
+      lockFile = ./rustdesk-4f25b03a10a41adf3220a35944b99cfc6ff6ea61/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-Laah+4iRf0pN13TZaNJKXj8ty28o75mD5VNhVn05el4=";
