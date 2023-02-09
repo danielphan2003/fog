@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/Mrrmy2XqmBjAFj+5hgPuAiDlqvcWownOUzpLSmdPLc=",
+            "sha256": "sha256-DPB8eemRZCC5Nalx9pHXaKpr0p7l3AU5zr3t1i4UExY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-992-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-993-1_all.deb"
         },
-        "version": "1.0-992"
+        "version": "1.0-993"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "33f29a1532fefb660465512506359fe50d50a85a",
-            "sha256": "sha256-6hfYpnylQL+Yv1y0rD4KMORwSMSvMlAox5Oc5ePC69Y=",
+            "rev": "6799ef838f51c7b1fe2aa4ac721057296cd8f9ea",
+            "sha256": "sha256-OVCBbRsg6r00D6j6GT6L/LpK7Q8f+2kOWkto1kpz3L8=",
             "type": "github"
         },
-        "version": "33f29a1532fefb660465512506359fe50d50a85a"
+        "version": "6799ef838f51c7b1fe2aa4ac721057296cd8f9ea"
     },
     "tailscale-systray": {
         "cargoLocks": null,
