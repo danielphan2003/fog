@@ -982,15 +982,15 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e1eb0af45a10933b38b93370d376f855fb3cc3cb";
+    version = "35bc011197343a6fc870cab248e9c6571f74d46e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e1eb0af45a10933b38b93370d376f855fb3cc3cb";
+      rev = "35bc011197343a6fc870cab248e9c6571f74d46e";
       fetchSubmodules = false;
-      sha256 = "sha256-okm72BiwHP94ragwRGwxgHbBKmPOiQCcMybQ+jOKNvs=";
+      sha256 = "sha256-jme5d+WRVR2YFS+4Jx1nAP52xCtOn0P9xXD74Pu3bdk=";
     });
-    date = "2023-02-08";
+    date = "2023-02-09";
   };
   rofi-wayland = {
     pname = "rofi-wayland";
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6a0a067bddfe80caa376e6d14d45393a19086276";
+    version = "85dc3b0e586fa8ca35ac729fb03fd71019f9772a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6a0a067bddfe80caa376e6d14d45393a19086276";
+      rev = "85dc3b0e586fa8ca35ac729fb03fd71019f9772a";
       fetchSubmodules = false;
-      sha256 = "sha256-KvBvGsqlPneVak6ZlXvpGzrdpgbk9akD7Umh86t81Aw=";
+      sha256 = "sha256-C2hk3C2G3PR0ua/JDIALtgJKfwVhney7fXm2JNrrBRY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6a0a067bddfe80caa376e6d14d45393a19086276/Cargo.lock;
+      lockFile = ./rustdesk-85dc3b0e586fa8ca35ac729fb03fd71019f9772a/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-Laah+4iRf0pN13TZaNJKXj8ty28o75mD5VNhVn05el4=";
@@ -1033,7 +1033,7 @@
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
       };
     };
-    date = "2023-02-08";
+    date = "2023-02-09";
   };
   rustdesk-server = {
     pname = "rustdesk-server";
@@ -1273,13 +1273,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2f4df30c75d329873a1b63c04f8df3db6096fa84";
+    version = "89bd414be64098d4e7a7ff2b3800c4aad9066cd0";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2f4df30c75d329873a1b63c04f8df3db6096fa84";
+      rev = "89bd414be64098d4e7a7ff2b3800c4aad9066cd0";
       fetchSubmodules = false;
-      sha256 = "sha256-FC4w5Jr/KyknsJ++RIyTQ9TWnZvA70+zu3xBJgNztEg=";
+      sha256 = "sha256-XHiurlt98S5PXIqTKqLcuf2EE9Srptj1uf8gQGKw4Go=";
     });
     date = "2023-02-08";
   };
