@@ -551,7 +551,7 @@
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
-        "date": "2023-02-07",
+        "date": "2023-02-09",
         "extract": null,
         "name": "dnscrypt-proxy2",
         "passthru": null,
@@ -563,11 +563,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "9f3ef735f283a90d97b041a4d1d6bf8f866fe6ef",
-            "sha256": "sha256-98DeCrDp0TmPCSvOrJ7KgIQZBR2K1fFJrmNccZ7nSug=",
+            "rev": "07b4ec33c55e44a77f630f0865e9b082b48b8510",
+            "sha256": "sha256-z3lb2o+QOF9UL0ymS6VnpIcj7VRlkN+LgaMWyBYvcgc=",
             "type": "github"
         },
-        "version": "9f3ef735f283a90d97b041a4d1d6bf8f866fe6ef"
+        "version": "07b4ec33c55e44a77f630f0865e9b082b48b8510"
     },
     "doggo": {
         "cargoLocks": null,
