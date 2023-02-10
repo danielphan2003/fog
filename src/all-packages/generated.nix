@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d1a7f1dd368517854fdcc12a9bdd189578eef435";
+    version = "42f4664022352c6432271916b40d24c40a4bfce1";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d1a7f1dd368517854fdcc12a9bdd189578eef435";
+      rev = "42f4664022352c6432271916b40d24c40a4bfce1";
       fetchSubmodules = false;
-      sha256 = "sha256-69qM/WTB/8jv6NtKeEPsAo5GIGcG4HF8FuVLhV9PogE=";
+      sha256 = "sha256-IhBhQd5T+1c+kN1t5LoqxhZ4EhK8Hfhs21Ckhh+qQgw=";
     });
     date = "2023-02-10";
   };
@@ -585,10 +585,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-993";
+    version = "1.0-994";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-993-1_all.deb";
-      sha256 = "sha256-DPB8eemRZCC5Nalx9pHXaKpr0p7l3AU5zr3t1i4UExY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-994-1_all.deb";
+      sha256 = "sha256-nO4HGOFaY0n1SGtQry9koUMYl/VdX5tiEaMQ5F2IEes=";
     };
   };
   jitsi-meet = {
@@ -609,10 +609,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-76-g4bbb81e2";
+    version = "2.2-77-g7c6b457b";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-76-g4bbb81e2-1_all.deb";
-      sha256 = "sha256-mgRyhLC15wtHtwCcpJ5Ve35y4DhhZg4EtTotAO+U+g0=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-77-g7c6b457b-1_all.deb";
+      sha256 = "sha256-vtFKT6LetGD2PFpZf9zWPMqFNMXKB9LbCArgNXN/vpg=";
     };
   };
   layout-machi = {
@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "824c1dea8ca2c9fcbfe7e1f7dbb978757ca4ed81";
+    version = "35860b4d47ab76f12ebf400ac3e0ec0df8706506";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "824c1dea8ca2c9fcbfe7e1f7dbb978757ca4ed81";
+      rev = "35860b4d47ab76f12ebf400ac3e0ec0df8706506";
       fetchSubmodules = false;
-      sha256 = "sha256-I+rjK0tQRkJae5ArJY3FlDbMxWIL7pjG9LorK/XMWNI=";
+      sha256 = "sha256-Ifi2lQ6tVx+Ey0WDeahhvk3LrTR+93kmLcVcRaWOCFI=";
     });
     date = "2023-02-10";
   };
