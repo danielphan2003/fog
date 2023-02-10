@@ -543,11 +543,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+JNg7AgGatGaE+c37yl4C+jF8+Ckx0QhGOuvEn6j1bE=",
+            "sha256": "sha256-2ZrSDyPj3AHriCWZ/bb303H3J97TTun//WjmInNEmwk=",
             "type": "url",
-            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.147/discord-canary-0.0.147.tar.gz"
+            "url": "https://dl-canary.discordapp.net/apps/linux/0.0.148/discord-canary-0.0.148.tar.gz"
         },
-        "version": "0.0.147"
+        "version": "0.0.148"
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
@@ -1645,7 +1645,7 @@
     },
     "rofi-wayland": {
         "cargoLocks": null,
-        "date": "2023-02-10",
+        "date": "2023-02-11",
         "extract": null,
         "name": "rofi-wayland",
         "passthru": null,
@@ -1657,11 +1657,11 @@
             "name": null,
             "owner": "lbonn",
             "repo": "rofi",
-            "rev": "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62",
-            "sha256": "sha256-kM4JnJGVQwpbQRd4gS8GF44oFD0Q2cmUbyd2CRUMKNA=",
+            "rev": "f8bec1453c94a114f366efbfab12fb3b7856a1ab",
+            "sha256": "sha256-+aLQjLPRaJY2+/Ilc76u52U561pI2Ta0GvfirhLJP8U=",
             "type": "github"
         },
-        "version": "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62"
+        "version": "f8bec1453c94a114f366efbfab12fb3b7856a1ab"
     },
     "rustdesk": {
         "cargoLocks": {

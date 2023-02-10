@@ -329,10 +329,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.147";
+    version = "0.0.148";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.147/discord-canary-0.0.147.tar.gz";
-      sha256 = "sha256-+JNg7AgGatGaE+c37yl4C+jF8+Ckx0QhGOuvEn6j1bE=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.148/discord-canary-0.0.148.tar.gz";
+      sha256 = "sha256-2ZrSDyPj3AHriCWZ/bb303H3J97TTun//WjmInNEmwk=";
     };
   };
   dnscrypt-proxy2 = {
@@ -994,15 +994,15 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62";
+    version = "f8bec1453c94a114f366efbfab12fb3b7856a1ab";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62";
+      rev = "f8bec1453c94a114f366efbfab12fb3b7856a1ab";
       fetchSubmodules = true;
-      sha256 = "sha256-kM4JnJGVQwpbQRd4gS8GF44oFD0Q2cmUbyd2CRUMKNA=";
+      sha256 = "sha256-+aLQjLPRaJY2+/Ilc76u52U561pI2Ta0GvfirhLJP8U=";
     });
-    date = "2023-02-10";
+    date = "2023-02-11";
   };
   rustdesk = {
     pname = "rustdesk";
