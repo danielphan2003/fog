@@ -530,13 +530,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "42f4664022352c6432271916b40d24c40a4bfce1";
+    version = "bda8208aaa3d7eb9f14d49691b919f8f2e9f5594";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "42f4664022352c6432271916b40d24c40a4bfce1";
+      rev = "bda8208aaa3d7eb9f14d49691b919f8f2e9f5594";
       fetchSubmodules = false;
-      sha256 = "sha256-IhBhQd5T+1c+kN1t5LoqxhZ4EhK8Hfhs21Ckhh+qQgw=";
+      sha256 = "sha256-wUfFD5kZ4+MSX92Zruy/W64m7E5CzORfiVdLOuyJ15o=";
     });
     date = "2023-02-10";
   };
@@ -994,15 +994,15 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "5d4a3e14788945a9a1c7d18993151a3b00649373";
+    version = "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "5d4a3e14788945a9a1c7d18993151a3b00649373";
+      rev = "93b2a1ad33bcf21fc4eb1713c19ac9b290cd0a62";
       fetchSubmodules = true;
-      sha256 = "sha256-mtvFfUOMWSlMtFuYCY5bCOcEHmflwScVk3/NDEYzDSo=";
+      sha256 = "sha256-kM4JnJGVQwpbQRd4gS8GF44oFD0Q2cmUbyd2CRUMKNA=";
     });
-    date = "2022-12-27";
+    date = "2023-02-10";
   };
   rustdesk = {
     pname = "rustdesk";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "da75e49223910080d2aaa0a0b0716d4b79a5045a";
+    version = "2ca6dd1f1d339e3c28f1113d7b50e188b4e5f5a6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "da75e49223910080d2aaa0a0b0716d4b79a5045a";
+      rev = "2ca6dd1f1d339e3c28f1113d7b50e188b4e5f5a6";
       fetchSubmodules = false;
-      sha256 = "sha256-FolsqDlOu/Q5VuXzRqbvMlqllDFXQBdTk3IRpLcXcIk=";
+      sha256 = "sha256-aNGyEC46MSOracJ43F6r7mT6O5M47kyosEpuzz5KwDg=";
     });
     date = "2023-02-10";
   };
@@ -1384,15 +1384,15 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "865e041af854e3f63eb8f72eb7aa4f5075e0b866";
+    version = "59917a632597c9bdb885a7b47a71cd106c8d7cc8";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "865e041af854e3f63eb8f72eb7aa4f5075e0b866";
+      rev = "59917a632597c9bdb885a7b47a71cd106c8d7cc8";
       fetchSubmodules = false;
-      sha256 = "sha256-zm5CIJd4FBWHRVNT4ObuznI6+8+ACqunQ1g35OcESno=";
+      sha256 = "sha256-ENqcKt29MEILAuLBnaYm+OlsYSY9whtyYxGGRiub8bU=";
     });
-    date = "2023-02-08";
+    date = "2023-02-10";
   };
   wgcf = {
     pname = "wgcf";
