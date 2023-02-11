@@ -311,7 +311,7 @@
     },
     "bottles": {
         "cargoLocks": null,
-        "date": "2023-02-09",
+        "date": "2023-02-11",
         "extract": null,
         "name": "bottles",
         "passthru": null,
@@ -323,11 +323,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "71a2ca7a38d58fdbf9fbf738e26dde589bd23f40",
-            "sha256": "sha256-9W6l9ZIWlO7Q1jJfLg7a40jch4wjjyN3S+2JbXYPsps=",
+            "rev": "bfa8d25e8a336aecaf694722ea954d1f4142b8b0",
+            "sha256": "sha256-JUBXPl42Kw0elMIp4xbdyDHl/2U1Wl2kB3HjUAuzWEo=",
             "type": "github"
         },
-        "version": "71a2ca7a38d58fdbf9fbf738e26dde589bd23f40"
+        "version": "bfa8d25e8a336aecaf694722ea954d1f4142b8b0"
     },
     "caddy": {
         "cargoLocks": null,
@@ -551,7 +551,7 @@
     },
     "dnscrypt-proxy2": {
         "cargoLocks": null,
-        "date": "2023-02-09",
+        "date": "2023-02-11",
         "extract": null,
         "name": "dnscrypt-proxy2",
         "passthru": null,
@@ -563,11 +563,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "07b4ec33c55e44a77f630f0865e9b082b48b8510",
-            "sha256": "sha256-z3lb2o+QOF9UL0ymS6VnpIcj7VRlkN+LgaMWyBYvcgc=",
+            "rev": "acc25fcefb8c0cd7324c3ceef20ea1fb7cd5c9ef",
+            "sha256": "sha256-bmQrFEK2mt5WaW7PYn/BGSzWkC9Hlj4WidkZw0zNjy8=",
             "type": "github"
         },
-        "version": "07b4ec33c55e44a77f630f0865e9b082b48b8510"
+        "version": "acc25fcefb8c0cd7324c3ceef20ea1fb7cd5c9ef"
     },
     "doggo": {
         "cargoLocks": null,
@@ -800,7 +800,7 @@
     },
     "fx_cast": {
         "cargoLocks": null,
-        "date": "2023-02-08",
+        "date": "2023-02-11",
         "extract": null,
         "name": "fx_cast",
         "passthru": null,
@@ -812,11 +812,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "2ee580afef2a72565610b3f4455a795b22f69b1c",
-            "sha256": "sha256-QGx8tVlc8SHmfp0gYnaHw2CbH80/mLUf5XZd8t5bOPA=",
+            "rev": "55eb58b8b8dfe527520437d062ee4b83d8a66eee",
+            "sha256": "sha256-5ouw9F7tKouroMiThnJdwpwormOg8w53sLbk6JNIy9c=",
             "type": "github"
         },
-        "version": "2ee580afef2a72565610b3f4455a795b22f69b1c"
+        "version": "55eb58b8b8dfe527520437d062ee4b83d8a66eee"
     },
     "godu": {
         "cargoLocks": null,
