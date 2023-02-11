@@ -1657,11 +1657,11 @@
             "name": null,
             "owner": "lbonn",
             "repo": "rofi",
-            "rev": "f8bec1453c94a114f366efbfab12fb3b7856a1ab",
-            "sha256": "sha256-+aLQjLPRaJY2+/Ilc76u52U561pI2Ta0GvfirhLJP8U=",
+            "rev": "fd764eb0363d02dc477c9ff65ac2ca4c15413ccd",
+            "sha256": "sha256-3quPfPjPBd3rVCLhI4XBH8qxNiYRwmYbT+p/aEOBBEQ=",
             "type": "github"
         },
-        "version": "f8bec1453c94a114f366efbfab12fb3b7856a1ab"
+        "version": "fd764eb0363d02dc477c9ff65ac2ca4c15413ccd"
     },
     "rustdesk": {
         "cargoLocks": {
