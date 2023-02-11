@@ -1637,11 +1637,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "1ec036fb91759071eccf3e0b71aa82f0a93b61bf",
-            "sha256": "sha256-1Pta5Htkuy/Ll5FaaYhnR2n7vtiOOORjgIPVQryehGI=",
+            "rev": "e8152870f623448b125f9e0c423f3491676c2903",
+            "sha256": "sha256-JINOGmrnVhwl2mlXOVsZ/3wgWqhGI3NInv8bXepYJ3g=",
             "type": "github"
         },
-        "version": "1ec036fb91759071eccf3e0b71aa82f0a93b61bf"
+        "version": "e8152870f623448b125f9e0c423f3491676c2903"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1666,7 +1666,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99/Cargo.lock",
+                "./rustdesk-f54e26687eb65c305decdde4b4550e13df459d37/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1698,11 +1698,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99",
-            "sha256": "sha256-OBAYJez/c9mHyJ5dB8haNxLJaLxYE99wfpzj9hHMrMs=",
+            "rev": "f54e26687eb65c305decdde4b4550e13df459d37",
+            "sha256": "sha256-JtE4JjvJuR2vBDS9JSl5y+LsavU3jkEsHyv8OCGA+kc=",
             "type": "github"
         },
-        "version": "d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99"
+        "version": "f54e26687eb65c305decdde4b4550e13df459d37"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2083,7 +2083,7 @@
     },
     "tailscale": {
         "cargoLocks": null,
-        "date": "2023-02-10",
+        "date": "2023-02-11",
         "extract": null,
         "name": "tailscale",
         "passthru": null,
@@ -2095,11 +2095,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439",
-            "sha256": "sha256-N4er8voQDmOIFvvG5x/6hwsOACGSC1TItyLQ1R/rkoM=",
+            "rev": "b64d900f0ffb56a176dcce62cb1363bcbdc8b4f0",
+            "sha256": "sha256-Pq7Qn2jI3TFmEc5pSGakY7zpeFBriqHA7G4XrzwULl0=",
             "type": "github"
         },
-        "version": "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439"
+        "version": "b64d900f0ffb56a176dcce62cb1363bcbdc8b4f0"
     },
     "tailscale-systray": {
         "cargoLocks": null,

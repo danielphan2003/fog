@@ -982,13 +982,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1ec036fb91759071eccf3e0b71aa82f0a93b61bf";
+    version = "e8152870f623448b125f9e0c423f3491676c2903";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1ec036fb91759071eccf3e0b71aa82f0a93b61bf";
+      rev = "e8152870f623448b125f9e0c423f3491676c2903";
       fetchSubmodules = false;
-      sha256 = "sha256-1Pta5Htkuy/Ll5FaaYhnR2n7vtiOOORjgIPVQryehGI=";
+      sha256 = "sha256-JINOGmrnVhwl2mlXOVsZ/3wgWqhGI3NInv8bXepYJ3g=";
     });
     date = "2023-02-11";
   };
@@ -1006,16 +1006,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99";
+    version = "f54e26687eb65c305decdde4b4550e13df459d37";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99";
+      rev = "f54e26687eb65c305decdde4b4550e13df459d37";
       fetchSubmodules = false;
-      sha256 = "sha256-OBAYJez/c9mHyJ5dB8haNxLJaLxYE99wfpzj9hHMrMs=";
+      sha256 = "sha256-JtE4JjvJuR2vBDS9JSl5y+LsavU3jkEsHyv8OCGA+kc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-d416d7d9658abfd5cd3ab954c9cb34d1a3e41b99/Cargo.lock;
+      lockFile = ./rustdesk-f54e26687eb65c305decdde4b4550e13df459d37/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "tfc-0.6.1" = "sha256-Laah+4iRf0pN13TZaNJKXj8ty28o75mD5VNhVn05el4=";
@@ -1274,15 +1274,15 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439";
+    version = "b64d900f0ffb56a176dcce62cb1363bcbdc8b4f0";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439";
+      rev = "b64d900f0ffb56a176dcce62cb1363bcbdc8b4f0";
       fetchSubmodules = false;
-      sha256 = "sha256-N4er8voQDmOIFvvG5x/6hwsOACGSC1TItyLQ1R/rkoM=";
+      sha256 = "sha256-Pq7Qn2jI3TFmEc5pSGakY7zpeFBriqHA7G4XrzwULl0=";
     });
-    date = "2023-02-10";
+    date = "2023-02-11";
   };
   tailscale-systray = {
     pname = "tailscale-systray";
