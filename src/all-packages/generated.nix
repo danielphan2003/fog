@@ -47,21 +47,21 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "84830103936b3a59085381e7155480a86575ceca";
+    version = "bf437663af22ba6492fc738d3e1bdf6d6cc2a00a";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "84830103936b3a59085381e7155480a86575ceca";
+      rev = "bf437663af22ba6492fc738d3e1bdf6d6cc2a00a";
       fetchSubmodules = false;
-      sha256 = "sha256-2g8WkId7Sy98QjMD4n9h2xTCUQTjk/rnoTba8nU/3bE=";
+      sha256 = "sha256-iqEzwi34E6lPcaDyvzNbc6KH2uuQzouJ6K2MbhPdK1c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./age-plugin-yubikey-84830103936b3a59085381e7155480a86575ceca/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-bf437663af22ba6492fc738d3e1bdf6d6cc2a00a/Cargo.lock;
       outputHashes = {
         "yubikey-0.7.0" = "sha256-H8qFvbsArqnJbFUww3X3aUg7cvH0dEJrPs3a+s6y8QE=";
       };
     };
-    date = "2023-01-29";
+    date = "2023-02-11";
   };
   anime-downloader = {
     pname = "anime-downloader";
@@ -1274,13 +1274,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "fa932fefe7ba1c826231171418bf1b6de9884649";
+    version = "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "fa932fefe7ba1c826231171418bf1b6de9884649";
+      rev = "9e6b4d7ad8b9045ebadf77fae578e0d9e9f7d439";
       fetchSubmodules = false;
-      sha256 = "sha256-IuGQ0nqQcr+aUUvdIOMqeXAfNGtxdM9z/44M7q774JE=";
+      sha256 = "sha256-N4er8voQDmOIFvvG5x/6hwsOACGSC1TItyLQ1R/rkoM=";
     });
     date = "2023-02-10";
   };
