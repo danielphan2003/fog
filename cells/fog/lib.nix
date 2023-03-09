@@ -6,5 +6,5 @@
   inherit (inputs) nixpkgs;
 in {
   callSource = path: override:
-    import path ({inherit (nixpkgs) fetchgit fetchurl fetchFromGitHub;} // override);
+    import path ({inherit (nixpkgs) fetchgit fetchurl fetchFromGitHub dockerTools;} // override);
 }
